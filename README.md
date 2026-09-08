@@ -19,6 +19,12 @@ de Internet Archive.
 3. Se reescribieron los enlaces absolutos a `trincheracuba.com` y al CDN `i*.wp.com` como rutas
    relativas, de modo que el sitio se puede navegar abriendo `index.html` en el navegador o
    publicándolo con GitHub Pages.
+4. Los enlaces a recursos que Internet Archive no tenía se dejaron apuntando al Wayback Machine
+   (`https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/...`).
+5. Algunos archivos venían comprimidos en gzip tal cual los guardó el archivo; se descomprimieron.
+6. A 75 páginas les faltaba una hoja de estilo agregada por el plugin Autoptimize (cada versión
+   tiene un hash distinto y no todas se archivaron); se sustituyó por la versión archivada
+   equivalente más usada, así que esas páginas se ven con el mismo tema.
 
 ## Estructura
 
@@ -32,8 +38,10 @@ de Internet Archive.
 
 - Es una copia estática: buscador, comentarios, formularios y el área de administración de
   WordPress no funcionan.
-- Solo está lo que Internet Archive llegó a capturar. Algunos recursos nunca fueron archivados
-  (por ejemplo, el logotipo `wp-content/uploads/2018/01/Logo--e1533234718419.png`), y esos
-  enlaces se dejaron apuntando al dominio original.
+- Solo está lo que Internet Archive llegó a capturar. Nunca se archivaron, por ejemplo, el
+  logotipo `wp-content/uploads/2018/01/Logo--e1533234718419.png`, las páginas de autor
+  (`/author/hayesmartinez/`), el feed de comentarios y unas pocas imágenes de artículos.
+  Esos enlaces apuntan al Wayback Machine.
+- Las variantes de página con parámetros (`?shared=email`, `?replytocom=`) se omitieron a propósito.
 - Los recursos externos (Google Fonts, widgets de WordPress.com, Facebook, YouTube, etc.)
   siguen apuntando a sus servidores originales.
