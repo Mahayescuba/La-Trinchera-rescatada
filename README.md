@@ -57,3 +57,32 @@ la primera pasada figuraban como perdidos.
   no existen en ninguna copia accesible de Internet Archive, bajo ninguno de los dos dominios.
 - El dominio `desdetutrinchera.com` sigue vivo pero está protegido por Cloudflare, así que no se
   puede acceder a su contenido en vivo desde este entorno.
+
+## Tercera tanda: rescate desde reposts, Medium y Telegram
+
+De los 111 artículos que no estaban en ningún archivo web, se recuperaron **17 más** desde
+copias externas accesibles (ver `articulos-rescatados.html`):
+
+- **Reposts de terceros**: rebelión (rebelion.org) y La Joven Cuba, que republicaron con permiso
+  varios textos, sobre todo los de economía y marxismo de Miguel Alejandro Hayes.
+- **Espejo en Medium** del propio medio (`medium.com/la-trinchera-ahora`).
+- **Versiones Telegraph** que La Trinchera publicaba en su canal de Telegram (`t.me/trincheracuba`)
+  como vista instantánea de cada artículo.
+
+Cada artículo rescatado se guardó como página propia con una nota de procedencia y el enlace a su
+fuente. El texto es el que devolvió literalmente cada copia, sin resumir ni completar nada.
+
+Quedan **94 artículos irrecuperables** (`articulos-no-recuperados.md`): sin archivo web, sin repost
+accesible y sin espejo en Telegram. El sitio sucesor sigue vivo pero tras Cloudflare, inaccesible
+desde este entorno.
+
+### Balance final del rescate
+
+De los ~1.000 artículos publicados por La Trinchera:
+
+- **753** rescatados del Internet Archive (dominio original).
+- **136** rescatados del Internet Archive (dominio sucesor `desdetutrinchera.com`).
+- **17** rescatados de reposts, Medium y Telegram.
+- **94** sin copia accesible en ninguna parte.
+
+Total recuperado: **906 de ~1.000 artículos (más del 90 %).**

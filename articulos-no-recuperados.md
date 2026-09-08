@@ -1,14 +1,13 @@
 # Artículos no recuperados
 
-Estos 111 artículos de La Trinchera no existen en ninguna copia accesible: ni en el Internet Archive (bajo el dominio original `trincheracuba.com` ni bajo el posterior `desdetutrinchera.com`), ni en feeds RSS archivados. El dominio nuevo sigue vivo pero está tras Cloudflare y no es accesible desde aquí.
+Quedan **94** artículos de La Trinchera sin recuperar. No existen en ningún archivo web (ni bajo `trincheracuba.com` ni bajo `desdetutrinchera.com`), no aparecen reposteados con texto completo en ningún tercero accesible (rebelión, La Joven Cuba, etc.), y no tienen espejo en el canal de Telegram / Telegraph del propio medio. El sitio sucesor sigue vivo pero tras Cloudflare, inaccesible desde aquí.
 
-Se listan por su identificador de URL (slug), que es lo único que sobrevive, en el mapa del sitio.
+Se listan por su identificador de URL (slug).
 
 - `3-1-cual-empresa-estatal-socialista`
 - `aceleracion`
 - `ana-lia-y-la-fabrica-de-traumas`
 - `aprender-a-mentir-cuba`
-- `bad-bunny-intelectual-organico`
 - `blog-la-trinchera-1`
 - `capataz-y-esclavo`
 - `cardenal-de-la-habana`
@@ -31,18 +30,12 @@ Se listan por su identificador de URL (slug), que es lo único que sobrevive, en
 - `de-evolucion-anckla`
 - `de-la-teoria-de-la-argumentacion`
 - `declaracion-consejo-de-direccion-universidad-oriente`
-- `derecho-a-la-informacion-veraz`
 - `derrota`
 - `desazon-sida`
 - `dialectica-y-matematica`
 - `dialogo-marxismo-estalinismo`
-- `diferencias-entre-marx-y-engels-i`
 - `disidencia-en-cuba`
-- `doble-moneda-problema`
-- `el-dilema-etico-y-el-derecho-de-los-medios`
-- `el-mercado-en-el-socialismo`
 - `el-perro-la-pantera-y-el-mono`
-- `es-la-iglesia-un-movimiento-social`
 - `estoicismo`
 - `estrategia-economica-en-cuba`
 - `fallece-enrique-colina`
@@ -53,11 +46,8 @@ Se listan por su identificador de URL (slug), que es lo único que sobrevive, en
 - `homenaje-a-marta-harnecker`
 - `homenaje-a-marx`
 - `imaginando-una-entrevista-a-roberto`
-- `imaginar-otra-cuba`
-- `integracion-e-interes-comun`
 - `izquierda-argentina`
 - `izquierda-y-derecha-en-america-latina`
-- `jose-marti-la-elocuencia-la-transparencia-y-la-sinceridad`
 - `la-anciana-pablo-dussac`
 - `la-apuesta`
 - `la-globalizacion-no-es-reversible`
@@ -65,10 +55,7 @@ Se listan por su identificador de URL (slug), que es lo único que sobrevive, en
 - `la-trinchera-abierta-enero`
 - `la-verdad-sancho-panza`
 - `la-vida-del-hombre-y-la-sociedad`
-- `las-culpas-de-mi-hermano-el-vago`
-- `lcb2-la-otra-guerra-contra-una-imagen-de-dios`
 - `leonardo-padura-sender-escobar`
-- `life-in-plastic-its-fantastic`
 - `los-lobos`
 - `los-sujetos-en-la-continuidad`
 - `los-surfistas-del-asfalto`
@@ -80,7 +67,6 @@ Se listan por su identificador de URL (slug), que es lo único que sobrevive, en
 - `marxismo-leninismo-imperialismo`
 - `mayo-del-68`
 - `mi-parchis-anckla`
-- `mike-porcel-y-la-iglesia-de-los-desterrados`
 - `neologicamente-incorrecto`
 - `no-one-meets-someone`
 - `notas-sobre-la-corrupcion`
@@ -88,11 +74,9 @@ Se listan por su identificador de URL (slug), que es lo único que sobrevive, en
 - `otra-mujer`
 - `pedro-junco-lopez`
 - `politica-monetaria-y-cambiaria-en-cuba`
-- `precio-de-produccion-y-cuota-media-de-ganancia`
 - `primera-declaracion`
 - `primera-trinchera-abierta`
 - `primero-de-mayo-cuba`
-- `quien-es-yusuam-2`
 - `reclamaciones-eua-cuba`
 - `reforma-constitucional-en-cuba-1`
 - `reforma-de-la-constitucion-en-cuba-2`
@@ -100,7 +84,6 @@ Se listan por su identificador de URL (slug), que es lo único que sobrevive, en
 - `rescatar-a-marti`
 - `respuesta-hayes-martinez-2`
 - `sector-agropecuario-en-cuba`
-- `sobre-los-descuentos-de-datos-moviles-nocturnos`
 - `solucion-a-la-agricultura-cubana`
 - `tan-solo-una-opinion-personal`
 - `tengo-tres-amores`
