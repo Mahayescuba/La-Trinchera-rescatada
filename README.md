@@ -86,22 +86,19 @@ entrada, lo que permitió emparejar cada texto con su artículo sin ambigüedad.
 
 Estos artículos se guardaron como páginas propias con nota de procedencia (ver
 `articulos-rescatados.html`). El texto es el que traía el correo, sin resumir ni completar.
+
 ### Balance final del rescate
 
 De los ~1.000 artículos publicados por La Trinchera:
 
-- **753** rescatados del Internet Archive (dominio original `trincheracuba.com`).
-- **136** rescatados del Internet Archive (dominio sucesor `desdetutrinchera.com`).
-- **101** rescatados de copias externas: sobre todo los correos de notificación de WordPress
-  guardados en el Gmail del administrador (84, con el texto completo de cada entrada), más reposts
-  de terceros, Medium y las versiones Telegraph del canal de Telegram (17). Ver `articulos-rescatados.html`.
-- **10** sin copia accesible en ninguna parte.
+- **753** del Internet Archive (dominio original `trincheracuba.com`).
+- **136** del Internet Archive (dominio sucesor `desdetutrinchera.com`).
+- **105** de copias externas: sobre todo los correos de notificación de WordPress del Gmail
+  del administrador (88, con el texto completo), más reposts, Medium y Telegraph (17).
+- **6** sin copia accesible.
 
-Total recuperado: **990 de ~1.000 artículos (99 %).**
+Total recuperado: **994 de ~1.000 artículos (99 %).**
 
-Los 10 que faltan (`articulos-no-recuperados.md`) no están en ningún archivo web, nadie los reposteó
-con texto completo, no tienen espejo en Telegram, y en el correo del administrador solo existe de
-ellos un aviso de resumen o de «me gusta», nunca la notificación con el cuerpo completo. El sitio
-sucesor sigue vivo pero tras Cloudflare y con su API deshabilitada, así que no son accesibles desde
-este entorno. La vía para cerrarlos sería una exportación (XML) desde el panel de WordPress del sitio.
-
+Los 6 que faltan (`articulos-no-recuperados.md`): de cada uno el buzón solo guarda un aviso de
+«me gusta» o un extracto, nunca el texto completo; y no hay copia en archivo web ni repost accesible.
+La vía para cerrarlos sería una exportación XML desde el panel de WordPress del sitio.
