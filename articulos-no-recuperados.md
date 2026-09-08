@@ -1,44 +1,14 @@
 # Artículos no recuperados
 
-Quedan **40** artículos de La Trinchera sin recuperar. No están en ningún archivo web (ni `trincheracuba.com` ni `desdetutrinchera.com`), no aparecen reposteados con texto completo en ningún tercero accesible, no tienen espejo en el canal de Telegram del medio, y no se encontró su correo de notificación de WordPress en la bandeja del administrador. El sitio sucesor sigue vivo pero tras Cloudflare, inaccesible desde aquí.
+Quedan **10** artículos de La Trinchera sin recuperar. No están en ningún archivo web, no fueron reposteados con texto completo en un tercero accesible, no tienen espejo en Telegram, y en el correo del administrador solo existe de ellos un aviso de resumen o de "me gusta", nunca la notificación con el texto completo. El sitio sucesor sigue vivo pero tras Cloudflare y con su API deshabilitada.
 
 - `3-1-cual-empresa-estatal-socialista`
 - `aceleracion`
-- `blog-la-trinchera-1`
-- `cardenal-de-la-habana`
-- `carmelo-mesa-lago-3`
-- `censura-en-cuba-2`
-- `cine-porno`
-- `concepcion-de-mercado-de-jorge-luis-acanda`
-- `constitucion`
-- `constitucion-cubana-y-socialismo`
-- `constitucion-y-poder-en-cuba`
 - `cuba-producir-importar-resolver-producir-economia-cubana-covid-19`
-- `de-evolucion-anckla`
-- `declaracion-consejo-de-direccion-universidad-oriente`
-- `dialectica-y-matematica`
-- `dialogo-marxismo-estalinismo`
 - `disidencia-en-cuba`
-- `estoicismo`
 - `feliz-2020`
 - `filosofia-marxista-leninista-en-cuba`
-- `imaginando-una-entrevista-a-roberto`
-- `la-trinchera-abierta-enero`
 - `la-vida-del-hombre-y-la-sociedad`
-- `los-lobos`
-- `marcha-de-las-antorchas-cultura`
-- `marxismo-leninismo-imperialismo`
-- `mayo-del-68`
-- `otra-mujer`
 - `primera-declaracion`
-- `primera-trinchera-abierta`
-- `primero-de-mayo-cuba`
 - `reforma-constitucional-en-cuba-1`
 - `reforma-de-la-constitucion-en-cuba-2`
-- `reformas-necesarias-al-modelo-economico-cubano`
-- `rescatar-a-marti`
-- `respuesta-hayes-martinez-2`
-- `tribuna-del-festival-de-cine-de-la-habana`
-- `trinchera-abierta`
-- `trinchera-abierta-diciembre`
-- `vivir-en-cuba`

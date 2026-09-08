@@ -86,19 +86,22 @@ entrada, lo que permitió emparejar cada texto con su artículo sin ambigüedad.
 
 Estos artículos se guardaron como páginas propias con nota de procedencia (ver
 `articulos-rescatados.html`). El texto es el que traía el correo, sin resumir ni completar.
-
 ### Balance final del rescate
 
 De los ~1.000 artículos publicados por La Trinchera:
 
 - **753** rescatados del Internet Archive (dominio original `trincheracuba.com`).
 - **136** rescatados del Internet Archive (dominio sucesor `desdetutrinchera.com`).
-- **71** rescatados de copias externas: correos de WordPress guardados en Gmail (54), reposts de
-  terceros, Medium y las versiones Telegraph del canal de Telegram (17).
-- **40** sin copia accesible en ninguna parte.
+- **101** rescatados de copias externas: sobre todo los correos de notificación de WordPress
+  guardados en el Gmail del administrador (84, con el texto completo de cada entrada), más reposts
+  de terceros, Medium y las versiones Telegraph del canal de Telegram (17). Ver `articulos-rescatados.html`.
+- **10** sin copia accesible en ninguna parte.
 
-Total recuperado: **960 de ~1.000 artículos (96 %).**
+Total recuperado: **990 de ~1.000 artículos (99 %).**
 
-Los 40 que faltan están en `articulos-no-recuperados.md`: no existen en ningún archivo web, no
-fueron reposteados con texto completo, no tienen espejo en Telegram y no se halló su correo de
-notificación. El sitio sucesor sigue vivo pero tras Cloudflare, inaccesible desde este entorno.
+Los 10 que faltan (`articulos-no-recuperados.md`) no están en ningún archivo web, nadie los reposteó
+con texto completo, no tienen espejo en Telegram, y en el correo del administrador solo existe de
+ellos un aviso de resumen o de «me gusta», nunca la notificación con el cuerpo completo. El sitio
+sucesor sigue vivo pero tras Cloudflare y con su API deshabilitada, así que no son accesibles desde
+este entorno. La vía para cerrarlos sería una exportación (XML) desde el panel de WordPress del sitio.
+
