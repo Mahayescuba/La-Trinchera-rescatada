@@ -45,3 +45,15 @@ de Internet Archive.
 - Las variantes de página con parámetros (`?shared=email`, `?replytocom=`) se omitieron a propósito.
 - Los recursos externos (Google Fonts, widgets de WordPress.com, Facebook, YouTube, etc.)
   siguen apuntando a sus servidores originales.
+
+## Segunda tanda: rescate desde el dominio sucesor
+
+El sitio resucitó más tarde bajo el dominio **`desdetutrinchera.com`**, con las mismas rutas de
+artículo. El Internet Archive sí capturó muchos artículos bajo ese dominio nuevo que nunca había
+guardado del dominio original. Gracias a eso se recuperaron **136 artículos adicionales** que en
+la primera pasada figuraban como perdidos.
+
+- De los ~1.000 artículos publicados, quedan **111 sin recuperar** (`articulos-no-recuperados.md`):
+  no existen en ninguna copia accesible de Internet Archive, bajo ninguno de los dos dominios.
+- El dominio `desdetutrinchera.com` sigue vivo pero está protegido por Cloudflare, así que no se
+  puede acceder a su contenido en vivo desde este entorno.
