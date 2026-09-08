@@ -97,7 +97,7 @@ De los ~1.000 artículos publicados por La Trinchera:
   del administrador (88, con el texto completo), más reposts, Medium y Telegraph (17).
 - **6** sin copia accesible.
 
-Total recuperado: **994 de ~1.000 artículos (99 %).**
+Total recuperado: **995 de ~1.000 artículos (99 %).**
 
 Los 6 que faltan (`articulos-no-recuperados.md`): de cada uno el buzón solo guarda un aviso de
 «me gusta» o un extracto, nunca el texto completo; y no hay copia en archivo web ni repost accesible.
