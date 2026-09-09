@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { fixCat, slugify, fmtDate, excerpt, initials, monoColor, thumbData } from '../lib/util';
 import { buildSeries } from '../lib/series';
+import { pickCover } from '../lib/covers';
 import authors from '../data/authors.json';
 export async function getStaticPaths(){
   const posts = await getCollection('posts');
@@ -52,6 +53,7 @@ const { p, count, topCat, related, catNav, series } = Astro.props;
 const { Content } = await p.render();
 const desc = excerpt(p.body, 155);
 const lead = p.data.image ? thumbData(p.data.image, 1200) : null;
+const cover = lead ? null : pickCover(p);   // texto sin imagen: portada de archivo (CC0) con crédito
 const prof:any = p.data.author ? ((authors as any)[slugify(p.data.author)] || {}) : null;
 const readMin = Math.max(1, Math.round(p.body.trim().split(/\s+/).length / 200));
 const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
@@ -84,7 +86,7 @@ const crumbLd = {
   ],
 };
 ---
-<Base title={p.data.title} description={desc} image={p.data.image || undefined} type="article">
+<Base title={p.data.title} description={desc} image={p.data.image || (cover ? cover.file : undefined)} type="article">
   <article class="wrap post">
     <nav class="crumbs" aria-label="Ruta de navegación">
       <a href="/">Inicio</a>
@@ -101,6 +103,15 @@ const crumbLd = {
       <span> · {readMin} min de lectura</span>
     </p>
     {lead && <img class="lead" src={lead.src} alt={p.data.title} width={lead.w} height={lead.h} loading="eager" fetchpriority="high" decoding="async" />}
+    {cover && (
+      <figure class="archcover">
+        <img class="lead" src={cover.file} alt={`Portada del archivo: ${cover.title}, de ${cover.artist}`} loading="eager" fetchpriority="high" decoding="async" />
+        <figcaption class="archcredit">
+          <span class="ac-tag">Portada del archivo</span>
+          <span class="ac-src">{cover.title} · <b>{cover.artist}</b>{cover.date?`, ${cover.date}`:''} — <a href={cover.url} target="_blank" rel="noopener">dominio público, The Met</a></span>
+        </figcaption>
+      </figure>
+    )}
     <div class="body"><Content /></div>
     {series && (
       <section class="serie" aria-label={`Serie: ${series.base}`}>
@@ -190,6 +201,13 @@ const crumbLd = {
     .post .meta a{color:var(--accent)}
     .post .meta .anon{font-style:italic;opacity:.7}
     img.lead{width:100%;height:auto;border-radius:8px;margin:.5rem 0 1.5rem;background:#efe9e0}
+    .archcover{margin:.5rem 0 1.5rem}
+    .archcover img.lead{margin:0 0 .5rem}
+    .archcredit{display:flex;flex-wrap:wrap;align-items:baseline;gap:.5rem;font-size:.76rem;color:var(--muted);line-height:1.5}
+    .ac-tag{font-size:.6rem;text-transform:uppercase;letter-spacing:.12em;font-weight:700;color:#fff;background:var(--accent);
+      padding:.16rem .45rem;border-radius:4px;flex:0 0 auto}
+    .archcredit .ac-src b{color:var(--ink);font-weight:600}
+    .archcredit a{color:var(--accent);text-decoration:underline;text-underline-offset:2px}
     .body{font-family:Georgia,"Times New Roman",serif;font-size:1.14rem;line-height:1.8;overflow-wrap:break-word;word-break:break-word}
     .body :global(p){margin:0 0 1.15em}
     .body :global(img){max-width:100%;height:auto;border-radius:6px;margin:1rem 0}
