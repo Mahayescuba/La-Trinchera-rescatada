@@ -1,0 +1,102 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { fixCat, slugify, fmtDate, excerpt, initials, monoColor } from '../../../lib/util';
+import authors from '../../../data/authors.json';
+export async function getStaticPaths(){
+  const PER = 24;
+  const posts = await getCollection('posts');
+  const groups = new Map();
+  for(const p of posts){ const c=p.data.author||"Sin autor"; const s=slugify(c);
+    if(!groups.has(s)) groups.set(s,{name:c,items:[]}); groups.get(s).items.push(p); }
+  const paths:any[] = [];
+  for(const [s,g] of groups){
+    const items = g.items.sort((a:any,b:any)=>(b.data.date||'').localeCompare(a.data.date||''));
+    const catCount:Record<string,number> = {};
+    for(const p of items){ const c=fixCat(p.data.category); if(c && c!=='Sin categoría') catCount[c]=(catCount[c]||0)+1; }
+    const topCat = Object.entries(catCount).sort((a,b)=>b[1]-a[1])[0]?.[0] || '';
+    const pages = Math.max(1, Math.ceil(items.length/PER));
+    for(let i=0;i<pages;i++){
+      paths.push({ params:{ author:s, page: i===0 ? undefined : String(i+1) },
+        props:{ name:g.name, items:items.slice(i*PER,(i+1)*PER), page:i+1, pages, total:items.length, topCat } });
+    }
+  }
+  return paths;
+}
+const { name, items, page, pages, total, topCat } = Astro.props;
+const { author } = Astro.params;
+const isAnon = name === 'Sin autor';
+const prof:any = isAnon ? {} : ((authors as any)[slugify(name)] || {});
+const base = `/autor/${author}/`;
+const pageUrl = (n:number)=> n===1 ? base : `${base}${n}/`;
+const hasPrev = page > 1;
+const hasNext = page < pages;
+---
+<Base title={pages>1 ? `${name} (página ${page})` : name} description={`Artículos de ${name}.`}>
+  <section class="wrap list">
+    <header class="ah">
+      {!isAnon && (prof.hash
+        ? <img class="ah-av" src={`https://www.gravatar.com/avatar/${prof.hash}?s=200`} alt={name} width="80" height="80" loading="eager" />
+        : <span class="ah-av ah-mono" style={`background:${monoColor(name)}`}>{initials(name)}</span>)}
+      <div class="ah-body">
+        <p class="kicker">Autor</p>
+        <h1>{name}</h1>
+        {prof.bio && <p class="ah-bio">{prof.bio}</p>}
+        <p class="count">{total} {total===1?'texto':'textos'}
+          {topCat && <> · <a class="ah-link" href={`/categoria/${slugify(topCat)}/`}>{topCat}</a></>}
+          {prof.links && prof.links.length ? ' · ' : ''}
+          {prof.links && prof.links.map((l:string,i:number)=> (
+            <>{i>0 && ' · '}<a class="ah-link" href={l} target="_blank" rel="noopener">{l.startsWith('mailto:')?'correo':'sitio'}</a></>
+          ))}
+          {pages>1 && <span class="pgof"> · página {page} de {pages}</span>}
+        </p>
+      </div>
+    </header>
+    <ul>
+      {items.map((p:any)=> (
+        <li>
+          <a href={`/${p.slug}/`}>
+            <h2>{p.data.title}</h2>
+            <p>{excerpt(p.body,140)}</p>
+            <span class="meta"><a class="c" href={`/categoria/${slugify(fixCat(p.data.category))}/`}>{fixCat(p.data.category)}</a> · {fmtDate(p.data.date)}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+    {pages>1 && (
+      <nav class="pager" aria-label="Paginación">
+        {hasPrev ? <a class="pg" href={pageUrl(page-1)}>← Anterior</a> : <span class="pg dis">← Anterior</span>}
+        <span class="pgtxt">Página {page} de {pages}</span>
+        {hasNext ? <a class="pg" href={pageUrl(page+1)}>Siguiente →</a> : <span class="pg dis">Siguiente →</span>}
+      </nav>
+    )}
+  </section>
+  <style>
+    .list{max-width:760px;padding:2.2rem 1.2rem}
+    .ah{display:flex;gap:1.2rem;align-items:flex-start;margin:0 0 1.6rem}
+    .ah-av{width:80px;height:80px;border-radius:50%;flex:0 0 auto;object-fit:cover;display:grid;place-items:center;
+      font-family:Georgia,serif;font-weight:700;font-size:1.8rem;color:#fbf6ef;border:1px solid rgba(0,0,0,.06)}
+    .ah-body{min-width:0}
+    .list .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.14em;font-size:.72rem;margin:0}
+    .list h1{font-size:2.4rem;margin:.1em 0}
+    .ah-bio{color:var(--muted);margin:.3rem 0 .4rem;font-size:.95rem;line-height:1.55}
+    .ah-link{color:var(--accent);text-transform:uppercase;letter-spacing:.05em;font-size:.72rem;font-weight:600}
+    .pgof{color:var(--muted)}
+    .list .count{color:var(--muted);margin:.2rem 0 0}
+    .ah + ul, .list > ul{margin-top:1rem}
+    .list ul{list-style:none;padding:0;margin:0}
+    .list li{border-top:1px solid var(--line);padding:1.1rem 0}
+    .list h2{font-size:1.3rem;margin:0 0 .2em}
+    .list p{color:var(--muted);margin:.1em 0 .3em}
+    .list .meta{color:var(--muted);font-size:.8rem}
+    .list .meta .c{color:var(--accent)}
+    .pager{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center;margin:2rem 0 0;padding-top:1.2rem;border-top:1px solid var(--line)}
+    .pg{padding:.45rem .75rem;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--accent);
+      text-decoration:none;font-size:.85rem;font-weight:600;min-width:2.2rem;text-align:center}
+    .pg:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+    .pg.cur{background:var(--accent);color:#fff;border-color:var(--accent)}
+    .pg.dis{opacity:.4;pointer-events:none;color:var(--muted)}
+    .pgtxt{color:var(--muted);font-size:.85rem;margin:0 .3rem}
+    .gap{color:var(--muted);padding:0 .2rem}
+  </style>
+</Base>

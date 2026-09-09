@@ -1,0 +1,72 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { fixCat, slugify, fmtDate, excerpt } from '../../../lib/util';
+export async function getStaticPaths(){
+  const PER = 24;
+  const posts = await getCollection('posts');
+  const groups = new Map();
+  for(const p of posts){ const c=fixCat(p.data.category); const s=slugify(c);
+    if(!groups.has(s)) groups.set(s,{name:c,items:[]}); groups.get(s).items.push(p); }
+  const paths:any[] = [];
+  for(const [s,g] of groups){
+    const items = g.items.sort((a:any,b:any)=>(b.data.date||'').localeCompare(a.data.date||''));
+    const pages = Math.max(1, Math.ceil(items.length/PER));
+    for(let i=0;i<pages;i++){
+      paths.push({ params:{ category:s, page: i===0 ? undefined : String(i+1) },
+        props:{ name:g.name, items:items.slice(i*PER,(i+1)*PER), page:i+1, pages, total:items.length } });
+    }
+  }
+  return paths;
+}
+const { name, items, page, pages, total } = Astro.props;
+const { category } = Astro.params;
+const base = `/categoria/${category}/`;
+const pageUrl = (n:number)=> n===1 ? base : `${base}${n}/`;
+const hasPrev = page > 1;
+const hasNext = page < pages;
+---
+<Base title={pages>1 ? `${name} (página ${page})` : name} description={`Artículos en la categoría ${name}.`}>
+  <section class="wrap list">
+    <p class="kicker">Categoría</p>
+    <h1>{name}</h1>
+    <p class="count">{total} textos{pages>1 && ` · página ${page} de ${pages}`}</p>
+    <ul>
+      {items.map((p:any)=> (
+        <li>
+          <a href={`/${p.slug}/`}>
+            <h2>{p.data.title}</h2>
+            <p>{excerpt(p.body,140)}</p>
+            <span class="meta">{p.data.author && `${p.data.author} · `}{fmtDate(p.data.date)}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+    {pages>1 && (
+      <nav class="pager" aria-label="Paginación">
+        {hasPrev ? <a class="pg" href={pageUrl(page-1)}>← Anterior</a> : <span class="pg dis">← Anterior</span>}
+        <span class="pgtxt">Página {page} de {pages}</span>
+        {hasNext ? <a class="pg" href={pageUrl(page+1)}>Siguiente →</a> : <span class="pg dis">Siguiente →</span>}
+      </nav>
+    )}
+  </section>
+  <style>
+    .list{max-width:760px;padding:2.2rem 1.2rem}
+    .list .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.14em;font-size:.72rem;margin:0}
+    .list h1{font-size:2.4rem;margin:.15em 0}
+    .list .count{color:var(--muted);margin:0 0 1.4rem}
+    .list ul{list-style:none;padding:0;margin:0}
+    .list li{border-top:1px solid var(--line);padding:1.1rem 0}
+    .list h2{font-size:1.3rem;margin:0 0 .2em}
+    .list p{color:var(--muted);margin:.1em 0 .3em}
+    .list .meta{color:var(--muted);font-size:.8rem}
+    .pager{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center;margin:2rem 0 0;padding-top:1.2rem;border-top:1px solid var(--line)}
+    .pg{padding:.45rem .75rem;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--accent);
+      text-decoration:none;font-size:.85rem;font-weight:600;min-width:2.2rem;text-align:center}
+    .pg:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+    .pg.cur{background:var(--accent);color:#fff;border-color:var(--accent)}
+    .pg.dis{opacity:.4;pointer-events:none;color:var(--muted)}
+    .pgtxt{color:var(--muted);font-size:.85rem;margin:0 .3rem}
+    .gap{color:var(--muted);padding:0 .2rem}
+  </style>
+</Base>

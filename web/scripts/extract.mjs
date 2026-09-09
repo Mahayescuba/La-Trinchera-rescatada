@@ -13,7 +13,9 @@ const td = new TurndownService({ headingStyle: 'atx', codeBlockStyle: 'fenced', 
 td.keep(['iframe']);
 
 const SKIP = new Set(['category','tag','author','page','feed','wp-content','wp-includes','wp-json','comments','amigos','wp-admin',
-  'categorias','la-trinchera']);   // páginas-utilidad, no artículos (índice de categorías, portada)
+  'categorias','la-trinchera',   // páginas-utilidad, no artículos (índice de categorías, portada)
+  // copias duplicadas (mismo texto con otro slug); se conserva la otra versión
+  'homenaje-a-marx','janos-kornai','reforma-constitucional-en-cuba-1-2','quien-es-yusuam-2','marti-y-fray-olallo-2']);
 // títulos que en el origen quedaron como SEO/lema en vez del título real del artículo
 const TITLE_FIX = { 'blog-la-trinchera':'Al lector', 'podcast-cubano-el-solar':'El Solar' };
 const NAV_SELECTORS = '.sharedaddy,.jp-relatedposts,.sd-sharing,.pvc_stats,.wpupg-grid,.crp_related,.yarpp-related,script,style,.code-block,.wp-block-buttons,.saboxplugin-wrap,#jp-post-flair,.sharing,.entry-meta,.post-tags,.post-share,.related'
