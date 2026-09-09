@@ -1,0 +1,31 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const total = (await getCollection('posts')).length;
+---
+<Base title="Sobre La Trinchera" description="Qué fue La Trinchera: un espacio cubano de debate de ideas (2018–2021).">
+  <article class="wrap sobre">
+    <p class="kicker">Sobre</p>
+    <h1>La Trinchera</h1>
+    <p class="lema">muchas maneras de estar</p>
+
+    <p><strong>La Trinchera</strong> fue un espacio cubano de debate de ideas que publicó entre <strong>2018 y 2021</strong>. Nació con una idea estrecha y creció hasta volverse lo contrario: un terreno común.</p>
+
+    <p>Empezó como un lugar para publicar artículos de <strong>debate teórico marxista</strong>. En pocos meses se abrió a la <strong>discusión teórica y política desde la izquierda</strong>, y más tarde a algo más ambicioso: un <strong>proyecto plural</strong> para hablar de teoría, política y economía <strong>sin importar la filiación</strong>. Por sus páginas pasaron marxistas y libertarios, izquierda, derecha y centro. La apuesta no era el acuerdo, sino la calidad del desacuerdo.</p>
+
+    <p>Este sitio es su <strong>archivo recuperado</strong>: {total} textos rescatados y de nuevo en línea, tras el cierre del blog. Se reconstruyó a partir de copias dispersas —archivos web, correos, reproducciones en otros medios y respaldos personales— para que el debate que ocurrió aquí no se perdiera.</p>
+
+    <p class="note">Las opiniones de cada texto son responsabilidad de sus autores y no representan una línea editorial única. La Trinchera fue, precisamente, un lugar donde convivían posiciones distintas.</p>
+
+    <p><a class="cta" href="/">← Entrar al archivo</a></p>
+  </article>
+  <style>
+    .sobre{max-width:680px;padding:2.4rem 1.2rem 2rem;font-size:1.08rem;line-height:1.8}
+    .sobre .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.16em;font-size:.72rem;margin:0}
+    .sobre h1{font-size:2.6rem;margin:.1em 0 0}
+    .sobre .lema{font-style:italic;color:var(--muted);margin:.2rem 0 1.6rem}
+    .sobre p{margin:0 0 1.15em}
+    .sobre .note{font-size:.95rem;color:var(--muted);border-left:3px solid var(--line);padding-left:1rem}
+    .sobre .cta{color:var(--accent);font-weight:600}
+  </style>
+</Base>
