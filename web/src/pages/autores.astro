@@ -1,0 +1,72 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { slugify, initials, monoColor } from '../lib/util';
+import authors from '../data/authors.json';
+
+const posts = await getCollection('posts');
+const counts:Record<string,number> = {};
+for(const p of posts){ const a=p.data.author; if(a) counts[a]=(counts[a]||0)+1; }
+const list = Object.entries(counts).map(([name,count])=>{
+  const prof:any = (authors as any)[slugify(name)] || {};
+  return { name, count, hash: prof.hash||'', bio: prof.bio||'' };
+}).sort((a,b)=> b.count-a.count || a.name.localeCompare(b.name,'es'));
+const withAuthor = list.reduce((s,a)=>s+a.count,0);
+---
+<Base title="Autores" description={`Los ${list.length} autores del archivo de La Trinchera: teoría, política y cultura desde Cuba (2018–2021).`}>
+  <section class="wrap head">
+    <p class="kicker">La Trinchera · Archivo</p>
+    <h1>Autores</h1>
+    <p class="lede">{list.length} autores han escrito los {withAuthor} textos con firma del archivo. Haz clic en cualquiera para ver todos sus textos.</p>
+    <input id="q" type="search" aria-label="Buscar autor" placeholder="Buscar autor…" autocomplete="off" />
+    <p id="found" class="found"></p>
+  </section>
+  <section class="wrap grid" id="grid">
+    {list.map(a=> (
+      <a class="card" href={`/autor/${slugify(a.name)}/`} data-name={a.name.toLowerCase()}>
+        {a.hash
+          ? <img class="av" src={`https://www.gravatar.com/avatar/${a.hash}?s=140`} alt="" width="56" height="56" loading="lazy" />
+          : <span class="av mono" style={`background:${monoColor(a.name)}`}>{initials(a.name)}</span>}
+        <span class="who">
+          <span class="name">{a.name}</span>
+          <span class="count">{a.count} {a.count===1?'texto':'textos'}</span>
+          {a.bio && <span class="bio">{a.bio.length>92 ? a.bio.slice(0,92).replace(/\s+\S*$/,'')+'…' : a.bio}</span>}
+        </span>
+      </a>
+    ))}
+  </section>
+  <style>
+    .head{padding:2.4rem 1.2rem 1rem;max-width:760px}
+    .head .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.16em;font-size:.72rem;margin:0;font-weight:700}
+    .head h1{font-size:clamp(2rem,6vw,2.8rem);margin:.15em 0 .1em}
+    .head .lede{color:var(--muted);margin:.2rem 0 1.1rem}
+    #q{width:100%;max-width:420px;padding:.6rem .9rem;border:1px solid var(--line);border-radius:9px;background:var(--paper);color:var(--ink);font-size:.95rem}
+    #q:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+    .found{color:var(--muted);font-size:.8rem;margin:.6rem 0 0;min-height:1em}
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:.9rem;padding:1.2rem 1.2rem 2.4rem}
+    .card{display:flex;gap:.75rem;align-items:flex-start;background:var(--paper);border:1px solid var(--line);
+      border-radius:11px;padding:.9rem 1rem;text-decoration:none;color:inherit;transition:.15s}
+    .card:hover{transform:translateY(-2px);box-shadow:0 8px 22px rgba(40,25,20,.06);border-color:var(--accent)}
+    .av{width:52px;height:52px;border-radius:50%;flex:0 0 auto;object-fit:cover;display:grid;place-items:center;
+      font-family:Georgia,serif;font-weight:700;font-size:1.15rem;color:#fbf6ef;border:1px solid rgba(0,0,0,.06)}
+    .who{display:flex;flex-direction:column;min-width:0}
+    .name{font-family:Georgia,"Times New Roman",serif;font-weight:700;font-size:1.1rem;line-height:1.2}
+    .card:hover .name{color:var(--accent)}
+    .count{color:var(--muted);font-size:.78rem;margin-top:.05rem}
+    .bio{color:var(--muted);font-size:.82rem;margin-top:.35rem;line-height:1.45}
+    .empty{grid-column:1/-1;color:var(--muted);text-align:center;padding:2rem}
+    @media (max-width:560px){ .grid{grid-template-columns:1fr} }
+  </style>
+  <script is:inline>
+    (function(){
+      var grid=document.getElementById('grid'), q=document.getElementById('q'), found=document.getElementById('found');
+      var cards=[].slice.call(grid.querySelectorAll('.card'));
+      function norm(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');}
+      q.addEventListener('input',function(){
+        var v=norm(q.value.trim()), n=0;
+        cards.forEach(function(c){var show=!v||norm(c.getAttribute('data-name')).indexOf(v)>=0;c.hidden=!show;if(show)n++;});
+        found.textContent = q.value.trim() ? (n+' de '+cards.length+' autores') : '';
+      });
+    })();
+  </script>
+</Base>
