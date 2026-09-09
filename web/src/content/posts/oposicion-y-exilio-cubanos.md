@@ -3,7 +3,7 @@ title: "El nudo marciano de la oposición y el exilio cubanos"
 date: "2019-01-28T17:30:23+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/01/PicsArt_01-27-09.19.08.jpg"
+image: ""
 ---
 Un texto sobre oposición y exilio cubanos.
 
@@ -62,17 +62,3 @@ Nada puede conseguir unir a estas dos piezas imprescindibles para hacer que la I
 
 Pero para ello, lo primero es eliminar las políticas de bloqueo, y en su lugar promover los intercambios a todos los niveles. Los cuales, a no dudarlo, terminarán por hacer moverse al régimen en una dirección en la que muy seguramente los opositores y exiliados presentes no encontraremos privilegiado acomodo personal, pero que si se asemejará en mucho a lo que decimos desear para Cuba.  
 En un final lo que importa es la Causa: ¿O no?
-
-[Otro texto del autor](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

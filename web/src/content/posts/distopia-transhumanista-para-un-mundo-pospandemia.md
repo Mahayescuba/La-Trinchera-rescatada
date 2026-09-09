@@ -1,5 +1,5 @@
 ---
-title: "Neurotecnología y discurso transhumanista"
+title: "Distopía transhumanista para un mundo pospandemia"
 date: "2020-12-02T10:30:35+00:00"
 author: "Andrés Kogan Valderrama"
 category: "Cultura"
@@ -16,8 +16,6 @@ Es decir, construir un mundo en donde el sufrimiento humano y sus límites biol�
 De ahí que piensen, que a través de la inteligencia artificial, nanotecnología, clonación, robótica, ingeniería genética, las distinciones entre los humanos y máquinas o entre la realidad física y virtual serán algo por superar inevitablemente, en pos de un mundo en donde el progreso tecnocientífico sea la única alternativa posible para vivir.
 
 Por ello, que este contexto de pandemia por el Covid-19, sea visto como una oportunidad y no una amenaza para este discurso, ya que el desarrollo de la inteligencia artificial y big data se han usado para elaborar diferentes software y app que han permitido detectar este nuevo virus y estudiar su comportamiento.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica/el-producto-de-las-redes-sociales/
 
 Se podrá decir que estas nuevas biotecnologías han aportado a la prevención y diagnóstico del Covid-19, desde un punto de vista médico. No obstante, esto ha ido acompañado de nuevas formas de control político y económico, a través de nuevos algoritmos y chips, producidos por grandes empresas de inteligencia artificial, provenientes de Silicon Valley y de China, como lo son Alphabet, Apple, Facebook, Amazon, Microsoft, Banjo. DJI, IBM y Alibaba, las cuales están almacenando millones de datos de las personas.
 
@@ -38,15 +36,3 @@ Desconociendo así, que la mente, como bien plantearon en su momento los neuroci
 Lo que se trata por tanto, no es solo regular desde los Estados a las nuevas neurotecnologías y dispositivos digitales, sino de interconectar mundos solidarios y sostenibles, que se sitúen desde un horizonte del Buen Vivir y no desde un Vivir Mejor de carácter tecnocapitalista, para dejar atrás así un discurso transhumanista que va dirigido finalmente a una elite económica, política e intelectual, que quiere superar nuestra condición de seres vivos para salvarse de la catástrofe socioambiental.
 
 Tomado de [Rebelión](https://rebelion.org/)
-
-neurotecnología y discurso transhumanista, neurotecnología y discurso transhumanista, neurotecnología y discurso transhumanista
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/0.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/0.jpeg)
-    
-    [Andrés Kogan Valderrama](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/andres-kogan-valderrama/)
-    
-    Sociólogo de Municipalidad de Lo Prado, Chile

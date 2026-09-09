@@ -3,7 +3,7 @@ title: "¿ Y la lucha de clases qué?"
 date: "2019-01-01T21:27:52+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/01/rené-magritte-la-traversée-difficile.jpg"
+image: ""
 ---
 Una reflexión sobre la lucha de clases en Cuba enfocada en la Constitución.
 
@@ -52,15 +52,3 @@ Por eso nos encontramos este proceso constituyente, donde el partido adquiere un
 (12) Lenin, Vladimir I. Obras completas tomo 25. pág. 441.  
 (13) Lebowitz, Michael. Las contradicciones del socialismo real: el dirigente y los dirigidos. Panamá: Ruth Casa Editorial, 2015.  
 (14) Las necesidades, según el propio Marx no importan si son del estómago o de la fantasía. Ver Marx, Carlos. El Capital. s.l: Siglo XXI, 2002.pág 43
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "Roberto Chile"
+title: "Estoy enfrascado en sembrar más amor"
 date: "2020-02-26T18:10:49+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2020/02/BP7A11382-scaled.jpg"
+image: ""
 ---
 # Entrevista realizada por Sender Escobar a Roberto Chile
 
@@ -12,8 +12,6 @@ Esta vez es el lente de la palabra quien encuadra al fotógrafo. La toma verbal 
 **¿Conserva su primera cámara y las primeras fotografías que realizó?**
 
 Ojalá tuviera aquella diminuta Smena con que comencé a tomar fotografías en mis años de adolescencia.
-
-![](/wp-content/uploads/2020/02/176169219-14235972442258627230.jpg)
 
 Aún, cuando no soñaba ser fotógrafo, buscaba el mejor ángulo, la luz más expresiva, desde las escuelas al campo hasta años después. Cuando comencé a retratar a mi primera hija, hace ya casi 40 años, lo hacía con amor de padre y preocupación artística. Ya entonces trabajaba como camarógrafo. Ahí están esos negativos, intactos, celosamente conservados en mis archivos personales. No los he vuelto a imprimir nunca más. Después vino una Nikon. Esa sí la conservo y los negativos también.
 
@@ -32,8 +30,6 @@ He trabajado con él en varias de sus realizaciones como director de fotografía
 **¿Colaboró alguna vez con Santiago Álvarez?**
 
 Soy un fiel admirador de Santiago Álvarez, con quien compartí inolvidables momentos de trabajo y de amistad. Colaboré con él en varios de sus documentales, pero lo que más recuerdo de Santiago, además de su obra monumental, son su calidez humana, sentido del humor y su contagiosa pasión por el cine documental.
-
-![](/wp-content/uploads/2020/02/images-98708616260719258372..jpg)
 
 **¿Cuáles son sus gustos cinematográficos y quiénes considera sus principales influencias?**
 
@@ -55,20 +51,6 @@ Lo único que puede salvar el arte, y en este caso, nuestro cine, es la libertad
 
 Son muchas las fotografías y los fotógrafos que nos representan e impresionan. Aunque las antologías no son infalibles, te remito a _La Imagen sin límites – Exposición antológica de la fotografía cubana_, concebida por el crítico de arte, escritor e investigador Rafael Acosta de Arriba, donde muestra una perspectiva de Cuba, a partir de la fotografía desde sus inicios hasta los días de hoy. La más impresionante, la más universal, _Guerrillero heroico_ de Alberto Korda, la imagen más reproducida de la historia de la fotografía. Pero hay muchas más de valor incalculable.
 
-![](/wp-content/uploads/2020/02/unnamed-26487094727598008343..jpg)
-
 **¿En que está proyecto está inmerso actualmente?**
 
 En más de uno, pero esencialmente estoy enfrascado en sembrar más amor del que he podido hasta hoy. Solo así podré superarme como artista y como ser humano para poder sentirme siempre dichoso de existir.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

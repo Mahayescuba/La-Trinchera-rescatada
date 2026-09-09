@@ -3,7 +3,7 @@ title: "La revictimización original"
 date: "2020-08-26T09:30:34+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/08/Serwan-Baran.jpg"
+image: ""
 ---
 _El artículo de Granma trata de denigrar a la prensa independiente, en esta ocasión al intentar desenmascarar la supuesta exageración con que esos medios tratan el tema de los feminicidios en Cuba._
 
@@ -40,13 +40,3 @@ O sea, que en una nación que tiene estadísticas demográficas de país europeo
 No es, por tanto, amigo Javier, que alguien pretenda invisibilizar el trabajo de la FMC, o del CENESEX, o en general de cualquier organización paraestatal. No, solo se pretende visibilizar un fenómeno que de una u otra manera esas instituciones se han encargado de manipular, al ocultar o descontextualizar cifras, para presentar a Cuba como un caso excepcional cuando claramente no lo es ni en relación con los demás países latinoamericanos, ni en relación con las naciones europeas con las que comparte resultados semejantes en índices de natalidad o mortalidad, envejecimiento poblacional, esperanza de vida al nacer, mortalidad infantil o materna…
 
 En fin, Javier, la prensa independiente y quienes escribimos para ella no intentamos “fabricar una imagen negativa” del fenómeno feminicidio en Cuba, con el fin de desprestigiar a lo oficial:  solo queremos rebajar esa imagen demasiado positiva sobre la que, entre otras pretendidas positividades, se justifica el sostenimiento de un ordenamiento político con carácter de excepción. El cual ordenamiento considera a la prensa independiente y a cualquier ejercicio del derecho a la libre expresión como intolerables… según el discurso oficial por amenazar logros excepcionales, como este de ser un país latinoamericano promedio en cuanto a su tasa de feminicidios…
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    [José Gabriel Barrenechea](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-gabriel-barrenechea/)
-    
-    Científico, escritor y activista

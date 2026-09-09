@@ -1,9 +1,9 @@
 ---
-title: "Nueve pasos a seguir cuando se recibe una noticia falsa"
+title: "Nueve pasos a seguir cuando se recibe una noticia para determinar si es falsa"
 date: "2019-11-14T00:42:53+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/11/IMG_20191113_193520_032.jpg"
+image: ""
 ---
 Noticia falsa.
 
@@ -21,17 +21,3 @@ c. ¿Hace referencia a un medio de comunicación? Entra a la página web de ese 
 9- Piensa en números: ¿la noticia cita cifras de investigaciones o de otros datos? Búscalos para ver si tiene sentido.
 
 Recomendación de la BBC Noticia falsa. Noticia falsa.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/la-virtud-de-existir/
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

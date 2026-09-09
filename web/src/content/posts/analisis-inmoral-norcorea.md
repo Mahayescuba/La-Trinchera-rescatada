@@ -1,9 +1,9 @@
 ---
-title: "Norcorea debate sobre lo inmoral"
+title: "Un análisis inmoral, qué significa"
 date: "2018-02-20T20:01:01+00:00"
 author: "Carlos Ávila Villamar"
 category: "Opinión"
-image: "/wp-content/uploads/2018/02/friberg-18.jpg"
+image: ""
 ---
 Hace poco publiqué un artículo donde exponía mi opinión acerca de Corea del Norte, lo publiqué en el recién abierto blog [_La Trinchera_](../index.html). El artículo fue reblogueado en _La Joven Cuba_  y naturalmente fue recibido con una ira casi unánime, cosa que me esperaba y que no me quitó demasiado el sueño. Un comentario, sin embargo, llamó mi atención: la breve respuesta de Yassel A. Padrón Kunakbaeva, en la que tildaba mi artículo de inmoral, adjetivo que siempre me ha parecido interesante. La verdad Yassel, como él mismo declara, ya había leído el artículo en _La Trinchera_, pero por razones misteriosas prefirió comentarlo ahora: aprovecharé entonces para continuar, por escrito, una conversación que empezamos hace tiempo.
 
@@ -18,15 +18,3 @@ Hay otra razón por la que Yassel puede llamar inmoral al artículo: puede estar
 Disculpe el lector este último arrebato paródico. Disculpe el lector algún atisbo de cinismo que se escurra entre mis palabras, como una bestia insatisfecha y verde, pero no encuentro otro modo de ser diplomático y decir la verdad. En el fondo sucede que el cinismo es la más honrada forma de hipocresía, tal vez la única.
 
 [También puede interesar](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Valor y valor de cambio"
 date: "2018-06-21T15:45:36+00:00"
 author: "Francisco Umpiérrez Sánchez"
 category: "Economía Política"
-image: "/wp-content/uploads/2018/06/Ann-Wolff.jpg"
+image: ""
 ---
 El teórico construye el mundo mediante conceptos. Pero en los conceptos hay que distinguir dos aspectos: el objeto del concepto y el contenido del concepto. Así por valor de uso entendemos una cosa que por sus propiedades satisface necesidades humanas. El objeto del concepto es “valor de uso”, mientras que el contenido del concepto es “cosa que por sus propiedades satisface necesidades humanas”. Esta distinción es muy importante y muchos teóricos cometen errores importantes a este respecto. Marx y Wagner, por ejemplo, hacen uso de dos objetos conceptuales iguales, “valor de uso” y “valor de cambio”, pero los contenidos conceptuales atribuidos a esos dos objetos conceptuales por Marx y Wagner no son los mismos. Aclaro que el contenido conceptual que antes atribuí al objeto conceptual “valor de uso” no agota todo el contenido conceptual de dicho objeto. Más adelante lo pondré de relieve. **Las abreviaturas conceptuales**
 
@@ -38,15 +38,3 @@ En la expresión “Yo no digo, por tanto, que la sustancia social común del va
 Por qué Marx denomina al trabajo humano abstracto con la categoría filosófica “sustancia”, sería otro tema a debatir. Solo señalaré, y es casi lo principal, que la concepción de Marx sobre la sustancia la hereda de Hegel, donde es concebida como proceso.
 
 Tomado de [Rebelión](http://www.rebelion.org/noticia.php?id=242813&titular=valor-y-valor-de-cambio-)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

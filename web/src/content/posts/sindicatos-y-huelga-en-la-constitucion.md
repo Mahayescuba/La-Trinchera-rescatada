@@ -1,9 +1,9 @@
 ---
-title: "Huelgas y sindicatos en Cuba"
+title: "Los sindicatos y las huelga en la Nueva Constitución Cubana"
 date: "2018-10-30T13:53:22+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/10/Curtis-Jere-Birds-in-metal.jpg"
+image: ""
 ---
 Huelgas y sindicatos en Cuba.
 
@@ -25,15 +25,3 @@ Un texto constitucional en donde no se incluya claramente expresado y reconocido
 Esperemos que este no sea el principio de un futuro como el de China, _estado socialista_ proveedor de mano de obra barata para el capital trasnacional. Más allá de las consignas y el discurso, la clase trabajadora cubana debe guardar de que nuestro eslogan de inversión extranjera no se convierta de hecho en un pregón: _ven amigo capitalista, aquí encontrarás un buen lugar para invertir, con obreros que no hacen huelga, con sindicatos pobres e inoperantes y con salarios miserables. Ven a Cuba, un potencial paraíso para las trasnacionales._
 
 Huelgas y sindicatos en Cuba. Huelgas y sindicatos en Cuba. Huelgas y sindicatos en Cuba. Huelgas y sindicatos en Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

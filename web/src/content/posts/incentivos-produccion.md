@@ -1,9 +1,9 @@
 ---
-title: "Incentivos"
+title: "Prosperidad"
 date: "2020-07-24T20:00:00+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/07/Gerald-Moroder-Lo-Spazio-dell’Essere.jpg"
+image: ""
 ---
 incentivos para producir.
 
@@ -24,15 +24,3 @@ Ojalá la gente gane mucho. Eso si sería prosperidad. La prosperidad no puede s
 Tomado del Facebook del autor
 
 incentivos producción. incentivos producción.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/goya-y-politica/
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

@@ -3,7 +3,7 @@ title: "Revisitando el Steampunk"
 date: "2020-03-13T04:50:12+00:00"
 author: "Fernando Almeyda"
 category: "Teoría"
-image: "/wp-content/uploads/2020/03/taton-moise-EhOCnW4wnuQ-89786786976978unsplash.jpg"
+image: ""
 ---
 No ha pasado desapercibido para mí cómo en las últimas décadas ha habido una escalada de lo que ha dado a llamarse _steampunk_. Lo encontramos por todas partes pululando a través de casi cualquier manifestación artística. A resultas de cierta charla que tuve con un artista plástico cubano, me refirió que en principio él no sabía que hacía steampunk, pero lo hacía. Y eso llamó mi curiosidad de gato.
 
@@ -45,17 +45,3 @@ Una generación tan dependiente y obediente que renuncia al derecho de ver la ca
 Este fenómeno es algo así como una reacción a la asfixiante realidad contemporánea, llena de algoritmos, de colores, de botones, de pastillas, de barreras y de discursos; es quizás una búsqueda inocente por lo sincero, por la verdad sin tapujos del capitalismo. Pero sobre todo es un culto al esfuerzo físico y mental, al rescate de la promesa ya casi olvidada de hombres y mujeres capaces de valerse por si mismos, capaces de afrontar la realidad y de vivirla, con consecuencia y estilo…con estilo steampunk.
 
 [Tomado de Dialektika](https://dialektika.org/2020/03/08/filosofia-steampunk-y-estetica-capitalista/)
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

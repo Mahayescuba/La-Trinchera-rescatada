@@ -1,9 +1,9 @@
 ---
-title: "Marx y la Religión — Desde la Trinchera ofrecemos una visión"
+title: "Marx y la Religión"
 date: "2019-05-25T06:06:23+00:00"
 author: ""
 category: "Marxismo en Cuba"
-image: "/wp-content/uploads/2019/05/PicsArt_05-25-01.59.58-1.jpg"
+image: ""
 ---
 Marxismo y religión.
 
@@ -67,15 +67,3 @@ He conocido personas que han hecho su propia elucubración del marxismo para fun
 (8) Frase de Yassel A. Padrón Kunakbaeva, uno de los redactores asiduos de la joven Cuba, que busca hacer un análisis desde el marxismo de la realidad cubana.
 
 ##### Marxismo y religión. Marxismo y religión.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,5 +1,5 @@
 ---
-title: "unidad y unanimidad La Trinchera Carlos Ávila Villamar"
+title: "La unidad no significa unanimidad"
 date: "2018-04-02T16:00:41+00:00"
 author: "Carlos Ávila Villamar"
 category: "Opinión"
@@ -16,15 +16,3 @@ Creo que a veces las personas seleccionadas como los sacerdotes de lo revolucion
 Apenas se regula el uso de las palabras revolucionario y contrarrevolucionario, cualquier corrupto o arribista puede convertirlas en su mejor arma, o en una situación más sencilla, cualquier idiota puede echar a perder debido a su idiotez el prestigio que la causa revolucionaria ha conseguido a costa de sangre y sudor. Los consigneros incautos son los peores enemigos de la [Revolución](http://www.sld.cu/sitios/magisterio/temas.php?idl=73&idv=24446), porque dedican sus horas a difundir una involuntaria contrapropaganda. Esto se aplica todavía más al terreno de los intelectuales, donde se espera que el compromiso se traduzca en unidad, y la unidad en unanimidad. Siempre, ya sea para decidir la tipografía de una revista o el color de una pared, se encuentra la forma en la que se deba asumir una postura ante algo, lo que se hace se hace ante algo, hay que estar unidos: así que hay que asumir una postura, la postura ya prevista por alguien. Con honestidad puedo asegurar que pocas veces he estado en un verdadero debate dentro de las filas revolucionarias. Con debate me refiero a un intercambio de opiniones cuyo resultado no sea previsible. Los llamados debates con los jóvenes suelen ser sermones disfrazados. Tengo que decirlo, quizás esté equivocado, pero siento que tengo que decirlo.
 
 El gran problema, dijo Fidel refiriéndose al fracaso soviético, fue pensar que alguien ya sabía cómo construir el socialismo. Incontables farsantes habrán repetido la frase sin aplicarla nunca a su realidad inmediata, sin cuestionar sus propias ideas acerca del socialismo o el lugar del que se sostienen tales ideas. Demasiados papanatas pretenden ganarse la confianza de sus superiores forzando a aquellos bajo su mando a una unanimidad forzada, que no es unidad, sino una calculada y peligrosa hipocresía. Yo abogo por siempre repensarlo todo sin miedo a las palabras de nuestros enemigos, teniéndolas bien en cuenta, de hecho. Aquel que descarta de antemano a sus críticos, sin importar la integridad moral de sus críticos, ha de pensar en el fondo que no tiene la razón. El gran complejo de los necios es que se saben equivocados. Mi tragedia personal es estar en un bando político en el que no pocos se comportan como necios, como si no tuvieran la razón, aunque de hecho la tengan. Pero yo solo no puedo convencer a mis adversarios, y ya bastante difícil es convencer a los necios de mi bando de aquello en lo que dicen creer y en verdad no creen, sin que me consideren su enemigo al intentarlo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

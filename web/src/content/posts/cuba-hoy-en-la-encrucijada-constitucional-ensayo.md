@@ -3,7 +3,7 @@ title: "Cuba hoy, en la encrucijada constitucional"
 date: "2019-09-24T12:20:24+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/09/PicsArt_09-24-08.00.14.jpg"
+image: ""
 ---
 Constitución en Cuba. 
 
@@ -24,7 +24,7 @@ El proceso constituyente y el _referéndum_ que lo coronó, han quedado atrás, 
 
 Constitución en Cuba.  en Cuba Constitución en Cuba
 
-[Cuba-hoy-en-la-encrucijada-constitucional](/wp-content/uploads/2020/10/Cuba-hoy-en-la-encrucijada-constitucional.pdf)[Descarga](/wp-content/uploads/2020/10/Cuba-hoy-en-la-encrucijada-constitucional.pdf)
+[Cuba-hoy-en-la-encrucijada-constitucional](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/wp-content/uploads/2020/10/Cuba-hoy-en-la-encrucijada-constitucional.pdf)[Descarga](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/wp-content/uploads/2020/10/Cuba-hoy-en-la-encrucijada-constitucional.pdf)
 
 Valora nuestra web, por favor(obligatorio)  1 – Muy mala
 
@@ -43,15 +43,3 @@ Envía tu opinión
   
 
 Δ
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

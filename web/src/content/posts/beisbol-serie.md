@@ -3,7 +3,7 @@ title: "Fichaje"
 date: "2020-03-08T16:30:06+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/03/ღ-♣༻Dior༺-♣-ღ-☆.jpeg"
+image: ""
 ---
 Muy divertido el programa _Bola Viva_, de Tele Rebelde. Se oyó hablar de _mercado de fichaje_ y de _contratos_. No se referían los comentaristas a la vilipendiada _pelota_ _rentada_, sino al béisbol nuestro de cada día, al movimiento desmesurado de los atletas entre provincias con miras a la venidera _Serie_ _Nacional_. Qué iba a imaginar yo que el cuento que escribí hace años pudiera dejar de ser jodedera para convertirse en una realidad que está ahí y adelanta, a noventa pies del home.
 
@@ -15,15 +15,3 @@ El segundo fichaje fue el del torpedero espirituano Adán Roberto Pecoli, novato
 En menos de un mes se han sumado a la lista, entre otros, el receptor Dirosley Cabrera (ahora en Pinar del Río), el pitcher santiaguero Asdrúbal López (Camagüey), el cargabates bayamés Yamilo Arias (Villa Clara) y el segunda base matancero Sandalio de la Caridad Manfuga (Isla de la Juventud).  
 El diapasón de ofertas oscila entre veinticinco tractores con multiarado, cien cajas de jabón de tocador, setenta hectolitros de refresco gaseado, dos mil latas de pintura de aceite, quinientas ristras de ajo y trescientas pacas de ropa reciclada que hacen justicia a jugadores que merecen ser valorados en toda su dimensión de atletas del deporte revolucionario.  
 Eso sí: el entusiasmo no puede divorciarse de la cordura. El cuerpo de dirección y las autoridades gubernamentales de la Isla de la Juventud ahora se rompen la cabeza tratando de resolver el entuerto por ellos mismos creado. El fichaje de Sandalio de la Caridad Manfuga implicó ceder el único catamarán que quedaba en servicio entre Batabanó y Nueva Gerona, y que en estos días comienza a cubrir la recientemente creada ruta turística entre la bahía de Matanzas y la playa de Varadero. Los habitantes de la Isla de la Juventud, desesperados por ver a sus familiares de la isla grande, ahora se lanzan a nado en las turbulentas aguas del golfo de Batabanó y, lo que es peor, se ven impedidos de disfrutar de las incidencias de la Serie Nacional de Béisbol por no contar ese municipio especial con un medio de transporte adecuado para trasladar a los atletas hacia el estadio cabecera de Nueva Gerona. Ya no se puede contar con las dos naves aéreas que cuatro veces al día vuelan desde La Habana, pues estas, sobreexplotadas y con más de diez años de vida, priorizan el abasto de mercancías para la sobrevivencia de la población sureña.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

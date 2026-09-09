@@ -3,7 +3,7 @@ title: "Necesidades humanas, ¿individuales o comunes?"
 date: "2020-02-24T18:55:49+00:00"
 author: "Danilo Euser"
 category: "Teoría"
-image: "/wp-content/uploads/2020/02/g8CQJ0.jpg"
+image: ""
 ---
 En el ámbito de la Psicología y del estudio científico del comportamiento humano existen controversias sobre no pocos ni indiferentes temas. Para bien o no, los consensos científicos no suelen ser una práctica muy común en estos campos.  
 El estudio de las necesidades orgánicas en general, y las estrictamente humanas en particular (que esto puede tener muchos matices), es un ejemplo bien paradigmático de ello. Y como abordar temas escabrosos y controvertidos es de mis _hobbies_ preferidos, pues, ahí vamos…  
@@ -65,16 +65,4 @@ Esta disciplina estudia qué es relevante, importante o prioritario para el ser 
 
 > _Es fundamental conocer nuestras necesidades y las del entorno si pretendemos crear una economía que nos ayude a satisfacerlas._ –Alfonso Estébanez
 
-comportamiento humano comportamiento humano comportamiento humano comportamiento comportamiento humano comportamiento humano 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+comportamiento humano comportamiento humano comportamiento humano comportamiento comportamiento humano comportamiento humano

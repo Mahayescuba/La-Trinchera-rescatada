@@ -1,12 +1,10 @@
 ---
-title: "pensar como país"
+title: "¿Pensar como país?"
 date: "2019-12-17T07:48:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/12/IMG-20191222-WA0020.jpg"
+image: ""
 ---
-Pensar como país es muy difícil. Lo hicimos cuando se realizó la _Colecta de la libertad_ en la que hacendados, campesinos, jubilados, obreros, todos participaron; ante las agresiones que ponían en pie de guerra a una nación en abril, y en Octubre.
-
 **Por: Miguel Alejandro Hayes**
 
 > I
@@ -19,15 +17,3 @@ País, por su parte, es de semantización fría, formal. Fue signo que cedió pa
 Recuérdese que el lenguaje por sí solo no es nada, y la codificación y la significación emanan de la práctica social. Si bien a nivel lingüístico –puro y general- puede representar una descomposición dada por el abandono o sustitución del signo lingüístico propio de la _Revolución,_ para insertar uno ajeno, no tiene que figurar lo mismo en cuanto a la práctica cultural cosmovisiva de la sociedad. Así, si semejante señal –el nuevo término empleado en consignas- no es percibida de la misma forma por la mayoría de las personas, poco significa –como parece ser este el caso-. De ahí que ante la inserción del signo país en _eslogan_ de alcance nacional, no genere el efecto rechazo -a pesar de ser no codificado dentro de la caja tradicional del sistema-.  
 Resultado este, que aunque en primera instancia se presente como una “victoria ideológica”, en realidad sugiere también la idea de la presencia de cierta inercia social. Y es que el hecho de que lo antes mencionado sea desapercibido a gran escala, evidencia la ausencia del sujeto cuya actividad codificaba y sostenía en términos diferentes de _país_, y sí en _Patria_. Es decir, la no reacción contraria ante la entrada de _país,_ y la repetición dentro del aparato oficial, muestra la distancia entre la subjetividad social actual y el sistema generador de los signos tradicionales (Patria, Revolución, comunismo). Asimismo, muestra la ausencia de un sujeto, generador y reproductor del signo lingüístico de la _Revolución, y_ que sea capaz de sentir la presencia de un nuevo engranaje categorial que pertenece a un discurso político que entró sin previa justificación o respaldo histórico, sin un mínimo proceso de inserción.  
 Y como el lenguaje no es por sí solo, no generará un nuevo mundo, sino que este hará su lenguaje -como diría [Witgestein](https://es.wikipedia.org/wiki/Ludwig_Wittgenstein)\-. Por eso, país no vendrá con significado propio. Significado y significante, como contrarios solo separables en la abstracción del lenguaje, se comienzan a codificar según la lógica de aquellos que lo lanzan. Ahora país, pasa a resemantizarse por aquel que cuenta con el poder y capacidad movilizativa para difundir. Por eso, país, será pensado desde y para la égida de los intereses de la máxima dirección del PCC.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,15 +1,11 @@
 ---
-title: "Exclusión de Antonio Pacheco de glorias del beisbol"
+title: "Al volver de distante ribera"
 date: "2020-11-15T10:30:58+00:00"
 author: "Jorge Fernández Era"
 category: "Onírica"
-image: "/wp-content/uploads/2020/11/Max-Leiva-1966.jpg"
+image: ""
 ---
 Un pelotero cubano seleccionado uno de los cien mejores deportistas del siglo XX en la Isla fue ignorado indecentemente de una lista de glorias del beisbol santiaguero en el más reciente juego de las estrellas. La [nota](http://www.beisbolencuba.com/foros/serie-nacional-de-beisbol/caso-antonio-pacheco-respuesta-direccion-deportes-santiago-cuba.html) de aclaración de la Dirección de Deportes de esa provincia roza la ignominia, poco les faltó para decir que Antonio Pacheco fue estrella y parece brillaba, pero en realidad es un astro hace rato apagado que solo fulgura dados los años luz a que se encuentra.
-
-![](/wp-content/uploads/2020/11/Antonio-Pacheco-1.jpg)
-
-![](/wp-content/uploads/2020/11/Antonio-Pacheco-1.jpg)
 
 Un aeropuerto ha sido reabierto hoy después de una larga espera. Para el egoísta que algunos llevan dentro es medida precipitada que traerá como consecuencia la entrada al país de portadores de la enfermedad que desde hace un año asola al planeta. No recuerdan —tampoco es su culpa, los medios oficiales y el propio Gobierno han hecho silencio casi total sobre el asunto— que miles de compatriotas quedaron varados en el mundo entero, que cada uno tiene una historia que hacer sobre la angustia del no regreso.
 
@@ -46,10 +42,6 @@ El atleta pierde la cuenta de las veces que ha doblado a izquierda o derecha ant
 —Miembro del equipo nacional de carrera a campo traviesa…
 
 —…¡y campeón mundial de la modalidad de potreros, con récord incluido, desde el miércoles pasado!
-
-> [Un eterno juego de pelota](/onirica/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Un eterno juego de pelota» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/onirica/un-eterno-juego-de-pelota/embed/#?secret=lEv8X2ziR8" data-secret="lEv8X2ziR8" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 —Eso último veremos si se le agrega a su ficha… ¿Y el resto del equipo?
 
@@ -108,15 +100,3 @@ Por la puerta del fondo entran diez individuos con indumentaria deportiva simila
 —¡¿Pero quién va a creer que ese gordo es deportista?!
 
 —¡Respete al coronel Alzugaray, que a pesar de haber cumplido su guardia, helo aquí, enfundado en un uniforme que ni le sirve, tras haber aceptado altruistamente bajar de grado militar y fungir como capitán de la selección! Ahora póngase otra medalla, para que no desentone con las que pudimos conseguirle al resto de sus compañeros de equipo, y agarre bien esta copa, no vaya a ser que se rompa, es un préstamo del Museo del Deporte… ¡Adelante, que al pobre Fernández le va a dar un soponcio si lo hacemos esperar más!… Y cambie esa cara, cualquiera pensará que no le alegra regresar a suelo patrio.
-
-Exclusión de Antonio Pacheco de glorias del beisbol, Exclusión de Antonio Pacheco de glorias del beisbol, Exclusión de Antonio Pacheco de glorias del beisbol
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg#038;ssl=1)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg#038;ssl=1)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

@@ -1,9 +1,9 @@
 ---
-title: "Rolando Astarita y valor"
+title: "Teoría del valor, respuesta a crítica desde Cuba (1)"
 date: "2018-06-04T17:28:36+00:00"
 author: "Rolando Astarita"
 category: "Economía Política"
-image: "/wp-content/uploads/2018/06/Bernard-Goethals-.jpg"
+image: ""
 ---
 Esta nota es una respuesta a “El valor de cambio. Notas a propósito de un artículo de Rolando Astarita”, de Miguel Alejandro Hayes Martínez, publicado en  _La Trinchera_, Cuba, el 10/05/18 ([https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/2018/05/548/](/2018/)). Dada su extensión, la he dividido en dos partes.
 
@@ -44,15 +44,3 @@ Luego, en p. 90, Marx vuelve a explicar que en el intercambio, _de hecho_, los s
 **_En definitiva_**, lo que Hayes Martínez dice que escribió Marx tiene poco que ver con lo que Marx escribió en el capítulo 1 de _El Capital_, dedicado al análisis crítico de la mercancía y del valor. Tengamos presente que ese capítulo fue revisado y corregido por Marx para otras tres reediciones de su obra. Nunca cambió el sentido fundamental de su escrito. Tampoco lo hizo en los textos que quedaron en borrador, desde los que conformaron los volúmenes 2 y 3 de _El Capital_, hasta los _Grundrisse_, pasando por _Teorías de la plusvalía_, por su abundante correspondencia, y escritos políticos. En todos ellos encontramos, con matices, las mismas ideas fundamentales: que el valor es tiempo de trabajo socialmente necesario objetivado; que se expresa a través del valor de cambio; y que, por lo tanto, la plusvalía es trabajo no pagado, apropiado por el capitalista. Por supuesto, cualquiera puede estar en contra de la teoría de Marx. Pero es inadmisible inventar cualquier cosa para hacerle decir a Marx (o a cualquier otro autor) lo que se nos ocurre que debe decir.
 
 Tomado de [Rolando Astarita](https://rolandoastarita.blog/2018/05/30/teoria-del-valor-respuesta-a-critica-desde-cuba-1/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

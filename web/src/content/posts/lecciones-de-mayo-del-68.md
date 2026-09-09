@@ -1,12 +1,10 @@
 ---
-title: "Mayo de 1968"
+title: "Lecciones de mayo del 68"
 date: "2018-05-18T13:30:54+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2018/05/contacto-rh010589-c.jpg"
+image: ""
 ---
-El ascenso revolucionario de mayo de 1968 constituye una enorme cantera de experiencias sociales.
-
 Por: **Ernest Mandel**
 
 **Este artículo de Ernest Mandel fue publicado originalmente en la revista _Les Temps Modernes_ en julio de 1968 \[1\]. En él, después de situar las luchas de Mayo como resultado directo de las contradicciones de lo que entonces se conocía como “neocapitalismo”, pone el acento en su relevancia como acontecimiento que volvió a poner de actualidad la hipótesis revolucionaria en un país central del capitalismo occidental. Mandel fue un activista más de aquellas jornadas, habiendo participado en el acto público que se desarrolló en la Mutualité de París el 9 de mayo y en el que intervino también, junto a activistas de otros países, Daniel Cohn-Bendit. Al igual que le ocurrió a este líder estudiantil en pleno mes de mayo, Mandel fue expulsado de Francia el 10 de junio de aquel mismo año.**
@@ -268,15 +266,3 @@ El objetivo no es crear nuevas instituciones en el marco del régimen capitalist
 \[29\] Nos falta espacio para tratar las implicaciones y consecuencias de la explosión de mayo de 1968 en el plano internacional europeo y extraeuropeo. Señalemos, sin embargo, el modo unánime con que el capital internacional voló en ayuda de de Gaulle durante los días decisivos, pese a todas sus diferencias con los anglosajones; y, en contrapartida, el lamentable espectáculo de la total impotencia del movimiento sindical y obrero oficial para organizar ni una sola acción de solidaridad con la huelga general más amplia que Occidente haya conocido en varios decenios.
 
 [Sobre el mismo tema](/historia/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

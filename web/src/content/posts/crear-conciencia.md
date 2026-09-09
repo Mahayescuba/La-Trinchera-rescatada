@@ -3,7 +3,7 @@ title: "Crear conciencia"
 date: "2020-05-26T20:01:44+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2020/05/Screenshot_20200526-153950-1.jpg"
+image: ""
 ---
 El _reto_ del día de África sirvió para que, en medio del aislamiento muchos encontraran una razón para cambiar el aire e interactuar y disfrutar a través de las redes.
 
@@ -32,15 +32,3 @@ Hay muchas maneras de crear conciencia sobre los problemas reales de un continen
 **Notas**:
 
 (I) Tras la proclamación del carácter socialista de la Revolución Cubana, se mitificaba el Socialismo como salud y educación gratuita. El mito sobrevive hasta hoy.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

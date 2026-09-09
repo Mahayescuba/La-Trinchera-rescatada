@@ -3,7 +3,7 @@ title: "La dialéctica en la Trinchera Abierta"
 date: "2018-12-19T02:59:17+00:00"
 author: ""
 category: "Trinchera Abierta"
-image: "/wp-content/uploads/2018/12/PicsArt_12-18-07.56.16.jpg"
+image: ""
 ---
 Dialéctica en Trinchera Abierta.
 
@@ -30,15 +30,3 @@ Ya en este punto, las notas se me pierden y se hace imposible captar lo que ocur
 >  Lo normal ocurre, nos dejamos llevar hasta adentrada la noche en discusiones que nos van alejando del punto inicial.
 
 Dialéctica en Trinchera Abierta. Dialéctica en Trinchera Abierta.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

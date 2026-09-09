@@ -3,7 +3,7 @@ title: "Goticas homeopáticas"
 date: "2020-04-23T20:05:08+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/04/wd-06-402x268-1.jpg"
+image: ""
 ---
 ## Homeopatía, efectividad real o un placebo colectivo
 
@@ -85,17 +85,3 @@ No debemos tampoco olvidar que, al menos, una buena parte de los problemas que h
 Hoy más que nunca, no abandonemos las trincheras de ideas y conocimientos, por las de la superstición y la fe ciega.
 
 Artículo apoyado en los trabajos de grandes divulgadores científicos como: [Marcos Vázquez](https://www.fitnessrevolucionario.com/2015/05/16/homeopatia-vs-medicina-convencional-beneficios-riesgos-y-el-poder-de-tu-mente/); [J. M. Mulet](https://elpais.com/elpais/2018/03/06/eps/1520330139_815845.html); [Fernando Frías](https://listadelaverguenza.naukas.com/); [Jesús Fernández Pérez](https://www.cnemcongress.com/single-post/Homeopatia-que-dice-la-ciencia); entre otros.
-
-[Otro texto del autor](/ciencia/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

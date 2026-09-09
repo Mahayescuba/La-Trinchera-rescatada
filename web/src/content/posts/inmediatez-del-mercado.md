@@ -3,7 +3,7 @@ title: "La irreductible inmediatez del Mercado"
 date: "2019-10-09T12:38:04+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2019/10/IMG_20191009_093317-2.jpg"
+image: ""
 ---
 Es poco probable que el Mercado por sí solo pueda organizar una economía viable para cuando el aire puro sea un bien escaso.
 
@@ -19,15 +19,3 @@ Debemos entender que en general las necesidades reales son inmediatas, mientras 
 Por lo tanto ya no el interés mediato de toda la sociedad que rodea a los dos individuos que intercambian en el Mercado es dejado de lado en este por “antinatural”, sino aun el de cualquiera de esos dos individuos. Tal siempre ocurre en una sociedad en que los intercambios se realicen de manera no regulada mediante el mercado, ya que obliga al vendedor a cuidarse de los otros vendedores, y deja al comprador bajo el control total de sus necesidades inmediatas, o reales. Y es la causa profunda de que las utopías mercantiles solo puedan ser consideradas mientras el medio en que se desenvuelve la sociedad en cuestión tenga dimensiones y capacidad de auto regenerarse que superen con mucho la cantidad de entropía que su economía crea.  
 Es poco probable que el Mercado por sí solo pueda organizar una economía viable para cuando el aire puro sea un bien escaso. En todo caso para cuando la solución del Mercado llegue ya habrá muerto de cáncer en el pulmón un significativo por ciento de la población mundial, y para todos queda claro que una solución semejante no es aceptable al menos para quienes no hemos abandonado cierto grado de humanización. Tendría el Mercado que organizar esa economía viable ya desde ahora, y por tanto lo que valorizaría sería el futuro aire respirable, un bien que como hemos dicho ya antes difícilmente pueda jerarquizarse por encima de las necesidades patentes del presente.  
 El Mercado, como el ágora, es un medio de consensuación de los asuntos comunes. Solo que un medio irracional, necesario para corregir la racionalidad del ágora. Por tanto secundario.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

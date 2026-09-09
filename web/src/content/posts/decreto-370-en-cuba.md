@@ -1,9 +1,9 @@
 ---
-title: "Decreto 370 en Cuba"
+title: "Decreto 370"
 date: "2020-05-17T09:30:32+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/05/IMG_20200521_180703.jpg"
+image: ""
 ---
 Ernesto Gutiérrez, asiduo visitante de El Solar, ha decido mudarse definitivamente. Hoy Gutiérrez nos habla del Decreto 370, normas jurídicas que intentan dar un orden a la política de informatización de la sociedad en Cuba. ¿Es Constitucional? ¿Respeta sus artículos los derechos ciudadanos? ¿Es hija de la excepcionalidad en tiempos de COVID-19? ¿Qué consecuencias trae el Artículo 68 inciso i para los cubanos? Sobre estas y muchas otras preguntas reflexionamos en El Solar. ¡Ernesto Gutiérrez, bienvenido!
 
@@ -27,15 +27,3 @@ Punto y aparte merecería el proceso constituyente, especialmente la fase de con
 Tal y como era de esperarse, el órgano responsable de dar el visto bueno al proyecto antes de enviarlo a _referéndum_, acogió monolíticamente la propuesta que se le elevó, no sin antes desarrollar una tentativa de debate al respecto.
 
 El proceso constituyente y el _referéndum_ que lo coronó, han quedado atrás, mas no así el texto al cual dio vida. Sírvase ud. lector de estas breves líneas, que a modo de escueto análisis se le dedican al susodicho documento.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

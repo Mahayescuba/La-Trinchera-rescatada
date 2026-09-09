@@ -48,15 +48,3 @@ El fenómeno es mucho más complejo, y el debate traería a colación extraordin
 Por lo pronto, ante los tropezones de la izquierda por los excesos de esos sujetos más activos de las revoluciones, en el socialismo real, en los movimientos de liberación nacional en África, Asia y América Latina en siglo pasado y parte del presente; hay que pensar seriamente en cómo tener una vanguardia que no termine usando los hombros de otros hombres para mantenerse arriba, porque todavía, es necesaria.
 
 **Publicado originalmente en Rebelión**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

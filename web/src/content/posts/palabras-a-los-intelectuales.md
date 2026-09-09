@@ -1,5 +1,5 @@
 ---
-title: "Palabras a los intelecuales fragmentos a debatir"
+title: "Cinco párrafos de palabras a los intelectuales que no son citados en muchos debates"
 date: "2018-12-17T00:15:46+00:00"
 author: ""
 category: "Política en Cuba"
@@ -30,15 +30,3 @@ Además de estos párrafos remito a cualquiera que quiera volver a citar un pár
 Usar un fragmento descontextualizado y mutilado del discurso de Fidel es para mí uno acto de manipulación. Si la acción viene de un cientista social será aún peor, porque caerá en un acto de consciente que inmortalizará como dogma un debate que inició el 16 de junio de 1961, y para ser coherente con el proceso [revolucionario](/politica-en-cuba/), deberá ser actualizado y recontextualizado dialécticamente con nuestras condiciones históricas actuales.
 
 Tomado de [El imperfecto mundo de Sarastro](https://imperfectomundo.wordpress.com/2017/04/15/cinco-parrafos-de-palabras-a-los-intelectuales-que-no-son-citados-en-muchos-debates/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

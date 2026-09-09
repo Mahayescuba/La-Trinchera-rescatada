@@ -3,7 +3,7 @@ title: "La responsabilidad de los intelectuales"
 date: "2020-11-26T10:30:00+00:00"
 author: "Noam Chomsky"
 category: "Política"
-image: "/wp-content/uploads/2020/11/Antpine-Josse-Pont.jpg"
+image: ""
 ---
 > Extracto del nuevo libro de Noam Chomsky _La responsabilidad de los intelectuales_ (Sexto Piso, 2020). Traducción de Albino Santos Mosquera
 
@@ -26,8 +26,6 @@ Hay otros nombres, sin embargo, que se echan en falta en la lista de los disiden
 No estoy hablando de algo excepcional. Se trata, más bien, de la norma. Aquellos hechos no tienen nada de inextricables. Son de sobra conocidos para los activistas que protestaron contra los horrendos crímenes promovidos por Estados Unidos en América Central, y también para los expertos que han estudiado el tema. En una de las entradas de The Cambridge History of the Cold War, John Coatsworth escribe que, desde 1960 hasta _la caída soviética en 1990, las cifras de presos políticos, de víctimas de torturas y de disidentes políticos no violentos ejecutados en América Latina superaron con mucho a las registradas en la Unión Soviética y sus satélites del este de Europa_.
 
 Sin embargo, ese mismo panorama se dibuja justamente a la inversa según aparece tratado en los medios de comunicación y en las revistas de los intelectuales. Por poner sólo un ejemplo llamativo de los muchos posibles, diré que Edward Herman y yo mismo comparamos la cobertura que The New York Times había realizado del asesinato de un sacerdote polaco –cuyos asesinos fueron prontamente localizados y castigados– con la de los asesinatos de cien mártires religiosos en El Salvador –incluyendo al arzobispo Óscar Romero y a cuatro religiosas estadounidenses–, cuyos perpetradores permanecieron mucho tiempo ocultos a la justicia mientras las autoridades de Estados Unidos negaban los crímenes y las víctimas no recibían de su Gobierno más que el desprecio oficial. La cobertura informativa del caso del sacerdote asesinado en un Estado enemigo fue inmensamente más amplia que la dispensada al centenar de mártires religiosos asesinados en un Estado satélite de Estados Unidos, y también su estilo fue radicalmente diferente, muy en sintonía con las predicciones del llamado _modelo de propaganda_ de explicación del funcionamiento de los medios de comunicación. Y ésta sólo es una ilustración entre muchas posibles de lo que ha sido un patrón constante a lo largo de muchos años.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-dilema-etico-y-el-derecho-de-los-medios/
 
 Puede que la mera servidumbre al poder no lo explique todo, desde luego. En ocasiones –muy escasas–, sí llegan a consignarse los hechos, aunque acompañados de un esfuerzo por justificarlos. En el caso de los mártires religiosos, el distinguido periodista estadounidense Nicholas Lemann, corresponsal de nacional de The Atlantic Monthly, revista de línea editorial _liberal_ (de centroizquierda), aportó una explicación alternativa en una respuesta pretendidamente sarcástica a nuestro trabajo: _Esa discrepancia puede explicarse diciendo que la prensa tiende a concentrarse sólo en unas pocas cosas en cada momento concreto, e_scribió Lemann, y _la prensa estadounidense estaba entonces centrada sobre todo en Polonia_.
 
@@ -55,8 +53,6 @@ Se trata de un patrón generalizado. No hace falta citar ningún ejemplo, pues h
 
 De fronteras para dentro, no hay disidentes, ni tampoco comisarios ni apparátchiki. Sólo salvajes entre bastidores, por un lado, e intelectuales responsables –los considerados como los verdaderos expertos–, por el otro. La responsabilidad de los expertos la ha detallado uno de los más eminentes y distinguidos de todos ellos. Alguien es un _experto_, según Henry Kissinger, cuando _elabora y define_ el consenso de su público _a un alto nivel_ (entendiéndose como _público_ aquellas personas que establecen el marco de referencia dentro del que los expertos ejecutan las tareas a ellos encomendadas).
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/derecho-a-la-informacion-veraz/
-
 Las categorías son bastante convencionales y se remontan al uso más temprano del concepto de _intelectual_ en su sentido contemporáneo, durante la polémica del caso Dreyfus en Francia. La figura más destacada de los dreyfusards, Émile Zola, fue condenado a un año de cárcel por haber cometido la infamia de pedir justicia para el acusado en falso Alfred Dreyfus, y huyó a Inglaterra para evitar una pena mayor. Fue entonces duramente reprobado por los _inmortales_ de la Academia Francesa. Los dreyfusards eran auténticos _salvajes entre bastidores_. Eran culpables de _una de las excentricidades más ridículas de nuestro tiempo_, por decirlo con las palabras del académico Ferdinand Brunetière: _la pretensión de alzar a escritores, científicos, profesores y filólogos a la categoría de superhombres_ que se atreven a _tratar de idiotas a nuestros generales, de absurdas a nuestras instituciones sociales, y de insanas a nuestras tradiciones_. Osaban entrometerse en asuntos que debían dejarse a los _expertos_, a _hombres responsables_, _intelectuales tecnocráticos y políticamente pragmáticos_, según reza la terminología contemporánea del discurso liberal de centroizquierda.
 
 Pues bien, ¿cuál es, entonces, la responsabilidad de los intelectuales? Siempre pueden elegir. En los Estados enemigos, pueden optar por ser comisarios o por ser disidentes. En los Estados satélites de la política exterior estadounidense, en el período moderno, esa elección puede tener consecuencias indescriptiblemente trágicas para esas personas. En nuestro propio país, pueden elegir entre ser expertos responsables o ser salvajes entre bastidores.
@@ -70,15 +66,3 @@ Chomsky alude aquí a la expresión que Kellyanne Conway, asesora del presidente
 **Fuente:** [https://www.lamarea.com/](https://www.lamarea.com/)
 
 [También puede interesar](/politica-en-cuba/)
-
-responsabilidad de los intelectuales, responsabilidad de los intelectuales, responsabilidad de los intelectuales, responsabilidad de los intelectuales, responsabilidad de los intelectuales
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/220px-Noam_Chomsky_portrait_2017.jpg)
-    
-    ![](/wp-content/uploads/2020/12/220px-Noam_Chomsky_portrait_2017.jpg)
-    
-    [Noam Chomsky](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/noam-chomsky/)
-    
-    Lingüista, filósofo, politólogo y activista estadounidense.

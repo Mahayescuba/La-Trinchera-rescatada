@@ -1,9 +1,9 @@
 ---
-title: "elecciones en EEUU"
+title: "Diez días que estremecerán al mundo"
 date: "2020-10-12T09:30:00+00:00"
 author: "José Gabriel Barrenechea"
 category: "Onírica"
-image: "/wp-content/uploads/2020/10/Binh-Danh-Immortalité-Les-Vestiges-de-la-guerre-du-Vietnam.jpg"
+image: ""
 ---
 3 de noviembre, 2 pm Hora del Este: Se contabilizan por todo el país más de 3 000 colegios asediados por seguidores de Donald Trump, fuertemente armados, que impiden el acceso a los votantes demócratas. Se multiplican las denuncias de empleadores que obligan a sus empleados a votar por el candidato republicano.
 
@@ -12,10 +12,6 @@ image: "/wp-content/uploads/2020/10/Binh-Danh-Immortalité-Les-Vestiges-de-la-gu
 3 de noviembre, 3 pm Hora del Este: Aun sin conocerse datos preliminares, Donald Trump tuitea que hay en marcha una conspiración de los demócratas, los negros y los latinos, para robarle la elección presidencial e implantar el comunismo en los EEUU. _A los latinos les gusta el comunismo, porque es el régimen ideal para los vagos_, escribirá poco después, _todos llevan la vagancia en su sangre degenerada_.
 
 3 de noviembre, 9 pm Hora del Este: Comienzan a arribar a los alrededores de la Casa Blanca las milicias blancas de Virginia. Conocidos los primeros resultados Joe Biden marcha al frente con una amplia ventaja.
-
-![](/wp-content/uploads/2020/10/C_Julien-Pacaud-Tutorials-.jpg)
-
-![](/wp-content/uploads/2020/10/C_Julien-Pacaud-Tutorials-.jpg)
 
 3 de noviembre, 10 pm Hora del Este: Donald Trump se presenta frente a las cámaras de Fox NEWS para anunciar que George Soros ha pagado 200 millones para que negros y latinos falsifiquen las votaciones por correo. Ocurren los primeros choques entre manifestantes anti-trump y las milicias blancas, con el saldo de 15 muertos entre los primeros.
 
@@ -36,10 +32,6 @@ image: "/wp-content/uploads/2020/10/Binh-Danh-Immortalité-Les-Vestiges-de-la-gu
 4 de noviembre, 4 am, hora del Este: Encabezados por sus pastores evangélicos hordas cristianas asaltan por todo el país sedes de instituciones de investigación científica, universidades e iglesias católicas o sinagogas. Se reporta el linchamiento de homosexuales en casi todos los pueblos del interior y sur del país.
 
 4 de noviembre, 7 am, hora del Este: Donald Trump vuelve a aparecer en cadena de televisión para informar al pueblo americano que ha ganado con todos los votos electorales en todos los estados, y con un 99% del voto popular, por lo cual se autodesigna Emperador de la Galaxia. De inmediato promulga la disolución del Congreso, del Tribunal Supremo, y la abrogación de la Constitución. _Esa Constitución fue impuesta por los conjurados iniciales de la conspiración judeo-masónica-liberal-comunista-mejicano-pederasta_ y _los verdaderos héroes americanos son Aaron Burr y Benedict Arnold, pero luego los intelectuales cambiaron la historia para hacerlos aparecer como traidores, mientras que gentes como Washington y Jefferson, mulatos pederastas, fueron convertidos en héroes_. 
-
-> [Nunca hubo mejor momento para ver “The Wire”](/opinion/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Nunca hubo mejor momento para ver “The Wire”» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/opinion/nunca-hubo-mejor-momento-para-ver-the-wire/embed/#?secret=xVDTbevWao" data-secret="xVDTbevWao" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 4 de noviembre, 12 meridiano, hora del Este: Con el Pentágono y todas las bases militares en el país rodeadas por las milicias pro-Trump los generales y almirantes deciden plegarse al Coup de Etat. Un grupo de bases en Europa y Japón se insubordinan, así como los Portaviones Ronald Reagan y George Bush, mas Trump se pone de acuerdo por teléfono con Putin para que “discretamente” se ocupe de ellas. Par de docenas de misiles Topol con cabezas termonucleares resuelven el problema. Discretamente, sólo porque en los EEUU el Emperador del Universo controla a los medios.
 
@@ -62,15 +54,3 @@ image: "/wp-content/uploads/2020/10/Binh-Danh-Immortalité-Les-Vestiges-de-la-gu
 12 de noviembre, 2 pm Hora del Este: Aviones de la Fuerza Aérea Castrista hunden a los tres barcos en medio del Estrecho de la Florida. La Agencia Imperial de Noticias, la única autorizada a funcionar en el Imperio, nunca informará de lo sucedido, el Emperador tampoco se pronunciará…
 
 Continuará…
-
-elecciones en EEUU, elecciones en EEUU, elecciones en EEUU, elecciones en EEUU, elecciones en EEUU, elecciones en EEUU
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg#038;ssl=1)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg#038;ssl=1)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

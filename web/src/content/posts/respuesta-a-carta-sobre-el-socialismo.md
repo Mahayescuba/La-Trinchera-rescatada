@@ -1,9 +1,9 @@
 ---
-title: "Socialismo"
+title: "Sin ni siquiera saberlo"
 date: "2019-09-26T15:34:00+00:00"
 author: ""
 category: "Marxismo en Cuba"
-image: "/wp-content/uploads/2019/09/IMG_20190925_232524.jpg"
+image: ""
 ---
 ### En respuesta a una carta publicada en Rebelión
 
@@ -18,15 +18,3 @@ También entiendo que cada líder político ha hecho lo que ha podido, determina
 Una cosa soy yo escribiendo aquí cómodamente, y otra Marx pasando hambre o viendo a un hijo morir, o el Che Guevara desandando las lomas con un ataque de asma, y reflexionando críticamente sobre el marxismo. Por supuesto, no se manejan igual los tiempos.  
 Por eso resulta doblememte un dislate considerar que cualquier apertura o cambio o reforma económica en Cuba, en busca del desarrollo de las fuerzas productivas, vaya a redundar en una regresión al capitalismo. Primero, porque en Cuba, entre crisis y consignas, estamos como los tres hermanos de la fábula en la canción de Silvio. Segundo, porque a fuerza de ser reaccionaria esa carta, además de ser antimarxista, muestra un desconocimiento patológico de la historia como proceso social: ninguna reforma hecha en Cuba desde el poder actual podría conducir al capitalismo tal como se conoce y se ha estudiado, porque la superestructura no está diseñada para eso. Sería como pretender que una máquina de _[IBM](https://es.m.wikipedia.org/wiki/IBM)_ trabaje con un sofware de _Macbook_.  
 Pero que una carta sea un dislate no quiere decir que sea inofensiva. Contiene señales. Las señales de lo sórdido, que la Historia nos enseña, ha de sobrevenir a la actual “coyuntura” si analizamos lo que pasó en la URSS después del fracaso de la _Nueva Política Económica_, o en la propia isla luego de las reformas que nos permitieron sortear aquel período especial. Entonces estamos ante una carta constituye tal dislate y que, por reveladora de un pensamiento y una corriente, hay que agradecer. Porque nos está mostrando quiénes son los que, como en infernal círculo, están renunciando a construir el socialismo, del mismo modo en que sus maestros renunciaron a hacerlo: sin ni siquiera saberlo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

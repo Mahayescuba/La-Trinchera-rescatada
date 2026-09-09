@@ -3,7 +3,7 @@ title: "El oportunismo del pensamiento crítico: sobre Sopa de Wuhan"
 date: "2020-04-15T17:45:22+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2020/04/Portada-sopa-de-wuhan-700x352-1.jpg"
+image: ""
 ---
 Más allá de criticar la intencionalidad o no del título o que haya una agenda racista oculta, lo más preocupante es el oportunismo que decide que es necesario opinar ya y que ha surgido a raíz de la pandemia del coronavirus.
 
@@ -34,15 +34,3 @@ Estos días de confinamiento se está debatiendo sobre los usos y abusos de la f
 \[3\]Patricia Manrique, “Hospitalidad e inmunidad virtuosa” en Sopa de Wuhan: pensamiento contemporáneo en tiempo de pandemias, Pablo Amadeo, ed. ASPO, p.145-146.
 
 **[Tomado de Tierra Adentro](https://www.tierraadentro.cultura.gob.mx/el-oportunismo-del-pensamiento-critico-sobre-sopa-de-wuhan/?fbclid=IwAR0HstcxwiWdCGsINn4xkfjD8FNUodMwkvb4KmIOUm7Zr0PlFMXjP-SStcs)**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

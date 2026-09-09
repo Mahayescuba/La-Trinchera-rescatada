@@ -1,5 +1,5 @@
 ---
-title: "Muerte de Chibás"
+title: "El último aldabonazo"
 date: "2020-08-06T09:30:00+00:00"
 author: ""
 category: "Historia"
@@ -34,15 +34,3 @@ Y así fue, su aldabonazo sonó convertido en el ruido estruendoso de un disparo
 Su _suicidio político_ sirvió de llamado de atención, y una reafirmación de la ética impecable de nuestro protagonista, acto cuestionado por muchos, no así por otra gran mayoría, y que culminó en la mayor manifestación de duelo popular registrada hasta entonces en el país.
 
 [También puede interesar](/historia/)
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    [La Trinchera Editor](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/la-trinchera-editor/)
-    
-    La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser una plataforma de debate.
-    
-    [](/la-trinchera/)

@@ -1,5 +1,5 @@
 ---
-title: "Unificación monetaria en Cuba"
+title: "Pitén"
 date: "2020-12-18T17:00:59+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
@@ -8,8 +8,6 @@ image: "/wp-content/uploads/2020/12/Bastein.jpg"
 En la calle Flores nacimos y nos criamos. San Bernardino fue la frontera imaginaria en que se dividieron los pitenes más sonados de Santos Suárez, esos que organizábamos frente al Solar de las Margaritas y que reunían a decenas de chamas de los alrededores. Tú pertenecías, Alejandro, a los de Flores arriba, y yo a los de Flores abajo. Y podía pasar que por falta de quorum se ligaran las alineaciones sin restarle calidad al partido.
 
 Casi medio siglo después proseguimos este juego muy serio de echar nuestro país adelante, tú desde las funciones de ministro de Economía, yo como el periodista que pretendo ser, diciendo lo mío y colocándolo donde puedo. La última vez que nos vimos te dije que con el cargo te habían puesto una podrida, hoy vengo a colocártela yo.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/politica-monetaria-y-cambiaria-en-cuba/
 
 De veras no me explico cómo si se tuvo todo el tiempo del mundo para hacer la unificación monetaria —devenida a última hora Ordenamiento, eufemismo que devela hasta qué punto estábamos desordenados—, han armado este arroz con mango en forma de trabalenguas que solo Murillo entiende. Y yo me quedo esperando, tras esas intervenciones suyas en que nos regaña cual si fuésemos responsables, que devele por qué demonios nos salen con esto ahora, en medio de la covid y del recrudecimiento del bloqueo norteamericano, nunca mejor apoyado por nuestras propias insuficiencias.
 
@@ -26,15 +24,3 @@ Y cuando hablo de rendir cuentas pienso en la Asamblea Nacional que no existe. P
 Tendremos la economía más financiera y menos administrativa que promete el jefe de los lineamientos cuando deje de dirigirse a nosotros con esa manía de ordeno y mando que nos reduce a meros espectadores de un escenario pensado y decidido a costa nuestra. Si hay que rectificar, rectifiquen el error de no tenernos en cuenta, dennos otra opción que no sea la del aplauso unánime.
 
 El pitén está reñido, Alejandro. Hay jóvenes sentados en el contén y pidiendo.
-
-unificación monetaria en Cuba, unificación monetaria en Cuba, unificación monetaria en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

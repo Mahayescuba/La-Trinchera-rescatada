@@ -3,7 +3,7 @@ title: "Motor de arranque"
 date: "2021-04-12T09:30:00+00:00"
 author: "Alberto Miguel de l"
 category: "Cultura"
-image: "/wp-content/uploads/2021/04/Gerard-Cambon-Motor.jpg"
+image: ""
 ---
 Creo que los más rezagados llegaron en masa, en la segunda emisión. El comentario pasó de boca en boca y para el segundo domingo ya era casi sintonía total. Las noches del domingo volvían a tener buen sabor y alegría. 
 
@@ -24,17 +24,3 @@ Vuelvo sobre mis pasos y retomo el asunto sobre “El motor…”, hemos podido 
 No quiero ser reiterativo ensalzando nombres, o parcelas de “El motor… “, pero me gustaría hacer algunas recomendaciones: ¿podríamos, terminado el casting de los imitadores naturales, entrenarlos con especialistas que les ayuden a pulir sus habilidades? ¿Se podrían diseñar sketches para que puedan interactuar entre ellos? Cierto que esto llevaría un tiempo mayor de pre producción, pero este segmento dejaría de ser un “ahora tú”. Por otro parte también sería bueno regular las improvisaciones de los profesionales, a veces se notan un tanto reiterativos y maniqueos, como si de repente se hubieran quedado sin recursos para el personaje -excepción de Noelia Bermellón- más cuando están interactuando con los imitadores y a veces parece que los tienen la intención de hacerlos objetos de burla, y sabemos que no es esa la intención, solo que esta interacción pudo ser mejor preparada para que el protagonista del momento -el imitador- no se vea en desventaja. Recordar para ello que siempre menos, es más.
 
 Y finalmente agradecer al colectivo de “El motor de arranque” la buena vibra, la alegría contagiosa, la cubanía. Otra vez gracias, y arrancado el motor, que venga carretera.
-
-El motor de arranque
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-09-17.16.10.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-09-17.16.10.jpg)
-    
-    [Alberto Miguel de la Paz Suárez](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/alberto-miguel-de-la-paz-suarez/)
-    
-    Graduado de Dirección en Radio, Cine Y Televisión en FAMCA, ISA. MSc. Realización Audiovisual. Realizador, guionista y profesor Universitario.
-    
-    [](mailto:albertops70@gmail.com)

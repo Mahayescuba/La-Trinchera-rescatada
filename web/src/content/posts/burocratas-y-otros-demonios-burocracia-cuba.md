@@ -1,9 +1,9 @@
 ---
-title: "Burócratas y otros demonios La Trinchera-jóvenes marxistas cubanos"
+title: "Burócratas y otros demonios"
 date: "2019-04-17T05:50:58+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/04/IMG-20190417-WA0001.jpg"
+image: ""
 ---
 No hay que decir nombres aquí, ni de estos ni de los primeros burócratas, porque son muchos y no los conozco a todos.
 
@@ -33,15 +33,3 @@ Vivimos en el mismo dilema donde quien quiere cambiar la sociedad, debe cambiar 
 No hay que decir nombres aquí, ni de estos ni de los primeros burócratas, porque son muchos y no los conozco a todos. Tampoco es necesario, esto no es una denuncia, y de todos modos habrá quienes se sientan identificados con estas líneas y quienes sepan ver personajes semejantes a los aquí referidos.  
 Afirmo mi punto: los burócratas están en todas partes. Hay que estar más alertas. A los demonios de siempre ya los conocemos, pero de entre los que se comienzan a ver cómo su alternativa, están los que son más de lo mismo, y no sabemos cómo funcionan del todo, aunque estaban ahí de antes.  
 El ser un luchador por el bienestar del ser humano, de una nación, se lleva en el día a día, primero. De no ser así, esas causas son solo una escusa que se emplea para obtener un status. De los que hacen eso, hay más de lo que parece.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

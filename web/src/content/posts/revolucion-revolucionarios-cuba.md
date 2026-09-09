@@ -3,7 +3,7 @@ title: "De revolución y revolucionarios"
 date: "2019-05-18T20:37:56+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/05/PicsArt_05-18-11.45.05.jpg"
+image: ""
 ---
 Los _revolucionarios_ de mi generación no se alzan en montañas, no toman palacios, ni innovan en nada, ellos son continuidad, y cuestionar lo establecido -sin que se pregunten por quién o para qué- es herejía.
 
@@ -48,15 +48,3 @@ Creo haber descubierto nuestro principal mal: la inercia, esa “mano invisible�
 En este momento no me importa si mis compatriotas creen que el pasado fue el paraíso o el infierno, los artífices de las gestas pasadas descansan ya en su mayoría, solo me interesa el presente porque es la única manera en que podremos aspirar al futuro. Que la coherencia sepa contrarrestar la inercia, que el sentido común sepa imponerse al dogma adquirido y que la buena fe y el amor que merece esta tierra prevalezcan, es la única vía legítima en que podremos concluir en términos felices el estribillo de aquella célebre canción, y así poder decir que _Cuba va_ hacia un futuro mejor.
 
 revolucionarios de mi generación revolucionarios de mi generación revolucionarios de mi generación revolucionarios de mi generación
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

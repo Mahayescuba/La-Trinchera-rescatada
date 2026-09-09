@@ -3,7 +3,7 @@ title: "El contexto importa"
 date: "2020-09-10T16:00:00+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/09/Chema-Madoz.jpg"
+image: ""
 ---
 Inflación y tasa de cambio en Cuba.
 
@@ -66,7 +66,7 @@ La expansión monetaria puede representar una fuente de liquidez que serviría d
 
 Los sectores estratégicos para un mejor desempeño de la economía (como puede ser la producción de alimentos) se pueden estimular a través de facilidades fiscales, impositivas, y hasta de prioridad en la gestión, o incluso con mecanismos extraeconómicos. Es decir, si el aumento de circulante se concentra en los bienes de capital, y estos en los sectores que más pudieran garantizar un aumento potencial de la demanda y la oferta (por ejemplo, la producción de alimentos y encadenamientos derivados), el resultado jamás sería un proceso inflacionario.
 
-Es ahí en donde juega su papel la tasa de cambio resultante de la unificación. Si esta llega a representar un aumento del circulante, digamos una tasa igual o mayor que la mayor actual, el _dónde_ se concentre la mayor cantidad de dinero resulta clave. La mayor concentración de dinero en Cuba recae[\[1\]](applewebdata://8FE83ADC-91C9-4927-A7AA-CB8300B1CD82#_ftn1) en manos del estado y del sector privado (una parte de este).
+Es ahí en donde juega su papel la tasa de cambio resultante de la unificación. Si esta llega a representar un aumento del circulante, digamos una tasa igual o mayor que la mayor actual, el _dónde_ se concentre la mayor cantidad de dinero resulta clave. La mayor concentración de dinero en Cuba recae\[1\] en manos del estado y del sector privado (una parte de este).
 
 Es decir, no será la mayoría de los ciudadanos de a pie quienes concentren la mayor cantidad de CUC para cambiarlo. De tenerlos, tal vez ni haría falta la unificación, ni estaría pensando este texto, por así decirlo.
 
@@ -76,20 +76,8 @@ Lo cual llevaría acciones tan clásicas como un estado que se dedique a crear e
 
 Lo que lleva a concluir que se debe pensar la política monetaria y sus límites, en el marco de su interacción con políticas fiscales y políticas económicas en general, según las condiciones reales de la economía para soportar una expansión productiva, y la existencia de los sujetos capaces de sostener esas acciones.
 
-[\[1\]](applewebdata://8FE83ADC-91C9-4927-A7AA-CB8300B1CD82#_ftnref1) Hagamos abstracción de artistas de renombre, deportistas y personalidades con mucho dinero, porque unos lo tienen en un banco, otros fuera de Cuba y, en cualquier caso, no tendrán ningún impacto sobre la circulación monetaria que incide en los precios.
+\[1\] Hagamos abstracción de artistas de renombre, deportistas y personalidades con mucho dinero, porque unos lo tienen en un banco, otros fuera de Cuba y, en cualquier caso, no tendrán ningún impacto sobre la circulación monetaria que incide en los precios.
 
 [http:/https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/tasas-de-cambio-en-cuba/](/economia-en-cuba/)
 
 inflación y tasa de cambio en Cuba inflación y tasa de cambio en Cuba inflación y tasa de cambio en Cuba inflación y tasa de cambio en Cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

@@ -3,7 +3,7 @@ title: "El anarquismo en Cuba. Un pensamiento verdaderamente revolucionario"
 date: "2018-09-10T11:00:15+00:00"
 author: ""
 category: "Trinchera Abierta"
-image: "/wp-content/uploads/2018/09/Bandera-anarquista-red-accion-eu-1024x576.jpg"
+image: ""
 ---
 Ponencia presentada en la mesa-debate Trinchera Abierta en su edición del mes de agosto, realizada en el Centro Social Abra, La Habana
 
@@ -34,5 +34,3 @@ En la república el anarquismo sigue existiendo y es la corriente ideológica pr
 Lo importante de esto, es que hasta la década del 20, hay un marcado matiz anarquista dentro del movimiento obrero, siento el corazón del movimiento revolucionario. Enrique Roig-ya mencionado aquí-, Alfredo López-también mencionado-, Sabino Pupo, Niceto Pérez-ambos dirigentes campesinos-, eran figuras del anarquismo.
 
 Aclaro que las discrepancias ocurridas entre comunistas y anarquistas, era con los comunistas miembros del partido, no con comunistas no miembros, como puede ser el caso de un Mella expulsado, quien fue gran amigo de Alfredo López. Sin embargo, en la Universidad Popular José Martí, se vieron figuras de ambas tendencias, unidos por una misma causa. Es decir, no se puede negar los momentos de confraternidad y unión, sobre todo porque entre sus hombres-Mella y Villena principalmente- se opusieron a la idea de la subordinación a La Internacional. Lo cual no quita que la dirección comunista aprovechó inteligentemente la represión machadista contra la CNOC para asumir la dirección del movimiento obrero cubano, cosa que puede demostrarse incluso con eso hecho conocido como Error de Agosto, donde los comunistas negociaron con Machado. Ver esta última etapa, donde ocurre un distancia en el que se mostraba superior la línea de los comunistas, y la inserción de estos en la máxima dirección del país, dice mucho para explicar por qué ha perdido espacio público una corriente tan revolucionaria, anticapitalista y emancipadora como es el anarquismo.
-
-## Autor

@@ -1,5 +1,5 @@
 ---
-title: "violencia de genero en cuba"
+title: "No a la violencia de género"
 date: "2020-02-02T01:58:40+00:00"
 author: ""
 category: "Política en Cuba"
@@ -15,15 +15,3 @@ Un poco para ponernos en contexto: dentro del ordenamiento legal vigente en el p
 Usualmente no acostumbro pedir a otros comunicadores su colaboración para sumarse a una determinada propuesta, pero hoy quiero aprovechar este espacio, para interpelar a todos los católicos y cristianos en general a ponernos, al igual que Jesús, junto a esas mujeres víctimas de la violencia. Quizás, no logremos cambios radicales, pero me gusta pensar que varios curas hablaran sobre este tema en sus homilías y que los laicos que colaboran en diversos medios de la Iglesia o del Estado lleguen a incluirlo en sus agendas temáticas, o que algún obispo acompañe, con su visión de Pastor, la lucha por esta causa social.
 
 [Otros textos del autor](/una-luz-en-la-oscuridad/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

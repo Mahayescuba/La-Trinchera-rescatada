@@ -3,21 +3,13 @@ title: "Una luz en la oscuridad"
 date: ""
 author: ""
 category: ""
-image: "/wp-content/uploads/2019/12/fb_img_157706577695411966179381928198004397.jpg"
+image: ""
 ---
 #### La columna de Julio Pernús
-
-![](/wp-content/uploads/2019/12/fb_img_157706577695411966179381928198004397.jpg)
-
-![](/wp-content/uploads/2019/12/fb_img_157706577695411966179381928198004397.jpg)
 
 Julio Pernús. Comunicador de la iglesia católica.
 
 _“Sueño que con cada artículo, puedo mejorar mi forma de Amar, Servir y Comunicar, a este “chispazo” de arena y mar que amo religiosamente.”_
-
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
 
 [](/interrogatorio-en-cuba/)
 

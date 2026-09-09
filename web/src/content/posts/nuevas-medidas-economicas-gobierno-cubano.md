@@ -1,9 +1,9 @@
 ---
-title: "Comercialización de ciertos bienes"
+title: "Las medidas del gobierno cubano en la comercialización de ciertos bienes"
 date: "2019-10-17T14:08:13+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2019/10/PicsArt_10-17-07.49.43.jpg"
+image: ""
 ---
 Comercialización de ciertos bienes. 
 
@@ -16,15 +16,3 @@ Con estos anuncios me quedan varias cosas claras: 1) el gobierno cubano sigue em
 Estas “medidas” no contribuyen a solucionar la inmensa brecha entre los precios de los bienes de consumo y los ingresos provenientes del trabajo. Al parecer, el gobierno cubano prefiere seguir apostando a las transferencias unilaterales de recursos desde el exterior y no a la creación de la riqueza nacional mediante el trabajo productivo de la sociedad. Ese esquema fortalece la imagen de una sociedad rentista, mientras que el país lo que necesita es restablecer la cultura del trabajo productivo, con los incentivos necesarios para construir el bienestar, a partir de lo que seamos capaces de crear con las condiciones institucionales adecuadas.
 
 [**Tomado del blog del autor**](https://mauriciodemiranda.wordpress.com/2019/10/16/medidas-del-gobierno-cubano-en-la-comercializacion-de-ciertos-bienes-apuestan-por-las-transferencias-de-recursos-desde-el-exterior/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

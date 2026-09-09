@@ -3,10 +3,8 @@ title: "Rebeldía"
 date: "2020-07-27T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/07/Chema-Madoz.jpg"
+image: ""
 ---
-Leo que las otras medidas —aparición de pequeñas y medianas empresas, mayor autonomía de las estatales, unificación de la moneda…— significarán un aporte significativo a las divisas que necesita el país.
-
 **Por: Jorge Fernández Era**
 
 Tendría 15 años. Cosía pelotas en la industria deportiva de la Lenin. Pasó por allí un grupo de norteamericanos de la [brigada Venceremos](http://www.cubadebate.cu/etiqueta/brigada-venceremos/). A una muchacha le resultó curiosa la destreza con que yo lo hacía y se acercó a mi puesto de trabajo. Tras una breve conversación me abrazó, sacó de una cartera un bolígrafo y me lo obsequió como recuerdo de nuestro encuentro. Minutos después, despejado el escenario de incómodos testigos, se acercó un profesor, por demás dirigente de la UJC, y exigió me desprendiera del regalo. Ante mis dudas pidió la atención de la concurrencia y me hizo pasar la vergüenza de arengar a mis compañeros que actitudes como esa mancillaban la dignidad que defendíamos, que nada había que recibir del enemigo aunque estuviera disfrazado de solidaridad, que un producto de los yanquis era la antítesis de los valores que habíamos recibido desde pequeños.
@@ -31,16 +29,4 @@ Y clamo por que al menos haya recato. Es chiste de mal gusto que se televise un 
 
 Lo digo y ya, porque la rebeldía es cualidad de inconformes. No puedo callar cuando a la dignidad, con lo cara que ha costado, me la pintan digna de ser subsidiada.
 
-Meddas Medidas Medidas Medidas Medidas 
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/incentivos-produccion/
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)
+Meddas Medidas Medidas Medidas Medidas

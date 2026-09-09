@@ -1,9 +1,9 @@
 ---
-title: "posmodernos La Trinchera Fernando Almeyda Rodriguez"
+title: "Lo que olvidan los postmodernos"
 date: "2018-06-05T19:10:28+00:00"
 author: "Fernando Almeyda Rodríguez"
 category: "Teoría"
-image: "/wp-content/uploads/2018/06/roy-lichtenstein-mmaybe_ipad.jpg"
+image: ""
 ---
 Un mundo post-feliz.
 
@@ -38,17 +38,3 @@ El no-pensamiento posmoderno, no obstante ha tenido un valor. Ha sido un intento
 El posmodernismo contemplado más ampliamente es la antítesis, la antesala inaugural de una nueva forma de pensar a la humanidad desde el individuo. Las tareas del presente comienzan a marcar con imperatividad nuestro presente. Quizás, el momento afirmativo del individuo, la superación de los posmodernos, quizás no esté tan lejos como algunos pueden pensar o negar.
 
 [\[1\]](https://laluznocturna.wordpress.com/2018/03/26/lo-que-olvidaron-los-posmodernos/#_ftnref1) Según Lyotard existían cuatro grandes meta-relatos de la modernidad: El meta-relato del cristianismo (en especial el protestante), el meta-relato marxista, el meta-relato del Iluminismo y el meta-relato capitalista. Estos cuatro grandes relatos tenían en común que totalizaban la historia y la estructuraban sobre una construcción teleológica y evolutiva.
-
-[Otro texto del autor](/teoria/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

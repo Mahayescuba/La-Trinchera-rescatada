@@ -3,7 +3,7 @@ title: "Y nosotros sobre la noria"
 date: "2020-04-22T15:30:43+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/04/Reto_-decáda-del-70-Decals-caseras-o-estampado-reverso.png"
+image: ""
 ---
 También sería una lamentable singularidad que, en medio de una cola por el aceite, en Manzanillo, llegara alguien con coronavirus e iniciara una cadena en una provincia que no ha tenido episodios de transmisión.
 
@@ -26,17 +26,3 @@ No la tenemos.
 También sería una lamentable singularidad que, en medio de una cola por el aceite, en Manzanillo, llegara alguien con el virus e iniciara una cadena en una provincia que no ha tenido episodios de transmisión.  
 Pero no hemos cambiado nada. Y hoy ya la gente anda sin nasobucos por los barrios de la ciudad y no ves agentes del orden interior organizando las colas. Y en la prensa seguimos asumiendo lo deseado por lo real.  
 Seguimos en la eterna cuerda floja de pretender que los demás cambien, incluso exigirlo, y nosotros sobre la noria.
-
-[Otro texto del autor](../index.html)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

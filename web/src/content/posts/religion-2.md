@@ -3,7 +3,7 @@ title: "¡Matanzas ganó por Brujería!"
 date: "2020-01-23T14:14:50+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2020/01/c21b87716aae151ce985149bd8e517f9-1.jpg"
+image: ""
 ---
 **Una reflexión sobre religión en la final de la Serie Nacional de Béisbol Cubana.**
 
@@ -15,13 +15,3 @@ En realidad es importante que aprendamos como cubanos a entender que nuestra rel
 Creo que Matanzas ganó de forma justa este campeonato por merecimiento propio, pero es indudable que la competencia deportiva también estuvo signada por la singularidad religiosa.
 
 Religion. Religion. Religion.
-
-## Autor
-
--   ![](/avatar/1010b575bf391bce9a2284b98c9b4c4e?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/1010b575bf391bce9a2284b98c9b4c4e?s=80&r=g&d=mm)
-    
-    [oscaracso28944](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/oscaracso28944/)
-    
-    [](mailto:oscaracsocuba95@gmail.com)

@@ -3,7 +3,7 @@ title: "El singular caso de Henriette Caillaux"
 date: "2019-08-07T04:56:28+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2019/08/IMG-20190807-WA0006.jpg"
+image: ""
 ---
 Machismo.
 
@@ -15,15 +15,3 @@ Precisamente por esta manera anacrónica de pensar -lo de arriba fue un poquillo
 Joseph andaba envuelto en asuntos de dudosa ética respecto a su puesto como funcionario del estado galo, dado que se le acusaba de utilizar sus influencias en un asunto judicial, así como ciertas conspiraciones internas dentro del parlamento. Gaston Doumergue, director de [_Le Fígaro_](https://es.wikipedia.org/wiki/Le_Figaro), tenía en su poder manuscritos que incriminaban al ministro francés, y a través de su periódico comenzó una campaña para desacreditarlo ante la opinión pública Henriette Caillaux tomó lo que le pareció la decisión más lógica: fue al despacho del messie periodista Doumergue y le encajó seis balas en el cuerpo.  
 El juicio de Henriette pasó a la historia por la utilización de un recurso muy hábil por parte de su defensa: el machismo. Alegando un impulso femenino irracional, la evidente debilidad de la mujer y la inestabilidad emocional, las justificaciones atenuantes alegadas constituyeron suficientes para que el veredicto fuera la absolución completa. Henriette, tan gala ella, salió libre porque era del sexo débil, al parecer.  
 ¿Lo pillas?
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

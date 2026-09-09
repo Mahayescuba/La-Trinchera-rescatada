@@ -1,9 +1,9 @@
 ---
-title: "Sanders predijo elecciones"
+title: "Bernie Sanders predijo lo que pasaría la noche electoral"
 date: "2020-11-04T16:17:18+00:00"
 author: "Bernie Sanders"
 category: "Política"
-image: "/wp-content/uploads/2020/11/1604426589_371279_1604489245_noticia_normal.jpg"
+image: ""
 ---
 **Opino que cada voto debe ser contado**. Por razones que no tenemos tiempo de explicar esta noche, se va a dar, sospecho, una situación en la que **[Pensilvania](https://elpais.com/internacional/elecciones-usa/2020-11-04/la-tormenta-perfecta-de-pensilvania.html), Michigan, Wisconsin y otros estados van a recibir una cantidad enorme de votos por correo.** Y a diferencia de otros estados como Florida o Vermont, no van a ser capaces, por desgracia, de empezar a procesar esos votos hasta, no sé, el día de las elecciones cuando cierren las urnas. **Eso significa que vamos a tener estados con, quizás, millones de votos por correo.** Y esto es lo que me preocupa”.
 
@@ -20,15 +20,3 @@ image: "/wp-content/uploads/2020/11/1604426589_371279_1604489245_noticia_normal.
 > — HSB Noticias (@HSBnoticias) [November 4, 2020](https://twitter.com/HSBnoticias/status/1323995264366071810?ref_src=twsrc%5Etfw)
 
 [También puede interesar](/politica-en-cuba/)
-
-Sanders predijo elecciones Sanders predijo elecciones
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/descargar-1.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/descargar-1.jpeg)
-    
-    [Bernie Sanders](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/bernie-sanders/)
-    
-    (Nueva York, 8 de septiembre de 1941) es un político estadounidense y senador de los Estados Unidos por el estado de Vermont.

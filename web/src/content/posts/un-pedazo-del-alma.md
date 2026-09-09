@@ -3,7 +3,7 @@ title: "Un pedazo del alma"
 date: "2020-08-29T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/08/Reina-de-la-salsa-por-Picuki.jpg"
+image: ""
 ---
 Celia Cruz en televisión cubana.
 
@@ -21,22 +21,8 @@ La primera vez que oí hablar de ella fue por boca de mi abuelo, cuando me hizo 
 
 Mi bautismo sonoro con La Guarachera de Cuba se lo debo a mi ya fallecido amigo y periodista Pepe Siberio. En su casa disfruté en numerosas ocasiones de un VHS con la antológica interpretación de “[Burundanga](https://youtu.be/wXQu7uyw6u8)” que hicieran ella y Lola Flores en un cumpleaños de esta última.
 
-![](/wp-content/uploads/2020/08/Celia-.jpg)
-
-![](/wp-content/uploads/2020/08/Celia-.jpg)
-
 _Celia Cruz_
 
 Celia Cruz es la cara más notoria de una decisión de corte estalinista que ha hecho invisible a artistas cubanos y extranjeros, algunos en ciertos periodos y otros con cuño de por vida. Mi generación tuvo que oír a escondidas, en casetes que nos pasábamos de mano en mano, a muchos que hicieron mención crítica a lo que sucedía en la Isla o le “cantaban a nuestros enemigos”. Curiosamente, con dicha inserción en lista negra no se hacía sino darles la razón. ¿Habrá libertad posible con una (in)cultura que le niega a los cubanos conocer del aporte a nuestra identidad de figuras como Meme Solís, Arturo Sandoval, Paquito D’Rivera y la propia Celia y que hoy amenaza con segregar a todo aquel que no eche “sus luces sobre mí”, (in)cultura que fabrica como morcillas canciones laudatorias y complacientes que “bloquean” la sensibilidad y el buen gusto? ¿Habrá que tragar en seco cuando oigamos en el futuro aseverar que Celia Cruz nunca estuvo prohibida en Cuba?
 
 Mientras consignas y metas sigan pidiendo su paredón, no se podrá virar esta tierra de una vez. La cultura será alma y escudo de la nación cuando seamos invulnerables a nuestros propios crímenes, cuando un pedazo del alma de esa cultura no nos sea arrancado sin piedad.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

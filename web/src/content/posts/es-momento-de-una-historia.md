@@ -3,7 +3,7 @@ title: "Es momento de una historia"
 date: "2020-05-21T09:30:21+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/05/tumblr_o0n8vbOiyU1qzx1c1o1_640.jpg"
+image: ""
 ---
 ¡Qué historia buena! Es momento de una historia, otros la contarán mejor, hoy se las cuento yo.
 
@@ -20,15 +20,3 @@ Merodeadores aseguran que en un lugar puntual de la Tierra se escuchan murmullos
 Amigos, amigas, bebamos. ¿Quién será el próximo en contar otra historia antes que el fuego se nos apague?
 
 [Otro texto de este autor](/onirica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

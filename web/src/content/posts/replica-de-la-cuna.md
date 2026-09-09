@@ -1,5 +1,5 @@
 ---
-title: "La nueva religión Réplica de la cuna"
+title: "La nueva religión"
 date: "2019-04-11T04:35:38+00:00"
 author: ""
 category: "Política en Cuba"
@@ -35,7 +35,7 @@ De la segunda no logro comprender el sentido alegórico. En una cuna un niño si
 
 La cuna fue entregada como “símbolo de continuidad”. Mi pregunta es sencilla, ¿qué paradigma podemos recepcionar de un bebé de pocos meses? Si hubieran entregado la réplica de la comandancia de La Plata, o un arma personal de Fidel, hubieran sido más consecuentes. Sin embargo, la cuna enfatiza en la idea de que debemos agradecer el simple hecho de que el líder naciera. Esto contradice la dialéctica marxista y sus categorías de _casualidad_ y _necesidad._
 
-![](/wp-content/uploads/2019/04/cuna-ujc-768x733.jpg)
+![](https://ci3.googleusercontent.com/proxy/d9IqsuCKS_tqQ2QnFdyi_Ge56YG8upmq3CEdRwAg1Mx76i6ZvW6Y2WQDrYSDYkRvAKnbnLkjGEbGKyynZFTJUFzDUDWD7ehRECvYDa3VlYAj6WTh2xKBaw=s0-d-e1-ft#https://jovencuba.com/wp-content/uploads/2019/04/cuna-ujc-768x733.jpg)
 
 Secretariado de la UJC entrega réplica de la cuna de Fidel y Raúl al Primer Secretario del Partido de Holguín.
 
@@ -46,15 +46,3 @@ A cambio propongo que sea entregado un micrófono como símbolo. Quizá entonces
 La convocatoria a un “congreso transformador” no se relaciona en lo absoluto con la imagen tradicionalista y _cuasi_ religiosa de la cunita. Bien [criticaba](https://jovencuba.com/2018/05/05/los-200-anos-de-carlos-marx/) Engels al líder proletario Weitling, fundador de la Liga de los Justos, por intentar conducir el comunismo por las vías del cristianismo primitivo. Nuestra UJC parece presta a lo mismo. Al menos ya tenemos pesebre.
 
 Tomado de [La Joven Cuba](https://jovencuba.com/2019/04/08/la-nueva-religion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

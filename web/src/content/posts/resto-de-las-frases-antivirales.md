@@ -1,9 +1,9 @@
 ---
-title: "Resto de las frases antivirales"
+title: "Nunca segundas partes se sientieron bien"
 date: "2020-07-10T09:00:33+00:00"
 author: "Jorge Fernández Era"
 category: "Onírica"
-image: "/wp-content/uploads/2020/07/Giuseppe-Pongolini.jpg"
+image: ""
 ---
 Me piden publique el resto de las frases antivirales que escribí durante cien días. No voy a caer tan bajo: ahora, al releerlas, noto que colé algunas insufribles. Mas es cierto que otras son salvables. Ojalá ustedes opinen igual y no rueguen por mi total aislamiento. Aquí van la mitad de las otras cincuenta:
 
@@ -32,13 +32,3 @@ Me piden publique el resto de las frases antivirales que escribí durante cien d
 \-Al menos con libertad condicional: ¡sean indulgentes con las fuerzas productivas!  
 \-Sostenible se sostiene. Próspero no prospera.  
 \-2020-2030: Década Provirosa.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

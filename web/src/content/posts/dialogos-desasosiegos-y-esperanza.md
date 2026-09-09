@@ -1,5 +1,5 @@
 ---
-title: "Totalitarismo y cultura política cubana"
+title: "Diálogos, desasosiegos y esperanza"
 date: "2020-12-16T17:00:07+00:00"
 author: "Arturo López Levy"
 category: "Política en Cuba"
@@ -14,8 +14,6 @@ Esa coincidente exigencia, con tirios y troyanos pidiendo que alguien represente
 El pluralismo es lo natural. Los cubanos -de hecho, las personas en general- tienen opiniones diferentes porque miran desde distintas perspectivas y experiencias. «Cuando muchos piensan igual -decía Voltaire- es porque pocos están pensando». La pluralidad en la sociedad civil y en la sociedad política puede ser bien o mal manejada, pero lo que no puede negarse es que es.
 
 En una cultura republicana, nadie tiene la responsabilidad de representar a todos. El derecho a la libre expresión, interpretado como virtud republicana, implica el ejercicio del criterio, con respeto y lealtad al interés público (_rēs pūblica_), para defender los valores, paradigmas e intereses propios. No los de todos, no los de los demás, los propios. La pugna contra el diálogo del sábado entre el Ministerio de Cultura y algunos artistas e intelectuales es expresión de totalitarios descontentos con el totalitarismo. A quien se sienta insatisfecho –cuéntese este autor entre ellos– pues busque formas de diálogo efectivo que lo represente. Tanta gente que dice que se debe dialogar con los del MSI, aunque no están de acuerdo con su agenda o sus halagos a Trump, ¿por qué no van y se los dicen?, ¿no sería un diálogo más productivo?
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/tercera-opcion/
 
 En política no se dialoga ni se negocia como hobby. Tan importante como lo que se discute es aquello que une a los que dialogan. Quién negocia se sienta a la mesa para obtener un mejor resultado que el optimo alternativo a negociar –en teoría de negociación de conflictos se llama BATNA, las siglas de _Best Alternative To a Negotiated Agreement_–. Es lógico, útil y profesional establecer precondiciones y que el primer diálogo sea sobre cómo dialogar.
 
@@ -55,8 +53,6 @@ De conjunto con un gobierno que ha manejado la pandemia de Covid-19 con relativa
 
 El bloqueo norteamericano es un problema fundamental, pero también lo es la ineficiencia, la corrupción, y la desidia de políticas gubernamentales. Basta ver los casos de profesores declaradamente socialistas, separados de sus aulas por expresar mínimas disidencias, para dudar de la capacidad del sistema político de lidiar con los retos políticos de una reforma económica y una apertura a flujos de información inevitables.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/lo-que-quiero-y-no-quiero-para-cuba/
-
 Cada día es más difícil confiar en que el actual sistema pueda sacar a Cuba de la crisis. Por lo menos se necesita una estructura donde lo no comunista quepa, no como ciudadano de segunda, sino con capacidad para ejercer el gobierno, ser voz en el parlamento, administrador en lo municipal y regional. En un sistema que asume la supuesta sabiduría del PCC y su competencia _a priori_, la doble moral y el conformismo vician inevitablemente el proceso de deliberación, participación y toma de decisiones. Aunque ese Estado/Partido aparezca poderoso, es prisionero de sus propios miedos. Lo que décadas atrás fue una unidad políticamente persuadida o maniobrada, hoy se construye sobre el falso cimiento de imponer coyundas hasta dentro de lo patriótico.
 
 Sin el carisma excepcional y el manejo de crisis de Fidel Castro, con una población de profesionales preparados dentro y fuera del país, la falta de pluralidad política institucionalizada y el miedo a cambios urgentes es –para los intereses nacionales– peligrosa. Río que no encuentra cauce se desborda.
@@ -72,15 +68,3 @@ Entre los partidarios de esa oposición en el exterior, que han firmado varias c
 Existe en la Isla y en la emigración, una Cuba para la cual la «_moderación_», como decía Martí, es su espíritu. Es posible demandar a la vez mayor pluralidad política que la permitida por el monopolio comunista mientras se defiende desde el corazón la bandera de la estrella solitaria y desde el conocimiento el pensamiento independentista y democrático de José Martí, que es «_el Delegado_» que ya Cuba escogió, para citar a Cintio Vitier en polémica con Rafael Rojas. La disposición de los congregados ante el MINCULT a cantar el Himno de Bayamo es un buen comienzo para pensar un rumbo propio entre la _Escila_ de la soberbia totalitaria y la _Caribdis_ del plattismo sumiso. Allí va la esperanza.
 
 Tomado de [La Joven Cuba](https://jovencuba.com/dialogos-desasosiegos-esperanza/)
-
-totalitarismo y cultura política cubana, totalitarismo y cultura política cubana, totalitarismo y cultura política cubana, totalitarismo y cultura política cubana, totalitarismo y cultura política cubana, totalitarismo y cultura política cubana, totalitarismo y cultura política cubana
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/12c70fe8a71cc40f589fc3cd2f0b6220.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/12c70fe8a71cc40f589fc3cd2f0b6220.jpeg)
-    
-    [Arturo López-Levy](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/arturo-lopez-levy/)
-    
-    Profesor de Relaciones Internacionales. Experto en Estados Unidos y América Latina.

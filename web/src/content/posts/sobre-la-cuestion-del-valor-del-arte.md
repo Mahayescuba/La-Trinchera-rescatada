@@ -3,7 +3,7 @@ title: "Sobre la cuestión del valor del arte"
 date: "2019-03-26T05:34:41+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2019/03/PicsArt_03-26-01.17.20.jpg"
+image: ""
 ---
 Valor del arte.
 
@@ -29,15 +29,3 @@ Es en esta época, en estas condiciones históricas, en la que la obra de arte e
 > El valor (de cambio) del arte es algo que solo existe cuando este es una mercancía y eso ha sido casi totalmente en la época del capitalismo.
 
 En cuanto a cómo se fija la magnitud del valor y su expresión monetaria el precio coincidimos. Solo creí que debía complementar tu análisis con un poco de historicismo. Espero haberlo logrado.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

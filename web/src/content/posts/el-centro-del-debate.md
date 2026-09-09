@@ -3,7 +3,7 @@ title: "El centro del debate"
 date: "2020-05-29T02:26:47+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/05/A-Kitchen-Garden.jpeg"
+image: ""
 ---
 Mientras tanto, se siguen dando razones para que el centro del debate esté bien lejos del centro de los problemas.
 
@@ -20,17 +20,3 @@ Pero eso es sólo desde el punto de vista comunicacional.
 La gestión de una crisis exige que se vaya a los temas medulares. Jugos y _pizas_ son algo más que todo el sistema de cosas a resolver y que, según la lógica de autonomía defendida incluso oficialmente, debería ser competencia de los poderes territoriales. La máxima dirección del país no puede entretenerse, ni mediática ni ejecutivamente, en las tareas que las autoridades y funcionarios locales no han cumplido. Le corresponde generar, al menos idear (incluso su puesta en escena) respuestas a las trabas esenciales. Hay muchos rubros de la producción nacional que urgen ahora mismo ser rescatados para garantizar el consumo de los ciudadanos. Perder eso de vista es el gran fallo.  
 Mientras tanto, se siguen dando razones para que el centro del debate esté bien lejos del centro de los problemas.  
 El desabastecimiento ya está aquí.
-
-[Otro texto del autor](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,12 +1,10 @@
 ---
-title: "tuitosfera cubana-La virtud de existir"
+title: "La virtud de existir"
 date: "2020-06-07T16:29:48+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/06/dialogue.jpg"
+image: ""
 ---
-En espera de los datos estadísticos que aclaren la duda, queda entonces solo la impresión de una participación joven mayoritaria en la tuitosfera cubana, ciertamente comprometida con las decisiones que conciernen su futuro.
-
 **Por: Ana Barnes**
 
 El otro día, en medio de una conversación con un amigo, solté una frase sobre [Twitter](https://twitter.com/?lang=ES) que llamó su atención. Dije que esta red, ideada para ser utilizada como transmisor de informaciones cortas a muchas personas al mismo tiempo, y no para dialogar particularmente, en el contexto de la aldea cubana derivaba a veces en largas conversaciones entre dos personas, en un alarde de exhibicionismo psicosocial no exento de pasiones, pero casi siempre alrededor de temas de la actualidad política nacional.
@@ -22,13 +20,3 @@ La aldea local no ha faltado a esta cita con sus personas políticas. Abundan la
 Esto es una particularidad interesante, sobre todo cuando se tiene en cuenta que en el mundo se observa una tendencia de los 18-29 años a preferir Instagram, menos dada a los debates e informaciones relacionadas con la política y mucho más a los elementos visuales y a las _stories_. Resultaría muy útil conocer las estadísticas de las edades de los usuarios de tuitosfera cubana, pero no se ha podido dar con ellas. Si alguien pudiera aportarlas, se agradecería la colaboración.
 
 En espera de los datos estadísticos que aclaren la duda, queda entonces solo la impresión de una participación joven mayoritaria en la tuitosfera cubana, ciertamente comprometida con las decisiones que conciernen su futuro. Con diálogos interminables o no, con mejor o peor ortografía, desafiando tarifas y tecnologías poco amigables, pero ahí está esa voz nueva que prefiere hoy debatir en Twitter a colgar _selfies_ en Snapchat. Por el momento, hay que seguir atentos a esta Acera del Louvre virtual, con sus altas y sus bajas, su fauna propia y la impuesta, sus broncas y sus disensos… Es todo un placer simplemente presenciar la virtud de existir.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

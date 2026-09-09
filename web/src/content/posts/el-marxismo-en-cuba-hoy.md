@@ -19,15 +19,3 @@ El segundo, considero que es más apropiado llamarle neoestalinismo, aunque esa 
 Este neoleninismo se cobija en los intentos de desprenderse del dogma por parte de los entonces jóvenes de [Pensamiento Crítico](http://www.filosofia.org/rev/pcritico.htm). Se afirma gramsciano, leninista y marxista. Pero es, y coincido con Chaguaceda, un marxismo _sesentero_. Ignoran cuestiones como la defensa que hizo Lenin del uso consciente del mercado (verdadera noción de Lenin de planificación) así como su carácter objetivo [(5)](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.marxists.org/espanol/lenin/obras/1893/probmerca/index.htm&ved=2ahUKEwjPu4evg6HpAhXihOAKHcbpBSgQFjAAegQIAhAB&usg=AOvVaw39izDvhtYDzGL-2sTyaI-c); el peligro del sentido común para la reflexión teórica (Gramsci) [(6)](http://www.gramscimania.info.ve/2013/04/tres-principios-tres-ordenes.html?m=1); el abandono de las teleologías en la teoría (Marx); y un sinnúmero de enseñanzas.  
 El neoleninismo cubano actual usa el término burgués como ofensa teórica y acusa de “enemigo ideológico”. No escapa de los límites del _Gran Debate_ y va a las ideas de los clásicos mencionados a extraer términos como comunismo, socialismo, imperialismo, no para otra cosa que construir un discurso de estado (su estructura y su signo político). Y al final es solo eso, un discurso de estado; esencialemente, un _mix_ de estalinismo con cucharadas de jergas de participación popular latinoamericana.  
 Ese es el marxismo en Cuba hoy.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

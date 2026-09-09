@@ -34,13 +34,3 @@ Este reconocimiento se expresa como determinada cuantía o proporción: _La prop
 **Nota al lector:**
 
 Este artículo es parte de una serie de artículos que se comenzaron a publicar en el portal Rebelión hace 3 años. Ahora se los ofrecemos a nuestros lectores con ediciones revisadas.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

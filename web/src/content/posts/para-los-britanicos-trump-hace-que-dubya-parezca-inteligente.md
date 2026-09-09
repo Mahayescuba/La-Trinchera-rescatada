@@ -3,7 +3,7 @@ title: "Para los británicos, Trump hace que Dubya parezca inteligente"
 date: "2020-05-25T16:46:50+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2020/05/Oversight-erased-Supreme-Court-hijacked_-Trump-turns-the-presidency-into-a-dictatorship.jpeg"
+image: ""
 ---
 Alguien en Quora preguntó ¿Por qué a algunos británicos no les gusta [Donald Trump](/politica/)?
 
@@ -44,15 +44,3 @@ Si ser un idiota fuera un programa de televisión, Trump sería una serie.
 [Fuente original](https://www.laprogressive.com/trump-makes-dubya-look-smart)
 
 **Traducción tomada del muro de Hiram H. Castro**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

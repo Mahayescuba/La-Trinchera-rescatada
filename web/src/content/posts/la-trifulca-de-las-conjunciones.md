@@ -1,9 +1,9 @@
 ---
-title: "Canción “Patria y vida\""
+title: "La Trifulca de las Conjunciones"
 date: "2021-02-19T17:00:00+00:00"
 author: "Ernesto Wong García"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/02/John-Whipple.jpg"
+image: ""
 ---
 El eslogan político por excelencia en Cuba ha sido, desde 1960, “Patria o muerte”, seguido a menudo por “¡Venceremos!”. La intención de la frase es reflejar un sentimiento de soberanía nacional por la que los cubanos estaríamos dispuestos a dar la vida.
 
@@ -41,8 +41,6 @@ Algunos toman _o_ en su uso inclusivo, es decir que, para ellos, “Patria o m
 Un segundo grupo, que se solapa con el primero, cree que _y_ significa ‘ser’, es decir, que “Patria y vida” significa “Patria es vida”. Esos no saben usar las conjunciones.
 
 Un tercer grupo está formado por aquellos que creen que “Patria y vida” es un sinsentido, porque no es posible tener Patria sin estar dispuesto a morir por ella; así que toman la frase como una afrenta a todos los que han muerto por Cuba. Estos necesitan relajarse: para estar dispuesto a morir, lo primero que hace falta es estar vivo y tener una vida por la que valga la pena morir. 
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-cartel-o-el-arte-de-decir/
 
 Un cuarto grupo incluye a aquellos que toman “Patria o muerte” como una disyunción exclusiva estricta: hay que escoger una de las dos opciones y nunca las dos. Este grupo se solapa con el tercero.
 
@@ -93,17 +91,3 @@ No es una afirmación, no es un argumento, no es una idea nueva. Es un arma. Un 
 La Trifulca de las Conjunciones, al igual que el eslogan “Patria y vida”, no trae nada nuevo. Es más de lo mismo.
 
 _Tomado del blog del autor_
-
-canción “Patria y vida”, canción “Patria y vida”, canción “Patria y vida”, canción “Patria y vida”, canción “Patria y vida”
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/tumblr_669529998862941-1.jpg)
-    
-    ![](/wp-content/uploads/2021/02/tumblr_669529998862941-1.jpg)
-    
-    [Ernesto Wong García](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/ernesto-wong-garcia/)
-    
-    Doctor en Ciencias Lingüísticas y profesor de lingüística general en la Universidad de La Habana.
-    
-    [](https://darlelenguablog.wordpress.com)

@@ -1,5 +1,5 @@
 ---
-title: "estatus de residencia y derechos en Cuba"
+title: "Cantar los cuarenta"
 date: "2020-10-21T09:30:36+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
@@ -13,8 +13,6 @@ Karima asegura _que pagar 40 dólares pondría a no pocos cubanos en una situac
 
 No menciona para nada que diez mil cubanos (y no a través de los órganos de difusión masiva) han firmado una petición dirigida al Gobierno (en términos que nada tienen que ver con resentimiento y sí con respeto) pidiendo se reanalizara una decisión que pasó por encima del coronavirus y que semejaba más bien (lo digo yo) un edicto de la corona hacia sus súbditos. _Yo me pregunto —nos dice ella—, ¿dónde quedó la prosperidad capitalista y todas sus oportunidades_? Ah, mire usted, la sociedad explotadora del hombre por el hombre no le permite a muchos nacionales que han quedado varados conseguir 40 mínimos dólares mensuales que les exigía Cuba para regresar a la patria.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/ciudadania-o-el-injusto-peaje/
-
 Karima Oliva Bello iba a entregar ese dinero porque contaba con él. _Y si no hubiese tenido los 40 dólares para pagarlos —_sigo con sus palabras_—, me hubiera expresado públicamente, sin insultos, convocando al Gobierno en Cuba para que repensara la medida, pero con la misma valentía iba a denunciar las miserias humanas que se viven en el capitalismo_. La valentía para lo segundo (sigo sin entender qué tiene que ver Juana con su hermana) la demuestra con vehemencia a lo largo de su artículo. El coraje para lo primero no tuvo tiempo de hacerlo constar: imagino se enteró tarde, en México no circula el Granma, y si circulara tampoco vale, pues el principal periódico del país solo cita el impuesto después que se declaró su moratoria (nunca eliminación). Y habla Karima de todo lo que ha hecho el Estado cubano (que es verdad) por salvarnos de una incidencia mayor de la pandemia que se ha llevado la vida de tantos en el mundo entero, pero lo hace para justificar que se humille con ese impuesto, con la limitación de dos años para vivir donde nos plazca, con poseer el pasaporte más caro del mundo, y con unas cuantas restricciones que no tienen basamento jurídico alguno. 
 
 Y concluye: _Hay mucha propaganda política contra Cuba en los entornos que habitamos, no aticemos con nuestra postura ese fuego contra nuestro país. Ojalá pudiésemos dejar a un lado tanto resentimiento ante un Gobierno que muestra la disposición de escucharnos. El resentimiento es una actitud regresiva e infantil. Depositar en otro toda la responsabilidad de lo que creemos que nos merecimos y no nos fue dado, nos coloca en un círculo vicioso de demanda y queja sin que nosotros mismos estemos ya en condiciones de aportar nada. El resentimiento pudre el alma y el carácter: es la más triste y cobarde de las pasiones. ¡Seamos críticos, pero no resentidos!_ Qué parrafito.
@@ -24,15 +22,3 @@ El que atiza en este caso una _postura de fuego contra nuestro país_ es el pr
 Hay un fragmento —_Depositar en otro toda la responsabilidad de lo que creemos que nos merecimos y no nos fue dado, nos coloca en un círculo vicioso de demanda y queja sin que nosotros mismos estemos ya en condiciones de aportar nada_— que insulta y transpira abyección por los cuatro costados. 
 
 Que su resentimiento no pase inadvertido. Y que su _crítica_ nos coja confesados.
-
-estatus de residencia y derechos en Cuba, estatus de residencia y derechos en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

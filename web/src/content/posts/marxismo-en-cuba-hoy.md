@@ -1,9 +1,9 @@
 ---
-title: "El Marxismo en Cuba"
+title: "El milagro que debe realizarse"
 date: "2019-08-10T06:37:12+00:00"
 author: ""
 category: "Marxismo en Cuba"
-image: "/wp-content/uploads/2019/08/PicsArt_08-09-08.08.03.jpg"
+image: ""
 ---
 El Marxismo en Cuba.
 
@@ -53,15 +53,3 @@ Notas:
 \[3\] Lenin afirmó: “Es imposible comprender plenamente El Capital de Marx… si no se ha estudiado y comprendido la entera lógica de Hegel“. Lenin, Cuadernos filosóficos, loc, cit., pág 99.
 
 \[4\] Para Marx producción, tiene la misma significación que para la filosofía clásica alemana. Con ello se refiere no a la producción en la fábrica, sino a la producción de la realidad, es decir, a toda la actividad del hombre.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Cinema for adults: a vision of XXX degrees"
 date: "2020-04-08T05:28:57+00:00"
 author: ""
 category: "Culture"
-image: "/wp-content/uploads/2020/02/552219_14973054165390314658.jpg"
+image: ""
 ---
 **By: Sender Escobar**
 
@@ -42,15 +42,3 @@ I personally like Marc Dorcel’s movies.
 **Traducido por Miguel González**
 
 [You may also be interested](/cultura/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

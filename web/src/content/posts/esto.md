@@ -1,9 +1,9 @@
 ---
-title: "manifestaciones en Cuba el 11J"
+title: "Esto"
 date: "2021-07-24T09:30:00+00:00"
 author: "Javier Bobadilla"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/07/Jeannine-Parisi.jpg"
+image: ""
 ---
 Hoy dieron 4 horas continuadas de violín. Tocaron varias piezas clásicas. “Toda la culpa es del Bloqueo”, de Wolfgang Von Canelsohnn. “La Economía de Cuba no es una mierda”, de Marrerì Creux. El punto cumbre de la sonata fue “Ayer no pasó nada, fueron las Redes que nos odian”, de Brunê Parrillê.
 
@@ -14,10 +14,6 @@ Ayer cometieron un suicidio político con la orden de guerra, y hoy la [reiterar
 Para nada creo que el diálogo sea una expresión de debilidad. Ni siquiera es una expresión de respeto a Ellos. Ustedes saben que Ellos tienen muy poco de mi respeto. Es respeto por uno mismo. Es respetarse uno, para después poder ser respetado por otros.
 
 Salir en cámara al borde del colapso -después de haber sido rechazado por toda una ciudad-, a [pedir una guerra civil](https://es.euronews.com/2021/07/12/diaz-canel-llama-a-combatir-las-protestas-contra-el-gobierno), es un acto de lo más reprobable que puede cometer un supuesto líder. Es la cobardía del que sabe que está en su puesto por la conveniencia de poderes que lo superan y lo desprecian, en contra de la voluntad de la mayoría de un pueblo que se burla de él y lo ignora. Es la imagen del fracaso de un ser humano atrapado en las consecuencias de sus propios errores. Cualquier hombre que ha perdido el honor tan bajamente es digno de lástima.
-
-> [No hay más que explicar](/protestas-en-cuba-hoy-2/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«No hay más que explicar» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/protestas-en-cuba-hoy-2/embed/#?secret=y2F4OmK4EU" data-secret="y2F4OmK4EU" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 Apelar al diálogo antes que a la violencia es honrarse uno mismo. Pero este diálogo del que hablo no es ir a pedir por favor un cambio. Es presentarse con un plan, es saber qué Gobierno queremos, es tener la capacidad de estructurarlo a partir de nosotros mismos. Es tener el apoyo de la mayoría democrática. Ese es el poder del pueblo. Es un poder absoluto.
 
@@ -36,13 +32,3 @@ Cuando el peso del mensaje sea enorme, el mensajero será Inevitable. Traerá un
 Esta es la primera parte. En la segunda voy a pedir mi deseo.
 
 P.D. Decía [Yamamoto Tsunetomo](https://es.wikipedia.org/wiki/Yamamoto_Tsunetomo), connotado samurai, que ensayar la propia muerte todos los días, y después vivir la vida como si uno fuera su propio cadáver, era el camino a la verdadera libertad. Yo le creo.
-
-manifestaciones en Cuba el 11J, manifestaciones en Cuba el 11J
-
-## Autor
-
--   ![](/wp-content/uploads/2021/07/119553530_10223386064389751_1725108959541738313_n.jpg)
-    
-    ![](/wp-content/uploads/2021/07/119553530_10223386064389751_1725108959541738313_n.jpg)
-    
-    [Javier Alejandro Bobadilla Díaz](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/javier-alejandro-bobadilla-diaz/)

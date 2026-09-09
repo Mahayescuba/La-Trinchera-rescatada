@@ -30,13 +30,3 @@ Los que no se cansan, molestan a quienes sí se agotan. O no les importa, o les 
 Para darle las gracias, Jimenito. Por lo que hizo por nosotros. Por Cuba.  
 La Habana, aún 12 de mayo de 2020.  
 Porque me enteré tarde.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/pilar.jpg)
-    
-    ![](/wp-content/uploads/2021/02/pilar.jpg)
-    
-    [María del Pilar Díaz Castañon](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/maria-del-pilar-diaz-castanon/)
-    
-    Profesora y investigadora

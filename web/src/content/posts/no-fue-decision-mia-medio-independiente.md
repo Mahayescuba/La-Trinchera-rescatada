@@ -3,7 +3,7 @@ title: "No fue decisión mía"
 date: "2020-04-27T17:09:18+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/04/Metropolis_-Bauhaus-inspired-urban-photography-–-in-pictures.jpeg"
+image: ""
 ---
 Mi experiencia de lo que es y puede ser un medio independiente en Cuba.
 
@@ -15,15 +15,3 @@ El consejo editorial de una revista cubana no académica considerada seria me ne
 Conservo bocetos y todas las ideas locas resultantes de horas y horas de discusiones con un equipo que tenía más ganas que conocimientos. Unos pocos intentamos levantar en la _FEU_ un intento un blog universitario, pero no pudo realizarse. Eso tampoco fue decisión mía.  
 No tengo la opción de publicar mis textos sobre la obra de Marx (tema que ocupa el mayor espacio de lo que escribo) en medios oficiales. Un lector puede encontrar trabajos míos en [Contexto Latinoamericano](http://www.contextolatinoamericano.com/site/news/que-es-el-fetichismo-para-marx), o en [Globalización](https://www.globalizacion.ca/author/miguel-alejandro-hayes/), antes que en un medio oficial cubano. Eso no lo escogí yo.  
 Yo no escogí estar en un medio independiente. No me quedó opción, no fue decisión mía.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

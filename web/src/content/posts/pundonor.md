@@ -3,7 +3,7 @@ title: "Pundonor"
 date: "2020-01-06T04:08:18+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/01/pederastia-final2-600x487-1.jpg"
+image: ""
 ---
 Pundonor.
 
@@ -17,15 +17,3 @@ Pero Ketty no andaba “por allá adentro con Clarisa”: la joven se bañaba en
 – ¿Te gusta esto?…¿te gusta? ¿Y estas teticas tan ricas? ¿Y este _bollito_? Ay, qué nalguitas más sabrosas! ¡Chica, no pongas esa cara de mierda ni vayas a llorar, acuérdate que tu mamá se muere si tú abres esa boquita!, ¿me oíste? Vete ahora, que te están llamando, ¡pero mañana ven otra vez si no quieres que tu mamá se muera!
 
 Pundonor. Pundonor.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

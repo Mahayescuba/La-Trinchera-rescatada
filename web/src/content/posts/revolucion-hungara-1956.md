@@ -50,17 +50,3 @@ Cerca de 5000 húngaros murieron, en esos días, entre ellos casi 2500 en los co
 Durante muchos años en el campo socialista, se debatía de la dimensión y del sentido de dicho acontecimientos, aunque los mismos trataron (con cierto éxito) de ser invisibilidades por el gobierno soviético. _Revolución o Contrarrevolución_, es una disyuntiva que aún hoy crea conflicto para los que desde la izquierda nos acercamos a dichos acontecimientos.
 
 Está comprobado la mano de los servicios de inteligencia occidentales, así como la de la Santa Sede en planificaciones en contra del gobierno “comunista”, pero el desenvolvimiento de los hechos demostró que no fueron ni las organizaciones Demócratas-Cristianas (apoyadas por el Vaticano) ni las organizaciones formadas por antiguos miembros del régimen húngaro de la segunda guerra mundial (apoyadas por occidente), las que llevaron el peso de los acontecimientos allí ocurridos. Los obreros húngaros, el estudiantado y parte de la intelectualidad revolucionaria fueron los grandes protagonistas de esta gesta y fueron también los que más caro pagaron su rebeldía.
-
-[Otro texto del autor](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

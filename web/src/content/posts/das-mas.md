@@ -3,10 +3,8 @@ title: "Das más"
 date: "2019-04-16T17:58:08+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/04/PicsArt_04-16-01.47.41.jpg"
+image: ""
 ---
-Entre estos avatares cotidianos, un grupo de jóvenes se interpeló sobre cómo emplear su tiempo libre en favor de los desguarecidos. De su deseo surgió el proyecto “Das Más”.
-
 ##### Fotografía: Wendy Pérez Bereijo
 
 **Por: Julio Pernús**
@@ -20,17 +18,3 @@ Entre estos avatares cotidianos, un grupo de jóvenes se interpeló sobre cómo 
 La idea inicial surgió en aquella Semana Santa que coincidió con las vacaciones de la Semana de la Victoria, pero, con el tiempo, se ha ido enriqueciendo hasta desarrollarse en diferentes etapas del año, con variadas estructuras y nombres. Una vez un amigo de la Pastoral Juvenil me comentó que, entrando a la antigua sede de la Edad de Oro, vio a Monseñor Juan con un cubo de agua, presto a colaborar con la limpieza del local, a lo mi amigo replicó, “Monseñor, por favor deme eso, que yo puedo hacerlo”. El Arzobispo lo miró y con su lenguaje particular le dijo, “Ocúpate tú de otra tarea, que a mí nadie me quita este cubo y este trapeador”. Una monjita que estaba cerca le comentó al muchacho, “No cojas lucha, que para Monseñor eso no es nuevo, es algo que hace cada viernes”.
 
 Ojalá que estos mensajes, transmitidos desde el ejemplo, nos ayuden a comprender que, no por vivir en nuestra “batalla cotidiana”, estamos exentos de fijarnos en el otro que sufre sin voz. Quizás esta Semana Santa sea la oportunidad ideal para impulsar en nuestra cotidianidad acciones de servicio que no conlleven utilidades económicas, porque aunque no lo creas, tú-Das-Más.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

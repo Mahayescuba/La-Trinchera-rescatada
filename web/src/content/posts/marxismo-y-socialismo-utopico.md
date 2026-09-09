@@ -3,7 +3,7 @@ title: "El marxismo y el nuevo socialismo utópico"
 date: "2020-08-04T16:00:00+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2020/08/Alex-Pinna-Waiting-for.jpg"
+image: ""
 ---
 Marxismo y socialismo utópico. 
 
@@ -20,13 +20,3 @@ La formalización del sistema siempre termina convirtiéndose también en una de
 Todo lo que se construyó alrededor de la tradición marxista lamentablemente no tiene valor alguno. Se ha transformado en lo que en su época fue el socialismo utópico en tanto forma ideológica limitante para pensar la naturaleza histórica de la sociedad capitalista y avanzar en la comprensión de sus determinaciones. Se ha convertido en un cementerio formal de iteración ritual carente de toda potencia cognitiva. Hoy por hoy el “marxismo” como tradición juega el mismo rol limitante que el socialismo utópico de la época de Marx. Es una ideología más. No tiene ningún valor como campo de desarrollo intelectual. Sólo hace falta ver las páginas de las revistas “teóricas” del marxismo para sentir el olor a refrito. El cadáver insepulto son ellos. Pero como todos sabemos: un zombie nunca sabe que lo es. Sino no sería un zombie.
 
 Tomado del Facebook del autor
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

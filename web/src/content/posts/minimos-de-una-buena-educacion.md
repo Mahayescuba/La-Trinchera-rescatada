@@ -3,7 +3,7 @@ title: "Los mínimos de una buena educación"
 date: "2019-10-14T14:01:23+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/10/IMG-20190525-WA0004.jpg"
+image: ""
 ---
 5 de octubre: Día Mundial de los docentes.
 
@@ -29,15 +29,3 @@ _No tenemos dinero para pagar un carro._
 Me gusta escribir con esperanza, pero al ver que una licenciada en [Pedagogía](https://es.wikipedia.org/wiki/Pedagog%C3%ADa), que da clases con 80 años no puede pagarse ni una máquina por falta de recursos, siento que hay algo necesitado de revisar. Al final, gracias a un vecino pudimos llevarla al hospital, donde le diagnosticaron, a los dos días de ocurrida, fractura de cadera. Hoy se hace urgente poder cubrir el volumen de las necesidades del personal educativo, para poder seguir contando con los mínimos de una buena educación.
 
 Día Mundial de los docentes Día Mundial de los docentes
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,5 +1,5 @@
 ---
-title: "documental sueños al pairo"
+title: "Es necesaria la memoria histórica"
 date: "2020-03-17T05:20:12+00:00"
 author: ""
 category: "Política en Cuba"
@@ -35,8 +35,6 @@ Las asambleas se realizaban por grupos y allí se planteaban “los casos”. La
 
 Recuerdo el día de la asamblea de mi propio año de la Facultad de Economía, la cual no dirigía yo sino la delegada de la Brigada de la FEU (no mencionaré nombre alguno para no involucrar a quienes no desean ser involucrados). Uno de los casos presentados por la “seguridad” era el de un compañero que se pasaba la vida haciendo chistes fuertes sobre la realidad del país y que la seguridad consideraba contrarrevolucionarios. Usaron a algunos a quienes les decían que debían plantear “los casos”. Y cuando comenzaron a exponer las “evidencias” varios de los dirigentes de la FEU que estábamos allí comenzamos a mirarnos las caras ¡No había evidencias!Sus chistes eran pura “jodedera”, dicho en buen cubano. Le pasé una nota a la dirigente del Partido que estaba en la reunión y que estaba forzando, con sus intervenciones, la condena. Le pedí que hiciéramos un receso porque aquello era una injusticia. Me pasó una nota de respuesta: “la Revolución no se equivoca” y aquello me horrorizó. Entonces, tomé la decisión de usar “mi poder” (que absurdo e irreal suena eso pero entonces yo creía que eso era poder) y en contra de la decisión de aquella funcionaria-profesora le pedí a quien presidía la reunión que hiciéramos un receso (era más de medianoche y el ambiente estaba muy caldeado). Nos reunimos en una sala contigua, los dirigentes de la FEU de la Universidad y la Facultad que estábamos presentes, junto a la miembro del Buró del Partido que quería que se sancionara al compañero a toda costa porque “la Revolución nunca se equivoca”. Pero, como todos sabemos, los seres humanos sí que nos equivocamos.
 
-![](/wp-content/uploads/2020/03/andante-maestoso448452634703353159..jpg)
-
 En aquella reunión en el receso que pedí, todos los dirigentes de la FEU apoyábamos al compañero pero la funcionaria del Partido quería la expulsión. Cuando me di cuenta de que no habría un consenso le dije: “Bueno, estas asambleas las dirige la FEU y los dirigentes de la FEU no creemos que “Fulano” sea un contrarrevolucionario, así es que se queda en la Universidad y se desestima esta acusación”. Yo pude hacerlo en ese momento y evité una injusticia. ¿Cuántas otras injusticias no pude evitar o no fui consciente de que eran injusticias? **Y por ello, me arrepiento**. Me arrepiento de no haber visto en aquel entonces que lo **injusto** era todo el proceso en sí mismo porque solo bajo un régimen totalitario es un delito pensar diferente, con lo cual una parte de la sociedad termina oprimiendo a la otra.
 
 En otra ocasión, la Facultad de Filología presentó para expulsión a un estudiante judío al cual acusaban de “sionista” porque le habían visto dibujada en su libreta de notas la estrella de Israel. Cuando escuché aquello me asombré y le dije a la secretaria del Partido de la Facultad que la estrella de Israel no era el símbolo del sionismo sino del judaísmo y que también era el símbolo de los judíos que exterminaron en los campos de concentración nazis. El consejo universitario me apoyó, sobre todo porque me apoyó el secretario del Partido de la Universidad en aquel entonces. El estudiante no fue expulsado pero terminó dejando los estudios por la presión política y psicológica que recibió. Nunca más supe de él.
@@ -50,17 +48,3 @@ Cuando veo a Fidel en el documental, hablando en la Plaza y diciendo “no los q
 Tenemos que sanar como Nación. Tenemos que arrepentirnos por lo que hayamos hecho mal aunque entonces no fuéramos conscientes de ello. Tenemos que ser capaces también de perdonar a quienes nos han hecho daño, como muy bien dice Mike en el documental. Y no lo digo desde el punto de vista religioso aunque también. Lo digo, sobre todo, del arrepentimiento por hechos lesivos contra la dignidad humana, en su máxima expresión, que han ocurrido por nuestra acción o por nuestra pasividad.
 
 Y también coincido con Mike en que no debemos olvidar porque es necesaria la memoria histórica para evitar que acontecimientos vergonzosos como aquellos se repitan y para que las jóvenes generaciones sean capaces de construir un mejor país.
-
-[Otro texto del autor](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

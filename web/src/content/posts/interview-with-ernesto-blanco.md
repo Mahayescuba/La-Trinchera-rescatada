@@ -1,9 +1,9 @@
 ---
-title: "interview with Ernesto Blanco"
+title: "Ernesto Blanco: every new challenge is an opportunity to grow"
 date: "2020-09-21T22:00:00+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2020/08/ernestp9.56.jpg"
+image: ""
 ---
 **By Sender Escobar**
 
@@ -35,9 +35,7 @@ _La Flota represented the convergence of a whole generation of artists who allow
 
 [La Flota](https://suenacubano.com/news/186ca62441e111e6a52800163e211c9e/david-blanco-bordo-de-la-flota/) is a band composed by X Alfonso (bass and voice), my brother David (voice, guitar, keyboards), Yissi (drums) and me (voice and guitar). We decided to add more rock to our music and we played a lot between the years 2015 and 2017, especially in some international festivals. I love working with them, we had chemistry when we played together.
 
-![La imagen tiene un atributo ALT vacío; su nombre de archivo es la\_flota\_david\_blanco\_en\_fac.jpg](/suenacubano.com/files/nodes/images/la_flota_david_blanco_en_fac.jpg?w=960&ssl=1)
-
-![La imagen tiene un atributo ALT vacío; su nombre de archivo es la\_flota\_david\_blanco\_en\_fac.jpg](https://i0.wp.com/suenacubano.com/files/nodes/images/la_flota_david_blanco_en_fac.jpg?w=960&ssl=1)
+![La imagen tiene un atributo ALT vacío; su nombre de archivo es la\_flota\_david\_blanco\_en\_fac.jpg](https://suenacubano.com/files/nodes/images/la_flota_david_blanco_en_fac.jpg)
 
 _When searching for new audiences, the constant renewal of your music is paramount. How do you deal with this, especially now that you´re beginning to make your own way into the Anglo-Saxon music?_ 
 
@@ -62,13 +60,3 @@ Best wishes for everyone and thanks for this interview.
 [You may like](/entrevista/)
 
 interview with Ernesto Blanco, interview with Ernesto Blanco interview with Ernesto Blanco
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    [Sender Escobar](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/sender-escobar/)
-    
-    Ingeniero industrial y famous stalker

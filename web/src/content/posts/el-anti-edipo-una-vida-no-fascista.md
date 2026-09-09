@@ -3,7 +3,7 @@ title: "El Anti-Edipo: Una introducción a la vida no fascista"
 date: "2019-03-22T05:11:17+00:00"
 author: "Michel Foucault(\\"
 category: "Teoría"
-image: "/wp-content/uploads/2019/03/PicsArt_03-22-01.09.53.jpg"
+image: ""
 ---
 Durante los años 1945-1965 (pienso en Europa), había una determinada manera correcta de pensar, un cierto estilo de discurso político, una cierta ética para intelectuales. Había que tutearse con Marx, no dejar que los sueños vagabundeasen demasiado lejos de Freud, y tratar a los sistemas de signos -el significante- con el mayor respeto. Esas eran las tres condiciones que convertían en aceptable esta singular ocupación que consiste en escribir y enunciar una parte de verdad acerca de sí mismo y de su época.  
 Después vinieron cinco años breves, apasionados, cinco años de júbilo y de enigma. A las puertas de nuestro mundo,  
@@ -61,15 +61,3 @@ Félix Guattari. Formará parte de Dits et écrits, antología de textos de Mich
 Littéraire”). Publicado en español en Cuadernos de Marcha, Montevideo.
 
 (1) Hombre de Iglesia del S. XVII, que fue obispo de Ginebra. Es conocido por su Introducción a la vida devota.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

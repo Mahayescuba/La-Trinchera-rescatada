@@ -1,9 +1,9 @@
 ---
-title: "Política de las administraciones norteamericanas hacia Cuba"
+title: "Política"
 date: "2020-03-09T09:30:52+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/03/f0161801.jpg"
+image: ""
 ---
 # Sobre la política de las administraciones norteamericanas hacia Cuba
 
@@ -24,17 +24,3 @@ Por lo antes expresado, hago mi más sincera exhortación a los Centros de Finan
 2-) viabilizar la reconciliación como puente de acercamiento entre ambos pueblos,
 
 3-) continuar la ruta de las relaciones diplomáticas establecidas en 2014, podrían constituir elemento esencial, de la política electoral de los Estados Unidos hacia Cuba.
-
-[Otro texto del autor](/politica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

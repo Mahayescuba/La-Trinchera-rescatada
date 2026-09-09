@@ -1,9 +1,9 @@
 ---
-title: "modelo económico cubano"
+title: "Un selfie al modelo económico (I)"
 date: "2020-02-05T15:23:13+00:00"
 author: "Julio Pernús"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/02/hongkong-in-miniature.jpeg"
+image: ""
 ---
 Este artículo lo hago con el deseo de hacer más digeribles algunos de los fenómenos de la economía cubana. Por eso he intentado llevar al español mis lecturas sobre la realidad económica del país. Por supuesto que no espero poder responder preguntas cómo, ¿por qué somos un país endémicamente pobre? Soy solo un comunicador que intenta dar pistas, para, desde mi cosmovisión católica, contribuir a un pensamiento emancipador con propuestas tangibles de progreso.
 
@@ -34,15 +34,3 @@ Los privados no tienen una clara estructura legal, pues muchas veces hay un due�
 (4) Viaje al Centro del Modelo; notas del último jueves de Temas en: http://www.temas.cult.cu/ultimo-jueves-detalles/3158#collapse; visto el 30 de enero de 2020.
 
 [Leer parte II](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

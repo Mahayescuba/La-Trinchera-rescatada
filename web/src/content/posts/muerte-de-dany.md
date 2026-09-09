@@ -1,9 +1,9 @@
 ---
-title: "Muerte de Dany"
+title: "En algún punto nos volveremos a reencontrar"
 date: "2020-07-18T22:04:43+00:00"
 author: ""
 category: "Cultura"
-image: "/wp-content/uploads/2020/07/Dany.jpg"
+image: ""
 ---
 Compartimos algunos comentarios a raíz de la muerte del músico Dany.
 
@@ -46,15 +46,3 @@ Nunca lo conocí en persona, de hecho no conozco a ningún reguetonero en person
 Para mi hoy es día de luto…luto cultural cubano…
 
 [También puede interesar](/cultura/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -35,15 +35,3 @@ Al igual que las condiciones de reproducción de la clase obrera en el capitalis
 Eso nos hacen pensar en la réplica de muchos anarquistas al socialismo estatista: “¿querer abolir la maquinaria de dominación burguesa, solo para sustituirla por otra maquinaria de dominación?”
 
 dialéctica continuidad ruptura. dialéctica continuidad ruptura. dialéctica continuidad ruptura. dialéctica continuidad ruptura.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "El centrismo político en Cuba a un año de ser noticia"
+title: "El “centrismo político” en Cuba(I)"
 date: "2018-02-12T16:15:23+00:00"
 author: "Joel Ernesto Marill Domenech"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/02/centrimso-yoel.png"
+image: ""
 ---
 Hace más o menos un año comenzó una fuerte polémica sobre la existencia y proliferación en Cuba del llamado “centrismo político”. Sobre ello, en tan solo unos pocos meses se esgrimieron las más disimiles posturas, en donde no faltaron criterios radicalmente contrapuestos que dieron lugar a encontronazos no siempre amigables en las redes y otros espacios de debate. No soy estudioso del tema y solo participé como espectador silencioso en los momentos más arduos de este debate, pues sinceramente considero que es parte de un fenómeno que en muchas aristas desconozco y del cuál no quisiera, como algunos, tocar a la ligera y más ahora, cuando pareciera que la aguas están más calmadas creo poder estar en condiciones de emitir un grupo de opiniones en torno a un fenómeno tan complejo que sería imposible recoger en todo su dimensión ni en quince de estos post.
 
@@ -18,15 +18,3 @@ Por otro lado tenemos a los llamados ´´centristas´´, compuestos por un grupo
 Concluyendo, es respetado decir que el debate sobre el centrismo fue fundamentalmente llevado adelante en círculos de intelectuales, en ambiente de universitarios y en las personas con acceso a internet y a sitios de información de los llamados ‘’alternativos’’.  Salvo dos o tres publicaciones en el periódico Granma y otros medios oficiales, poco llego a las personas de a pie, que en su mayoría quedaron totalmente exentas de un debate que puede tener mucho aún por delante, que pudiera ser crucial para el futuro de nuestra nación y la supervivencia de la revolución misma.
 
 Hasta el momento hemos hecho referencia al debate ocurrido, su desarrollo y aparente final, creo que de una forma objetiva (lo más posible). Para el debate futuro quedan abiertas dos aristas fundamentales, ¿es el centrismo un proceso totalmente infundido desde el exterior o es causa de reorganizaciones en la sociedad cubana? De ser la segunda, ¿qué es lo que da lugar al surgimiento del centrismo?  Y algo que es más peligroso: ¿en qué estado se encuentra, no el debate, sino el centrismo como opción política en la Cuba actual y cuáles futuras implicaciones?
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,5 +1,5 @@
 ---
-title: "Campaña contra las tiendas MLC en Cuba"
+title: "Los enemigos del pueblo"
 date: "2022-01-26T10:30:00+00:00"
 author: "Hamed Toledo"
 category: "Política en Cuba"
@@ -17,18 +17,4 @@ Si todas las protestas serán una campaña (más) de los enemigos, pues bien: ac
 
 ![](/wp-content/uploads/2022/01/afichemlc.jpg)
 
-![](/wp-content/uploads/2022/01/afichemlc.jpg)
-
 Tomado de [La extraña isla](https://hamedtoledo.wordpress.com/)
-
-campaña contra las tiendas MLC en Cuba, campaña contra las tiendas MLC en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2022/01/Hamed-Toledo.jpg)
-    
-    ![](/wp-content/uploads/2022/01/Hamed-Toledo.jpg)
-    
-    [Hamed Toledo](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hamed-toledo/)
-    
-    Anarquista y escritor. Construyendo libertad dentro de una isla...

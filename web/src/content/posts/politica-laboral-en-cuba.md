@@ -1,9 +1,9 @@
 ---
-title: "politica laboral en Cuba La Trinchera Joel Ernesto Marill"
+title: "Para que las excepciones no se vuelvan regla"
 date: "2018-02-20T16:15:53+00:00"
 author: "Joel Ernesto Marill Domenech"
 category: "Opinión"
-image: "/wp-content/uploads/2018/02/Para-que-las-exepciones-no-se.jpg"
+image: ""
 ---
 _“Sobre todo, sean siempre capaces de sentir en lo más hondo cualquier injusticia cometida contra cualquiera en cualquier parte del mundo. Es la cualidad más linda de un revolucionario.”_
 
@@ -36,17 +36,3 @@ El otro trabajo está orientado a la creación de conciencia, no tanto en los du
 Quiero aclarar que no soy un extremista anti-propiedad privada, nunca le he escondido a nadie mis reservas hacia la misma, pero entiendo su necesidad en una coyuntura compleja como en la que nos encontramos, donde esta puede ser  un motor para el desarrollo de nuestras fuerzas productivas, tan necesario este hecho para el sostenimiento de nuestro proyecto de país.
 
 Lo que no puede ser es que en el camino al desarrollo se pierdan los preceptos fundamentales en que aspiramos se base este proyecto de país. No puede ser que por avanzar no desviemos del camino. Sé que el sector estatal tampoco está exento de problemas de racismo, homofobia y de discriminación de algún tipo. Aún subsisten en Cuba los rezagos de una sociedad machista, patriarcal y discriminante que reproduce defectos que le son naturales a sociedades de ese tipo. Lo que es  realmente una pena es que en nuestra sociedad caigamos en hechos así, tras tantos años de construcción revolucionaria. Lo importante, como vengo diciendo es lograr reflexionar sobre el tema, pero nos solo quedarnos ahí, es reflexionar para luego pasar a la acción y tratar de lo que aún parece ser una excepción, no se convierta en la regla.
-
-[Otro texto del autor](/economia-politica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Mis circunstancias y yo"
 date: "2019-08-30T07:45:41+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/08/PicsArt_08-30-03.47.27.jpg"
+image: ""
 ---
 la crítica y las circunstancias.
 
@@ -30,15 +30,3 @@ Yo sigo creyendo que debemos temblar de indignación cuando se comete una injust
 Mi cercanía a esas pequeñas historias que muestran la cara más dura del precio que se paga por tener el país más simbólico del mundo. Yo también soy yo y mis circunstancias; no puedo escapar de ellas.
 
 la crítica y las circunstancias la crítica y las circunstancias la crítica y las la crítica y las circunstancias. la crítica y las circunstancias
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

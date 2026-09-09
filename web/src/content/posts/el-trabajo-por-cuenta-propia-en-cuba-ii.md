@@ -3,7 +3,7 @@ title: "El trabajo por cuenta propia en Cuba (II)"
 date: "2018-12-03T05:04:32+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/12/images-4.jpeg"
+image: ""
 ---
 Una reflexión sobre el artículo 10.1 del Decreto Ley No. 356 y las nuevas regulaciones para trabajo por cuenta propia en Cuba.
 
@@ -40,15 +40,3 @@ En muchos casos sustituye al Estado en la prestación de algunos clásicos servi
 Para ver el primer artículo sobre el [Trabajo Por Cuenta Propia en Cuba](/politica-en-cuba/)
 
 nuevas regulaciones para trabajo por cuenta propia en Cubanuevas regulaciones para trabajo por cuenta propia en Cuba nuevas regulaciones para trabajo por cuenta propia en Cuba nuevas regulaciones para trabajo por cuenta propia en Cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

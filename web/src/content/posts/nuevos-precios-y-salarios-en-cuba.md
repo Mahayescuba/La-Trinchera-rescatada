@@ -1,9 +1,9 @@
 ---
-title: "Nuevos precios y salarios en Cuba."
+title: "Una Roma a la que conducen todos los caminos"
 date: "2020-12-14T02:38:42+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/12/Christl-Sprengers.jpg"
+image: ""
 ---
 I
 
@@ -18,10 +18,6 @@ Por eso, si de economía cubana se trata, la unificación de Tasas de Cambio (TC
 La incapacidad de convertir en divisas los ingresos subsidiados por TC de dichas empresas, impide la renovación de ciclos productivos. En otras palabras, el subsidio a la rentabilidad que ha representado la multiplicidad cambiaria creó una especie de burbuja especulativa que ya hace su explosión.
 
 Lo anterior consiste en que los ingresos de las empresas que comercializan en CUC (muchas, bajo la lógica de importar para (re)vender) se multiplican por 25, y se subsidian sus costos de importación, además. Ante esos grandes ingresos, no se puede importar cuanto se desee del monto de la ganancia, a veces ni siquiera renovar los mismos montos de importación inicial, por no contar con las divisas para hacer un cambio. Así, parte de la masa de ganancias por TC es, debido a su [in-convertibilidad al USD](/economia-en-cuba/), casi por definición, una burbuja.
-
-> [ETECSA y moneda](/economia-en-cuba/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«ETECSA y moneda» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/economia-en-cuba/etecsa-y-moneda/embed/#?secret=6KK5yNsxDc" data-secret="6KK5yNsxDc" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 Las empresas que importan y luego venden en CUC, al estar limitada la entrada de USD, tienen una determinada cantidad de pesos convertibles que quedan inservibles para reiniciar el proceso de importación- comercialización.
 
@@ -41,10 +37,6 @@ Para una primera reflexión sobre la unificación cambiaria, se pueden tomar est
 
 A primera vista, resalta un aumento de la circulación monetaria del CUP, que como [mencioné](/economia-en-cuba/) en otro lugar, puede ser un incentivo al aumento de la producción. Pero en las condiciones institucionales actuales, la iniciativa de inversión en el sector no estatal, en su totalidad, enfrenta altas restricciones legales y burocráticas, es decir, está marcada por fuertes desincentivos. Por su parte, la inversión estatal tiene una lógica que se ajusta más a la inercia administrativa y al favoritismo político, así como a la capacidad de figuras de impulsar proyectos (la Oficina del Historiador es un buen ejemplo), que a necesidades de inversión para fomentar el bien común.
 
-> [El contexto importa](/economia-en-cuba/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«El contexto importa» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/economia-en-cuba/inflacion-y-tasa-de-cambio-en-cuba/embed/#?secret=bUlI0bZ8ni" data-secret="bUlI0bZ8ni" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
 A ello se le suma que, para el sector no estatal, es en los escenarios productivos donde más restricciones hay a la entrada. Es ahí, además, donde menos esfuerzo por invertir hacen las empresas estatales y militares, y sus direcciones y entidades gubernamentales afines. Y en los sectores productivos es donde se encuentra la generación de la oferta de los bienes de primera necesidad (agricultura y ganadería).
 
 Luego, se está ante la llegada de un aumento de la masa monetaria, sin el respaldo productivo instalado, y sin señales de un esfuerzo para que, en clave de oleada, se genere una expansión interna de inversión de nacionales (privados y no estatales); sobre todo, en la producción de bienes de primera necesidad. Lo que gesta el entorno clásico para procesos inflacionarios, los cuales se reflejan primero, tal y como se hace sentir hoy, en productos básicos como arroz, frijoles, ensaladas, viandas, carne de cerdo, huevos, café.
@@ -54,10 +46,6 @@ De seguir el ritmo actual, la importación podría resolver este problema. Pero,
 Así, para los consumidores, el grueso del impacto real de la unificación, que es la disponibilidad de bienes básicos, queda fuera de sus manos. Pasan a depender del estado y de las empresas (estatales, militares y privadas). Y si pudo existir alguna iniciativa privada en la inversión para generar oferta, queda limitada por una respuesta estatal en lo institucional, así como queda en estado pasivo una propia respuesta productiva estatal.
 
 Me gustaría recordar que, aunque muchos apuestan por la vía pymes, los artículos de primera necesidad que más escasean provienen del sector agropecuario, y que la única forma de reducir la escasez en ese sector es con el empleo de grandes producciones. Por lo que recalco que los esfuerzos para evitar un efecto inflacionario, requieren del énfasis en un programa nacional, una _Tarea_ productiva que demande el potencial del sector estatal y no estatal.
-
-> [Cuba y las PYMES](/economia-en-cuba/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Cuba y las PYMES» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/economia-en-cuba/cuba-y-las-pymes/embed/#?secret=cf6vowUjcb" data-secret="cf6vowUjcb" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 III
 
@@ -104,15 +92,3 @@ Algunos actores económicos quedan desarmados (los ciudadanos), otros abandonado
 Al problema inicial de la incapacidad de operar, producto de la in- convertibilidad, si bien no se le da solución, se le perfeccionan las vías para ello, pasando cada empresa a ser responsable de reunir los montos que amerita para cambiar y poder importar, librando al estado de esa responsabilidad.  Al mismo tiempo que este se garantiza mejor liquidez a través de las tiendas en MLC y las empresas importadoras.  Si una red minorista no reunió los CUP para poder importar más mercancía, entonces simplemente estas se pueden importar y vender en las tiendas en MLC, por solo mencionar un ejemplo. En última instancia, seguirán existiendo un pequeño número de entidades que obtengan ingresos por TC (y márgenes comerciales, quizá), tan solo por la condición de monopolio. Lejos de socializar esos ingresos por el propio sector empresarial, ahora quedan bien delimitados en un pequeño número de entidades.
 
 La verdadera problemática no radica en este monopolio _per se_, sino en la limitación (por no perder espacios de poder, por dogma, por inercia, u otra cuestión) a la expansión de inversión privada y la conducción gubernamental hacia la producción nacional de alimentos cómo vía a un salto estructural.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.desdetutrinchera.com)

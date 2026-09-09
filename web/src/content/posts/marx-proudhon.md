@@ -1,9 +1,9 @@
 ---
-title: "Marx y Proudhon"
+title: "Marx + Proudhon (I)"
 date: "2018-09-14T17:51:43+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2018/09/proudhon.jpg"
+image: ""
 ---
 Marx y Proudhon.
 
@@ -33,14 +33,4 @@ Otro detalle, es la concepción de la lucha de clases acotada a la lucha básica
 
 A propósito de nacionalismo, la mayoría de las organizaciones ‘marxistas’, tienen el concepto de las nacionalidades, instalado en la discusión revolucionaria en tiempos de la revolución bolchevique. Una discusión planteada en torno a las situaciones territoriales, que todavía hoy existen como soberanías no reconocidas. Más allá, de estas disputas, que efectivamente continúan existiendo, hay una dependencia que nace con la pos segunda guerra, que es la soberanía monetaria. A partir de [Bretton Woods](https://es.wiktionary.org/wiki/FMI). Todas las naciones agrupadas dentro del ‘mundo libre’ son tributarias del dólar como moneda de cambio. Primero, casi como una continuación, con el patrón oro, como convertibilidad, luego en los ’70, con el dólar como valor de cambio, porque el dólar se transformo en petro-dólar. Este fue un pacto no escrito, pero con mecanismo atado a través de los organismos internacionales, como un aceitado mecanismo de extorsión, donde el sostén del dólar, ahora es el armamento imperialista. Armas que si bien fueron concebidas para combatir el comunismo, tenían un segundo objetivo, más prosaico y concreto, como es el de ‘apretar’ a las naciones del mundo ‘libre’, para que en ningún momento se olviden que a este régimen hayque sostenerlo. Una prueba de esto, es la suerte que le cupo al Irak de Houssein y a la Libia de Gaddafi, cuando intentaron vender el petróleo en otras monedas. Alguien podría decir, que además del dólar, existían otras monedas imperialistas, como el Euro, por ejemplo. Aún el Euro, también es una moneda subsidiaria del dólar. Cuando un país reclama su soberanía, hoy, está fundamentalmente hablando de esta soberanía. Confundir esto, con una vocación burguesa, de esas naciones, es marxisticamente hablando una aberración. Al enfrentar al imperialismo, este automáticamente lo situará en el campo comunista. ¿De dónde sacan estos ‘revolucionarios’, que las víctimas pueden elegir las condiciones de las batallas?
 
-Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)
+Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon.

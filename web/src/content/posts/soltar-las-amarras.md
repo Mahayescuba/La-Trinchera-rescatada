@@ -3,7 +3,7 @@ title: "Soltar las amarras"
 date: "2020-07-24T22:00:00+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/07/Nazlı-Özkan.jpg"
+image: ""
 ---
 PYMEs  importaciones.
 
@@ -24,15 +24,3 @@ Si el gobierno cubano soltara las amarras de la economía y dejara que florezcan
 Tomado del Facebook del autor
 
 PYMEs  importaciones. PYMEs importaciones.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-pregunton/
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

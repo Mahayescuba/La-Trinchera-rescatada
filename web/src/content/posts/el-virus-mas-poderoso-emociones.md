@@ -3,7 +3,7 @@ title: "El virus más poderoso"
 date: "2020-06-15T20:00:50+00:00"
 author: ""
 category: "Ciencia"
-image: "/wp-content/uploads/2020/06/randonnee-chaussures-fleurs.jpg"
+image: ""
 ---
 Contagiarse de las emociones más alegres y jubilosas de otros o caer rendidos ante un carrusel infinito de carcajadas es algo satisfactorio y positivo.
 
@@ -74,15 +74,3 @@ Hay que ser capaces de encontrar, con esta toma de consciencia y practicando las
 _El más poderoso es el que tiene poder sobre sí mismo._
 
 -   SÉNECA ·
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

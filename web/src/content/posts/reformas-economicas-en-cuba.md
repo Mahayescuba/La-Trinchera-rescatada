@@ -1,9 +1,9 @@
 ---
-title: "reformas economicas en Cuba La Trinchera Pedro Monreal"
+title: "Cuba. Las tensiones entre la teoría, las políticas y la práctica de la reforma."
 date: "2018-04-06T11:15:16+00:00"
 author: "Pedro Monreal"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/04/1522770999_236854_1522773400_noticia_normal.jpg"
+image: ""
 ---
 Supongamos que quienes escribimos desde una perspectiva académica, es decir desde el “conocimiento sin poder”, deseáramos influir en las decisiones de política económica y social de Cuba, o sea, en las disposiciones que adoptan los dirigentes políticos y los funcionarios del gobierno cubano. ¿Qué tipo de conocimiento sería efectivo para tal propósito?: ¿La teoría? ¿La evidencia resultante del análisis? ¿La ideología? ¿Acaso alguna combinación de lo anterior?Digo esto a propósito de un reciente texto del Dr. Carlos García Valdés titulado “_Acerca del “tema de los temas”: un reconocimiento, algunas aclaraciones y el efecto bumerang_”, publicado en su blog #CubaEconomia, el 28 de marzo de 2018. [https://cubaeconomista.blogspot.fr/2018/03/acerca-del-tema-de-los-temas-un.html](https://cubaeconomista.blogspot.fr/2018/03/acerca-del-tema-de-los-temas-un.html)No voy a dedicarle tiempo a refutar las falsedades acostumbradas que desliza el Dr. García Valdés respecto a lo que escribo. Tampoco tiene sentido dedicarle tiempo a enmendar las imprecisiones con las que el Dr. García Valdés se empina para construir su crítica.
 
@@ -74,17 +74,3 @@ Considero que la utilización de la ciencia para cambiar la realidad es más ace
 Para alguien que opere desde la teoría y la investigación, promover y apoyar la reforma económica, cuando esta se produce, y actuar para tratar de modificar el debate político durante la ausencia o desaceleración de la reforma son las dos caras de una moneda. Ambas cosas se ubican esencialmente en el plano político, no en el plano científico.
 
 Tomado de [El estado como tal](https://elestadocomotal.com/2018/03/30/reformando-cuba-las-tensiones-entre-la-teoria-las-politicas-y-la-practica/)
-
-[Otro texto del autor](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "La noche antes"
 date: "2019-08-17T06:45:53+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/08/snet-cables-lahabana-1.jpg"
+image: ""
 ---
 _Mensaje a SNET._
 
@@ -25,15 +25,3 @@ Pido perdón a SNET. No es cobardía, espero que quien me condene, me entienda. 
 Miguel Alejandro Hayes.
 
 La Habana, Año 61 de la Revolución. 17 de agosto. 2:23 am.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

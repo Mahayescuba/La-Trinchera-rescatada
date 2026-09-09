@@ -30,15 +30,3 @@ Yusuam tiene con sobradas razones el derecho para declararse en contra las medid
 Este hazmerreír, para información de varios, no proyecta la intolerancia contra la diferencia ideológica, ni muchos menos es cultivador del odio irracional que muchos oficialistas se hacen eco para ganarse puntos y comodidades. Primero, porque sostuve un extenso diálogo con él sobre la Cuba con todos y para el bien de todos en la heterogeneidad de la sociedad y la libertad de ejercer la crítica, pues su formación humanista es martiana. Incluso entre nosotros existió una diferencia sobre el actuar personal de los conceptos como cubano y al exponerle mis términos, se puso el dedo índice en la mejilla y asintió como símbolo de compresión a partir de un paradigma común: José Martí.  
 Hago mi declaración no en defensa de Yusuam, puesto que medios y capacidad para defenderse tiene de sobra el presidente del Movimiento Juvenil Martiano y director de la Fragua Martiana. Expongo mi testimonio sobre un ser humano que vive en la Cuba real y no se hace _pajas mentales_, ni se enajena en sus propias palabras.  
 La persona que es centro de esta declaración, para nada comparte muchos de los trabajos comúnmente posteados en este blog. Pero ante la falacia facilista que como telón de fondo tiene un coto metálico y practica la fidelidad a lo material como principio mercenario, al menos yo, no me quedo callado y alzo mi letra desde el ciberespacio ante mi deseo de expresarme, puesto que la ofensa directa tal vez Yusuam la ignore y continúe con su trabajo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Investigador independiente
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

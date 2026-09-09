@@ -3,7 +3,7 @@ title: "El sol no es negociable"
 date: "2020-04-12T19:05:30+00:00"
 author: "Danilo Euser"
 category: "Teoría"
-image: "/wp-content/uploads/2020/04/Otoño-Collage-Sol-Dibujo-Imprimible-Arte-Minimalista-Naranja-Decoración-del-hogar-Minimalismo-Naranja-Amarillo-Interior-Arte-Digial-Montaña-Paisaje-Colorido.jpeg"
+image: ""
 ---
 ## Exposición Solar suficiente como Necesidad Biológica:
 
@@ -116,17 +116,3 @@ Pero #ELSOLNOESNEGOCIABLE.
 Artículo inspirado principalmente en los trabajos de:  
 \-Marcos Vázquez en su libro _Salud salvaje_ y su [blog](https://www.fitnessrevolucionario.com)  
 \-Maelán Fontes en su revisión: _Guía práctica para la evolución, tratamiento y prevención de: la deficiencia de la vitamina D_, en la revista Natiss (Nº12).
-
-[Otro texto del autor](/ciencia/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

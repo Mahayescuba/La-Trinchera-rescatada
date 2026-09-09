@@ -3,7 +3,7 @@ title: "Anti-reloj"
 date: "2019-02-09T08:15:38+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/02/PicsArt_02-09-03.01.42.jpg"
+image: ""
 ---
 anti-reloj.
 
@@ -27,13 +27,3 @@ Y cuando se toma el café, es despacito, y le hecha lo que le venga en gana, no 
 pasa todos los días.
 
 anti-reloj. anti-reloj. anti-reloj.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    [Anckla](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/anckla/)
-    
-    [](https://www.amazon.com/s?i=digital-text&rh=p_27%3AAnckla+Almirante+&s=relevancerank&language=es&text=Anckla+Almirante+&ref=dp_byline_sr_ebooks_1)

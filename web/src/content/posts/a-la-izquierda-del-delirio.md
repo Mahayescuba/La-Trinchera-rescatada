@@ -3,7 +3,7 @@ title: "A la izquierda del delirio"
 date: "2019-09-02T06:26:32+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/09/PicsArt_09-02-02.22.56.jpg"
+image: ""
 ---
 Izquierda.
 
@@ -20,15 +20,3 @@ Aclarado esto, me queda lamentar que la esencia de los señalamientos de Roque n
 Recuerdo que las redes se movilizan para hacer frente a lo que pudiera ser una parametración en la educación superior. Batalla que todos sabemos a donde pudieran llegar las implicaciones –aunque no llegue- para quien la asuma del lado más débil. Doy mi pequeño -casi imperceptible- aporte como izquierda y como marxista, porque la izquierda y el marxismo honesto deben estar ahí, temblando de indignación ante la injusticia del mundo –y en Cuba, que a muchos se les olvida- y no enajenados en el delirio del ascenso institucional. Espero que Roque en su práctica ideológica esté situado en la línea de combate con la izquierda, y no a la izquierda (del delirio).
 
 Espero mejores debates.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

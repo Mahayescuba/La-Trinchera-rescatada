@@ -3,7 +3,7 @@ title: "Romerías, la Utopía"
 date: "2020-05-20T17:14:25+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2020/05/1706-01-1140-768x433-1.jpg"
+image: ""
 ---
 ## Señales de un cambio del paradigma comunicativo católico en Cuba y el documental, “Romerías, la utopía”
 
@@ -22,15 +22,3 @@ Un regalo especial para los espectadores son los fragmentos de la bendición del
 Aunque no es en sí una obra católica, creo que Carlos Gómez y Manuel A. Rodríguez Yong como directores, prefirieron darle el carácter sincrético real de las Romerías. No deja de ser un documental cargado de referencias católicas en su ADN, como el aporte a escondidas de Cáritas a la construcción de uno de los símbolos de la fiesta y cómo los organizadores trataron de ocultar el logo para no molestar a las autoridades civiles. En realidad, como toda obra humana, es perfectible y sus directores han mencionado elementos a mejorar. Pero, insisto, que cada día es más común ver a católicos dentro de nuestros medios ocupando roles protagónicos y eso nos hace pensar con ilusión, cómo ha cambiado el paradigma comunicativo de la iglesia en el país.
 
 [Otros textos de este autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

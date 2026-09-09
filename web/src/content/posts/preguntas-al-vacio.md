@@ -3,7 +3,7 @@ title: "Preguntas al vacío"
 date: "2020-07-07T09:00:00+00:00"
 author: ": Ana Barnes"
 category: "Onírica"
-image: "/wp-content/uploads/2020/07/Marc-Chagall-La-obra-alrededor-de-ella.jpg"
+image: ""
 ---
 El día en que se fue dejó todas las preguntas sin responder. No tuvo tiempo. Ni ella misma imaginó la inmediatez del abandono, lo repentino del punto final. A veces es así, no hay nada que se pueda hacer.
 
@@ -20,13 +20,3 @@ Seguimos escarbando, abriendo, desatando cintas rosas y azules con manchas amari
 Viejos telegramas de la [_Empresa de Correos y Telégrafos_](http://www.correos.cu/breve-historia-del-correo-cubano/?print=print), ni sabíamos que aquello se llamara así. Felicitaciones por cumpleaños, avisos de llegadas de los abuelos de Las Villas, tarjetas por el Día de las Madres, por cada año, cada compañero, cada familiar, cada vecino… toneladas de tarjetas con rosas y colores.
 
 Ya no quedaba en dónde buscar. Sentadas en el cuarto, en medio de ese nuevo silencio, la cama llena de papeles y cintas, de postales y carnés. De diplomas y fotos. El librero atestado de volúmenes viejos, deslucidos, manoseados, surcados por insectos sin honor. Ahí estaba todo, ese infinito mundo que nos dejó. Esa era su respuesta a todas nuestras preguntas, a las que hicimos y a las que no.
-
-[Otro texto del autor](/onirica/)
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Ana Barnes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/ana-barnes/)

@@ -3,7 +3,7 @@ title: "Las nuevas refinerías"
 date: "2020-05-16T19:31:11+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/05/Las-brujas-de-la-Tormenta-Viento-Seco-son-arpías-de-carácter-hostil-de-nivel-8-a-9-que-se-encuentran-en-el-Barranco-Árido-en-la-zona-de-inicio-de-los-orcos-y-trols-Durotar_.jpeg"
+image: ""
 ---
 Rápidamente las compañías petroleras se fueron a pique, y surgieron las nuevas refinerías.
 
@@ -67,15 +67,3 @@ Cerré la puerta y caminé hacia él, pero no me senté.
 \-Precisamente porque tenemos un contrato, vengo para pedir una licencia por maternidad. Estoy embarazada.
 
 [Puede interesarle también](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "valor de cambio y valor La Trinchera Miguel Alejandro Hayes"
+title: "El valor de cambio. Notas a propósito de un artículo de Rolando Astarita."
 date: "2018-05-11T00:52:01+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Economía Política"
-image: "/wp-content/uploads/2018/05/Dominik-Tarabanski.jpg"
+image: ""
 ---
 He leído recientemente una publicación de [Rolando Astarita](https://rolandoastarita.blog) en su blog (1). En esta parece hacer otra de esas defensas del marxismo,-que como he dicho (2)- defienden en nombre de Marx cosas que este no dijo. Sin ánimo de ofender, y buscando siempre liberar al marxismo de malas interpretaciones, presento a continuación (brevemente) algunas ideas que ponen en duda lo defendido por Astarita.  
 En su artículo, él regresa a un viejo debate de los marxistas con el exterior: la existencia de “la sustancia común” en el cambio. Establece todo un cuestionamiento sobre las posiciones de los austriacos respecto a estas ideas. Según Astarita, los austriacos niegan la existencia de “la sustancia común” de los valores de cambio. No voy a referirme a la idea de dichos austriacos, sino a la supuesta tesis de Marx que él defiende. Solo quiero recordar que El Capital fue escrito bajo formas de razonamiento, que los neoclásicos no conocían. Estos estaban impregnados del positivismo de la época, y con esos esquemas interpretaron a Marx, y así, malinterpretado, comenzaron a criticarlo.  
@@ -37,15 +37,3 @@ Bibliografía
 6\. Hegel, Federico. La ciencia de la Lógica. s.l. : Ediciones Solar, 1982.
 
 [También puede interesar](_wp_link_placeholder)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "santeria cuba"
+title: "Lo mejor del Otro"
 date: "2020-01-26T05:38:19+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2020/01/IMG_20200126_003315_496.jpg"
+image: ""
 ---
 santería en cuba.
 
@@ -23,16 +23,4 @@ En lo referido al béisbol que en los últimos días me ha tocado investigar con
 
 El último punto es mi parecer como católico, quiero llamar a los cristianos cubanos a leer en profundidad el texto del sínodo de la Amazonía, este documento constituye un punto de partida para un diálogo interreligioso sincero y para como Iglesia situarnos en defensa de la promoción de los derechos de las minorías y para ser artesanos en la construcción de la Casa Cuba, la cual colorearemos con el respeto a la diversidad y en franco diálogo con la alteridad, pero sin calificativos pre elaborados y fundamentados en la invitación a la cultura del encuentro
 
-santería en cuba. santería en cuba. santería en cuba. 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+santería en cuba. santería en cuba. santería en cuba.

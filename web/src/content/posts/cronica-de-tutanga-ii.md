@@ -3,7 +3,7 @@ title: "Crónicas de Tutanga (II)"
 date: "2019-03-02T05:41:37+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/03/sandor-ST-100x70-cm-tinta-y-pastel-seco-cartulina-2013.jpg"
+image: ""
 ---
 crónicas de tutanga. 
 
@@ -22,15 +22,3 @@ Como extranjero que soy, no logré ni logro comprender la actitud de los tutanos
 \[1\] En el más depurado tutatano, siempre que una palabra termina en “k”, debe leerse como “ca”. Nota del autor.
 
 crónicas de tutanga crónicas de tutanga
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

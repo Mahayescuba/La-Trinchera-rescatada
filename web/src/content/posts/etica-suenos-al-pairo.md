@@ -1,5 +1,5 @@
 ---
-title: "ética sueños al pairo"
+title: "“Sueños al pairo” y nuestra ética como cineastas"
 date: "2020-03-06T04:34:51+00:00"
 author: ""
 category: "Política en Cuba"
@@ -16,15 +16,3 @@ Nunca dejaron de grabar y el artista habló creyendo en lo que le dijeron y que 
 ¿Y lo aplauden? No, me perdonan, pero yo no puedo hacerme cómplice de eso.
 
 [También puede interesar](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

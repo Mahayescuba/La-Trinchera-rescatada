@@ -1,9 +1,9 @@
 ---
-title: "maternidad y condiciones materiales en Cuba"
+title: "¿De qué hablan mis amigas?"
 date: "2020-09-21T16:00:00+00:00"
 author: "Elaine Roca"
 category: "Onírica"
-image: "/wp-content/uploads/2020/09/Hitesh-Durgani.jpg"
+image: ""
 ---
 _En Cuba hay más de dos millones de personas mayor de 60 años, un 19 por ciento del total de la población, y se ubica en el primer país de América Latina más envejecido._
 
@@ -25,10 +25,6 @@ Productos (¿productas?, ¿productes?) del período especial, muchas quedamos de
 
 La educación que recibirá nuestro hijo. Nosotras mismas somos producto de los [PGI](http://www.cubadebate.cu/noticias/2013/06/07/oriniel-martinez-de-pgi-a-doctor-en-ciencias-pedagogicas/#.X2kBIy8lPUo), las teleclases, la venta de pruebas de ingreso, los sobornos a profesores, el pago a repasadores particulares. No queremos pasar de nuevo por esa experiencia a través de nuestros hijos. 
 
-![](/wp-content/uploads/2020/09/Manos-ancianas-scaled.jpg)
-
-![](/wp-content/uploads/2020/09/Manos-ancianas.jpg)
-
 Como si no bastara, estamos en la edad en que nuestros abuelos y bisabuelos, quienes nos criaron, comienzan a vivir sus últimos días. La mayoría de nosotras habita la casa de los padres y nuestros padres la casa de nuestros abuelos, estos la de nuestros bisabuelos y es la misma casa. Conclusión: debemos lidiar con los cuidados de ancianos y bebés, conviviendo hasta tres matrimonios bajo un mismo techo. Muchas no tienen ni cuarto propio. Imaginar comprar una casa es una locura si ya se hace difícil mantener a un bebé y para empezar, a nosotras mismas. 
 
 Los electrodomésticos, la suerte de hombres y mujeres trabajadores. Con un hogar lleno de electrodomésticos todo sería más fácil, pero una lavadora cuesta 500 USD y el salario mensual promedio ronda por los 879 CUP. Y fogón, ollas y batidoras; el niño que va creciendo necesita una cama. ¿Dónde la ponemos si logramos comprarla?
@@ -38,15 +34,3 @@ Por supuesto, todo no es comida, ropa, medicamentos, muebles o electrodoméstico
 Y nada, que mis amigas se ponen a pensar en todo esto y deciden que no se lo pueden permitir, la maternidad es un lujo y está en absoluta contradicción con nuestras condiciones materiales de vida. Hay que esperar a ver si las cosas mejoran, pero el calendario nos va pasando la cuenta y ¡el maldito bloqueo que no se acaba! Tic tac, tic tac. 
 
 maternidad y condiciones materiales en Cuba, maternidad y condiciones materiales en Cuba, maternidad y condiciones materiales en Cuba.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/ana-lia-y-la-fabrica-de-traumas/
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    [Elaine Roca](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/elaine-roca/)
-    
-    Graduada de Filosofía y Ciencias de la Religión. Trabaja en Instituto de Filosofía de Cuba. En La Trinchera no escribe de teoría.

@@ -1,5 +1,5 @@
 ---
-title: "Marx y Proudhon"
+title: "Marx+Proudhon (X)"
 date: "2019-01-06T04:06:46+00:00"
 author: ""
 category: "Marxismo"
@@ -53,15 +53,3 @@ Mi personal opinión, insisto personal, o sea sujeta a estado de Asamblea, es la
 Ahora, que podríamos decir, para fecharlo, después de la primera guerra inter-imperialista, el capitalismo en su descomposición se sustenta en el fascismo, como norma para sostener las “instituciones republicanas”, y cuando la forma fascista se afirma, de las autodefensas pasamos a “las formaciones especiales”, siempre resueltas en asambleas sindicales, donde no están exentas las posiciones de partido, aunque con algún grado de controversia, lo deseable es que las formaciones estén sujetas a los proyectos partidarios, acotando el espontaneismo a la mínima expresión, teniendo siempre presente que la movilización es el arma superior. En este punto, las controversias suelen suscitarse entre los intereses de las distintas fracciones políticas. Es necesario anotar, que el uso de la fuerza es un método del enemigo, nosotros apuntamos hacia la racionalidad de las relaciones sociales y en caso de tener que usarla, como recurso último, siempre preferimos la violencia contra la propiedad, a la inversa de la violencia de ellos, que eligen la violencia contra las personas, ya que en su concepto, las personas valen menos que la propiedad. Esta discusión, a veces de difícil resolución verbal, ya que nunca faltan aquellas impaciencias, que en un momento dado pasan, de las armas de crítica, a la crítica de las armas. Acá, esta consideración abstracta debe refrendarse en la situación concreta.
 
 Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

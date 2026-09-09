@@ -1,9 +1,9 @@
 ---
-title: "intelectualesLos foucaultianos, los intelectuales y Hegel"
+title: "Los foucaultianos, los intelectuales y Hegel"
 date: "2018-03-20T16:22:13+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Opinión"
-image: "/wp-content/uploads/2018/03/intelectuales-680x365_c.jpg"
+image: ""
 ---
 Los foucaultianos que conozco no son precisamente seguidores de la praxis (en el sentido más común) de este autor. Puede que no sea una generalidad, pero voy a juzgar por lo que la evidencia empírica me ha mostrado.
 
@@ -30,15 +30,3 @@ Este era el proyecto de intelectual hegeliano implícito en su obra, el de llega
 Esa idea -de forma consciente o no-, se figura hasta hoy. El intelectual, con su condición de hombre ilustrado, se cree superior, levantado por delante de la sociedad, como quien mira de reojo por saberse conocedor del funcionamiento del mundo. Pone su mente, y lo sabe, a servirle al poder. Si bien existe todo un condicionamiento que los arrastra y reproduce esas actitudes, también es claro que han aceptado su autoenajenación dentro del sistema y se han sumido en el conformismo de comprender la realidad, tal y como dijo Hegel.
 
 [También puede interesar](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

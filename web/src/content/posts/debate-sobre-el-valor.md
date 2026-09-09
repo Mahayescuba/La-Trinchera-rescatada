@@ -1,5 +1,5 @@
 ---
-title: "Valor del arte La Trinchera Miguel Alejandro Hayes"
+title: "Debate sobre el valor del arte"
 date: "2019-03-31T18:00:14+00:00"
 author: ""
 category: "Marxismo"
@@ -56,15 +56,3 @@ La discusión sobre si algo tiene valor o no, presiento que viene de aquello de 
 3\. Hayes Martínez, Miguel Alejandro. Si de filosofía se trata . Rebelión. \[En línea\] 20 de 02 de 2019. \[Citado el: 17 de 03 de 2019.\] http://www.rebelion.org/noticia.php?id=252750.
 
 4\. —. El valor: el capital y su fundamento. Rebelión. \[En línea\] 05 de 03 de 2019. \[Citado el: 17 de 03 de 2019.\] http://www.rebelion.org/noticia.php?id=253214.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

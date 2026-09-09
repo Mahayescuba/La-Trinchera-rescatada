@@ -1,9 +1,9 @@
 ---
-title: "Sobre economía"
+title: "Análisis y desarrollo del modelo económico cubano"
 date: "2020-02-15T20:59:00+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/02/23582a03a1a022eb7b4bc3880e2ddff3-1.jpg"
+image: ""
 ---
 Economía. 
 
@@ -20,16 +20,4 @@ Las incongruencias producidas por la aplicación del aludido modelo, obligó a d
 Las experiencias para implementar el modelo económico chino en Cuba comenzaron en la gubernatura del ex presidente cubano Raúl Castro, mostrando relativos resultados entendiendo como tal, la reforma del ordenamiento jurídico cubano, la simplificación de trabas burocráticas en la dinámica funcional empresarial, el ensanchamiento de la actividad empresarial privada, entendiendo como tal el establecimiento de Cooperativas no Agropecuarias experimentales, para autorizar futuros mecanismos societarios.  
 Con el gobierno cubano actual las experiencias para aplicar este modelo se han mantenido, a pesar de los mecanismos de presión desatados por Estados Unidos contra los gobiernos de Cuba y China, y a partir de la ineficacia del Título III de la [Ley Helms Burton](https://es.wikipedia.org/wiki/Ley_Helms-Burton), continuarán los intercambios entre ambos países en función de su materialización.
 
-Economía. Economía. Economía. 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+Economía. Economía. Economía.

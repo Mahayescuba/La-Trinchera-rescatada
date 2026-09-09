@@ -3,7 +3,7 @@ title: "Al Estado cubano: II Declaración de la Plataforma 11M"
 date: "2020-10-05T11:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/10/Jean-Luois-Corby-Encuentro-5.jpg"
+image: ""
 ---
 En días recientes, seis denominaciones cristianas (Convención Bautista de Cuba Occidental, Convención Bautista de Cuba Oriental, Iglesia de la Biblia Abierta en Cuba, Iglesia Evangélica Pentecostal de Cuba Asambleas de Dios, Iglesia Metodista en Cuba y Liga Evangélica de Cuba), la mayoría de ellas pertenecientes a la Alianza de Iglesias Evangélicas Cubanas (AIEC), han publicado en sus perfiles de redes sociales declaraciones oficiales. 
 
@@ -19,17 +19,11 @@ Estos documentos han tenido cuatro objetivos fundamentales: 
 
 Las expresiones de odio manifestadas en diversas plataformas sociales por miembros de grupos cristianos fundamentalistas, contra la pastora de la Iglesia de la Comunidad Metropolitana (ICM) Elaine Saralegui y el activista Adiel González, evidencian la urgencia de una ley de culto que regule estas manifestaciones de violencia en el espacio público; en concordancia, además, con las garantías que la Constitución promete a toda la ciudadanía, incluyendo a las personas LGBTIQ+.
 
-![](/wp-content/uploads/2020/10/11M.jpg)
-
-![](/wp-content/uploads/2020/10/11M.jpg)
-
 No es la primera vez que estos grupos cristianos arremeten contra las luchas de activistas por los derechos sexuales; del mismo modo en que disienten de la voluntad política del Estado por la ampliación y reconocimiento de los derechos de las personas LGBTIQ+, mientras descartan los principios de igualdad y no discriminación de la Constitución cubana.
 
 Es preocupante el auge del fundamentalismo religioso que intenta imponer su agenda conservadora con financiamientos de organizaciones estadounidenses, relacionadas a la actual administración del presidente Donald Trump. La NED y la USAID han donado miles de dólares para subvencionar las actividades de estos grupos en los últimos años, lo que consta en sus declaraciones contables públicas.
 
  El Estado cubano no se ha pronunciado al respecto con la misma energía con que lo ha hecho frente a otras organizaciones de la sociedad civil. El Estado cubano no ha respondido a los ataques y desacreditaciones de estas denominaciones cristianas contra quienes impulsan políticas públicas a favor de las personas LGBTIQ+ desde puestos gubernamentales. Sin embargo, ha respondido cuando los cuestionamientos a personas en cargos públicos e instituciones estatales provienen de activistas o personas no religiosas, acusándoles de mercenarismo, de ser personas manipuladas y confundidas al servicio de una potencia extranjera.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/debates/debates-trans-en-cuba-desinformacion-transfobia-y-otros-errores-en-el-csistema/
 
 La [Constitución](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiZro6vip3sAhXBsaQKHVCMDPQQFjADegQIExAC&url=http%3A%2F%2Fwww.cubadebate.cu%2Fnoticias%2F2019%2F04%2F09%2Fdescargue-la-constitucion-de-la-republica-de-cuba-pdf%2F&usg=AOvVaw0uEqsE3g_R2gCiVJi8NqwN), recién aprobada en el 2019, en su artículo 15, reconoce que la República de Cuba es un Estado laico. Las instituciones religiosas quedan separadas del aparato estatal y, por consiguiente, la carta magna no otorga privilegios que favorezcan a alguna creencia religiosa sobre otras. Además, garantiza el ejercicio de la libertad religiosa, al igual que protege el disfrute de este derecho. 
 
@@ -64,15 +58,3 @@ Email:
 [11demayocuba@gmail.com](mailto:11demayocuba@gmail.com)
 
 declaración de la Plataforma 11M declaración de la Plataforma 11M, declaración de la Plataforma 11M
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    [La Trinchera Editor](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/la-trinchera-editor/)
-    
-    La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser una plataforma de debate.
-    
-    [](/la-trinchera/)

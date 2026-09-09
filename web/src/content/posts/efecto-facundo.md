@@ -3,7 +3,7 @@ title: "Los efectos de Facundo"
 date: "2020-01-14T03:13:03+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/01/IMG_20200112_152557_318.jpg"
+image: ""
 ---
 Facundo.
 
@@ -27,15 +27,3 @@ Hay mucho Facundo en el pasado y el presente cuyos estragos se sintieron y se si
 **Notas**
 
 (1) Fidel Castro. “Algunos problemas de los métodos y formas de trabajo de las ORI”. Comparecencia televisiva del 26 de marzo de 1962. En: El Partido Marxista-Leninista. T. I/ Empresa Consolidada de Artes Gráficas, 30 de mayo de 1963/253.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

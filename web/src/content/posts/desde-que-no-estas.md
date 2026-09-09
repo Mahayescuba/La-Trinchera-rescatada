@@ -3,15 +3,11 @@ title: "Desde que no estás"
 date: "2019-11-22T06:28:13+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/11/IMG_20191122_005216_299.jpg"
+image: ""
 ---
 Desde que no estás. 
 
 **Por: Miguel Alejandro Hayes**
-
-Nota al lector: Llevo días pensando. Lo hago. No lo hago. Digo mañana y termino por no hacerlo.  
-Ya me decidí y ahora no encuentro un porqué que me lo impida.  
-Perdónese al no poeta por las faltas, las impurezas y las inercias; tenía un gran motivo.
 
 ###### _A Elizabeth_
 
@@ -53,16 +49,4 @@ desde que no estás.
 
 Nota al lector: Llevo días pensando. Lo hago. No lo hago. Digo mañana y termino por no hacerlo.  
 Ya me decidí y ahora no encuentro un porqué que me lo impida.  
-Perdónese al no poeta por las faltas, las impurezas y las inercias; tenía un gran motivo.  _A Elizabeth_ Sabina calla desde que no estás. No se atreve a correr sin mirar atrás. Hegel ya no quiere cuestionar la nada, a su ir y venir sin cesar de otredad y mismidad. Aute cansado, se niega a hacer sus labores. No reivindica espejismos, ni me cuenta de lujuriosos amores. Derrida no menciona a la metafísiva ni a su presencia. Mi héroe posmoderno y gallardo no declama de Shakespeare ni de os _Espectros de Marx_. Y Marx mi Marx! al igual que todos: calla 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+Perdónese al no poeta por las faltas, las impurezas y las inercias; tenía un gran motivo.  _A Elizabeth_ Sabina calla desde que no estás. No se atreve a correr sin mirar atrás. Hegel ya no quiere cuestionar la nada, a su ir y venir sin cesar de otredad y mismidad. Aute cansado, se niega a hacer sus labores. No reivindica espejismos, ni me cuenta de lujuriosos amores. Derrida no menciona a la metafísiva ni a su presencia. Mi héroe posmoderno y gallardo no declama de Shakespeare ni de os _Espectros de Marx_. Y Marx mi Marx! al igual que todos: calla

@@ -1,5 +1,5 @@
 ---
-title: "Violencia institucional el 27 de enero La Trinchera Por: Julio Pernús"
+title: "La esperanza pronto será una realidad"
 date: "2021-02-01T17:00:00+00:00"
 author: "Julio Pernús"
 category: "Política en Cuba"
@@ -9,24 +9,8 @@ Justo cuando varios jóvenes veíamos con esperanza el [diálogo](https://www.go
 
 Quizás a los funcionarios públicos que salieron a reprimir o a desacreditar a los manifestantes de este 27 de enero ya les ha ganado el miedo a un pensamiento y a obrar en libertad; esa es una enfermedad más contagiosa y letal que la COVID 19.  No sé si para algunos dirigentes lo que sucede en Cuba desde hace unos meses, donde el tejido social parece desbordar el marco institucional, es solo es un entusiasmo juvenil. Sin embargo, la realidad logra dibujar una utopía distinta, pues muestra a personas de diversos signos: políticos, religiosos, raciales, sociales, etc.,  sentadas juntas frente a un ministerio compartiendo horizontes, poesía martiana, en ocasiones interactuando  sin palabra alguna,  solo algún gesto de complicidad como pasarse un cigarro, un pequeño roce en el codo, un pomo de agua que cubra la sed de veinte gargantas, o solo mirar de reojo a la otra persona con gratitud, sintiéndola co-creadora de una Cuba del futuro. Ese mapa habla de una felicidad que muchos no sabrán ubicar, pues han dejado de soñarla desde hace tiempo para instalar la continuidad en sus vidas. 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/que-tristeza/
-
 Escribo porque es la mejor manera que tengo de comunicar, y la verdad, en la Iglesia me han regalado muchas oportunidades para crecer como comunicador. Siempre le he tenido miedo a caer preso de los privilegios, pues sé que junto a ellos vienen compromisos que luego pueden aprisionar la libertad. Hace poco, hablando con un sacerdote amigo jesuita, me decía: “Julio, en la Compañía sabemos lo que debemos hacer, la Iglesia cubana sabe cómo debe obrar, otra cosa es que no siempre lo hagamos por temor a perder algunos _privilegios._” Una religiosa a la que admiro mucho llegó a escribir: “no es momento de silencios”.
 
 Uno de nuestros obispos ha comenzado a promover en su diócesis una reflexión sobre la vida de San José, una de las características del esposo de María es que siempre creyó en un Cristo pobre, pues sabía que la pobreza elegida por el bien de Jesús y a su servicio, también reconoce nuestra interdependencia de la figura en el poder político. Ser una Iglesia que por la opción samaritana de defender al prójimo se hace aún más pobre, nos hará  ser también más libres  para ser más generosos con ese que hace hoy una sola comida al día si acaso, o aquellas personas que pasan el día en una cola para vender su compra a otros; pero, especialmente a esos cubanos que están necesitados de tantas maneras de sentir un aliento en su esfuerzo por defender una narrativa distinta para su futuro. 
 
-La violencia no es casualidad, más bien es nace en el corazón del hombre sujeto a estructuras aprisionadoras. Alguna vez le escuché decir al P. Benjamín sj que la mística de los ojos abiertos: “no es solo mirar tú al pobre- al repudiado- sino dejarte mirar por él también y saber que desde ahí también Dios actúa, transforma, cambia los corazones.” La Iglesia es de las pocas instituciones civiles que aún tiene un grado de credibilidad en los cubanos, y si esa fe que el pueblo le tiene a Dios (al bien para los no creyentes) se transformara en obras, en alianzas, sería más fácil ver que la esperanza pronto será una realidad.      
-
-violencia institucional el 27 de enero
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)
+La violencia no es casualidad, más bien es nace en el corazón del hombre sujeto a estructuras aprisionadoras. Alguna vez le escuché decir al P. Benjamín sj que la mística de los ojos abiertos: “no es solo mirar tú al pobre- al repudiado- sino dejarte mirar por él también y saber que desde ahí también Dios actúa, transforma, cambia los corazones.” La Iglesia es de las pocas instituciones civiles que aún tiene un grado de credibilidad en los cubanos, y si esa fe que el pueblo le tiene a Dios (al bien para los no creyentes) se transformara en obras, en alianzas, sería más fácil ver que la esperanza pronto será una realidad.

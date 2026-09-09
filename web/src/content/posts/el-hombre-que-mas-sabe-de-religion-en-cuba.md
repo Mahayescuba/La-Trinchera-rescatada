@@ -1,9 +1,9 @@
 ---
-title: "entrevista al profesor Enrique López Oliva"
+title: "El Hombre que más sabe de Religión en Cuba"
 date: "2020-10-31T14:01:53+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2020/10/Antoine-Josse-.jpg"
+image: ""
 ---
 ###### **Julio Pernús (JP) entrevista al profesor emérito de Historia de las Religiones en la Universidad de la Habana, Enrique López Oliva (ELO)**
 
@@ -20,10 +20,6 @@ Yo soy una persona optimista y me digo algo es algo, pero igual, siendo honestos
 La pandemia y sus medidas sanitarias restrictivas adyacentes me sorprenden dando clases de _Historia de las Religiones_ en la Licenciatura en historia en curso para trabajadores de la Universidad de La Habana. También, había culminado recientemente de impartir clases en una maestría de estudios socio-religiosos de la facultad de Filosofía e Historia de la Universidad de La Habana. Allí, pude dar tres conferencias sobre La Religión y el Proceso Revolucionario Cubano. Me basé para ese curso en un pequeño ensayo que publiqué en la revista _Temas_ hace unos años, sobre la Iglesia católica y la Revolución cubana.
 
 En los últimos tiempos, he tenido la posibilidad de escribir en una publicación católica muy apreciada en Cuba como _Vida Cristiana_ y me han publicado en estos meses   en la revista impresa _Amor y Vida_ del Movimiento Familiar Cristiano, donde hay dos artículos míos que deben circular cuando se pueda volver a la _normalidad_. También tenía reuniones de coordinación periódica como miembro de la junta directiva del Consejo de Iglesias de Cuba, pues soy el secretario de la Comisión para el Estudio de la Historia de la Iglesia en Latinoamérica sección Cuba (CEHILA-Cuba).  
-
-![](/wp-content/uploads/2020/10/34826108-CC2F-4F92-8E1A-C040B209C75E.jpeg)
-
-![](/wp-content/uploads/2020/10/34826108-CC2F-4F92-8E1A-C040B209C75E.jpeg)
 
  **JP- ¿Cuánto crees que esta Pandemia ha afectado al campo religioso cubano?**  
 
@@ -47,8 +43,6 @@ En este momento el pueblo está buscando una respuesta religiosa para sus proble
 
 Muchos imploran un milagro existencial que no es fácil ver en el horizonte, lo que no quiere decir que no pueda existir. Yo creo que puede venir algo sorprendente que pueda cambiar todo, donde no descarto los resultados de las actuales elecciones que se puedan dar en Estados Unidos y su impacto sobre Cuba. Yo diría que el cubano del siglo XXI debe aprender a dialogar con el otro y consigo mismo; si no dialogamos con los otros, incluso aquellos que no piensen como la mayoría, no le veo futuro a la necesaria reconciliación. Hay estudiosos que presagian que vivimos en el apocalipsis, el fin de la humanidad, pero según mis lecturas históricas, esto no tiene que ser necesariamente así.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/del-odio-al-amor-mi-viaje-a-la-semilla/
-
  **JP- ¿Para terminar, Enrique, ¿crees que académicamente se ha sido injusto contigo, pues nunca te han dado ningún reconocimiento y llevas más de 40 años dando clases en la Universidad de La Habana y estudiando el fenómeno religioso cubano?**
 
 **ELO –** Con respecto a mi reconocimiento académico, lo que hice y hago todavía por la formación de nuevas generaciones, es porque lo considero necesario y útil para la sociedad cubana, nunca he trabajado aspirando a nada. Te cuento que del grupo de Estudios de la Religión creado en la Universidad de La Habana en 1971, conformado por Eduardo Torres Cuevas, Aurelio Alonso y yo, disuelto en el primer congreso del partido en 1975, donde yo atendía Iglesia católica, los otros dos amigos son premios nacionales y a mí, bueno, de seguro me absolverá la Historia.
@@ -60,17 +54,3 @@ En realidad, le agradezco a la vida y a la Revolución las oportunidades profesi
 Yo me considero un hombre de diálogo, aunque admito que este no ha sido fácil, quizás por ser así, los decisores han visto en mí el peligro de premiar una voz libre aferrada históricamente a la verdad, por fuerte que sea. Ahora que siento más cerca el final, creo que moriré feliz y completamente solo en mi antigua casa llena de libros sobre religión.  Desde que comenzó esta pandemia, suelo sentarme con mayor frecuencia en el portal de mi Kholilandia, esperando y reflexionando sobre lo que va a suceder.  
 
 Julio, para terminar, quiero decirte que desearía que me recordaran como uno de aquellos antiguos profetas del antiguo testamento a los que Dios escogía para dar su testimonio y ellos decían: _Padre, si yo soy analfabeto, si soy tartamudo._ Quizás, Dios me ha escogido para transmitir algún mensaje a Cuba con mi vida dedicada a la enseñanza de la Historia de la Religión, sin considerarme yo su digno seguidor.
-
-entrevista al profesor Enrique López Oliva, entrevista al profesor Enrique López Oliva, entrevista al profesor Enrique López Oliva, entrevista al profesor Enrique López Oliva
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)

@@ -1,9 +1,9 @@
 ---
-title: "Rosita Fornés"
+title: "Una Rosa de luz"
 date: "2020-06-11T13:10:05+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/06/Chagall-Le-jardin.jpg"
+image: ""
 ---
 Salí a la calle a preguntar por ella, pero fue contraproducente: cuando les contaba a la gente que la Rosa que buscaba no era roja, ni amarilla, ni blanca, sino color luz
 
@@ -31,18 +31,4 @@ _dolor de familiares, amigos y de todo su_
 
 _pueblo que supo amarla._
 
-![](/wp-content/uploads/2020/06/photo_2020-06-11_15-14-57.jpg)
-
-![](/wp-content/uploads/2020/06/photo_2020-06-11_15-14-57.jpg)
-
 [Otros textos del autor](/izquierdista-de-derecha/)
-
-## Autor
-
--   ![](/wp-content/uploads/avatars/9/5f99ed91318cb-bpfull.jpg)
-    
-    ![](/wp-content/uploads/avatars/9/5f99ed91318cb-bpfull.jpg)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

@@ -3,7 +3,7 @@ title: "Se revolvió el hormiguero"
 date: "2019-07-15T05:35:39+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/07/Chema-Madoz-21.jpg"
+image: ""
 ---
 Al ponerse la situación un poco caliente principalmente en las redes sociales, la administración de SNET lanzó otro Comunicado.
 
@@ -35,15 +35,3 @@ snet-nuevas-regulaciones-hab/2285940274826883/.
 from: https://m.facebook.com/notes/snet-street-network-cuba-perfil-  
 oficial/comunicado-oficial-2-10-06-2019/2306090032811907/.  
 Para contactar con el autor: @SNET\_CUBA https://twitter.com/snet\_cuba?s=17
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

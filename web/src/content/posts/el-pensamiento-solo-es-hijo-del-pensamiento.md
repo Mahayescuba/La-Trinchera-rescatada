@@ -3,7 +3,7 @@ title: "El pensamiento solo es hijo del pensamiento"
 date: "2020-04-17T09:30:29+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Marxismo"
-image: "/wp-content/uploads/2020/04/c730b1b6-e2ce-4a69-8103-b7f99671003b.jpeg"
+image: ""
 ---
 Leer a [Marx](https://es.wikipedia.org/wiki/Karl_Marx) es un gran reto, tanto para el pensamiento político como para el teórico. Por eso, sin importar el ámbito, se debe ser cuidadoso con la lectura que se le haga al alemán.  
 Una de las vías para acercarse a su obra es conocer los referentes teóricos que le corresponden. Son de valor ahí los trabajos del economista David Ricardo “Principios de Economía Política y tributación” y “La ciencia de la lógica” (CL) de Hegel.  
@@ -17,15 +17,3 @@ Lo que ocurre al adentrarse en la crítica a la metafísica, por ende, a la lóg
 De lo que deriva la interrogante de si solo es posible apropiarse de ese proceder tan solo de la CL. Una respuesta afirmativa implicaría negar el propio ejercicio sobre el que se construye la dialéctica: el del pensamiento.  
 En realidad, la CL es la propuesta de explicar la dialéctica como único puede lograrse, que no es de otro modo que haciéndola. En Hegel, ella se hizo sobre la propia tradición filosófica que lo antecedía. De Igual manera, Marx hizo dialéctica de la obra de Ricardo aquí mencionada.  
 Entonces, lo que se necesita a ciencia cierta, más allá de dominar los referentes teóricos (en la economía política y en la lógica), es intentar lo que se pretende con ellos: condicionar comprender la dialéctica sobre la que se “estructura” el Capital. De nada vale la repetición en clave formal del lenguaje que ahí se reproduce, lo necesario es apropiarse del pensamiento que se nos presenta mediado por ese lenguaje. Y el pensamiento solo es hijo del propio pensamiento.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

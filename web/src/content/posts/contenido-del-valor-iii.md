@@ -1,9 +1,9 @@
 ---
-title: "El contenido del valor (III y final) - Una respuesta a Rolando Astarita"
+title: "El contenido del valor (III y final)"
 date: "2018-09-25T11:01:13+00:00"
 author: ""
 category: "Economía Política"
-image: "/wp-content/uploads/2018/09/rado-Kirov.jpg"
+image: ""
 ---
 Sustancia del valor.
 
@@ -60,15 +60,3 @@ La categoría valor tiene su base en la dialéctica hegeliana. Esta, como abstra
 Creo que queda claro: la sociedad le da reconocimiento (capacidad de ser cambiado) a lo que le sea funcional a su estructura clasista, ya sea el hombre, la naturaleza propiamente o de la interacción de ambos. La dialéctica refleja esas relaciones, y le llama valor.
 
 Sustancia del valor. Sustancia del valor. Sustancia del valor. Sustancia del valor. Sustancia del valor. Sustancia del valor.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

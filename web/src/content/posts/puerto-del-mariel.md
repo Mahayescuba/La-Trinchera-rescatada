@@ -1,9 +1,9 @@
 ---
-title: "puerto del mariel"
+title: "En busca de una misma flor"
 date: "2020-03-15T15:28:19+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/03/IMG_20200314_185202_856-1.jpg"
+image: ""
 ---
 Van a hacer cuarenta años de los hechos del puerto del Mariel que desencadenaron una tormenta en el estrecho de la Florida.
 
@@ -18,13 +18,3 @@ Algo han logrado los «perseguidores de cualquier nacimiento»: que renazca la n
 Que nadie alegue que los peligros del 80 no acechan. Esperan su oportunidad desde que en el Granma y en el NTV se insinúa fusilamiento para los que profanaron los bustos de Martí. Se esconden en los que desde el exilio —adonde han ido a parar algunos verdugos de aquel «pueblo combatiente»— piden ojo por ojo y afilan sus armas.  
 La contrarrevolución de ciertas manifestaciones artísticas es discutible, la de callar la boca por decreto es manifiesta: termina por demostrar que es mentira nuestra madurez ideológica y una burla castrar al toro para hacerlo más fuerte. Como mismo las bombas y las balas no matan ideas, la cárcel no puede encerrarlas ni la censura evitar que se propaguen, más bien todo lo contrario.  
 Discutamos, volvamos a discutir y no cerremos nunca la discusión. Admitamos y pidamos perdón por las atrocidades quienesquiera las hayan cometido. Son las únicas maneras de lograr no se marchite la nueva flor a la que cantó Porcel cuando clamamos por la paz y la amistad en el lejano verano del 78.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

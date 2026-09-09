@@ -75,17 +75,3 @@ La tertulia arranca con la bandera del Junquillo de Matanzas, esa de las fantas�
 > Pues a despertarse rápido del sueño y a solucionarlo lo mejor que se pueda, que la vida no es una barca.
 
 Sin embargo, y a pesar de esa bandera a media asta, la misma que colocó Agustín Acosta, por el Ateneo de Matanzas, a mediados de los años sesenta, en más de una ocasión, la tertulia del Junquillo seguirá reanimándose. Hay galletas, en el plato de la mesita de centro, y ya viene mi mamá con café, de la cocina, para el que siga creyendo que el té es un cocimiento. Recuerden, la clave es mantener la calma, y no dejar que a nadie se le vuele la cafetera de las emociones. Preguntar sigue siendo mejor que afirmar, pues: _¨¿Ves?: Tengo sangre en las venas… en estas venas verdes, frágiles que se enredan como ríos de mapa entre la carne¨._ Ya lo dijo la Dulce, que era concisa y regañona.
-
-[Otro texto del autor](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

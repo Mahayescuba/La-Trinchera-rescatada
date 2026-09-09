@@ -3,7 +3,7 @@ title: "Pensé en Pepe"
 date: "2020-01-29T04:31:12+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/01/PicsArt_01-29-05.55.08.jpg"
+image: ""
 ---
 _A Martí, a Helmo_
 
@@ -20,15 +20,3 @@ Lástima que no leíste al [Charlie](/marxismo/) ( que tu con lo que estabas fam
 Dime la verdad, ¿estás viendo esto? ¿Qué te parece? Deja, no me digas. No quiero alterarte hoy. Bastante ya que te han cogido para el chanchullo y el brete (aquí y allá).  
 Sabes que no me gusta citarte, pero, ¿no tendrás una frase para esos que siempre te citan a conveniencia? Digo, para llevarlos a la paradoja a ver si aprenden. Pero tú no cojas lucha, tú tuviste bastante con tu tiempo, así que déjanos este a nosotros.  
 Ya es tarde. Debes andar en tus cosas. No te molesto. Solo quiero decirte: ¡Felicidades Pepe!
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

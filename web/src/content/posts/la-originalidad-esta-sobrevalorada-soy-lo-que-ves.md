@@ -1,9 +1,9 @@
 ---
-title: "Entrevista a Miguel Alejandro Hayes"
+title: "La originalidad está sobrevalorada: Soy lo que ves"
 date: "2020-11-21T20:57:56+00:00"
 author: "Roberto Chile"
 category: "Entrevista"
-image: "/wp-content/uploads/2020/11/img_1414.jpg"
+image: ""
 ---
 #### Entrevista realizada por Roberto Chile a Miguel Alejandro Hayes
 
@@ -23,10 +23,6 @@ Me queda el no tener prejuicio contra las manifestaciones directas de afecto a l
 
 Por otro lado, está… bueno, lleva una anécdota. Yo tuve mi propio Varela en casa, que me enseñó primero a pensar. Recuerdo que estuve muy triste, si mal no recuerdo, lloré sin parar cuando mi padre, en vez de explicarme una tarea, me dio un libro y me dijo _lee_. No lo entendí, no podía entenderlo. Me sentí solo, aun más cuando vi que mi madre siguió esa actitud. No sería como soy si no hubiese sido por ese día. De aquel niño no me separo, a casi cualquier precio.
 
-![](/wp-content/uploads/2020/11/img_1416.jpg)
-
-![](/wp-content/uploads/2020/11/img_1416.jpg)
-
 Entonces, Chile, yo te digo estas dos cosas porque giran alrededor de los aspectos que para mí son esenciales en la vida y me marcaron desde niño: la familia y el pensamiento, es decir, el amor y la razón. Y estoy casi seguro de que sigo siendo el mismo niño, como diría Marx de los griegos en otro contexto, niño grande.
 
 **Dice [Carlos Varela](https://www.youtube.com/watch?v=K_Zbc79dQRk) en una de sus canciones: “Son los pequeños sueños que también ayudan a vivir”. Te pregunto, ¿cuáles fueron los pequeños sueños de tu adolescencia que te ayudaron a vivir, y cuáles son ahora los grandes sueños que te ayudan a crecer?**
@@ -38,8 +34,6 @@ Creo que mi adolescencia me alejó un poco de mi niñez. Yo me siento más cerca
 Quitándole las sombras existenciales y mundanas, en esa etapa conocí a muchos amigos, a muchos padres. Conocí a Gabo, otro salto en mi vida. También conocí a Che. Digo conocer porque hay personas que uno lee, que termina pensando, sintiendo, que las conoce. Llegan a ser personas con las que siento que estoy hablando, que se les puede hablar, y que le hablan a uno.
 
 Creo que tenía grandes sueños en esa etapa, y ahora los pequeños. Mis pequeños sueños, los que me mantenían, eran esperar cada año a la reunión que hacía toda la familia en el campo (bueno, que ellos no se enteren que dije campo).  Mis pequeños sueños eran la música, escribir poesía. 
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/cultura/paco-my-friend/
 
 Por otro lado, mis sueños grandes no eran una meta, sino estar inmerso en actividades con personas de bien: familia, amigos. Claro, esto lo comprendí después. Era una especie de sueños de tal inmediatez que los soñaba para vivirlos, o mientras los vivía los soñaba, no me hagas caso. 
 
@@ -87,8 +81,6 @@ Le agrego el acceso a la información, que es de las mejores cosas de las nuevas
 
 La propuesta se ha ido redefiniendo en la marcha. La Trinchera creo que ya tiene una línea hecha. El Solar está cogiéndolas por el camino.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/cultura/la-trinchera-en-el-aula/
-
 Me gusta pensar que La Trinchera es el intento de construir un espacio abierto. Cualquier punto de vista es válido, siempre que se exponga con cierta seriedad y responsabilidad por parte del autor. Actualmente LT es un pequeño espacio para dar voz a pequeños discursos, si de hegemonía comunicacional se trata. Aunque confío en el talento y las capacidades intelectuales y creativas de cada uno de los colaboradores del blog, la mayoría mantenemos eso que se le pudiera llamar perfil bajo (insisto, eso a pesar de la buena preparación y talento de la mayoría). Yo me pongo más contento cuando recibo textos de personas que no son famosas o tienen un nombre hecho, que cuando son más mediáticos. También cuando alguien que nunca ha publicado nada, envía un texto. Entonces, ahora esa es la propuesta en LT, ofrecer pequeños discursos, en lo académico, en lo intelectual, en lo artístico.
 
 El Solar es un podcast un poco alocado. Lo único fijo es que sale cada semana. Creo que responde a un primer impulso creativo de generar dinámicas que resultan de necesidades de decir. Por eso se hacen entrevistas, conversaciones, hablo solo, monólogos, se habla de poesía, en fin, siempre se está experimentando.
@@ -108,11 +100,3 @@ La Cuba a la que es aspiro no lleva muchos elementos, pero puedo resumirla de ma
 **Después de este intercambio, que podría ser más extenso aún, te hago una última pregunta que pudiera haber sido la primera: ¿Quién es Miguel Alejandro Hayes?**
 
 Chile, una amiga me hace un chiste cada vez que digo esta frase, pero siempre respondo lo mismo. La originalidad está sobrevalorada: _soy lo que ves_.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/chile.jpg)
-    
-    ![](/wp-content/uploads/2021/02/chile.jpg)
-    
-    [Roberto Chile](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/roberto-chile/)

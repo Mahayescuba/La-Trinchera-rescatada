@@ -1,9 +1,9 @@
 ---
-title: "Che y los intelectuales en Cuba"
+title: "Che y el intelectual revolucionario"
 date: "2018-06-14T11:15:38+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2018/06/ernest-8.jpg"
+image: ""
 ---
 Che y los intelectuales en Cuba.
 
@@ -34,15 +34,3 @@ El intelectual revolucionario muere como tal cuando sus teorías dejan de tener 
 Lo progresista de un hombre y de una clase como generalidad puede medirse por su relación y posición ante el poder dominante. Es siempre más importante el pensamiento crítico que nos permite avanzar superando nuestros errores, que la defensa a ultranza de una orden social, posición que tiende a caer en posturas fanáticas que pierden contacto con la realidad que desean trasformar. Es en este dilema de posturas donde quedan en medio nuestros intelectuales. Será su elección la que decante -a favor o en contra- el juicio inapelable que sobre ellos hará la historia. El Che como intelectual, decidió ser también un revolucionario ¿qué harán los intelectuales de izquierda hoy?
 
 Che y los intelectuales en Cuba. Che y los intelectuales en Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

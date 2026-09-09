@@ -1,5 +1,5 @@
 ---
-title: "Tángana en el parque Trillo"
+title: "¿El gris de mi bandera?"
 date: "2020-12-26T10:30:00+00:00"
 author: ""
 category: "Política en Cuba"
@@ -19,8 +19,6 @@ Fui al parque Trillo, más que a escuchar los discursos de quienes ya sospechaba
 
 Llegué un poco tarde, no viví la visita del presidente. Había un aire de celebración. Entre discurso y discurso un momento cultural. Así pasaban de citar a Gramsci a bailar una conga. Pegado a la tarima había más personas unidas, hacia los alrededores próximos se convertía en pequeños grupos tomándose fotos, hablando, comiendo. Una muchacha me llamó para preguntarme dónde había comprado el pullover de Harry Potter que llevaba puesto y se entristeció cuando le dije que había sido un regalo. Empezaba la música y la gente se agrupaba a bailar. Continuaba el discurso y todo el mundo a lo suyo. La cadencia característica de los discursos a los que estoy acostumbrada: una oración y se hace una pausa para aplaudir o para que la masa tenga el chance de repetir la ultima frase: _Creo_. A veces se descordinaban un poco porque la oración era más larga y los _creo_ no sonaban donde debían sonar. 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/carta-a-mis-camaradas-sobre-san-isidro/
-
 Estuve observando junto a los compañeros de la seguridad, a mi izquierda y derecha, aquel conjunto de personas y a los que atravesaban el parque en sus rutinas diarias, porque había espacio. El parque podía atravesarse en diagonal de un extremo al otro. A mi entrada me topé con un muchacho que comentó haber sido traído en las guaguas de la escuela. Sobre alguien que estaba con una guitarra en la tarima dijo entusiasmado: _con ese yo estaba descargando anoche_. 
 
 Todo muy pacífico, me recordó a mis matutinos de la primaria, a las actividades culturales en la facultad organizadas por la FEU. A los conciertos que daba Buena Fe en la CUJAE, aunque estos tenían más personas. Estaban allí los estudiantes universitarios con sus distintivos que consistían en el cartel impreso de la convocatoria al parque Trillo. La mayoría vestidos de blanco, rojo y azul, como en las marchas del 1ro de Mayo. Había personas mirando desde los balcones, niños montando bicicleta, gente bajando por las calles aledañas antes que se acabara la actividad. Alguien me preguntó: ¿y tu por qué vas? Le respondí: por trabajo. Entendió que había sido convocada por mi centro de trabajo y suspiró: ¡Aaah, yaaa! 
@@ -37,16 +35,4 @@ Pensé en refranes populares: _Nada es blanco o negro, en la vida hay tonos gri
 
 El cielo gris nos causa tristeza, añoranza, melancolía. Gris es el color de las canas, por ende, se asocia a la sabiduría pero también a la decrepitud. La vejez que inspira el gris está llena de contrastes porque es a la vez experiencia y decadencia. El gris puede representar el pasado. Sus extremos son otros colores: blanco y negro, por lo cual se considera un color falto de personalidad, que pasa desapercibido, que se usa en diseño y artes plásticas para que otros tonos establezcan jerarquías. 
 
-Color desprovisto de pasiones, el de las sombras, el de los fantasmas, el del mármol de las tumbas y de las estatuas, el de las cenizas; lo que queda cuando pasa el fuego. Color conservador y serio, ¿como nuestra juventud? Tal vez como este texto que pretende archivar el recuerdo de un suceso. En el futuro ha de funcionarme como funcionó a Harry la biblioteca de recuerdos líquidos de Dumbledore que, arrojados a su pensadero, devolvían al momento. Tengo fe en que existan otros recuerdos que contradigan al gris de aquel cartel y fe en que mi recuerdo no sea como el primer recuerdo, parcializado por la vergüenza, que entregó el profesor Slughorn a Harry, dónde Tom Riddle aparecía como un adolescente curioso y no como aquel monstruo que no debe ser nombrado: Lord Voldemort. 
-
-Tángana en el parque Trillo, Tángana en el parque Trillo, Tángana en el parque Trillo, Tángana en el parque Trillo, Tángana en el parque Trillo
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    [Elaine Roca](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/elaine-roca/)
-    
-    Graduada de Filosofía y Ciencias de la Religión. Trabaja en Instituto de Filosofía de Cuba. En La Trinchera no escribe de teoría.
+Color desprovisto de pasiones, el de las sombras, el de los fantasmas, el del mármol de las tumbas y de las estatuas, el de las cenizas; lo que queda cuando pasa el fuego. Color conservador y serio, ¿como nuestra juventud? Tal vez como este texto que pretende archivar el recuerdo de un suceso. En el futuro ha de funcionarme como funcionó a Harry la biblioteca de recuerdos líquidos de Dumbledore que, arrojados a su pensadero, devolvían al momento. Tengo fe en que existan otros recuerdos que contradigan al gris de aquel cartel y fe en que mi recuerdo no sea como el primer recuerdo, parcializado por la vergüenza, que entregó el profesor Slughorn a Harry, dónde Tom Riddle aparecía como un adolescente curioso y no como aquel monstruo que no debe ser nombrado: Lord Voldemort.

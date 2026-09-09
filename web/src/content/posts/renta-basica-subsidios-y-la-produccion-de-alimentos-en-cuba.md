@@ -1,9 +1,9 @@
 ---
-title: "Renta básica y subsidios en Cuba- Podcast El Solar"
+title: "Renta básica, subsidios y la producción de alimentos en Cuba"
 date: "2020-05-21T21:57:02+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/05/photo_2020-05-21_20-47-55.jpg"
+image: ""
 ---
 ¿Qué es la Renta Básica Universal? ¿Qué es un Subsidio? ¿De dónde proviene el dinero de los subsidios? ¿Recibimos los cubanos un subsidio mensual para cubrir parte de nuestras necesidades? ¿Qué aporta la empresa estatal? ¿Es necesario la contribución ciudadana individual en materia económica para fomentar la producción de alimentos en Cuba en tiempos de COVID-19?
 
@@ -23,15 +23,3 @@ image: "/wp-content/uploads/2020/05/photo_2020-05-21_20-47-55.jpg"
 
 Varios años han pasado desde el inicio del programa de reformas y aunque pareciera que la restructuración del sistema de subsidios era una tarea de inmensa importancia en aquel entonces, a día de hoy sigue siendo una asignatura pendiente. Si bien es cierto que si comparamos el peso que tienen los subsidios a día de hoy con su peso en el consumo de los hogares cubano en el año 2008, nos queda que el mismo se ha reducido notablemente y la tendencia es a que continúe dicha reducción, almenos de forma relativa. Aun así, no podemos dejar pasar por alto que la tarea de restructurar el sistema de subsidios no debe ir solo orientado a su reducción paulatina de los mismo (tendencia que se observa en la actualidad), sino a su reorientación hacia un sistema capaz de cubrir deficiencias en el sistema de distribución con arreglo al trabajo, capaz de garantizar cierto nivel de justicia social y que se destine a quien realmente lo necesite.  
 Para cumplir dichas metas, lo primero que se debe conceptualizar es el carácter que deben tener los subsidios en el sistema de distribución: O bien pueden funcionar como un sistema que garantice un nivel mínimo de consumo para todos por igual, tal y como viene siendo hasta ahora; o debe funcionar como complemento al ingreso por el trabajo para sectores específicos de la población, que pueden determinarse tanto por situaciones especiales (maternidad, crianza de menores hasta una cierta edad) o por la existencia de bajo niveles de ingreso familiar o personal.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

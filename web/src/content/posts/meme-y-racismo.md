@@ -11,8 +11,6 @@ A raíz del debate suscitado en las redes sobre el meme publicado por Ernesto Es
 
 ![](/wp-content/uploads/2020/08/meme.jpg)
 
-![](/wp-content/uploads/2020/08/meme.jpg)
-
 **Por: Jorge Fernández Era**
 
 ME… ME JODÍ
@@ -67,24 +65,4 @@ Moraleja pacifista:
 
 Pd: este comentario se lo debo a las opiniones del maestro Giordan Rodríguez Milanés
 
-meme y racismo meme y racismo meme y racismo meme y racismo meme y racismo meme y racismo 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)
-    
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros
+meme y racismo meme y racismo meme y racismo meme y racismo meme y racismo meme y racismo

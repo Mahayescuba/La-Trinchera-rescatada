@@ -1,9 +1,9 @@
 ---
-title: "Multiplicidad cambiaria"
+title: "De la tasa y el margen"
 date: "2021-04-08T18:30:57+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/04/Dan-Grayber-.jpg"
+image: ""
 ---
 La dualidad monetaria es un problema siempre y cuando exista la multiplicidad cambiaria, que no es otra cosa que la ausencia de una misma relación (tasa) de cambio entre dos o más monedas, en cada proceso de compraventa. 
 
@@ -26,8 +26,6 @@ La moneda y el papel moneda son las cosificaciones que funcionan como dinero, co
 Dos sistemas de precios, incluso más, pueden coexistir, siempre y cuando la relación entre estos sea constante.
 
 Así, los precios de cada bien o servicios (monto en dinero equivalente) mantienen en el momento del cambio, para ambas partes, la misma relación (proporción) establecida entre las dos monedas. 
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/la-lata-de-refresco/
 
 Como resultado, al tomar como referencia una moneda, en cada momento de compraventa de un bien en el mercado, para ambas partes el precio se referencia respecto a la otra moneda en la misma tasa de cambio. Con ello se garantiza que los diferentes agentes de la economía tengan acceso al mismo SP, ya sea en una moneda o en otra, o lo que es lo mismo, que el dinero tenga el mismo poder de compra para todos los agentes (los precios, respecto a otra moneda, parejos para todos). 
 
@@ -69,8 +67,6 @@ Las monedas cubanas no se constituyen esencialmente como dinero, producto del pr
 
 La diferencia de precios para agentes genera efectos para los compradores y productores. Por ejemplo, genera diferencias de SP para comprar factores de producción, insumos, bienes de capital, o bienes de consumo, etc. Recuérdese que en dependencia de qué agente es, será mejor o peor el sistema de precio al que se accede. 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-costo-de-la-escasez/
-
 Cuando un agente productor que tiene acceso a determinado SP le vende a otro agente con el cual comparte el mismo SP, no existe ningún problema, si de funcionalidad del dinero se trata. En cambio, cuando lo hace a un agente que usa otra tasa de cambio, la diferencia entre ambas funciona como un subsidio a uno, y como una imposición al otro. En estos casos, el vendedor tiene su estructura de costos enmarcada en un SP, y su estructura de ingresos enmarcada en otra. Se produce según unas reglas de juego monetarias, y se vende en otras.
 
 Cuando en la estructura de costos se utilizan factores de producción que se compran a agentes que están sujetos a diferentes SP, entonces, la estructura de costos, se hace mixta.  Por otro lado, también puede ocurrir lo mismo a la composición de su demanda, ya que puede estar integrada por agentes con diferentes SP.
@@ -106,15 +102,3 @@ Es decir, el crecimiento y el movimiento económico utilizando el espejo del dó
 Por lo que, la rentabilidad empresarial a partir de la multiplicidad cambiaria, se trata, en realidad, de una ilusión el ciclo económico. Y un ciclo económico que no puede reponer sus condiciones de repetición, no es un ciclo favorable, es otra deformación.
 
 Esta es la racionalidad sistémica de la economía como un todo, que presiona para la inevitable unificación, es decir, el efecto de subsidiar con tasas de cambio al sector estatal, crea ilusiones de crecimiento en la medida que se afecta la reanudación de ciclos productivos, siendo una causa más de la restricción de la oferta de bienes en el país.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

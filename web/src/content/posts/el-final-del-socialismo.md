@@ -1,9 +1,9 @@
 ---
-title: "Socialismo"
+title: "Y esto no puede ser el final"
 date: "2018-12-17T04:03:31+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/12/IMG_20181216_210105.jpg"
+image: ""
 ---
 Para los que creemos que esto no puede ser el final, que el socialismo es más que la caricatura deforme del mismo que a lo largo de la historia se nos ha presentado.
 
@@ -40,16 +40,4 @@ La propiedad abstractamente social que no puede quedar sin poseedor efectivo, te
 
 el que trabaja por reproducir cada día el mismo orden social que sustenta mucho de sus dolencias. Y es aquí donde se nos plantea nuevamente la idea de la producción del hombre. Cabe preguntarse ¿Qué tipo de hombre produce nuestras sociedades hoy? Y más importante aún, ¿es ese el hombre con que podemos empezar a construir otro socialismo?
 
-Para los que creemos que esto no puede ser el final, que el socialismo es más que la caricatura deforme del mismo que a lo largo de la historia se nos ha presentado, entendemos que es necesario un cambio que nos permita no solo salvar lo conquistado, sino avanzar hacia nuevas conquistas. Y es justo aquí que nos tiene que volver la idea de que la sociedad no es un conjunto trascendental conformado por seres de otro mundo, la sociedad somos nosotros mismos, y un cambio del estado actual de las cosas, es y solo puede ser resultado de nuestras propias acciones. 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+Para los que creemos que esto no puede ser el final, que el socialismo es más que la caricatura deforme del mismo que a lo largo de la historia se nos ha presentado, entendemos que es necesario un cambio que nos permita no solo salvar lo conquistado, sino avanzar hacia nuevas conquistas. Y es justo aquí que nos tiene que volver la idea de que la sociedad no es un conjunto trascendental conformado por seres de otro mundo, la sociedad somos nosotros mismos, y un cambio del estado actual de las cosas, es y solo puede ser resultado de nuestras propias acciones.

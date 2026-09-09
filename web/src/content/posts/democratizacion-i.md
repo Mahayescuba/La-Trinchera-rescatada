@@ -1,9 +1,9 @@
 ---
-title: "Democracia"
+title: "Democratización"
 date: "2019-12-09T23:31:23+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2019/12/IMG_20191201_162251_304.jpg"
+image: ""
 ---
 Apuntes para una teoría de la democracia popular (I).
 
@@ -26,15 +26,3 @@ Novena proposición. Si la democracia mantiene una relación íntima con lo com�
 Décima proposición. En el momento actual de disputa entre democracia y neoliberalismo, una teoría política democrática popular no puede ser un límite normativo a la acción sino más bien una praxis, una fuerza de pensamiento y acción que genere formas más libres e igualitarias de la vida en común.
 
 **Publicado originalmente en Relámpagos**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "Polarización en Cuba"
+title: "El futuro en llamas"
 date: "2021-01-20T10:30:00+00:00"
 author: "Miguel Fergoz"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/01/Sophie-Touret.jpg"
+image: ""
 ---
 Algunos hemos nacido en medio de una guerra que dura ya más de seis décadas. Nuestro país es una plaza sitiada, una trinchera, y no sé si veré el día en que podamos ser más que un campamento militar. Nacimos en un futuro que otros habían quemado, y antes de mí, ya hubo hombres honestos que vieron cómo su vida se convertía en cenizas. ¿Qué hacemos aquí, sino seguir corriendo en esta rueda para hámster que no nos lleva a ningún lugar? Veo con pena la vejez de mis padres, que esperan la muerte pacientemente en la cola del pollo, y que no conocen hoy mayor satisfacción que dormir la siesta al mediodía. Me preocupo por el futuro, sí, ya no tanto por mis viejos, que de alguna manera ya vivieron la vida “a su manera”, me preocupo por mí, que aún soy joven, y me preocupo, sobre todo, por mi hijo de nueve años que apenas ha comenzado a vivir.
 
@@ -12,8 +12,6 @@ Algunos hemos nacido en medio de una guerra que dura ya más de seis décadas. N
 Hace unos años tuve una novia que también tenía un hijo, y también se quería ir. No pensaba en aparecer en escena la Covid-19 ni había colas interminables para comprar pollo, no había una Tarea Ordenamiento que disparara los precios, y en general, era más fácil que hoy encontrar trabajo en el sector por cuenta propia. Tampoco existía un Trump que nos rejodiera aún más la vida. Pero, sin embargo, ella se quería ir. ¿Por qué? No resisto la mentira –me dijo–, ya no resisto la hipocresía, quedarme callada o decir una cosa cuando en realidad pienso otra; inventar por acá, raspar por allá. Brincar la valla de la legalidad una y otra vez para poder sobrevivir, agota. Además, ¿cómo se cría un hijo en medio de este churre moral?
 
 De alguna forma hemos normalizado la mentira, que se ha vuelto –ya esto lo dije alguna vez– una estrategia de supervivencia. Y no solo la mentira que le contamos a otros, sino también esa otra forma de mentira casi inconsciente que es la evasión, el autoengaño. Así, mucha gente se ha acostumbrado a ir en caída libre, porque, “esto no tiene arreglo”, sin pensar que al final del precipicio están las rocas contra las que, en algún momento, se van a estrellar.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/los-tiempos-duros-no-son-para-poses/
 
 Yo no quiero irme, pero tampoco quiero pasarme la vida mintiendo ni engañándome. Aunque no culpo a la gente que aprende a vivir así, concentrándose solo en las cosas prácticas de la vida: lo que llamamos “la lucha diaria”; la gente que para distraerse, o para olvidarse de la “realidad” quizás, ve El Paquete o se toman una botella de ron. En definitiva, yo también saco algún tiempo para leer y para ver los partidos del Barça, y esas son mis formas de irme a otro lugar. No soy quién para juzgar, en definitiva, a la gran mayoría que decide mirar a otro lado y simplemente no hace nada ante la injusticia y/o la profanación del derecho ajeno. Supongo que todo tiene que ver con el instinto de conservación, porque el ser humano, por mucha consciencia colectiva que tenga, ve siempre el mundo desde su propio ser. No le pido nada a nadie, no serviría de nada tampoco; cada acción humana debería partir de una convicción personal, y la convicción debería forjarse con toda la educación, los conocimientos y las experiencias posibles, y no basarse en la fe ciega que lleva inequívocamente al fanatismo.
 
@@ -28,13 +26,3 @@ No obstante, esos cambios necesarios, parece que no sucederán así porque sí. 
 Es irónico que el gobierno cubano insista en la incomunicación, insista en la polarización, insista en hacer converger toda forma de pensamiento distinto hacia el anexionismo y el oportunismo de su extremo opuesto, solo para no tener que lidiar con la realidad diversa de este país posmoderno y cada día más fragmentado. Es especialmente irónico, teniendo en cuenta la reclamación continua que hace el gobierno cubano en voz de su Ministro de Relaciones Exteriores del multilateralismo y el respeto a la autodeterminación, que no aplique la misma filosofía a lo interno y establezca de una vez por toda un diálogo constructivo, basado en el principio de la soberanía y la autodeterminación, con todos los actores en su infinita diversidad y en pos de la construcción conjunta de un país soberano y diverso.
 
 La honestidad para reconocer la diversidad de criterios de una sociedad compleja no puede más estar condicionada al estado de sitio en que hemos vivido. El respeto de la ley y la constitución no puede depender del grado de asedio a que nos someta el gobierno norteamericano. El gobierno cubano debe dejar de dinamitar el respeto y la confianza de la gente; debe dejar de crear zombis, fanáticos, represores de la santa inquisición; debe dejar de acusar impunemente y sin pruebas suficientes a todo el que no le agrade; debe dejar de ser tan prepotente y comprender que no hay verdades absolutas; debe permitirnos el derecho al justo error; debe devolvernos la esperanza a los jóvenes de que no todo está dicho; debe aprender a distinguir entre patriotismo e ideología; debe enfocar las cosas de manera distinta, o, de lo contrario, que no aspire a obtener victorias con métodos arcaicos derrotados por el tiempo. El gobierno cubano debe dejar de hacer lo que tanto le critica con razón a su archienemigo: el gobierno cubano debe, desde ya, dejar de atizar el fuego, si no quiere arrasar con el futuro de este país.
-
-polarización en Cuba, polarización en Cuba, polarización en Cuba, polarización en Cuba, polarización en Cuba, polarización en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/MF2020-12-23-15.36.43.jpg)
-    
-    ![](/wp-content/uploads/2020/12/MF2020-12-23-15.36.43.jpg)
-    
-    [Miguel Fergoz](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/miguel-fergoz/)

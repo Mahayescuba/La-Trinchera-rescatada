@@ -1,9 +1,9 @@
 ---
-title: "Encuéntrense, canten, conspiren..."
+title: "Encuéntrense, canten, conspiren…"
 date: "2019-05-23T05:51:12+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2019/05/PicsArt_05-23-01.34.28.jpg"
+image: ""
 ---
 Vicente Feliú.
 
@@ -25,15 +25,3 @@ SE. ¿Cómo surge el proyecto Canto de Todos?
 VF. Fue por una necesidad. A finales de los años ochenta en América Latina, cuando finalizaron las dictaduras y comenzaron las _dictablandas_, muchas personas pensaron que nuestra canción ya no hacía falta y un poco que hubo una especie de _slum_ de la canción protesta. Parecía que la música comprometida con lo social había desaparecido y la gente de mi generación y la siguiente estaban como esperando algo, y hubo un par de generaciones siguientes como que buscando brújula y comencé a viajar de nuevo por América del Sur a finales de los noventa y encontré a esos jóvenes -tengo la suerte de ser bastante conocido, no famoso en el sentido de que me estén pidiendo autógrafos y me persigan, es decir que podía llegar a cualquier lugar sin mucha preocupación-. Entonces tuve la oportunidad de conocer muy de cerca a varios jóvenes de toda América del Sur y tuve la idea de hacer un movimiento internacional de este canto nuevo -o como se quiera llamar-, y creé Canto de Todos -como la canción de Violeta-, _el canto de todos_, que es nuestro propio canto. Y tenemos siempre presente un pensamiento de Víctor Jara, _el canto que sea valiente siempre será canción nueva_, es decir como la Bayamesa de Céspedes y Fornaris, Longina, o la canción de Adrian Berazaín sobre Martí mientras sube el [Pico Turquino](https://es.wikipedia.org/wiki/Pico_Turquino). Es otra generación con otra época, otros personajes.  
 Hemos tenido la posibilidad de reunir las dos edades: los más viejos con los más jóvenes. Y eso es Canto de Todos, un encuéntrense, canten, conspiren, hablen, seamos uno, tenemos un lenguaje común -que es lo mejor que nos pudo dejar la conquista todos los latinoamericanos-. Podemos entendernos y creo que defendemos una canción de ombligo, de pueblo, de esencia. Y debemos saber que todos somos todos.  
 SE. Muchas gracias.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

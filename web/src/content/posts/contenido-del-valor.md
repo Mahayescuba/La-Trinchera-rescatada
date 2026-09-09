@@ -1,5 +1,5 @@
 ---
-title: "contenido del valor"
+title: "El contenido del valor (I). En Respuesta a Rolando Astarita"
 date: "2018-08-13T16:26:10+00:00"
 author: ""
 category: "Economía Política"
@@ -90,13 +90,3 @@ Hay mucho debate respaldado en citas, pero recuerdo que la idea que busco es pen
 3.  **Hegel, Federico.** Cuál debe ser el comienzo de la ciencia. _La ciencia de la lógica._ s.l. : Ediciones Solar, 1982.
 
 contenido del valor, contenido del valor, contenido del valor, contenido del valor, contenido del valor, contenido del valor, contenido del valor, contenido del valor, contenido del valor, contenido del valor
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

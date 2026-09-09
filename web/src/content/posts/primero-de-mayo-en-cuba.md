@@ -1,5 +1,5 @@
 ---
-title: "primero de mayo en cuba La Trinchera La Trinchera"
+title: "Las razones del primero de mayo"
 date: "2018-05-03T23:44:14+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Opinión"
@@ -30,15 +30,3 @@ Como no hay que protestar, si fuera fiesta, lo normal sería que cada cual lo ce
 Pero eso no es nada de lo que hacemos, al estrago que se le causa a la economía, le ponemos unas caretas y etiquetas que no le corresponden. Me gustaría que se viera tal y como es: una tradición de los trabajadores, a la cual se suma quien quiera, quien como yo, se sienta bien de participar ahí. Para celebrar y sobre todo, para defender la revolución, no hay que ir a una marcha.
 
 [También puede interesar](/onirica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

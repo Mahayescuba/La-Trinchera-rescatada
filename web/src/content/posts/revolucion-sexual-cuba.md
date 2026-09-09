@@ -3,7 +3,7 @@ title: "¿En Cuba se gesta una Revolución Sexual?"
 date: "2019-06-05T06:45:15+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/06/Lesbian-LGBTQ-Travel-in-Cuba-The-Rainbow-Route-1.jpeg"
+image: ""
 ---
 En otros países, los grupos de la sociedad civil defensores del movimiento _LGTBI_, luchan por influir al estado, para que tomen políticas a su favor.
 
@@ -69,15 +69,3 @@ Los fundamentalismos suelen traer consecuencias pobres al interior de los debate
 (9) “Si una persona es gay y busca a Dios y tiene buena voluntad, ¿quién soy yo para juzgarlo?”, señaló el pontífice durante una entrevista a su regreso de un encuentro mundial en Brasil; ttps://www.bbc.com/mundo/noticias/2013/07/130729; consultado el 16 de mayo por el autor
 
 movimiento LGTBI movimiento LGTBI movimiento LGTBI movimiento LGTBI movimiento LGTBI movimiento LGTBI
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

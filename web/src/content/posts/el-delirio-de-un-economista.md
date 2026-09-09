@@ -1,9 +1,9 @@
 ---
-title: "Tarea ordenamiento y unificación monetaria"
+title: "El delirio de un economista"
 date: "2021-05-22T09:30:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/05/le-jardin-de-lile-delle-.jpg"
+image: ""
 ---
 La Economía difiere de las ciencias de la administración. La segunda, estudia procesos productivos lineales, con puntos de inicio y final. Ordinalidades y donde cada punto se puede explicar por el anterior.
 
@@ -18,8 +18,6 @@ Por ejemplo, en otra época, en Cuba, una reducción de, digamos, 1 libra de arr
 Lo anterior es un forcejeo con partes que van en sentidos contrarios, con un punto de encuentro (la compra-venta) y con nivel resultante (precio). Tal proceso cíclico, presente también en otros miles de sectores de la economía, y estando todos estos interconectados, es lo que entendemos por la economía cubana: un sistema de hechos sociales de intercambio, casi siempre, mediados por el dinero.
 
 La Economía como discurso debiera, lo más eficientemente posible, reflejar esa realidad. Y como dicha ciencia posee la particularidad de ser una ciencia social (porque los sujetos de la economía somos seres humanos), tiene que servir a la sociedad. Para ello, debe darle soluciones a problemas, lo que la obliga a que su discurso tenga que ser accesible al ciudadano común. Porque si el lenguaje de la Economía es entendido por unos pocos, ¿cómo sabemos los demás que las decisiones tomadas, son las más correctas, esperando los resultados?
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-costo-de-la-escasez/
 
 No es posible que un conocimiento que refleja una realidad de la que todos somos parte y del cual, su uso en la toma de decisiones tiene un impacto sustancial sobre las condiciones de vida de las personas, no tenga como usuario a la misma ciudadanía. Como incide sobre todos, el entendimiento de la economía debe ser de todos.
 
@@ -40,8 +38,6 @@ Luego, casi cualquier figura estadística de distribución central, tendrá el m
 Como alternativa, para no perder el tiempo descartando opciones, yo prefiero una, aunque puede haber muchas más: el poder adquisitivo real del salario. En pocas palabras: ¿cuánto y qué puede comprar un salario. ¿Cuántos almuerzos y comidas, y de qué calidad, se pueden comprar en un mes, dado el nivel de precios reales, con un salario? Esa puede ser una pregunta que le interesa a cada padre, hijo preocupado, o cualquier persona que deba sostenerse y o sostener a otros. En este ejemplo puede introducirse cualquier bien o servicio, o combinaciones de estos. Y sobre todo, podemos hablar de salario porque el salario es el monto de dinero del que se vive; el monto de lo único que es parejo e igual para todos en la economía: la unidad monetaria. Un 1 cup tiene el mismo poder de compra, sin importar las manos en las que esté.
 
 Incluso hablo de poder adquisitivo del dinero y no de inflación, porque la inflación hace referencia al aumento de precios en el tiempo. Las medidas en el tiempo tienen problemas. Que algo aumente en el doble, luego de haber disminuido la mitad, significa que regresó al mismo lugar inicial. Si se tratara de inflación, los datos dirían que los precios aumentaron en un 100, cuando solo tomaron su valor inicial. Por otro lado, la inflación más común, como dato, es la inflación general, una especie de inflación promedio (y ya sabemos lo que quieren decir los promedios).
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/pensar-la-economia-cubana-v/
 
 Por último, tendría que darse el dato de la inflación de un sector específico, pero la inflación no es lo que se desea saber (eso es para los gobiernos y entidades regulatorias de la circulación monetaria). Lo que necesita el ciudadano conocer es el poder adquisitivo de lo que tiene. Y es que la inflación no recoge la dimensión de la escasez. No puede una sociedad estar sobrada de algo y estar a precios impagables (mercado). Luego, procesos inflacionarios en sectores específicos, significa escasez. Una inflación de cuatro cifras no significa que a ese precio se podrá comprar, significa que unos pocos que lo pocos que lo encuentren, lo podrán pagar.
 
@@ -65,8 +61,6 @@ Con dicho ordenamiento, se hace visible que todas las empresas ahora incluyen en
 
 Después, buena parte de aquellos ingresos, son para la tasa de cambio. Todo ha quedado un poco más organizado. La importadora le aplica tasa de cambio al venderle a comercializadora, y esta se lo hace al consumidor. La comercializadora se queda con una parte de ingreso por tasa de cambio (en dependencia de sus precios) y la importadora también tiene su ingreso por tasa de cambio (y lo sigue pagando el consumidor.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/beneficios/
-
 Lo que varió es que quedan mejor distribuidos los ingresos y mejor organizadas las cuentas en las empresas estatales y militares, y que, ya todos los ingresos por tasa de cambio no se concentran en las comercializadoras. Dado que cada vez es más el uso de las tiendas en MLC, todo cobra sentido: hacer más rentables las empresas importadoras en un momento donde la importación es justamente un renglón clave de la economía para obtener divisas.
 
 En eso consiste la tarea ordenamiento.
@@ -83,18 +77,4 @@ Sin esa respuesta productiva, el escenario es desfavorable ya, y puede ser peor.
 
 De mantenerse las reglas de juego como ahora, la situación será esta. Ojalá y cuando lea el presente texto ya todo haya cambiado y este sea solo el delirio de un economista aferrado a lo que resulta imprescindible para el progreso de una sociedad: producir bienes y servicios que dignifiquen el poder adquisitivo real del salario.
 
-_Publicado originalmente en la revista Vida Cristiana. _Escrito entre diciembre 2020 y enero 2021.__ 
-
-tarea ordenamiento y unificación monetaria, tarea ordenamiento y unificación monetaria, tarea ordenamiento y unificación monetaria, tarea ordenamiento y unificación monetaria, tarea ordenamiento y unificación monetaria, tarea ordenamiento y unificación monetaria
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)
+_Publicado originalmente en la revista Vida Cristiana. _Escrito entre diciembre 2020 y enero 2021.__

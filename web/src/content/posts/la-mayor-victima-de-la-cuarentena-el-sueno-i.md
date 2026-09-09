@@ -3,7 +3,7 @@ title: "La mayor víctima de la cuarentena: el sueño"
 date: "2020-04-26T23:31:25+00:00"
 author: ""
 category: "Ciencia"
-image: "/wp-content/uploads/2020/04/Aneta-Ivanova.jpg"
+image: ""
 ---
 _La influencia de la cuarentena en necesidades biológicas como el sueño y sus consecuencias._
 
@@ -42,10 +42,6 @@ Pocas cosas logran más consenso entre los expertos de la salud como la importan
 
 Todos los seres vivos tenemos un **reloj interno**, que regula nuestro comportamiento y estado fisiológico durante el ciclo diario de 24 horas, en parte mediante la secreción de hormonas. ([10](<http://Jagannath A. et al. \(2017\). The genetics of circadian rhythms, sleep and health. Human molecular genetics.>))
 
-![RitmoCircadiano-1](/wp-content/uploads/2020/04/RitmoCircadiano-1.jpg)
-
-![RitmoCircadiano-1](/wp-content/uploads/2020/04/RitmoCircadiano-1.jpg)
-
 ###### \[Casi todas nuestras variables fisiológicas varían a lo largo del día, siguiendo nuestro ritmo circadiano.\] [(I)](https://www.fitnessrevolucionario.com/sueno-y-descanso/)
 
 Nuestros cuerpos (y mentes) están adaptados para realizar ciertas acciones internas y externas en un horario determinado, y por tanto las realiza con una mucha mayor eficacia cuando están en concordancia con estos patrones circadianos.
@@ -55,10 +51,6 @@ Aspectos aparentemente alejados como la psicología, el metabolismo, la libido s
 Este reloj biológico es en gran medida autónomo, pero se puede desajustar con el tiempo si no lo respetamos y somos incoherentes con él mediante nuestras acciones y hábitos diarios.
 
 **La cronobiología** es la ciencia encargada de estudiar todos estos procesos y cuánto de importante es mantener esta sincronización ancestral. Esta nos muestra cómo la hora del día afecta los niveles hormonales, la presión sanguínea, la temperatura corporal, el metabolismo basal y nuestra respuesta a alimentos o fármacos. La oscilación de todos estos procesos a lo largo de un día, a partir de los relojes internos, es lo que llamamos biorritmos o **ritmos circadianos**. ([11](http://www.academia.edu/download/62943106/2007_Angeles_Castellanos_cronobiologia_medica_Rev_Fac_med.pdf))
-
-![RitmoCircadiano24h](/wp-content/uploads/2020/04/RitmoCircadiano24h-1.jpg)
-
-![RitmoCircadiano24h](/wp-content/uploads/2020/04/RitmoCircadiano24h-1.jpg)
 
 [(II)](https://saludsalvaje.com)
 
@@ -89,18 +81,5 @@ Todos estos problemas no se limitan al ámbito individual. Las consecuencias de 
 Por un lado se ha visto que los hijos de padres con un ciclo circadiano alterado y trastornos del sueño presentan mayor incidencia de múltiples enfermedades y sintomatologías, problemas cognitivos y conductuales, obesidad, y un largo e injusto etcétera. Además el resto de miembros de nuestra familia y/o personas que convivan con nosotros se convertirán en los llamados trabajadores nocturnos de segundo grado, porque sin quererlo, interrumpiremos su sueño al usar luces intensas, hacer ruido, despertarlos o hacerlos desvelar para acompañarnos en los horarios descabellados. [(26)](https://javeriana.edu.co/biblos/tesis/enfermeria/tesis38.pdf) [(27)](https://link.springer.com/article/10.1007/s10935-013-0318-z).
 
 Por otro lado, la desregulación circadiana puede ser causante de un sinnúmero de conductas peligrosas, pudiendo ocasionar daños graves en otras personas, como accidentes de tráfico, negligencias laborales moderadas y severas: se sabe que un gran número de los fallos médicos se deben a la falta de descanso, errando en diagnósticos, recomendaciones, cirugías, e incluso pudiendo ocasionar daños irreversibles en los pacientes; además el cansancio puede ocasionar más problemas en las relaciones interpersonales con compañeros, peor desempeño laboral y menor rendimiento en general, etc. [(28)](https://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S1409-00152012000200003), [(29)](https://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S1409-00152012000200003), [(30)](http://roecklein%20k.%20a.%20et%20al.%20%282005%29.%20seasonal%20affective%20disorder:%20an%20overview%20and%20update.%20Psychiatry%20\(Edgmont\)./)
-
-[Otro texto del autor](/ciencia/)
-
-## Autor
-
--   ![](/avatar/fe7135b0e7e96af7c19b6e47e701063a?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/fe7135b0e7e96af7c19b6e47e701063a?s=80&r=g&d=mm)
-    
-    [daniloeuser](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/daniloeuser/)
-    
-    [](mailto:daniloeuser7@gmail.com)
-    
 
 23.1135925\-82.3665956

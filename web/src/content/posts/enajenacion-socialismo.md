@@ -7,7 +7,7 @@ image: "/wp-content/uploads/2018/06/enajenacion.jpg"
 ---
 **Por:** **Miguel Alejandro Hayes Martínez**
 
-Los proyectos socialistas se levantan como respuesta al explotador y _enajenante_ sistema capitalista. Como parte de la lógica de estos proyectos del socialismo real, están las nacionalizaciones y estatizaciones[\[1\]](#_ftn1) de numerosas empresas. Con esto, la propiedad privada pasa legalmente a  manos del pueblo, mediado por la administración del estado.
+Los proyectos socialistas se levantan como respuesta al explotador y _enajenante_ sistema capitalista. Como parte de la lógica de estos proyectos del socialismo real, están las nacionalizaciones y estatizaciones\[1\] de numerosas empresas. Con esto, la propiedad privada pasa legalmente a  manos del pueblo, mediado por la administración del estado.
 
 En tales circunstancias,-se dice-, que se está socializando el proceso de producción socialista de manera formal. De ahí deriva la idea de que el pueblo es formalmente dueño (como colectivo) de los medios de producción. Pero existe un problema: hay que lograr que el pueblo se sienta dueño de estos. Solo cuando eso se logre-afirma la teoría-, se habrá logrado socializar de manera real la producción, y habremos construido el socialismo.
 
@@ -17,11 +17,11 @@ Lo primero que debe hacerse es organizar cuál es la cuestión: hay una contradi
 
 Entonces podemos afirmar que el problema está en la separación que hace el  individuo de él y del mundo (en su conciencia), donde el cómo se concibe a sí mismo, está determinando cómo se siente respecto al mundo. ¿Se puede entender cómo es que se siente ese individuo y explicar su relación con el resto de la sociedad? ¿Cómo puede llamarse este fenómeno?
 
-Para buscar en Marx elementos teóricos se puede ir a sus _Manuscritos de 44_[\[2\]](#_ftn2). En estos, él describe una serie de relaciones del individuo respecto a la sociedad. Estas ideas las encierra en un concepto: _enajenación_. Como continuador de Hegel, en Marx (en los Manuscritos) se identifican tres tipos de enajenación: respecto al producto del trabajo, a la propia actividad del trabajo y al resto de la sociedad. Aquí se describe la situación de _extrañamiento_ del hombre, es decir, sentirse extraño, respecto a los elementos mencionados.
+Para buscar en Marx elementos teóricos se puede ir a sus _Manuscritos de 44_\[2\]. En estos, él describe una serie de relaciones del individuo respecto a la sociedad. Estas ideas las encierra en un concepto: _enajenación_. Como continuador de Hegel, en Marx (en los Manuscritos) se identifican tres tipos de enajenación: respecto al producto del trabajo, a la propia actividad del trabajo y al resto de la sociedad. Aquí se describe la situación de _extrañamiento_ del hombre, es decir, sentirse extraño, respecto a los elementos mencionados.
 
-Este extrañamiento a pesar de quedar relativamente vacío en la explicación de los manuscritos[\[3\]](#_ftn3), pudiera entenderse como una generalidad: el hombre se siente ajeno a la sociedad, por lo que se siente ajeno también a cómo se produce la riqueza social y a cómo se distribuye, producto precisamente de cómo participa en la riqueza social en ambos momentos (hay que recordar que en la época que fueron escritos los Manuscritos aumentaba el grado de miseria en que vivían obreros). Es decir, Marx describe la enajenación del hombre respecto a cómo se produce la realidad capitalista, como si fuera la inadaptación al sistema en que se vive, una sensación de estar excluido de ese mundo.
+Este extrañamiento a pesar de quedar relativamente vacío en la explicación de los manuscritos\[3\], pudiera entenderse como una generalidad: el hombre se siente ajeno a la sociedad, por lo que se siente ajeno también a cómo se produce la riqueza social y a cómo se distribuye, producto precisamente de cómo participa en la riqueza social en ambos momentos (hay que recordar que en la época que fueron escritos los Manuscritos aumentaba el grado de miseria en que vivían obreros). Es decir, Marx describe la enajenación del hombre respecto a cómo se produce la realidad capitalista, como si fuera la inadaptación al sistema en que se vive, una sensación de estar excluido de ese mundo.
 
-El obrero se sentía excluido de la sociedad básicamente, por no sentirse parte de ella, porque en buena medida, todo lo que hacía en esta, había sido resultado de unas relaciones sociales impuestas por las clases capitalistas, y que además, eran obreros que todavía se sentían atados cultural y mentalmente al _ancien régime[**\[4\]**](#_ftn4)_. Estamos hablando sin dudas, de un obrero, que su arraigo al estadio social anterior, y las condiciones de sometimiento a que debe resistir, lo hacen rechazar la sociedad en la que vive. Su mundo no era el mundo que ellos habían construido, era el mundo que los capitalistas habían construido para sí y no para ellos. Es por eso, que no resulta nada extraño, que un hombre al que se le mete en una realidad que solo le es útil a otro hombre, se sienta separa de esa realidad.
+El obrero se sentía excluido de la sociedad básicamente, por no sentirse parte de ella, porque en buena medida, todo lo que hacía en esta, había sido resultado de unas relaciones sociales impuestas por las clases capitalistas, y que además, eran obreros que todavía se sentían atados cultural y mentalmente al _ancien régime**\[4\]**_. Estamos hablando sin dudas, de un obrero, que su arraigo al estadio social anterior, y las condiciones de sometimiento a que debe resistir, lo hacen rechazar la sociedad en la que vive. Su mundo no era el mundo que ellos habían construido, era el mundo que los capitalistas habían construido para sí y no para ellos. Es por eso, que no resulta nada extraño, que un hombre al que se le mete en una realidad que solo le es útil a otro hombre, se sienta separa de esa realidad.
 
 Sabiendo esto, ¿de qué hablamos exactamente al decir que el obrero cubano “no hace conciencia” de su “condición de dueño”?
 
@@ -48,22 +48,10 @@ Entiendo entonces que aceptar la enajenación, además de los grandes problemas 
 1.  **Abbagnano, Nicolas.** _Historia de la filosofía I._ Barcelona : Montaner y Simón S.A, 1955.
 2.  **Marx, Carlos.** _Manuscritos económicos y filosóficos de 1844._ s.l. : Proyecto Espartaco.
 
-[\[1\]](#_ftnref1) Pasar a ser propiedad estatal.
+\[1\] Pasar a ser propiedad estatal.
 
-[\[2\]](#_ftnref2) Textos llamados normalmente Manuscritos económicos y filosóficos. Estos fueron apuntes de crítica a Hegel y a los economistas ingleses. No fueron hechos para ser publicados y se mantuvieron inéditos hasta la primera mitad del siglo pasado.
+\[2\] Textos llamados normalmente Manuscritos económicos y filosóficos. Estos fueron apuntes de crítica a Hegel y a los economistas ingleses. No fueron hechos para ser publicados y se mantuvieron inéditos hasta la primera mitad del siglo pasado.
 
-[\[3\]](#_ftnref3) Digo esto, porque a mi entender la explicación de la causa queda un poco pobre.
+\[3\] Digo esto, porque a mi entender la explicación de la causa queda un poco pobre.
 
-[\[4\]](#_ftnref4) antiguo régimen. Forma usada para hacer referencia al feudalismo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+\[4\] antiguo régimen. Forma usada para hacer referencia al feudalismo.

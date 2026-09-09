@@ -1,5 +1,5 @@
 ---
-title: "Periodismo"
+title: "La hora de los mameyes"
 date: "2019-11-23T21:26:49+00:00"
 author: ""
 category: "Opinión"
@@ -21,15 +21,3 @@ De acuerdo. Ninguna sociedad puede dejar espacios a la impunidad, a esos que vio
 Así es como el periodismo «revolucionario» disecciona la realidad. No se asombre si mañana aparece un funcionario público declarando que los mejores tiempos del Mercado de Cuatro Caminos fueron los primeros 60 minutos de reapertura.
 
 periodismo periodismo
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

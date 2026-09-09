@@ -1,9 +1,9 @@
 ---
-title: "Ventajas y desventajas de quitar el servicio militar obligatorio en Cuba —"
+title: "Ventajas y desventajas de quitar el servicio militar obligatorio en Cuba"
 date: "2018-12-21T05:04:02+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/12/IMG_20181218_130354.jpg"
+image: ""
 ---
 servicio militar obligatorio en Cuba.
 
@@ -32,15 +32,3 @@ Dos últimos puntos:
  Segundo, es probable que con el envejecimiento poblacional se tenga que alargar todavía más la edad de jubilación, en vez de usar la fuerza joven de los muchachos de dieciocho años.
 
 Tomado de: [Carlos Ávila Villamar](https://medium.com/@neverland89/ventajas-y-desventajas-de-quitar-el-servicio-militar-obligatorio-en-cuba-a95e9109c7ff)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

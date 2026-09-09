@@ -1,5 +1,5 @@
 ---
-title: "Criterios de valoración"
+title: "El mundo no pide lo que le das"
 date: "2021-03-08T10:30:00+00:00"
 author: "José Repiso Moyano"
 category: "Opinión"
@@ -13,8 +13,6 @@ Aclararé algo primero: los criterios de valoración son las referencias mentale
 
 Bien, si tus criterios de valoración son de favorecer a Dios, pues siempre pensarás favoreciendo a Dios. También, si tus criterios de valoración son de favorecer a la razón, pues siempre pensarás dignificando o favoreciendo a la razón, o siempre todo lo que digas favorecerá (por seguro) a la razón. Es ésta una gran base para que nada se vuelva loco, ¡así es!
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/ideas-sobre-el-gusto-utiles-en-la-politica/
-
 Los criterios de valoración consisten en poner una voluntad cualquiera en manos de la cordura o de la razón; y nunca de la confusión, de la estupidez o de la falsedad. El valorar es, en obviedad, por lo que se mueve cualquier ser humano, y puede estar muy equivocado o muy cegado o muy enloquecido simplemente porque su valorar es de tal o cual manera, atendiendo a unos caprichos, a unos entretenimientos o a unos mensajes irracionales o promovidos por beneficiar solo a los intereses de un poder determinado.
 
 Hay personas que están manipuladas a un cien por cien de lo que dicen, sin embargo, van de lo contrario, de que son muy interesantes e independientes u otros rollos de estupidez o de autoengaño. En el fondo, el reconocer las cosas o el tener un sentido autocrítico son cualidades casi inexistentes (porque ya lo dice eso toda la realidad) aunque, al mismo tiempo, son esas cualidades que más se las atribuyen (en irrealidad) los seres humanos, desde un interminable y retórico [antropocentrismo](https://es.wikipedia.org/wiki/Antropocentrismo).
@@ -24,11 +22,3 @@ En sensatez, para saber valorar bien las cosas es muy imprescindible que no siga
 Sí, es cierto, los seres humanos son más tercos de lo que se pensaba; hasta el punto en que hace apenas unos días millones de ellos seguían insistiendo en que los hombres eran superiores en algo con respecto a las mujeres. O demasiados seguían pensando que la Tierra es muy plana o que el clima solo cambia por factores del terreno y no por factores humanos que manipulan imparablemente el terreno. Tales sinrazones a porrillo nunca permitirán un mundo mejor ni permitirán que respire la razón, ni permitirán que el bien tenga ya al fin una práctica.
 
 En fin, por insistir que no quede por mi parte, y les insisto sensatamente una y otra vez que los criterios de valoración son las referencias mentales para pensar, si a ética o a responsabilidad quieren ya saberlo; ¡oh sí!, ¡oh sí!, si tienen criterios de estercolero, pues solo porquería dan al mundo, ¡exacto!, ¡a ver si se enteran de una vez!
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [José Repiso Moyano](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-repiso-moyano/)

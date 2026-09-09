@@ -3,7 +3,7 @@ title: "El perdón histórico"
 date: "2020-03-26T19:10:26+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/03/Cachos-de-Kcho.jpg"
+image: ""
 ---
 Mientras no aparezca ese perdón histórico y necesario, ese que nos haga reconciliarnos como sociedad y no como signos políticos, porque estamos hablando de humanidad.
 
@@ -22,15 +22,3 @@ Es un hecho todo lo que se logró transformar con respecto a la Cuba previa al 5
 A pesar de que se anunció la rectificación de errores y tendencias negativas, que marcó una auto-revisión necesaria, otra parte de lo que merecía ser revisado, incluso que lo ha merecido en un posterior congreso del PCC, no se ha generalizado, ni se ha creado desde la voluntad política oficial una visión crítica al respecto.  
 Tenemos en el ayer cercano hechos que han pasado a la historia, otros que solo son testimonios personales -y no por eso menos válidos- de usos arbitrarios del poder político. El cierre de puertas a intelectuales, el ejercicio de Buchaca, el quinquenio Gris, las [UMAP](https://es.wikipedia.org/wiki/Unidad_Militar_de_Ayuda_a_la_Producci%C3%B3n), tirar huevos, gritar _que se vayan_, el cierre del Departamento de Filosofía, botar del trabajo por criterios que hoy serían absurdos a mi generación, son solo algunos ejemplos. Y entremezclo acciones que venían directamente de la alta dirección del país con otras que eran realizadas y autogeneradas con mayor horizontalidad dentro de la escala de poder, para ilustrar que hay más de un culpable si es que es justo usar ese término- y diferentes niveles de altitud de esas culpa  
 Mientras no aparezca ese perdón histórico y necesario, ese que nos haga reconciliarnos como sociedad y no como signos políticos, porque estamos hablando de humanidad; mientras no se reconozca el error, mientras no se entienda que la política es menos humana cuando es intolerante, no podremos mirar al pasado con naturalidad, libres de rencores o de soberbias pasiones.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

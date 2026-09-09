@@ -3,7 +3,7 @@ title: "Lucha sin clases"
 date: "2019-01-16T06:54:21+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/01/PicsArt_01-16-11.20.55.jpg"
+image: ""
 ---
 Transporte en Cuba.
 
@@ -34,15 +34,3 @@ Compleja situación esta en la que cada parte hala para su lado. Propio de este 
 Se revela entonces la que debe ser una de las preguntas más importantes para nuestra sociedad, pues, contrario al **¿hacia dónde vamos?; lo correcto sería preguntar ¿de dónde estamos partiendo?** Tal vez si nos la hacemos, nos demos cuenta de que salimos de un contexto regido por la agresividad social en la que el que podría necesitar de ayuda aumenta los precios y el que podría brindarla guarda rencor y se alegra de las dificultades del otro. Bajo estos signos, la futura organización de la sociedad -sea cual vaya a ser-, sí tendrá las clases sociales que le sean propias, y, lo más probable, tendrán incorporado el conflicto y el recelo porque sí. Problema este que nos lleva a otra pregunta ¿aceptaremos así sin más, dentro de veinte años, vivir de pedirnos las cabezas?
 
 Transporte en Cuba. Transporte en Cuba. Transporte en Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

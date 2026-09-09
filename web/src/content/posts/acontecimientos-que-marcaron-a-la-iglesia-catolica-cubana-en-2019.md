@@ -1,9 +1,9 @@
 ---
-title: "Acontecimientos que marcaron a la Iglesia Católica cubana en 2019 —"
+title: "Acontecimientos que marcaron a la Iglesia Católica cubana en 2019"
 date: "2019-12-27T23:23:01+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/12/9K0nQOej.jpg"
+image: ""
 ---
 #### Un bosquejo de los tres hechos de mayor importancia para la Iglesia cubana en 2019
 
@@ -15,15 +15,3 @@ El 26 de julio de 2019, todo el pueblo cubano y, en especial los católicos, suf
 Para la Iglesia católica de Cuba, fue una grata alegría la elevación a cardenal, el 5 de octubre de 2019 del arzobispo de la Habana, Juan de la Caridad García Rodríguez. Junto a él viajó a Roma una nutrida representación de toda la Iglesia. En este hecho también se hizo presente el amor del [Papa Francisco](https://es.wikipedia.org/wiki/Francisco_\(papa\)) a nuestra Iglesia. Aunque son dos sucesos diferentes por los puntos en común, he decidido unirlos en uno, como acontecimiento importantes relacionados con nuestros cardenales.  
 El tercer momento trascendente de los ocurridos durante el 2019, ha sido la conmemoración de los 500 años de fundación de San Cristóbal de la Habana, la capital de todos los cubanos. La Iglesia católica cubana y, en especial, los feligreses de la arquidiócesis habanera vivieron como todo un jubileo los festejos que rememoraron aquel 16 de noviembre de 1519. Este acontecimiento también contó con un difundido video-mensaje al pueblo de Cuba del Papa Francisco, que se difundió por la televisión cubana..  
 Como toda selección estoy consciente de que siempre dejaré fuera de mi análisis, algunos hechos que son fundamentales en el 2019, como las dos cartas pastorales de la Conferencia episcopal cubana con motivo del referéndum constitucional, la Jornada Nacional de la Juventud de Santiago de Cuba, que por la “situación” del país, se vivió desde cada diócesis y el nombramiento de Mons. Juan de Dios Hernández Ruiz como obispo titular de Pinar del Río.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

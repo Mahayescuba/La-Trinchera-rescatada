@@ -1,9 +1,9 @@
 ---
-title: "Burocracia en Cuba"
+title: "Burocracia vs. participación"
 date: "2020-02-20T06:15:16+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/03/IMG-20200213-WA0004.jpg"
+image: ""
 ---
 En este episodio Miguel Alejandro Hayes conversa con Mario Valdés Navia sobre burocracia a partir de la publicación y presentación de su último libro “El manto del rey”  
 La conversación aborda referentes teóricos pasando por la cuestión del sujeto, de la estructura, para terminar en la propiedad y la enajenación.
@@ -19,15 +19,3 @@ La forma en que se interviene en la producción social, se convierte en el modo 
 Son pura forma abstracta y descontextualizada del socialismo que los reclama, son los exponentes del hombre cuantitativo, mediocre, como nos recuerda Ingenieros.  
 Quien se piense burócrata y no se ha sentido atrapado en la actividad, y le ha temblado la mano y ha ayudado a evitar una arbitrariedad en el centro de trabajo u otros espacios, no se preocupe, solo está siendo víctima del determinismo laboral. No se sienta burócrata, sino tan sólo alguien que hace burocracia, y que no ha incorporado a su forma de ser, la dinámica fría y áspera de su actividad oficial.  
 Dado que necesitamos los representantes de una sociedad más justa, y tenemos tantos que no lo son, entonces aparecen otros que enfrentan a esos [burócratas](/politica-en-cuba/). Miro, y a veces no noto sustancial diferencia, veo entre los “nuevos salvadores”, a los que son solo el otro extremo que hala la soga -la del poder- para intentar quedársela.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

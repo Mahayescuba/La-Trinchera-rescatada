@@ -1,5 +1,5 @@
 ---
-title: "Corriente anexionista en Cuba"
+title: "José Antonio Saco se queda sin argumentos"
 date: "2021-01-23T10:30:00+00:00"
 author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
@@ -10,8 +10,6 @@ Justo a mediados del siglo XIX, en _Ideas_ _sobre_ _la_ _incorporación_ _d
 En esencia los argumentos de Saco se afincaban sobre las diferencias entre la cultura dominante americana, anglosajona y nórdica, y la cultura dominante cubana, española y latina. Estas diferencias aumentaron durante los años posteriores, hasta llegar a un máximo precisamente en 1898, para cuando en las Américas se había impuesto a un lado y otro del Río Bravo la idea de dos civilizaciones radicalmente distintas, y enfrentadas una a la otra. Diferencias incluso más marcadas en el caso de Cuba y los Estados Unidos por la inédita experiencia cubana de inclusión del negro, lo que ahondaba todavía más el abismo cultural ideológico entre la Isla y su vecino norteño.
 
 Por lo tanto, nunca como en el momento en que Cuba se separó de España la argumentación anti-anexionista de Saco resultó más convincente, en un mundo en que el contraste irreductible entre dos civilizaciones americanas formaba parte del aire respirado. Esta atmósfera ideológica resultó letal para el proyecto anexionista, al vaciarlo de realidad para ambos lados del Estrecho de la Florida, y a su vez hizo viable la independencia cubana, contra la opinión mayoritaria hispanoamericana y europea, la cual daba por hecho que el esfuerzo de los cubanos para separarse de España sólo podría llevarlos a entregarle su Isla a los Estados Unidos.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/sublevacion-independientes-de-color/
 
 El vaciamiento del proyecto anexionista, desde el lado cubano, se explicitó en el ensayo político _Estudio Histórico sobre el origen, desenvolvimiento y manifestaciones prácticas de la Idea de la Anexión de la Isla de Cuba a los Estados Unidos de América_, de José Ignacio Rodríguez, publicado en La Habana en 1900. En el largo párrafo que comienza en la página 6 y termina en la 8, se descubre la idea central de este libro fundamental de nuestra Historia:
 
@@ -35,8 +33,6 @@ Cabe afirmar que difícilmente nuestro ser nacional, nuestra idiosincrasia o cul
 
 A 170 años de haberse enunciado por José Antonio Saco sus argumentos contra la anexión, aunque todavía no han perdido de manera total su validez, si ya no tienen su contundencia de entonces, de 1900, o de 1960. Por el contrario, a la altura de este 2020 también comienzan a darse las condiciones para que el anexionismo salga de su marginalidad, para su regreso no como una política marginal o fantasiosa, en contraste de nuevo con el independentismo político. 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/dialogos-desasosiegos-y-esperanza/
-
 Solo que, de hacerlo, no lo hará desde la nueva derecha nacionalista que hoy se extiende por el mundo cual una paradójica, inconsecuente Internacional, sino desde el centro y la izquierda globalistas.
 
 El asunto está en que toda derecha nacionalista cubana tiende por afinidad ideológica a aliarse a quienes en los Estados Unidos promueven hacerlos retroceder al viejo ideal de una civilización racial, y de paso reconvertirlos no en un proyecto universalista que propaga los principios y valores liberales, sino en una nación étnica encerrada en muros. Está claro que al apoyar tal intento de volver a las condiciones en los Estados Unidos que vaciaron de contenido al anexionismo la derecha no puede convertirse en la abanderada de su regreso. La derecha sólo puede ser plattista, que como dejara muy claro José Ignacio Rodríguez es la negación del anexionismo original (el plattismo implica subordinación, desequilibrio de derechos; el anexionismo unión en la simetría de derechos).
@@ -46,15 +42,3 @@ El nuevo anexionismo será un movimiento comprometido con los principios y valor
 De darse, el neo-anexionismo cubano tendrá un papel protagónico de primer orden en este siglo XXI. En el que los cubanos señalaremos el camino, ayudaremos a afinar los modos, acostumbraremos a las conciencias, en el proceso hacia la constitución de un proyecto político unificado de las Américas, África Subsahariana, Europa y Oceanía. 
 
 Para los cubanos será quizás la única vía factible hacia vivir en una sociedad socialista democrática y desarrollada. Que como ya lo advertía Blas Roca en los años cuarenta del pasado siglo, en Cuba nunca podrá establecerse el socialismo a menos que antes lo haya hecho en los Estados Unidos. El que el “socialismo” de este estatista tuviera poco que ver con el verdadero Socialismo no le quita sentido a la idea, no obstante.
-
-corriente anexionista en Cuba, corriente anexionista en Cuba, corriente anexionista en Cuba, corriente anexionista en Cuba, corriente anexionista en Cuba, corriente anexionista en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    [José Gabriel Barrenechea](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-gabriel-barrenechea/)
-    
-    Científico, escritor y activista

@@ -3,7 +3,7 @@ title: "Demografía vs. nuevos revolucionarios"
 date: "2019-12-12T05:01:06+00:00"
 author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/12/IMG_20191212_000035_910.jpg"
+image: ""
 ---
 Los _nuevos revolucionarios_ cubanos de hoy pretenden derribar al gobierno mediante una _revolución_, apoyados en las presiones económico-financieras que contra la Isla han conseguido que dicte la actual administración americana de Donald Trump.  
 El plan es provocar que el cubano promedio, agobiado por la falta de alimentos, medicinas o de transporte, se tire a la calle; para desde allí exigirle al gobierno que tome la evolución democrática que ellos, los nuevos revolucionarios, ponen como condición para comenzar a levantar el sistema de sanciones económico-financieras, de antaño y de hogaño, dictadas por los EEUU. Sanciones y medidas tomadas dizque contra el palacio de la _Revolución_, pero en realidad contra el cubano promedio, ya que es muy poco probable que a los inquilinos de esa mole les falte alguna vez el papel sanitario para sus deposiciones intestinales.  
@@ -26,15 +26,3 @@ Incluso la única vez en que un movimiento popular derribó a un gobierno en Cub
 En primer lugar, la gente no se tiró a la calle, solo se encerró en sus casas, en una huelga nacional de brazos caídos. A lo cual solo se llegó, por demás, cuando un considerable por ciento de la población no tenía literalmente más que harina de maíz para comer. Nl hubo un acto masivo de resistencia hasta que ya no quedaba para comer más que una comida que no hacía ni cincuenta años no comían los esclavos, porque a estos se les daba, sí, pero con abundante tasajo y manteca, no con azúcar.  
 Y a esta reacción tan poco común del cubano promedio se llegó cuando la edad de este rondaba por los 20 años. O sea, que la vez de mayor alcance en que a la gente le dio por tirarse para la calle, la edad promedio del país andaba casi 23 años por debajo de la de ahora, cuando casi un 25% de la población tenía entre 14 y 24 años de edad.  
 Pretender que mediante presiones de una potencia extranjera la población cubana se lance a la calle para obligar al régimen a comenzar un proceso democratizador no es solo éticamente reprobable, y políticamente contraproducente, es también un esfuerzo condenado al fracaso.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

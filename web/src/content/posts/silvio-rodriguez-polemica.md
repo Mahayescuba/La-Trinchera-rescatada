@@ -1,9 +1,9 @@
 ---
-title: "Silvio Rodriguez polémica Silvio es Silvio La Trinchera"
+title: "Silvio es Silvio"
 date: "2018-10-01T11:30:37+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2018/09/descarga-2-2.jpeg"
+image: ""
 ---
 A propósito de algunas declaraciones que se han visto en las redes contra el cantautor cubano Silvio Rodríguez y la polémica al respecto.
 
@@ -25,15 +25,3 @@ El barrio espera su concierto con entusiasmo. Hace historia, y continúa enrique
 No lo defiendo porque no hace falta. Si se me permite la identidad: ¡Silvio es Silvio!
 
 [También puede interesar](/entrevista/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

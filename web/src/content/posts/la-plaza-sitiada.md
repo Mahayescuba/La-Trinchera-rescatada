@@ -3,7 +3,7 @@ title: "La plaza sitiada"
 date: "2018-06-14T11:15:00+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/06/David-y-Goliat-cuento.jpg"
+image: ""
 ---
 Uno de los _teques_ que más arrastramos los cubanos es el de la _plaza sitiada_. Desde ahí nos justificamos ciertas cosas en nombre del bienestar colectivo. No es su máxima la de tener un estado de derecho en el presente -que no digo que falte-, sino de hacer sobrevivir una causa: que la estructura social cubana se mantenga en pie ante los ojos del mundo.
 
@@ -30,17 +30,3 @@ No creo haya que esperar a que los cubanos marcados por la lucha revolucionaria 
 La plaza sitiada es algo con lo que aprendimos a vivir, estamos acostumbrados. Es una condición de normalidad, por lo que debemos comenzar a pensar en otras cuestiones; no pueden nuestras mentes quedarse atrapadas en ella. No se piense que se trata de olvidar al enemigo que tanto destina a la subversión en Cuba, pero la mejor forma que tenemos de defendernos como plaza sitiada -más allá de valernos de eso como excusa -, es comenzar a pensar en solucionar los problemas que esto ha generado: la corrupción, las condiciones de vida del ciudadano cubano, etc. Esa es la filosofía revolucionaria que necesitamos, y esa es una evolución inevitable del pensamiento y del sujeto histórico cubano, su retraso puede ser decisivo en nuestro avance como sociedad.
 
 Publicado originalmente en [La Joven Cuba](https://jovencuba.com/2018/06/08/la-plaza-sitiada/)
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

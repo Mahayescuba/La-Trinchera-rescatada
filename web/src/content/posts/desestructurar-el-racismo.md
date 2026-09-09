@@ -20,17 +20,3 @@ No sé si al salir este artículo, la investigadora [Zuleica Romay](https://www.
 En el 2019, una dirigente del sistema educacional cubano cuestionaba a los profesores de la Universidad de La Habana por el bajo porcentaje de alumnos negros que ingresaban al centro. Su comentario fue rechazado en la blogosfera por motivos entendibles, ya que lo usual es que los resultados de las pruebas de ingreso se revisen sin cotejarlos con el color de la piel. Hay una estructura social marginadora y agudizante con respecto a las formas en que las poblaciones raciales viven la pobreza y ese fenómeno se puede visibilizar al constatar los porcentajes de negros y blancos en prisión.
 
 El presidente del país ha nombrado una comisión de intelectuales para hablar sobre el tema del racismo en Cuba y sus posibles soluciones. Me parece un paso que necesita ser potenciado, y no sé si dentro de la Iglesia católica pueda darse una iniciativa en el ámbito de la comisión de Justicia y Paz, que vele por desestructurar esas estructuras racistas que aún perviven en algunos de nuestros modos de proceder eclesial.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

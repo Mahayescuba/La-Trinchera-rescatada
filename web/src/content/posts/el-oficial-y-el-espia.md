@@ -1,9 +1,9 @@
 ---
-title: "El oficial y el espía Román Polanski y el Affaire Picquart"
+title: "Román Polanski y el Affaire Picquart"
 date: "2020-08-01T23:35:36+00:00"
 author: "José Gabriel Barrenechea"
 category: "Cultura"
-image: "/wp-content/uploads/2020/08/1572439333859.jpg"
+image: ""
 ---
 Este pasado sábado 25 de julio la TV cubana exhibió el último filme de Roman Polanski, _[El oficial y el espía](https://es.wikipedia.org/wiki/El_oficial_y_el_espía)_, estrenada en Europa a fines del 2019.
 
@@ -21,8 +21,6 @@ Hasta aquí llegan las críticas leídas por mí, y sin embargo el filme no se q
 
 Esto es evidente en el héroe escogido. Un hombre de derecha, un antisemita, pero un hombre con el que cualquiera persona honesta no podrá más que sentirse identificado. En este sentido el clímax de la película nos da también una pista. Ocurre cuando ese héroe se encuentra frente a frente con el capitán judío, Dreyfus, entonces el coronel Picquart, interpretado por un convincente Jean Dujardin, le dice: _Los judíos siguen sin gustarme, pero usted es inocente_.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/opinion/una-oda-oculta-en-el-principito/
-
 A no dudar aquí hay un claro contraste con las _políticas_ de la posverdad, que hoy forman casi la única arma en el arsenal propagandístico en manos de los neoconservadores, pero hay algo más. Dado que nunca se muestre la evolución de Picquart hacia otras posiciones menos prejuiciosas hacia el Otro, Diferente, simplemente porque en el personaje histórico real no hubo tal evolución; dado que él mismo ha dejado clara la persistencia en su desagrado por los judíos, incluso cuando arriesga su carrera y su vida para demostrar la inocencia de uno de ellos; y dado que a pesar de todo se lo haya escogido como el héroe, y de hecho sea un héroe válido con quien todos pronto nos identificamos, la película no puede ser interpretada más que en contraste también, y sobre todo, con la izquierda. En específico con esa izquierda para la cual nada en el pensamiento conservador es válido, o digno de ser conservado, y que ahora consecuentemente propone eliminar a Mark Twain, y su _Huckleberry_ _Finn_ de la literatura infanto-juvenil recomendada por las escuelas americanas (hay Estados en que ya se ha hecho disposición estadual), o que derriba estatuas no sabemos muy bien base a qué criterio.
 
 A un nivel más profundo el mensaje de la película sería: Los humanos siempre tendrán sus prejuicios de todo tipo hacia otros humanos, y tenderán a sacar generalizaciones de ellos. Es algo inevitable la heterofobia, dado que es un comportamiento incrustado en el subconsciente colectivo. Pero lo importante es que esas afecciones personales, negativas y positivas, sean siempre subordinadas en el trato y la comunicación humana a un conjunto de principios racionales de convivencia civilizada. Sobre todo a aquel que nos indica que la verdad está por encima de partidismos, hermandades religiosas, patriotismos, simpatías raciales, de género, actitud sexual o simplemente personales.
@@ -34,15 +32,3 @@ Esta idea es también, por supuesto, un recurso que le permite al autor defender
 Una declaración muy necesaria de Roman Polanski, en estos tiempos en que más que los argumentos en sí, lo que parece importar son las intenciones de quienes los emiten.
 
 [También puede interesar](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

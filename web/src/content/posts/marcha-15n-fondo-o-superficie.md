@@ -1,5 +1,5 @@
 ---
-title: "Marcha 15N. Fondo o superficie. Por: Arturo Mesa. La Trinchera"
+title: "Fondo o Superficie; ¿qué conforma la plataforma del Archipiélago?"
 date: "2021-10-19T09:30:00+00:00"
 author: "Arturo Mesa"
 category: "Política en Cuba"
@@ -22,13 +22,3 @@ El Estado ha tenido en sus manos todo el tiempo posible sobre la faz de la tierr
 ¿Aceptará el gobierno la presión? Pues ya dijo que no. ¿Aceptará la contraparte la respuesta? Aún está por ver. O quizás la respuesta sea el encontronazo y el mayor despliegue militar en el país. Eso sí, cualquiera sea el resultado, el mensaje va a pasar y quizás el único objetivo del Grupo sea eso: “emitir un mensaje”. Quiera Dios que la redacción del texto sea dócil y sincera. Pero de salirse el conflicto del margen del respeto, la tolerancia y la democracia, el texto de ese mensaje va a ser visual y pudiera ser de irreconciliación total, tanto a lo interno como hacia el sistema, y por ende malestar, desobediencia y pérdida de un importante nivel de prestigio en tiempos difíciles para el mundo.
 
 [También puede interesar](/protestas-en-cuba-hoy/)
-
-Marcha 15N. Marcha 15N. Marcha 15N. Marcha 15N
-
-## Autor
-
--   ![](/wp-content/uploads/2021/06/2021-06-26-12.28.50.jpg)
-    
-    ![](/wp-content/uploads/2021/06/2021-06-26-12.28.50.jpg)
-    
-    [Arturo Mesa](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/arturo-mesa/)

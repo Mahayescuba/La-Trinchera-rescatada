@@ -3,7 +3,7 @@ title: "¿Vamos a descentralizar?"
 date: "2019-06-21T16:39:02+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2019/06/PicsArt_06-21-12.41.53.jpg"
+image: ""
 ---
 Es un paso más, importante, pero siendo honesto, en el orden de las muchas cuestiones económicas que debe resolver la economía cubana no es, a mi criterio, de los fundamentales.
 
@@ -28,15 +28,3 @@ Otro gran problema es el de la tecnocracia, después de casi 60 años ejecutando
 Otra gran cuestión, es el de la llamada contradicción que puede surgir entre los intereses de los colectivos obreros y el de la economía en general, la sociedad. Y digo esto, porque no siempre tiene porque venir alineados los intereses de la economía nacional y la sociedad con los intereses de los colectivos laborales aislados, es más, en muchos casos los mismos son incluso contrarios. En la elaboración del plan por colectivos obreros, que garantiza que prime, en un marco institucional y social como el nuestro, el interés de ese colectivo con respecto a los intereses de la sociedad. La suma de las utilidades individuales no maximiza el beneficio social, eso es una falacia de neoclásica que dentro de la izquierda tiende a repetirse incorrectamente. Por ejemplo: si la economía necesita producir producto X, pero a la empresa que tiene que hacerlo en donde sus trabajadores son los que hacen el plan, le es más rentable producir producto Y y los trabajadores reciben más utilidades finales con Y que con X quien convence a los trabajadores de que lo que ha de primar es la necesidad de la economía en su conjunto a costa de sus propios beneficios. ¿O es que en estos momentos el plan central tendrá prioridad? ¿entonces en donde quedará la capacidad decisora de los trabajadores?  
 Alinear los intereses de la economía en su conjunto con los de cada colectivo obreros, es uno de los grandes dilemas de la autogestión obrera, de la descentralización, del proceso de crear consciencia en los obreros de la importancia de ese derecho que se les está restaurando no puede ser en detrimento del resto de los ciudadanos.  
 Es cierto que en muchos países se hablan de empresas “recuperadas” por colectivos laborales, que una vez fueron dejadas a su suerte por los dueños pasaron a control de sindicatos, pero que nadie se engañe, las mismas -por muy solidarias que sean a lo interno- concurren a un mercado capitalista y se rigen por patrones de eficiencia sociales de los que no pueden desprenderse. Su objetivo no es maximizar el bienestar social, sino el de un colectivo finito de trabajadores. Creo yo, que este no ha de ser el objetivo final del proyecto social cubano.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "Ciencia y gobierno en Cuba II-Podcast El Solar"
+title: "Ciencia y gobierno en Cuba (II). La formación del presidente"
 date: "2020-07-25T09:30:00+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2020/08/2020-08-03-22.05.03.jpg"
+image: ""
 ---
 Ciencia y gobierno en Cuba (II).
 
@@ -23,15 +23,3 @@ Si la estrategia se aprobó por el **Buró Político** desde la semana pasada 
 ¿Se sostiene la tan mentada madurez ideológica con la no aceptación del disenso, con casar a la crítica con la oposición y el mercenarismo? ¿Es eso “escuchar, atender, diferenciar la crítica honesta y la sugerencia valiosa del acto malicioso y la propuesta impracticable”?
 
 ¿Los indiscutibles resultados en el enfrentamiento a la pandemia y las fortalezas ante situaciones de catástrofe como la que hemos vivido en los últimos meses pueden enmascarar esa trinchera a medio hacer que es una agricultura que no aporta ni el cinco por ciento al producto interno bruto y que debía ser la fuente principal de ingresos? ¿Por qué engañarnos entonces con sobrecumplimientos y planes que nunca se hacen digeribles? ¿No es una vergüenza que un gobierno se reúna todos los días en pos de la comida de la gente y en dichas reuniones solo se cosechen dos libras de arroz y cuatro onzas de frijoles adicionales para los próximos dos meses?
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

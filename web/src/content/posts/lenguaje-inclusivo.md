@@ -1,9 +1,9 @@
 ---
-title: "Lenguaje inclusivo"
+title: "¿Lenguaje in(ex)clusivo?"
 date: "2020-02-21T17:39:37+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2020/02/tumblr_mwy5z0Mzxj1smdeb2o1_500.jpg"
+image: ""
 ---
 Entonces, la exigencia para utilizar este lenguaje inclusivo es una desplazamiento de una cultura de inferioridad, motivo idóneo ante posturas conservadoras
 
@@ -27,8 +27,6 @@ Si entendemos entonces que generalizando damos solución a visiones androcéntri
 
 También el protagonismo femenino debe ser erradicado en la terminología común, específicamente las tradicionales bellas artes: La música, literatura, danza, pintura, escultura y arquitectura cambiarán su última vocal para contextualizarlas. Con la excepción del cine debido a que entra en los conceptos in(ex)clusivos.
 
-![](/wp-content/uploads/2020/02/img_20200221_160743_7588796651201600373066.jpg)
-
 No puede faltar que mujeres y hombres accedan a los mismos baños públicos sin tener en cuenta por quien son frecuentados, puesto que las señales distintivas de entrada constituyen un lenguaje visual de carácter específico. En la medicina los órganos deben mutar: Colen, esofague, riñen, cerebre etc. Sugerencias suficientes para un nuevo tratado de anatomía, perdón, _anatomíe_. Además, Argentina, México, Rusia, Cuba, Egipto, España, Sudáfrica entre otros países deben instituir un nuevo nombre por constitución puesto que la heterogeneidad de la sociedad implica la coexistencia in(ex)clusiva y su definición histórica funciona como una fuente nacionalidad que no reconoce al género opuesto, los _institutes geografiques_ deberán tenerlo en cuenta al imprimir los nuevos mapamundis cuando sea oficial la adopción del lenguaje in(ex)clusivo en esta rama de la ciencia…
 
 El fragmento de la canción de Silvio, [_Dibujo de mujer con sombrero_](https://www.youtube.com/watch?v=brPnOpkS0mM) …el ridículo acaba implacable conmigo… se materializaría ante mi propuesta.
@@ -36,17 +34,3 @@ El fragmento de la canción de Silvio, [_Dibujo de mujer con sombrero_](https://
 Los hispanohablantes contamos posiblemente con el idioma de más recursos expresivos que existe. Cuando se propone cercenar de esta manera la coexistencia de géneros (gramaticales, no sexuales) un facilismo peligroso conllevaría a la carencia voluntaria de conciencia sobre la realidad, tanto idiomática como social. Aparte de las particularidades anatómicas, no existen diferencias entre mujeres y hombres, mucho menos aptitudes, posibilidades y capacidades de emprendimiento. Incluso está validado científicamente que la inteligencia se hereda de la madre. Entonces, la exigencia para utilizar este lenguaje in(ex)clusivo es una desplazamiento de una cultura de inferioridad, motivo idóneo ante posturas conservadoras que, lejos de antagonizar con argumentos de peso, se transforman en el blanco perfecto de burlas para seres incomprensivos que, por desgracia, pudieran poseer poder e influencia.
 
 Comparto el rechazo de la _RAE_ al aclarar la confusión de gramática con machismo. Pensemos entonces como seres humanos, personas o humanidad en general y no genérica. Si la terminología hombre molesta o es interpretada como símbolo androcéntrico cuando enfrentemos una lucha necesaria por la inclusión verdadera y no la supuesta in(ex)clusividad.
-
-[Otro texto del autor](/entrevista/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

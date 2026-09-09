@@ -1,9 +1,9 @@
 ---
-title: "trabajo en cuba 2 La Trinchera Alexandra Torres Debate"
+title: "¿Es el trabajo en Cuba un derecho, un deber o un motivo de honor?"
 date: "2018-11-01T11:40:06+00:00"
 author: "Alexandra Torres"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/11/Abstracto.jpg"
+image: ""
 ---
 El trabajo es una de las fuentes de riquezas para el desarrollo de cualquier sociedad. Los cubanos han entendido esta particularidad desde los inicios del siglo XX.  
 Así, la carta constitucional cubana más avanzada de los años ´40 del siglo pasado, fue la que engalanó la actividad al reconocerla como un derecho social. Para lograr tal resultado muchos fueron los debates en la constituyente, donde una figura tan conocida como Blas Roca, defendía dicha posición y negaban la posibilidad de que fuera considerado un deber, supeditando el derecho a trabajar a la obligación del Estado de proporcionarlo a cada cubano que careciera de él y que lo necesitara para mantener las condiciones de una existencia digna. Dicho de otro modo, si Ud. poseía condiciones suficientes para una vida decorosa, no tenía por qué trabajar.  
@@ -15,17 +15,3 @@ Luego, la cultura de trabajar, de sentir orgullo y honor de realizar una labor q
 Y es que a casi dos meses de iniciado el proceso de consultas populares del proyecto de constitución, este ha sido un tema recurrente. Lo que no puede perderse de vista es que el trabajo, ante todo, es un derecho. Como tal implica la posibilidad de que los individuos decidan ejercerlo o no. Por tanto, sería contradictorio su declaración taxativa como deber y como motivo de honor. Reconocerlo de esta forma en una carta constitucional lo convierte en un deber jurídico con las consecuencias que ello tiene.  
 Por supuesto, de alguna manera, para fortalecer el hecho de que la república se funda en el trabajo el que decida realizarlo pues estará a su vez consciente de lo que ello implica, pero sin que exista discriminación alguna con aquellos que deciden no ejercerlo, porque cada quien puede ser útil de disímiles formas, no solo realizando su derecho a trabajar (las amas de casa, las personas jubiladas, l@s incapacitad@s judicialmente, l@s discapacitad@s permanentes, los niñ@s y adolescentes, solo por citar ejemplos).  
 En fin, pues no se puede confundir a la Constitución con un documento político o literario. Recrear nuevamente tal triple concepción como derecho, deber y honor, resulta incongruente, cuando ya el artículo 1 dispone que la república se funda en el trabajo, que por demás es un derecho (artículo 75). En ningún momento de la historia republicana se refrendó la idea de deber o de motivo de honor. Tal fue una construcción soviética replicada por nuestro país. Y hay que pensar en el futuro: lo que hoy pueda tener la mejor de las intenciones, mañana puede convertirse en un arma contra el pueblo; ese por el que alguna vez se hizo esta revolución.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

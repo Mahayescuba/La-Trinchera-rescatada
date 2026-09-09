@@ -3,7 +3,7 @@ title: "Citar mucho, decir poco"
 date: "2019-02-03T06:45:30+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2019/02/a5bb7e65d4151cfa77c747fa2e6b1cfd-1.jpg"
+image: ""
 ---
 …no se trata de tener qué citar, sino qué decir.
 
@@ -59,22 +59,8 @@ Y no se trata de que este se haga más rico monetariamente hablando, como si fue
 
 Mejorar siempre ha sido superar lo existente. Se trata de que es necesario pensar el objeto desde su lógica, y no desde la que se impone. Sin eso, siquiera se verá el problema. Y así, difícilmente se resolverá.
 
-[Otro texto del autor](/economia-politica/)
-
 Bibliografía
 
 1\. Hayes Martínez, Miguel Alejandro. Forma y movimiento. La Trinchera. \[En línea\] 2018. \[Citado el: 07 de 01 de 2019.\] trincheracuba.com/teoria/forma-y-movimiento-marxismo.
 
 2\. Hegel, Georg Wilhelm Friedrich. La Ciencia de la Lógica. s.l. : Ediciones Solar, 1982.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

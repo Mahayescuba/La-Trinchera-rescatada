@@ -1,9 +1,9 @@
 ---
-title: "demolicion de la casa de las cadenas"
+title: "La Casa de las Cadenas a salvo…por ahora"
 date: "2018-03-18T11:22:23+00:00"
 author: "Fernando Almeyda Rodríguez"
 category: "Noticias"
-image: "/wp-content/uploads/2018/03/índice-1.jpg"
+image: ""
 ---
 Luego de que el pasado 19 de febrero una brigada de demolición comenzara a echar abajo las derruidas paredes de la centenaria Casa de las Cadenas y que el descontento popular se hiciera manifiesto las actividades fueron suspendidas, no sin algunos estragos en el frontispicio.
 
@@ -18,15 +18,3 @@ Constancia y entereza serán las palabras claves de los días venideros de la �
 > \*\*\*
 
 Este 19 de ha comenzado a ejecutarse un sacrilegio contra la historia y la cultura nacional. Una brigada de demolición está tirando abajo las deterioradas y desfallecidas paredes de la célebre y no por eso suficientemente respetada, Casa de las Cadenas de Guanabacoa… [(1)](/noticias/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

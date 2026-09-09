@@ -1,17 +1,15 @@
 ---
-title: "Tarifas para el consumo eléctrico en Cuba"
+title: "Subsidio en masa"
 date: "2020-12-14T17:00:54+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/12/Keramika.jpg"
+image: ""
 ---
 Así titulé en el año 2006 un artículo que escribí para denunciar “que los equipos electrodomésticos que forman parte de la [Revolución Energética](https://www.ecured.cu/Revolución_Energética_en_Cuba) nos son ‘distribuidos’ o ‘entregados’, cuando no ‘regalados’, como si la población no los pagara con dinero contante y sonante. Uno tiene que oír que ese refrigerador Haier que adorna con su modernidad nuestra cocina se cobra a precio de costo. Una sencilla cuenta descubre que vale más de veinte veces el salario medio. Si pretendiéramos pagarlo de una vez y por todas, renunciando al endeudamiento a plazos por más de un lustro, tendríamos que dejar a un lado el comer, vestirnos y todas esas ‘pequeñas cosas’ que forman parte de las urgencias cotidianas”.
 
 Transcurría 2006, Año de la Revolución Energética, un proceso que se tradujo en más equipos electrodomésticos y superior comodidad en los hogares, es decir, mayor bienestar y calidad de vida de la población. Fidel lo dijo más claro: “Se puede comprender mejor así la revolución energética: considerable ahorro del país en divisas convertibles, un combustible noble, seguro y sano —el combustible eléctrico, que es el que tendrán todas esas casas—, sin llamas, sin gas, sin mal olor ni mal sabor, sin desvíos de recursos por el camino, sin robos ni fraudes (…) Concluido este programa, en el que se trabaja aceleradamente, el país dispondrá cada año de 1000 millones de dólares ahorrados”.
 
 Mal olor y mal sabor dejó el [programa especial](http://www.granma.cu/tarea-ordenamiento/2020-12-13/en-vivo-analizan-detalles-de-la-implementacion-de-la-tarea-ordenamiento-en-cuba) dedicado ayer a responder las innumerables preocupaciones que han despertado las tarifas para el consumo eléctrico que comenzarán a regir el primero de enero del próximo año. El grito en el cielo no ha sido orientado —hasta ahora— desde la potencia del norte ni inducido por los envasados en el saco de la contrarrevolución en las últimas semanas.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/nuevos-precios-y-salarios-en-cuba/
 
 Lo primero que llama la atención es que en la hora de transmisión televisiva los panelistas no hayan citado ni una sola vez al Comandante ni a la Revolución Energética. El “desatino” es inconcebible si se piensa que esta última intentó cambiar la matriz energética del país y, lejos de desmotivar la influencia de la electricidad en la vida de los ciudadanos, incentivó la compra cada vez mayor de equipos ahorradores y abrió el mercado a muchos —como los splits y aires acondicionados— que hasta esa fecha estuvieron vedados al comercio minorista. ¿Qué se intentó expresar entre las siete y las ocho de la noche: que las ideas de Fidel sobre la Energía en Cuba no cuentan ya, que los mil millones de dólares anuales que ahorran aquellas políticas de hace catorce años no financian ni pueden “subsidiar” el consumo eléctrico?
 
@@ -22,15 +20,3 @@ A la par que el jefe de implementación de los lineamientos declaraba: “No pod
 No debe escapar a cualquier análisis la estocada sutil que con las nuevas tarifas reciben los negocios privados. Se les hace la advertencia de que no deben introducir precios abusivos y especulativos a sus productos (nosotros sí), mientras se recarga la factura en los rangos de consumo de electricidad que necesariamente poseen.
 
 Lo que acaba de verse en este “recibo de la luz” televisivo es un abrazo paternalista a la cuarta parte de los cubanos, esa que consume menos de cien kilowatts, y un regaño acusador a quienes han logrado —no se aclaró en la TV si gracias a la Revolución o a la dependencia económica en MLC con el enemigo— un nivel de vida más alto. ¿Gana entonces la pobreza el forcejeo con la riqueza? ¿Son esos los presupuestos con que llegaremos al país próspero y sostenible del 2030? ¿Subsidio del consumo eléctrico supondrá subsidio en masa?
-
-tarifas para el consumo eléctrico en Cuba, tarifas para el consumo eléctrico en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

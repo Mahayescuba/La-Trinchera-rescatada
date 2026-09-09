@@ -3,7 +3,7 @@ title: "Sin lágrimas en los ojos"
 date: "2020-07-05T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/07/Britt-Ingrid-Persson.jpg"
+image: ""
 ---
 Solo espero que este lamentable ejemplo nos ayude a reﬂexionar como sociedad en la necesidad de hacer más eficientes las formas en que los ancianos en Cuba puedan trasladarse a un hospital.
 
@@ -24,15 +24,3 @@ El hijo busca en sus ahorros y tiene 10 cuc. Habla con un vecino para ver si le 
 Solo espero que este lamentable ejemplo con un penoso final, nos ayude a reﬂexionar como sociedad la necesidad de hacer más eficientes las formas en que nuestros ancianos puedan trasladarse a un hospital, pues es doloroso no contar con las herramientas mínimas para evitar la muerte de un ser querido.
 
 [Otros textos del autor](/una-luz-en-la-oscuridad/)
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)

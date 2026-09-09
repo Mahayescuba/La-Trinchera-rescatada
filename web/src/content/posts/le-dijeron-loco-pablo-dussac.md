@@ -3,7 +3,7 @@ title: "Le dijeron loco"
 date: "2019-03-09T05:11:21+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/03/DSC_4997.jpg"
+image: ""
 ---
 loco. 
 
@@ -63,15 +63,3 @@ Otras, que te calan dentro. No camina, deambula, No dialoga, murmulla, No te mi
 Nadie sabe a dónde va, Ya olvidaron de dónde vino. Hay un cuerpo inerte en el asfalto, Los ojos abiertos, reflejando el cielo, Su sonrisa amarilla danza libertad, Entre sus manos, sucias, una flor,  
 Una medalla y un poema. Le dijeron Y lo era, También fue héroe,  
 ¿Recuerdas?
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

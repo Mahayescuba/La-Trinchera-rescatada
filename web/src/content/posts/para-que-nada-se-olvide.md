@@ -3,7 +3,7 @@ title: "Para que nada se olvide"
 date: "2020-08-06T16:00:00+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2020/08/memorial-hiroshima-anniversaire.jpg"
+image: ""
 ---
 Y ahí quedan, frente a nuestra conciencia, las palabras inscritas en el _Memorial de la Paz_ en Hiroshima, para que nada se olvide. 
 
@@ -17,10 +17,6 @@ Como, por ejemplo, la sencilla placa colocada en el hospital _Shima_, reconstrui
 
 O como otra edificación, que aparentemente es solo una ruina, pero tiene el mérito de haber sido la más cercana al epicentro que pudo aguantar en pie, después de que todo el cobre que recubría su armazón en acero se derritiera casi instantáneamente. Los japoneses dudaron mucho tiempo sobre lo que harían con este edificio, para algunos un vestigio demasiado doloroso, pero para otros el símbolo de una supervivencia. Finalmente se impuso la necesidad de recordar que Hiroshima sigue en pie, y el edificio en ruinas es hoy Patrimonio Mundial de la UNESCO.
 
-![](/wp-content/uploads/2020/08/Hiroshima-6-de-agosto-de-1945.jpg)
-
-![](/wp-content/uploads/2020/08/Hiroshima-6-de-agosto-de-1945.jpg)
-
 Hiroshima 6 de agosto de 1945
 
 Todavía los historiadores debaten sobre el impacto de este ataque nuclear en el final del conflicto bélico, pero por la magnitud sin precedentes de la devastación y la gran cantidad de víctimas, no quedan dudas sobre su carácter de crimen de guerra.
@@ -33,16 +29,4 @@ Y ahí quedan, frente a nuestra conciencia, las palabras inscritas en el [_Memor
 
 _“(…) Por la presente, lloramos a todos los fallecidos en el bombardeo atómico. Recordamos, con mucho dolor, las numerosas vidas sacrificadas por las políticas nacionales equivocadas. Para asegurarnos de que tales tragedias no se reproduzcan jamás, nos comprometemos a transmitir la historia de estos sucesos a las generaciones futuras, de Japón y del resto del mundo, y a construir lo más pronto posible un mundo de paz, libre de armas nucleares.”_
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/primera-instancia/
-
 <iframe class="wpview-sandbox" style="width: 100%; display: block;" frameborder="0" scrolling="no"></iframe>
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

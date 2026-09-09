@@ -3,7 +3,7 @@ title: "A latir de pecho"
 date: "2019-05-30T06:16:05+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/05/PicsArt_05-30-02.12.23.jpg"
+image: ""
 ---
 corazón y palabra.
 
@@ -74,15 +74,3 @@ fluya amor por los ríos de mi esencia. Me alejé del odio, abandoné el rencor
 el arte de lo prohibido pero yo, tranquilo, hay seres de luz conmigo. Me libero en la escritura, me desato en el papel, el bolígrafo, la herramienta que expulsa de mí la hiel. Intercambio con mis guías,  
 confío en sus consejos, me mostraron el camino y me alejaron del miedo. Me rige una verdad sencilla que vence al tiempo: libertad para tu espíritu es libertad para tu pueblo. Abandona los prejuicios  
 que impuso esta sociedad, camina a latir de pecho… Y ya verás.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

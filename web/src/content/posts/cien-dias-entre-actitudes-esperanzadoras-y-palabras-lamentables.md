@@ -3,7 +3,7 @@ title: "Cien días: entre actitudes esperanzadoras y palabras lamentables"
 date: "2018-07-24T12:00:21+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/07/lennier.jpg"
+image: ""
 ---
 ### Por: René Portuondo
 
@@ -24,5 +24,3 @@ Sin embargo- y trayendo al presente viejas prácticas-, la nueva administración
 Las generalizaciones tienden a esconder las particularidades que nos definen y muchas veces caen en injusticias que un proceso, que debe ser tan inclusivo como pretendía ser el nuestro, debería evitarse. Enemigos al proceso existirán siempre, la tarea es no convertir aliados en contrarios solo por miedo a lo diferente, a lo nuevo, a lo trasgresor.
 
 Esto ha pasado hasta ahora. Espero que continúe a buen ritmo, y se superen los desaciertos.
-
-## Autor

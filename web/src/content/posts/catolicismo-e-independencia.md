@@ -1,9 +1,9 @@
 ---
-title: "Catolicismo e independencia en Cuba"
+title: "Catolicismo e independencia (I)"
 date: "2018-10-16T17:05:12+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2018/10/iglesia-cubana.jpg"
+image: ""
 ---
 Catolicismo e independencia en Cuba.
 
@@ -42,15 +42,3 @@ Ricardo Segreo Rigoberto; Iglesia y Nación en Cuba (1868-1898); Editorial Orien
 Datos del Autor: Julio Norberto Pernús Santiago; 29 años, Licenciado en Comunicación Social por la Facultad de Comunicaciones de la Universidad de la Habana. Expone su Maestría en Historia Contempérame y Relaciones Internacionales el 15 de Junio de 2018. Redactor de Vida Cristiana.
 
 Catolicismo e independencia en Cuba. Catolicismo e independencia en Cuba. Catolicismo e independencia en Cuba. Catolicismo e independencia en Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

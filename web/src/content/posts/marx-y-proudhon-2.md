@@ -3,7 +3,7 @@ title: "Marx+Proudhon (IX)"
 date: "2018-12-15T16:43:56+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2018/09/proudhon.jpg"
+image: ""
 ---
 Marx y Proudhon.
 
@@ -34,15 +34,3 @@ Hasta aquí, los hechos presentados por Maximilien Rubel y Louis Janover en ‘M
 La discusión está inscripta dentro de los actuales partidos cuarto-internacionalistas. Rubel-Janover ponen el Centro de la disputa, en el desarrollo desigual que se manifiesta al interior de las organizaciones revolucionarias, donde un muy subrayado principio de autoridad condiciona las políticas partidarias. Condicionalidad que es real, pero que puede justificarse por la heterogeneidad del activo militante y la presión de la tiranía capitalista ejerce sobre el mismo, En ese marco, la ‘sagrada defensa del programa’ que las direcciones fungen frente a las bases durante los largos reflujos no son condenables, por sí mismas, viéndolas, con el prisma de las derrotas estratégicas. Lo que en todo caso, yo si planteo, como en cualquier derrota, es el cuestionamiento táctico-estratégico de los soldados hacia sus generales. No, la división estructural de tareas entre generales y soldados, que forma parte de la discusión, pero que no representa la totalidad de la misma. La impertinencia del enfoque de Rubel-Janover está en que los hechos se desenvolvieron con las relaciones de fuerzas reales, con las formas de asociación conocidas hasta entonces. En la lucha social, como en cualquier orden, se avanza de lo conocido hacia lo desconocido y no al revés. En el orden propietario hay una natural propensión hacia el sentido conservador, por lo tanto, a no cambiar lo que hasta ahora dio resultados positivos, es más, hay un apego a esos resultados. A partir de ahora se podrán hacer nuevos contratos asociativos, que como siempre estarán expuestos a las sucesivas pruebas de ensayo-error que dictaminará la realidad.   
 
 Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

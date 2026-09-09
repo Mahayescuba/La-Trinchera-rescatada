@@ -3,7 +3,7 @@ title: "Trinchera Abierta del salario"
 date: "2018-08-29T11:15:32+00:00"
 author: ""
 category: "Trinchera Abierta"
-image: "/wp-content/uploads/2018/08/PicsArt_08-27-08.43.59.jpg"
+image: ""
 ---
 La Trinchera Abierta del mes de mayo tuvo que ser pospuesta. La ya casi fija última semana estuve llena de fuertes lluvias impidieron su realización. Por esa razón, el espacio se realizó, dándonos cita en nuestra sede habitual, teniendo como tema de partida el salario, es decir, la teoría del salario en Marx.
 
@@ -14,15 +14,3 @@ Continúa el espacio con cuestionamientos a la interpretación axiomática que s
 Se desata el debate, y propiedad, apropiación, lucha de clases, comienzan a bombardearse desde extremos permeados de manuales soviéticos hasta otros cargados de un hegelianismo actualizado.
 
 Todo parece marchar como de costumbre. Intensidad de ideas, que culminan estrechando la camaradería. Habrá que esperar a la otra cita.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

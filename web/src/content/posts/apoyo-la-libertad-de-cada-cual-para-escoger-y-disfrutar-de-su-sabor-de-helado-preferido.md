@@ -1,9 +1,9 @@
 ---
-title: "entrevista exclusiva"
+title: "Apoyo la libertad de cada cual para escoger y disfrutar de su sabor de helado preferido"
 date: "2021-04-13T16:00:00+00:00"
 author: "Sender Escobar"
 category: "Onírica"
-image: "/wp-content/uploads/2021/04/Cheryl-Oliver.jpg"
+image: ""
 ---
 **_Entrevista a Cecín Galindo_**
 
@@ -19,8 +19,6 @@ Bueno, Senderito, me has hecho una pregunta muy abarcadora, y por muy experiment
 
 **En su última crítica sobre el boxeo subjetivo en la obra de la actriz y directora porno Martha Fierro, renueva el concepto de las transgresiones sucedáneas. ¿La frecuencia meteórica influye también en la termodinámica ventricular?**
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/tutanga-a-140-km-h-viii/
-
 La frecuencia meteórica pone otra vez sobre el tapete la gran desgracia que fue el incendio de la biblioteca de Alejandría – pésimo uso de los postulados de la semiótica pirotécnica, de la que casualmente ya hemos hablado –; a cada rato, más o menos cada sesenta y cinco mil milenios, hay un meteorito que borra especies enteras de la faz de la Tierra, aunque a veces sucede que el meteorito es más pequeño y solo sirve para resetear de fábrica espacios reducidos, como cualquier isla de mediano tamaño. Sucede también que, lejos de valorar el riesgo que suponen semejantes seborucos para la existencia de la termodinámica ventricular colectiva, se les entroniza como resultado de la ignorancia y acaban parqueados con toda honra en espacios patrimoniales. Marthica Fierro, gran amiga mía – fue ella quien inspiró mi primer bestseller, _De Cabo a Rabo_, la historia de cómo transité de militar a actor porno porque, como debes saber y seguro saben también nuestros lectores, mi trayectoria ha sido sumamente variada y prolífica –, descubrió que existía ese vínculo entre las transgresiones sucedáneas, el meteorismo periódico y el culto a la personalidad, y el brillante ensayo en el que expuso sus descubrimientos fue el que motivó la crítica mía a la que haces referencia. Sí, respondiendo tu pregunta, yo diría que sí, hay una relación causal entre ambos fenómenos.
 
 **¿Le parece meritorio el arraigo de la precocidad primigenia o es que la manifestación arcaica del asfalto diverso no posee los matices del incoloro cis, como manifestó una vez en sus ensayos?**
@@ -30,8 +28,6 @@ Ese ensayo al que haces referencia fue muy polémico en su momento, muy polémic
 **¿Considera polémicas las negativas de admisión que ha tenido en los últimos veinte años en las academias de tangencialismo secular y en el Instituto Vergóptero Enciclopédico?**
 
 Más que polémicas, me parecen laudatorias. Me enorgullece profundamente no contarme en el seno de la comunidad de tangencialistas seculares… Imagínate, ¡declarar en televisión nacional que las uñas de dinosaurio decrépito podían ser una fuente de proteína para la alimentación humana! Es terrible, Senderito, terrible. Los tangencialistas seculares se han quedado atrasados en estos tiempos de cambio. En cuanto al Instituto, es otra historia. Como bien sabes, la trisexualidad se convirtió en una corriente de pensamiento, en un estilo de vida, por mi influencia sobre el reconocimiento internacional de la comunidad trisexual. Para los vergopteristas de la Enciclopedia Francesa era intolerable la trisexualidad, porque aparecía condenada explícitamente en las Sangronas Escrituras, y por eso nunca la apoyaron; el estigma ha pesado sobre los vergopteristas en tiempos subsecuentes, y el Instituto se ha plegado mezquinamente a tan retrógrada posición. Hay esperanza, no obstante. El mes pasado asistí – vía virtual, desde luego, puesto que mentes privilegiadas como la de tu entrevistado no pueden arriesgarse a contraer una dolencia tan propia de batracios inferiores como la Covid-19 – al Primer Congreso de la Federación Vergóptera Reformada de Karagajastán, donde mi ensayo _Sobre la impotencia de San Apapucio y la Crítica de la Razón Imperfecta de Conchita Montoya: un enfoque interdisciplinario para la reivindicación de la trisexualidad_ ocupó una de las conferencias magistrales. Algo está cambiando en los vergópteros del mundo, y ojalá esos vientos de cambio también renueven una institución vetusta y desfasada como el Instituto.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/primer-informe-sobre-el-terraplanismo-antecedentes-para-un-estudio-de-caso/
 
 **¿Cómo se titula su nueva novela?**
 
@@ -48,15 +44,3 @@ Siempre me ha gustado Céline Dion, sobre todo la canción que hizo para la pel�
 **¿Apoya usted la bisexualidad monofásica?**
 
 Apoyo la libertad de cada cual para escoger y disfrutar de su sabor de helado preferido; creo que ese es un derecho humano inalienable, como el de protagonizar sus propias parodias de Sylvester Stallone o despotricar de los protagonistas a la hora de la novela cubana. Yo estoy más allá de eso.
-
-entrevista exclusiva, entrevista exclusiva, entrevista exclusiva, entrevista exclusiva, entrevista exclusiva, entrevista exclusiva
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    [Sender Escobar](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/sender-escobar/)
-    
-    Ingeniero industrial y famous stalker

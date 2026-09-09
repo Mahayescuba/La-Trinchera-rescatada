@@ -46,15 +46,3 @@ A decir de Foucault: aliarse con el [proletariado](https://es.wikipedia.org/wiki
 (5) Acanda, Jorge Luis. De Marx a Foucault, poder y revolución. De Marx a Foucault, poder y revolución.
 
 **Versión original publicada en La joven Cuba**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

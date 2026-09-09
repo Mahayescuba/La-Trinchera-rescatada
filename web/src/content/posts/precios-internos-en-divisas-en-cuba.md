@@ -3,7 +3,7 @@ title: "Ventas internas en divisas en Cuba"
 date: "2019-11-06T13:24:03+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2019/11/IMG_20191105_071815_551.jpg"
+image: ""
 ---
 #### Unas breves anotaciones
 
@@ -19,17 +19,3 @@ Otro elemento, es el de cómo los agentes –los privados de la rama importadora
 Es importante, para análisis posteriores, ver el impacto sobre el resto de la cesta de importación; es decir, debe existir algún vínculo a lo interno entre el conjunto de bienes de importación privada. Así, por ejemplo, al no poder sostener los viajes a Panamá por la competencia de los precios estatales en Split, se dejarán de traer otros bienes que van desde celulares, hasta ropa. Entonces, el efecto dominó que puede generar sobre el resto de las importaciones las ofertas estatales en MLC, es otra arista, al menos para el estudio del impacto de tales medidas sobre el sector privado.  
 Por último, y volviendo a la idea de la creatividad de ese _sui géneris_ sector importador, debe valorarse, que dado su acceso a divisas, parte de ellos se desplace a algo que no tengo nombre a mano, pero sería, no otra cosa que ser el portador de la MLC que medie entre el ciudadano y las tiendas. De ese modo, parte del desplazamiento de todos los importadores que vean afectada su rentabilidad, sería el de jugar con el mercado monetario de manera informal.  
 Lo que si queda claro, después de ver todo, es que el sector estatal puede acabar con un dedo, a un conjunto que ha venido desarrollándose a lo largo de años, para afianzarse como indiscutible monopolio.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-pregunton/
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

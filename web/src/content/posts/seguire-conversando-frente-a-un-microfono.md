@@ -1,9 +1,9 @@
 ---
-title: "El Solar Podcast"
+title: "Seguiré conversando frente a un micrófono"
 date: "2020-02-28T13:39:05+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/02/DSC_0450-1.jpg"
+image: ""
 ---
 Nota sobre el episodio 3 de _El Solar._ 
 
@@ -15,15 +15,3 @@ Me puse un poco nervioso y seguro quien escuche lo notará en algún momento (ta
 Escuché, como quien no quiere escuchar, los primeros comentarios. No fueron tan malas noticias. No faltó al que le gustó, como tampoco el que criticó diciendo “arregla eso para el próximo porque quiero que quede mejor” (lo anoté como victoria).  
 Gracias todos los amigos que me dieron su apoyo (a los que me lo dijeron y a los que no, y aun así sé que lo hacen en la distancia), también a los amigos que en su mayor consecuencia con ellos mismos, no me apoyan.  
 El Solar no es solo Miguel, y ya tiene tres episodios, hay un cuarto casi listo y un quinto que se grabará antes de que concluya la semana. Creo que ya es un podcast. Por lo pronto, seguiré conversando frente a un micrófono, a veces con amigos, a veces conmigo mismo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

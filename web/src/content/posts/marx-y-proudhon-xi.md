@@ -3,7 +3,7 @@ title: "Marx + Proudhon (XI)"
 date: "2019-02-03T17:52:58+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2019/02/f3b487fa493d3e091ea53366da880aeb.jpg"
+image: ""
 ---
 Continuamos la serie sobre Marx + Proudhon, parte XI. 
 
@@ -41,15 +41,3 @@ El abuso del principio de autoridad, se verifica en muchos actuales partidos, le
 
 El partido se tiene que refundar todo el tiempo, sobre la base de la politización de los integrantes de ese momento. Las células deben enviar sus congresales temáticos para defender los temas que más los inquietan, para que las bases puedan orientar temáticamente la discusión congresal. Independientemente, también debe la promoción de cuadros ser producto de una votación que atraviese todo el partido, eligiendo el personal de acuerdo a la afinidad con el programa triunfante en el congreso temático. La actual organización leninista, debe en esta época, evolucionar hacia formas organizativas que sean contenedoras de su personal, comprendiendo que este es su principal activo.  
 Aunque estás deformaciones son patrimonio de cada organización. Tampoco cada organización puede prescindir del sentido de autoridad, ya que nuestra actividad está basada en sentido de liderazgo, primero dentro de la organización, luego, con partidos o agrupamientos que conduzcan el conjunto del movimiento y por último, las Asambleas centralizadas orientando la rebeldía del universo trabajador.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

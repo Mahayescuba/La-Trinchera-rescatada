@@ -1,9 +1,9 @@
 ---
-title: "Marx y Proudhon"
+title: "Marx + Proudhon (VII)"
 date: "2018-11-26T00:00:12+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2018/09/proudhon.jpg"
+image: ""
 ---
 Marx y Proudhon.
 
@@ -20,15 +20,3 @@ En el país de los ciegos, a veces se confunde un saber informativo, externo al 
 Estos atributos conforman las direcciones sindicales y/o políticas de la clase trabajadora. Claro, que los traidores también portan o aparentan portar estas cualidades. En el recorrido entre la acción y la palabra que la prepara o la analiza, está la calidad del conductor. En un sentido más profundo, puede decirse, que la conducción tiene un carácter apenas moral, dicho en lógica Kantiana, o marxísticamente, político. Está relacionada con el prestigio, que es lo opuesto a ser conocido. La popularidad se compra o se roba, el prestigio se conquista, en la valía que otros te adjudican.
 
 Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

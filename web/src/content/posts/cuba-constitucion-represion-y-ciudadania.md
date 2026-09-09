@@ -1,9 +1,9 @@
 ---
-title: "constitución y derechos en Cuba"
+title: "Cuba: Constitución, represión y ciudadanía"
 date: "2020-11-03T10:30:05+00:00"
 author: "Alina Bárbara López Hernández"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/11/Maneges-de-Gerard-Cambon.jpg"
+image: ""
 ---
 ## I
 
@@ -21,10 +21,6 @@ El imperio de la ley solo puede existir en el caso de que todos los ciudadanos e
 
 Aquella preocupación demostró muy pronto tener fundamentos. El 16 de diciembre de 2019, el ministro de Educación Superior, José Ramón Saborido Loidi, que intervenía en una emisión de la Mesa Redonda, levantó un ejemplar de bolsillo de la Constitución que se había aprobado apenas unos meses atrás e invocó el artículo 5 para apoyar las [declaraciones de su viceministra primera](https://www.mes.gob.cu/es/noticias/ser-profesor-universitario), que había desatado una ola de críticas y una carta pública -firmada inicialmente por catorce intelectuales y luego por miles de personas-, motivadas por un texto en el que dicha funcionaria justificaba la discriminación por razones ideológicas en los claustros universitarios. La actitud de ambos dirigentes era anticonstitucional, pues desconocían el carácter público y no discriminatorio por ley de la enseñanza en Cuba a todos los niveles.
 
-![](/wp-content/uploads/2020/11/2019-09-15-15_02_57-Windows-Media-Player.png)
-
-![](/wp-content/uploads/2020/11/2019-09-15-15_02_57-Windows-Media-Player.png)
-
 El ministro de Educación Superior invoca la Constitución de 2019 en apoyo a la actitud discriminatoria enunciada por su viceministra (Foto: TVC) 
 
 Desde entonces, cualquier inconformidad, crítica o demanda en pro de una democratización de la política y el sistema electoral cubanos -muchas se hicieron en el proceso de consulta popular- son demeritadas por ideólogos y políticos oficiales que se refugian, además de en el susodicho artículo 5, en dos argumentos: primero, que el artículo 4 del texto constitucional establece que «El sistema socialista que refrenda esta Constitución, es irrevocable»; segundo, que la Constitución fue aceptada por una mayoría significativa de la población con derecho al voto y eso la legitima.
@@ -40,8 +36,6 @@ Dado que es imposible conseguir trasformaciones reales en la esfera económica y
 Otras preguntas pueden ser esenciales: ¿Cuántos de los firmantes ya no viven?, ¿cuántos viven fuera de Cuba?, ¿cuántos desean residir en otro país?, ¿cuántos, de haber sabido la implicación futura, estarían dispuestos a retirar su firma? Ahora, en tiempos de la red de redes, son indagaciones que se pueden realizar».
 
 Respecto al argumento que emplaza la legitimidad de la Constitución en el voto mayoritario de la población cubana, tengo los siguientes criterios: 1) en el proceso de consulta previo, los medios oficiales solo presentaron el punto de vista de la burocracia política e impidieron que el debate que se suscitó en las redes sociales, y que contó con análisis informadísimos de especialistas, juristas, historiadores, economistas, entre otros, fuera de dominio público y permitiera una mayor y más profunda reflexión popular. Así lo apunté en el artículo «Mundos paralelos». 2) Que Cuba debe actualizar no solo su economía, sino modernizar su proceso de votaciones. El mismo continúa en condiciones que no garantizan una confiabilidad mayor que el lápiz y la boleta de papel. 3) Si la cantidad de personas que apoyan una decisión electoral fuera siempre sinónimo de una buena decisión, no podríamos criticar, por citar un ejemplo, a Jair Bolsonaro, elegido por el voto mayoritario en Brasil.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/se-discutio-el-proyecto-de-constitucion/
 
 La contradicción irreconciliable que existe entre los derechos que enuncia la Constitución del 2019 y la imposibilidad de ejercitar los mismos a partir de la invocación de los artículos 4 y 5, se percibe con nitidez en la violación del plazo que su disposición transitoria decimosegunda estipula: «La Asamblea Nacional del Poder Popular, en el plazo de dieciocho meses de entrada en vigor de la Constitución, aprueba las modificaciones legislativas requeridas para hacer efectivo lo previsto en su Artículo 99, referido a la posibilidad de los ciudadanos de acceder a la vía judicial para reclamar sus derechos»[\[1\]](https://jovencuba.com/constitucion-represion-ciudadania/?fbclid=IwAR1xge9-aKjglxyt0wrQMlFEY-v5usj8aacnFaPE8QahG3nsfjMyisMJk2s#_edn1).
 
@@ -81,8 +75,6 @@ La cuestión entonces es que no se trata de tener derecho a ser iguales, sino de
 
 La función de los órganos de seguridad, a mi juicio, debería orientarse a develar tramas conspirativas, recabar pruebas concretas y verificables de la subordinación a un gobierno extranjero y presentarlas a los órganos judiciales competentes para que estos instruyan los casos respetando todas las garantías del debido proceso.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/derecho-a-la-informacion-veraz/
-
 Eso no es lo que está ocurriendo en Cuba. Estamos cansados de ver a personas que son llevadas a interrogatorios forzados, arrastradas por la fuerza, retenidas horas o días sin comunicación con su familia o con abogados, a las que les son incautados sus celulares y otros medios, para ser liberados después sin acusaciones ni proceso legal en su contra. El límite que existe entre la Seguridad del Estado y la violencia o terror de Estado es precisamente el respeto a los procedimientos y normas legales por parte de los órganos de seguridad.
 
 La violencia o terror de Estado consiste en la utilización de métodos ilegítimos por parte de un gobierno, orientados a producir miedo o terror en la población civil.
@@ -107,8 +99,6 @@ Como resultado, no marchamos en apoyo a los reprimidos en las UMAP o a los param
 
 El historiador romano Tito Livio decía en sus discursos una frase que retomaría Maquiavelo siglos más tarde: «La patria se debe defender siempre con ignominia o con gloria, y de cualquier manera estará defendida». Se equivocaba: si la Patria se defiende con ignominia, se la ofende. Y es ignominia gritar, humillar e injuriar al que piensa diferente y quiere reivindicar sus derechos contenidos en una Constitución que, por muchas limitaciones que tiene, los consagra.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/hacer-la-rebeldia/
-
 Pero no solo incurre en descrédito el que se presta a participar en esos actos viles, sino igualmente el que observa sin tomar una postura cívica al respecto.
 
 Por suerte, la posibilidad de contrastar opiniones en los medios digitales y redes sociales va dando frutos. Así veo con satisfacción que importantes intelectuales comprometidos con el proceso revolucionario han manifestado una crítica a los hechos de represión ocurridos hace pocas semanas. Carlos Alzugaray, analista político y por muchos años diplomático, apoyó en su muro de Facebook la postura de la profesora y psicóloga, Carolina de la Torre, que rechazó los actos de repudio. Estas fueron las palabras de Alzugaray:
@@ -124,17 +114,3 @@ Esa situación, vinculada con el escenario actual, propicio para que se produzca
 [\[2\]](https://jovencuba.com/constitucion-represion-ciudadania/?fbclid=IwAR1xge9-aKjglxyt0wrQMlFEY-v5usj8aacnFaPE8QahG3nsfjMyisMJk2s#_ednref2) _Constitucionales_, vol. 13, no. 2, Santiago, 2015 , disponible en [https://scielo.php](https://scielo.php/)
 
 _Tomado de [La Joven Cuba](https://jovencuba.com)_
-
-constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba,
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/alina-barbara-lopez-hernandez.jpg)
-    
-    ![](/wp-content/uploads/2021/02/alina-barbara-lopez-hernandez.jpg)
-    
-    [Alina Bárbara López Hernández](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/alina-barbara-lopez-hernandez/)
-    
-    Coordinadora de La Joven Cuba. Profesora, ensayista e investigadora.
-    
-    [](https://jovencuba.com/amp/author/alinalopez/)

@@ -3,7 +3,7 @@ title: "¿Se discutió realmente el Proyecto de Constitución?"
 date: "2019-02-21T17:06:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/02/PicsArt_02-21-11.59.55.jpg"
+image: ""
 ---
 discusión de la constitución.
 
@@ -21,7 +21,7 @@ Si observamos lo efectuado en la Cuba reciente, que hasta noviembre discutió su
 
 > Nos reunimos en asambleas no tan espontáneas.
 
-Asambleas coordinadas y controladas por organizaciones. En las cuales no discutimos entre nosotros bajo el arbitraje de la mesa desde la que se la presidía, sino que se nos reunió para que, de modo individual, aunque públicamente, le planteáramos a los representantes del gobierno nuestras dudas y sugerencias sobre un [Proyecto de Constitución](/wp-content/uploads/Tabloide-Constituci%C3%B3n.pdf) que había sido elaborado por aquel.  
+Asambleas coordinadas y controladas por organizaciones. En las cuales no discutimos entre nosotros bajo el arbitraje de la mesa desde la que se la presidía, sino que se nos reunió para que, de modo individual, aunque públicamente, le planteáramos a los representantes del gobierno nuestras dudas y sugerencias sobre un [Proyecto de Constitución](http://www.parlamentocubano.cu/wp-content/uploads/Tabloide-Constituci%C3%B3n.pdf) que había sido elaborado por aquel.  
 Se nos consultó, en el espacio público definido y bajo la tutela del aparato de gobierno. Sin ninguna obligación de hacernos caso, todo dependiendo de la buena voluntad de los gobernantes, y casi que llegué a pensar que era un acto de condescendencia.  
 Es necesario agregar que en Cuba las reuniones espontáneas de ciudadanos carecen de legitimidad ante la vista institucional.
 
@@ -46,15 +46,3 @@ La Constitución propuesta, a semejanza de la actual, con una sociedad en que el
 Triste ideal de un Estado, que por cierto, cuyos fundadores en cierto momento ya muy remoto, adoptaron la bandera rojinegra anarquista como la de su movimiento político reformador, para luego establecer un estatismo al más puro estilo soviético. Un estado que tiene como _utopía_ no aquella sociedad abierta en que los individuos solo se rigen por su conciencia, y en específico por sus imperativos categóricos, sino el panóptico más arriba descrito, en que la Ley es dictada.
 
 discusión de la constitución. discusión de la constitución. discusión de la constitución. discusión de la constitución. discusión de la constitución.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

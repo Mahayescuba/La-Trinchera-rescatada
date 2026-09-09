@@ -1,5 +1,5 @@
 ---
-title: "coronavirus riesgos"
+title: "Coronavirus (COVID-19): Pánico vs Negación (I)"
 date: "2020-03-15T19:30:18+00:00"
 author: ""
 category: "Cultura"
@@ -36,15 +36,3 @@ No estamos suficientemente preparados globalmente para enfrentar las amenazas bi
 Hacinamiento de personas en espacios reducidos, jornadas laborales extenuantes, estados socio-económicas deplorables y descuido de la salud, condiciones ideales para que aparezcan enfermedades. A esto se le suma una globalización y conexión mundial, una desigualdad abismal de desarrollo tecnológico y médico, y un estado de desinformación general sobre la salud, todo listo para que se produzca una pandemia.  
 Tenemos que ver este tipo de sucesos como una alarma clara de que no estamos haciendo las cosas bien, de que estamos actuando por debajo de nuestras posibilidades y capacidades científicas a un nivel global, solo por seguir manteniendo un sistema basado en el comercio y el beneficio monetario.  
 Tenemos la información, tenemos los medios, pero seguimos pagando un alto precio por no usarlos de forma relevante. Dejemos de pensar de una forma separada y competitiva, y comprendamos de una vez que nuestra salvación y prosperidad dependen de la integración y la colaboración. Declaremos la Tierra y los recursos como patrimonio de toda la humanidad, y pongamos la ciencia y la tecnología al verdadero servicio de la humanidad y el planeta.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

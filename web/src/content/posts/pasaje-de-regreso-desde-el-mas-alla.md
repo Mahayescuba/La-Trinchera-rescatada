@@ -1,19 +1,15 @@
 ---
-title: "Jim Carrey"
+title: "Pasaje de regreso desde el más allá"
 date: "2021-04-26T16:00:00+00:00"
 author: "Sender Escobar"
 category: "Cultura"
-image: "/wp-content/uploads/2021/04/Bruce-Nauman-.jpg"
+image: ""
 ---
 _–_¿Cuándo comenzó esta película?
 
 Un hombre cincuentón de barba, sentado frente a una cámara, con aire pausado y tono reflexivo, recuerda su interpretación en la película de [Milos Forman](https://es.wikipedia.org/wiki/Miloš_Forman) **_Man on the Moon_**. Es un desacostumbrado Jim Carrey quien aparece en pantalla hablando sobre el fallecido humorista Andy Kaufman. Cualquier conclusión sobre este actor afianzada por subestimaciones apoyadas en conjeturas o prejuicios por sus desempeños actorales en el cine de comedia, tiende a desaparecer e incluso puede ser hasta rebatida, cualquier opinión preconcebida por la sobriedad de su hablar.  
 
 **_The Great Beyond_** documental sobre el proceso de filmación de **_Man on the Moon_** revela grabaciones inéditas de lo ocurrido dentro y fuera del set.  Andy Kaufman, popular humorista de la televisión norteamericana destacó por su versatilidad y polémicas en sus presentaciones contradictorias al mantener en una duda constante a la audiencia sobre hasta qué punto llegaba el humor de un hombre con varios alter egos. Sus provocaciones públicas dirigidas hacia varios sectores de la sociedad estadounidense desde los más conservadores hasta los progresistas, constituían objetivos muy delineados en los guiones de Kaufman, quien se  catalogaba a sí mismo como artista de variedades.
-
-![](/wp-content/uploads/2021/04/Man_on_the_Moon-602903377-large.jpg)
-
-![](/wp-content/uploads/2021/04/Man_on_the_Moon-602903377-large.jpg)
 
 Al realizar la única audición para un papel que prácticamente era suyo en la película donde sería protagonista, la desaparición del Jim conocido por el elenco y equipo de filmación provocó una serie de desencuentros e incidentes que desencadenaron diversas reacciones y molestias, incluido la del laureado director checo Milos Forman. Grabado por un equipo de filmación autorizado por Carrey, los antiguos colaboradores de Kaufman, registraron el proceso de metamorfosis del actor que salvo algunos paréntesis temporales no estaba dentro del mundo conocido.  
 
@@ -29,10 +25,6 @@ En sus presentaciones habituales en televisión Andy Kaufman salía a escena una
 
 En una conversación telefónica con Jim, Milos le comenta lo irascible del carácter de Tony y la imposibilidad de lidiar con él. Carrey le propone despedir a Clifton y Andy e imitarlos para continuar con la grabación. Milos hizo un breve silencio y respondió negativamente. A pesar de las contrariedades generadas, la veracidad de su película radicaba en la provocación constante de los personajes protagonistas.  
 
-![](/wp-content/uploads/2021/04/Man_on_the_Moon-214957294-large.jpg)
-
-![](/wp-content/uploads/2021/04/Man_on_the_Moon-214957294-large.jpg)
-
 No solo el testimonio de un proceso creativo complejo, es develado en el documental, las facetas y evolución del pensamiento de Carrey son expuestas en contraposiciones generacionales:
 
 \-Que todo el mundo te reconozca siempre.
@@ -43,16 +35,4 @@ El ambiente anímico del equipo de grabación, impregnado por los caracteres de 
 
 \-Yo no sabía quién era cuando acabó la película. No sabía de política. No recordaba lo que me hacía yo mismo. De pronto me sentía tan infeliz y me di cuenta que pensaba otra vez en mis problemas, regresaba a mi corazón roto.
 
-Comenta el protagonista de _Man on The Moon_ y _The Great Beyond_  sobre su retorno a la realidad particular donde pertenecía. El dibujo sobre lo abstracto comentado en su diálogo final, es también el efecto sobre las decisiones que han marcado diferencias entre vivir en lo adecuado dentro de la apariencia común o apostar por la constante duda que trae aparejada descubrimientos cuando se parte con un pasaje de regreso desde el más allá. 
-
-Jim Carrey, Jim Carrey, Jim Carrey, Jim Carrey
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    [Sender Escobar](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/sender-escobar/)
-    
-    Ingeniero industrial y famous stalker
+Comenta el protagonista de _Man on The Moon_ y _The Great Beyond_  sobre su retorno a la realidad particular donde pertenecía. El dibujo sobre lo abstracto comentado en su diálogo final, es también el efecto sobre las decisiones que han marcado diferencias entre vivir en lo adecuado dentro de la apariencia común o apostar por la constante duda que trae aparejada descubrimientos cuando se parte con un pasaje de regreso desde el más allá.

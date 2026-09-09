@@ -1,9 +1,9 @@
 ---
-title: "Desarrollo agrícola en Cuba"
+title: "Carilda Oliver… Labra"
 date: "2020-11-17T17:00:36+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/11/3f67204fdde199222efb579e5eb634d6.jpg"
+image: ""
 ---
 —Mi amiga: extiéndete en la butaca, habré de actualizarte como al modelo económico.
 
@@ -37,8 +37,6 @@ image: "/wp-content/uploads/2020/11/3f67204fdde199222efb579e5eb634d6.jpg"
 
 —Aquí lo único _descentralizado_ es la zafra azucarera.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/agricultura-y-propiedad-en-cuba/
-
 —…y ya no será el Ministerio de la Agricultura, sino los Comités de Defensa de la Revolución, los que se echarán encima el desarrollo agrícola en la base. El nuevo coordinador ha declarado que es un imperativo cosechar calabazas, que es un imperativo cosechar piñas, que es un imperativo cosechar hasta la última maceta…
 
 —Prisionero del imperativo el hombre. Nos llama a dejar el descanso reparador para sumarnos al surco, para dejar de ser lo que somos: comunidades cazadoras-recolectoras. 
@@ -60,15 +58,3 @@ https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politic
 —¿Y si sucede al revés?
 
 —Me desordeno, te desordenas, nos desordenamos.
-
-desarrollo agrícola en Cuba, desarrollo agrícola en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

@@ -1,15 +1,13 @@
 ---
-title: "Covid en Cuba Antivirus"
+title: "Antivirus"
 date: "2021-02-09T10:30:00+00:00"
 author: "Jorge Fernández Era"
 category: "Onírica"
-image: "/wp-content/uploads/2021/02/Karin-Kuik.jpg"
+image: ""
 ---
 Conservar el humor en tiempos tan angustiosos es una hazaña que solo me la tolero yo mismo, pues el año ha comenzado a tope de contratiempos. Suena egoísta decir eso cuando hay gente que la ha pasado peor, mas pecaría de falsa modestia si no asevero que desde que comenzó el ordenamiento he estado salao.
 
 Poco después de que la enfermedad chequeara en marzo en la aduana del aeropuerto, escribí lo siguiente: “Aplaudo a cuatro manos las medidas tomadas para frenar el avance de la covid-19 en nuestro país. Es una verdad innegable que, en situaciones de riesgo, el Estado garantiza que los mecanismos respondan casi como maquinaria de relojería. De ahí que ante catástrofes naturales como los huracanes, las pérdidas de vida sean mínimas”. Meses después agregué: “El Gobierno hace ingentes esfuerzos por minimizar el impacto de la enfermedad en la Isla. Al ya numeroso monto de recursos que anualmente destina a la salud ha sumado cifras extras para cubrir, entre otras urgencias, la existencia de numerosos [centros de confinamiento](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiglPzpzdvuAhWHG80KHZ-WDtM4FBAWMAR6BAgLEAI&url=http%3A%2F%2Fjuriscuba.com%2Fnorma-juridica-del-minsap-para-enfrentar-la-covid-19%2F&usg=AOvVaw2LfR_l4pQwUGKdE_geXg3l) para aislar a los sospechosos de poseer la enfermedad. Y aunque el comportamiento de esta última no ha escapado de las curvas y recurvas propias de una pandemia, es innegable que los cubanos respiramos con alivio, dormimos tranquilos y disfrutamos de indicadores de incidencia que nada tienen que ver con los de la región y el mundo”.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/noticias/testimonios-de-coronavirus/
 
 Esto último lo escribí en noviembre. No dormí con alivio la noche de fin de año —Murillo no tuvo la culpa—, al pescar una severa neumonía diagnosticada el día primero en el policlínico de Coco y Rabí y que me tuvo con más recurvas que curvas hasta hace días. Ya el Estado movía sus fichas ante el aumento exponencial de casos y la impactante realidad de una decisión que criticamos a otros y luego tomamos en el ámbito doméstico: abrir la economía… y casi cerrar las farmacias: la azitromicina que ameritaba mi enfermedad —ya había subido al respetable precio de ochenta pesos seis pastillas— solo pude encontrarla gracias a la ayudada solidaria y desinteresada del “campo sociolista”. 
 
@@ -22,15 +20,3 @@ A mi hijo le dieron el alta ayer, tras no dar positiva la prueba hecha al quinto
 PCR (paciencia, confianza o resignación) con lo que venga. Nunca he deseado tanto que aquellos a quienes no les gusta ni un poquito lo que escribo me remitan a anteriores párrafos —nada complacientes con la maquinaria de relojería— y blasfemen: “¡Tú siempre tan negativo!”
 
 …
-
-covid en Cuba, covid en Cuba, covid en Cuba, covid en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

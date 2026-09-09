@@ -11,16 +11,4 @@ Uno se pregunta, cual si estuviera harto tras pantagruélica cena, cómo despué
 Y claro que si al final la carne —menos importante que el carné— no regresa a sus legítimos productores, siempre habrá «mambises» de raza que machete en mano nutran los expedientes de hurto y sacrificio que ceban los archivos policiales. Hurto porque están hartos de sufrir los precios de la exigua carne vacuna que llega al mercado. Sacrificio de no poder comerla.  
 ¿Dónde el ganado? ¿Do está la res? El periodismo futurista de la televisión cubana —he aquí la «vacuna»— funde las dos palabras y anuncia que somos ganado-res de una batalla que ha dado como fruto ese rebaño genéticamente invicto que se pasea de un lado a otro de la pantalla y que posee como única debilidad hereditaria el que un clip del mando (televisivo) los hurte definitivamente de nuestra vista.
 
-carne de res carne de res 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+carne de res carne de res

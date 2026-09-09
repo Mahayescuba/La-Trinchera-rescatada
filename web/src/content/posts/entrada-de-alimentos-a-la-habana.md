@@ -1,9 +1,9 @@
 ---
-title: "Entrada de alimentos a La Habana"
+title: "Esperando al camión"
 date: "2020-09-14T16:52:06+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Onírica"
-image: "/wp-content/uploads/2020/09/Sophie-Favre-.jpg"
+image: ""
 ---
 Entrada de alimentos a La Habana.
 
@@ -41,24 +41,8 @@ Pero multar no estaba permitido, no nos vayamos del tema, que el gobierno dijo q
 
 Nadie mandó, pero tampoco aparecen, no se sabe, ni se castiga a los que ejecutaron la no orden. Ni salen en el _Tras la huella_. Ya me perdí, ni el gobierno ni la oposición se adjudican públicamente las multas, así que nada bueno fue. Sigo en el mismo lugar.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/revendedores-en-cuba/
-
 El caso es que el camionero no quiere venir, y no le convence lo que dijo el gobierno. Al camionero no lo elegimos democráticamente la comunidad de [La Habana](http://www.lahabana.gob.cu/488-politica-y-gobierno/gobierno-provincial-g/341-gobierno-provincial-g), así que no podemos cambiarlo. Bueno, al gobierno tampoco lo elegimos, más o menos no. Tampoco podemos cambiarlo.
 
 En fin, ¿quién hace que el camión venga?
 
 entrada de alimentos a La Habana entrada de alimentos a La Habana
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/cebolla-dios-y-los-reyes-de-la/
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

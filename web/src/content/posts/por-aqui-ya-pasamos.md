@@ -3,7 +3,7 @@ title: "Por aquí ya pasamos…"
 date: "2018-08-01T12:00:12+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2018/07/Gaceta-Oficial-Cuba-y-Negocios-870x600.jpg"
+image: ""
 ---
 Este nuevo episodio en el interminable zigzagueo alrededor del trabajo privado se anunció bajo la sugerente etiqueta de “Política para el Perfeccionamiento del Trabajo por Cuenta Propia”.
 
@@ -37,14 +37,4 @@ La emergencia de un sector privado, como ha quedado demostrado en la experiencia
 
 Tomado de [Rebelión](http://www.rebelion.org/noticia.php?id=244591&titular=por-aqu%ED-ya-pasamos%85-)
 
-Trabajo por Cuenta Propia. Trabajo por Cuenta Propia. Trabajo por Cuenta Propia. 
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)
+Trabajo por Cuenta Propia. Trabajo por Cuenta Propia. Trabajo por Cuenta Propia.

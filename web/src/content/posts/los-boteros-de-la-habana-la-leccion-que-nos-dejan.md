@@ -3,7 +3,7 @@ title: "Los boteros de La Habana. La lección que nos dejan."
 date: "2018-12-10T04:36:15+00:00"
 author: "Alejandra K."
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2018/05/f0065219.jpg"
+image: ""
 ---
 Hace unas semanas atrás, en un ambiente que podríamos calificar como académico, algunos compañeros tocaban un tema -que por su aparente olvido y lejanía en el tiempo-, parece haber perdido la significación que un día tuvo. La cuestión era el incidente ocurrido hace cerca de año y medio con los boteros (taxistas de 10 pesos) de La Habana, en la cual el gobierno provincial adoptó una política de segmentación de tramos y reducción de las tarifas en forma de precios topados de los pasajes por tramos.
 
@@ -32,15 +32,3 @@ Algunas conclusiones que se extraen de dicho tema:
 Por último, me gustaría señalar que el hechos abordado-aunque parezca ser un fenómeno aislado- es un ejemplo aterrador de lo que puede ocurrir en un futuro no muy lejano cuando inexorablemente se exacerben las contradicciones entre las dos lógicas que hoy conviven a lo interno de nuestro país, la lógica del capital y la lógica de la vanguardia.
 
 Nota: Sobre el concepto de “lógica de vanguardia” empleado en este texto, consultar el libro, “Las Contradicciones del Socialismo Real: Los dirigentes y los dirigidos” de Michael Lebowitz.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

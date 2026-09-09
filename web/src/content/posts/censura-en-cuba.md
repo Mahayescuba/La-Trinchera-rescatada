@@ -3,7 +3,7 @@ title: "La censura me parece estúpida e injusta"
 date: "2020-01-26T05:53:59+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/01/trucos-fotografia-creativos-6-561x701-1.jpg"
+image: ""
 ---
 censura en cuba.
 
@@ -15,20 +15,6 @@ La Revolución vive en los que se sienten revolución, no en los extremistas que
 Yo, personalmente, no me siento identificado con muchos de los medios que aparecen en esa lista. Algunos los considero plataformas de ataque a mi país. Otros los considero medios con una proyección ideológica opuesta a la mía. Y están los que considero sencillamente diferentes. Pero soy consciente de que en el mundo comunicacionalmente abierto que hoy existe, esos medios van a existir y no vale de nada enfrentarlos de otro modo que no sea mediante el argumento y la lucha comunicacional. La censura me parece estúpida e injusta. El socialismo en el que yo creo, es uno completamente coherente con la defensa de los derechos individuales y colectivos, incluyendo la libertad de expresión.  
 Lo que busca Lagarde con esa lista, es manipular el justo sentimiento de defensa de nuestro país de muchas personas, para legitimar la censura general. Busca ocultar la pluralidad real en el campo ideológico cubano. Y de paso, intenta desconocer una verdad que se mueve en el fondo: la pluralidad dentro del mismo [PCC](https://es.wikipedia.org/wiki/Partido_Comunista_de_Cuba) y el sector social que apoya al gobierno. No existe un consenso dentro del PCC alrededor de la postura de Lagarde y de otros como él. Por eso listas como estas aparecen en las páginas oficiales y desparecen al poco tiempo.
 
-![](/wp-content/uploads/2020/01/fb_img_15800177939995450661334567609408.jpg)
-
 censura en cuba.censura en cuba.
 
 [Otro texto del auto](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

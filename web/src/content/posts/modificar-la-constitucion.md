@@ -3,7 +3,7 @@ title: "¿Modificar la constitución?"
 date: "2019-03-07T06:42:31+00:00"
 author: "Ernesto Nuñez"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/03/plaza7919.jpg"
+image: ""
 ---
 Victoria para todos. Tenemos una mejor Constitución y ahora sabemos que tenemos el poder de perfeccionarla.
 
@@ -40,15 +40,3 @@ Como se ve, el ciudadano tiene derecho a promover a la [ANPP](http://www.parlame
 > Ahora hay nuevas plataformas que para iniciar o detener ese proceso…
 
 Recuerde que mientras lee este artículo, tiene en sus manos el arma más poderosa que ha creado la humanidad… internet.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

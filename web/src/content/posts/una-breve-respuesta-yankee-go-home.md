@@ -1,9 +1,9 @@
 ---
-title: "La Trinchera como blog de Cuba rechaza la injerencia del gobierno de UEA"
+title: "Una breve respuesta: Yankee go home"
 date: "2018-02-02T20:14:13+00:00"
 author: "Miguel Alejnadro Hayes Martínez"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/02/YankeesGoHome-550-Max.jpg"
+image: ""
 ---
 Cosas como esta se esperan que pase. No me resulta sorprendente que un enemigo, del gobierno y del pueblo, se muestre como es. Es mucho más fácil luchar contra un enemigo que da la cara que con uno que da falsos discursos para después, por detrás, dar el golpe bajo.
 
@@ -18,15 +18,3 @@ Los revolucionarios, de una forma u otra, dentro o fuera de la institución, má
 Ya he visto, que otros blogs, también han montado su respuesta ante esta declaración. Puede verse, que no hizo falta (aunque se haya hecho) un llamado institucional para que publiquemos una respuesta.
 
 No haremos de esto una catástrofe, para no seguirles el juego y detener nuestras vidas. Sin embargo, sin necesidad de ser parte de un programa, conscientemente, alertas ante la amenaza de lo que puede representar  para todos, nos sentimos invadidos  por la  injerencia imperial. Solo queda decir, al más puro estilo latinoamericano: Yankee go home!!!
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

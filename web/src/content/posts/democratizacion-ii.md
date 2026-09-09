@@ -1,9 +1,9 @@
 ---
-title: "Democracia"
+title: "Democratización"
 date: "2019-12-12T05:08:36+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2019/12/IMG_20191201_162251_304.jpg"
+image: ""
 ---
 Apuntes para una teoría de la democracia popular (II).
 
@@ -20,15 +20,3 @@ Avancemos un paso más. ¿Qué significa democratización? Significa por lo meno
 4\. Quisiera demorarme entonces en una serie de ideas-fuerza, un conjunto de tesis o proposiciones de fe democráticas que entendemos aquí como tarea para una democracia popular.
 
 **Publicado originalmente en Relámpagos**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

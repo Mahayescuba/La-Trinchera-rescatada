@@ -3,7 +3,7 @@ title: "Joe Biden, o el acercamiento"
 date: "2020-04-30T17:30:14+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2020/04/1131_biden.jpg"
+image: ""
 ---
 Pero al salir Bernie, tenemos que conformarnos con una opción menos óptima: Joe Biden.
 
@@ -18,17 +18,3 @@ En primer lugar, porque está por reanudar el acercamiento de Obama.
 Es evidente que por la vía Trump solo hay dos soluciones posibles: se mantiene el estatismo cuartelario, de raíz [blanquista](https://es.m.wikipedia.org/wiki/Blanquismo) más que marxista, gracias a que el mismo está diseñado precisamente para medrar en el aislamiento y la confrontación con Washington, al reciclar los ataques en dosis de chovinismo inyectados en los sobre excitados imaginarios nacionalistas de las masas cubanas; o se posa un cisne negro en la Plaza y en medio del caos otros imponen sus agendas de derecha, centradas en la primacía del mercado que solo puede significar, ante el cubano medio sin habilidades o capitales para enfrentar ese cambio, en la continuación del desempoderamiento del mismo.  
 Solo el acercamiento asegura que el dominó nacional pueda fluir, y no en beneficio de unos pocos. Por tanto, es vital apoyar a Biden, quien sin duda lo necesita, ante quienes querrán hacer aparecer ante el electorado americano que la totalidad de quienes o nos enfrentamos, o no coinciden plenamente con el gobierno de La Habana, estamos en contra de retomar el camino de Obama.  
 En segundo lugar deben apoyarlo porque, si el Partido Demócrata desea ganar las elecciones, tendrá que asumir parte del programa radical de Bernie, o incluso escoger un vicepresidente cercano a las posiciones del senador por Vermont, que cuenta con el apoyo de al menos la tercera parte del electorado democrático. O sea, quiéralo o no, Biden deberá hacer avanzar la agenda progresista. Esa que el cambio generacional y étnico impulsa inexorablemente en el vecino, pared con pared, y que de manera semejante también acerca más y más a Cuba y EEUU desde las bases, y no desde las élites políticas, económicas o financieras.
-
-[Otro texto del autor](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

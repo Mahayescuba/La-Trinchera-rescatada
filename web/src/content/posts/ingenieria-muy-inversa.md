@@ -1,9 +1,9 @@
 ---
-title: "Irreverencia intelectual"
+title: "Ingeniería muy inversa"
 date: "2021-02-21T17:00:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/02/Bob-Quinn-2.jpg"
+image: ""
 ---
 La ingeniería inversa suele llegar más rápido al punto opuesto que la tradicional. Por lo general, se entiende más rápido un conocimiento ya terminado que cuando se tiene que construir (al menos, en apariencia).
 
@@ -16,8 +16,6 @@ La mayor parte del conocimiento viene de fuentes pasivas. Si bien comprender una
 Así, es común encontrarse con personas que, de una frase leída, de una pasadita, de suponer, pueden resumir todo. Este grupo es un subconjunto de esa mayoría que habla de libros que no lee, que no ha leído, que no leerá. Leer puede significar desplazar la vista sobre oraciones y ejercitar la capacidad de descifrar [significantes](https://es.wikipedia.org/wiki/Significante), lo más primitivo posible, como quien verifica el buen uso la gramática.
 
 Semejante proyección pudiera ser una de las tantas formas de existencia de los superfluo que caracteriza la pretendida posmodernidad de la modernidad, y lo es. Incluso puede llegar a ser inocuo, siempre que no se infiltre en los espacios de generaciones de ideas de avance social, donde ya, por desgracia, está. De hecho, se ha convertido la academia en un mecanismo reproductor de este fenómeno que acá nos ocupa.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica/la-responsabilidad-de-los-intelectuales/
 
 Los tiempos académicos obligan a reducir clásicos, autores, escuelas, paradigmas, su riqueza, a un listado de puntos, de definiciones. No solo el estrechamiento del conocimiento actúa, sino que basta con que algún ejercicio de resumir falle, que algún eslabón con el atrevido honor de resumir a algún pensador falle, para que sea indetenible la tergiversación, por los años de los años (académicos).
 
@@ -34,17 +32,3 @@ Esta farándula intelectual va presumiendo de sapiencia rebelde e irreverente. �
 El verdadero acto irreverente lo constituye el revelar el conocimiento que es propio de toda forma que entregue cápsulas, que resuma, que reduzca todo a un enunciado en clave de certezas. La irreverencia está ahí, en la propia formación del conocimiento y en la afrenta a sus autoridades, no en el acto performático de contraponer las doctrinas aprendidas a otras, presuntas, o no. No se es irreverente por enfrentar a una doctrina ajena, sino cuando no se está en una. 
 
 Imagino que en lo que se hace bien la ingeniería inversa, ocurren estos resultados marginales.
-
-irreverencia intelectual, irreverencia intelectual, irreverencia intelectual
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

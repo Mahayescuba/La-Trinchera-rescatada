@@ -1,9 +1,9 @@
 ---
-title: "unificación monetaria Charles Romeo Debate La Trinchera"
+title: "La cuestión de la unificación monetaria en Cuba"
 date: "2018-06-19T11:01:50+00:00"
 author: "Charles Romeo"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2018/06/Unbenannt-88.jpg"
+image: ""
 ---
 Charles Romeo, economista y autor invitado de este blog, comparte con los lectores sus consideraciones sobre la unificación monetaria en Cuba y los retos que plantea en cuanto a la medición del valor, la contabilidad empresarial, el control, la información, los precios y los salarios.**I.-  Introducción imprescindible al tema de la unificación monetaria en Cuba**
 
@@ -134,15 +134,3 @@ La Habana, 24 de abril del 2018
 Charles Romeo, economista franco-chileno, se incorporó a la Revolución Cubana en marzo de 1959 cuando trabajaba en la Comisión Económica para América Latina (CEPAL).  Tiene una amplia y diversa trayectoria que incluye la docencia en varias universidades y su desempeño como funcionario de organismos estatales de Cuba: INRA, Ministerio de Industria, la Comisión de Colaboración Científica y Económica, y el Ministerio de la Agricultura. Fue colaborador de Ernesto Che Guevara y de Carlos Rafael Rodríguez. Posee una vasta experiencia empresarial, siendo fundador de las corporaciones CIMEX y HAVANATUR, gerente de varias compañías propias, administrador de una sociedad hotelera, gerente de una sociedad mixta en Cuba, y consultor de empresas extranjeras. Es el autor de libros y artículos sobre temas de economía política, comercio exterior, desarrollo, teoría socialista, educación y testimonio.
 
 Tomado de [El estado como tal](https://elestadocomotal.com/2018/05/07/charles-romeo-la-cuestion-de-la-unificacion-monetaria-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

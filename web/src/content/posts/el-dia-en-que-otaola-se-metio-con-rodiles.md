@@ -42,17 +42,3 @@ Déjenme aclarar par de cosas a quienes parecen ver en Otaola el remedio univers
 No se engañe, nadie se va a tirar a la calle a resultas de que un señor muy relamido, aunque graciosamente chusma, se lo pida desde Miami. Si alguna vez la gente se tira a la calle, no por uno de esos misteriosos impulsos que lanzan a las masas al combate, sino al seguir a un líder, no será nunca él el elegido. La gente muere por líderes como Alejandro Magno, o César, no como Otaola.  
 A este señor con métodos muy semejantes a los de McCarthy, le recuerdo que la carrera del senador terminó cuando quiso acusar al Pentágono de ser un nido de comunistas. Se atrevió con una institución de un prestigio que nadie ponía en duda. Una institución que le quedaba grande.  
 Ahora, en su caso, parece haber pasado igual, y lo que aquí sostengo lo siente mucha gente, allá y acá.
-
-[Otro texto del autor](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

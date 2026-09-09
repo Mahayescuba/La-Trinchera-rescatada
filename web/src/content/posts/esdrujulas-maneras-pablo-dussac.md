@@ -3,16 +3,11 @@ title: "Esdrújulas maneras"
 date: "2019-07-11T13:12:34+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/07/IMG_20190710_010439.jpg"
+image: ""
 ---
 Esdrújulas maneras.
 
 **Por: Pablo: Dussac**
-
-Asúmete en la cúspide  
-De estos versos intrépidos  
-Que, por céntimos de amor,  
-Dejaron de ser incrédulos.
 
 Se arriesgan al ridículo,  
 Lo insípido, banal,  
@@ -69,15 +64,3 @@ Esdrújulo esplendor.
 Asúmete en la cúspide De estos versos intrépidos Que, por céntimos de amor, Dejaron de ser incrédulos. Se arriesgan al ridículo, Lo insípido, banal, Tránsito de íntimas imágenes Los incitan a plasmar. Vorágine de ideas Brotan desde la médula, Dice quien sabe más Que son las células de un poema. Cavernícola es la métrica, Implícito el sentir, Intrínseca es la forma Que adoptan para existir. Esdrújulas maneras, Enérgico bolígrafo, Rítmicos caprichos, Veneno para séquitos. Bordados al unísono, Letales cual ejército, Inmunes a las críticas Y su látigo voraz. Cual cánticos me llegan, Rápido los grabo, Plácido en el trance   
 En el que surgen raros trazos. La mística en la cúspide, El juglar en su júbilo, Los estruendos del público Que se refleja en la obra. Trémula, la élite, Ante la ola que avanza, Súbita e imponente, Fatídica, drástica. Ávidos de vida Como ánimas mortíferas, Fortificando la lírica  
 Con lúdico fulgor. Pálpitos del alma, Terribilísimo autor, Ejercicio del acento, Esdrújulo esplendor.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "Reforma económica en Cuba"
+title: "Ni inmovilismo ni excepcionalidad. Democracia, republicanismo y socialismo en Cuba a diez años del inicio de la reforma"
 date: "2021-03-19T16:00:00+00:00"
 author: ": Ailynn Torres Santana y Julio César Guanche"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/03/n-A-Boat-Abstract-Rowers-In-Boat-sculpture-Yladimir-Slobodchikov.jpg"
+image: ""
 ---
 Desde aproximadamente 2010 Cuba está inmersa en procesos de cambios profundos. No se emplea la palabra «reforma», pero lo es, y ocurre en múltiples dimensiones. Todas estas transformaciones poseen legitimidades y problemas de cara a las necesidades y condiciones de posibilidad de la sociedad y el Estado socialista.
 
@@ -17,13 +17,11 @@ Por su parte, agendas, actores y dinámicas de la sociedad civil registran modif
 
 El conjunto afirma dos hechos. De una parte, desmiente cualquier tesis de «inmovilismo» dentro del país. De otra, cuestiona la excepcionalidad que se atribuye a la realidad cubana dentro de los [análisis latinoamericanos](https://www.planetadelibros.com.pe/libro-america-latina/321233). Por el contrario, son evidentes flujos y correlaciones con otros contextos. Su identificación permite auscultar mejor el ya largo proceso de transformaciones que, a inicios de 2021, se profundiza y arroja preguntas sobre el futuro de la nación y su ciudadanía.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/la-economia-no-estatal-no-se-resetea/
-
 Aquí miramos la reforma cubana a través de cuatro lentes: 1) la reorganización del sistema socioeconómico; 2) los cambios relacionados con la representación política, la cualidad del servicio público de los representantes y las (im)posibilidades de control ciudadano; 3) las transformaciones en el orden de la relación entre ley y derecho, el procesamiento democrático de los mismos y la búsqueda de garantías institucionales para ellos; 4) los conflictos de cara al ejercicio de la participación ciudadana y la sociedad civil.
 
 **Reforma del sistema socioeconómico: acceso a la propiedad y (des)control sobre las condiciones de existencia** 
 
-La estructura de la propiedad, el aparato productivo y los mercados laborales han cambiado y ganado complejidad en Cuba. Cuatro documentos principales son sus bases: los [Lineamientos para la Actualización de la Política Económica y Social](/wp-content/uploads/2017/07/PDF-321.pdf) (2011), la [Conceptualización del modelo económico y social cubano de desarrollo socialista](/wp-content/uploads/2017/07/PDF-510-kb.pdf) (2017), la [Constitución de la República](http://www.cubadebate.cu/noticias/2019/02/26/descargue-aqui-la-nueva-constitucion-de-la-republica-de-cuba-pdf/) (2019) y los que especifican la [Tarea de Ordenamiento](https://www.tsp.gob.cu/noticias/descargue-aqui-todas-las-normas-juridicas-que-rigen-la-tarea-ordenamiento-gacetas) (2021).
+La estructura de la propiedad, el aparato productivo y los mercados laborales han cambiado y ganado complejidad en Cuba. Cuatro documentos principales son sus bases: los [Lineamientos para la Actualización de la Política Económica y Social](http://media.cubadebate.cu/wp-content/uploads/2017/07/PDF-321.pdf) (2011), la [Conceptualización del modelo económico y social cubano de desarrollo socialista](http://media.cubadebate.cu/wp-content/uploads/2017/07/PDF-510-kb.pdf) (2017), la [Constitución de la República](http://www.cubadebate.cu/noticias/2019/02/26/descargue-aqui-la-nueva-constitucion-de-la-republica-de-cuba-pdf/) (2019) y los que especifican la [Tarea de Ordenamiento](https://www.tsp.gob.cu/noticias/descargue-aqui-todas-las-normas-juridicas-que-rigen-la-tarea-ordenamiento-gacetas) (2021).
 
 Un papel clave lo ha tenido la ampliación del sector no estatal de la economía, y muy especialmente del llamado Trabajo por Cuenta Propia (TCP). Entre 2010 y 2018, el TCP creció 375%. La forma en que ello ha sucedido es quebradiza y aún [incompleta](http://www.cubadebate.cu/opinion/2016/04/14/los-lineamientos-para-la-politica-economica-y-social-y-su-evolucion-2011-2016/). Han existido [decisiones arbitrarias o anacrónicas](https://elestadocomotal.com/2021/01/04/productividad-y-politica-economica-cubana-en-2021-resolver-un-error-de-secuencia/), ineficiencia y corrupción estructurales, y [disputas ideológicas](http://library.fes.de/pdf-files/bueros/fescaribe/16568.pdf) entre actores internos de poder que interrumpen y/o ralentizan medidas necesarias en ese campo.
 
@@ -46,8 +44,6 @@ El [sector cooperativo](https://rebelion.org/las-cooperativas-en-la-reforma-rea
 Otros contenidos de la reforma han sido el estímulo declarado a la inversión extranjera, la productividad y la disminución de erogaciones en divisas.
 
 La economía no monetaria ha hecho contribuciones de gran escala. El trabajo no remunerado, principalmente a cargo de mujeres, ha sido y continúa siendo fundamental para el sostenimiento de la vida. Cuba afronta una [crisis de cuidados](https://oncubanews.com/opinion/columnas/sin-filtro/cuidar-cuidarse-que-nos-cuiden-en-tiempos-de-covid-19/) producto del [envejecimiento](https://cubaposible.com/envejecimiento-cuidados-cuba/) demográfico y de la [escasez de servicios de cuidados públicos](https://oncubanews.com/opinion/columnas/sin-filtro/circulos-infantiles-un-debate-de-cuidado-en-cuba/). En 2002 se estimó que el aporte de los servicios domésticos y de cuidado no remunerados era el equivalente a 20% del PIB nacional. No hay nuevas estimaciones, pero es probable que ese número haya crecido. El conjunto [condiciona](https://oncubanews.com/opinion/columnas/sin-filtro/los-periodos-especiales-de-las-mujeres-en-cuba/) la amplia brecha en la participación laboral de mujeres y hombres, que es de 22,7%. Casi una de cada dos mujeres en edad laboral está fuera de la Población Económicamente Activa. Hay más mujeres universitarias que hombres [pero](https://muse.jhu.edu/article/750424), en general, tienen menos autonomía económica, acceso a la propiedad y participan menos en los sectores económicos que proveen mejores ingresos. La crisis de cuidados [ha sido considerada](http://library.fes.de/pdf-files/bueros/fescaribe/15758.pdf) por las instituciones, pero [no se enuncia](https://oncubanews.com/opinion/columnas/sin-filtro/nadie-quedara-desamparado-ii/) como un problema para la reforma.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/subsidio-en-masa/
 
 En los 1990 no hubo retirada del Estado de sus funciones sociales, aunque la crisis dejó «[claros perdedores y ganadores](http://library.fes.de/pdf-files/bueros/fescaribe/14950.pdf)»: mujeres en general, madres solteras, personas de la tercera edad, población negra y mestiza, trabajadores estatales en ocupaciones de baja calificación y territorios empobrecidos con migrantes hacia zonas de mayor desarrollo. Ese perfil se ha mantenido en la reforma de la última década.
 
@@ -93,8 +89,6 @@ Con vistas a la Constitución vigente, creció la demanda de considerarla con va
 
 Asimismo, existen otros problemas sobre la relación entre Ley y Decreto. La Constitución —un texto de «mínimos»— [tiene un amplio número de remisiones legislativas](https://1library.co/document/qorg3n0q-constitucion-republica-politico-derechos-genero-medio-ambiente.html): cuenta con 229 artículos y unas 111 remisiones a legislación secundaria. Entre ellas, «existen 60 mandatos claros en cuanto a la regulación a seguir y el resto, 51, presentan riesgo de modificar los contenidos constitucionales».
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/regresar-al-capitalismo/
-
 El primer problema es el hecho mismo de que la ley a la que la Constitución obliga nunca sea dictada. Ese proceder genera «inconstitucionalidades por omisión», pero no existen mecanismos para denunciarlas ni obtener la creación de la ley. Otro problema es que las remisiones terminen siendo decretos (o decretos leyes), pero no leyes, cuando deban serlo por la materia tratada.
 
 Una perspectiva crítica del Derecho reconoce que existe [el derecho a resistir el derecho](https://www.marcialpons.es/libros/el-derecho-a-resistir-el-derecho/9788495294944/). Es otra manera de subrayar el carácter democrático de la Ley, de afirmar las condiciones que le son imprescindibles para proveer libertad. Según ese enfoque, donde hay una injusticia, el cumplimiento de la ley es una humillación. Esto es: si una norma invade derechos, no cuenta con moralidad para reclamar su cumplimiento. Luego, recursos como la desobediencia civil son un camino para transformar la sociedad al permitir discutir la injusticia dentro del Derecho.
@@ -129,8 +123,6 @@ Los cuatro ítems cuyo análisis hemos seguido en este texto son los que se han 
 
 Esta discusión sobre el socialismo y la tradición republicana, de la cual han hecho parte desde Marx hasta José Martí, [ha ganado espacio en Cuba](http://cubarte.cult.cu/periodico-cubarte/sobre-el-gorro-frigio-republicanismo-e-independencia-nacional/). Las preguntas sobre las condiciones de posibilidad de una República socialista democrática tiene, entonces, mucho sentido.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/episodio-48-pensar-la-economia-cubana-i/
-
 Una República subordinada por el capitalismo, con sus dinámicas de concentración de poder, exclusión social y explotación del trabajo, no deja de ser una República, pero resulta fundamentalmente oligárquica.
 
 La apuesta por la República democrática encuentra en el programa socialista de igualdad política e igualdad social una combinación imprescindible. Entendemos la igualdad política como libertad política con capacidad de autoorganización, de contestación, de creación y de participación respecto a las decisiones estatales, y con poder de decisión de la ciudadanía, de los trabajadores y trabajadoras sobre los procesos que afectan sus vidas. Comprendemos que la igualdad social es el despliegue de la justicia social; la lucha por la eliminación de la desigualdad y la pobreza y no alguna clase de igualitarismo represivo.
@@ -143,26 +135,4 @@ Desde esa comprensión, el análisis de la República, la democracia y el social
 
 En su lugar, se pueden especificar programas prácticos de libertad política y justicia social para Cuba, a la vez que proponer una renovada reflexión sobre el socialismo que necesita el siglo XXI. Se trata de identificar las oportunidades que presenta el proceso cubano junto a sus impedimentos, para proponer un modelo de República socialista que tenga como horizonte el concepto revolucionario de fraternidad: reciprocidad en la libertad a partir de la interdependencia entre libertad e igualdad, y pensarlo sobre un escenario social real, por medio del análisis político en todo lo que este implica.
 
-_[Tomado del blog del autor](https://jcguanche.wordpress.com/)_  
-
-reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/1839bd8873f705471c440016bcc41911.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/1839bd8873f705471c440016bcc41911.jpeg)
-    
-    [Julio César Guanche](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/julio-cesar-guanche/)
-    
-    Jurista e Historiador. Ha impartido clases, cursos, seminarios y conferencias en universidades de más de una decena de países. Dirigió varias publicaciones y editoriales nacionales en Cuba y trabajó por varios años en la Casa del Festival Internacional del Nuevo Cine Latinoamericano, del que fue asesor y director. Son de su autoría, entre otros libros, La verdad no se ensaya. Cuba: el socialismo y la democracia (Editorial Caminos, La Habana, 2012) y Estado, participación y representación políticas en Cuba (CLACSO, Buenos Aires, 2011).
-    
-    [](https://jcguanche.wordpress.com)
-    
--   ![](/wp-content/uploads/2021/03/Foto-Ailynn-300x300-1.jpg)
-    
-    ![](/wp-content/uploads/2021/03/Foto-Ailynn-300x300-1.jpg)
-    
-    [Ailynn Torres Santana](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/ailynn-torres-santana/)
-    
-    Académica y militante feminista. Es investigadora del International Research Group on Authoritarianism and Counter-Strategies (IRGAC) de la Fundación Rosa Luxemburgo e investigadora asociada de FLACSO Ecuador. Forma parte del Consejo Editorial de la revista Cuban Studies (Universidad de Harvard) y del Consejo de Redacción de la Revista Sin Permiso (Barcelona).
+_[Tomado del blog del autor](https://jcguanche.wordpress.com/)_

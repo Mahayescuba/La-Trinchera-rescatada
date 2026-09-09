@@ -3,7 +3,7 @@ title: "Desastre: Comienza demolición de la Casa de las Cadenas de Guanabacoa"
 date: "2018-03-17T15:16:20+00:00"
 author: ""
 category: "Noticias"
-image: "/wp-content/uploads/2018/03/índice-1.jpg"
+image: ""
 ---
 # **La Trinchera se suma a causas sociales**
 
@@ -18,15 +18,3 @@ Constantemente se habla en los medios oficiales de la conservación del patrimon
 La escala de prioridades que dieron al traste con esta decisión es, a todas luces, descabellada y absurda: no hay justificación para esto. Pero, más importante es que no hay tiempo que perder. El pueblo de Guanabacoa no ha de enfrentar solo este hechoque también ataña a la provincia y a la Nación. Todos los que nos sentimos responsables debemos denunciar y detener inmediatamentelas actividades de demolición, antes de que la Casa de las Cadenas sea polvo en el recuerdo: en este instante todos somos Guanabacoa.
 
 Tomado de [La Luz Nocturna](https://laluznocturna.wordpress.com/2018/02/22/desastre-comienza-demolicion-de-la-casa-de-las-cadenas-de-guanabacoa/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

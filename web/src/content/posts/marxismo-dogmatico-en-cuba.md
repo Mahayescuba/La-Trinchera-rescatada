@@ -1,9 +1,9 @@
 ---
-title: "marxismo dogmatico en Cuba"
+title: "¿El “materialismo histórico” es una filosofía de la historia?"
 date: "2018-06-07T21:34:23+00:00"
 author: "Wilder Pérez Varona"
 category: "Marxismo"
-image: "/wp-content/uploads/2018/06/1-R-Zel0Fwc2I-INmjeN9HUQ.jpeg"
+image: ""
 ---
 Ponencia en el I Congreso Internacional Marx en el siglo XXI. Desafíos para la transformación del mundo actual y la Revolución bolivariana, Caracas, 5 de mayo de 2018.
 
@@ -106,15 +106,3 @@ Marx fue un pensador de las contradicciones, de los antagonismos. Hacerse cargo 
 Tomado de [La Tizza](https://medium.com/la-tiza/el-materialismo-hist%C3%B3rico-es-una-filosof%C3%ADa-de-la-historia-ad88f9a24e7b)
 
 [También puede interesar](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "El riesgo de las consignas"
 date: "2019-10-05T20:58:41+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/10/default.jpg"
+image: ""
 ---
 _Tal es el riesgo hipócrita de las consignas._
 
@@ -22,15 +22,3 @@ No se puede pretender que el policía deje de reprimir para que eduque, o que el
 
 Martí nos legó que culto es el hombre que hace bien lo que le corresponde, y no el que deja de hacer lo que le corresponde para hacer lo que le corresponde a otro. A mi lo que me corresponde es pensar como Giordan, y amar a mi pais como Giordan, y educar a mi familia en ese amor como Giordan, y actuar en consecuencia con ese amor y búsqueda de la Cuba de mis sueños. Y me correspondería trabajar con eficiencia en lo que sé hacer, si algunos de los que dicen “pensar como país”, no me hubieran dejado sin trabajo, y no me hubieran tratado de convertir en un paria o un asalariado del imperio, por pensar por mi mismo, y expresarlo.  
 Tal es el riesgo hipócrita de las consignas.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

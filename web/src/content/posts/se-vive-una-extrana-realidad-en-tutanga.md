@@ -3,7 +3,7 @@ title: "Crónicas de Tutanga (I)"
 date: "2019-02-26T07:20:29+00:00"
 author: "Ernesto Gutiérrez Leyva"
 category: "Onírica"
-image: "/wp-content/uploads/2019/02/PicsArt_02-26-02.15.46.jpg"
+image: ""
 ---
 Existe en el extremo sur del continente africano, un pequeño archipiélago, que aunque lejano a nuestro país, comparte con nosotros semejanzas culturales muy notables, quizás como resultado de la dilatada presencia colonial española, pero también de índole política: _La República Popular de Tutanga y Vahandadakí_ \[1\], se encuentra asediada hace décadas, por el rapaz imperialismo norteño de la vecina _Sudáfrica_, con quien también mantiene conflictos limítrofes dada la ocupación por esta de la _Bahía de Guanábana_.
 
@@ -22,15 +22,3 @@ Los resultados, no obstante, han sido controversiales: solamente un 9% de los vo
 Los resultados favorables al Sí ya eran esperados, pero se vaticinaba un margen mucho más estrecho entre ambas tendencias, margen que lamentablemente, no fue capaz de ser registrado por el sistema tutano.
 
 \[1\] En la lengua nativa, el tutano, la “h” suena como “j” y siempre que aparece más de una letra “d” en la palabra, debe pronunciarse la segunda como “de”.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

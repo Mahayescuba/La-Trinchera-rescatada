@@ -53,17 +53,3 @@ Para resumir: en lo esencial la libertad humana no depende de la existencia o no
 A ello conducen por un lado la tendencia a la concentración de la propiedad que genera en sí mismo el Mercado, la cual solo puede ser controlada al cederle poder al Estado para su control (con lo que también impulsamos el proceso de concentración); y por el otro la necesidad de aplicar regulaciones cada vez más estrictas, aplicadas a cada vez más aspectos de la vida humana, debido a los problemas que siempre generará la convivencia en un espacio limitado, inmutable.  
 La Libertad es un asunto de Espacio. Por lo tanto la única manera de conservar nuestra cultura occidental, basada antes que nada en ese valor, fundada sobre ese Signo, está no en conservar a ultranza un sistema económico que en realidad es al presente sólo una sombra de lo que fue, sino en volver a abrir espacios nuevos ante nosotros.  
 Pero ello implica en los inicios un esfuerzo común…
-
-[Otro texto del autor](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

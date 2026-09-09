@@ -1,32 +1,16 @@
 ---
-title: "Estado constructivo en Cuba La Trinchera Por: Julio Pernús"
+title: "Entre escombros y algunos sacos de esperanza"
 date: "2021-01-22T17:00:00+00:00"
 author: "Julio Pernús"
 category: "Opinión"
-image: "/wp-content/uploads/2021/01/Luke-OSullivan.jpg"
+image: ""
 ---
 Ver llover tiene su lado hermoso. Sin embargo, cuando algunos cuentan la inundación que provoca cada aguacero en su casa, la lluvia pierde mucho de su encanto. En Cuba, el estado constructivo de las ciudades parece ser un problema que cada criollo debe cargar en su mochila.
 
 En La Habana, la imagen de la bahía es digna de ver y disfrutar. De alguna forma ese antiguo paisaje citadino es capaz de ofrecer algunos momentos de paz. Se han hecho esfuerzos por dinamizar los entornos constructivos del país. Los que viajan a Santiago de Cuba disfrutan con el rejuvenecimiento de esa ciudad; Cienfuegos es también un ejemplo coherente de educación cívica ciudadana en pos de preservar la limpieza urbanística.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-futuro-en-llamas/
 
 Sin embargo, hay decisiones que asustan. Como la de quitar algunos árboles del habanero Parque G y, en su lugar, sembrar unos falsos “adocretos” que no aportan mucha estética al paisaje. También se ha construido y deconstruido un muro frente al malecón capitalino, sin dejar tiempo a opinar. Nada, que la ciudad maravilla sufre algunas “maravillosas” ideas, como esa que ha propuesto alzar un hotel gigante en medio del Vedado, sin importar la cantidad de argumentos de arquitectos cubanos señalando los riesgos para el entorno capitalino de tamaña construcción.
 
 En Guanabacoa, cada iglesia colonial parece arrastrar sus propias heridas constructivas. Por eso, el P. Alberto, escolapio, agradece a Dios que el hueco en el techo de la iglesia parroquial, al final del templo, aún permite que los fieles puedan sentarse en un banco sin ver peligrar su vida. Desde 1959 hasta el 2018 ocurrieron en Cuba 60.975 derrumbes, según el periódico Granma. De lejos, esta cifra de mil derrumbes anuales suele esconder fríamente temas como la muerte de tres niñas en el municipio Habana Vieja, debido al desplome de un techo sobre sus vidas.
 
 En la actualidad, el 47% de las viviendas cubanas necesita rehabilitarse y el 5% sufre peligro de [derrumbe](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjv6OqHxrDuAhVbCs0KHQbKCuQQFjAEegQIBRAC&url=http%3A%2F%2Fwww.cubadebate.cu%2Fetiqueta%2Fderrumbe%2F&usg=AOvVaw3ddI7zXwfsRlF_Pc6_6sil). Según el sitio _Cubadebate_, La Habana, con una población de 2.1 millones de habitantes, tiene un déficit habitacional de 185.348 inmuebles. En la capital se requiere hacer 43.854 hogares para poder ayudar a personas que han perdido sus casas y se encuentran habitando albergues estatales. La cantidad de gente andando por el medio de cualquier calle en Centro Habana, puede hacer pensar que fueran transeúntes con deseo de demostrar su valor a los choferes. Pero, hace unos meses, cerca del mercado de Cuatro Caminos, un techo se desplomó y desde ahora caminar por el medio de la calle luce costumbre de gente precavida. Un profesor de ingeniería civil en la CUJAE explicaba en una conversación a varios jóvenes: “Hay algunos sacos de esperanza en las cooperativas privadas de la construcción y la prioridad política dirigida a la vivienda por parte del gobierno, pero esos sacos, si les sigue pasando el tiempo se convertirán en escombros”.
-
-estado constructivo en Cuba, estado constructivo en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)

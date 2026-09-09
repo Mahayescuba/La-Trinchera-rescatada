@@ -1,9 +1,9 @@
 ---
-title: "teoria del lenguaje La inercia de la palabra"
+title: "La inercia de la palabra"
 date: "2018-04-09T12:00:45+00:00"
 author: "Carlos Ávila Villamar"
 category: "Teoría"
-image: "/wp-content/uploads/2018/04/René-Magritte-Cara-de-nino.jpg"
+image: ""
 ---
 Los conceptos son abstracciones de la realidad sensorial, cosas separadas que a golpe de costumbre se _identifican_, es decir, consiguen pensarse como una sola. El gavilán, una especie de pájaro, es a la vez la mancha que se ve en el cielo, la sombra inseparable que recorre la planicie, el grito que lanza antes de atacar a su presa, el dibujo desteñido de una enciclopedia, el gavilán engendrado por el sueño, la palabra misma, que no es más que una sucesión de gruñidos humanos, nuestro pensamiento identifica bajo el nombre la percepción de incontables fragmentos de realidad que entre más uno lo piensa menos relación guardan entre sí.
 
@@ -16,15 +16,3 @@ No debe por esto pensar el lector que instintivamente construimos siempre los mi
 Incontables asociaciones rebuscadas y extravagantes han atravesado la mente de los hombres, pero solo han sobrevivido aquellas que hayan sido inmortalizadas con un nombre, y que hayan conservado alguna utilidad. La herencia cultural del lenguaje constituye uno de los fenómenos más asombrosos de la especie humana. Desconozco si los sonidos que ciertos animales utilizan para comunicarse se emiten por instinto o por imitación, lo cierto es que sin duda la complejidad de las lenguas humanas hubiera costado millones y millones de años para quedar impregnada en los genes, en el instinto. Me siento tentado a imaginar una humanidad en la que los niños nacieran con el conocimiento de las palabras, y que por tanto las mismas constituyeran objetos inmutables y sagrados. Tal vez fuera esta una limitante y no una ventaja para la especie, pero confieso que carezco de la capacidad necesaria para emitir un criterio de peso al respecto. Nuestra humanidad habla por imitación, y por tanto piensa fundamentalmente por imitación. Así como las hormigas caminan en línea recta a causa del rastro de olor que dejan las exploradoras, la humanidad piensa en base a las abstracciones de nuestros antepasados. Pensar, de momento, nos parece imposible.
 
 [También puede interesar](/teoria/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

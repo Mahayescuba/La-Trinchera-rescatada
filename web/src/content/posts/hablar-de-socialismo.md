@@ -3,7 +3,7 @@ title: "Hablar de socialismo"
 date: "2019-05-03T05:05:31+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2019/05/IMG_20190425_022950.jpg"
+image: ""
 ---
 La teoría del socialismo, necesita una teoría seria del capitalismo.
 
@@ -37,15 +37,3 @@ Dicha relación entre capitalismo y socialismo como partes de ser uno evolución
 Es por eso, que la sugerencia que hago, es a conocer el capitalismo, a estudiarlo bien. Que de este, emane la idea de un socialismo, no como un deber ser, sino como el tránsito al que se pudiera llegar de este sociedad a una más justa, y donde el camino hacia hacer orgánico ese nuevo sistema esté señalado, de ser posible. Entonces, hablemos de capitalismo, y de cómo deviene este. Tal vez así, estemos más cerca cuando hablemos de socialismo, de hablar de socialismo.
 
 **Publicado originalmente en Rebelión**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,15 +3,15 @@ title: "Crónica de una vergüenza nacional"
 date: "2020-06-25T17:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/06/Choco-Empujando-el-muro.jpg"
+image: ""
 ---
 En 1912, el ejército reprimió la sublevación del partido de los Independientes de Color. Como debe hacerse siempre, lo único serio y honrado es hurgar en las fuentes y reconstruir los acontecimientos con objetividad.
 
 **Por: Mario Valdés Navia**
 
-En Cuba existe una etnia: la cubana. Aquí muy pocos se autorreconocen como euros, afros, o chinocubanos. No obstante, ahora, cuando a raíz del asesinato de Floyd en otras partes derriban estatuas de Cristobal Colón, conquistadores y mercaderes de la trata, un grupo de extremistas pretende destruir el conjunto escultórico al [Mayor General José Miguel Gómez](https://es.wikipedia.org/wiki/Monumento_a_Jos%C3%A9_Miguel_G%C3%B3mez_\(La_Habana\)), en 29 y G,[\[1\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftn1) con el pretexto de que era el presidente cuando hace 108 años, en 1912, el ejército reprimió la sublevación del partido de los Independientes de Color (PIC).
+En Cuba existe una etnia: la cubana. Aquí muy pocos se autorreconocen como euros, afros, o chinocubanos. No obstante, ahora, cuando a raíz del asesinato de Floyd en otras partes derriban estatuas de Cristobal Colón, conquistadores y mercaderes de la trata, un grupo de extremistas pretende destruir el conjunto escultórico al [Mayor General José Miguel Gómez](https://es.wikipedia.org/wiki/Monumento_a_Jos%C3%A9_Miguel_G%C3%B3mez_\(La_Habana\)), en 29 y G,\[1\] con el pretexto de que era el presidente cuando hace 108 años, en 1912, el ejército reprimió la sublevación del partido de los Independientes de Color (PIC).
 
-Hace un decenio que este triste episodio de nuestra historia viene siendo revisitado por investigadores y estudiosos. También por manipuladores que intentan reescribir la historia a partir de falsedades, verdades a medias, ocultamientos y tergiversaciones, en pos de argumentar sus convicciones apriorísticas.[\[2\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftn2)
+Hace un decenio que este triste episodio de nuestra historia viene siendo revisitado por investigadores y estudiosos. También por manipuladores que intentan reescribir la historia a partir de falsedades, verdades a medias, ocultamientos y tergiversaciones, en pos de argumentar sus convicciones apriorísticas.\[2\]
 
 Como debe hacerse siempre antes de juzgar, lo único serio y honrado es hurgar en las fuentes y reconstruir los acontecimientos con objetividad. Informarse del contexto histórico y tratar de comprender los valores y motivaciones que daban sentido al comportamiento de las personas en un momento determinado es lo que corresponde al estudioso de la historia.
 
@@ -19,9 +19,9 @@ Como el espacio de un post es insuficiente para desentrañar lo ocurrido, aporta
 
 1891: Juan Gualberto Gómez refunda el _Directorio de la Raza de Color_ (DRC), en pos de unir a negros y mulatos de la Isla tras los ideales del PRC. En lo social, postulaba que la instrucción era la única base de la prosperidad futura de la _raza de color_.
 
-1899, Septiembre: Huelga de los albañiles. El maestro de obras, Evaristo Estenoz Corominas,[\[3\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftn3) fue uno de sus dirigentes. Detenido por las autoridades norteamericanas, tras ser liberado ayudó a terminar la huelga.
+1899, Septiembre: Huelga de los albañiles. El maestro de obras, Evaristo Estenoz Corominas,\[3\] fue uno de sus dirigentes. Detenido por las autoridades norteamericanas, tras ser liberado ayudó a terminar la huelga.
 
-1899-1909: Génesis, formación y consolidación del Grupo de Poder Villareño, encabezado por el general José Miguel Gómez Gómez (1851-1921), afamado jefe militar y hombre de confianza del Generalísimo. Representaba los intereses de las capas dominantes y amplios sectores poblacionales de la provincia de Santa Clara −la segunda más poblada y mayor productora de azúcar− y territorios adyacentes. Lo formaban exmilitares mambises, intelectuales y capitalistas de la región.[\[4\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftn4)
+1899-1909: Génesis, formación y consolidación del Grupo de Poder Villareño, encabezado por el general José Miguel Gómez Gómez (1851-1921), afamado jefe militar y hombre de confianza del Generalísimo. Representaba los intereses de las capas dominantes y amplios sectores poblacionales de la provincia de Santa Clara −la segunda más poblada y mayor productora de azúcar− y territorios adyacentes. Lo formaban exmilitares mambises, intelectuales y capitalistas de la región.\[4\]
 
 Entre sus rasgos característicos, relacionados con lo ocurrido en 1912, se hallan:
 
@@ -44,13 +44,13 @@ Entre sus rasgos característicos, relacionados con lo ocurrido en 1912, se hall
 
 1908 Enero: Elecciones provinciales y municipales. Los liberales acudieron divididos entre _zayistas_ (_tradicionales_) y _miguelistas_ (_históricos_) y esto los perjudicó, por lo que se fusionaron nuevamente tras la candidatura presidencial Gómez- Zayas.
 
-Agosto 7: Como un desprendimiento del PLN surgió la _Agrupación Independiente de Color_ −pronto denominado _Partido Independiente de Color_ (PIC)−, presidida por Evaristo Estenoz, con el fin de expresar los intereses de la _raza negra_ en las nuevas elecciones. Su “Declaración de Principios” incluía: poner fin a la discriminación racial, igualdad en los puestos públicos y diplomáticos, apertura universal a la inmigración,[\[5\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftn5) y apoyo a demandas de los sectores populares. Aunque no planteaba que fuera una entidad solo para negros y mulatos, tanto su nombre como sus listas de candidatura así lo mostraron siempre.
+Agosto 7: Como un desprendimiento del PLN surgió la _Agrupación Independiente de Color_ −pronto denominado _Partido Independiente de Color_ (PIC)−, presidida por Evaristo Estenoz, con el fin de expresar los intereses de la _raza negra_ en las nuevas elecciones. Su “Declaración de Principios” incluía: poner fin a la discriminación racial, igualdad en los puestos públicos y diplomáticos, apertura universal a la inmigración,\[5\] y apoyo a demandas de los sectores populares. Aunque no planteaba que fuera una entidad solo para negros y mulatos, tanto su nombre como sus listas de candidatura así lo mostraron siempre.
 
-Noviembre: Elecciones generales con tres partidos. El binomio liberal Gómez-Zayas ganó la presidencia, todo el Senado y 51 puestos en la Cámara, frente a 32 conservadores. El PIC, que solo se presentó a nivel municipal y en las  provincias La Habana y Santa Clara, obtuvo solo unos 2000 votos y ningún escaño, aunque 13 representantes y un senador negros y mulatos fueron electos por los dos grandes partidos.[\[6\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftn6) Se demostró que no había consenso entre la población negra, y menos aún entre los veteranos, para la creación de un partido de una raza.
+Noviembre: Elecciones generales con tres partidos. El binomio liberal Gómez-Zayas ganó la presidencia, todo el Senado y 51 puestos en la Cámara, frente a 32 conservadores. El PIC, que solo se presentó a nivel municipal y en las  provincias La Habana y Santa Clara, obtuvo solo unos 2000 votos y ningún escaño, aunque 13 representantes y un senador negros y mulatos fueron electos por los dos grandes partidos.\[6\] Se demostró que no había consenso entre la población negra, y menos aún entre los veteranos, para la creación de un partido de una raza.
 
 1909-1913: William Taft –el segundo interventor de Cuba−, asume la presidencia. Aboga por la _Diplomacia del dólar_, variante complementaria del _Big Stick,_ para garantizar la hegemonía imperial en el área. Para la Isla, definió su _política preventiva_: “hacer todo lo posible para inducir a Cuba a evitar todos los motivos que pudieran hacer posible la intervención.”
 
-1909 Enero 28: Se inicia el primer gobierno liberal, con gran expectativa nacional y el compromiso de asegurar el funcionamiento del sistema político para preservar la soberanía. En su gestión implementó una avanzada legislación social que incluyó la _Ley Arteaga_ −por el representante negro Emilio Arteaga− que prohibía el pago de jornales en vales o fichas; la _Ley del cierre obligatorio_ a las seis de la tarde en los establecimientos de comercio y talleres urbanos, la _Ley del jornal mínimo de los obreros del Estado, la provincia y el municipio_ y la construcción del primer barrio obrero, _Pogolotti_, en Marianao.[\[7\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftn7)
+1909 Enero 28: Se inicia el primer gobierno liberal, con gran expectativa nacional y el compromiso de asegurar el funcionamiento del sistema político para preservar la soberanía. En su gestión implementó una avanzada legislación social que incluyó la _Ley Arteaga_ −por el representante negro Emilio Arteaga− que prohibía el pago de jornales en vales o fichas; la _Ley del cierre obligatorio_ a las seis de la tarde en los establecimientos de comercio y talleres urbanos, la _Ley del jornal mínimo de los obreros del Estado, la provincia y el municipio_ y la construcción del primer barrio obrero, _Pogolotti_, en Marianao.\[7\]
 
 Como estadista, Gómez fomentó el espíritu de negociación en el ejercicio del poder y dio cabida a las opiniones de sus adversarios políticos, a quienes no impidió ocupar cargos públicos. Fundó un sistema de instituciones para preservar y promover la cultura nacional, tales como: Archivo y Biblioteca nacionales (reorganizados), las academias de la Historia y Nacional de Artes y Letras, sociedades de Fomento del Teatro, Estudios Literarios y de Conferencias, Museo Nacional, Consejo Superior de Bibliotecas y la erección de la estatua de Maceo en La Habana.
 
@@ -92,7 +92,7 @@ Mayo 17: Primera acción armada en las cercanías de El Cristo.
 
 Mayo 18: Acto del PIC en Santiago de Cuba, con presencia de Estenoz. Se amenaza con que correría la sangre en 24 horas si no se derogaba la Enmienda Morúa.
 
-Mayo 20: Alzamiento de los IC en Oriente. Fiados de las costumbres conciliadoras de José Miguel, el PIC desata una aparatosa “protesta armada”, aunque apenas disponían de armas. Solo fue numerosa en los municipios Guantánamo y San Luis, en Oriente donde se alzaron los dos jefes principales, Estenoz y Pedro Ivonet.[\[1\]](applewebdata://3EE8A052-4B1B-4120-87F3-28DFC98129E8#_ftn1) En el resto del país solo hubo pequeños brotes.
+Mayo 20: Alzamiento de los IC en Oriente. Fiados de las costumbres conciliadoras de José Miguel, el PIC desata una aparatosa “protesta armada”, aunque apenas disponían de armas. Solo fue numerosa en los municipios Guantánamo y San Luis, en Oriente donde se alzaron los dos jefes principales, Estenoz y Pedro Ivonet.\[1\] En el resto del país solo hubo pequeños brotes.
 
 Para reprimirlos parten de inmediato los _Voluntarios de Occidente_, del coronel Manuel Piedra Martell. Subestimando el poder militar y de convocatoria del gobierno, Estenoz creía poder contar con 15,000 hombres −la misma cantidad de que disponía el ejército nacional recién creado y la Guardia Rural−. Iniciada la sublevación, el gobierno repartió 17,586 fusiles entre sus fieles de todas las provincias del país, fundamentalmente en Oriente (9,927), La Habana (3,037) y Las Villas (2,890).
 
@@ -138,40 +138,30 @@ La vergonzante orgía de sangre en las montañas orientales sumió en el olvido 
 
 No comprendió que la lucha contra la discriminación racial jamás podría triunfar aisladamente. Que para triunfar tenía que vincularse a la lucha de todos los sectores oprimidos de la población cubana de la época, como los obreros, los campesinos, los jóvenes y mujeres. Pues únicamente la unión con todos los oprimidos, en la lucha por las demandas de todos, puede conseguir la victoria sobre los opresores.
 
-Estenoz y sus correligionarios, aun cuando no se lo propusieron turbiamente, tomaron el camino de la división del pueblo cubano, no el camino de la unidad. Sintieron el dolor amargo del sector a que pertenecían y trataron de aliviarlo por medio de la lucha, lo cual era leal y correcto. Pero no supieron orientarse con acierto.[\[2\]](applewebdata://3EE8A052-4B1B-4120-87F3-28DFC98129E8#_ftn2)
+Estenoz y sus correligionarios, aun cuando no se lo propusieron turbiamente, tomaron el camino de la división del pueblo cubano, no el camino de la unidad. Sintieron el dolor amargo del sector a que pertenecían y trataron de aliviarlo por medio de la lucha, lo cual era leal y correcto. Pero no supieron orientarse con acierto.\[2\]
 
 A 108 años de aquellos tristes y complejos acontecimientos, que pusieron en peligro la existencia misma de la república y enfrentaron a compañeros que habían peleado juntos en la manigua, no será destruyendo monumentos levantados con el aporte popular, sino enfocándonos en resolver creadoramente los problemas actuales de Cuba, como saldremos adelante TODOS LOS CUBANOS: negros, blancos, amarillos y mestizos de todo tipo.
 
 Para contactar al autor: mariojuanvaldes@gmail.com
 
-[\[1\]](applewebdata://3EE8A052-4B1B-4120-87F3-28DFC98129E8#_ftnref1) Coronel mambí que participó con Maceo en la Invasión y la campaña de Pinar del Río.
+\[1\] Coronel mambí que participó con Maceo en la Invasión y la campaña de Pinar del Río.
 
-[\[2\]](applewebdata://3EE8A052-4B1B-4120-87F3-28DFC98129E8#_ftnref2) “El cincuentenario de un gran crimen”, p.11.
+\[2\] “El cincuentenario de un gran crimen”, p.11.
 
-[\[1\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftnref1) Erigido en 1936 mediante el aporte popular −no mayor de 20 centavos− y rehabilitado en 1994 por la Oficina del Historiador de la Habana.
+\[1\] Erigido en 1936 mediante el aporte popular −no mayor de 20 centavos− y rehabilitado en 1994 por la Oficina del Historiador de la Habana.
 
-[\[2\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftnref2) En estos días, se ha llegado a afirmar, entre otros dislates, que en 1912 los blancos pretendieron hacer una _limpieza étnica_ con la población negra.
+\[2\] En estos días, se ha llegado a afirmar, entre otros dislates, que en 1912 los blancos pretendieron hacer una _limpieza étnica_ con la población negra.
 
-[\[3\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftnref3) (Santiago de Cuba, 13-11-1872). Albañil, teniente mambí en el, tras la huelga de 1899, viajó a EEUU y, a su regreso, se hizo contratista de obras. En 1908 era un liberal _histórico,_ seguidor de José Miguel.
+\[3\] (Santiago de Cuba, 13-11-1872). Albañil, teniente mambí en el, tras la huelga de 1899, viajó a EEUU y, a su regreso, se hizo contratista de obras. En 1908 era un liberal _histórico,_ seguidor de José Miguel.
 
-[\[4\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftnref4) Otros miembros prominentes relacionados con la _Guerrita de 1912_ fueron: Martín Morúa, José de Jesús Monteagudo, Gerardo Machado, Orestes Ferrara; Carlos García, Federico Laredo; Carlos y Pablo Mendieta.
+\[4\] Otros miembros prominentes relacionados con la _Guerrita de 1912_ fueron: Martín Morúa, José de Jesús Monteagudo, Gerardo Machado, Orestes Ferrara; Carlos García, Federico Laredo; Carlos y Pablo Mendieta.
 
-[\[5\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftnref5) Aspiración contraria a los intereses de los obreros cubanos porque la inmigración antillana, aspiración de las compañías yanquis, depreciaba los salarios de los nacionales.
+\[5\] Aspiración contraria a los intereses de los obreros cubanos porque la inmigración antillana, aspiración de las compañías yanquis, depreciaba los salarios de los nacionales.
 
-[\[6\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftnref6) Estenoz no llegó a los 200 votos. Entre los representantes negros electos estaban Agustín Cebreco, Rafael Serra, Lino D’Ou y Generoso Campos; el Senador era Nicolás Guillén (padre).
+\[6\] Estenoz no llegó a los 200 votos. Entre los representantes negros electos estaban Agustín Cebreco, Rafael Serra, Lino D’Ou y Generoso Campos; el Senador era Nicolás Guillén (padre).
 
-[\[7\]](applewebdata://597EA8D1-BFC9-4A7D-A4C5-AA9AE296C3CD#_ftnref7) Por su incidencia en la vida política y la edificación de obras sociales, como el Hospital de Maternidad, América Arias es considerada la más importante de las Primeras Damas cubanas.
+\[7\] Por su incidencia en la vida política y la edificación de obras sociales, como el Hospital de Maternidad, América Arias es considerada la más importante de las Primeras Damas cubanas.
 
 Tomado de [La Joven Cuba](https://jovencuba.com/2020/06/25/verguenza-nacional/)
 
 [Sobre el mismo tema](/historia/)
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

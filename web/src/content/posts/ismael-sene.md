@@ -1,9 +1,9 @@
 ---
-title: "Béisbol"
+title: "El grand Slam de un sabio"
 date: "2020-01-21T23:36:20+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2020/01/IMG_20190216_110133.jpg"
+image: ""
 ---
 Béisbol.
 
@@ -57,8 +57,6 @@ La actitud con que me recibió el día en que le entregaron el facsímil de su l
 Su visión de vida constituía la de un ser humano satisfecho y pleno. Incansable pesar de la jubilación, lo mismo conversaba desde el sillón de la sala donde me recibió muchas veces o en la cama recostado frente a un stan lleno de libros sobre béisbol, conversando por teléfono o con el visitante de ocasión con quien se comportaba afable y ocurrente.  
 Martiano como pocos, Sené tenía sin proponérselo capacidad de tocar almas, de conmover con la palabra precisa, en cualquiera de los instantes en que su verbo se tornaba el sentir de todos ya fuera en la reunión anual de la peña Matín Dihigo, en Béisbol de Siempre o en cualquier acto para rendir homenaje a los protagonistas de la historia beisbolera. La misma historia que atesoraba en su mente como el más fresco de los recuerdos si era necesario profundizar sobre cualquier hecho particular. Posiblemente lo más singular en Sené es que nunca fue un buen pelotero, testimonio expresado por el mismo cuando más de una vez lo escuché hacer anécdotas sobre lo terrible que era como jugador. Pero como apasionado del juego del diamante, era manager, pitcher, cátcher y cuarto bate, todo al mismo tiempo. Capaz de conectar el hit a la hora buena para o ponchar en el momento preciso cuando el juego estaba caliente con las bases llenas.
 
-![](/wp-content/uploads/2020/01/img_20190216_1101336435717540408757284.jpg)
-
 La presencia de un proceso inevitable que siempre avanza, la muerte, nunca la sentí cerca de Sené, incluso cuando pasaba cerca de la funeraria de calzada y me decía: Ojalá y nunca tenga que venir aquí cuando suceda. Simplemente porque no era sinónimo del hombre quien unos días un poco maltrecho y otros más repuesto me daba la bienvenida a su hogar. La mirada sobre lo predecible también fue un tema de conversación que cupo en la brevedad de un diálogo:  
 \-Mira Alejandro, cuando suceda que vamos a hacer, yo hice todo lo que me gustó durante bastante tiempo y ahora lo sigo haciendo con Yasel y el programa.
 
@@ -69,15 +67,3 @@ Habíamos quedado de vernos en esta semana para conversar como siempre y esperar
 Viejo, me atrevo ahora a llamarte así porque siempre lo traté de usted, como símbolo del respeto conjugado con una admiración que ahora se trasluce en tristeza, en incertidumbre por no verte en vida de nuevo. Pero te tengo aquí en mi celular, con esa foto donde pediste que te pusieran más pelo y te quitaran algunos años, en esa entrevista mágica que sinceramente sigue siendo mi preferida. Cuando me dijeron que ya no estabas, tomé el teléfono, busque la grabación y me hiciste sonreír nuevamente desde un pasado guardado en datos informáticos que, con un solo movimiento, me hacen verte otra vez orgulloso de vivir la ventaja de ser viejo. Es increíble los azares de la vida, estreché tu mano por primera vez un 18 de enero y te vas precisamente un 18 de enero en el último juego de la Serie Nacional, no sé si creíste en cosas del destino, pero lo cierto es que así fue, te despediste de este mundo con un juego de pelota.
 
 No descanses Sené porque conociéndote bien, nunca te gustó descansar, aunque aparentemente lo hacías, porque incluso acostado en la cama leías todo el tiempo bajo esa lamparita de dibujos animados. No descanses, encuéntrate ahora que puedes con Babe Ruth, con Mickey Mantle, con Esteban Bellán, con Cristóbal Torriente, con Yogi Berra, con Martín Dihigo, háblale de la peña que lleva su nombre y háblales de Béisbol de Siempre, de Yasel, de los amigos que aquí te extrañamos, que no nos resignamos a dejarte ir. Viejo, afinca bien los pies en el cajón de bateo en el césped de tu estadio, conecta un Grand Slam para desde la distancia gritar junto a ti: **se fue de home run**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

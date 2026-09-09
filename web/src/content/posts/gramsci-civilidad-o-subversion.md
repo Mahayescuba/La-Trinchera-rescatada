@@ -3,7 +3,7 @@ title: "Gramsci: ¿civilidad versus subversión?"
 date: "2019-03-24T03:29:43+00:00"
 author: "María del Pilar Díaz Castañón"
 category: "Marxismo"
-image: "/wp-content/uploads/2019/03/PicsArt_03-23-11.10.43.jpg"
+image: ""
 ---
 El uso recurrente y disímil del legado de Antonio Gramsci podría ser un ejemplo clásico de reclamo ambivalente por tirios y troyanos, con iguales pretensiones de validez y legitimación. Los conceptos de bloque histórico, hegemonía, subversión social -por solo mencionar los más divulgados- han sido objeto de amplias reflexiones, tanto teóricas como políticas, entre las que se halla también por supuesto la tendencia de recuperar el verdadero pensamiento gramsciano, para, como siempre, emplearlo en la validación de prácticas coyunturales bien concretas.
 
@@ -125,16 +125,4 @@ Pues el problema de las revoluciones es seguirlo siendo.
 
 **Este artículo corresponde a una ponencia realizada en el Coloquio internacional sobre Antonio Gramsci. Centro Juan Marinello, La Habana, 18 al 21 de febrero de 1997.**
 
-**Antonio Gramsci Antonio Gramsci Antonio Gramsci Antonio Gramsci Antonio Gramsci Antonio Gramsci Antonio Gramsci Antonio Gramsci** 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+**Antonio Gramsci Antonio Gramsci Antonio Gramsci Antonio Gramsci Antonio Gramsci Antonio Gramsci Antonio Gramsci Antonio Gramsci**

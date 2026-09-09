@@ -3,7 +3,7 @@ title: "El Golpe de Estado de 1952 y nuestra Soberanía Nacional"
 date: "2020-07-02T16:00:08+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/07/The-Mergers-Moleiros-Gallery-05.jpg"
+image: ""
 ---
 Que lo del periodo de soberanía habría sido una debilidad americana, y que consecuentemente solo mediante la movilización total de la Nación y su puesta incondicional a las órdenes de alguna voluntad superior era y es posible mantener la soberanía nacional frente a nuestro vecino del Norte.
 
@@ -52,13 +52,3 @@ El partido comunista (PSP) había visto como las masas le retiraban su ya escaso
 Por último, pretender que los norteamericanos promovieron el golpe para detener la segura victoria del Partido Ortodoxo, resulta ridículo. Preguntémonos: ¿Le temerían los “yanquis” al personalista partido de Chibás, el partido que estaba por completo en manos del más implacable y popular enemigo del comunismo en Cuba? Por demás el único de los políticos cubanos de primera fila que se había opuesto a la ayuda a la Guatemala de Arévalo, o al envío de la mencionada comisión parlamentaria a investigar lo ocurrido durante la sublevación de los independentistas puertorriqueños en 1950… Con lo que a las claras mostraba el “Adalid” una posición frente a Washington que más que de timorata más bien cabía clasificar que de pro-americana, y con la que de seguro estos habrían estado muy complacidos.
 
 Lo cierto es que los americanos no tuvieron nada que ver en el suceso que trastocó nuestra vida nacional hace pronto 70 años. Y que por tanto nuestra democracia no cayó entonces por haber sido demasiado independiente de los EE.UU., como lo era, en base a las formas demasiado plurales connaturales a este sistema político. Fueron fuerzas y contingencias internas las que dieron al traste con un periodo de nuestra historia en que la Nación Cubana ha sido soberana.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    [José Gabriel Barrenechea](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-gabriel-barrenechea/)
-    
-    Científico, escritor y activista

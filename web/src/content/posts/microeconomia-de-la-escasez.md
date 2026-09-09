@@ -3,7 +3,7 @@ title: "La microeconomía de la escasez"
 date: "2020-10-20T09:30:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/10/Y-la-noche-que-se-acumula.-2004-2005-oleo-sobre-lienzo-100x100cm.jpg"
+image: ""
 ---
 La microeconomía clásica es una disciplina que viene desde la segunda mitad del siglo XIX. En buena medida, se levanta sobre supuestos mecanicistas. El más importante de ellos es que el sujeto optimiza en clave de cálculo diferencial y con información perfecta (un rezago del uso desproporcionado de la razón instrumental). Es un enfoque que se sigue estudiando y empleando, pues siendo justos, es una ciencia que aporta al menos un objeto de estudio y determinados esquemas válidos.
 
@@ -14,10 +14,6 @@ Teniendo en cuenta que socialismo es un término viciado, si de hacer ciencia se
 Actualmente, una parte de los economistas cubanos suele concentrarse en los escenarios macroeconómicos o sectoriales, incluso en lo [monetario](/economia-politica/). Por otro lado, no existe un discurso extendido en los medios y en espacios académicos alrededor de una microeconomía de la escasez, al menos desde lo que he podido apreciar.
 
 Dicha **microeconomía de la escasez**, de existir, necesitaría particularidades o supuestos que la diferencien de la microeconomía clásica, e incluso de mutaciones más avanzadas como la aun inexplorada en Cuba [economía conductual](https://economipedia.com/definiciones/economia-conductual-o-del-comportamiento.html).
-
-> [El contexto importa](/economia-en-cuba/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«El contexto importa» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/economia-en-cuba/inflacion-y-tasa-de-cambio-en-cuba/embed/#?secret=0wdj01JlSD" data-secret="0wdj01JlSD" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 Acá muestro un listado con algunos elementos a tener en cuenta en el estudio de **la microeconomía aplicada a escenarios de escasez**, que pueden ser útiles a la Cuba actual.
 
@@ -33,15 +29,3 @@ Acá muestro un listado con algunos elementos a tener en cuenta en el estudio de
 Por lo que, y esto es esencial, en condiciones de escasez, el productor, sin poder de mercado, tiene pocos incentivos para aumentar la producción. Puede darse el caso de que la aumente hasta donde le interesen las ganancias y eso no implique la eliminación de la escasez. Esto, además de las propias limitaciones expansivas de capital, marco legal, entre otros.
 
 (1) A pesar de que la microeconomía se define como una ciencia que estudia la asignación de recursos escasos (limitados, en una variante más común), la escasez a la que se hace referencia en este texto está asociada a una incapacidad del ciclo producto, a una insuficiencia de la oferta respecto a la demanda.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.desdetutrinchera.com)

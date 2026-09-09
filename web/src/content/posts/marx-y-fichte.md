@@ -5,8 +5,6 @@ author: ""
 category: ""
 image: ""
 ---
-Marx va tener una influencia en el pensamiento de Fichte, cuando se refiere a la idea filosófica de “concepción del hombre” y de su “práctica” por eso es tan importante.
-
 Johann Gottlieb Fichte es un filósofo Alemán del siglo XIX, que va ser parte de la filosofía idealista, junto a Schelling, Hegel, Hölderlin en su momento de lucidez antes de la locura, Spinoza, Herdery muchos más. Todos ellos influenciados por Immanuel Kant, que plantea una razón dividida en dos partes, la teórica y la práctica que se convierte en la acción ética, Fichte no abandona esa idea y parte de la acción práctica.
 
 El idealismo es un movimiento filosófico que se genera en Alemania a partir de la filosofía Kantiana, muchos comparan ese momento como un esplendor parecido al de Atenas, y de por medio hay un romanticismopero la idea que va enriqueciendo esas ideas es la del ABSOLUTO mediante la autoconciencia.

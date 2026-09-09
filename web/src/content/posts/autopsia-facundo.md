@@ -3,7 +3,7 @@ title: "La autopsia de Facundo"
 date: "2020-01-09T18:03:56+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/01/IMG_20200108_003940_259.jpg"
+image: ""
 ---
 Facundo. 
 
@@ -18,15 +18,3 @@ Por tal de hablar en pretérito se sataniza a los actores y realizadores del pro
 El congraciado con el enemigo es Andy Vázquez, eso queda claro en los artículos y comentarios reproducidos en el sitio La Pupila Insomne (de Cubadebate paquí hablar). Publicar un video choteando el esfuerzo que significó concentrar en el [Mercado de Cuatro Caminos](https://www.ecured.cu/Plaza_de_Cuatro_Caminos) el poco puré de tomate y las escasas cervezas que quedaban en el país se ve feo entre hermanos de lucha. El suceso (el video, no la masacre) deja como enseñanza que, antes de emprender un programa humorístico, los guionistas, actores y realizadores deberían sumarse a un curso en la Escuela Superior del Partido. Que aprendan que la cosa no está para chistecitos, que pa videos graciosos está el gordito simpático que va a meter en cintura no su sobrepeso, sino los programas bajo su jurisdicción. «Cuando la política —ha dicho Esteban Morales a propósito de la polémica— selecciona erróneamente sus vías para conectarse con el humorismo, lo único que hace, como ahora, es el ridículo».  
 Una buena noticia: «Vivir del cuento» no desaparece, solo se traslada de set. Lo seguiremos viendo mañana, tarde y noche en esa bola (nunca mejor dicho) de dirigentes que para tapiar su ineptitud vierten lodo sobre los dirigidos y dejan para sí «lo bueno no pasa». A los que piensan que la nueva sociedad se construye con seres domesticados, incólumes ante la injusticia, aplaudidores de la infamia, les tengo una mala: eso no es socialismo ni un tolete.  
 La autopsia de Facundo: dicen los forenses que no hubo que abrir, el caso está cerrado: a Facundo le tiraron a matar… ¡y lo mataron!
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

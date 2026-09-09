@@ -1,5 +1,5 @@
 ---
-title: "Creación artística en Cuba"
+title: "Contra la sombra de las palabras y los hechos"
 date: "2021-02-08T10:30:00+00:00"
 author: "Diego A. Marrero Leyva y Raymar A. Aguado Hernánde"
 category: "Política en Cuba"
@@ -10,8 +10,6 @@ El punto de convergencia entre arte y sociedad deviene en la responsabilidad de 
 Sabemos que la labor del artista en beneficio social deslinda de cualquier pretensión política que asuma los intereses individuales por encima del interés colectivo, sabemos también que la política es servidora directa de la cultura y no a la inversa como ingenuamente muchas veces se cree. En un momento donde la necesidad del rescate y perdurabilidad de la cultura nacional se torna el emblema del creador, las nimiedades adyacentes que sobreponen la egolatría empañan la visión colectiva respecto a la labor que todo culturizador realiza. El conocimiento de las bases donde una nación se sienta (tradición, cultura e historia) debe ser fulcro del creador en vía a la reafirmación de su obra en beneficio de estas. 
 
 Somos conscientes de que vivimos un momento de crisis: _“crisis significa cambio”_1; el cambio en Cuba debe residir en principio en la salvaguarda del sentido patrio y de nación, y en la conciencia de que el arte es el estandarte y el arma fundamental para ejercerlo.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/resolucion-27-2021/
 
  La politización del arte constituye – “y como indirectamente” – en momentos de necesario cambio, un punto de inflexión dentro de la actividad discursiva de un creador – ya hablábamos de la menesterosa contextualización – pues se presta a promiscuas tendencias que abogan por la desnaturalización, por la sombra de las palabras y los hechos.
 
@@ -36,23 +34,3 @@ Es preciso y oportuno hacer hincapié en la necesidad del aflore de la concepci�
 1- Jorge Mañach, Crisis de la alta cultura en Cuba, IMP. y Papelería La Universal, La Habana, 1925
 
 2- Guy Pérez Cisneros, Presencia de 8 pintores, Verbum, #1, junio de 1937, PP. 66-67.
-
-creación artística en Cuba, creación artística en Cuba, creación artística en Cuba, creación artística en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/diego.jpg)
-    
-    ![](/wp-content/uploads/2021/02/diego.jpg)
-    
-    [Diego A. Marrero Leyva](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/diego-a-marrero-leyva/)
-    
-    Estudiante de Economía
-    
--   ![](/wp-content/uploads/2021/02/ray.jpg)
-    
-    ![](/wp-content/uploads/2021/02/ray.jpg)
-    
-    [Raymar A. Aguado Hernández](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/raymar-a-aguado-hernandez/)
-    
-    Futuro psicólogo

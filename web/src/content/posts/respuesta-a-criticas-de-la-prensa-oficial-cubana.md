@@ -1,5 +1,5 @@
 ---
-title: "Respuesta a críticas de la prensa oficial cubana"
+title: "Me resbala"
 date: "2020-12-03T17:00:25+00:00"
 author: "Jorge Fernández Era"
 category: "Onírica"
@@ -14,8 +14,6 @@ La sangre no llegó al río porque la directora de la publicación nos rogó que
 “Imaginación” se convirtió con posterioridad en un excelente monólogo actuado para Nos y Otros por mi hermano Orlando Cruzata.
 
 Vaya si uno ha trabajado para el imperio que treinta y tantos años después me siguen acusando de lo mismo, me preguntan incluso cuánto cobro por escribir lo que escribo. Si no fuera porque ni café tengo para brindarles, invitaría a todos esos “presos de su propia cabeza acomodada” a revisar el contenido de mi despensa: constatarían cuánto se ha acentuado mi antimperialismo en los últimos meses. Quieren que cada crítica a mi realidad venga convoyada con una cita al injusto y cruel bloqueo o a lo logrado por el sistema de salud cubano en la lucha contra la covid-19, como si tuvieran que ver con los hechos sobre los que llamo la atención. No he visto a ninguno de ellos emprenderla contra el noticiero, la mesa redonda o los monocordes periódicos por la visión estereotipada, repleta de omisiones, de la Cuba en que vivimos, que de poco servirá a las generaciones que nos sucedan para tomarle el pulso a estos tiempos.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-gris-de-mi-bandera/
 
 Se hace un llamado a legitimar cierta palabra de la que se abusa para desacreditar las posiciones divergentes. Expone el Granma de ayer sin que le tiemble el paginado: “Decir ‘contrarrevolucionario’, decir ‘mercenario’ cuando corresponde, es dotar al discurso de un argumento imprescindible”. Vaya, vaya. No aclara Enrique Ubieta si esa correspondencia avala endilgar el calificativo sin que exista prueba alguna, o si los aludidos podremos alguna vez acusar a los difamadores. Porque si por mercenario definimos a aquel que traiciona a su pueblo por recibir dinero del enemigo, podríamos considerar como tal a las tiendas en moneda libremente convertible, ¿no? 
 
@@ -34,15 +32,3 @@ Ustedes se preguntarán qué relación pueden tener ambos elementos, y yo les de
 La segunda imagen es muy significativa. Están viendo un reportaje de la CBS en una de las calles más céntricas de Nueva York. Observen ahora cómo esa viejecita, que viene caminando muy tranquila, de buenas a primera resbala con una cáscara de plátano (¡ahí está!), cae de espaldas y se da un fuerte golpe en la cabeza. Momentos después muere a causa de una fractura craneana de gran magnitud.
 
 The New York Times, en una pequeña nota, atribuye el hecho a un descuido de la señora, quien, según ellos, no divisó la cáscara de plátano. ¡¿Hasta cuándo estos individuos pretenden engañar a la opinión pública?! ¿De dónde proviene esa cáscara de plátano? Para nadie es un secreto que los plátanos que consumen los yanquis son importados desde la región centroamericana. ¿Quiénes explotan las grandes cosechas bananeras? Ustedes y yo lo sabemos: las transnacionales norteamericanas. Ellas son las verdaderas culpables de que esta inocente anciana haya muerto en una céntrica calle de Nueva York. ¡Y detrás de ese resbalón está la mano de la CIA!
-
-respuesta a críticas de la prensa oficial cubana, respuesta a críticas de la prensa oficial cubana, respuesta a críticas de la prensa oficial cubana
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

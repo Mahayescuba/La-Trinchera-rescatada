@@ -1,9 +1,9 @@
 ---
-title: "Pérdida del poder adquisitivo en Cuba ¿Beneficios?"
+title: "¿Beneficios?"
 date: "2021-02-06T17:00:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/02/Jane-Balsgaard.jpg"
+image: ""
 ---
 Una mediación no es lo que está en el medio, sino a través de lo cuál puede realizarse algo, me enseñó María del Pilar Díaz Castañón. En la jerga de la economía clásica eso es válido también.
 
@@ -12,8 +12,6 @@ La producción y el consumo son dos polos. Ambos pueden realizarse si, y solo si
 Pero la economía sigue siendo una ciencia de problemas intuitivos, y esos no llevan mucha complicación.
 
 Con el ordenamiento monetario han subido los [salarios](https://elestadocomotal.com/2020/11/17/ordenamiento-salarios-y-precios-en-cuba-notas-sobre-el-riesgo-de-inflacion/) del sector estatal (a lo sumo, 4 veces), y el [precio](https://twitter.com/pmmonreal/status/1352707143401664516) de muchos bienes y servicios básicos (electricidad, gas, comida) un número de veces superiores. El proceso de cambio (la compra) se reconfigura. 
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/episodio-40-neoliberalismo-en-cuba/
 
 Suben los salarios menos que los precios de, insisto, cosas tan básicas como los mandados, por lo que cae el poder adquisitivo (con el salario actual, se compra menos que con el anterior).
 
@@ -28,17 +26,3 @@ De ahí que quede un ordenamiento que ha sido, por definición, una contracción
 ¿Puede la pérdida del poder adquisitivo ser algo favorable para la economía? Sí, pero no para la de las mayorías. Se le suma el imaginario negativo alrededor del “hacer negocios”, la afectación a la cultura (ya deformada) de emprender. 
 
 Quizá se perdió de vista lo que sirvió acá de punto de partida: las mediaciones no son el medio, ni tienen vida propia, ni son algo separado. En ellas se expresa algo. La compra es la mediación esencial de la producción y el consumo; el comportamiento de la compra determina el comportamiento del consumo y la producción. A lo simple: poder comprar menos es consumir menos, es que otros consuman menos de lo que necesitan para producir y produzcan menos. ¿Beneficios?
-
-pérdida del poder adquisitivo en Cuba, pérdida del poder adquisitivo en Cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

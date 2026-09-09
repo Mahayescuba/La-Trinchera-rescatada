@@ -3,10 +3,8 @@ title: "La profecía de la Huérfana"
 date: "2020-09-08T09:30:00+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/09/3758eb43447b1cdbef7ac374a59fed8a.jpg"
+image: ""
 ---
-_Mi profe, mi extremo de la cuerda que se enreda por el mundo._
-
 **Por: Day Cordero**
 
 A ti romano, a ti te cuento mis sueños más estúpidos antes de que se me olviden.
@@ -112,15 +110,3 @@ Qué alguien me borre el paisaje.
 Qué alguien le escriba otro final a esta historia donde el silencio es más estridente que el ruido.
 
 Qué alguien escriba su nombre porque yo no pienso mencionarlo más.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    [La Trinchera Editor](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/la-trinchera-editor/)
-    
-    La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser una plataforma de debate.
-    
-    [](/la-trinchera/)

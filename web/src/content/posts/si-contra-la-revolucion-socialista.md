@@ -1,9 +1,9 @@
 ---
-title: "Constitución"
+title: "CUBA. Un SÍ contra la Revolución Socialista"
 date: "2019-02-27T10:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/02/PicsArt_02-27-04.51.36.jpg"
+image: ""
 ---
 Constitución. 
 
@@ -101,15 +101,3 @@ RCA, “Cuba. Constitución Socialista o Contrarrevolución Capitalista.
 “ New Cuban Constitution”: Interview with Marxist Cuban Thinker ROBERTO COBAS AVIVAR -Epoch.
 
 [Tomado del blog del autor](http://robertocobasavivar.wordpress.com/2019/01/15/interview-with-marxist-cuban-thinker-roberto-cobas-avivar-epoch-ok/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

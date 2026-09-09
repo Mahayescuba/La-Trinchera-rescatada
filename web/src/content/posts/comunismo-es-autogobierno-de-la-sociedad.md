@@ -3,7 +3,7 @@ title: "Comunismo es autogobierno de la sociedad"
 date: "2020-06-17T09:30:00+00:00"
 author: ""
 category: "Debates"
-image: "/wp-content/uploads/2020/06/Equilibrio.jpg"
+image: ""
 ---
 Comunismo no es una estación de llegada o una línea en el horizonte. **Comunismo es autogobierno de la sociedad.**
 
@@ -164,13 +164,3 @@ Explica lo dicho la emergencia de una economía mixta con anclaje en la comunida
 Entiendo que la cuestión no se resuelve al pasar a la “legalidad” una economía que se encuentra al margen del Estado, como antes se hizo con el trabajo por cuenta propia.
 
 Esto me hace creer que Ud. tiene la razón, que la _metatranca_ filosófica instituida (diz. religión de Estado) es lo peor que nos puede estar sucediendo.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

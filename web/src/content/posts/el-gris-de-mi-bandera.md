@@ -1,5 +1,5 @@
 ---
-title: "Tángana en el parque Trillo"
+title: "¿El gris de mi bandera?"
 date: "2020-12-01T17:00:46+00:00"
 author: "Elaine Roca"
 category: "Política en Cuba"
@@ -19,8 +19,6 @@ Estuve observando junto a los compañeros de la seguridad, a mi izquierda y der
 
 Todo muy pacífico, me recordó a mis matutinos de la primaria, a las actividades culturales en la facultad organizadas por la FEU. A los conciertos que daba Buena Fe en la CUJAE, aunque estos tenían más personas. Estaban allí los estudiantes universitarios con sus distintivos que consistían en el cartel impreso de la convocatoria al parque Trillo. La mayoría vestidos de blanco, rojo y azul, como en las marchas del 1ro de Mayo. Había personas mirando desde los balcones, niños montando bicicleta, gente bajando por las calles aledañas antes que se acabara la actividad. Alguien me preguntó: ¿y tu por qué vas? Le respondí: por trabajo. Entendió que había sido convocada por mi centro de trabajo y suspiró: ¡Aaah, yaaa! 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/carta-a-mis-camaradas-sobre-san-isidro/
-
 Presté atención a los discursos y escudriñé en las caras de la gente, sus facciones, el vacío de sus ojos, la asincronía de los aplausos. Por dónde empezaban los aplausos, ¿por delante? ¿por detrás? ¿al medio? ¿Dónde se respondía al discurso? Siempre adelante, cerca de la tarima; luego el eco se iba dispersando y llegaba a mí en un susurro, ayudado por el equipo de audio. Se citaba a Gramsci, a Lenin, a Fidel, a Guevara, a Marx, a Martí sobre la tarima. Me hizo recordar que la obra de estos autores es muy poco estudiada en la asignatura Filosofía y Sociedad. Asignatura que, si no me equivoco, ahora lleva el nombre de Filosofía y se hace corresponder a la disciplina Marxismo Leninismo. 
 
 La mayoría de mis amistades no saben quién fue Gramsci, ni han leído a Marx, nunca, jamás. Muy poco a Martí, los Versos Sencillos por arribita y la Edad de Oro tal vez. A Lenin lo han leído menos y de Fidel los fragmentos de textos que aparecen en carteles por las avenidas y en los recibidores de las instituciones pintados en las paredes. Mi generación no ha leído los discursos de Fidel en el 59, en el 60, Palabras a los intelectuales. No conocen cómo se introdujo la palabra socialismo y lo que había antes de ella en la historia de Cuba. No saben de dónde nos viene la palabra revolución, ni la palabra democracia, ni la historia de la palabra democracia en la historia del socialismo. A veces no tienen la curiosidad que lleva al descubrimiento, ni tampoco cuentan con las herramientas para enfrentarse a un texto con responsabilidad. Y tampoco tienen que saber todo eso o tener las herramientas, pero allí estaban, bailando con Adrián Berazaín en los bajos de la tarima, los representantes de la juventud cubana. 
@@ -33,16 +31,4 @@ Pensé en refranes populares: _Nada es blanco o negro, en la vida hay tonos gri
 
 El cielo gris nos causa tristeza, añoranza, melancolía. Gris es el color de las canas, por ende, se asocia a la sabiduría pero también a la decrepitud. La vejez que inspira el gris está llena de contrastes porque es a la vez experiencia y decadencia. El gris puede representar el pasado. Sus extremos son otros colores: blanco y negro, por lo cual se considera un color falto de personalidad, que pasa desapercibido, que se usa en diseño y artes plásticas para que otros tonos establezcan jerarquías. 
 
-Color desprovisto de pasiones, el de las sombras, el de los fantasmas, el del mármol de las tumbas y de las estatuas, el de las cenizas; lo que queda cuando pasa el fuego. Color conservador y serio, ¿como nuestra juventud? Tal vez como este texto que pretende archivar el recuerdo de un suceso. En el futuro ha de funcionarme como funcionó a Harry la biblioteca de recuerdos líquidos de Dumbledore que, arrojados a su pensadero, devolvían al momento. Tengo fe en que existan otros recuerdos que contradigan al gris de aquel cartel y fe en que mi recuerdo no sea como el primer recuerdo, parcializado por la vergüenza, que entregó el profesor Slughorn a Harry, dónde Tom Riddle aparecía como un adolescente curioso y no como aquel monstruo que no debe ser nombrado: Lord Voldemort. 
-
-tángana en el parque Trillo, tángana en el parque Trillo, tángana en el parque Trillo, tángana en el parque Trillo, tángana en el parque Trillo
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    [Elaine Roca](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/elaine-roca/)
-    
-    Graduada de Filosofía y Ciencias de la Religión. Trabaja en Instituto de Filosofía de Cuba. En La Trinchera no escribe de teoría.
+Color desprovisto de pasiones, el de las sombras, el de los fantasmas, el del mármol de las tumbas y de las estatuas, el de las cenizas; lo que queda cuando pasa el fuego. Color conservador y serio, ¿como nuestra juventud? Tal vez como este texto que pretende archivar el recuerdo de un suceso. En el futuro ha de funcionarme como funcionó a Harry la biblioteca de recuerdos líquidos de Dumbledore que, arrojados a su pensadero, devolvían al momento. Tengo fe en que existan otros recuerdos que contradigan al gris de aquel cartel y fe en que mi recuerdo no sea como el primer recuerdo, parcializado por la vergüenza, que entregó el profesor Slughorn a Harry, dónde Tom Riddle aparecía como un adolescente curioso y no como aquel monstruo que no debe ser nombrado: Lord Voldemort.

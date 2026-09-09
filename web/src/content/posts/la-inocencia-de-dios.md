@@ -37,15 +37,3 @@ Entonces, en medio de una posible edición del filme para que sea un poco menos 
 (1) La pregunta es hecha por Fermín Valdés Domínguez a la madre de la novia de su amigo Anacleto Bermúdez al comienzo de la trama y luego uno de los estudiantes condenados se lo pregunta en confesión al cura que le trajeron los voluntarios.
 
 (2) Ramirez, Elier; Culpables de cubanía, http://www.cubaperiodistas.cu/index.php/2018/11/culpables-de-cubania/ consultado por el autor el 18 de diciembre de 2018.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

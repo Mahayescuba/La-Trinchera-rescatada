@@ -3,7 +3,7 @@ title: "Optimista"
 date: "2019-06-13T07:02:13+00:00"
 author: "Anckla"
 category: "Onírica"
-image: "/wp-content/uploads/2019/06/PicsArt_06-13-02.56.44-1.jpg"
+image: ""
 ---
 Buenas tardes hombres, mujeres, y bueno, las demás personas -ya que cuesta un poco no ofender hoy día-, milenials, trans, cross, asexuales, tri, bi, zodiacs -no la embarcación, eso ya no es necesario-.  
 Hay ya quien se ofende por ser libra ( no 16onz) o Capricornio ( por los cuernos), Escorpión ( alacranes) esas cosas… Tauro ( la justicia) , Picsis y Acuario por ausentismo, Cáncer el más famoso del siglo ( acabando con todo).
@@ -20,13 +20,3 @@ Ya no caemos en infantilismos. Díganme una fiesta de 1 a 15 años con música i
 Y a los medicamentos ni le hacemos caso. Nos dicen ingreso, y por cortesía lo pasamos en casa con hierbas y algunos con tabacos, ron, gallina -no en calditos-. Nuestro mayor orgullo: ya viajamos a veces a dos países para visitar uno; y regresamos trayendo unos presentitos al barrio… ¿buen precio y con tiempo?  
 ¡Qué bien estamos! Dejamos donaciones en la aduana, antes y después de viajar, ¡genial!  
 Por eso somos un gran pueblo, siempre tan optimista.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    [Anckla](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/anckla/)
-    
-    [](https://www.amazon.com/s?i=digital-text&rh=p_27%3AAnckla+Almirante+&s=relevancerank&language=es&text=Anckla+Almirante+&ref=dp_byline_sr_ebooks_1)

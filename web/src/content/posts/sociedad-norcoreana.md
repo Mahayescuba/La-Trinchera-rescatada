@@ -1,9 +1,9 @@
 ---
-title: "sociedad norcoreana Sobre la cuestión Coreana (II)"
+title: "Sobre la Cuestión Coreana (II)"
 date: "2018-03-06T17:43:29+00:00"
 author: "Joel Ernesto Marill Domenech"
 category: "Opinión"
-image: "/wp-content/uploads/2018/02/sobre-la-cuestion.jpg"
+image: ""
 ---
 Hace unos días publiqué la primera parte de este post,  donde exponía una serie de datos sobre la [República Popular Democrática de Corea](https://es.wikipedia.org/wiki/Corea_del_Norte) y algunas interpretaciones que de esto se podían hacer. Traté de ser objetivo, pero solo hasta cierto punto, pues no escondo mi simpatía con el derecho de los norcoreanos a elegir su destino.
 
@@ -38,15 +38,3 @@ La cuestión real aquí sigue siendo una cuestión de intereses, Corea del Norte
 Para el resto del mundo y la gran mayoría de las personas esta no puede ser más que una guerra mediática, de crear opinión pública a favor y en contra, pues para ser franco es poco probable que con lo que está en juego (con armas nucleares de por medio) la sangre llegue jamás al río.
 
 [Primera Parte](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

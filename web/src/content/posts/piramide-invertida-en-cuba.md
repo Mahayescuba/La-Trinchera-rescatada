@@ -1,9 +1,9 @@
 ---
-title: "piramide invertida en Cuba La Trinchera Rene Portuondo"
+title: "La Pirámide Invertida y la Economía Moral"
 date: "2018-06-18T14:44:32+00:00"
 author: "René Portuondo"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2018/06/Gérard-Cambon.jpg"
+image: ""
 ---
 Todos hemos escuchado hablar de la [_pirámide invertida_](https://jovencuba.com/2017/10/16/la-piramide-invertida/) como uno de los tantos males que supuestamente desvirtúa nuestro desarrollo como una sociedad justa y socialista. Tanto en discursos ante la Asamblea Nacional o en una parada de la guagua, muchos son los que se refieren a la misma como una de los causantes del desincentivo al trabajo, por  tanto de la baja productividad de la economía y de configurar una forma de redistribución de la riqueza social de forma injusta.
 
@@ -40,17 +40,3 @@ La idea de la pirámide invertida es en sí misma totalmente ajena a lo que debe
 Es triste ver como esa idea absurda de la “pirámide invertida” es impulsada por los que sin importar como se organice la pirámide siempre estarán arriba.
 
 Yo no sé cómo es un sistema socialista, no puedo pues nunca lo he visto, ni cómo será su organización social y distribución de la riqueza, lo que si se es que nada tendrá que ver con moralismos importados, ni con pirámides sociales. Seguimos arrastrando la idea de una sociedad vertical que asume el capitalismo. Nuestro problema no es un reconocimiento de la actividad humana invertido, sino que se reconoce mal a algunos sectores sociales. ¿No se ve que definir el problema en términos de pirámide al revés lleva implícito un llamado interno a la **lucha** de clases?
-
-[Otro texto del autor](/politica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

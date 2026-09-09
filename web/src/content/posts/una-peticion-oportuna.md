@@ -3,7 +3,7 @@ title: "Una petición oportuna"
 date: "2019-01-15T05:23:40+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/01/PicsArt_01-15-12.22.31.jpg"
+image: ""
 ---
 Campaña #Ni1+.
 
@@ -29,15 +29,3 @@ Ni el índice prohibido y la [teología](https://es.wikipedia.org/wiki/Teolog%C3
 Esta es en mi muy personal opinión sobre la encrucijada, la complejidad del proceso, de la izquierda, es decir: de los revolucionarios en Cuba.
 
 Campaña #Ni1+. Campaña #Ni1+. Campaña #Ni1+. Campaña #Ni1+.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

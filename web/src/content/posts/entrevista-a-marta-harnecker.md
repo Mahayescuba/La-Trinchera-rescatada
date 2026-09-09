@@ -1,9 +1,9 @@
 ---
-title: "entrevista a Marta Harnecker La Trinchera Arleen Rodríguez"
+title: "Entrevista a Marta Harnecker Realizada por Arleen Rodríguez"
 date: "2018-04-17T16:21:40+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2018/04/1371669400_814489_1372351433_noticia_normal.jpg"
+image: ""
 ---
 **Cortesía de Marta Harnecker**
 
@@ -406,15 +406,3 @@ _Yo siempre he pensado que ha sido tan terrible la desaparición de Chávez, por
 ###### §**Arleen:** Este programa está para eso, para la memoria, y mira cuánto puede hallar de ayuda la Memoria Popular Latinoamericana. Marta Harnecker esta noche, chilena, cubana, latinoamericana podríamos decir, y sobre todo una mujer que va guardando la memoria popular latinoamericana con toda la falta que nos está haciendo.
 
 [También puede interesar](/entrevista/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

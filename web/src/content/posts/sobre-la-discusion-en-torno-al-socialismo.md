@@ -3,7 +3,7 @@ title: "Sobre la discusión en torno al socialismo"
 date: "2019-10-11T15:35:08+00:00"
 author: ""
 category: "Marxismo en Cuba"
-image: "/wp-content/uploads/2019/10/PicsArt_10-12-06.49.55.jpg"
+image: ""
 ---
 debate en torno al socialismo.
 
@@ -34,15 +34,3 @@ La segunda es hasta qué punto la voluntad de una vanguardia y la formación de 
 La tercera es la referente al desarrollo de la burocracia. Si bien este fenómeno es herencia del capitalismo, lo cierto es que va a jugar un importante papel en la práctica histórica del socialismo del siglo XX y XXI. El problema con este grupo (no creo que deba considerarse como clase) es que, como bien apuntara [Lenin,](https://es.wikipedia.org/wiki/Lenin) en épocas de revolución, el aparato burocrático se convierte en el refugio de elementos del régimen derrotado. Se convierte este aparato entonces en un espacio donde sobrevive y se fortalece la conciencia pequeño burguesa y los valores que le son afines. No es de extrañar, entonces, que de el seno de este mismo aparato provenga la traición. En torno a este problema cabría repensar las soluciones de la Comuna de París, que el mismo Lenin reivindicó pero que no pudo aplicar, y que dan algunas claves necesarias.  
 Otro problema central es el de las relaciones de propiedad. La práctica histórica del socialismo hasta ahora no ha resuelto el problema de la sustitución de la propiedad privada por la social. El capitalista individual es sustituido por el estado como capitalista abstracto, pero las condiciones de alienación del trabajador con respecto al producto de su trabajo permanecen intactas. Cómo crear formas de propiedad verdaderamente colectiva, ese es el problema, que también ha tenido una larga de lista de tentativas de solución en la práctica teórica y práctica del socialismo.  
 Desde luego, estas no son ni de lejos la totalidad de los problemas que un debate sobre el socialismo verdaderamente responsable debe abordar, pero sean un primer paso, una invitación, a profundizar verdaderamente en la riqueza del problema y no quedarnos en soluciones pragmáticas y fórmulas vagas.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

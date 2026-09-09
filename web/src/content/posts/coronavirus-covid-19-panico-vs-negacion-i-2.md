@@ -1,9 +1,9 @@
 ---
-title: "coronavirus contagio"
+title: "Coronavirus (COVID-19): pánico vs negación (II)"
 date: "2020-03-18T09:30:01+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2020/03/francia-coronavirus-768x399-1.jpg"
+image: ""
 ---
 Las medidas mencionadas anteriormente han demostrado ser las más eficaces para prevenir/reducir el contagio de coronavirus.
 
@@ -51,15 +51,3 @@ Pues… nada! Como cualquier otra infección viral…
 En la inmensa mayoría de casos no se necesitará nada especial, un antiviral como máximo, con favorecer buenas condiciones inmunitarias, y sobre todo, evitar el contagio de otros (yendo a hospitales sin necesitarlo realmente, por ejemplo) bastará.  
 Lo que nos dicen las investigaciones actuales es que el factor de resigo para la mayoría es muy bajo, solo en personas vulnerables e inmunodeprimidas se debe tener un especial cuidado, al igual que otras infecciones comunes.  
 Ya vimos que el principal riesgo que puede tener esta pandemia es su efecto exponencial y sistémico: el colapso del sistema de salud y graves consecuencias económicas. Por eso lo más importante es favorecer la disminución del contagio, y sobre todo, evitar el pánico injustificado, que pueda ocasionar una saturación de los sistemas sanitarios y comportamientos negligentes.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

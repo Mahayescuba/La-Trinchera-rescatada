@@ -36,19 +36,3 @@ Se me quedaron las pymes estatales, pero eso sería una discusión con la consig
 Lo dejo por aquí: al fin tendremos de vuelta (legalmente) a las empresas chiquitas. Más gente para dictar al proletariado, fijo. Repatriación, ciudadanía y reinserción para los chinchales injustamente juzgados por el poder revolucionario, pero rectificado a tiempo. ¡Qué sabios los sabios!
 
 [También puede interesar](/crear-mas-ricos-2/)
-
-Pymes en Cuba.
-
-Pymes en Cuba. Pymes en Cuba. Pymes en Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Investigador independiente
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

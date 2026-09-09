@@ -3,7 +3,7 @@ title: "Soy un joven que sueña con la realidad"
 date: "2020-04-20T05:39:54+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2020/04/IMG-20200419-WA0020.jpg"
+image: ""
 ---
 ## Entrevista de Roberto Chile a Sender Escobar
 
@@ -20,10 +20,6 @@ Ahora, en medio de la pandemia, cuando el mundo amenaza con cambiar -ojalá para
 No puedo decir que tuve una infancia convencional porque cuando se crece en medio del [P_eríodo Especial_](https://es.wikipedia.org/wiki/Per%C3%ADodo_especial) y uno no tiene la más absoluta certeza de lo que ocurre en su sociedad, especialmente en tu hogar para luchar el pan diario, sin rozar el extremo de la supervivencia, no puede considerarse convencional, aunque sí cotidiano. Y fue ese entonces que viví, pero que no sentí en carne propia. Lo que sí tuve fue una infancia feliz, matizada por dos cosas: el hogar donde vivía con mi madre y los constantes viajes a Camagüey a casa de mi abuela paterna. Bueno, te puedo contar que el primer recuerdo del que soy consciente fue el de una foto que tengo frente a un televisor ruso; no la instantánea, si no más bien el momento en que me abrochaba unos zapaticos blancos. Un poco más grande (cuatro años) la sonrisa sin dientes de mi abuela que en un primer instante me dió miedo y hoy en día es una de las cosas que más añoro.  
 Durante las olimpiadas de _Sydney 2000_, cuando Filiberto Azcuy ganó su segunda medalla de oro y realizó un salto mortal hacia atrás, era la primera vez que veía algo así y sorprendido le dije a mi mamá _¡miraaaa!_ En ese mismo evento deportivo la carrera de los 110 metros con vallas quedó grabada para siempre en mi mente: el cubano Anier García ganó de forma increíble. Emocionante, casi al mismo nivel de la carrera, fue la narración de René Navarro, que a mí gusto personal es una de las narraciones más impresionantes del deporte cubano, tal vez porque aún la veo y la piel se me eriza.  
 Y las otras mucho más ocurrentes, relacionadas con La Habana. La primera vez que vine a esta ciudad, tendría igual, unos cuatro o cinco años, y vine en tren (cuya máquina infernal demoró diecisiete horas en llegar a la capital) según mi mamá yo armé una perreta pues no me quería bajar del tren (al parecer de niño padecía masoquismo ferrocalítico) y cuando pasamos junto a la locomotora miré hacia arriba y le pregunté a mi mamá si el maquinista era _Pelusín_ (haciendo una alegoría inconsciente a la canción infantil del tren). En ese viaje unos días más tarde iba de la mano de mi mamá y mi padrastro (al que desde siempre le he dicho papá) y el edificio más grande que ojos de niño tunero hayan visto jamás, se manifestó ante mí: _El Habana Libre._ De inmediato, super-mega-plus sorprendido, lo único que atiné a decir, mas bien a gritar, señalando al edificio, fue: ¡Papá miiiira! Desde ese entonces _El Habana Libre_ para mí famiIia se llama _Papá mira._
-
-![](/wp-content/uploads/2020/04/picsart_04-20-017735884264028562576.jpg)
-
-![](/wp-content/uploads/2020/04/picsart_04-20-017735884264028562576.jpg)
 
 **Desde de niño te gusta la música, la literatura y los deportes, mucho más que las matemáticas y los trabajos manuales. ¿Qué aspirabas ser cuándo fueras grande?**
 
@@ -88,22 +84,6 @@ El mundo en estos días está mostrando su verdadero rostro, lo que para fortuna
 
 Aspiro, como Martí, a un país donde la dignidad plena del hombre sea expresada a través de la tolerancia, el respeto y la sensatez; a una Cuba sin bloqueo; a un país donde sus profesionales, obreros y trabajadores de cualquier sector vivan con dignidad de su salario y que el invento no sea el secreto a voces más conocido para poder subsistir, a una Cuba sin burocracia parásita; a un país con un sistema de transporte urbano eficiente y puntual; a una Cuba donde la enseñanza muchas veces disfrazada de pedagogía no sea un dogma; a una televisión nacional menos politizada; a una Cuba de prensa objetiva; a una Cuba donde sus estrellas de _Grandes Ligas_ vistan las cuatro letras en los eventos internacionales de béisbol; a un país donde los veteranos de guerra sean tratados con la atención requerida y necesaria, que el latón de una medalla oxidada o la bandera sobre el ataúd el día de su entierro no sea el recordatorio de su sacrificio; a una Cuba con cultura de limpieza urbana; a un país con una ley de protección animal. Aspiro a una Cuba, a una Cuba sin violencia juvenil, ni de ningún otro tipo; a una Cuba donde sus graduados universitarios se sientan motivados y estimulados cuando inician su vida laboral; en fin, a una Cuba no utópica, sino una que esté al alcance de la buena fe de quienes la sentimos en el alma y la podemos construir.
 
-![](/wp-content/uploads/2020/04/img-20200419-wa00216940964537679041548.jpg)
-
-![](/wp-content/uploads/2020/04/img-20200419-wa00216940964537679041548.jpg)
-
 **¿Quisieras decir algo más?**
 
 Agradecerte por la sorpresa de entrevistarme. Si bien no es la primera vez que me entrevistan, me siento emocionado por tu iniciativa y honrado porque seas tú mi entrevistador. Aunque eres muy modesto, tu obra te precede y a quien (_chicharroneando_ sea de paso) Roberto Chile le diga que lo quiere entrevistar, lo mínimo será la emoción del privilegio.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Investigador independiente
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

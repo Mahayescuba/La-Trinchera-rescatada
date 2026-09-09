@@ -1,9 +1,9 @@
 ---
-title: "jovenes y el marxismo en cuba La trinchera Marcos Paz Claudia Bravet"
+title: "Veinticinco jóvenes y el marxismo"
 date: "2018-04-05T15:15:34+00:00"
 author: ": Leydi Claudia Bravet Ramírez"
 category: "Trinchera Abierta"
-image: "/wp-content/uploads/2018/04/La-Trinchera.jpg"
+image: ""
 ---
 Viento. Brisas de aire soplan por los entresijos de las sillas de plástico, lengüetean los canalillos de las baldosas, chocan con los barandajes de hierro que delimitan la terraza. Allí, sentados a comoquiera sobre las sillas, 25 jóvenes con los ojos abiertos. A 25 jóvenes cubanos  les interesa hablar de marxismo. Quizás sean los únicos.
 
@@ -22,17 +22,3 @@ Del lado de los que escuchábamos a los sabios, hubo un momento que para mí fue
 Y otra voz dice: ¿qué es una prisión?, un supuesto reformatorio, un nuevo inculcador de valores, otra escuela para formar hombres nuevos de hombres a los que se les pretende redención. Mas sus realidad es la de dar a luz hombres peores que los anteriores.
 
 Así transcurrió este cuarto encuentro sobre marxismo, con cinco panelistas que abrieron el debate y otros jóvenes en el público deseosos de refutar. Una sinergia reconfortante para todo el que contemplaba que todavía existan jóvenes en Cuba con ganas de repensar el mundo.
-
-[Otro texto del autor](/economia-politica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

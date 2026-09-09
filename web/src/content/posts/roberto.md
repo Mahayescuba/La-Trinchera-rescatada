@@ -1,9 +1,9 @@
 ---
-title: "Roberto Estereotipos y feminismo"
+title: "Roberto"
 date: "2020-09-06T09:30:45+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/09/maria-rita-paper-sculpture8.jpg"
+image: ""
 ---
 estereotipos caseros y feminismo.
 
@@ -25,16 +25,4 @@ Cuando abandoné el lugar de mi infancia, lo hizo también el oficial del MININT
 
 Podría quedarme con las peores imágenes y nada más, pero mi árbol de navidad sigue encendiendo las luces que con ternura de relojero corto y empato cada año. Tendría que decir, para ser correcta, que fue Roberto un hombre machista y dejarlo ahí; pero cuando veo a mis amigas feministas, a las que admiro y aprecio, llamar a un hombre para colgar un cuadro, siempre me acuerdo de Roberto y no puedo evitar sentirme agradecida.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/violacion-en-santiago-de-cuba/
-
-estereotipos caseros y feminismo estereotipos caseros y feminismo 
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    [Elaine Roca](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/elaine-roca/)
-    
-    Graduada de Filosofía y Ciencias de la Religión. Trabaja en Instituto de Filosofía de Cuba. En La Trinchera no escribe de teoría.
+estereotipos caseros y feminismo estereotipos caseros y feminismo

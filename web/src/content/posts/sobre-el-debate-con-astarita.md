@@ -1,12 +1,10 @@
 ---
-title: "Contenido del valor"
+title: "Sobre el debate con Astarita"
 date: "2018-08-22T11:15:29+00:00"
 author: ""
 category: "Economía Política"
-image: "/wp-content/uploads/2018/08/Eva-Rothschild-.jpg"
+image: ""
 ---
-_Acabo de leer de un tirón y releer otra vez tu contrarréplica a Rolando Astarita en torno al contenido del valor._
-
 **Por: Iramís Rosique**
 
 ### En respuesta al artículo de Miguel Alejandro Hayes que polemiza con Rolando Astarita
@@ -26,15 +24,3 @@ Así pudiera decirse que las categorías del pensamiento son —en palabras del 
 Independientemente de lo dicho, no entendí realmente por qué te metiste en el asunto de las categorías si tu tema es el contenido del valor. Cualquiera que sea la manera de entender las categorías que tengan tú o Astarita, tanto si es la misma como si no, no se relaciona en lo absoluto con cuál creen que es el contenido del valor. Por ejemplo, estamos claros de que la categoría valor no la inventó Ricardo ni Marx ni ningún economista clásico. Yo diría que la categoría valor es el resultado de la abstracción de ese momento, ese componente, esa parte universal a las mercancías mediante la cual estas se identifican, es decir se equipara o comparan, y pueden ser intercambiadas. Todo asunto sobre qué es una categoría llega hasta la sentencia anterior. La verdadera pregunta del debate con Astarita consiste en desentrañar cuál es la esencia de ese “momento universal a las mercancías” mediante el cual se equiparan e intercambian, porque ese momento universal es la sustancia del valor—que fue lo que realizó Marx en tanto estudió el movimiento real de la categoría en el modo de producción, independientemente de que de paralelamente expusiera la historia del tratamiento de la categoría por los economistas—: ¿utilidad, fuerza de trabajo, tiempo de trabajo socialmente necesario? Lo que sea, es una batalla que debe librarse en el plano de la economía política y que no tiene que ver con las categorías ni la filosofía. Siendo así, sacada la discusión de mi zona de confort y enviada directamente al mundo de las relaciones sociales de producción, vuelvo yo a mi oscuro rincón, a observar los toros desde la barrera.
 
 Contenido del valor 2. Contenido del valor 2. Contenido del valor 2.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

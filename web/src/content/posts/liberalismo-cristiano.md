@@ -1,9 +1,9 @@
 ---
-title: "liberalismo cristiano"
+title: "¿Liberalismo cristiano? Simplemente liberalismo"
 date: "2020-07-23T07:32:16+00:00"
 author: "José Gabriel Barrenechea"
 category: "Teoría"
-image: "/wp-content/uploads/2020/07/2020-07-08-10-37-05-1200x800-1.jpg"
+image: ""
 ---
 El liberalismo es en esencia el sobreentendido de que no deben de haber constricciones sociales irracionales a los individuos en la selección de los fines, propósitos y destinos que les parezcan mejores para dárselos a sus vidas, si es que sinceramente deseamos que estos puedan escoger de manera libre. Pueden y son imprescindibles las constricciones, sin duda, pero las mismas solo son legítimas, y por tanto de obligatoria aceptación, si en última instancia se las ha consensuado en base al libre intercambio de argumentos racionales.
 
@@ -20,8 +20,6 @@ Es cierto que el liberalismo actual amenaza la vida cívica tan necesaria para s
 Sin embargo la causa profunda de esa falta de conciencia no responde a una idea asociable de necesidad al liberalismo, como veremos más adelante.
 
 La solución propuesta por la crítica cristiana en los EEUU ante los mencionados individualismo y hedonismo contemporáneos, supuestamente generados por él, es la de ligar el liberalismo a un _telos_ cristiano, o en español comestible: infundirle los fines, propósitos y destinos que esta específica religión le impone a sus creyentes. Por tanto: al vaciar al liberalismo de su esencia liberadora de las constricciones irracionales, mientras al mismo tiempo se intentan conservar algunas de las consecuencias que esa esencia provoca. En concreto el libre mercado y la privación a una institución concreta, el Estado, del derecho de imponernos fines…
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/teoria/espacio-y-libertad/
 
 Basta recordar, sin embargo, que no es solo el Estado quien nos intenta imponer y constreñir sin otros argumentos que los de convocar a nuestra creencia incondicional en la buena fe de su interés incuestionable por nuestro bien. También las iglesias lo hacen.
 
@@ -67,8 +65,6 @@ Con el ser humano, y sobre todo con el ser humano liberal, se llega al óptimo c
 
 Hay que agregar aquí que en el universo descrito el esfuerzo común no sólo está dirigido a sobrevivir a condiciones de peligro de desaparición total, cataclísmicas. Aunque no lo percibamos, ya tan solo garantizar los altos estándares de vida de que disfruta en privado el individuo contemporáneo implica conservar un medio transformado, con incontables sacrificios, por cientos de generaciones anteriores. Un medio que por cierto no se _da_ _en_ _las_ _matas_, y al cual si ahora no atendiéramos constantemente a su conservación, de la única manera posible: en común, no duraría mucho más allá de unos pocos años.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/teoria/yuval-harari-el-humanismo-liberal-y-un-escepticismo/
-
 Desengañémonos, las condiciones que permiten los altos estándares de vida no abundan en la naturaleza, y mantenerlas implica necesariamente un enorme esfuerzo en su edificación, pero también en su conservación. O sea, a partir de que los hombres en común comienzan a realizar variaciones en el medio, para mejorar sus condiciones de existencia, ya no pueden darse el lujo de disgregarse y darse al disfrute de los placeres como si ya hubiesen alcanzado aquel tan mentado paraíso que nos prometen las religiones.
 
 Sólo se necesita hacerles ver a los hombres esa realidad para que comiencen a hacer un mejor y más consecuente uso del liberalismo. Convencerlos de que, por lo menos en esta vida, no hay paraísos, y que ante la duda de si existe o no una vida de ultratumba lo que nos cabe es intentar vivir aquí, ahora, lo mejor posible. Algo que solo se puede lograr desde la conciencia de que solo puede hacerse en común.
@@ -76,15 +72,3 @@ Sólo se necesita hacerles ver a los hombres esa realidad para que comiencen a h
 No es por tanto ligarse a la religión, en este caso a la cristiana, lo que necesita el liberalismo para superar los dos problemas que le señalan sus críticos cristianos, y que nosotros admitimos existen. Lo que se necesita es acabar de hacer que los individuos contemporáneos seamos un poco más consecuentes con nuestro liberalismo y terminemos de librarnos de ciertos rezagos de la mentalidad cristiana. Solo así podremos construir comunidades en que cada cual pueda creer o asociarse para creer lo mismo en Cristo que en el poder salvador de la _Homeopatía_, en la _Mecánica Cuántica_ o en el _Gran Monstruo Espagueti Volador_, pero siempre que se admita que el milagro solo ocurrirá con nuestra participación y nuestro esfuerzo, no precisamente en el ejercicio de la oración y la plegaria, y que vivir siempre es y será un desafío a un medio cuya naturaleza es el cambio.
 
 [También puede interesar](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

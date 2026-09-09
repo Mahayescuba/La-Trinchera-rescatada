@@ -1,9 +1,9 @@
 ---
-title: "Coronavirus y sociedad"
+title: "Virus, modernidad y capitalismo"
 date: "2020-04-03T09:45:58+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2020/04/Another-Man-Magazine-Spring-Summer-2011-by-Brett-Lloyd.jpeg"
+image: ""
 ---
 En tiempos de coronavirus, un análisis sobre la sociedad actual.
 
@@ -28,15 +28,3 @@ Bajo circunstancias, donde la acefalia es una constante, es momento, como suger�
 [Tomado de Red Kapari](http://redkapari.org/2020/04/02/virus-modernidad-y-capitalismo)
 
 En tiempos de coronavirus, un análisis sobre la sociedad actual.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

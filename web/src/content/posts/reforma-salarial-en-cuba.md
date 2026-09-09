@@ -1,5 +1,5 @@
 ---
-title: "Reforma salarial en Cuba La Trinchera Por: Lázaro González Rodríguez"
+title: "La reforma general del salario en Cuba"
 date: "2018-04-30T17:20:54+00:00"
 author: ""
 category: "Economía en Cuba"
@@ -145,15 +145,3 @@ NOTA SOBRE EL AUTOR:
 [Tomado de El estado como tal](https://elestadocomotal.com/2018/04/28/lazaro-gonzalez-rodriguez-la-reforma-general-del-salario-en-cuba/)
 
 [También puede interesar](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

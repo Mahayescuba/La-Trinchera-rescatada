@@ -3,7 +3,7 @@ title: "Lunes"
 date: "2019-02-04T15:20:06+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/02/PicsArt_02-04-10.11.38.jpg"
+image: ""
 ---
 Me eche a reír cuando supe la noticia del meteorito.
 
@@ -23,15 +23,3 @@ Lo cierto es que puedo sentirlo. Y yo no soy [Sergio](https://en.wikipedia.org/w
 No soy Sergio, y es lunes.
 
 Me eche a reír cuando supe la noticia del meteorito. Me eche a reír cuando supe la noticia del meteorito. Me eche a reír cuando supe la noticia del meteorito.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

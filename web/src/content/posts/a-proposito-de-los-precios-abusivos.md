@@ -1,17 +1,15 @@
 ---
-title: "Precios y nivel de ingresos en Cuba"
+title: "A propósito de los precios “abusivos”"
 date: "2020-12-22T17:00:00+00:00"
 author: "Mauricio de Miranda Parrondo"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/12/Alexander-Calder.jpg"
+image: ""
 ---
 El gobierno cubano ha apelado, de forma sostenida, a los topes de precios para evitar que éstos aumenten en los mercados no estatales acusando a los trabajadores por cuenta propia de egoísmo, de falta de solidaridad, a tono con aquella caracterización despectiva que les dio Fidel Castro, cuando les llamó “merolicos” hace muchos años. Los funcionarios cubanos no se quieren dar por enterados de que en los mercados los precios son el resultado de un equilibrio entre la oferta y la demanda y que cuando ese equilibrio se rompe porque la oferta supera a la demanda, los precios bajan y cuando ocurre lo contrario, suben. En los cursos básicos de Economía se enseña que cuando el Estado interviene los mercados, fijando precios por debajo del punto que refleja el equilibrio entre la oferta y la demanda, el resultado es la escasez.
 
 ¿No existen suficientes ejemplos en la vida cotidiana de Cuba a lo largo de más de 60 años para demostrar la validez de este sencillo axioma? Claro que sí. A esto debe añadirse que cuando esto ocurre, la respuesta que da el mercado es la aparición de canales subterráneos en los que los precios suelen estar muy por encima incluso de lo que estarían en condiciones de un mercado libre, debido a lo que podría denominarse como una especie de “prima de riesgo” que suelen cobrar los oferentes en condiciones de ilegalidad.
 
 En los últimos días se han sucedido declaraciones de Marino Murillo, miembro del Buró Político del PCC y jefe de la Comisión de “Implementación y Desarrollo”, así como de las ministras de Finanzas y Precios, Meisi Bolaños,  y de Comercio Interior, Betsy Díaz, en el sentido de que “no se pueden permitir precios abusivos” al referirse a los aumentos de precios que seguramente se producirán en los servicios ofrecidos por trabajadores por cuenta propia (TCP). Para cualquier persona es evidente que muchos TCP o empresarios privados no tendrán más remedio que incrementar los precios de los productos y servicios que ofrecen si se incrementan costos debido a los aumentos de las tarifas de energía, así como los aumentos de precios en los insumos o de los salarios de los trabajadores que deben contratar, para solo mencionar dos tipos de gastos. Obviamente, lo lógico sería que el aumento de los precios resultara proporcional a esos aumentos de costos en la proporción que ellos influyen en la estructura de costos.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/nuevos-precios-y-salarios-en-cuba/
 
 La teoría económica no suele usar el concepto de “precios abusivos” porque en condiciones de mercado en las que exista un determinado nivel de competencia, los precios suelen formarse considerando los costos de producción, así como la relación entre la oferta y la demanda. Esta alusión a los precios “abusivos” y “especulativos” a los que se refería Murillo y que hacen parte del discurso oficial parece hacer alusión, por contradicción, a lo que Tomás de Aquino denominaba _precio justo._ Este concepto, utilizado por el escolasticisimo medieval para condenar la usura y el beneficio comercial (beneficios que, por cierto, obtenía la alta jerarquía eclesiástica) no ha tenido jamás una explicación en la teoría económica. ¿Cuál es el precio justo? Smith, Ricardo y Marx, cada uno desde sus distintas perspectivas teóricas hablaban de _precio natural, valor de cambio, precio de mercado._ Marx esbozó una teoría del precio en la que consideraba los costos de producción y la ganancia media (denominada ésta como la tasa de ganancia promedio que la sociedad “reconocía”), considerando las condiciones del mercado. Los marginalistas, por su parte, se apartaron de la teoría del valor-trabajo y se concentraron en la “utilidad marginal”.
 
@@ -32,13 +30,3 @@ Adicionalmente, la resolución que establece los precios de los productos que an
 ¿Son éstas medidas “revolucionarias” o se trata, una vez más, de exprimir a las personas que necesitan legalizar documentos para que surtan efecto en el exterior o a aquellos que ya viven en el exterior y no por ello se volvieron millonarios o a aquellos que necesitaban de remesas para acceder a las inaccesibles TRD con los ingresos del trabajo? ¿Qué pasará con quienes no puedan pagar semejantes tarifas que no guardan relación alguna con sus niveles de ingreso o con quienes siguen sin tener acceso a los precios multiplicados por 24 o 25 cuando sus ingresos solo crecieron como promedio 4,9 veces? Por otra parte, ¿Se sigue marcando la diferencia entre los cubanos de “aquí” y los de “allá”? ¿Esa es la forma de “incluir” que tiene el gobierno cubano respecto a la comunidad cubana?
 
 _Tomado del blog del autor_
-
-precios y nivel de ingresos en Cuba, precios y nivel de ingresos en Cuba, precios y nivel de ingresos en Cuba, precios y nivel de ingresos en Cuba
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Mauricio de Miranda Parrondo](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/mauricio-de-miranda-parrondo/)

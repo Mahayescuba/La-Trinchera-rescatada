@@ -3,7 +3,7 @@ title: "Que alguien le haga llegar a Facundo"
 date: "2020-01-06T16:34:10+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/01/IMG_20200106_113155_245.jpg"
+image: ""
 ---
 Facundo. 
 
@@ -27,15 +27,3 @@ Sin nosotros Facundo no es nadie, sin el “combustible” que le da vida muere,
 Gracias Facundo.
 
 [Tomado del Facebook del autor](https://www.facebook.com/100004083701805/posts/2092339577578812/?app=fbl)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

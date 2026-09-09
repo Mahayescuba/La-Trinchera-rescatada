@@ -1,9 +1,9 @@
 ---
-title: "Jóvenes frente al Ministerio de Cultura"
+title: "Ay, qué dolor, qué dólar, qué pena"
 date: "2020-11-29T17:00:36+00:00"
 author: "Jorge Fernández Era"
 category: "Onírica"
-image: "/wp-content/uploads/2020/11/Heather-Hunter-.jpg"
+image: ""
 ---
 —¡Mi amiga, dicen que abrieron una tienda nueva en el Vedado! ¿Sabes algo?
 
@@ -48,15 +48,3 @@ image: "/wp-content/uploads/2020/11/Heather-Hunter-.jpg"
 —¿Qué se avecina, vecina?
 
 —Un cambio nuevo. Creo que es eso.
-
-jóvenes frente al Ministerio de Cultura, jóvenes frente al Ministerio de Cultura
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg#038;ssl=1)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg#038;ssl=1)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

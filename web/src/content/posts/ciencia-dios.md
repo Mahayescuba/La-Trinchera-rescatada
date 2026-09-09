@@ -3,7 +3,7 @@ title: "Una ciencia que muere por Dios"
 date: "2019-09-04T16:33:06+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/09/IMG_20190904_123737.jpg"
+image: ""
 ---
 Ciencia y Dios.
 
@@ -21,15 +21,3 @@ Albear nació en el seno de una familia católica y fue bautizado por el presbí
 No pueden faltar tampoco los jesuitas y carmelitas que se ofrecieron como voluntarios para probar la vacuna de la fiebre amarilla. En algunos de ellos, el desenlace fue fatal y con sus vidas nos donaron una ciencia que muere por Dios.  
 Hechos estos, que me llevan a negar la oposición que se nos intenta imponer -tanto desde el ateísmo como desde la fe- entre Dios y la ciencia.  
 Como cristiano creo, que la forma de llevar a Dios, lo es -en el mismo sentido- de llevar la ciencia.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

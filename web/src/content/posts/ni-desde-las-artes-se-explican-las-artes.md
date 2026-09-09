@@ -1,9 +1,9 @@
 ---
-title: "Arte y la Política Cultural en Cuba"
+title: "Ni desde las Artes se explican las Artes"
 date: "2021-06-26T16:00:00+00:00"
 author: ": Arturo Mesa"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/06/Grande-Portale-by-Arnaldo-Pomodoro.jpg"
+image: ""
 ---
 Admito que el documento de la conceptualización del modelo recientemente publicado ha sido revisado con lupa, de forma que los temas más álgidos queden un poco entre dos aguas, con un lenguaje cauto y una pormenorizada edición. 
 
@@ -17,10 +17,6 @@ Según el texto de la [Conceptualización](http://www.cubadebate.cu/especiales/2
 
 ¿Y quién ha dicho que el arte se reduce a gusto y belleza. Además de que la belleza es subjetiva en su totalidad. De hecho ha existido mucho arte oscuro y grotesco. Piénsese en Antonia Eiriz en nuestro entorno. ¿Hubiese pintado Carlos Enríquez su “Campesinos Felices” bajo la Política Cultural de los años treinta?”. 
 
-![](/wp-content/uploads/2021/06/196171373_10224437257811990_2832271871003362361_n.jpg)
-
-![](/wp-content/uploads/2021/06/196171373_10224437257811990_2832271871003362361_n.jpg)
-
 El arte es visión de mundo y sobre todo de mundo futuro. Es visionario y crítico de cualquier momento y entorno pues va apegado a la misma razón del ser, así como el debate sobre lo que somos y nuestro lugar en el universo. Quizás el artista no sepa hablar pero en la emisión de un mensaje es políglota. Habrá arte atrevido, aventurero y contestatario mientras exista un ser pensante sobre el universo conocido. Y sigue el texto:
 
 …”ajeno a mentalidades y estereotipos banalizadores, discriminatorios y mercantilistas, propios de las sociedades de consumo”.
@@ -28,10 +24,6 @@ El arte es visión de mundo y sobre todo de mundo futuro. Es visionario y críti
 ¡Banalizador! (¿me lo define por favor?). Y mercantilista. Ambos son iguales de subjetivos. Banal pudiera entenderse “Bollywood” actores lindos, alegres que bailan y cantan y el bueno al final se lleva a la modelo. Pero nos enseña una cultura y su país e impone una presencia, además de otra manera de hacer. Además, mi concepción del cine pudiera ser precisamente esa alegría porque va y no me gusta pensar en mis ratos libres, solo relajar las tensiones del día y eso es justamente lo que hacen esas películas.
 
 Y luego dice “[mercantilista](/cual-es-el-valor-del-arte/)”: Y yo me pregunto: ¿Y si nosotros pudiéramos hacer un arte mercantilista no lo haríamos? ¿No venden algunos artistas a varios miles de dólares sus obras y las agencias o galerías que los representan como el Fondo de Bienes Culturales? ¿Qué hay de malo en hacerse de un nombre a través de un talento y ganarse una vida holgada que le permita desarrollar el don que trajo al mundo. Pudiera entenderse como “mercantilista” un show Tipo: Got Talent, pero sabe cuántos talentos no capta de verdad el showcito ese y luego, como resultado, sale una Carrie Underwood, una Kelly Clarkson y un Phillips Phillips; y a la vuelta de unos años la industria musical se va a ver llena de esos talentos cazados en los shows mercantilistas y por ende se dispara la calidad. Ve cómo en todo hay puntos de vista.
-
-> [Del arte y los artistas](/arte-artistas-isa-cuba/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Del arte y los artistas» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/arte-artistas-isa-cuba/embed/#?secret=oSmmCoXf52" data-secret="oSmmCoXf52" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 El arte es renovación y crítica social. Acéptelo. Plasmación de un mejor futuro y restringirlo es amputarle miembros a lo natural. 
 
@@ -46,17 +38,3 @@ Un filme es una secuencia creativa de imágenes hasta que llega un creador y en 
 A.M. 21 de junio/2021
 
 _Tomado del Facebook del autor_
-
-> [Debate sobre el valor del arte](/debate-sobre-el-valor/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Debate sobre el valor del arte» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/debate-sobre-el-valor/embed/#?secret=Yhaj1sbxrX" data-secret="Yhaj1sbxrX" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-Arte y la Política Cultural en Cuba, Arte y la Política Cultural en Cuba, Arte y la Política Cultural en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2021/06/2021-06-26-12.28.50.jpg)
-    
-    ![](/wp-content/uploads/2021/06/2021-06-26-12.28.50.jpg)
-    
-    [Arturo Mesa](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/arturo-mesa/)

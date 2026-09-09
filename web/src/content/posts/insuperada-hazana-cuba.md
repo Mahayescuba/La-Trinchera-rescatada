@@ -3,7 +3,7 @@ title: "Una insuperada hazaña… mal recordada"
 date: "2019-05-24T05:55:59+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2019/05/PicsArt_05-24-01.52.45.jpg"
+image: ""
 ---
 hazañas de Cuba.
 
@@ -22,15 +22,3 @@ Por último, la comparación de las víctimas de la guerra es más que clara: do
 En un final, que resulta imposible negar la magnitud y desbalance de la guerra Indochina como una de las más desiguales, pero el reconocerla debe servirnos a los cubanos para recordar que nuestros tatarabuelos, y bisabuelos, superaron con mucho ese listón, o cualquier otro impuesto en la ya milenaria historia humana. Y esto, lector, es vital que lo sepas.
 
 hazañas de Cuba hazañas de Cuba hazañas de Cuba hazañas de Cuba hazañas de Cuba hazañas de Cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

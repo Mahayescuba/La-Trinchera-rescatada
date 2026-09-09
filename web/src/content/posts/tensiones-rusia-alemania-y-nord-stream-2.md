@@ -1,9 +1,9 @@
 ---
-title: "tensiones Rusia Alemania y Nord Stream 2"
+title: "Tras el telón"
 date: "2020-09-23T09:30:00+00:00"
 author: "Ernesto Gutiérrez Leyva"
 category: "Política"
-image: "/wp-content/uploads/2020/09/Russian-Fairy-Tales-.jpg"
+image: ""
 ---
 tensiones Rusia Alemania y Nord Stream 2.
 
@@ -21,8 +21,6 @@ La llegada de Donald Trump supuso un cambio inesperado en la filosofía que ha 
 
 En el contexto del proteccionismo comercial de USA, así como de una retórica casi despectiva hacia la Unión Europea por parte de Trump, no es de extrañar que el Viejo Continente, con Alemania a la cabeza, se planteara buscar nuevos _aliados estratégicos_ para solucionar su eterno dilema: el déficit energético.[1](http://www.catalunyaoress.es/texto-diario/mostrar/1980098/energia-europa-depende-moscu)
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica/transicion-en-rusia/
-
 Moscú se erigía como una opción -si no la única- nada despreciable. A pesar de que las relaciones entre el Kremlin y la UE estaban en un punto más bien bajo, a raíz de la crisis ucraniana y la incorporación de Crimea a la Federación rusa -lo cual buena parte de Occidente no reconoce-, la Economía suele terminar hablando más fuerte. Lo cierto es que las economías rusa y comunitaria son más que complementarias y ya desde hacía décadas venían cooperando. Rusia posee recursos naturales -energéticos- que Europa necesita desesperadamente, y la nación euroasiática, antes de las sanciones, se beneficiaba del acceso a los mercados financieros y comerciales europeos. 
 
 > _Si los vínculos económicos entre rusos y el resto de Europa no son más estrechos, se debe exclusivamente a la desconfianza política existente, no a la falta de potencial_
@@ -31,17 +29,13 @@ Si los vínculos económicos entre rusos y el resto de Europa no son más estrec
 
 Alemania, principal economía de Europa, está enfrascada en un proceso de sustitución del carbón y energía nuclear (a raíz del incidente en Fukushima, Japón). En 2011 el Nord Stream 1 fue terminado y poco después fue iniciado el célebre Nord Stream 2, del cual ya han sido colocados casi el 83% de un total de 2460 km previstos, [a decir de la estatal gasífera rusa Gazprom](https://mundo.sputniknews.com/infografia/201910071088904439-el-gasoducto-nord-stream-2-al-detalle/). Otro factor que dificulta el proyecto es la cantidad de países por cuyas aguas territoriales atraviesa (consúltese el link anterior), a saber, Finlandia, Suecia, Dinamarca, Alemania, y Rusia, claro está.
 
-Por otro lado, la multiplicidad de actores involucrados no hace más que incrementar los [flancos susceptibles de ser atacados vía sanciones por Estados Unidos:](applewebdata://042D4982-9CB6-4583-89A3-15856C040725/https./m.dw.com/es/ee-uu-congreso-aprueba-sanciones-contra-gasoducto-ruso-nord-stream-2/a-51712633) intervienen empresas de Rusia, Suiza, [Alemania](applewebdata://042D4982-9CB6-4583-89A3-15856C040725/https./actualidad.rt.com/actualidad/366730-alemania-mil-millones-eeuu-salvar-nordstream), Austria, Francia y Países Bajos. El empeño germano en salvaguardar el gasoducto se entiende perfectamente si tomamos en cuenta que tendría capacidad para transportar 55 mil millones de metros cúbicos de combustible, volumen más que considerable si tenemos en cuenta que en 2019 la cifra -record- [del suministro de la nación eslava a Alemania fue de 55 500 millones de m3](https://mundo.sputniknews.com/econom%C3%ADa/201912061089553937-putin-nord-stream-2-duplicara-el-suministro-de-gas-ruso-a-alemania/).
+Por otro lado, la multiplicidad de actores involucrados no hace más que incrementar los flancos susceptibles de ser atacados vía sanciones por Estados Unidos: intervienen empresas de Rusia, Suiza, Alemania, Austria, Francia y Países Bajos. El empeño germano en salvaguardar el gasoducto se entiende perfectamente si tomamos en cuenta que tendría capacidad para transportar 55 mil millones de metros cúbicos de combustible, volumen más que considerable si tenemos en cuenta que en 2019 la cifra -record- [del suministro de la nación eslava a Alemania fue de 55 500 millones de m3](https://mundo.sputniknews.com/econom%C3%ADa/201912061089553937-putin-nord-stream-2-duplicara-el-suministro-de-gas-ruso-a-alemania/).
 
 Llegamos a 2020, año electoral en Estados Unidos. Uno de los candidatos, el demócrata Joe Biden, evoca constantemente su rol como vicepresidente de la administración Obama, a la par que critica férreamente a su rival republicano por sus políticas comerciales. El caso europeo no es la excepción [3](https://www.eltiempo.com/mundo/biden-una-esperanza-para-la-resurreccion-de-la-alianza-transatlantica-532348), lo cual no es de extrañar, dada su notoria implicación y apoyo al TTIP durante su gestión como vicepresidente.
 
 > _Nos encontramos ante una Europa que prácticamente reza por la victoria de Biden_  _y que calcula que el Nord Stream 2 será llevado a la mesa de negociaciones_
 
-Entonces, nos encontramos ante una Europa que prácticamente reza por la victoria de Biden [4](applewebdata://E04C7BCA-1E51-4A52-A4D4-E09F262F7C06/%20https:/www.elconfidencial.com/economia/2020-06-26/elecciones-eeuu-ue-menu-electoral-trump_2657715/) y que calcula que el Nord Stream 2 será llevado a la mesa de negociaciones, si USA decidiera definitivamente retomar la senda del libre comercio. Inclusive, ya desde sus días como vicepresidente, el demócrata criticó abiertamente el gasoducto[5](applewebdata://E04C7BCA-1E51-4A52-A4D4-E09F262F7C06/%20https:/www.finanzas.com/empresas-y-directivos/biden-cree-que-el-gasoducto-nord-stream-ii-seria-un-mal-negocio-para-europa_13469008_102.html%20)., y es en este contexto que ocurre el presunto envenenamiento del opositor ruso Alexéi Navalny.
-
-![](/wp-content/uploads/2020/09/Russia-Nord-Stream-2-Denmark-Akademik-Cherskiy-Baltic-gas-pipeline-hydrocarbons-energy-industry-gas.png)
-
-![](/wp-content/uploads/2020/09/Russia-Nord-Stream-2-Denmark-Akademik-Cherskiy-Baltic-gas-pipeline-hydrocarbons-energy-industry-gas.png)
+Entonces, nos encontramos ante una Europa que prácticamente reza por la victoria de Biden [4](https://www.elconfidencial.com/economia/2020-06-26/elecciones-eeuu-ue-menu-electoral-trump_2657715) y que calcula que el Nord Stream 2 será llevado a la mesa de negociaciones, si USA decidiera definitivamente retomar la senda del libre comercio. Inclusive, ya desde sus días como vicepresidente, el demócrata criticó abiertamente el gasoducto[5](https://www.finanzas.com/empresas-y-directivos/biden-cree-que-el-gasoducto-nord-stream-ii-seria-un-mal-negocio-para-europa_13469008_102.html)., y es en este contexto que ocurre el presunto envenenamiento del opositor ruso Alexéi Navalny.
 
 SOURCE: NORD-STREAM2.COM
 
@@ -60,11 +54,3 @@ Otras reacciones europeas, aunque mucho más moderadas como la francesa no se ha
 Alemania entiende que será mucho más fácil deshacerse del gasoducto en aras de complacer a Washington si no llega a estar operativo, de ahí que el polvo levantado por el infortunio de Navalny le venga como anillo al dedo a Berlín para dilatar el asunto. Sea cual sea la decisión que tomen los alemanes, dudo que nos enteremos antes del 3 de noviembre próximo.
 
 tensiones Rusia Alemania y Nord Stream 2, tensiones Rusia Alemania y Nord Stream 2, tensiones Rusia Alemania y Nord Stream 2
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/ernesto-g.jpg)
-    
-    ![](/wp-content/uploads/2021/02/ernesto-g.jpg)
-    
-    [Ernesto Gutiérrez Leyva](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/ernesto-gutierrez-leyva/)

@@ -1,9 +1,9 @@
 ---
-title: "Futbol y mercado- Julio Pernús"
+title: "La Champions y el fútbol deben tejer un nuevo paradigma existencial"
 date: "2020-08-27T09:30:00+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2020/08/guia-.jpg"
+image: ""
 ---
 futbol y mercado
 
@@ -31,22 +31,6 @@ Como ser humano, tengo fe en que sabremos encontrar algunas respuestas en los pr
 
 Esta semana recomendamos la final de la _Europa League_ y la _Champions League_ que aparece en el _[paquete semanal](http://paquetedecuba.com)_ en la carpeta de deportes.  
 
-> [Una luz en la oscuridad](/una-luz-en-la-oscuridad/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Una luz en la oscuridad» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/una-luz-en-la-oscuridad/embed/#?secret=TlLQnFW1lY" data-secret="TlLQnFW1lY" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
 [También puede interesar](/culture/)
 
 futbol y mercado. futbol y mercado. futbol y mercado
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

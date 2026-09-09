@@ -3,7 +3,7 @@ title: "Lukács: antimperialismo y socialismo"
 date: "2020-03-29T22:35:54+00:00"
 author: ""
 category: "Marxismo en Cuba"
-image: "/wp-content/uploads/2020/03/bibliotecalukacs.jpg"
+image: ""
 ---
 Mario Valdés Navia escribe sobre el pensamiento y la vida de George Lukács, uno de los filósofos marxistas más importantes del siglo XX.
 
@@ -28,15 +28,3 @@ Para contactar al autor: mariojuanvaldes@gmail.com
 \[1\] G.Lukács: “Entrevista: En casa con György Lukács” \[1968\]. En G.Lukács: Testamento político y otros escritos sobre política y filosofía inéditos en castellano, pp.121.
 
 [Tomado de](https://jovencuba.com/2020/03/27/lukacs-antimperialismo-y-socialismo/) _[La Joven Cuba](https://jovencuba.com/2020/03/27/lukacs-antimperialismo-y-socialismo/)_
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

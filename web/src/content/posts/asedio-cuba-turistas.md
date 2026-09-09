@@ -3,7 +3,7 @@ title: "Asedio"
 date: "2019-06-27T19:14:44+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/06/PicsArt_06-27-03.18.21.jpg"
+image: ""
 ---
 Para a un turista en su carro de renta y pide somatón o cázalo saliendo de [_Tropicana_](https://es.wikipedia.org/wiki/Tropicana) con aliento etílico y asedio a las cubanas que estén montadas. 
 
@@ -18,15 +18,3 @@ Si estás fuera -incluso de tu provincia- y tienes que revisar a un extranjero, 
 Para a un turista en su carro de renta y pide somatón o cázalo saliendo de [_Tropicana_](https://es.wikipedia.org/wiki/Tropicana) con aliento etílico y asedio a las cubanas que estén montadas… pero no les quites dinero, haz tu trabajo, bien.  
 No te la busques con los tuyos. Se justo y quítate el uniforme o disfraz de autoridad para ser otro de los asediados.  
 Cuba está asediada por el turismo. No somos quienes vamos a molestar a su país. Este es nuestro, no de ellos. ¿Quién es el asediado entonces?
-
-[Otro texto del autor](/onirica/) 
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    [Anckla](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/anckla/)
-    
-    [](https://www.amazon.com/s?i=digital-text&rh=p_27%3AAnckla+Almirante+&s=relevancerank&language=es&text=Anckla+Almirante+&ref=dp_byline_sr_ebooks_1)

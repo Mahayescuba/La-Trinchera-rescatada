@@ -3,7 +3,7 @@ title: "Que venga, ¡qué lo estoy esperando!"
 date: "2020-01-01T04:17:11+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/12/FB_IMG_15778450804482670.jpg"
+image: ""
 ---
 2019.
 
@@ -18,15 +18,3 @@ Le agrego, que dividirse en izquierda o derecha es tan productivo como dividirse
 Demasiado para un solo año, y para recordarlo mientras espero un brindis en familia. Sin tener el recurso literario necesario para cerrar estas líneas apuradas, solo me queda despedir al 19, y decirle al 20, que venga, ¡qué lo estoy esperando!
 
 2019 2019
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

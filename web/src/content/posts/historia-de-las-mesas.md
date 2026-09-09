@@ -1,17 +1,15 @@
 ---
-title: "Producción y consumo de alimentos en Cuba"
+title: "Historia de las mesas"
 date: "2020-11-24T10:30:00+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/11/Jan-Howlin.jpg"
+image: ""
 ---
 La producción nacional de alimentos constituye aspecto número uno de la [Estrategia Económico-Social](https://www.mep.gob.cu/es/node/344) para el impulso de la economía. Es dimensionada como _fuente principal de alimentación del pueblo y de acumulación para el desarrollo_.
 
 Se cae de la mata, porque es ley de cualquier fruto que se siembre, que una visita gubernamental a una provincia dé tamaño de bola de hasta dónde nos apretamos el cinto ante la situación con el condumio. Por ello dirijo las orejas a lo que dice el noticiero sobre el tercer examen en vivo del Gobierno a la occidental Matanzas.
 
 Ramiro Valdés Menéndez visita la Unidad Empresarial de Base Cría Frank País, donde se interesa por la producción de carne de cerdo. Se oye _carne de cerdo_ y es de esperar se diga cómo va la cosa en Varadero con _aro, balde y paleta_, sobre todo con la paleta, pero el periodista solo atina a explicar que _La entidad cuenta con un biodigestor capaz de tributar diariamente 380 kilowatts al sistema electroenergético nacional y aportar una tonelada de materia orgánica a las 7,2 hectáreas que se destinan para el autoabastecimiento_.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/esperando-al-camion-podcast/
 
 Salvador Valdés Mesa cae por la empresa azucarera y declara: _La historia y cultura cañeras deben ser incentivos para recuperar los índices productivos_. No agrega que es imposible recuperar los índices productivos si no es con centrales azucareros, y que buena parte de dichas industrias resultaron desmanteladas sin que la historia y la cultura cañeras fueran tomadas en cuenta. El vicepresidente termina orientando sobre la producción del campo: _Las estructuras, los factores del municipio, juegan en esto un papel importante. La agricultura produce, es su responsabilidad, a través de la base productiva, en la forma de gestión que nosotros tenemos, pero el Gobierno controla, ¡controla!, que produzcan_. Por controlar tanto, aporto yo, es que la tierra ha terminado por negarnos el sustento.
 
@@ -22,15 +20,3 @@ Más adelante, en el propio noticiero, un reportaje sobre los altos precios como
 El aumento de la producción de alimentos no ha dependido ni dependerá nunca de los llamados de la máxima dirección del país, mucho menos de las veces que Machado Ventura incursione en el interior de este caimán en veda. Si así fuera, se comieran en las cuatro latitudes planetarias las empellas de los puercos que cagan kilowatts en Matanzas. 
 
 ¿Cómo lograr que los habaneros consumamos más allá de las raquíticas ocho libras que la inviolable ley de oferta y demanda nos obliga a comprar cual tesoro de reyes? El Granma, en la misma fecha, parece darnos la respuesta con la publicación de una nota informativa sobre el recorrido del segundo secretario del PCC por varias cooperativas artemiseñas, en el que _llamó a involucrar al pueblo en la producción de alimentos,_ cual si no bastaran ochocientos mil trabajadores en función de la agricultura. La nota ostenta un complaciente título: _La mesa de cada cubano es preocupación de país_. ¿Y de las sillas quién se ocupa?, digo yo.
-
-producción y consumo de alimentos en Cuba, producción y consumo de alimentos en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

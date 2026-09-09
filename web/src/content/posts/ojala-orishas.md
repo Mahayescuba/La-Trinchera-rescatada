@@ -1,24 +1,12 @@
 ---
-title: "ojala orishas"
+title: "Ojalá pase de una vez esta canción"
 date: "2020-01-31T18:15:42+00:00"
 author: "Mónica Baró Sánchez"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/01/Alvares-Residence-Music-Room-1-Margao-Goa-India-by-Robert-Polidori-on-artnet.jpeg"
+image: ""
 ---
 La [canción](https://www.youtube.com/watch?v=QmH7r2W1VNQ) es mala. Muy mala. Es tan mala que estoy segura de que nadie se sabe otro pedazo que no sea el del coro y porque es de otra canción que media Cuba o Cuba y media se sabe. Al video lo único que le falta son ositos del cariño y cupidos disparando flechas. La canción es chea. Al mal arte no se le puede perdonar lo malo por ser políticamente correcto, desde un punto de vista de lo políticamente correcto. Es hasta conservadora, si nos ponemos estrictos. Ojalá pase es como encomendarle el país a la suerte o a los mismos Orishas y sustraerse de la ecuación del cambio. Como si lo que está jodido en Cuba fuera a pasar por sí solo, con un ojalá. Decir Ojalá pase es como decir Ojalá no llueva. Y bueno, la lluvia no depende de ti, pero que tu país sea un lugar más justo y democrático, sí. Además, la canción llega tarde a la fiesta, y llega floja. Si vas a llegar tarde al menos llega con algo contundente. No sé, digo yo, que cuando llego tarde llego toda regia y llena de brillos. Algo con lo que la gente pueda decir: llegaste tarde a esta cumbancha pero llegaste y rompiste. En 2020 decir lo que dice la canción más discutida de las redes sociales no es ningún mérito. Está bien que lo diga, le podemos comprar un cake y cantarle felicidades, con velitas incluidas, pero no hay mérito. No cuando ya en 2007 se podía cantar el “No coma tanta pinga coma andante” de Porno para Ricardo. En 2006 o 2007 yo caminaba en masa a un concierto de Carlos Varela en los Jardines de la Tropical, dispuesta a coger todo el spray de pimienta del mundo en la cola para poder entrar, y el preludio del concierto eran las canciones de Porno para Ricardo de fondo. Y salíamos del concierto y seguíamos cantando Porno para Ricardo. Porno para Ricardo nos hacía cantar en la calle en voz alta, con 18 o 19 años, lo que no teníamos valor para decir. Sus canciones fueron quizás los primeros espacios de libertad política que viví en Cuba. Ojalá pase no se canta ni se va a cantar en ningún lugar, como canción política no es buena, porque es vieja, además de tibia, y como canción, a secas, es mala. Al menos a mí no me basta con que exprese una intención crítica. El arte lo juzgo como arte. Igual hubieran podido dar una entrevista. Si el punto era decir por decir, hubieran dado una entrevista, porque al final una canción mala no va a trascender. Va y me equivoco y dentro de unas semanas Ojalá pase se convierte en El Comandante del 2020, en otra Bajanda, quién sabe, pero yo, humildemente, creo que no. Para lo más que ha servido hasta ahora es para discutir sobre los derechos de autor en piezas musicales en las redes sociales. Debo decir que he aprendido mucho sobre el tema, he seguido los debates, me siento muy agradecida con todas las personas que han aportado sus conocimientos, pero ya. Ni siquiera ha servido para discutir de política porque de pronto el mundo se está dividiendo entre la gente a la que le gusta la canción y a la que no, y si no te gusta es porque estás a favor del gobierno. Dentro de poco empezaremos a presentarnos con un “hola soy Fulana y me gusta la canción de Orishas”. Y yo adoro Orishas, si mañana el grupo viene a Cuba y da otro concierto, si le dejan después de esto, voy a estar ahí en primera fila, pero esta canción es mala y a mí el arte me gusta por lo que me ofrece como arte no por lo que yo sospecho que fueron las intenciones de sus creadores. Bueno, pues ya lo dije, ya lo saben, soy de esas personas a las que no les gusta Ojalá pase, que piensan que es una canción muy olvidable y desea con todas sus fuerzas, por amor al arte y a Orishas, que ojalá pase de una vez esta canción.
 
 **Tomado del Facebook de la autora**
 
 [También puede interesar](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

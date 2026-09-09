@@ -1,9 +1,9 @@
 ---
-title: "Los medios de producción, entendidos desde la dialéctica"
+title: "Qué significa tomar los medios de producción"
 date: "2018-03-05T16:15:53+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Teoría"
-image: "/wp-content/uploads/2018/03/Fabrica.jpg"
+image: ""
 ---
 El modo de producción, es el concepto que recoge la forma específica en que el hombre produce su realidad (sentido muy amplio). Este tipo de lógica es aplicable a toda la naturaleza, pero solo se utilizó en Marx (a partir de Hegel) y se empleó a la sociedad. El modo de producción como concepto no es la totalidad _per se_, pero si se le aplica a la totalidad esa forma de entendimiento, se puede concebir la totalidad como un modo de producción.
 
@@ -46,17 +46,3 @@ Entender esto serviría para dejar de repetir indiscriminadamente que se deben t
 \[2\] Las fuerzas productivas en el capitalismo son todas aquellas capacidades insertadas en el sistema, le sean funcionales o no.
 
 \[3\] Hago la distinción porque obrero es el trabajador y el proletario es aquel que no posee nada. En la época histórica que vivió Marx los obreros de la Europa Industrial, eran proletarios. Hoy, el obrero europeo medio de esos países, dista mucho de ser proletario.
-
-[Otro texto del autor](/economia-politica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

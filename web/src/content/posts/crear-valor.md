@@ -1,9 +1,9 @@
 ---
-title: "crear valor La Trinchera Miguel Alejandro Hayes Debate"
+title: "Quién crea valor"
 date: "2018-05-30T12:20:50+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Economía Política"
-image: "/wp-content/uploads/2018/05/or25c325adgenes2brse.jpg"
+image: ""
 ---
 En materia económica se habla mucho de la creación de [valor.](/2018/) Esta cuestión ha sido abordada por diferentes corrientes de pensamiento. Dentro de estas, está el marxismo, el cual se ha visto seriamente afectado por la influencia de estas. Es por eso, que me planteo la interrogante, ¿cómo entender desde la teoría de Marx quién crea valor?
 
@@ -58,15 +58,3 @@ Es muy importante para la economía marxista contemporánea aclararse estas cues
 5\. —. Fundamentos generales del modo de producción capitalista II. La Habana : Félix Varela, 2004.
 
 6\. Foncerrada Pascal, Luis Antonio. Sraffa y Böhm-Bawerk . 2002.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

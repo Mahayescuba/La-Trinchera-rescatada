@@ -3,7 +3,7 @@ title: "Los caminos de la UJC"
 date: "2019-04-05T06:20:12+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/04/PicsArt_04-04-05.06.20-1.jpg"
+image: ""
 ---
 UJC Cuba. 
 
@@ -50,15 +50,3 @@ Quisiera terminar felicitando a la UJC y encomiando el trabajo de quienes en ell
 Versión original publicada en La Joven Cuba
 
 UJC Cuba UJC Cuba UJC Cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

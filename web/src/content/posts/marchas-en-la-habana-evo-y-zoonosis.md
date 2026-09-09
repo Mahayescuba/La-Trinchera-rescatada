@@ -3,7 +3,7 @@ title: "Parece que ayer fue un gran día"
 date: "2019-11-12T21:30:30+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/11/Pawel-Kuczynski-10.jpg"
+image: ""
 ---
 Zoonosis. 
 
@@ -20,15 +20,3 @@ Se trató, sin dudas, de otra victoria para el ejercicio de reclamos legítimos 
 Por el otro lado, hubo una pequeña marcha -mucho menos independiente-, que daba un mensaje de apoyo a [Evo Morales](https://es.wikipedia.org/wiki/Evo_Morales), y condenaba el golpe de estado realizado a este. Esto, claro, no fue contra una institución del estado-partido. Y se contó con el permiso de autoridades y de otras instituciones; se puede apreciar en la medida que había presentes funcionarios y símbolos de organizaciones e instituciones. Se trataba de un acto con un marcado carácter político. Me consta que no se materializó hasta que no aparecieron determinadas autorizaciones.  
 Por la importancia de las actividades realizadas creo que fue un gran día. Ambas fueron iniciativas que vinieron de abajo y que, en el primer caso no recibió el golpe duro de arriba, sino que se _toleró_; en el segundo, recibió la autorización. Tal vez, los resultados comienzan a ser parte de una nueva cultura política donde las normas del sistema se flexibilizan, pero siempre delimitando hasta dónde se puede actuar sin autorización. Solo tal vez, porque mientras escribo estas breves líneas en las redes sociales preguntan por los defensores del derecho de los animales de ayer.  
 En cualquier caso, me surge una pregunta cuya respuesta pudiera ofrecer conclusiones que trasciendan la formulación inicial: ¿cuántos estuvieron primero protestando frente a _Zoonosis_, y luego fueron a apoyar a Evo?
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

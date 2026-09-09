@@ -3,7 +3,7 @@ title: "El Juego de ajedrez (I)"
 date: "2020-02-19T20:35:59+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/02/Salvador-Dalí.jpg"
+image: ""
 ---
 Ideología. 
 
@@ -16,16 +16,4 @@ Para mí, un ciudadano común sin ningún vínculo extraordinario con el Estado 
 Del otro lado del estrecho de la Florida sucede otro tanto. Tras sesenta y un años de poder y varias rupturas discursivas, ¿qué cosa es el “castrismo”? ¿El de [La Historia Me Absolverá](https://es.wikipedia.org/wiki/La_historia_me_absolver%C3%A1)? ¿El de Palabras a los Intelectuales? ¿El que plantea un concepto de Revolución que hasta un delincuente buscado por estafa en EUA como fue Gilberman reprodujo en un mural de su mansión?  
 Quizás la explicación al despliegue policial que vi hace unos días esté dada en lo que sólo se explica como un juego de ajedrez propagandístico que apela a la falta de sentido en la vida de todos aquellos que no participamos del juego; aquellos a los que vivir les parece más trascendente que la política.
 
-Ideología. Ideología. Ideología. 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+Ideología. Ideología. Ideología.

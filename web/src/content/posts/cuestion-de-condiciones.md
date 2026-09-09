@@ -24,15 +24,3 @@ Y no se trata de que en ese sector esté la mayor radicalidad y valentía para e
 Firmaron estudiantes universitarios, claro. Pero no era conveniente según la auto-percepción de estos, hacerlo saber en la web. De la misma forma, a otros tantos pupilos les hubiese gustado colaborar, o participar críticamente en el debate actual a través de sus redes, pero ellos también esperan a obtener la patente que los certifica de profesionales para dar su grito al viento.  
 Así, la actividad –y no tiene que ser revolucionaria- cívica del criterio, de participar conscientemente en el debate público y en las dinámicas discursivas de mantener/modificar el pacto social y que es propia de los jóvenes –y que en nuestro país hay una larga tradición de ello- deberá conservarse para “cuando se pueda”.  
 La edad promedio de rebeldía la hemos desplazado hacia pasados los cuarenta. El joven cubano rebelde de hoy, ejercerá la suya cuando duplique su edad y ya tenga un máster, un doctorado, ¡un diploma!
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

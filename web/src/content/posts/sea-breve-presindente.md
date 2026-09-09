@@ -3,7 +3,7 @@ title: "Sea breve presidente"
 date: "2019-10-16T18:48:35+00:00"
 author: "Alina B. López Hernández"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/10/19-10-16-Alina-Sea-breve-presidente.jpg"
+image: ""
 ---
 Las diferencias ideológicas no pueden ser barreras infranqueables. Eso lo aprendí estudiando la vieja república, donde Juan Marinello y Jorge Mañach se hallaban en las antípodas en cuanto a sus ideales políticos y, sin embargo, se mantuvieron unidos en su amor por Cuba, proyectos culturales afines y una amistad que se conservó a salvo de discrepancias y vaivenes personales.
 
@@ -58,15 +58,3 @@ Para contactar con la autora: alinabarbara65@gmail.com
 \[3\] Discurso de Fidel en la Universidad de la Habana el 13 de marzo de 1966, en ocasión del IX Aniversario del Asalto al Cuartel Moncada.
 
 **[Tomado de La joven Cuba](https://jovencuba.com/2019/10/16/sea-breve-presidente/)**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

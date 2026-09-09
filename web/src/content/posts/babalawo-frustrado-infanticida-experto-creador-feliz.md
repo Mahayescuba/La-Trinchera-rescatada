@@ -1,9 +1,9 @@
 ---
-title: "filmografía de Michael Haneke"
+title: "Babalawo frustrado, infanticida experto, creador feliz"
 date: "2021-04-28T09:30:00+00:00"
 author: "Arian Rubio"
 category: "Cultura"
-image: "/wp-content/uploads/2021/04/Christophe-Charbonnel-.jpg"
+image: ""
 ---
 Autocomplacencia, sello de autor, provocación, guerra sin cuartel contra el público afiliado a la onda _Green Peace_, acentuación de la circunstancia dramática, ganas de joder… son solo algunos de los posibles móviles que pudieran excusar el casi obligatorio sacrificio animal presente en la filmografía de Michael Haneke. Divierte imaginarlo vagando por estos parajes, próximo a asistir en calidad de observador participante (pinta de antropólogo no le falta) a una ceremonia de santería en el más pintoresco solar de Guanabacoa. Habría que violar, por singular excepción, cuanta regla exista en el universo Yoruba con la finalidad de darle un gustazo a este raro espécimen, mezcla de José Martí y Saruman el blanco. Total… ¿Qué no se ha hecho aquí para complacer a un _yuma_? Sentado en un rincón, aturdido por cánticos nigerianos que se repiten en boca de mujeres rollizas llenas de collares y sudores ácidos, degustaría un incesante ritual de decapitaciones, atracción hasta entonces imposible de reservar como experiencia de _Airbnb_. La sangre salpicándole los zapatos, el olor a plumas y cagadas de chivo le van robando el apetito. Una docena de cabezas sangrientas al pie de ídolos de madera embarrados de miel, vasijas con voraces piedras sagradas, cabezas de chivos, pollos, jicoteas, gallos… Algo apendejado, se va a tomar una siesta y piensa que, en efecto, a veces se puede ir demasiado lejos, incluso para satisfacer la sed de los dioses propios.
 
@@ -12,8 +12,6 @@ Al cineasta austríaco su dios particular parece exigirle sacrificios también. 
 Si sirve de algo, a los humanos no les va ir mejor. A muy poca gente le va bien en una película de Haneke, en honor a la verdad y a propósito de una palabra clave: realismo. La vida nunca ha sido rosada, la vida real está tan lejos del rosado como pretende estar el creador del cine que sabe qué no debe hacer. La fuerza tremenda de sus imágenes y lo retorcido de los argumentos, cobran doble originalidad por meterse con el mundo infantil, lo que muchos pueden ver como ‘‘víctimas sagradas’’ y quedar descolocados, y pensar seriamente en levantarse de la butaca antes que se ponga peor la cosa. Tomaré de ejemplo _Der siebente Kontinent (1989)_, _Benny’s video (1992)_, _Funny Games (1997)_, _Le temps du loup (2003)_, _Caché (2005),_ _Das weisse band (2009)_ y _Happy End (2017)_. 
 
 En su primer largometraje, el cineasta abordó el suicidio masivo como proyecto de familia, dejando claras las directrices de lo que se venía en el futuro. Por un lado, se delinean los arquetipos atractivos para el autor, a la vez que pone en jaque (o en jaque mate) al entorno familiar burgués por factores en su mayoría internos, temática que se hará recurrente en el autor, como si de una gran e inacabada tesis se tratase. Por otra parte, comenzaba a moldear ese fenómeno maravillosamente trágico, ese retorcido arte de hilvanar (de las más variadas formas) los sustantivos niño-muerte, tema escabroso de tocar en otras latitudes, o al menos tratado guardando formas y convencionalismos. En el caso anteriormente descrito, podemos ir anotando una primera víctima no adulta de pelo rubio y tiernos ojos verdes, y como complemento religioso paralelo, la muerte por asfixia de cada uno de los habitantes de una lujosa pecera burguesa dotada de ‘‘todos los hierros’’, hobby disfrutado por la pequeña.  
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-futuro-ya-no-vive-aqui/
 
 Tres años después asoma la cabeza al misterioso mundo infantil, desde un personaje victimario y otro en calidad de víctima, para no variar, y créditos necesarios a la actuación gélida del pre-adolescente Arno Frisch, que da uno de esos papeles que le vino que ni pintado. Aquí asistimos al más justificado de los crímenes de fauna «hanekianos», en tanto un cerdo es el gran detonante de todo lo que sucede, o la documentación casera de su rápido sacrificio, más bien, luego vista hasta el cansancio por la sedienta cabecita psicopática de un menor de edad, que a saber en qué hubiera parado de haber presenciado el lento y macabro fin de tantos cerditos cubanos que han padecido corrientazos, mandarriazos y puñaladas de sondeo mal dadas con motivo de buscar ese secreto ángulo por el cual el corazón queda partido a la mitad, propiciando así una muerte rápida. Y todo para que no falten nunca los chicharrones que usted se come en las celebraciones de fin de año. Especial atención merece la culpabilidad de los padres del psicópata en potencia (al director parece divertirle llenar a sus personajes adultos de una culpa pasiva y patética), que por un lado sufren la consecuencia de no supervisar los materiales audiovisuales que entretienen a su retoño, y por otra encubren el infanticidio perpetrado por su chamaquito que hasta ayer tenía tremenda cara de comemierda. Una compañerita de escuela, una rubiecita rarilla ahí.
 
@@ -25,22 +23,6 @@ En 2005 llega uno de sus más aclamados filmes, y puede vislumbrarse un momento 
 
 Año 2009, le da por el monocromatismo. La va a echar en blanco y negro, profunda, y será su película más intelectualmente elaborada. Filme en que retumba el eco del signo yoruba Iwori Bofún, signo de sangre y de muerte, donde los niños no hacen lo que los padres dicen, porque los padres a veces son hipócritas y no predican con el ejemplo, lo que genera a menudo esa predisposición que hace temer al niño y subvalorar al adulto. El niño es la cosecha malograda y culpable de lo que ocurrirá en el futuro. Llena de intríngulis semiótica en torno a la religión y la moral, no escatima esta cinta en crueldad contra los infantes, ni qué decir de los animales porque no ha transcurrido el minuto 1’ y ya hay un corcel desbocado comiendo polvo, y se crucifican periquitos a domicilio, y se perturban niños con _Down_…Y no es que al director le molestase seguramente, con una [Palma de Oro](https://es.wikipedia.org/wiki/Palma_de_Oro) en mano, pero a un servidor le hace cierta gracia saber que su mayor producción perdiera en los Oscars a mejor extranjera contra _El secreto de sus ojos_.
 
-![](/wp-content/uploads/2021/04/Happy_End_2017_film.png)
-
-![](/wp-content/uploads/2021/04/Happy_End_2017_film.png)
-
 Hace cuatro años salió _Happy End_, que en su ambigüedad sugestiona al espectador y le crea esperanzas de ver una historia al menos medianamente cruel, o acaso una historia donde el animal tenga su venganza contra el hombre, y no hemos llegado al minuto diez cuando envenenan al hámster con pastillas antidepresivas. Por otro lado, gracia tiene el juego de espejos y sombras que se cierne sobre la trama, porque acuden personajes arquetípicos tan familiares y parecidos a los de otros trabajos anteriores que parecen estar viviendo una segunda vida o lo que pasó después de los créditos. Ahí está el adulto inmaduro obsesionado con el sexo, la niñita deprimida que piensa en suicidio, ahí está el viejito que confiesa haber matado a su mujer postrada en un acto de compasión y amor, ahí está la macro-lectura posible al estilo del gran Krzystof Kieslowski, problematizando esta vez sobre refugiados vs. ricos y el enorme abismo entre ambos, y ahí también está el guiño a la obra propia, como si se estuviera despidiendo de sus personajes favoritos en íntima celebración. 
 
-En los predios del séptimo arte, Haneke campea entre cadáveres y premios, sonriente, sarcástico, dando malos ratos a sus entrevistadores, aduciendo una felicidad que mucho contrasta con la oscuridad de su cine, luciendo ese halo de intocable ganado a golpe de porrazos visuales. 
-
-filmografía de Michael Haneke, filmografía de Michael Haneke, filmografía de Michael Haneke, filmografía de Michael Haneke, filmografía de Michael Haneke, filmografía de Michael Haneke
-
-## Autor
-
--   ![](/wp-content/uploads/2021/03/Arian-Rubio2021-03-30-21.05.23.jpg)
-    
-    ![](/wp-content/uploads/2021/03/Arian-Rubio2021-03-30-21.05.23.jpg)
-    
-    [Arian Rubio](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/arian-rubio/)
-    
-    Red Label, el café con su justa dosis de chícharo, cigarro suave o fuerte según el día. Descubrí que aun puedo hacer diez planchas la semana pasada.
+En los predios del séptimo arte, Haneke campea entre cadáveres y premios, sonriente, sarcástico, dando malos ratos a sus entrevistadores, aduciendo una felicidad que mucho contrasta con la oscuridad de su cine, luciendo ese halo de intocable ganado a golpe de porrazos visuales.

@@ -3,7 +3,7 @@ title: "Francisco no es un “ciudadano” más"
 date: "2020-05-15T17:40:04+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2020/05/Guillaume-Roche.jpg"
+image: ""
 ---
 Han comenzado a llamar con un dejo irónico al Papa Francisco, el “ciudadano Bergoglio”, para restarle importancia como un líder relevante de la humanidad.
 
@@ -14,17 +14,3 @@ En Cuba, también se puede apreciar, aunque en menor medida, este tipo de conduc
 El actual sucesor de Pedro ha sido incluso etiquetado por algunos de estos grupos como un trasnochado militante de la izquierda latinoamericana o un representante de la _Teología de la Liberación_. Insinuaciones como estas han sido desmentidas por conocedores cercanos del Papa Francisco desde su etapa de pre-novicio, como el recientemente fallecido jesuita argentino Juan Carlos Scanone. Este teólogo aclaró que la visión defendida por su compañero de orden era la _Teología del Pueblo_, que no utiliza al marxismo como paradigma sociológico. Pero, nada de eso ha logrado hacer mella en las ideas de líderes, como el español Santiago Abascal, presidente de Vox, que categorizan cualquier propuesta que haga nuestro papa como la de un simple ciudadano más.
 
 No pretendo hacer de mi texto una apología de la figura de Francisco; no le hace falta. Como ser humano ha cometido errores, visibilizados en ocasiones de forma malévola por grandes trasnacionales mediáticas que detestan su cercanía a los pobres. Pero aun ese tipo de discurso, no puede negar que su pontificado ha sido ejercido desde una visión de fe y a través de una comunicación que apuesta por la ternura, la compasión y el perdón, lo que no deja fuera a sus detractores. Sus ideas han sido esbozadas desde lo que me atrevo a describir como el realismo del amor, capaz de llevar en sus hombros, al caminar en solitario por la plaza de San Pedro, todas nuestras cruces. Un ser humano así, un líder de esa magnitud, no es un ciudadano más.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "enajenación y marxismo"
+title: "La ciencia enajenada"
 date: "2018-07-04T12:22:22+00:00"
 author: "Miguel Alejandro Hayes Martinez"
 category: "Marxismo"
-image: "/wp-content/uploads/2018/07/Dirigibles.jpg"
+image: ""
 ---
 **Introducción**
 
@@ -70,17 +70,3 @@ Por otro lado, solo queda la lógica como camino. Marx -seguidor de la dialécti
 Con eso se da paso a una nueva vía de pensar la historia, y una nueva lógica que hizo de esa actividad que lo generó su propio contenido: relación hombre-actividad social. Podría pensarse eso también como una nueva forma de entender la lógica como disciplina, ya que es diferente a todas las anteriores.
 
 El caso es, que Marx cuando explica en [El Capital](https://webs.ucm.es/info/bas/es/marx-eng/capital.htm), está dando muestra de una nueva forma de asumir lo lógico y lo histórico, donde estas no están separadas, sino que una se convierte en el contenido de la otra, algo que es muy diferente a como se ha difundido y que merece ser estudiado con profundidad. Ahí, la historia se convierte en el estudio de los movimientos de reproducción del hombre, y la lógica un pensamiento basado en el desenvolvimiento de ese movimiento histórico-natural.
-
-[Otro texto del autor](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

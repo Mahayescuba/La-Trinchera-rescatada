@@ -3,7 +3,7 @@ title: "Los ecos de Heráclito y Aristóteles en la dialéctica de El Capital de
 date: "2018-06-27T13:50:47+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2018/06/movimiento-sol-1.jpg"
+image: ""
 ---
 ## Nota de La trinchera : Hace unos días se publicó en [Rebelión](http://rebelion.org/noticia.php?id=243388) un artículo donde se cuestiona la dialéctica como método. Por suerte, algunos no pensamos igual.
 
@@ -310,15 +310,3 @@ Thompson, George. _Los primeros filósofos_. Buenos Aires, Editorial Siglo Veint
 Zeleny, Jindrich. _La estructura lógica de «El Capital»_. México, Grijalbo, 1984.
 
 Tomado de [Rebelión](http://www.rebelion.org/noticia.php?id=243296)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

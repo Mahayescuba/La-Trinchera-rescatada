@@ -1,9 +1,9 @@
 ---
-title: "Relaciones sociales y de poder — Por: Miguel Alejandro Hayes"
+title: "Relaciones sociales de producción y relaciones de poder"
 date: "2018-07-31T12:00:42+00:00"
 author: ""
 category: "Trinchera Abierta"
-image: "/wp-content/uploads/2018/07/Esferas.jpg"
+image: ""
 ---
 Relaciones sociales y de poder.
 
@@ -62,13 +62,3 @@ Bibliografía
 2\. Hegel, Federico. La ciencia de la Lógica. s.l. : Ediciones Solar, 1982.
 
 3\. Acanda, Jorge Luis. Marx a Foucault: poder y revolución. \[En línea\]
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

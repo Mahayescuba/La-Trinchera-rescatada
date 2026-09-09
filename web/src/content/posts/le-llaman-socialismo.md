@@ -3,7 +3,7 @@ title: "Le llaman socialismo"
 date: "2019-10-18T12:40:35+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2019/10/IMG_20191017_225036.jpg"
+image: ""
 ---
 Lo peor es que, al aceptar todo lo que ha sido conocido como socialismo y asociado a este como si lo fuese, se niega y se impide ver otras sociedades o experiencias que pudieran tener algo de socialismo (aunque esta(s) esté(n) delante, y serán rechazadas por causa de la envoltura ideo-política).
 
@@ -28,17 +28,3 @@ Hay un gran problema ahí donde los entusiastas, activistas y militantes no van 
 Por el contrario, el ejercicio serio requiere desprenderse de esas ideas previas, y meditar sobre qué tipo de dinámicas se podría construir una sociedad específica, y qué necesita ésta para reproducirse e ir reduciendo sistémicamente las asimetrías sociales.  
 Mientras tanto, eso que llamamos socialismo seguirá en crisis, y se seguirá defendiendo no solo un conjunto de cosas equivocadas, sino que la lucha será en última instancia para respaldar una postura de estado, casualmente la de un estado-partido, o sea, la postura de un grupo en el poder que gobierna para sus intereses, pero a nombre de los obreros.  
 El lenguaje es de cuidado, ¡mire a lo que nos lleva!
-
-  
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Investigador independiente
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

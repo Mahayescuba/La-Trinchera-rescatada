@@ -1,9 +1,9 @@
 ---
-title: "danza y coronavirus soy biobomba resistiendo La Trinchera"
+title: "Soy biobomba resistiendo a la ocupación de mi cuerpo por el enemigo*"
 date: "2020-04-13T18:49:42+00:00"
 author: ""
 category: "Cultura"
-image: "/wp-content/uploads/2020/04/tumblr_o7ddljX2hu1uvsngzo3_640.jpg"
+image: ""
 ---
 ¿Podríamos hablar de danza y coronavirus?
 
@@ -78,17 +78,3 @@ Agradezco al dramaturgo Ricardo Sarmiento las lecturas y los debates suscitado a
 (4) Defiendo la idea que cuando nos referimos a pensamiento Occidental, nos referimos al pensamiento que se ha producido en Estados Unidos y Europa. En el caso de Europa, con mayor precisión, se refiere al pensamiento producido en Alemania, Francia, Italia, España y el Reino Unido.  
 (5) Marìa Galindo, Sopa de Wuhan. Editorial ASPO (Aislamiento Social, Preventivo y Obligatorio). Marzo 2020  
 (6) Término utilizado por Paul B. Preciado.
-
-[Otro texto del autor](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

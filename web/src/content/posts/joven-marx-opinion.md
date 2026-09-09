@@ -3,7 +3,7 @@ title: "El joven Marx"
 date: "2018-02-28T16:15:35+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Opinión"
-image: "/wp-content/uploads/2018/02/Le-Jeune-Karl-Marx-El-Joven-Karl-Marx-2017.jpg"
+image: ""
 ---
 Hace ya como un mes, revisando el ‘’paquete de la semana’’ me encontré una película: _El joven Marx_. ¡No podía creer que habían  hecho una película sobre Marx! Siendo honesto conmigo mismo, sé que no es más que un homenaje por el 200 aniversario de su nacimiento, pero igual me daba mucha alegría.
 
@@ -30,15 +30,3 @@ Nos muestra un mensaje político: no una alianza con los del mismo signo, sino 
 Es increíble cómo esto resulta consecuente con su [teoría del valor](/2018/) que enunciaría casi 20 años después de estos incidentes: no es el esfuerzo ni la intención, sino el resultado lo que sirve de base para que algo tenga valor, pero eso son otras reflexiones.
 
 Espero  haya hecho el efecto positivo en todos los que  hayan visto la película y  que el igual que yo hayan comprendido… ¡que necesitamos al joven Marx!
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

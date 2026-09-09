@@ -3,7 +3,7 @@ title: "Persona incómoda para los designios imperialistas"
 date: "2020-08-04T22:46:18+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2020/08/Eduardo-Abela-Guajiros.jpg"
+image: ""
 ---
 Calixto García. 
 
@@ -32,15 +32,3 @@ Tomás Estrada Palma, primer Presidente de la República, Delegado del Partido R
 Su cadáver no fue entregado a las autoridades cubanas allí presentes, y a pesar del intenso frío, fue enterrado con premura al amanecer.
 
 Sus restos llegaron a La Habana en febrero de 1899 y fueron enterrados en el Cementerio de Colón, luego trasladados a Holguín, donde descansan hasta hoy.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/hacer-la-rebeldia/
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

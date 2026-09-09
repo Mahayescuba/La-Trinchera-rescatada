@@ -3,7 +3,7 @@ title: "Utópico versus Real"
 date: "2019-04-01T06:38:21+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/04/PicsArt_04-01-02.13.52.jpg"
+image: ""
 ---
 Estado. 
 
@@ -37,15 +37,3 @@ Estado de derecho: este término se refiere a un Estado donde el poder de los go
 Asimismo, toda manifestación a favor del NO no llegó a puerto alguno, incluso era posible comprobar el nivel de censura enviando a un amigo un sms con el texto _yo voto no_ y otro que dijera _yo voto sí_. Ambos sms serían cobrados, pero solo uno llegaba a su destinatario. Ya en este foro [se ha abordado dicho](/politica-en-cuba/) [tema](/politica-en-cuba/).
 
 Y, si tenemos a un Gobierno que debiera regirse por una Constitución, pero que en un proceso tan importante como el que culminó el 24F la viola -a pesar de la legitimidad social de tal acción-, ¿la constitución en Cuba es un texto que limita el poder de los gobernantes, solo del pueblo? Pero el concepto de Estado de Derecho afirma que la función de la Constitución no se asemeja a realidad a la que estamos adaptados a vivir. Me cuestiono que seamos un Estado de Derecho.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

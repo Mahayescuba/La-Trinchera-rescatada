@@ -1,9 +1,9 @@
 ---
-title: "Gobierno provincial en Cuba"
+title: "El Gobierno Provincial en la nueva Constitución"
 date: "2018-10-08T14:47:21+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/10/Le-Land-Art.jpg"
+image: ""
 ---
 Gobierno provincial en Cuba.
 
@@ -20,15 +20,3 @@ La existencia de una asamblea provincial que fiscalice el trabajo del ejecutivo 
 La sustitución de la misma por un consejo provincial, que al que ni siquiera tiene que rendir cuentas el gobernador, no es un paso de avance en el proceso de perfeccionamiento de las estructuras del poder popular. Es sin duda dicha estructura uno de los mayores retrocesos y de los más peligrosos que introduce el nuevo texto constitucional porque ,en mi modesta opinión, es en el nivel provincial donde en gran medida se decide el correcto funcionamiento de una estructura de gobierno como en la que nuestro sistema se implementa.
 
 Gobierno provincial en Cuba. Gobierno provincial en Cuba. Gobierno provincial en Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

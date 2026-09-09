@@ -1,15 +1,13 @@
 ---
-title: "Revolución dentro de la Revolución"
+title: "Tiempos de tomar partido"
 date: "2021-02-04T17:00:00+00:00"
 author: "José Carlos"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/02/Graziano-Locatelli-.jpg"
+image: ""
 ---
 No me gusta opinar demasiado acerca de política en redes y medios de comunicación, sin embargo, estos no son momentos de inmovilismos, son tiempos de tomar partido por la causa que se defiende. Aquí mi opinión, la opinión de un joven cubano, como cualquier otro de esta isla. 
 
 En estos días, en que aquel manual de la llamada revolución de colores, o golpes [blandos](/politica-en-cuba/), ideado por Gene Sharp, es aplicada en Cuba —o por lo menos eso intentan— los comentarios políticos entre cubanos dentro y fuera de Cuba han colmado las redes. Tal parece que no se habla de otra cosa, y cada día surgen nuevos activistas políticos, nuevos actores de cambio, más y más personas incorporan ese marco a su perfil de Facebook —tan de moda por estos días— con ese hashtag #Cubadetodos, u otros.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/analisis-de-san-isidro/
 
 [Podcast El Solar](/podcast-cubano-el-solar/)
 
@@ -39,8 +37,6 @@ El proceso ha tenido errores, los tiene y los seguirá teniendo, porque es const
 
 Pero la Revolución no son esos errores, la Revolución no son esos extremistas que en nombre de la misma cometieron esos improperios. La Revolución es mucho más que las instituciones, que el gobierno, mucho más que Díaz-Canel, que Raúl y que Fidel, mucho más que nosotros mismos. La Revolución es un ideal, una guía para la acción, regido por un objetivo, la justicia social, esa república de Martí, donde la máxima fuese el culto a la dignidad plena del hombre.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/carta-a-mis-camaradas-sobre-san-isidro/
-
 Y es por la Revolución, por ese ideal, que debemos perfeccionar el país, que debemos rectificar errores cometidos, que debemos ser más inclusivos que nunca, dejar a un lado las intolerancias, esos pensamientos arcaicos que no hacen ningún bien a nadie, dejar de una vez esa censura y esos censores que le hacen mella a la nación y al proceso revolucionario; porque no creo que ni la Revolución ni el socialismo que construimos se base en acallar el pensamiento crítico, no lo creo.
 
 Se deben eliminar ya a esos dirigentes desligados de las masas, de sus electores, de esos a los que deben servir, de esos a los que deben representar.
@@ -54,13 +50,3 @@ Quedan muchas cosas por hacer, queda un largo camino por recorrer, pero este, po
 No soy muy amante de las consignas, pero no lo podía dejar de escribir, pero es necesario decir que viva Cuba (no la que me dictan desde la derecha resentida desde Miami), que viva esta Cuba que construimos y perfeccionamos nosotros mismos.
 
 ¡Viva la Cuba en Revolución!
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [José Carlos](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-carlos/)
-    
-    Profesor de Historia

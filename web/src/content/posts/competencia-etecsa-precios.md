@@ -3,7 +3,7 @@ title: "La competencia a ETECSA"
 date: "2019-07-02T15:04:02+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2019/07/internet-cuba-1.jpg"
+image: ""
 ---
 Ha sido noticia por estos días que un grupo de cubanos realizó una campaña en las redes sociales. En ella, se reclamaba a ETECSA la disminución de los precios de los servicios de Internet por datos móviles. Lo que terminó en un bombardeo de consignas y ofensas ideológico-políticas donde desde extremos del espectro se reclamaba más legitimidad, pero pudo haber sido un debate más provechoso.  
 Pude identificar una postura que abogaba por la inclusión de una o varias empresas de telefonía móvil, para que le hicieran competencia al monopolio estatal cubano (ETECSA) y este terminase por reducir sus precios. Quedaba planteada ahí la aplicación de un libre mercado en un sector de la economía interna; por tanto, un argumento ideológico tan abstracto como la propia concepción de libre mercado, hacía su aparición. Que con más empresas se disminuirán los precios, es una reducción de una dinámica de mercado, que como toda abstracción lleva implícita unos supuestos nada despreciables.  
@@ -26,15 +26,3 @@ No me propongo construir todas las posibles combinaciones y estructuras de merca
 Empujar a ETECSA a dejar de ser el monopolio indiscutible para que pase a compartir su hegemonía y que tal vez devenga en un oligopolio o estructura similar, no es precisamente una solución a los costo elevados de nuestros datos móviles.
 
 **Tomado de La Joven Cuba**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

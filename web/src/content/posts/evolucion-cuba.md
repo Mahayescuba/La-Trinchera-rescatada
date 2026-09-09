@@ -3,7 +3,7 @@ title: "La transversalidad de la evolución"
 date: "2019-08-04T11:55:50+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/08/IMG_20190804_000702.jpg"
+image: ""
 ---
 Evolución.
 
@@ -41,15 +41,3 @@ Aunque nos guste el balconcito que el vecino se hizo en su casa, no podemos cons
 Sí creo saber,sin embargo,como vivir en mi casa. Incluso me creo, a veces, cómo ponerla más bonita.
 
 Evolución Evolución Evolución Evolución Evolución Evolución
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

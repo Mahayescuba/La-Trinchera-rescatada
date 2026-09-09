@@ -1,9 +1,9 @@
 ---
-title: "Elecciones"
+title: "Elesiones"
 date: "2020-11-04T15:13:30+00:00"
 author: "Jorge Fernández Era"
 category: "Onírica"
-image: "/wp-content/uploads/2020/11/Mieke-Van-den-Hoogen.jpg"
+image: ""
 ---
 —Amiga, ¡¿qué me dices de las elecciones en Estados Unidos?!
 
@@ -62,13 +62,3 @@ image: "/wp-content/uploads/2020/11/Mieke-Van-den-Hoogen.jpg"
 —Centrémonos en lo nuestro: rezar y brindar por el posible triunfo de Biden y la poco probable derrota de Trump. 
 
 —¿Queda cocimiento?
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg#038;ssl=1)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg#038;ssl=1)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

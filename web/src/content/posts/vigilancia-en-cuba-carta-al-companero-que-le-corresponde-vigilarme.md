@@ -1,9 +1,9 @@
 ---
-title: "Vigilancia en Cuba"
+title: "Carta al compañero que le corresponde vigilarme"
 date: "2020-08-10T09:30:00+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/08/Chloé-Sontrop.jpg"
+image: ""
 ---
 vigilancia en Cuba.
 
@@ -21,13 +21,3 @@ Atentamente,
 Su Objetivo
 
 vigilancia vigilancia
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    [Elaine Roca](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/elaine-roca/)
-    
-    Graduada de Filosofía y Ciencias de la Religión. Trabaja en Instituto de Filosofía de Cuba. En La Trinchera no escribe de teoría.

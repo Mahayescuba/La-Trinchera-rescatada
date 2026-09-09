@@ -3,7 +3,7 @@ title: "Los burócratas siempre están demasiado ocupados"
 date: "2019-08-24T08:58:33+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/08/IMG_20190824_050616.jpg"
+image: ""
 ---
 Burócratas.
 
@@ -20,15 +20,3 @@ En este sentido, los sectores populares debieran comprender que si existiera ver
 Para quienes lo ignoran (o no desean saberlo y, menos aún, comprenderlo), citando al compañero Antonio Gramsci: _La burocracia es la fuerza conservadora más peligrosa_. Si ella, como secularmente sucede, se independiza de los sectores populares y se arroga un papel preponderante en la administración y el funcionamiento estatales, termina por generar más problemas que soluciones. Una cuestión que se repite en todo el mundo. Y esto se palpa a diario, incluso, mediante la actitud despótica y displicente que suelen adoptar secretarios y ayudantes personales (entre los cuales cabe incluir a los guardias de seguridad) de quienes ejercen los cargos de representación popular; los cuales establecen una especie de estratificación en cada antesala, en donde algunas personas (estimadas social, económica y políticamente inferiores) deben esperar mientras que otras (vistas como superiores) tienen libre acceso. De igual modo, cuando los burócratas alegan estar siempre ocupados, pero _extrañamente_ aligeran los trámites de amigos, colaboradores y gente de _mayor_ _rango_. Por todos estos rasgos visibles, el burocratismo debe calificarse como antidemocrático y contrarrevolucionario. Sabiéndolo, muchos movimientos sociales y políticos luchan por trascenderlo, poniendo en práctica estrategias y concepciones distintas a las establecidas que amplíen positivamente todo lo referente a la vigencia de la democracia y el papel a cumplir por la ciudadanía, lo que sería una conquista saludable para todos, independientemente de cuáles sean nuestras convicciones personales.
 
 **[Tomado de Rebelión](https://www.rebelion.org/noticia.php?id=259732&titular=los-bur%F3cratas-siempre-est%E1n-demasiado-ocupados-)**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Educación, ¿privilegio o derecho?"
 date: "2019-09-17T15:31:07+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/09/IMG_20190815_104440.jpg"
+image: ""
 ---
 Educación.
 
@@ -28,15 +28,3 @@ Es por eso que procede no solo la defensa del derecho a la educación sino tambi
 Digo esto porque encuentro absolutamente desafortunado el que se le exija al claustro universitario cubano el estar alineado ideológicamente a los designios del PCC. Lo que piense el profesor como ciudadano, solo a él le incumbe, pero como catedrático no le corresponde otra cosa que trascender esas cuestiones, y dedicarse por entero a su ciencia o materia.
 
 Independientemente de la bandera gubernamental, el Estado y el país nos pertenecen a todos los cubanos, y esa Constitución aprobada y ya promulgada el presente año, rige para todos los habitantes de esta Isla, independientemente de lo expresado en las urnas. El funcionario que adoptó esta lamentable postura fue designado con la finalidad de servir a todos los cubanos por igual, encomienda esta cuya efectivo cumplimiento resulta cuestionable al amparo de sus recientes declaraciones.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "La Casa de Papel"
 date: "2020-04-15T03:56:44+00:00"
 author: ""
 category: "Cultura"
-image: "/wp-content/uploads/2020/04/Trailer-casa-de-papel-Foto-Archivo.jpg"
+image: ""
 ---
 # Sobre la fe en su cuarta temporada
 
@@ -16,17 +16,3 @@ Las demás temporadas quizás han hablado de Dios o la religión, pero sin hacer
 
 a través de a La Casa de Papel, se escuchó en millones de hogares a la vez, un gesto pequeño que llena de sensibilidad al público receptor.  
 La serie, propiamente, traía esta vez un objetivo social, ya que estaba programada para salir en las vacaciones y Netflix la adelantó para ayudar a sus usuarios a quedarse en casa. Y la alegría de poder ver la interpretación de esa canción cristiana como símbolo de la unidad entre personas de diferentes ideologías, países y creencias religiosas, al menos a mí, me ayudó a comprender con mayor fuerza, el sentido universal de lo que representa para mí mi religión, y cómo la fe es un catalizador que, al menos por un instante, nos puede ayudar a atravesar con una mirada más amplia la gran crisis que estamos viviendo.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

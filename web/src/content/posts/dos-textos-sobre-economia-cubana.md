@@ -1,5 +1,5 @@
 ---
-title: "economia cubana La Trinchera Ricardo Machado y Ferrán"
+title: "Dos textos sobre economía cubana"
 date: "2020-06-14T00:11:42+00:00"
 author: ""
 category: "Economía en Cuba"
@@ -59,13 +59,3 @@ Lo que nos quedaba del escaso acervo lo invertimos en hacer los mejores bailarin
 No se quiere afrontar riesgos. No nos percatamos de que el mayor riesgo es no querer asumirlos. Recién ahora empezamos a darnos cuenta. No tenemos modelos de formación ni de empresarios ni de funcionarios estatales, que se ¨ forman¨ a la bartola. Le dimos prioridad a la superestructura. Es decir, viramos el marxismo al revés. En eso estamos. Sobrevivimos por ser un pueblo pícaro y de mente rápida como ninguno. Por eso nos quitamos la rodilla de un gigante que teníamos sobre el cuello y no nos dejaba respirar  (para ser actuales). Los vecinos todavía la tienen, porque no se han decidido a quitársela. Ah, se me olvidaba; también por lo que tenemos de la cintura para abajo.
 
 El dilema que vivimos se expresa en la metáfora de la lucha entre un viejo vil y medio loco –armado hasta los dientes- que no puede ni quiere, y entre un niño que puede pero que no sabe. Esto va a durar décadas, así que acomódense. Gracias Ferrán por la síntesis. Su libro premiado [CUBA 2025](https://cubayeconomia.blogspot.com/2016/07/libro-cuba-ano-2025-parte-final-y-anexos.html) debiera editarse por miles, pero a cierta burocracia no le gusta y lo ha metido en el congelador. Seguro usted lo tiene informatizado y debiera ponerlo en las redes. Bueno me callo, no quiero aburrir a los lectores con tanta teoría.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

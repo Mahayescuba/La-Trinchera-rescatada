@@ -1,9 +1,9 @@
 ---
-title: "Estado Historia"
+title: "Paradojas del Estado-Nación en Cuba"
 date: "2020-02-29T15:04:01+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/02/cuba1enero1959.jpg"
+image: ""
 ---
 Agradezco al Departamento de Historia de Cuba y en particular al profesor Fabio Fernández su gentil invitación a este debate.
 
@@ -62,15 +62,3 @@ Notas:
 \[i\]\[4\] Y lo mejor es que su representante recibe con júbilo la noticia. Porque «ahora en las escuelas cubanas solo habrá una ideología”». Aludía a los colegios norteamericanos, donde se enseñaba a respetar al «victorioso» país que «ganó para los cubanos» la independencia.
 
 Estado historia
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,13 +3,13 @@ title: "De “armas melladas” basta ya"
 date: "2018-12-21T05:13:34+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2018/06/armas.jpg"
+image: ""
 ---
 por: **Miguel Alejandro Hayes Martínez**
 
 Recuerdo que hace unos años, como parte del _spot_ televisivo que promocionaba la _Mesa Redonda_, se mostraba el fragmento donde un académico cubano hacía alusión al Che cuando este decía que no se podía construir el socialismo con “las armas melladas del capitalismo”. La expresión ya estuvo de moda antes, pero como todo que se hace de dominio masivo, está a expensas de que comience a ser manipulada. Desde ese entonces la he visto ser utilizada en debates en torno  a las reformas económicas de manera reiterada.
 
-Puedo adelantar al lector que en una buena parte del uso que se le ha dado  no ha sido más que un concepto mal interpretado, sacado de contexto y usado a antojo. Por suerte eso no es nuevo. Ya hemos sido víctima de la parcialización de ideas por parte de quien conoce un poco del pensamiento de los hombres del pasado. Un lector de _La Joven Cuba_ me recordaba hace unos días, que -como Lasalle conocía de memoria _El Manifiesto Comunista_\-, manipulaba a los obreros con las ideas que le interesaban de este. Es también otro ejemplo,  cuando muchos _profesores_ de filosofía dicen que el hombre piensa como vive, obviando una parte de la idea: _y vive como piensa._[\[1\]](#_ftn1)
+Puedo adelantar al lector que en una buena parte del uso que se le ha dado  no ha sido más que un concepto mal interpretado, sacado de contexto y usado a antojo. Por suerte eso no es nuevo. Ya hemos sido víctima de la parcialización de ideas por parte de quien conoce un poco del pensamiento de los hombres del pasado. Un lector de _La Joven Cuba_ me recordaba hace unos días, que -como Lasalle conocía de memoria _El Manifiesto Comunista_\-, manipulaba a los obreros con las ideas que le interesaban de este. Es también otro ejemplo,  cuando muchos _profesores_ de filosofía dicen que el hombre piensa como vive, obviando una parte de la idea: _y vive como piensa._\[1\]
 
 El pobre Che ha sido muy manipulado también como es lógico. Si bien dijo que no se debían usar las armas melladas del capitalismo, hablaba también del uso y el estudio de las técnicas de dirección y administración de la economía burguesa- porque eran muy avanzadas-. Sin embargo esta parte es muchas veces olvidada.
 
@@ -49,7 +49,7 @@ En el capitalismo, se usa para hacer más rico a los capitalistas, en un proyect
 
 El mercado les guste o no  a muchos _buckethead_ (en un sentido cariñoso), es el mecanismo de intercambio social. Este intercambio,  reproduce cualquier tipo de sociedad, y ante cualquier duda, solo piensa el lector, ¿Por qué Marx se puso a estudiar economía política? No era para entrar en épicas batalles con el clan de los economistas ingleses, sino porque descubrió que el propio  intercambio en la sociedad reproducía su estructura.
 
-Entonces podemos comenzar a ver cuáles son las verdaderas armas melladas -más allá de lo que dijo Che-, una producción que necesita un consumo desenfrenado[\[2\]](#_ftn2), y grandes volúmenes de ganancias que no van direccionadas a la mejoría de la sociedad.
+Entonces podemos comenzar a ver cuáles son las verdaderas armas melladas -más allá de lo que dijo Che-, una producción que necesita un consumo desenfrenado\[2\], y grandes volúmenes de ganancias que no van direccionadas a la mejoría de la sociedad.
 
 Confieso que todo esto es más complejo, y su exposición llevaría un post  tamaño que en muchos medios no es apropiado. Sin embargo, espero que hayan quedado claras algunas cosas. Ha sido mal utilizada la idea de las armas melladas. Se ha arremetido contra el mercado, consumo y excedente, entendiéndolos desde la significación que les da el capitalismo. Estos errores, han sido usados como axiomas para condenar y juzgar la realidad, cayendo en utopías tan cercanas a aquellas que levantaban Owen al intentar construir sus granjas.
 
@@ -65,18 +65,6 @@ En realidad no doy grandes razones teóricas aquí, pero acabar de entender cóm
 
 1.  **Lenin, Vladimir.** El pacifismo inglés y el aborrecimiento inglés a la teoría. _Obras escogidas V._ Moscú : Progreso, 1973.
 
-[](#_ftnref1) \[1\]Marx afirmó: “…las circunstancias hacen al hombre en la  misma medida en que éste hace a las circunstancias”.  Con esto se refiere a que el hombre (ser consciente) está determinado por sus circunstancias, pero que este ser consciente, crea conscientemente sus circunstancias. Por tanto, ese pensamiento, está  determinado por estas, pero también conscientemente se va construyendo una vida.
+ \[1\]Marx afirmó: “…las circunstancias hacen al hombre en la  misma medida en que éste hace a las circunstancias”.  Con esto se refiere a que el hombre (ser consciente) está determinado por sus circunstancias, pero que este ser consciente, crea conscientemente sus circunstancias. Por tanto, ese pensamiento, está  determinado por estas, pero también conscientemente se va construyendo una vida.
 
-[\[2\]](#_ftnref2) Asumo desenfrenado no a partir de una moral del consumo, sino que sea perjudicial para el propio hombre el sus circunstancias.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+\[2\] Asumo desenfrenado no a partir de una moral del consumo, sino que sea perjudicial para el propio hombre el sus circunstancias.

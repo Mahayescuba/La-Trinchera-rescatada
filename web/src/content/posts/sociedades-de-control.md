@@ -3,7 +3,7 @@ title: "Las sociedades de control"
 date: "2019-07-04T06:34:11+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Marxismo"
-image: "/wp-content/uploads/2019/07/PicsArt_07-04-02.09.36.jpg"
+image: ""
 ---
 Son las sociedades de control las que están reemplazando a las sociedades disciplinarias, dijo [Gilles Deleuze](https://es.wikipedia.org/wiki/Gilles_Deleuze) en su famosa obra “Postdata sobre las sociedades de control”. Ella, merece ser releída y repensada a la luz de los tiempos que corren.
 
@@ -32,15 +32,3 @@ Ello solo es posible, cuando la totalidad mundial de la que somos parte ya se ha
 Las sociedades de control, son solo una cara del capitalismo; la cara de una sociedad y su sujeto, y que no solo señala la inevitabilidad de la existencia de lo contrario en el otro polo del sistema, donde en vez de civilidad existe guerra, desorden y violencia, sino que muestra también la estabilidad de dichas caras como partes de un todo.
 
 Las sociedades de control, son solo la señal de la profundización de los rasgos que reflejan las relaciones polarizadas que genera el sistema mundial imperante. Su peor lado, no está dentro de ellas.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

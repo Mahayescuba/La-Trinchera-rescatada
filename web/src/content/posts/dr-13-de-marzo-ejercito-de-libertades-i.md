@@ -3,7 +3,7 @@ title: "El DR 13 de marzo: un ejército de la libertad (I)"
 date: "2019-03-29T17:32:46+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2019/03/dr.gif"
+image: ""
 ---
 DR 13 marzo.
 
@@ -28,15 +28,3 @@ La adherencia programática del DR a la democracia social, que defendía la sobe
 Si bien las ideas de la FEU y del DR sobre la necesidad para Cuba de «libertad económica y justicia social», hacia un régimen «libre de trabas con naciones extranjeras y libre de influencias también y de apetitos de políticos y personajes propios» podían comulgar con las de otros grupos revolucionarios, había otros asuntos que salían a relucir con la rúbrica entre Echeverría y Fidel Castro de aquel documento en México, algunos de ellos quizás imprevistos por los firmantes.
 
 Tomado de [La Cosa](https://jcguanche.wordpress.com/2014/05/16/el-dr-13-de-marzo-un-ejercito-de-la-libertad-i/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Cultivo una rosa blanca"
 date: "2021-02-02T10:30:00+00:00"
 author: "Roberto Chile"
 category: "Cultura"
-image: "/wp-content/uploads/2021/02/Robyn-Gordon.jpg"
+image: ""
 ---
 _XXXIX_
 
@@ -39,18 +39,4 @@ En ese mismo camino transita la obra _La tabla de la salvación_ que integra la 
 
 ¡Qué sus versos sencillos y sus palabras honradas, siembren el camino de la nación!
 
-[Otro texto del autor](/cultura/)
-
-![](/wp-content/uploads/2021/02/2021-02-01-22.40.19.jpg)
-
-![](/wp-content/uploads/2021/02/2021-02-01-22.40.19.jpg)
-
 _Obra de Roberto Chile_
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/chile.jpg)
-    
-    ![](/wp-content/uploads/2021/02/chile.jpg)
-    
-    [Roberto Chile](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/roberto-chile/)

@@ -1,9 +1,9 @@
 ---
-title: "Palabra precisa tres fintas. Tres fintas"
+title: "Tres fintas"
 date: "2021-10-16T19:39:27+00:00"
 author: "Héctor Calás Roque"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/10/Hector.jpg"
+image: ""
 ---
 ## Primera finta
 
@@ -38,11 +38,3 @@ Los espacios de diálogos tienen que ser diversos, donde la mayoría sea aquello
 La democracia debe de entenderse no como instrumento sino como manera de vivir.
 
 [También puede interesar](/descolonizar-el-socialismo-en-cuba/)
-
-## Autor
-
--   ![](/wp-content/uploads/2021/10/hector-perfil.jpg)
-    
-    ![](/wp-content/uploads/2021/10/hector-perfil.jpg)
-    
-    [Héctor Calás Roque](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hector-calas-roque/)

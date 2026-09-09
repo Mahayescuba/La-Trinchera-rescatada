@@ -3,7 +3,7 @@ title: "Demonios verdes"
 date: "2019-04-10T05:06:02+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/04/PicsArt_04-09-10.26.10.jpg"
+image: ""
 ---
 demonios verdes.
 
@@ -68,15 +68,3 @@ Por supuesto no se entera.
 demonios verdes demonios verdes
 
 <iframe id="audio_51596258" style="border: 1px solid #EEE; box-sizing: border-box; width: 100%;" src="https://www.ivoox.com/player_ej_51596258_4_1.html?c1=ff6600" height="200" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "¿Lindoro responde a Facundo?"
 date: "2020-01-04T17:04:03+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/01/bcfb5ef74e814e40fe70f81c04d900bc.jpg"
+image: ""
 ---
 Facundo. 
 
@@ -17,15 +17,3 @@ Según la propia resolución que rige las contrataciones artísticas en el ICRT,
 **2**. El Equipo Básico de Trabajo (Director, asesor, guionista) demuestren con dictámenes del Consejo Artístico y la Comisión de Calidad, que el Artista no está cumpliendo con los requerimientos del personaje debido a su falta de pericia o profesionalidad. También la dirección de la emisora o canal puede usar este recurso.  
 **3**. El Equipo Básico de Trabajo demuestre a la redacción o la subdirección de programación, o viceversa, que la falta de profesionalidad del actor pone en riesgo la eficacia en la producción de la obra. (O sea, llegue tarde, no ejecute con calidad los pasos lógicos productivos o entorpezca de algun modo el trabajo del colectivo del programa)  
 Mis preguntas al director de Cubavisión son: ¿Violó de algun modo Andy Vázquez su contrato artístico? ¿Puede demostrar el director de Cubavisión con la debida documentación que Andy Vazquez o el Personaje de Facundo no cumple alguno de los requisitos arriba mencionados?
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

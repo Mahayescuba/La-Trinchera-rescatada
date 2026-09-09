@@ -3,7 +3,7 @@ title: "Destruyeron el salario"
 date: "2019-10-02T03:13:57+00:00"
 author: ""
 category: "Economía Política"
-image: "/wp-content/uploads/2019/10/Concursos-públicos-em-SP.jpg"
+image: ""
 ---
 _Otras medidas incluyeron: aumentar el salario mínimo 34 veces respecto a su nivel anterior; frenar los generosos subsidios a los combustibles de Venezuela para aquellos que no tengan el llamado “carnet de la patria”._
 
@@ -31,15 +31,3 @@ Entre 1984 y 1985, con una duración de 18 meses, Bolivia reportó un ciclo de h
 Los principales detonantes de la hiperinflación en Venezuela tienen que ver con la intervención por parte del gobierno de Venezuela en la política monetaria y el [Banco Central de Venezuela](https://es.wikipedia.org/wiki/Banco_Central_de_Venezuela) (BCV), principalmente a través de la inyección de dinero inorgánico en la economía. Adicionalmente, el déficit fiscal de la República es financiado por el BCV, lo cual genera un proceso conocido como la monetización del déficit. Por otro lado, debido a la crisis económica que azota al país desde 2013, el gobierno ha reducido dramáticamente las importaciones, lo cual ha generado una reducción de la oferta de bienes. Por último, el control de cambios, vigente desde el año 2003, ha generado falta de divisas en la economía y la aparición de un mercado paralelo que cotiza muy por encima de la referencia oficial, dicho mercado que se utiliza para fijar el precio de productos y servicios.
 
 ¿Parece poco?
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "Lukacs y la filosofia La Trinchera Entrevista Mario Hernández Filosofia"
+title: "Lukács es seguramente el mayor filósofo marxista después de Marx"
 date: "2018-06-13T12:15:53+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2018/06/georg-lukács-ilustrador-Héctor-Mateo.jpg"
+image: ""
 ---
 Los que quieran conocer un poco más de Lukács, tuvimos la satisfacción de que Antonino Infranca publicara en _La Revolución Rusa cien años después_, el libro que editamos en Editorial Metrópolis en conmemoración de los 100 años de la Revolución Rusa, un texto “El joven Lukács y la Revolución Rusa”.
 
@@ -44,15 +44,3 @@ En los últimos años, a pesar de la vejez organizó la recolección de firmas p
 [Tomado de _Rebelión_](https://rebelion.org/lukacs-es-seguramente-el-mayor-filosofo-marxista-despues-de-marx/)
 
 [También puede interesar](/marxismo-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

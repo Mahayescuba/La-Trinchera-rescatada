@@ -1,9 +1,9 @@
 ---
-title: "Núremberg Por José Gabriel Barrenechea Polémica"
+title: "Un nuevo Nuremberg, ¿pero contra quién realmente?"
 date: "2020-02-04T18:01:05+00:00"
 author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/02/IMG_20200204_155241_390.jpg"
+image: ""
 ---
 Ahora que este humanista liberal a la kantiana una y otra vez recibe invitaciones para sumar su firma a un juicio tipo [Núremberg](https://es.wikipedia.org/wiki/Núremberg), en el que se condenarían los indiscutibles crímenes del comunismo; ahora que la nueva derecha borra nombres marxistas y valora la obra del Gigante de Tréveris sobre todo en base a un desliz con su criada, me preguntó: ¿Es lo mismo comunismo que fascismo?  
 Permítaseme comenzar por recordar que en el tan sobrevalorado Núremberg no se juzgó a las masivas violaciones cometidas contra las alemanas por las tropas soviéticas, y polacas, pero tampoco los masivos bombardeos sobre ciudades alemanas y japonesas por la aviación americana o inglesa, como tampoco se juzgó a los genocidios de los franceses contra las tribus argelinas durante todo el siglo XIX, o la costumbre americana de encerrar en “reservaciones” a las tribus aborígenes, o aquella _sui_ _generis_ práctica inglesa de ejecutar a los rebeldes de la India amarrándolos a la boca de un cañón. En Núremberg solo se juzgó a quienes ingenuamente quisieron seguir los adelantados pasos de otros en la práctica sistemática del genocidio, pero quienes para su desgracia perdieron la guerra con que pretendieron sustituir a esos otros en el exclusivo club de las Naciones hegemónicas en el Sistema Mundo.  
@@ -39,17 +39,3 @@ Todos los excesos son malos, tanto los de aquellos que por guiarnos a un futuro 
 No, lo siento, para mí los crímenes del fascismo, y los del comunismo, no son para nada comparables. Como en el derecho prefiero graduar la naturaleza del crimen en función de la intención del mismo.  
 Nada, será porque como un humanista ilustrado sigo fiel a los ideales de Libertad, Igualdad, Fraternidad, aquellos que empujan a la Humanidad toda al Ideal Utópico de una Sociedad Abierta.  
 Y amigo, ya que te empeñas en ofenderme, admito que prefiero una y mil veces que me grites comunista, a fascista. Eso último, ni muerto.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

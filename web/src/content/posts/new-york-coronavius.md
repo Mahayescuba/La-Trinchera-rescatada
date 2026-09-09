@@ -1,9 +1,9 @@
 ---
-title: "new-york-coronavirus"
+title: "New York, New York"
 date: "2020-04-14T09:30:02+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/04/52894863_101.jpg"
+image: ""
 ---
 Un texto de Norma para pensar el coronavirus en New York
 
@@ -20,17 +20,3 @@ Me levanté y puse la radio. Me pareció escuchar que en una provincia de China 
 Pensé que pronto comenzaría un nuevo año: 2020 tendría que ser mejor.
 
 La Habana, abril de 2020
-
-[Otro texto del autor](/historia/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "imaginando una entrevista a Liliana"
+title: "Conociendo a Lía, más allá de la pantalla"
 date: "2020-09-26T09:30:25+00:00"
 author: "Manuel Alejandro"
 category: "Onírica"
-image: "/wp-content/uploads/2020/09/El-baile-de-las-Hadas-de-Virginie-Reboul.jpg"
+image: ""
 ---
 Tal vez si usted escuchara mencionar _Liliana Sosa_ pudiera pasar desapercibido a quién se está haciendo referencia. Y es que la actualmente estudiante del Instituto Superior de Arte (ISA) ha pisado con fuerza en su primera aparición en la pantalla chica. Lía captó la atención de millones de televidentes a lo largo y ancho de nuestro país, y fuera de este no fueron pocos los cubanos que fueron fieles seguidores de su historia. Lía llegó para quedarse en nuestra memoria.
 
@@ -15,8 +15,6 @@ Liliana: Ay, _Mánuel_, el placer es todo mío, te confieso que no me perdía n
 
 _MA: Socialmente has tenido un gran impacto por tu personaje, Lía, pero ya una buena parte de los cubanos te conocíamos pero en otra faceta, cuando formabas parte de [La Colmenita](http://colmenitadecuba.blogspot.com/p/historia.html), ahí alcanzaste gran notoriedad como percusionista ¿Cómo recuerdas esa etapa y qué aportó a tu vida?_
 
-![](/wp-content/uploads/2020/09/Abeja-1.jpg)
-
 Liliana: Fue una etapa mágica, entré en esa gran familia siendo una niña y salí cuando era una joven. La Colmenita fue mi primera vez para todo, mi primer viaje en avión, el primer chicle o las galleticas rellenas. Además de que me permitió hacer música, ahí adquirí mi particular gesto de morderme la lengua mientras iba tocando los timbales y el drums. Aprendí que siempre puedes volar mientras tengas alas, ahora mismo las extraño. 
 
 _MA: Muchos creímos que ibas a seguir el camino de la música, ¿ qué te hizo tomar la actuación de manera profesional?_
@@ -27,15 +25,11 @@ _MA: Bueno, ya finalizada esa etapa, ¿cómo llegas al elenco de El rastro de lo
 
 Liliana: Todo fue muy rápido, jamás pensé que podía trabajar en una novela. Debo darle gracias a que llevé al casting un dulce de frutabomba para _guataquearle_ a Nohemí, la directora, pues ya me había enterado que ella es fanática a ese tipo de dulce, es por eso que cuando estaba en el hogar materno _Machi_ fue a llevarme de ese tipo de dulce, era todo un broma del equipo. 
 
-![](/wp-content/uploads/2020/09/Manuel-Alejandro-Lia-1.jpg)
-
 _MA: Ya que mencionas a Machi ¿ Cómo fue tu relación con Roberto Espinosa, actor que interpreta al controvertido personaje?_
 
 Liliana: La relación fue algo tensa al principio. Roberto es muy glotón y hubo un día en el que antes de comenzar el rodaje ya tenía incorporado el personaje y con esa mirada penetrante e intimidante que posee Machi me quitó mis dos panes con aceite y sal que me correspondían para merendar. Además, él tuvo ciertos privilegios, la producción le garantizaba una caja de cerveza Bucanero por capítulo y nunca le brindó a nadie ni un sorbo. Pienso que las escenas de acoso y sobretodo la de violación lograron captar cuan asustada me encontraba con su presencia, por un par de panes hacía lo que fuera y eso me traumó un poco. Ya luego nuestra relación mejoró notablemente cuando mi mamá me mandaba al set la jabita de la merienda que aún conservo de mi etapa en la colmena.
 
 _MA: Cerrando este tema de la novela, ¿ qué te deja El rostro de los días?_
-
-![](/wp-content/uploads/2020/09/Marcelo-Mantovani.jpg)
 
 Liliana: (sonríe y sus ojos se llenan de lágrimas, su voz cambia tal cual si un poema recitara) Me quedo con la gran oportunidad que tuve de participar en una novela que buena o mala tuvo gran número de tele audiencia. Me quedo con el cariño que me dan en la calle niños, jóvenes y adultos. También me quedo con los pozuelos de dulce de frutabomba que me llegan a mi casa a modo de regalo, me quedo con la batica morada y amarilla que se puso el personaje mientras estuvo en el lujoso hogar materno. En fin me deja muchas cosas que guardaré por el resto de mi vida. 
 
@@ -58,15 +52,3 @@ _MA: Nuevamente te doy las gracias por brindarme parte de tu tiempo y hacer un h
 Liliana: ¡Ay, bobo! No tienes nada que agradecer, a mi me honra saber que los jóvenes siguen mi trabajo, ya sea siendo parte de la novela o en los miles de memes que suscitaron en las redes sociales. Gracias a ti.
 
 _MA: Mis amigos y esto ha sido todo. Espero nos volvamos a encontrar para juntos conocer de los artistas de su preferencia._
-
-imaginando una entrevista a Liliana, imaginando una entrevista a Liliana, imaginando una entrevista a Liliana, imaginando una entrevista a Liliana
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/rockanrollear-anckla/
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Manuel Alejandro](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/manuel-alejandro/)

@@ -3,7 +3,7 @@ title: "Jorgito Kamankola: intento ser lo más libre posible"
 date: "2019-08-25T06:13:17+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2019/08/FB_IMG_15648080027608597.jpg"
+image: ""
 ---
 El piquete de [La Trinchera](../index.html) al fin logró una de las entrevistas más anheladas. Jorgito Kamankola nos recibió en su casa con la naturalidad de los que comparten madrugadas repletas de canciones. Un artista que, desde una estética sugerente, con guitarra en mano raya los acordes de la calle, y con su música representa a una generación que canta junto a él a _dreadlock_ suelto y descamisado.
 
@@ -64,15 +64,3 @@ LT. ¿Ves la música como un modo de hacer Revolución?
 JK. Pienso que el arte en general es una herramienta fundamental para hacer Revolución, al menos dentro de la mente y del comportamiento hacia el mundo. Siempre está la clasificación de artista bueno o malo, pero hay artistas simplemente, lo demás es un producto que permanece ahí.
 
 LT. Muchas gracias Jorgito por la oportunidad.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

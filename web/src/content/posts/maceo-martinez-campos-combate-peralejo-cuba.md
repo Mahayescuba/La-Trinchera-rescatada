@@ -3,10 +3,8 @@ title: "Maceo, Martínez Campos y el Combate de Peralejo"
 date: "2019-06-03T06:13:46+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2019/06/IMG_20190603_015519-1.jpg"
+image: ""
 ---
-Llegó a la Isla en abril, cuando estaba en su apogeo la Campaña de Oriente, liderada por Antonio Maceo.
-
 #### _Las Taironas, Peralejo y Mal Tiempo,_  
 _Céspedes, Agramonte y Martí,_  
 _Moncada, Quintín Banderas y Maceo,_  
@@ -33,8 +31,6 @@ Acampado el 11 de julio en las inmediaciones de Bayamo, supo Maceo que Martínez
 El día 13, temprano en la mañana, Maceo dispuso sus fuerzas entre la sabana de Barrancas y el Río Mabay, paraje que da la espalda a la sabana de Peralejo, lo que le permitía dominar todos los caminos de acceso a Bayamo y sorprender así a las columnas de los Generales Martínez Campos y Santocildes.  
 No contaba el General Maceo con la traición de dos falsos comerciantes, quienes informaron a los jefes españoles de la presencia de las tropas cubanas y su ubicación. Los dos Generales españoles unieron sus columnas, que habían marchado por separado hasta llegar al Río Buey: cuatrocientos infantes y cuarenta jinetes la de Martínez Campos, y mil cien infantes, la de Santocildes, De ese modo pudieron evadir las emboscadas cubanas y llegar hasta el bosque donde se encontraba la impedimenta mambisa, compuesta en su mayoría por personal incorporado recientemente y con muy pocas armas.
 
-![](/wp-content/uploads/2019/06/img_20190611_0254511477366844.jpg)
-
 El combate resultó violento para ambas partes. Pero Maceo equilibró las acciones mediante oportunas maniobras de la caballería y la infantería. Él y los suyos cercaron a las tropas españolas y las fustigaron durante seis horas, al cabo de las cuales Martínez Campos logró escapar, ayudado por sus hijos, cual fuera comunicado por los prisioneros al General Maceo:  
 _…los hijos del General Campos para salvar a su padre del eminente peligro que corría de morir de bala o ser hecho prisionero lo acostaron en el suelo sobre una manta en la cual lo conducían entre soldados, formando una espesa muralla que hacía de la columna un pelotón inmenso, estando obligados a ello por las constantes cargas de los jinetes y ataques de la infantería; se lo llevaron en peso hasta que la oscuridad de la noche vino a perturbar por completo la tenaz persecución que le hacían los bravos soldados de la región._
 
@@ -47,15 +43,3 @@ En lo sucesivo, los españoles se vieron obligados a colocarse a la defensiva y 
 Tras la derrota de Martínez Campos frente a Antonio Maceo en el Combate de Peralejo, el General español solicitó a la Corona ser sustituido de su cargo como Capitán General. Regresó a España en enero de 1896.  
 Sin embargo, antes de cesar en sus funciones tampoco pudo impedir el comienzo de la Invasión, que partió a finales de ese primer año de la guerra desde Mangos de Baraguá, lugar de su primer enfrentamiento con Maceo, ni que los mambises llegaran victoriosos a [Occidente](https://es.wikipedia.org/wiki/Invasi%C3%B3n_de_Oriente_a_Occidente_en_Cuba) en enero de 1896.  
 No, definitivamente nunca pudieron entenderse.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

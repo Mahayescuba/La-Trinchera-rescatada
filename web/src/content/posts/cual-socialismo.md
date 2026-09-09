@@ -3,7 +3,7 @@ title: "El socialismo de ellos"
 date: "2019-01-25T16:24:27+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/01/PicsArt_01-25-11.10.00.jpg"
+image: ""
 ---
 Recuérdese que el socialismo -la idea sobre este- es esa necesaria certeza de muchos cubanos.
 
@@ -32,15 +32,3 @@ Porque lo que puede ser socialismo en una época y lugar, no lo es en otra.
 Por ejemplo, hace 40 años abrir a la propiedad privada hubiese y era considerado crimen de leso socialismo, sin embargo, hoy es algo “socialistamente” necesario.  
 Por eso, lo que hay que señalar, no es lo que es socialismo o no -que ese pensamiento es bastante abstracto y a-histórico-, lo que hay que ver es qué es necesario para el nuestro hoy, y qué no; y eso no se puede afirmar con reglas ya establecidas a partir de manuales o discursos, o de sentencias a la ligera sobre lo que puede ser perjudicial para el país.  
 Recuérdese que el socialismo -la idea sobre este- es esa necesaria certeza de muchos cubanos. No se le convierta a esta en una estructura vacía y estropeada en nombre de la diversidad de las subjetividades -a veces criterios que no devienen en argumentos-, y menos, en el mecanismo de dominación ideológica, política, jurídica y económica de un grupo a través de su clero sobre las masas; sino en una fuerza para hacer socialismo en Cuba hoy. No se le use para crear divisiones.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

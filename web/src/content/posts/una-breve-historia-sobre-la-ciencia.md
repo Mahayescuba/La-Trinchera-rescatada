@@ -1,9 +1,9 @@
 ---
-title: "ciencias y estructuras sociales dominantes"
+title: "Una breve historia sobre la Ciencia."
 date: "2018-08-17T12:00:30+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2018/08/Steampunk-brooch.jpg"
+image: ""
 ---
 A lo largo de la historia las ciencias se han subordinado a las estructuras sociales dominantes, que en gran medida han retrazado su devenir.
 
@@ -30,13 +30,3 @@ Y entonces llegaron las revoluciones obreras, que cambiaron el panorama del mund
 Pero una vez más una liberación momentánea fue continuada con el establecimiento de una nueva subordinación, esta vez más cruda y despiadada de aquella que trataba de huir. Las ciencias sociales sufrieron una subordinación extrema a la ideología oficial, que monopolizó el saber y la producción científica, paralizando el desarrollo de las mismas y por ende condenándolas a su degeneración. Mejor suerte corrieron las ciencias exactas y naturales, aunque cabe recordar los tristes momentos de satanización que sufrieron disciplinas como la genética y la cibernética que fueron calificadas de “ciencias burguesas” y tratadas de condenar al olvido, sobre todo en el período estalinista.
 
 Sin importar la época a que nos refiramos, no ha existido ni podrá existir en el mediano plazo, momento definido en donde las ciencias como generalidades se desarrollen desligada de un producto de la estructura política dominante. Primero existieron para servir como esclavas a la religión y el misticismo. Luego, en el periodo de desintegración del régimen feudal y las etapas posteriores, su desarrollo se ha mantenido atado a las formas ideológicas de las conciencias. Las ciencias que nacieron para mostrar el mundo en su realidad más verdadera, han sido subordinadas desde su surgimiento a las doctrinas de la clase en el poder, las cuales, terminan por convertirlas en simple y vacía ideología.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

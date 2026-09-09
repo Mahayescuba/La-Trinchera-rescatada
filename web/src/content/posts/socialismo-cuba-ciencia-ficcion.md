@@ -1,9 +1,9 @@
 ---
-title: "Enseñanza de la economía política en Cuba"
+title: "Socialismo y ciencia ficción"
 date: "2018-12-22T16:57:23+00:00"
 author: ""
 category: "Marxismo en Cuba"
-image: "/wp-content/uploads/2018/12/Nuch-Rodpothong.jpg"
+image: ""
 ---
 Enseñanza de la conomía política en Cuba.
 
@@ -46,16 +46,4 @@ A lo mejor así, se pueda pensar otra economía política del socialismo, una qu
 
 [También le puede interersar](/politica-en-cuba/) 
 
-enseñanza de la economía política en Cuba. enseñanza de la economía política en Cuba. enseñanza de la economía política en Cuba. 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+enseñanza de la economía política en Cuba. enseñanza de la economía política en Cuba. enseñanza de la economía política en Cuba.

@@ -1,9 +1,9 @@
 ---
-title: "tiendas en MLC y desigualdad"
+title: "El problema del tipo de desigualdad"
 date: "2020-11-09T17:00:22+00:00"
 author: "José Angel García Veloso"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/11/Max-Leiva.jpg"
+image: ""
 ---
 > En las ventas y servicios en MLC, el problema no es la desigualdad, sino el tipo de desigualdad que ocasiona. 
 
@@ -20,8 +20,6 @@ A esto le sumo que por mi condición de persona sin FE (familia en el extranjero
 Cuando uno dice tiendas en MLC, piensa solamente en las ventas minoristas, pero tenemos que pensar también en todos las demás ventas y servicios que se prestan y que se van a prestar en estas monedas, que evidentemente, van en crecimiento acelerado.
 
 Es cierto que en el comercio existen muchas desigualdades más, el mercado está segmentado por los precios, pero la segmentación del mercado por los precios no es tan grave como la segmentación del mercado por el tipo de moneda de pago.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/politica-monetaria-y-cambiaria-en-cuba/
 
 Considero que hay desigualdades vencibles y desigualdades no vencibles. La desigualdad que provocan las ventas o servicios en moneda extranjera, a la que yo no puedo acceder de ninguna manera, es una desigualdad no vencible, por cuanto no tengo medios lícitos para acceder a esa moneda a partir de los ingresos que percibo en el país.
 
@@ -46,15 +44,3 @@ No se puede ver al sector privado como un grupo de personas privilegiadas que pe
 No se puede ver al emprendedor como un mero y simple sujeto tributario, en última instancia como un empleador más. Hay que verlo, en primer lugar, como generador de ofertas necesarias en nuestro mercado que contribuirían a mantener el equilibrio que se necesita, para romper el círculo vicioso en el que llevamos tantos años.
 
 Entonces, la existencia de ventas y servicios en una moneda que no se puede ganar en Cuba, provoca una terrible desigualdad que no se puede vencer. A la vez, desestimula el trabajo y estimula la emigración.
-
-tiendas en MLC y desigualdad, tiendas en MLC y desigualdad, tiendas en MLC y desigualdad, tiendas en MLC y desigualdad
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/josé-angel.jpg)
-    
-    ![](/wp-content/uploads/2021/02/josé-angel.jpg)
-    
-    [José A. García Veloso](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-a-garcia-veloso/)
-    
-    Abogado

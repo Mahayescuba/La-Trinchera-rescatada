@@ -1,9 +1,9 @@
 ---
-title: "continuidad y revolucion cubana"
+title: "La Revolución soy yo"
 date: "2018-03-19T21:06:42+00:00"
 author: "Alejandra K."
 category: "Opinión"
-image: "/wp-content/uploads/2018/03/índice-2.jpg"
+image: ""
 ---
 ¿La revolución está llegando a su fin? Esa es una pregunta que inquieta a más de uno en los días de incertidumbre que atraviesa Cuba, cuando se encuentra a solo unas pocas semanas de tener que elegir a los hombres y mujeres que dirigirán los destinos de nuestro país por los próximos cinco años.  Por primera vez en todo nuestro período revolucionario tendremos una elección en donde la dirección histórica, aunque formará parte, no serán los que ocupen los principales cargos del estado y del gobierno.
 
@@ -24,15 +24,3 @@ Queden electos quienes queden, llevarán sobre si un inmenso compromiso y respon
 Mayor aún será la responsabilidad del pueblo, del ciudadano de a pie, que sin representar su vida, en la mayoría de los casos, parte significativa del proceso deberá tomar sobre si el inmenso compromiso de perpetuarlo, de ser continuadores del mismo.  Si los electos fallan, si los grandes traicionan, si los más comprometidos se des-comprometen, es en ese momento crucial donde todo se define, es ahí donde no basta con esperar intrusiones -que puede ser que nunca lleguen-. Es ahí que hay que hacerle caso a Fidel, y gritar con hechos y palabras a todos _“La Revolución soy yo”._
 
 [Otro texto de la autora](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

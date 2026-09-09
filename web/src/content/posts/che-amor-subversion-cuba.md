@@ -3,7 +3,7 @@ title: "Che: el amor y la subversión"
 date: "2019-06-14T06:16:47+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2019/06/FB_IMG_15605851624759800.jpg"
+image: ""
 ---
 Quizá sea eso lo que marcó esa brecha entre el Che y todos los demás, es decir, hay una la diferencia entre un hombre que sentía el dolor ajeno y los adeptos de una doctrina.
 
@@ -42,15 +42,3 @@ Por ahí se empieza a ser revolucionario, por la vida cotidiana y no por atracci
 A una persona que centra ese sentimiento en los de más atrás en la estructura social, no se le puede convencer con razones de obediencia de que “eso es lo que está establecido”. Por eso, Che era tan crítico con la burocracia y los serviles asalariados. Por eso sigue siendo altamente subversivo.
 
 **Versión original publicada en La Joven Cuba**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

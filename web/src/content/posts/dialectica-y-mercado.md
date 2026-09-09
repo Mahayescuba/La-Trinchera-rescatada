@@ -3,7 +3,7 @@ title: "Dialéctica y mercado"
 date: "2018-12-08T17:05:08+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2018/12/descarga-6.jpeg"
+image: ""
 ---
 dialéctica y mercado.
 
@@ -66,15 +66,3 @@ Lefebvre, H. (1970). Lógica formal Lógica dialéctica. Madrid: Siglo XXI.
 (4) Constitución es un término propio de la dialéctica hegeliana. Indica ese ¨contenido¨ que adquiere una categoría, que es resultado de cómo ella se va determinando a sí misma, a diferencia de esas lógicas que le ponen un contenido a la categoría externo a esta.
 
 (5) No en un sentido de existencia física o material, sino que al determinar una categoría como tal relación, decir que no existe en algún momento, es decir que no cumple con una identidad de esa relación. Para ese entonces, lo que era una categoría basada en relación, se habrá convertido en una identidad, por tanto, se habrá eliminado la dialéctica. Por eso, al decir que algo es relación, entonces, siempre será y fue relación, lo que de diferentes formas, y con diferente constitución (la antes mencionada).
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

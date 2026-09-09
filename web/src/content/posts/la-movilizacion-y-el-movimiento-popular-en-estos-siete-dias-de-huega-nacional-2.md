@@ -1,9 +1,9 @@
 ---
-title: "La movilización y el movimiento popular"
+title: "La movilización y el movimiento popular en estos siete días de huega nacional"
 date: "2019-10-15T15:42:29+00:00"
 author: "Patricio Pilca"
 category: "Política"
-image: "/wp-content/uploads/2019/10/2f3cb70fa2baf74a0e8d4b71f556474b1.jpg"
+image: ""
 ---
 Lo primero que hay que destacar es el sorprendente número de movilizados, hay mucha pero mucha gente (mayormente jóvenes de entre 18 y 30 años) reunida en las calles; algunos estudiantes otros trabajadores, formales e informales, que manifiestan en las calles su rabia e indignación. Eso, en sí mismo, es una alegría política inmensa que pudiera ser vista como una victoria. Gente que por primera vez se suma al descontento popular y sin tapujos se pone en las primeras líneas de combate. Se cuentan por miles el número de gente que está cada día en plazas y parques; que ha llenado el centro histórico el día de hoy. Quizá, y sin equivocarme, esta huelga marca un nuevo ciclo dentro de las movilizaciones en los últimos 20 años.  
 Lo segundo, el movimiento es un movimiento popular con una masa que lo desborda. Hasta el movimiento indígena ha sido desbordado. En esas condiciones decir que hay figuras políticas detrás del movimiento es un grave error.  
@@ -14,19 +14,3 @@ Finalmente, la táctica ahora es desgastar la huelga y al movimiento hasta que s
 Lenin, el viejo bolchevique hubiera buscado: ¿Qué hacer?
 
 **Tomado de Red Kapari**
-
-> [El marxismo y el nuevo socialismo utópico](/marxismo/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«El marxismo y el nuevo socialismo utópico» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/marxismo/marxismo-y-socialismo-utopico/embed/#?secret=6MpHU7UY2r" data-secret="6MpHU7UY2r" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,10 +3,8 @@ title: "Trump: dos años de (No) política exterior"
 date: "2019-04-18T19:45:29+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2019/04/PicsArt_04-18-03.40.01-4.jpg"
+image: ""
 ---
-Trump ha provocado un creciente aislamiento de EEUU con sus aliados tradicionales y ha generado vacíos en política exterior que están siendo llenados por China, especialmente en América Latina.
-
 **Por: Carmelo Mesa-Lago**
 
 Elementos cardinales para poder entender la política exterior de Donald Trump son: su egocentrismo, la expansión de sus negocios y el cultivo de su base política para satisfacer a los otros dos elementos y mantenerse en el poder. Trump es un constante abusador que apabulla a quien lo critica, a quien es débil o competidor. Por el contrario, es sumiso con líderes autoritarios, especialmente si tienen información comprometedora en su contra o pueden darle cobertura mediática universal. Agreguemos su vasta ignorancia sobre cuestiones científicas y globales, su incapacidad de concentrarse mucho tiempo en un asunto importante, el desdeño por lo intelectual, la mentira consuetudinaria, así como su perfil autoritario, racismo, corrupción financiera y sexual, arrogancia y narcicismo. Bajo este prisma, su lema “América primero” se convierte en “Trump primero”.
@@ -100,15 +98,3 @@ Los dirigentes mundiales están desconcertados, enojados y angustiados por las a
 Trump ha provocado un creciente aislamiento de EEUU con sus aliados tradicionales y ha generado vacíos en política exterior que están siendo llenados por China, especialmente en América Latina. Se necesitará una estrategia de política exterior coherente y efectiva, por muchos años, para reparar el enorme daño que Trump ha causado a EEUU y al mundo.
 
 Tomado de [Política Exterior](http://politicaexterior.com/actualidad/trump-dos-anos-no-politica-exterior/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Ascensión y caída de Julian Assange"
 date: "2019-04-15T03:15:58+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/04/PicsArt_04-14-12.36.05.jpg"
+image: ""
 ---
 Washington, y sobre todo el Pentágono, han sido muy diligentes en buscarle la ruina a Julian Assange, después de que WikiLeaks publicara materiales clasificados sobre una operación de guerra sucia a cargo de soldados norteamericanos
 
@@ -32,15 +32,3 @@ Hoy el manto de la transparencia radical lo ha recogido de modo perverso Faceboo
 Benedetto Vecchi periodista del diario italiano ‘il manifesto’, cuyas páginas culturales dirige. Autor, entre otros libros, de ‘La rete dall´utopia al mercato’ (manifestolibri, 2015) e ‘Il capitalismo delle piattaforme’ (manifestó libri 2017). Fue impulsor además de un libro de Zygmunt Bauman, ‘Identidad: conversaciones con Benedetto Vecchi’. (Losadsa, 2018).
 
 **Tomado de Sinpermiso**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

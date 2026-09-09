@@ -1,9 +1,9 @@
 ---
-title: "Expulsión UNEAC Pedro A. Junco"
+title: "Carta abierta a la UNEAC, Díaz-Canel y a quien pueda interesar"
 date: "2020-08-14T09:30:49+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/08/Mercè-Riba-Shelter.jpg"
+image: ""
 ---
 expulsión UNEAC Pedro Junco. 
 
@@ -44,13 +44,3 @@ En diciembre de 2010, el primer secretario del Comité Central del Partido, Raú
 Está claro: a nadie. Ni a Pedro Armando Junco López, que hizo valer un precepto constitucional y habló con la claridad que se espera de un revolucionario. Ni a mí, que ejerzo mi derecho, como cubano y como miembro de la Uneac, a denunciar este flagrante atropello.
 
 Expulsión UNEAC Pedro Armando Junco. Expulsión UNEAC Pedro Armando Junco. Expulsión UNEAC Pedro Armando Junco.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

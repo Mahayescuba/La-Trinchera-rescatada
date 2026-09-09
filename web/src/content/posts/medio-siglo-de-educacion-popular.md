@@ -1,9 +1,9 @@
 ---
-title: "educacion popular medio siglo La Trinchera Raul Zibechi"
+title: "Medio siglo de educación popular"
 date: "2018-06-12T12:15:51+00:00"
 author: "Raúl Zibechi"
 category: "Opinión"
-image: "/wp-content/uploads/2018/06/tumblr_mqykehZniZ1qeu3lno1_1280-620x400.jpg"
+image: ""
 ---
 Entre las múltiplescreaciones que alumbró la revolución mundial de 1968 (concepto acuñado por Immanuel Wallerstein), la educación popular es una de las más trascendentes, ya que ha cambiado en profundidad los modos como concebimos y practicamos el acto educativo, en particular en el seno de los movimientos anti-sistémicos.En 1967 Paulo Freire publicó su primer libro, _La educación como práctica de la libertad,_ y en 1968 redacta el manuscrito de _Pedagogía del oprimido ,_que se publica en 1970. Este libro influyó sobre varias generaciones y llegó a vender la astronómica cifra de 750 mil ejemplares, algo extraordinario para un texto teórico. Desde la década de los años setenta los trabajos de Freire fueron debatidos en los movimientos, que adoptaron sus propuestas pedagógicas como forma de profundizar el trabajo político de los militantes con los pueblos oprimidos.
 
@@ -32,15 +32,3 @@ Los caminos se bifurcaron, como suele suceder en todos los procesos emancipatori
 Tomado de [Rebelión](http://www.rebelion.org/noticia.php?id=242652)
 
 [También puede interesar](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

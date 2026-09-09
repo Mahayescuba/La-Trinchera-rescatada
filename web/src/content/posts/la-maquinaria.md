@@ -1,9 +1,9 @@
 ---
-title: "Miedo — La maquinaria La Trinchera Un texto de: Julián"
+title: "La maquinaria"
 date: "2021-04-15T16:00:00+00:00"
 author: "Julián"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/04/Johnson-Thang.jpg"
+image: ""
 ---
 “Prepárate, que aquí te vas a volver un cínico o te van a hacer mierda”
 
@@ -25,8 +25,6 @@ Si a Iván un simple relato le valió un análisis con el director de la revista
 
 Estos fragmentos, que rescato de un post eliminado, del post que casi me vale la excomulgación, fueron los que leyó el director de la escuela en la que trabajo tras su enorme buró, en la siempre gélida oficina, absorta —al parecer— a los perennes racionamientos energéticos de nuestro país. Tras ser leídos en alta voz, a puertas cerradas, y acompañados de mi jefe de departamento, con rostro sombrío comenzó a espetarme que en qué estaba pensando yo, que pese a estar amparado por el derecho a la libertad de expresión, yo era un profesor de Historia, y aquello era preocupante. _Esto lo puede leer cualquier alumno profe, dónde queda su deber como profesor_. Tras recordarme que, como profesor de Historia, yo tenía el deber de formar el espíritu revolucionario de las nuevas generaciones, me aseguró, o más bien, me prometió, que aquello no saldría de allí, y no habría represalias en mi contra. Al cruzar las puertas de su oficina, sin embargo, las miradas inquisidoras de quienes esperaban fuera, me aseguraron de que aquella reunión había trascendido mucho antes de efectuarse. 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-futuro-en-llamas/
-
 La falsa promesa del director se confirmó cuando una amiga militante del Partido en la escuela me expresó que mi “caso” había sido tema central en la última reunión del núcleo. 
 
 Pasé a convertirme ya no solo en el profesor que desde sus primeros meses de trabajo había estado en contra del reglamento escolar, el profesor que había cuestionado que no se discutiera el presupuesto de la escuela con los trabajadores y el uso que se le daría a este. Ahora había pasado a ser un joven preocupante, un joven al que había que ayudar, un joven con problemas ideológicos. De profesor problemático y cuestionador, pasaba a ser la oveja negra del claustro profesoral. 
@@ -41,12 +39,4 @@ Lo peor de todo es que la frase que cito al inicio es totalmente cierta, o te vu
 
 Por miedo a no poder mirar a mi papá a la cara, por miedo a perder mi trabajo, a tener la mancha imborrable de la contrarrevolución a cuestas, por miedo a volver a vivir las noches de desvelo y las otras en las que soñaba no haber escrito nada, en las que soñaba que mi madre nunca había llorado de miedo, por todo ese miedo que infunde la maquinaria paranoica del Estado, es que me he vuelto un cínico. Un cínico que reniega de su educación, de sus convicciones, un cínico que se vuelve peligrosamente un autómata complaciente, otro más, en este amplio coro de los que callan, en esta gran isla de cínicos. 
 
-En algún lugar de Cuba, Julián. 
-
-## Autor
-
--   ![](/wp-content/uploads/2021/04/alfano.jpg)
-    
-    ![](/wp-content/uploads/2021/04/alfano.jpg)
-    
-    [Julián](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/julian/)
+En algún lugar de Cuba, Julián.

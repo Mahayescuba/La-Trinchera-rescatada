@@ -48,13 +48,3 @@ La Reforma Constitucional demandará pensar muchas cosas. Será la Constitución
 Tomado de [Rebelión](http://www.rebelion.org/noticia.php?id=244549&titular=%BFcu%E1l-es-la-pregunta-correcta?-)
 
 Cuentapropismo en Cuba. Cuentapropismo en Cuba. Cuentapropismo en Cuba. Cuentapropismo en Cuba.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

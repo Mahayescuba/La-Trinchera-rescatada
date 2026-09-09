@@ -3,7 +3,7 @@ title: "Elige tú, que yo ni canto"
 date: "2019-10-11T17:01:36+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/10/IMG_20191012_064718.jpg"
+image: ""
 ---
 Elecciones en Cuba. 
 
@@ -18,15 +18,3 @@ Definitivamente somos lo que hay, lo que se vende como pan caliente, lo que pref
 ¿Quién saldrá presidente? Ya no me quedan uñas.
 
 Elecciones en Cuba Elecciones en Cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,5 +1,5 @@
 ---
-title: "Homeopatia en cuba La Trinchera José Gabriel Barrenechea"
+title: "En defensa del carácter laico del Estado cubano"
 date: "2020-04-08T18:21:06+00:00"
 author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
@@ -19,17 +19,3 @@ Yo no me niego a que los demás ciudadanos crean lo que mejor estimen, sólo est
 En consecuencia declaro, en primer lugar, que no tomaré ningún brebaje homeopático; en segundo, me opongo a que los bienes comunes de la ciudadanía, administrados por las instituciones del Estado, como el referido MINSAP, sean usados en privilegio de una creencia no demostrable, lo cual atenta contra el carácter laico del Estado Cubano.  
 Por tanto, llamo a que el Estado Laico cubano deje de usar los fondos públicos en privilegio de tales creencias, como la Homeopatía; que si la campaña de “inmunización homeopática” se lleva adelante solo sea organizada y desarrollada por alguna institución no pública, sin fondos públicos; que la aceptación de los remedios sea voluntaria, y que no pueda llevarse contra quienes nos neguemos.  
 Por tanto, defiendo aquí un derecho, no una creencia.
-
-[Otro texto del autor](/teoria/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "gestion economica del PT La Trinchera Rolando Astarita"
+title: "Brasil: la economía del PT"
 date: "2018-04-19T12:15:44+00:00"
 author: "Rolando Astarita"
 category: "Opinión"
-image: "/wp-content/uploads/2018/04/brasil.jpg"
+image: ""
 ---
 Uno de los discursos más repetidos por buena parte de la izquierda dice que Lula y el Partido de los Trabajadores constituyen una alternativa progresista frente a “la derecha neoliberal”. Incluso dirigentes y militantes que admiten que no votarían por Lula en caso de elecciones, sostienen que el líder del PT defiende un programa más favorable para la clase obrera que lo que pueda encarnar cualquier opción de la centroderecha.
 
@@ -49,7 +49,7 @@ Incluso la inversión en infraestructura, a pesar de muchos anuncios rimbombante
 
 En cuanto al promedio de inversión, se mantuvo por debajo del 20% del PBI en la mayor parte de los gobiernos del PT, como lo muestra el siguiente gráfico.
 
-![](/2018/04/brasil-formacic3b3n-capital-fijo-2003-2015.png?w=960)                                                 _Elaboración propia en base a datos Banco Central de Brasil_
+![](https://rolandoastarita.files.wordpress.com/2018/04/brasil-formacic3b3n-capital-fijo-2003-2015.png)                                                 _Elaboración propia en base a datos Banco Central de Brasil_
 
 Un nivel muy por debajo de los alcanzados en China o Corea. Subrayemos que la inversión es el principal motor de una demanda sostenida, y de la reproducción ampliada de capital. El consumo, en el mediano o largo plazo, no puede jugar este rol.
 
@@ -82,15 +82,3 @@ A la vista de estos resultados –y de la frustración y desmoralización a la q
 Tomado de [Rolando Astarita](https://rolandoastarita.blog/2018/04/12/brasil-la-economia-del-pt/)
 
 [También puede interesar](/politica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Yo me quedo en la trinchera"
 date: "2020-04-01T18:46:36+00:00"
 author: "Fernando Almeyda Rodríguez"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/04/e7b0d090debe08e54035bfea676219f0.0.jpg"
+image: ""
 ---
 Las personas enajenadas se pueden entender y excusar, pero las enemigas del pensamiento requieren respuestas especiales. Con mucho orgullo me cuento entre los primeros que contribuyó a un proyecto que merece respeto. Me siento tan parte de él como Miguel y muchos otros, y como tal me planto a defender su imagen.  
 Trinchera rompe esquemas de maneras poco convencionales: su ascendencia marxista y de tendencia izquierdista no lo obsta para ser radicalmente crítico y honestamente dialogante. Por si los detractores de uno y otro bando no sabían el primer llamamiento de Marx fue a la crítica:
@@ -18,15 +18,3 @@ Eso, sí, de una cosa se puede acusar a la _Trinchera_ y es de ser radicales. _R
 Parece que a los dinosaurios, acomodados en sus estancias de piedra jurásica no les gusta que se piense. Sea de izquierda o de derecha, de marxianos o marcianos, el pensamiento les molesta. Qué pena…  
 Necesitarán mejores argumentos para manchar un proyecto tan sólido y libre del pecado pecuniario original; tal vez antes de atacar debieran hacer eso tan anatemático que detestan: pensar.  
 Mientras, yo, como muchos otros agarro mi pluma, que es mi fusil y me parapeto en las ideas. Apunto y escribo ¡Sepan los desmemoriados que yo me quedo en la _Trinchera_!
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,16 +1,14 @@
 ---
-title: "derrumbe en la habana Por Jorge Fernández Era La Trinchera"
+title: "Escombros"
 date: "2020-02-07T16:10:34+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/02/f5c575db-37b3-4762-84ef-274090e4a09f.jpeg"
+image: ""
 ---
 Diez días han transcurrido desde que tres niñas murieran aplastadas por un derrumbe en La Habana Vieja. Doscientas cuarenta horas en que nadie se ha dignado a brindar una [explicación](/politica-en-cuba/) a lo inexplicable.  
 Hay accidentes y accidentes. Mi madre nunca se repuso de lo que síquicamente representó para ella atropellar con su automóvil a una anciana en una avenida del Vedado habanero. Solo tras la investigación pericial, la declaración de los testigos y la presentación de pruebas médicas se pudo demostrar que la señora se había arrojado delante del carro, sin tiempo a la menor reacción para evadir el impacto. Mi mamá quedó absuelta de cargos y de condena. Otros choferes han tenido que cumplir cárcel ante situaciones similares que sí han constituido delito al comprobarse irrespeto a las normas del tránsito o consumo de alcohol y de otras drogas.  
 Llamar «accidente» —así, a secas— a que fallezcan tres menores de edad en un derrumbe que se anunciaba hace meses… La manipulación se apuntala con la falta de declaraciones periciales, de expertos que manifiesten por qué la edificación no estaba protegida. Se cita a una vecina que insinuó que, al final, iba a pasar lo que pasó porque la gente es del carajo. Y cerrado el caso, que la cosa no está para poner el dedo en la llaga con tanta caña por sembrar y tabaco por torcer.  
 Un día después de la tragedia, Bruno Rodríguez Parrilla —seguro por iniciativa propia— escribió para expresar sus condolencias… por el fallecimiento del baloncestista estadounidense [Kobe Bryant](https://www.google.com/amp/s/www.bbc.com/mundo/amp/deportes-51409381). Lo hizo un día antes de que Miguel Díaz-Canel se lamentara, muchísimas horas después del suceso y en la misma red Twitter, de la muerte de las pequeñas. El texto del canciller consta de treinta y cuatro palabras, el del presidente veinte. Este último podría tener más si hubiese declarado: «Se hará una investigación rigurosa de las causas que provocaron un accidente que, a todas luces, pudo ser evitado; sus responsables deberán responder ante la justicia».
-
-![](/wp-content/uploads/2020/02/georges_braque_-_cartes_et_de_s_cards_and_dice_1914_35_5x44cm_museo_nacional_centro_de_arte_renia_sofia-e1562379501817.jpg)
 
 Cartes et dés, Georges Braque, 1914
 
@@ -18,15 +16,3 @@ En Cuba, en el desplome de una edificación, están implicados desde el PCC —f
 Hace pocos días, con posterioridad al derrumbe, se realizó una reunión del Grupo Gubernamental de Apoyo a la Capital (GGAC). La prueba de la importancia que le da el Estado a todo lo concerniente a nuestra añeja Habana es que estuvo presidida por Miguel Díaz Canel (presidente), Salvador Valdés Mesa (vice), Esteban Lazo Hernández (titular de la Asamblea Nacional y presidente del Consejo de Estado) y Manuel Marrero Cruz (primer ministro). El encuentro analizó «la situación de los principales servicios y programas que se ejecutan en La Habana y el quehacer de la Oficina del Historiador de la Ciudad». Lo informó solamente el Noticiero Nacional de Televisión, recuérdese que Granma, Juventud Rebelde y Trabajadores andan cortos de gasolina y no pudieron estar ni en esta reunión ni en el edificio siniestrado el lunes 27 de enero. Pero la noticia es que el GGAC no examinó —será que el tema no tiene importancia o que los periodistas merendaban cuando lo hicieron— la causa de este y otros desmoronamientos: el estado precario de las edificaciones de la ciudad, en especial las de los municipios La Habana Vieja y Centro Habana. De haberme invitado, yo hubiera propuesto —que no se diga después que los que criticamos no ofrecemos soluciones— que el ridículo uno por ciento de ingresos que hoy se dedica al desarrollo local en los municipios cubanos fuera aumentado, en el caso de la capital, a un no menos exiguo, pero más atinado, cinco por ciento, y que se dedique a sostener en pie todas aquellas edificaciones que están a tiempo de ser recuperadas, y a hacer un estudio del fondo habitacional en peligro de derrumbe, con ánimo de señalizarlo y apuntalarlo adecuadamente (por ahora los ciudadanos, con sus celulares y fotos, han emprendido la tarea). A más casas y edificios recuperados, más bella la ciudad, más turistas alojados en sus instalaciones hoteleras, y más ingresos al país para sostener estos y otros programas.  
 ¿Será que estoy pensando en el país que no vivo, que es mejor olvidar lo que pasó y seguir palante con el futuro próspero y sostenible que nos espera y que no podrán disfrutar María Karla Fuentes, Lisnavy Valdés Rodríguez y Rocío García Nápoles?  
 Han limpiado el rastro de tres humildes criaturas, pero los escombros siguen sin recogerse.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

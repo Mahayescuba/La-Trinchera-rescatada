@@ -1,9 +1,9 @@
 ---
-title: "elecciones generales en cuba"
+title: "Las Elecciones Generales, un poco más allá de la estadística"
 date: "2018-04-17T20:10:52+00:00"
 author: "Alejandra K."
 category: "Opinión"
-image: "/wp-content/uploads/2018/04/elecciones-dibujo-01.png"
+image: ""
 ---
 Ya comienza a asentarse un poco el polvo mediático levantado en los días cercanos a la segunda parte del actual proceso de [Elecciones Generales Cuba 2018](http://www.juventudrebelde.cu/cuba/2018-03-11/cobertura-especial-elecciones-generales-en-cuba-fotos-y-podcast). Mucho se ha dicho sobre el mismo. Críticas y elogios no han faltado de detractores y defensores, tanto en las redes sociales, en la blogosfera y en las conversaciones cotidianas del cubano. Pero más allá de especulaciones, todos permanecen a la espera del importante acontecimiento que pondrá colofón a dicho proceso y que no puede ser otro que la elección por la Asamblea Nacional del futuro presidente de los Consejos de Estado y de Ministros. En el tiempo que trascurra hasta tan importante acontecimiento, se puede empezar a sacar ya algunos apuntes sobre el desenvolvimiento del proceso electoral cubano.
 
@@ -34,15 +34,3 @@ La alienación a la cual me refería anteriormente como separación, en término
 Hay personas que estaría y están en desacuerdo con esta idea, pero basta  salir a la calle y salta a la vista como cada vez se reduce más el número de personas que se implican en la vida política del país, como cada vez más las condiciones de vida de la Cuba actual te separan de ser un ente activo en el proceso, para convertirnos en un ser ajeno a este. Y aunque muchos no lo compartan este hecho es en términos simples la explicación más consecuente del fenómeno, el cual sin lugar a duda se da de una manera especialmente dañina en las edades más jóvenes.
 
 [Otro texto de la autora](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

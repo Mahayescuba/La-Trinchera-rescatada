@@ -20,15 +20,3 @@ Ni esta ni la anterior fueron más o menos gloriosas. Ni el pasado es mejor que 
 Quizás sea solo yo -alterado-, histérico ante la destrucción eterna de aquello que me gustaba, ante la aniquilación de un espacio de conversar y debatir temas insulsos o profundos. De hablar y no hacer más que hablar. No de almorzar, no de escuchar nefastas bandas sonoras, sino de conversar y punto. Solo era permisible, aceptado y honrado el momento del café, el cigarro y la discusión. Nada más. Deben existir más estos lugares en La Habana, pero están muriendo y los están suplantando con simulaciones ordinarias de realidades patéticas.
 
 Café Literario del Vedado Café Literario del Vedado
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

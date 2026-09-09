@@ -3,7 +3,7 @@ title: "Marx, sociología y el capitalismo"
 date: "2019-11-21T18:12:17+00:00"
 author: ""
 category: "Debates"
-image: "/wp-content/uploads/2019/11/IMG_20191121_131110_991.jpg"
+image: ""
 ---
 **Se comparte este debate que tuvo como escenario original la red social Facebook, por las ideas que puede aportar. Marx.** 
 
@@ -64,15 +64,3 @@ Quizá sería mejor si antes deshollina su mente y dota de fundamento lo que dic
 **RG.** Advierto que el poder no se toma, como a una fortaleza; sino que se construye y se ejerce por una multitud.  
 Luego, solo me resta agradecer sus opiniones al respecto.  
 **AR.** Gracias Sr. Profundamente discrepamos. Eso de los descamisados y las masas alcanzando el poder es otro de los mitos modernos, como el de Blancanieves. Se trata de conspiraciones. Y no va a ser de tontos útiles sino de gentes con maldad. Hasta luego.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

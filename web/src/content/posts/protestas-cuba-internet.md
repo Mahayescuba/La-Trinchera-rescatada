@@ -3,7 +3,7 @@ title: "Nuevas formas de protestar"
 date: "2019-04-08T04:42:48+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/04/PicsArt_04-07-09.16.30.jpg"
+image: ""
 ---
 protestar en Cuba.
 
@@ -32,15 +32,3 @@ Los cubanos, a veces rezagados por el gran presente subdesarrollo, ahora asumimo
 
 Ya no hace falta el derecho a huelga -a la tradicional o anclada en el siglo pasado-, las redes dan la posibilidad de organización y mostrar reclamos colectivos. Cada me gusta, me encanta, compartido, o simplemente la lectura, le dan vida al contenido difundido, con similar efecto social a un conjunto de personas en las calles manifestándose.  
 Son nuevos tiempos donde las esencias adoptan nuevas formas, por eso, surgen estas nuevas formas de protestar y hacerse notar el sentir ciudadano en Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

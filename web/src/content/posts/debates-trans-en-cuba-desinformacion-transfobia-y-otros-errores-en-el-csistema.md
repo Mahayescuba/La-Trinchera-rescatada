@@ -1,9 +1,9 @@
 ---
-title: "Transfobia en Cuba"
+title: "Debates trans en Cuba: desinformación, transfobia y otros errores en el c(s)istema"
 date: "2020-07-04T16:00:00+00:00"
 author: ""
 category: "Debates"
-image: "/wp-content/uploads/2020/07/Jean-Louis-Corby-Reflet.jpg"
+image: ""
 ---
 Hay gente cis que se arroga incluso el derecho de evaluar y dictaminar quién es trans y quién no, qué es transfobia y qué no. ¿Cómo que una mujer trans lesbiana? ¿No se supone que le gusten los hombres y por eso “se haya convertido en mujer”?
 
@@ -66,15 +66,3 @@ Una ley de identidad de género no resolvería todos nuestros problemas, pero al
 Queremos que la dificultad para acceder a empleos sea por las mismas causas que para las personas cisgénero, que cuando lleguemos a un policlínico se nos dé un trato digno, que el médico de guardia no cuestione el consumo de hormonas o cualquier procedimiento con el cual hayamos intervenido nuestro cuerpo ni que vomite todos sus prejuicios y estigmas sobre las personas trans; queremos que se le preste atención al acoso y persecución policial hacia las mujeres trans, al estado de peligro, a la situación de las personas trans en las cárceles, sobre todo la situación de la mujeres; eliminar la idea de que en cárceles de hombres estaremos mejor atendidas por estar rodeadas de hombres; eso además de transfóbico, misógino y machista, es repugnante y una violación a nuestros derechos humanos que pone en peligro nuestra integridad física. Desearíamos ir eliminando paulatinamente el lenguaje cis-sexista, ese que contempla que solo menstrúan las mujeres cuando la realidad es que hay hombres trans, personas no binarias y personas cuir menstruantes también; o que aborto y capacidad de gestar son cosa de mujeres y pene de hombres.
 
 Y para todo ello necesitamos aliadxs cis. Un grupo objeto de marginación como es la comunidad trans necesita alianzas que vengan de la sociedad mayoritaria, también de posiciones más privilegiadas que la apoyen en sus preocupaciones políticas, sociales y económicas, y en el cumplimiento efectivo de sus derechos humanos. Pero aliadxs que nos escuchen, que aprendan a conocernos, que desaprendan esos estereotipos que nos empobrecen tanto, que se eduquen en nuestras problemáticas y maneras que preferimos se nos trate para que también nos ayuden a desmontar esos estereotipos e ideas erróneas del imaginario popular, a sensibilizar y a combatir la transfobia, pero antes debemos combatir la transfobia oculta, internalizada, que también existe dentro de la propia comunidad sexo-disidente. Sabemos que la pelea por la ley de identidad de género será una pelea dura; es darle el golpe final al _c(s)istema_, el _knock-out_, pero sabemos también que se resiste. El moribundo redobla fuerzas cuando sabe que su muerte es inminente.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    [La Trinchera Editor](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/la-trinchera-editor/)
-    
-    La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser una plataforma de debate.
-    
-    [](/la-trinchera/)

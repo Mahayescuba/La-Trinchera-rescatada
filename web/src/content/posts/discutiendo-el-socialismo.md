@@ -3,7 +3,7 @@ title: "Discutiendo acerca del socialismo"
 date: "2019-10-06T15:39:55+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2019/10/IMG-20190525-WA0006.jpg"
+image: ""
 ---
 _El socialismo no puede ser interpretado como una receta, tampoco es un dogma, tampoco puede implicar la supresión de las libertades._
 
@@ -18,17 +18,3 @@ No nos olvidemos la advertencia de Marx en su prólogo a la primera edición de 
 Finalmente, quiero recordar las palabras del profesor vietnamita Le Dang Doanh en una conferencia que tuvimos en Hanoi en 2010, en una visita de trabajo con varios colegas economistas cubanos y suecos.  
 Le Dang Doanh fue asesor de Nguyen Van Linh y de Vo Van Kiet en los inicios del [Doi Moi](https://es.wikipedia.org/wiki/%C4%90%E1%BB%95i_m%E1%BB%9Bi) y comenzó diciéndonos que cuando comenzaron las reflexiones para el esbozo de la estrategia de renovación económica, los dirigentes del PCV llegaron a la conclusión de que en las condiciones concretas de Vietnam en ese momento, la palabra socialismo significaba: lograr el mayor bienestar posible en la sociedad y había que hacer todo lo que fuera necesario para lograrlo y rechazar todo lo que obstaculizara ese progreso. Eso significa visión política en función de que ciertamente el socialismo conduzca a que la gente viva mejor.  
 El socialismo no puede ser interpretado como una receta, tampoco es un dogma, tampoco puede implicar la supresión de las libertades. Si el socialismo es llevado a la práctica bajo esos preceptos será un fracaso.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/marxismo/marxismo-y-socialismo-utopico/
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "ataques contra prensa popular y medios de comunicación en Colombia"
+title: "Carta pública"
 date: "2021-05-11T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/05/Francoise-Bellard.jpg"
+image: ""
 ---
 ## Carta pública desde los medios comunitarios, populares y alternativos de Ecuador sobre vulneraciones a la libertad de expresión e información en Colombia
 
@@ -12,8 +12,6 @@ Quito, Ecuador, 11 de mayo 2021
 Desde Ecuador, la Red Kapari Comunicación junto a diversos medios comunitarios, populares y alternativos, plataformas digitales nos solidarizamos con el Paro Nacional de Colombia activado desde el pasado 28 de abril 2021 por amplios sectores sociales-populares contra la Reforma Tributaria, impulsada por el gobierno neoliberal de Iván Duque, un “paquetazo económico” que afecta principalmente a la clase trabajadora y los sectores empobrecidos, quienes ya han sufrido las mayores afectaciones sanitarias, sociales y económicas por la pandemia; de forma integral es el rechazo al cúmulo de las desigualdades estructurales de la sociedad colombiana.
 
 Manifestamos nuestra profunda preocupación frente a los más de 140 ataques registrados desde el inicio del paro en contra de la prensa popular y medios de comunicación, actores fundamentales para informar y documentar las protestas, sobre todo cumplen el rol de exponer a la sociedad colombiana y al mundo la violencia exacerbada por parte de la fuerza pública, que derivan en graves vulneraciones a los derechos humanos de la ciudadanía. Según la ONG Temblores, existen 1728 casos de violencia policial, 40 personas asesinadas presuntamente por la fuerza pública, 1000 detenciones arbitrarias, 28 víctimas de agresiones en sus ojos, 12 víctimas de agresiones sexuales, 500 desaparecidos, estos hechos nos impulsan a unirnos a la indignación internacional para frenar la masacre contra el pueblo colombiano y condenar la violencia policial.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/libertades-y-derechos-expresion-e-informacion/
 
 Según la Fundación para la Libertad de Prensa (FLIP) en Colombia, hasta el momento, se han documentado 115 ataques a la prensa; 85 víctimas, 42 agresiones físicas, 19 robos y eliminaciones de material, 12 obstrucciones, 6 detenciones ilegales, 10 acciones arbitrarias en redes sociales, 3 daños a infraestructura, 3 casos de negación al acceso a la información, 8 amenazas, 3 hostigamientos, 5 estigmatización y 3 casos de espionaje. Además, se han documentado 52 ataques contra la prensa cometidos por miembros de la fuerza pública; son responsables en el 45% de los casos miembros del Escuadrón Móvil Antidisturbios (ESMAD).
 
@@ -31,22 +29,4 @@ Instamos a los organismos de derechos humanos internacionales como la [Relatorí
 
 **Los comunicadores y comunicadoras comunitarios, en solidaridad firmamos:**
 
-![](/wp-content/uploads/2021/05/Imagen-1.png)
-
-![](/wp-content/uploads/2021/05/Imagen-1.png)
-
 _Tomado de Red Kapari_
-
-ataques en contra de la prensa popular y medios de comunicación en Colombia, ataques en contra de la prensa popular y medios de comunicación en Colombia
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    [La Trinchera Editor](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/la-trinchera-editor/)
-    
-    La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser una plataforma de debate.
-    
-    [](/la-trinchera/)

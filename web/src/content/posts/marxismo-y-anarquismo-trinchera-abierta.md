@@ -1,5 +1,5 @@
 ---
-title: "Confluencias entre marxismo y anarquismo"
+title: "Abriendo nuevas trincheras: confluencias del marxismo y el anarquismo"
 date: "2019-01-08T06:12:52+00:00"
 author: ""
 category: "Trinchera Abierta"
@@ -18,15 +18,3 @@ Seguidamente se efectuaron múltiples discusiones sobre el tema del autoritarism
 Tal vez por lo tarde que era, no se llegó a consensuar la posibilidad de nuevos encuentros y debates o acciones prácticas, pero el interés quedó en muchos de los participantes. Fue, sin dudas, una jornada provechosa.
 
 [Leer la ponencia de Mario Valdés](/trinchera-abierta/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Perder la condición"
 date: "2019-10-07T01:22:16+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/10/IMG-20190525-WA0005.jpg"
+image: ""
 ---
 Avión de Barbados. 
 
@@ -20,19 +20,3 @@ Lo malo empezó, como siempre, cuando se sobrepasan los límites. Una Cuba -azuz
 Así se derribó un avión en pleno vuelo. Así el ataque del que no aceptó la derrota pasaba a un _vale todo. A_sí se perdió la condición. Así, quienes lo hicieron, dejaban de ser cubanos.
 
 Avión de Barbados Avión de Barbados
-
-> [Del odio al amor. Mi viaje a la semilla](/politica-en-cuba/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Del odio al amor. Mi viaje a la semilla» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/politica-en-cuba/del-odio-al-amor-mi-viaje-a-la-semilla/embed/#?secret=Ej57FmEhFQ" data-secret="Ej57FmEhFQ" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Crecer con la revolución"
 date: "2019-10-25T03:58:44+00:00"
 author: "María del Pilar Díaz Castañón"
 category: "Opinión"
-image: "/wp-content/uploads/2019/10/PicsArt_10-23-05.57.20.jpg"
+image: ""
 ---
 > III
 
@@ -36,15 +36,3 @@ En general, tuvimos suerte. Crecimos con naturalidad y desenfado en un mundo seg
 Mi amigo Dan Fireside comentó que había pasado trabajo buscando las referencias de [Crecer I](/opinion/). No me imagino cómo se las arreglará con este.
 
 [Leer parte II](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

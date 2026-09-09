@@ -1,9 +1,9 @@
 ---
-title: "sesiones de la Asamblea Nacional"
+title: "Tras la tempestad la karma"
 date: "2020-10-29T09:30:23+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/10/Ice-melting-art-by-Nele-Azevedo.jpg"
+image: ""
 ---
 —Ay, mi amiga, vengo a pedirte que me hagas un cocimiento de los tuyos, a ver si se me baja el susto que me salta en el pecho.
 
@@ -16,8 +16,6 @@ image: "/wp-content/uploads/2020/10/Ice-melting-art-by-Nele-Azevedo.jpg"
 —Como oyes. Yo era todo nervios. Escuchaba al presidente de la Asamblea y me preguntaba cómo a ese hombre no lo han puesto a impartir un curso de Círculo Infantil para Todos en aras de que los niños duerman su siesta. El temor mayor era que se parara alguien y gritara: ¡más café! Y ná, esos diputados tuvieron el tino de no interrumpir sus largas pausas, su metraje silente, su sincopada dicción…
 
 —Eso se llama equilibrio. No todo puede ser discusión de pasillo.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/esperando-al-camion-podcast/
 
 —¡Ahí está la cosa!: se anunció en la prensa que iban a discutirse algunos temas importantes para el devenir de la nación. Y en el ir y devenir de la cocina a la sala yo repetía a mi marido: tú va ver que tú verás, con lo impulsivos que somos los cubanos empiezan por preguntar por qué esto o por qué aquello y terminan citándose pa las cuatro y media en el parqueo del hotel Palco.
 
@@ -34,15 +32,3 @@ https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica
 —¡Que si sí…! Eso sucedió en medio de la presentación de la Estrategia Económico-Social para salir de la pandemia. ¿A quién se le ocurre hacerlo en vivo, en momentos en que hay escasez hasta del tabloide que vendieron explicándola? Pero el caso es que la presentaron. Y lo de los precios topados no fue nada al lado de lo que dijo el ministro sin que le temblara la voz, casi retando al auditorio: _Tenemos problemas_. Ahí me subió la presión, no quise mirar, creí se lo comerían vivo, sería lo último en el cargo del más joven de nuestros dirigentes… Y ná, su osadía pasó por alto, porque al final to el mundo sabe que Cuba va bien…
 
 —Ya está el cocimiento. ¿Te gusta con azúcar prieta?
-
-sesiones de la Asamblea Nacional, sesiones de la Asamblea Nacional
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

@@ -3,10 +3,8 @@ title: "La pupila y la molestia"
 date: "2020-09-01T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/09/lee_miller-retrato_del_espacio_0-705x900-1.jpg"
+image: ""
 ---
-_En la Cuba de hoy, o de ayer, nos encontramos con el programa televisivo La Pupila asombrada y la presentación de Celia Cruz. Magnífico._
-
 **Por: Miguel Alejandro Hayes**
 
 Si bien ante la ley los derechos nos deben igualar, para la subjetividad social no tiene que ser el caso. Ante ella, si de derecho se trata, no debe discriminarse, sino valorar a todos los sujetos de derecho por igual. Pero en el plano de lo moral, la jerarquización, la legitimidad, la capacidad, el desacuerdo, el pasado, lo simbólico, no lo son para todos por igual. Porque la desigualdad es también un derecho, dijo Marx. Es un derecho estudiar, por ejemplo, pero no lo es el ser premiado cuando no se cumplen las normas mínimas en dicha enseñanza. Se tiene derecho a las mismas normas, a las mismas reglas de juego, pero no al mismo resultado, aún habiéndolas cumplido.
@@ -40,15 +38,3 @@ En resumen, si de comunicación se trata, el ejercicio debe ser comprender la di
 No fue ilegal lo ocurrido en LPA, pero sí fue algo condenado, moralmente, por algunos. Tal vez se pueda pensar en cuán éticos son algunos de los cuestionamientos, pero de lo que va este texto es de que es más que válida, moralmente hablando, la molestia generada por el programa de este jueves de LPA.
 
 La Pupila Insomne y Celia Cruz
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

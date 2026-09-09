@@ -3,7 +3,7 @@ title: "Militancia y nación"
 date: "2020-07-24T09:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/07/Colectivo-de-artistas.jpg"
+image: ""
 ---
 Consenso y democracia. 
 
@@ -21,7 +21,7 @@ Fue justamente la necesidad de sofocar un nuevo alzamiento liberal lo que impidi
 
 Ante la evidente imposibilidad de que un grupo se impusiera definitivamente al otro, y la emergente necesidad de hacer frente común ante intereses de igual naturaleza, hubo que sentar las _reglas del juego,_ vertebrar un pacto social que permitiera, en última instancia, una pacífica alternancia en el gobierno a ambas facciones. Este proceso tomó la mayor parte del siglo XIX español.
 
-Hoy día, la propia dinámica sociopolítica impone una redefinición de la esencia y rol de las mencionadas fuerzas en pugna. En aquellas democracias más antiguas y estables, la estabilidad política originalmente alcanzada y la mayor o menor prosperidad económica, han ido cerrando brechas, limando asperezas, al punto de que no exista ya esa _incómoda tolerancia_ de antaño –_agonismo_, así le llama Chantal Mouffe[\[1\]](#_ftn1).
+Hoy día, la propia dinámica sociopolítica impone una redefinición de la esencia y rol de las mencionadas fuerzas en pugna. En aquellas democracias más antiguas y estables, la estabilidad política originalmente alcanzada y la mayor o menor prosperidad económica, han ido cerrando brechas, limando asperezas, al punto de que no exista ya esa _incómoda tolerancia_ de antaño –_agonismo_, así le llama Chantal Mouffe\[1\].
 
 Superada la etapa en que la alternancia pacífica, amparada en cierta institucionalidad, se normalizó, es decir, pasó de ser excepción a regla, las propias élites en el poder, y quizás también las capas cultas de la sociedad, percibieron que la referida alternancia no podía implicar bruscos y constantes cambios de paradigma social, económico, político, etc., dada su evidente inviabilidad.
 
@@ -39,18 +39,6 @@ La contradicción inherente a la pluralidad es imprescindible, pero debe mantene
 
 Mientras escribo esto, no puedo evitar pensar en mi querida Cuba. Supuestamente en aras de la unidad, y mediante la tergiversación del pensamiento del mejor de los cubanos, se nos ha impuesto un modelo que cae cual lápida pesada sobre nuestra sociedad. El problema del actual diseño es que no es hijo del consenso (o si lo fue en algún momento, de eso hace ya mucho), ni permite la libre ventilación de las contradicciones presentes en nuestra sociedad. Es necesario que los cubanos nos moderemos independientemente de nuestra posición política o geográfica, y converjamos con _lealtad_ hacia un mismo cauce, en el que todos quepamos. Para ello es necesario que algunos sepamos perdonar y otros sean consecuentes con su propio eslogan. Y empiecen a _pensar como país_.
 
-[\[1\]](#_ftnref1) Mouffe Chantal, En torno a lo político. Fondo de cultura económica, Madrid, España, 2007.
+\[1\] Mouffe Chantal, En torno a lo político. Fondo de cultura económica, Madrid, España, 2007.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/democracia-en-cuba/
-
-Consenso y democracia. Consenso y democracia. Consenso y democracia. Consenso y democracia. 
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)
+Consenso y democracia. Consenso y democracia. Consenso y democracia. Consenso y democracia.

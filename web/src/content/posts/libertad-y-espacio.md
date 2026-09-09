@@ -1,5 +1,5 @@
 ---
-title: "Libertad y espacio El retroceso de la libertad — José Gabriel Barrenechea"
+title: "El retroceso de la libertad"
 date: "2021-01-12T10:30:00+00:00"
 author: "José Gabriel Barrenechea"
 category: "Teoría"
@@ -10,8 +10,6 @@ Coincido con quienes se preocupan por la actual tendencia al retroceso de las li
 Lo primero que me diferencia de ellos es que entiendo, en mi caso, las razones materiales de ese retroceso, mientras los tales las creen el resultado de conspiraciones de gente muy malvada. De alguna conspiración judeo-masónica-liberal-comunista-mejicana-pederasta…
 
 A diferencia de esos, para mí aburridos “compañeros de viaje” que dicen preocuparse conmigo, no imagino vivir en un mundo maniqueo, en el que la diferencia entre el blanco y el negro es total y sin grados intermedios. O en el que hay buenos, nosotros, y malos, ellos.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/libertades-y-derechos-expresion-e-informacion/
 
 En última instancia, lo que me separa de ellos, de esa Novísima Derecha, es que no me creo que en realidad los mencionados personajes, en apariencia tan afines a mí, sean verdaderos defensores de la libertad. Porque no me cabe en la cabeza que nadie que no parta de una posición de un escepticismo llamémoslo saludable (que no impide la acción), alguien que no esté absolutamente convencido de su falibilidad constitutiva, pueda ser un verdadero defensor de la libertad. Por el contrario, todo aquel quien se crea poseedor absoluto de la Verdad, así, con mayúscula, o en relación privilegiada con su dueño, si no es un egoísta que aspira a conservar lo bueno solo para él, intentará necesariamente imponérsela al otro. 
 
@@ -38,13 +36,3 @@ La Tierra será para entones como las regiones superpobladas de Europa en el sig
 Un último punto: el que los humanos se desplacen a colonizar, a humanizar, nuevos medios, es quizás también la solución a los desafíos que para el empleo trae la revolución tecnológica de la Inteligencia Artificial. En una humanidad en expansión hacia nuevas circunstancias ambientales, cada vez más y más distantes de la experiencia humana sobre la que se ha construido nuestra cultura, la creatividad humana, que nunca las máquinas construidas sobre esa cultura y por más “inteligentes” que llegue a ser reemplazarán, estará en su nivel de demanda más alto nunca visto.
 
 Expandíos, multiplicaos, enfrentad siempre nuevos desafíos. He ahí la naturaleza material de la libertad humana.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    [José Gabriel Barrenechea](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-gabriel-barrenechea/)
-    
-    Científico, escritor y activista

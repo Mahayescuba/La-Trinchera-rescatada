@@ -3,7 +3,7 @@ title: "No ver el bosque"
 date: "2019-03-06T06:09:28+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/03/PicsArt_03-06-01.04.15.jpg"
+image: ""
 ---
 Marxismo y leninismo.
 
@@ -47,15 +47,3 @@ Resulta que uno de los “aportes” del marxismo-leninismo -la versión dogmát
 Parece que los árboles aún no nos dejan ver el bosque. Aunque se agradece la intención, y hay quienes piensan que es un gran avance para librarnos del marxismo-leninismo (dogmatismo [estalinista](https://es.wikipedia.org/wiki/I%C3%B3sif_Stalin))-, seguimos dándole una connotación ideológica al marxismo, un rasgo marcadamente estalinista, y que resulta parte esencial de esa construcción teórica.
 
 **Versión original publicada en La Joven Cuba**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

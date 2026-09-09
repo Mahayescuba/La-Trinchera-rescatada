@@ -3,7 +3,7 @@ title: "La crisis no es una cuestión de moral"
 date: "2018-05-22T12:14:15+00:00"
 author: "Rolando Astarita"
 category: "Economía Política"
-image: "/wp-content/uploads/2018/05/f81e951bb94e0cb1c4ad7cd35fbc3291.jpg"
+image: ""
 ---
 A raíz de la crisis cambiaria y financiera por estos días se han multiplicado las condenas de tipo moral a “los especuladores y los capitales financieros”. El pedido de Carrió a los productores sojeros es representativo: “liquiden la soja, no pueden retener los dólares, hagan patria, no pueden estar lejos de nosotros”, declaró. Un mensaje que trajo a la memoria la famosa queja de Juan Carlos Pugliese, ex ministro de Alfonsín, cuando en plena crisis de 1989 dijo que le había hablado a los empresarios “con el corazón y me contestaron con el bolsillo”. Pero no se trata solo de defensores del gobierno. También en la izquierda abundan las condenas de tipo moral. Por ejemplo, se dice que la crisis se debe a la “estafa” del Gobierno, los capitales financieros y el imperialismo, con vistas a “saquear la nación”. Mensajes parecidos inundan las redes y caracterizan las declaraciones de dirigentes combativos. Por esta vía también se sugiere que la crisis se debe a la fracción más regresiva del capital, el capital dinerario (o financiero) y extranjero.
 
@@ -22,17 +22,3 @@ Este criterio también lo encontramos en el abordaje de Marx del interés, y del
 En consecuencia, es absurdo criticar al capitalista por egoísta, o por codicioso. Estas condenas, propias de la doctora Carrió, de la Iglesia y de cierta izquierda moralista, son simples cortinas de humo. En el mercado el único poder que reúne a los participantes y los pone en relación es el de su egoísmo, su ventaja personal, sus intereses privados (véase _ibid_., p. 214, t. 1). En esa esfera “de los derechos humanos innatos”, los sentimentalismos y las condenas morales están fuera de cuestión. Hay que recordarlo: “las máscaras que en lo económico asumen las personas, no son más que personificaciones de las relaciones económicas como portadoras de las cuales dichas personas se enfrentan mutuamente” (_ibid_., p. 104, t. 1). La causa de fondo de la crisis _es sistémica_. Se trata de una idea clave en tiempos de ofensiva del capital sobre los trabajadores, y de dulzones discursos que convocan a la colaboración de clases “contra el puñado de estafadores”.
 
 Tomado de [Rolando Astarita](https://rolandoastarita.blog/2018/05/14/la-crisis-no-es-una-cuestion-de-moral/)
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica/izquierda-argentina/
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

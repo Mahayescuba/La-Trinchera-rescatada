@@ -1,15 +1,13 @@
 ---
-title: "Moral y sociedad"
+title: "Amén a la idiotez"
 date: "2021-01-11T10:30:00+00:00"
 author: "José Repiso Moyano"
 category: "Opinión"
-image: "/wp-content/uploads/2021/01/Greg-Brotherton-.jpg"
+image: ""
 ---
 Las sandeces tienen premio porque siempre tienen detrás a una simpática moral que las custodia.
 
 Empezando, la moral es un convencimiento social de lo que es bien, y mayormente la crea la referencia espiritual o religiosa que tiene una sociedad en un determinado tiempo o época. **La moral establece en la mentalidad de todos unos valores** que se han de respetar por imperativo social, sean acertados o sean irracionales, pero la moral impone respeto u obliga a que obedezcan todos, sí o sí, a lo que se ha de hacer por el posible atino (o no) de unos cuantos. Por eso, la moral tiene mucho de subjetividad, de lo que es conveniencia social (no más) por unos estereotipos que se han establecido en los estadios de los gurús o de las religiones.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-dilema-etico-y-el-derecho-de-los-medios/
 
 Asimismo, cada persona, por salvar sus intereses, siempre intentará difundir una moral que ella misma se ha cocinado, o sea, **cada persona va buscando adaptar toda norma moral a sus propios intereses**, usando para ello mucha retórica o subjetividad que encante incluso a las serpientes. Sí, en la incuestionable charlatanería social eso es facilísimo; como lo que ocurre después de unas elecciones, que todos (con excelentes vendas en los ojos) ven a su moral (o a su política) como la vencedora, ¡es paradójico!
 
@@ -24,13 +22,3 @@ Lo peor es que, cada moralina, excluye o tapa o impide a algo serio en razón o 
 Analicemos una moralina en concreto, la de “yo no he matado a nadie”:  Lo primero que impone es que, sean los errores que haya cometido, sean las sinrazones que haya defendido, sean las indecencias que haya producido, él sostiene un “yo no he matado a nadie” imponente para que todo se excuse o haya ya una tabla rasa para todas sus acciones (y ¡viva la Pepa!; ¡sí!, que mienta y robe con tal truco). Es como un liberarse de la conciencia y ya así facilitarle una barra libre para todas sus ocurrencias en adelante. ¡Qué listez!
 
 Pues la moralina lo que, en el fondo, quiere es salvarle el pellejo a cualquier rollo-motivación interior, **por encima del bien y del mal** incluso. La moralina es impresionante en un confundirlo todo, en un pillearlo todo, es como una dictadura personalísima, es como un populismo para propio consumo o, en cada cual, para realizarse en sí mismo. Siempre en los medios de comunicación todos inventan una moralina y después otra y después otra…, sin continencia ética (que convence ya a casi todos los tontos).  ¡Eso hay!, eso es lo que hay, ¡amén a la idiotez!
-
-moral y sociedad, moral y sociedad
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [José Repiso Moyano](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-repiso-moyano/)

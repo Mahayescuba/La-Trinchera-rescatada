@@ -1,17 +1,15 @@
 ---
-title: "Medios independientes en Cuba La Trinchera Por: Miguel Fergoz"
+title: "Una opinión sobre el periodismo independiente"
 date: "2021-01-04T10:30:00+00:00"
 author: "Miguel Fergoz"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/01/Dale-Copeland.jpg"
+image: ""
 ---
 Siento que el mayor conflicto entre Papá Estado y sus hijos, es que Papá Estado no quiere, o no sabe, entender a sus hijos. Perdón, he dicho “sus hijos” y he pecado de absolutista, diré mejor algunos de sus hijos, porque Papá Estado no tiene ningún problema con esos hijos dóciles y obedientes que dicen y actúan exactamente como él espera. Nótese que digo “dicen y actúan”, y no digo piensan, porque el pensamiento de los otros es algo mucho más difícil de controlar, y sabemos bien que, en casa de Papá Estado, algunos piensan una cosa y dicen otra.
 
 ¿Reprochable? Bueno, no tanto si pensamos en cómo han sido las cosas por mucho tiempo. Digamos que la hipocresía queda justificada como una estrategia de supervivencia, o al menos como método para garantizar una convivencia pacífica. Evidentemente, Papá Estado es un padre autoritario.
 
 Sin embargo, Papá Estado puede ser un padre generoso con aquellos hijos que se “porten bien” por pura convicción o por puro oportunismo. Diferenciar entre oportunistas y convencidos es difícil a veces, así que Papá Estado no se detiene a analizar mucho esto, solo le interesa que sus hijos se “porten bien”.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/los-agradecidos-y-los-aprovechados/
 
 El problema de Papá Estado es con los hijos que se “portan mal”, aunque eso de “portarse mal” no ha quedado nunca muy bien definido, y en ocasiones, hay hijos “ejemplares” que de buenas a primeras han caído en desgracia, he ahí una prueba fehaciente del oportunismo del que hablo, o quizá no, quizá haya sido por exceso de sinceridad. No obstante, si queremos ser totalmente honestos, hay que decir que Papá Estado ha ido expandiendo sus límites. Hace unos cuantos años, por ejemplo, no soportaba a sus hijos homosexuales, ni tampoco a los que eran devotos de alguna religión; homosexuales y religiosos estuvieron en conflicto con él por décadas. Este, serio, circunspecto, no los consideraba buenos revolucionarios, que es lo mismo que decir que no los consideraba buenos hijos. Ahora todo es distinto, al menos en apariencia, se puede ser homosexual y/o religioso y ser considerado un buen hijo. Sin embargo, sigue habiendo actitudes imperdonables para Papá Estado, que se muestra especialmente intolerante cuando un hijo “descarriado” le echa en cara sus defectos: «Déjate de criticar tanto chiquill@ malcriad@, mira mejor todo lo que hago por ti. Te enfermas y te curo. Eres de origen humilde y estudias en la universidad. Pero obedéceme, obedéceme porque si no…» Algo así nos dice todo el tiempo Papá Estado. No se da cuenta de que sus hijos han crecido y que los tiempos han cambiado. Ya se olvidó de sus tiempos de juventud, y ahora quiere coartar el ímpetu propio de la juventud de sus “hijos rebeldes”.
 
@@ -30,13 +28,3 @@ Los medios independientes del Estado han venido a ocupar el espacio que los medi
 Papá Estado vuelve a irse por las ramas y se niega a asumir la responsabilidad que le toca por tantos años de prensa mediocre.
 
 Siempre será más fácil ver la paja en el ojo ajeno, no obstante, este cubano que no puede vivir tranquilo sin “portarse mal”, y que no cuenta con más presupuesto para escribir que el tiempo que le roba al sueño, al descanso, al calor de la familia, a las labores compartidas en el hogar con mi esposa… no quisiera cerrar este tema sin decirle algo a Papá Estado: Los “hijos descarriados”, los que no se “portan bien”, no son siempre un producto del Imperialismo, a veces somos un producto genuino de la Revolución.
-
-medios independientes en Cuba, medios independientes en Cuba, medios independientes en Cuba, medios independientes en Cuba, medios independientes en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/MF2020-12-23-15.36.43.jpg)
-    
-    ![](/wp-content/uploads/2020/12/MF2020-12-23-15.36.43.jpg)
-    
-    [Miguel Fergoz](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/miguel-fergoz/)

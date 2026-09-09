@@ -3,7 +3,7 @@ title: "Vivo en un país libre"
 date: "2019-02-18T08:21:52+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/02/PicsArt_02-18-03.19.06.jpg"
+image: ""
 ---
 Vivo en un país libre. Hay quienes desde afuera -y otros desde adentro-, se empeñan en hacerme pensar lo contrario, pero sé que están equivocados.  
 Escribo en espacios alternativos, en esos donde uno se puede dar el lujo de decir cosas que molesten un poco. Muestro lo que pienso, como lo pienso y cuando lo pienso.  
@@ -17,15 +17,3 @@ No se les puede seguir el juego a ninguno de esos que quieren hacer de Cuba un p
 No pienso colaborar con eso, y menos cuando le es orgánico a fomentar esa imagen negativa que se pretende hacer de Cuba. Me expreso sin temor, sé que vivo en un país libre.
 
 **Versión original publicada en La Joven Cuba**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

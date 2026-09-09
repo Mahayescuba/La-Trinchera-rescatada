@@ -27,15 +27,3 @@ Nunca se sabe.
 Pero un día, vuestra soberbia, la indecente voluptuosidad de vuestra soberbia, de vuestro amor al poder, será nuestro despertar y el de nuestros hijos, y una cicatriz en nuestra vergüenza y honradez.
 
 Todo eso se preguntó, eso escribió un maestro del Pueblo Grande, y luego no supo si aquello era maldecir, o callar.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

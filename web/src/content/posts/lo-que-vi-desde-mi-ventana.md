@@ -1,9 +1,9 @@
 ---
-title: "cumpleaños"
+title: "Lo que vi desde mi ventana"
 date: "2021-06-15T16:00:00+00:00"
 author: "El hijo de Lucy"
 category: "Onírica"
-image: "/wp-content/uploads/2021/06/Antoine-Josse1.jpg"
+image: ""
 ---
 Ayer cumplí tantos años que no recuerdo cuándo fue la primera vez que reí, o que tuve un sueño. No encuentro en mi memoria el minuto exacto en el que sentí que mi corazón se destrozaba de amor por primera vez. 
 
@@ -22,13 +22,3 @@ He oído unos pasos a mis espaldas, pero estoy demasiado cansado para voltearme 
 El dueño de esos pasos es un hombre de sien plateada que se detiene delante de mí y  se arrodilla como para estar a la altura que tengo desde esta silla. Me mira con una calidez que no entiendo pero que agradezco, siempre he confiado en la bondad de los extraños. Pero sus palabras me desconciertan sobremanera.
 
 — Papá ¿te gustó el cumpleaños que te hicimos? No te puedes quejar, trajimos a todo el mundo. Vino hasta mi hermana con sus nietos. ¿Estás cansado? ¿Por qué estás en la ventana con esa luna dándote de frente? Papá, papá, papaaaaaaaaaaaá, ayuda, que alguien me ayude, papaaaaaaaaaaaaaaaaaaá.
-
-cumpleaños, cumpleaños, cumpleaños
-
-## Autor
-
--   ![](/wp-content/uploads/2021/06/El-hijo-de-Lucy2021-06-15-19.53.46.jpg)
-    
-    ![](/wp-content/uploads/2021/06/El-hijo-de-Lucy2021-06-15-19.53.46.jpg)
-    
-    [El hijo de Lucy](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/el-hijo-de-lucy/)

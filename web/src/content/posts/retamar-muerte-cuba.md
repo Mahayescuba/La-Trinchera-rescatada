@@ -3,7 +3,7 @@ title: "Retamar"
 date: "2019-07-22T15:21:07+00:00"
 author: "simple matemática, lo que trascendió de Retamar fu"
 category: "Opinión"
-image: "/wp-content/uploads/2019/07/fernandez_retamar.jpg"
+image: ""
 ---
 **Por: Ariel Montenegro**
 
@@ -17,15 +17,3 @@ Hoy me acuerdo del hombre de la casa, de la Casa y el que me enseñó que Prósp
 Suerte, Retamar, que nunca lo encontró esa bala.
 
 **Tomado del Facebook del autor**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

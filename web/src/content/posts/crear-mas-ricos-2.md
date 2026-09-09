@@ -1,5 +1,5 @@
 ---
-title: "mercado mayorista en Cuba"
+title: "¿Crear más ricos?"
 date: "2020-08-19T16:00:00+00:00"
 author: ""
 category: "Economía en Cuba"
@@ -38,18 +38,4 @@ Y es necesario generar riqueza, pero riqueza social, no de unos pocos.
 
 Nota: Esta es la versión actualizada del post publicado en diciembre de 2018 con el mismo título.    
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/soltar-las-amarras/
-
 mercado mayorista en Cuba mercado mayorista en Cuba mercado mayorista en Cuba mercado mayorista en Cuba mercado mayorista en Cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

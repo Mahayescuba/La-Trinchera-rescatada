@@ -3,7 +3,7 @@ title: "Trata de sonreír"
 date: "2020-02-05T21:24:45+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/02/PicsArt_02-05-04.22.58.jpg"
+image: ""
 ---
 amiga.
 
@@ -19,15 +19,3 @@ Amiga, trata de sonreír puesto que este consuelo vacío en tu último viaje nav
 Amiga, llegue un abrazo y el beso más grande que hayas recibido porque mi carta lleva tu nombre en su alma y estas letras se escriben solas porque yo no puedo hacer del pensamiento más que añoranzas.
 
 Sender
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

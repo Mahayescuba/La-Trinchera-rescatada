@@ -26,15 +26,3 @@ En dicho análisis tendrá que prestarse especial atención, a los ingresos reci
 Hasta ahora esto sería solo una primera etapa, en donde no se logrará identificar quienes son los que verdaderamente necesitan el apoyo estatal, pero si se elimina gran parte de aquellos que no lo necesitan y eso ya es un importante primer paso. Ayudar de mejor forma solo a aquellos que más lo necesitan, reorientando nuestros escasos recursos, es no solo una decisión de justicia impostergable, sino un elemento vital para utilización óptima del fruto del trabajo que todos producimos.
 
 economía y subsidios economía y subsidios economía y subsidios economía y subsidios economía y subsidios
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

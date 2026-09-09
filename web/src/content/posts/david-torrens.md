@@ -3,7 +3,7 @@ title: "Ni de aquí ni de allá"
 date: "2019-06-04T07:42:42+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2019/06/MG_4196.jpg"
+image: ""
 ---
 Sin dejar de amar los sentimientos ajenos, David Torrens no renuncia a su originalidad. Con una química sin igual comparte con el público las razones para continuar haciendo canciones como puentes generacionales que unen a los de aquí y allá.
 
@@ -27,15 +27,3 @@ SE. ¿Qué es lo nuevo que podemos esperar de David Torrens?
 DT. Voy a terminar un disco que llevo aproximadamente tres años haciendolo. He tardado mucho porque pasaron muchas cosas raras con ese disco. Cuando estabamos finalizando la grabación hubo un problema de electricidad en el estudio, se perdió todo el contenido de los discos duros, todo se achicharró. Entonces tuvimos que hacer el disco de nuevo, dos veces. No ha salido todavía y ya estoy que no quiero ni escucharlo, pero bueno, me esta gustando mucho el resultado y espero finalizar en dos meses, porque tengo otros planes para otros discos y quisiera seguir adelante. El nombre del disco es “Todo”.  
 SE. Muchas gracias David  
 DT. No, gracias a ti.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,10 +3,8 @@ title: "El mercado y el socialismo"
 date: "2019-04-15T06:27:15+00:00"
 author: ""
 category: "Economía Política"
-image: "/wp-content/uploads/2019/04/PicsArt_04-15-02.16.17.jpg"
+image: ""
 ---
-Pero ya que todo esto va del socialismo, y no precisamente del mercado, creo que lo mejor es dejar claro de qué estamos hablando.
-
 Fotografía: Wendy Pérez Bereijo
 
 **Por: Miguel Alejandro Hayes**
@@ -44,15 +42,3 @@ Es cierto que el capitalismo tiene Ideología de mercado. Pero, ¿quién dijo qu
 De todos modos, sobre la cuestión de las relaciones mercantiles y cuándo desaparecerán, está claro en El Capital que el mercado se genera por la envoltura social que deviene de la división del trabajo, fenómeno indetenible y ascendente. Ser conscientes de ello nos ayudará a no caer nuevamente en la utopía, que después de todo, le es orgánica al capitalismo. Enfoquemos bien el problema, para que no ver la solución no se convierta en delirio. Seamos dialécticos, no utópicos, para que no nos sigan estafando.
 
 **Publicado originalmente en Rebelión**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

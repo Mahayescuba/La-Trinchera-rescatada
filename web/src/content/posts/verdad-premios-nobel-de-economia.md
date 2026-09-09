@@ -15,8 +15,6 @@ En esta breve nota querría destacar dos cuestiones simples acerca de estos prem
 
 En primer lugar, estos famosos premios “Nobel” de economía no se llaman así oficialmente porque no son premios concedidos por la Fundación Nobel, como el resto de galardones con ese nombre. Su verdadera denominación es “Premio de Ciencias Económicas del Banco Central de Suecia en memoria de Alfred Nobel” (Sveriges Riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne). De hecho, fueron creados en 1968 para celebrar el 300º aniversario de la fundación de este Banco Central. Y, por supuesto, son financiados por esta institución.
 
-![](/wp-content/uploads/2019/10/Mario-del-Rosal.jpg)
-
 Pero esta cuestión queda en un segundo plano ante lo más importante: el evidente sesgo ideológico de este premio. Como afirma, por ejemplo, Vicenç Navarro, los economistas galardonados siempre son quienes desarrollan y defienden teorías que “reproducen la ideología dominante próxima al capital”. Y es que, “en realidad los premios Nobel de economía son premios políticos en su mayoría, presentados como premios científicos”.
 
 Es por esta razón que a nadie debería sorprender la abrumadora abundancia de autores ortodoxos en la nómina de afortunados. No sólo dominan los neoclásicos, sino también los monetaristas, los austriacos o los neokeynesianos. Y entre todos ellos, descuellan los representantes de la llamada Escuela de Chicago, entre los que se cuentan nada menos que trece premiados, más que los de ninguna otra universidad del mundo.
@@ -26,8 +24,6 @@ Dos ejemplos son especialmente significativos: Hayek y Friedman. Friedrich von H
 Por su parte, Milton Friedman, que lo obtuvo en 1976, es conocido por ser el gran pope de la segunda generación de los Chicago boys y máximo representante del monetarismo, una variante del neoclasicismo que pretendía (sin éxito alguno) controlar la inflación a través de la gestión de la oferta monetaria. Sus continuos ataques al keynesianismo y su papel como asesor de las políticas de Thatcher, Reagan y compañía, así como su apoyo a las políticas neoliberales de Pinochet, lo convirtieron en el referente más conocido de la reacción conservadora de los años setenta y ochenta. Su invento más conocido es, probablemente, la famosa NAIRU, una especie de tasa de desempleo natural con la que trataba de justificar los ataques directos contra el salarios y la tolerancia de los gobiernos liberales ante el creciente desempleo.
 
 Además de Hayek y Friedman, encontramos a otros muchos premiados procedentes de Chicago y con clara tendencia ultraliberal (aunque esto sea un pleonasmo). Entre ellos, George Stigler (alma gemela de Friedman), Ronald Coase (famoso por su teorema sobre los costes de transacción en las empresas), Gary Becker (gran divulgador del concepto de capital humano, tan útil para responsabilizar al trabajador individual de no tener un buen empleo o un salario digno), Robert Lucas (de quien se conoce bien la teoría de las expectativas racionales), Eugene Fama (autor de la hipótesis de la eficiencia de los mercados), etc, etc.
-
-![](/wp-content/uploads/2019/10/2019101408032000-1.jpg)
 
 Estos premios son también polémicos por haber sido muchas veces concedidos a matemáticos y económetras cuyo mérito fundamental no ha consistido más que en formalizar teorías económicas ideadas por otros. Entre estos casos, destaca el de John Nash, enfermo mental beatíficamente tratado en la película Una mente maravillosa y enormemente controvertido por su no tan maravilloso antisemitismo.
 
@@ -42,17 +38,3 @@ Tanto las escuelas de pensamiento económico como el género y la nacionalidad f
 Ojalá algún día podamos recuperar el carácter plural, abierto y científico de un disciplina que, cada vez más clara y dramáticamente, determina el destino de nuestras vidas.
 
 **Tomado de Contrainformación**
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/goya-y-politica/
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

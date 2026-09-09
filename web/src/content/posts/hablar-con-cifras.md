@@ -1,15 +1,13 @@
 ---
-title: "Gobierno de Trump"
+title: "Hablar con cifras"
 date: "2021-01-24T10:30:00+00:00"
 author: "Mauricio de Miranda Parrondo"
 category: "Política"
-image: "/wp-content/uploads/2021/01/Meko-.jpg"
+image: ""
 ---
 En Economía, lo mejor es hablar con cifras. Se ha difundido el mito, como otros tantos relacionados con [Trump](https://www.bbc.com/mundo/noticias-internacional-55725014), de que la economía, durante su gobierno marchó de maravilla y tuvo la desgracia de que ocurriera la pandemia. Si, claramente, la pandemia ha sido una tragedia de proporciones catastróficas, sobre todo por los muertos, por las afectaciones a la salud y por el terrible impacto sobre la economía mundial. 
 
 A menudo, muchos partidarios del gobierno de Trump nos quieren convencer de que fue quien mejor supo manejar la economía estadounidense (sin considerar las varias bancarrotas de sus empresas). Este no es un análisis completo de su política económica ni del desempeño económico bajo su presidencia. de hecho, no toma en cuenta el desastre de la pandemia, en donde hubo una clara ausencia de políticas. Solo pretendo desmitificar, con cifras, la afirmación festinada de que “con él la economía estuvo mucho mejor que con Obama” y “que tuvo el mejor manejo económico entre los presidentes contemporáneos”. 
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/diez-dias-que-estremeceran-al-mundo/
 
 Me he tomado el trabajo de hacer unos cálculos sencillos. Decidí comparar una serie de indicadores macroeconómicos entre los años 2013 y de 2015 (segundo período de Obama), excluyendo a propósito el 2016, para poder excluir el 2020 del período de gobierno de Trump, afectado por la pandemia. De esta forma, comparo los tres primeros años del segundo período de Obama con los tres primeros años del único período de Trump.
 
@@ -34,11 +32,3 @@ Mientras tanto, la deuda bruta como proporción del PIB fue como promedio de 104
 Los cálculos tienen como fuente, el World Economic Outlook Database, del Fondo Monetario Internacional. 
 
 Hice este ejercicio para que tengamos claras estas cifras antes de que intenten convencernos de que ese señor fue el mago de la economía estadounidense. Creo que es de las últimas cosas a las que me referiré sobre este personaje, a menos que las circunstancias lo ameriten. Es hora de pasar página y de ponerlo donde debe estar, en el basurero de la historia.
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Mauricio de Miranda Parrondo](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/mauricio-de-miranda-parrondo/)

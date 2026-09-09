@@ -1,9 +1,9 @@
 ---
-title: "Ni1+Sin tantas confusiones"
+title: "Sin tantas confusiones"
 date: "2019-01-16T05:51:18+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/01/PicsArt_01-16-12.45.58.jpg"
+image: ""
 ---
 ¿Por qué existe una campaña en las redes sociales [#Ni1+?.](https://www.cubanet.org/noticias/cuba-dictadura-campana-60/)
 
@@ -69,16 +69,4 @@ Ah sí, claro, a mí me mantenían, de una forma u otra, mientras yo viví en Cu
 La circunstancia es la verdad, y la verdad siempre se enfrenta de frente, y de cara al sol. Despidiéndome de ti, Iramís, y deseándote que sigas escribiendo muchos artículos más, porque cada opinión teórica, cada granito de arena, de cada ciudadano cubano, instruido y decente, es más que necesaria en esta época, para que permita multiplicarse el debate.  
 Mis mejores deseos que tus asuntos migratorios se resuelvan muy pronto, Franklyn.
 
-Ni1+. Ni1+. Ni1+.  Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+.  Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+.  
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+Ni1+. Ni1+. Ni1+.  Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+.  Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+. Ni1+.

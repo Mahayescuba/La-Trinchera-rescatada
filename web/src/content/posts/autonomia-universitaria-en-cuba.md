@@ -17,17 +17,3 @@ Sin embargo, del mito, falta por cubrir otro misterio, ese del que ya Marx habl�
 Sin embargo, no solo por profesores está compuesta la universidad, los estudiantes son el otro lado fundamental y quienes tienen el mérito de ser casi siempre quienes presentan el reclamo. Veamos como entran ellos en este problema.  
 Es más simple de lo que puede parecer. La respuesta es la siguiente: los fondos de la [FEU](https://www.ecured.cu/Federación_Estudiantil_Universitaria) los administra la UJC, o sea, decide cuándo darlos y cuándo no, en qué cantidades, para qué y a quién. Pero esta competencia no está establecida en ninguna parte, sencillamente se ha hecho así durante años y punto. O sea los miembros de la FEU, sólo deben exigir el manejo de sus propios fondos. Si les salieran con alguna ley al respecto, señalar la no existencia de tal ley es más que suficiente. Se acabó. En este sentido, los estudiantes deben reclamar tanto la autonomía universitaria como su autonomía como organización.  
 Dinero y administración eficaz, trabajadores bien pagados y una FEU sin control externo, son estas las verdaderas bases de la tan soñada autonomía universitaria. Ya conocidas sus implicaciones, queda por lanzar la pregunta fundamental: ¿están dispuestos sus artífices a los desafíos que impondría?
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

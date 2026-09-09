@@ -13,10 +13,6 @@ Noche en _El Solar_, ideal el silencio y los tiempos que corren para conversar s
 
 Este episodio se grabó contando con la aprobación de la inmensa mayoría de sus oyentes, cuyas opiniones fueron recogidas en nuestras redes sociales.
 
-![](/wp-content/uploads/2020/06/screenshot_20200605-145214-14067956598960796243.jpg)
-
-![](/wp-content/uploads/2020/06/screenshot_20200605-144950-14060395693621021386.jpg)
-
 [Ivoox](http://www.ivoox.com/51427657)
 
 [Applepodcast](https://podcasts.apple.com/us/podcast/el-solar/id1500698275?l=es#episodeGuid=https%3A%2F%2Fwww.ivoox.com%2F51427657)
@@ -29,7 +25,7 @@ Este episodio se grabó contando con la aprobación de la inmensa mayoría de su
 
 [Telegram ( comprimido)](https://t.me/LaTrincheraRadio/80)
 
-[![Licencia Creative Commons](/i.creativecommons.org/l/by-nc-sa/4.0/88x31.png?w=960&ssl=1)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+[![Licencia Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Salario y Productividad en Cuba por [Miguel Alejandro Hayes Martínez y Silvia Oliva](http://www.ivoox.com/51427657) se distribuye bajo una [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 No creo que vaya a decir algo que sea nuevo. Ni siquiera que sea novedoso. Lo que aquí comunico, es muy simple…  
@@ -39,15 +35,3 @@ No hay mucho de nuevo. La economía cubana – que a veces es un eufemismo llama
 Nuestras fortalezas coloniales se constituyeron con dinero mexicano. Desde el siglo XVII, los cubanos eran fieles a la corona y al contrabando. Siempre se ha pedido la diversificación, y la dependencia del sector externo es crónica. La permanencia de brechas sociales, no han dejado nunca de acompañarnos.  
 Nuestras victorias han sido paradójicas. La eliminación de la Enmienda Platt fue seguida por lo del diferencial, que ataba a nuestra burguesía azucarera a la voracidad del mercado norteamericano. La revolución que acabó con la dictadura-la del 59, amiguitos disidentes- provocó una serie de ráfagas por parte del vecino del norte. La eliminación de la injerencia norteamericana terminaría en exceso de… cooperación -una palabra más ideológicamente correcta que las otras que me vienen a la cabeza- con la URSS y el resto de la gente del Este.  
 Nosotros, hoy, seguimos dependiendo del sector externo, nuestra nomenklatura sigue atada a la voracidad de ciertos mercados, la agricultura no es la mejor y somos, todavía y la vez, fieles a la corona y al contrabando.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

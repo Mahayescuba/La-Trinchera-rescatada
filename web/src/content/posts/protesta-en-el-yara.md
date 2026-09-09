@@ -1,9 +1,9 @@
 ---
-title: "Protesta en el Yara"
+title: "Nota rápida sobre las consecuencias"
 date: "2020-06-30T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/06/chema_madoz-4.jpg"
+image: ""
 ---
 Hoy martes, se reunirá en el Yara un grupo de opositores para una protesta, esencialmente, por lo que consideran un asesinato en el caso mediatizado en estos días, según afirman.
 
@@ -26,15 +26,3 @@ Lo de hoy no es un acto de disidencia, no es un mensaje político pensado para e
 Para los de adentro, la consecuencia no puede ser otra que la polarización y el discurso de odio, porque el odio es el negocio de los extremistas; será una razón más para alimentar los fundamentalismos, y no para generar ese debate necesario de frecuencia diaria, donde nos vamos revisando críticamente como sociedad.
 
 Vaya usted si quiere. Pero no generará solución alguna a la sociedad actual, y sí problemas, más. Creo que nunca es buen momento para generar más problemas.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.desdetutrinchera.com)

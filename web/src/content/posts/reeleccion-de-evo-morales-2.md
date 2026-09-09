@@ -1,9 +1,9 @@
 ---
-title: "Bolivia Crónica de un chalecazo anunciado"
+title: "Crónica de un chalecazo anunciado"
 date: "2018-12-24T05:27:52+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2018/12/IMG_20181220_020314.jpg"
+image: ""
 ---
 Bolivia. 
 
@@ -53,15 +53,3 @@ a. de participar en la dirección de los asuntos públicos, directamente o por m
 b. de votar y ser elegidos en elecciones periódicas auténticas, realizadas por sufragio universal e igual y por voto secreto que garantice la libre expresión de la voluntad de los electores, y  
 c. de tener acceso, en condiciones generales de igualdad, a las funciones públicas de su país.  
 2\. La ley puede reglamentar el ejercicio de los derechos y oportunidades a que se refiere el inciso anterior, exclusivamente por razones de edad, nacionalidad, residencia, idioma, instrucción, capacidad civil o mental, o condena, por juez competente, en proceso penal.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

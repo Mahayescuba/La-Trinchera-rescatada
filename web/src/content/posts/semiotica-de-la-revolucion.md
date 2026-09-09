@@ -1,5 +1,5 @@
 ---
-title: "semiótica de la Revolución La Trinchera Fernando Almeyda Rodríguez"
+title: "La hermosa ontología revolucionaria"
 date: "2018-01-22T22:18:10+00:00"
 author: "Fernando Almeyda Rodríguez"
 category: "Política en Cuba"
@@ -46,15 +46,3 @@ Esto es, por tanto, lo que está ocurriendo mientras aludimos a “revolución�
 No obstante, creo que podemos sentirnos dichosos por muchas razones, pues las bonanzas a nuestra cubanidad e identidad han sido relevantes; de hecho es su innegable presencia y arraigo lo que debería tranquilizar nuestras consciencias, en tanto la crítica nunca podría destruir la historia, pero podría allanar nuestro futuro. En este sentido, podemos ser optimistas pues nuestra patología no es crónica, al menos no todavía. Es preciso pues dedicarnos a superarla, y el primer paso comienza por conocer y entender el mal que nos aqueja. Lanzo una invitación a pensar, a nombrar, a explorar, a conocer, pues…_“la verdad os hará libres”_ (Juan, 8:32)…libres de nosotros mismos.
 
 [Versión en Inglés](/politics-in-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

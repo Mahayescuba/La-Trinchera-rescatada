@@ -1,5 +1,5 @@
 ---
-title: "Salud pública en Cuba"
+title: "La salud pública cubana en 1959"
 date: "2021-05-24T16:00:00+00:00"
 author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
@@ -23,9 +23,7 @@ Se miente no solo cuando se altera la verdad, sino también cuando se escamotea 
 
 La verdad es que, como lo demuestra la siguiente gráfica tomada del clásico _Países Pobres, Países Ricos_ **(**L.J. Zimmerman, Editorial Ciencias Sociales, Cuba, 1970; cantidad de médicos por 100 000 habitantes contra PIB per cápita, en dólares), la Cuba de 1956 tenía más médicos en proporción a su población que naciones como Inglaterra o Francia.
 
-![Grafica 1](/web/20221204123508/https://www.trincheracuba.com/1d380622-8077-40ee-9246-4b6470054bbb)
-
-![Grafica 1](blob:https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/1d380622-8077-40ee-9246-4b6470054bbb)
+![Grafica 1](/1d380622-8077-40ee-9246-4b6470054bbb)
 
 (1.EE.UU.;2.Suiza;3.Australia;4.Bélgica;5.**Reino Unido(73)**;6.**Francia(85)**; 7.Venezuela; 8.Alemania Occidental;9.Israel;10.Argentina; 11. Chile; 12.Cuba **(97)**; 13.Italia; 14. Unión Sudafricana; 15. Colombia; 16. México; 17. Japón; 18.República Dominicana; 20.Perú; 23.Congo Belga; 24. India)
 
@@ -350,17 +348,3 @@ Y ello gracias a una tradición de cuidados médicos y preocupación sanitaria q
 Cuando muchos ejércitos todavía carecían de un cuerpo médico independiente, ya nuestro precario Ejercito Libertador lo tenía, y de excelente calidad. Muy superior al español en el que por cierto militaban hasta futuros premios Nobel, como don [Santiago Ramón y Cajal](https://www.nobelprize.org/prizes/medicine/1906/cajal/biographical/). No debe dejarse de lado el hecho de que fue el nuestro el primer país, en todo el globo terráqueo, con un ministerio dedicado a los menesteres de la salud humana, bajo el gobierno del Mayor General José Miguel Gómez.
 
 Y es que un país que nunca representó por su población más que dos milésimas del total mundial, no da por simple “generación espontánea” médicos de la talla de Tomás Romay, Carlos Juan Finlay, Raimundo de Castro y Alló, Pedro Castillo, Gonzalo Aróstegui del Castro, Domingo Gómez Gimeránez, Ángel Arturo Aballí, Israel Castellanos, Pedro Kourí, Lorenzo Comas, Nicolás Puentes Duany, Ricardo Núñez Portuondo, Eusebio Hernández, Joaquín Albarrán, Juan Guiteras… Todos graduados ya antes de 1959.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-salud pública en Cuba, salud pública en Cuba, salud pública en Cuba, salud pública en Cuba, salud pública en Cuba, salud pública en Cuba, salud pública en Cuba, salud pública en Cuba, salud pública en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    [José Gabriel Barrenechea](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-gabriel-barrenechea/)
-    
-    Científico, escritor y activista

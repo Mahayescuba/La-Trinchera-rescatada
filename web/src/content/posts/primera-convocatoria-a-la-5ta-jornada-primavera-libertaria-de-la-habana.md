@@ -1,9 +1,9 @@
 ---
-title: "Primavera Libertaria de La Habana Convocatoria"
+title: "Primera convocatoria a la 5ta jornada Primavera Libertaria de La Habana"
 date: "2020-03-12T15:32:31+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/03/IMG_20200312_115405_971.jpg"
+image: ""
 ---
 Del 6 al 14 de junio del 2020
 
@@ -24,20 +24,4 @@ Para proponer temas de intervención, propuestas de espacios, actividades, crít
 [Telegram](http://👉t.me/AgoraABRA)  
 **Centro Social y Biblioteca Libertaria ABRA**
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/noticias/accion-poetica-manifiesto/
-
-  
-
 [También puede interesar](/noticias/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

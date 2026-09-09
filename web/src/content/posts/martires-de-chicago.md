@@ -3,7 +3,7 @@ title: "Los mártires de Chicago"
 date: "2019-05-01T17:17:09+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2019/05/marianne.-anarquista-1.jpg"
+image: ""
 ---
 Ya, en danza horrible, murieron dando vueltas en el aire, embutidos en sayones blancos. Esos, eran los Mártires de Chicago.
 
@@ -21,15 +21,3 @@ Pero vinieron luego la guerra corruptora, el hábito de autoridad y dominio que 
 De una apacible aldea pasmosa se convirtió la república en una monarquía disimulada.
 
 **Tomado de** **[La Cosa](https://jcguanche.wordpress.com/2019/04/30/los-martires-de-chicago-por-jose-marti/)**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

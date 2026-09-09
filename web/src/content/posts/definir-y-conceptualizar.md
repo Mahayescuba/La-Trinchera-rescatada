@@ -1,9 +1,9 @@
 ---
-title: "definir y conceptualizar"
+title: "Muchos definen, pocos conceptualizan"
 date: "2020-02-13T23:37:24+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2020/02/IMG_20200213_173815_446.jpg"
+image: ""
 ---
 Una breve reflexión sobre las diferencias entre definir y conceptualizar.
 
@@ -17,15 +17,3 @@ El concepto, por su parte, no es una definición. No consiste en un listado de c
 Pero hay algo que va implícito en ese despliegue, y es el sistema en el cual se enmarca. Los conceptos forman parte de una teoría y solo se realizan como tal cuando la relación esencial que contienen se mueve coherentemente dentro de la estructura (la teoría). Por lo que, el concepto, su elaboración, va acompañado de la creación y desarrollo de la teoría en la que dicho concepto cobre vida, coherencia y movimiento. Proceso este que, como es de esperarse, arrojará también otros conceptos que interactuarán entre ellos. Y es que no se trata de otra cosa, que de ser consecuentes con aquello de la creación de una [totalidad orgánica](https://rebelion.org/marxismo-como-totalidad/), sobre la que se levante un sistema [dialéctico](/marxismo/).  
 De lo contrario, solo estaremos haciendo una comparación en la que se aplica una cualidad ya establecida, y no se tendrá el fruto de la reflexión de lo que se quería estudiar.  
 Lo aquí mencionado no es una diferencia menor. Muchos definen, pero conceptualizar es ejercicio de unos pocos, y que requiere de un mayor esfuerzo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

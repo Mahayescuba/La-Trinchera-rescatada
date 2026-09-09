@@ -3,10 +3,8 @@ title: "La ancianidad de la cola"
 date: "2020-08-20T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/08/Anders-Krisar.jpg"
+image: ""
 ---
-_Sé que hay de todo en esas colas; seguro que algunos ancianos hasta le aseguran el turno a personas con divisas._
-
 **Por: Julio Pernús**
 
 Esta es la historia de un sábado, acontecida hace menos de un mes; fue en el municipio donde resido, en [Guanabacoa](https://es.wikipedia.org/wiki/Guanabacoa), pero quizás el suceso pudo darse en cualquier lugar de nuestro país. Una cola en Cuba es una fila larga de personas que han “marcado” para poder comprar algún producto de alta demanda y que, por estos días, tienden a esfumarse con velocidad espantosa. Mi abuela me había pedido que fuera a la farmacia para ver si habían entrado alguno de los medicamentos de su tarjetón. Ya era casi de noche cuando me dispuse a ir y averiguar, pues últimamente en donde resido, casi nunca se consigue con facilidad ninguna medicina.
@@ -24,15 +22,3 @@ Mientras me alejaba de la farmacia, me detuve por un momento: me llamó la atenc
 Sé que hay de todo en esas colas; seguro que algunos ancianos hasta le aseguran el turno a personas con divisas. Quizás, además de las campañas comunicativas contra los coleros, podamos hacer otra, sensibilizando a la población para que los ancianos no tengan que hacer esas colas. No es justo que gente con tantos años de lucha deba seguir “peleando” con sus achaques y la vida para obtener un simple aparato contra el asma.
 
 ancianos en colas ancianos en colas ancianos en colas
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg#038;ssl=1)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg#038;ssl=1)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)

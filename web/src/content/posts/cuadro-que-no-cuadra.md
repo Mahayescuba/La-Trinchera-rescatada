@@ -34,15 +34,3 @@ Las medidas tomadas recientemente contra artistas residentes en la Isla -retirar
 En fin, no se trata de estar a favor de uno u otro bando, se trata de mucho más que eso, de derechos. Se necesita trascender nuestras propias diferencias y reconocer que ellas son necesarias para el desarrollo de toda sociedad y que por encima de eso, son necesarias determinadas “reglas del juego” -Pacto social si se quiere- que tutele el bienestar y la armonía, tanto a nivel individual como social…
 
 libertad expresión. libertad expresión. libertad expresión. libertad expresión.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
