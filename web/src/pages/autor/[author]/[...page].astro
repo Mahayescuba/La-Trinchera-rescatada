@@ -34,6 +34,7 @@ const hasNext = page < pages;
 ---
 <Base title={pages>1 ? `${name} (página ${page})` : name} description={`Artículos de ${name}.`}>
   <section class="wrap list">
+    <a class="back" href="/autores/">← Todos los autores</a>
     <header class="ah">
       {!isAnon && (prof.hash
         ? <img class="ah-av" src={`https://www.gravatar.com/avatar/${prof.hash}?s=200`} alt={name} width="80" height="80" loading="eager" />
@@ -73,6 +74,8 @@ const hasNext = page < pages;
   </section>
   <style>
     .list{max-width:760px;padding:2.2rem 1.2rem}
+    .back{font-size:.82rem;color:var(--muted);display:inline-block;margin-bottom:1.3rem}
+    .back:hover{color:var(--accent)}
     .ah{display:flex;gap:1.2rem;align-items:flex-start;margin:0 0 1.6rem}
     .ah-av{width:80px;height:80px;border-radius:50%;flex:0 0 auto;object-fit:cover;display:grid;place-items:center;
       font-family:Georgia,serif;font-weight:700;font-size:1.8rem;color:#fbf6ef;border:1px solid rgba(0,0,0,.06)}
