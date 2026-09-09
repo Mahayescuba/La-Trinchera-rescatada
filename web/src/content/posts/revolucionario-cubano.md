@@ -1,7 +1,7 @@
 ---
 title: "Confundir ser cubano con ser revolucionario"
 date: "2018-03-08T16:35:30+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---

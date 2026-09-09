@@ -1,7 +1,7 @@
 ---
 title: "SNET_CUBA ¿Qué es y qué quiere?"
 date: "2019-07-08T04:31:51+00:00"
-author: ""
+author: "oscaracso28944"
 category: "Política en Cuba"
 image: ""
 ---

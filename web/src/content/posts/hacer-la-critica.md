@@ -1,7 +1,7 @@
 ---
 title: "Hacer la crítica"
 date: "2018-08-15T12:27:16+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---

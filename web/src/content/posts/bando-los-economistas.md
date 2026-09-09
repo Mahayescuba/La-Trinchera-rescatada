@@ -1,7 +1,7 @@
 ---
 title: "Cuál es el bando de los economistas"
 date: "2018-02-15T16:15:15+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: "/wp-content/uploads/2018/02/economistas.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Una Cruz, un Papa, unos jóvenes"
 date: "2020-09-23T01:50:53+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---

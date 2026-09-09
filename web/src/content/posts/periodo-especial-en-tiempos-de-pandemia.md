@@ -1,7 +1,7 @@
 ---
 title: "La fe vs. la entropía ambiental"
 date: "2020-09-18T09:30:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/09/Esencia_125x90cm_acrilico_lienzo_2011_para_web-16fb3.jpg"
 ---

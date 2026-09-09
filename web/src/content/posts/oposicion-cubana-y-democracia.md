@@ -1,7 +1,7 @@
 ---
 title: "El saludable y democrático hábito de cuestionar"
 date: "2020-07-09T16:00:00+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/07/Marinel-Vieleers.jpg"
 ---

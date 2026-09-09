@@ -1,7 +1,7 @@
 ---
 title: "La plaza sitiada"
 date: "2018-06-14T11:15:00+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---

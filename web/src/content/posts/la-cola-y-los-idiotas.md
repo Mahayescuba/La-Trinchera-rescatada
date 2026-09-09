@@ -1,7 +1,7 @@
 ---
 title: "La cola y los idiotas"
 date: "2020-09-12T16:00:00+00:00"
-author: ""
+author: "Alex Correa Iglesias"
 category: "Onírica"
 image: ""
 ---

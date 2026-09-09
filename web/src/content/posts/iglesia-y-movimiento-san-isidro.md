@@ -1,7 +1,7 @@
 ---
 title: "La Iglesia estará siempre junto a la verdad y la justicia"
 date: "2020-11-24T17:00:59+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---

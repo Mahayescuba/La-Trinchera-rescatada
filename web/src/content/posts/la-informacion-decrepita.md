@@ -1,7 +1,7 @@
 ---
 title: "La información decrépita"
 date: "2020-09-11T09:30:00+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Receta para un dictador"
 date: "2020-09-12T09:30:07+00:00"
-author: ""
+author: "Armando Pazos"
 category: "Onírica"
 image: ""
 ---

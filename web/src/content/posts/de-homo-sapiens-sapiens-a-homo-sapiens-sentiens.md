@@ -1,7 +1,7 @@
 ---
 title: "De Homo sapiens sapiens a Homo sapiens sentiens"
 date: "2020-05-08T23:15:50+00:00"
-author: ""
+author: "daniloeuser"
 category: "Ciencia"
 image: ""
 ---

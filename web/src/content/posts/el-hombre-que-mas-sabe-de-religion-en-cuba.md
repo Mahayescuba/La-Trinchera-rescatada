@@ -1,7 +1,7 @@
 ---
 title: "El Hombre que más sabe de Religión en Cuba"
 date: "2020-10-31T14:01:53+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Entrevista"
 image: ""
 ---

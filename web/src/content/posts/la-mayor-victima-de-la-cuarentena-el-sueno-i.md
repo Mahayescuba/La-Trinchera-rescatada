@@ -1,7 +1,7 @@
 ---
 title: "La mayor víctima de la cuarentena: el sueño"
 date: "2020-04-26T23:31:25+00:00"
-author: ""
+author: "daniloeuser"
 category: "Ciencia"
 image: ""
 ---

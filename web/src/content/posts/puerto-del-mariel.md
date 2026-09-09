@@ -1,7 +1,7 @@
 ---
 title: "En busca de una misma flor"
 date: "2020-03-15T15:28:19+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---

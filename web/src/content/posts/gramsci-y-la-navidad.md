@@ -1,7 +1,7 @@
 ---
 title: "Gramsci y la navidad"
 date: "2019-12-26T19:49:50+00:00"
-author: ""
+author: "Antonio Gramsci"
 category: "Onírica"
 image: ""
 ---

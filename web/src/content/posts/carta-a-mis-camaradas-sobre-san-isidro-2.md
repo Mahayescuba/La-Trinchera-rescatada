@@ -1,7 +1,7 @@
 ---
 title: "Carta a mis camaradas sobre San Isidro"
 date: "2020-12-26T17:00:00+00:00"
-author: ""
+author: "Carlos Ávila Villamar"
 category: "Política en Cuba"
 image: ""
 ---

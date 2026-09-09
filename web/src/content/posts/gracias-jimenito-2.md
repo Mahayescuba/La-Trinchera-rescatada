@@ -1,7 +1,7 @@
 ---
 title: "Gracias, Jimenito"
 date: "2020-12-27T10:30:00+00:00"
-author: ""
+author: "María del Pilar Díaz Castañon"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/05/FB_IMG_1589355461462.jpg"
 ---

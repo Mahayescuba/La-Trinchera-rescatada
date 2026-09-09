@@ -1,7 +1,7 @@
 ---
 title: "Carta al compañero que le corresponde vigilarme"
 date: "2020-08-10T09:30:00+00:00"
-author: ""
+author: "Elaine Roca"
 category: "Onírica"
 image: ""
 ---

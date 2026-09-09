@@ -1,7 +1,7 @@
 ---
 title: "Duro y bajo"
 date: "2020-12-28T17:00:00+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---

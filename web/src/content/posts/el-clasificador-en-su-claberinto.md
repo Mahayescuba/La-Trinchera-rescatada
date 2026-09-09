@@ -1,7 +1,7 @@
 ---
 title: "El clasificador en su laberinto"
 date: "2020-06-05T13:34:11+00:00"
-author: ""
+author: "Alina Bárbara López Hernández"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/06/IMG_20200605_092907.jpg"
 ---

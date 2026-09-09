@@ -1,7 +1,7 @@
 ---
 title: "El miedo como bandera"
 date: "2020-11-06T14:20:10+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Quién crea valor"
 date: "2018-05-30T12:20:50+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: ""
 ---

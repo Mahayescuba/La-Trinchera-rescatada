@@ -1,7 +1,7 @@
 ---
 title: "Ernesto Blanco: every new challenge is an opportunity to grow"
 date: "2020-09-21T22:00:00+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Entrevista"
 image: ""
 ---

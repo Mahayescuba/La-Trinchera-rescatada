@@ -1,7 +1,7 @@
 ---
 title: "La revictimización original"
 date: "2020-08-26T09:30:34+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
 image: ""
 ---

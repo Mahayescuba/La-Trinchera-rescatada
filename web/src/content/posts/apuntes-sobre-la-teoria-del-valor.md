@@ -1,7 +1,7 @@
 ---
 title: "El valor, apuntes para su enseñanza"
 date: "2018-01-16T20:20:44+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: ""
 ---

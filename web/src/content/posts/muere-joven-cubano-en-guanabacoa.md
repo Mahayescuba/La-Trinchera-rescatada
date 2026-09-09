@@ -1,7 +1,7 @@
 ---
 title: "Silencio"
 date: "2020-06-28T00:42:56+00:00"
-author: ""
+author: "Maikel Pons Giralt"
 category: "Política en Cuba"
 image: ""
 ---

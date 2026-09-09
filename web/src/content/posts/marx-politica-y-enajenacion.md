@@ -1,7 +1,7 @@
 ---
 title: "El libro “Marx: política y enajenación”"
 date: "2018-02-21T16:15:59+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: ""
 ---

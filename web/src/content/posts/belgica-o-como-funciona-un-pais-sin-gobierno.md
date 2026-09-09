@@ -1,7 +1,7 @@
 ---
 title: "Bélgica, o cómo funciona un país sin gobierno"
 date: "2020-09-05T09:30:00+00:00"
-author: ""
+author: "Ana Barnes"
 category: "Política"
 image: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: "¡Matanzas ganó por Brujería!"
 date: "2020-01-23T14:14:50+00:00"
-author: ""
+author: "oscaracso28944"
 category: "Opinión"
 image: ""
 ---

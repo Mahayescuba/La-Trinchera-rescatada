@@ -1,7 +1,7 @@
 ---
 title: "El Golpe de Estado de 1952 y nuestra Soberanía Nacional"
 date: "2020-07-02T16:00:08+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
 image: ""
 ---

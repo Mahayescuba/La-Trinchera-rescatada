@@ -1,7 +1,7 @@
 ---
 title: "¡Tan tan! podcast dedicado a Juan Padrón"
 date: "2020-08-13T09:30:33+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Cultura"
 image: ""
 ---

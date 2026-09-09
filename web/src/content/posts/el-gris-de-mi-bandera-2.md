@@ -1,7 +1,7 @@
 ---
 title: "¿El gris de mi bandera?"
 date: "2020-12-26T10:30:00+00:00"
-author: ""
+author: "Elaine Roca"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/12/Gerard-Cambon-Bajorelieves-.jpg"
 ---

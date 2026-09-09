@@ -1,7 +1,7 @@
 ---
 title: "Una nueva cultura política"
 date: "2020-07-07T00:00:26+00:00"
-author: ""
+author: "René Fidel González García"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/07/Angeles-Anglada-Equilibrium.jpg"
 ---

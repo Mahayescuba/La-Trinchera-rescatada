@@ -1,7 +1,7 @@
 ---
 title: "Pensando en Corea del Norte"
 date: "2018-02-22T19:15:00+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: ""
 ---

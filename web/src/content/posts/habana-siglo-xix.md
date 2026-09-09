@@ -1,7 +1,7 @@
 ---
 title: "Regionalizar la ciudad"
 date: "2022-01-14T15:20:34+00:00"
-author: ""
+author: "Jesús Javier Mejias Díaz"
 category: "Historia"
 image: "/wp-content/uploads/2022/01/mejias.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Exposición visual en el Arco de Belén"
 date: "2020-02-07T19:31:50+00:00"
-author: ""
+author: "raymarcorleone"
 category: "Cultura"
 image: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: "La ancianidad de la cola"
 date: "2020-08-20T16:00:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---

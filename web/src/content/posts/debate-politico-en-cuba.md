@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer con el mensaje"
 date: "2018-05-07T20:54:09+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: "/wp-content/uploads/2018/05/Standard_Orange_goal_explosion_icon.png"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "La Isla en Peso"
 date: "2021-05-26T09:30:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---

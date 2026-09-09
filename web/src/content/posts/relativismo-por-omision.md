@@ -1,7 +1,7 @@
 ---
 title: "Relativismo por omisión"
 date: "2021-01-03T17:00:00+00:00"
-author: ""
+author: "Giordan Rodríguez Milanés"
 category: "Política en Cuba"
 image: ""
 ---

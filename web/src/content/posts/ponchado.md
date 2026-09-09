@@ -1,7 +1,7 @@
 ---
 title: "Ponchado"
 date: "2020-09-04T19:07:40+00:00"
-author: ""
+author: "Giordan Rodríguez Milanés"
 category: "Onírica"
 image: ""
 ---

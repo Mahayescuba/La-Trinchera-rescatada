@@ -1,7 +1,7 @@
 ---
 title: "Vacaciones"
 date: "2020-07-11T09:00:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---

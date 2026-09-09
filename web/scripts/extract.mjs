@@ -22,6 +22,16 @@ const NAV_SELECTORS = '.sharedaddy,.jp-relatedposts,.sd-sharing,.pvc_stats,.wpup
 function readable(html){ return html.replace(/\r/g,''); }
 function clean(s){ return (s||'').replace(/\s+/g,' ').trim(); }
 
+// cuentas de administración/sección: su caja de autor NO indica el autor real del texto
+const BOX_ADMIN = new Set(['hayesmartinez','miguel-hayes','la-trinchera-editor','lisdds','anckla','elsolarpodcast']);
+// unificar variantes del mismo autor
+const NAME_FIX = {
+  'Miguel Alejandro Hayes Martínez':'Miguel Alejandro Hayes',
+  'Miguel Alejando Hayes Martínez':'Miguel Alejandro Hayes',
+  'Miguel Alejandro Hayes Martinez':'Miguel Alejandro Hayes',
+};
+const fixName = n => NAME_FIX[n] || n;
+
 // texto normalizado (sin markdown) para comparar párrafos duplicados
 function normText(s){
   return (s||'')
@@ -121,6 +131,12 @@ function extractOne(slug){
   if(!fs.existsSync(fp)) return null;
   const $=cheerio.load(readable(fs.readFileSync(fp,'utf8')));
   const isClean = $('.aviso').length>0 && $('article').length>0; // recuperados por mí
+  // autor de la caja de WordPress (solo fiable si NO es una cuenta de admin/sección)
+  const boxLink=$('.pp-multiple-authors-wrapper a.author, .pp-multiple-authors-wrapper a[rel="author"], .pp-multiple-authors-wrapper a.fn').first();
+  const boxName=clean(boxLink.text());
+  const boxHref=boxLink.attr('href')||'';
+  const boxKey=((boxHref.match(/\/author\/([^/?#]+)/i)||[])[1]||'').toLowerCase();
+  const boxAuthorTrust = (boxName && boxName.length<50 && boxKey && !BOX_ADMIN.has(boxKey) && !/tag\/autor/.test(boxHref)) ? boxName : '';
   // Preferir el título real del artículo (H1 en la página) sobre el título SEO del <title>/Yoast.
   let title = clean($('h1.post-title, h1.entry-title, .entry-title h1, h1.post_title, .post-title, .entry-title').first().text());
   if(!title){
@@ -148,6 +164,7 @@ function extractOne(slug){
     body=mdFromContainer($,cont);
     const bm=body.match(/^\**\s*Por:?\s*\**\s*([^\n*]{2,50})/);
     if(bm){ author=clean(bm[1]).replace(/\*+$/,'').trim(); body=body.replace(/^\**\s*Por:?[^\n]*\n+/, '').trim(); }
+    if(!author && boxAuthorTrust) author=boxAuthorTrust;   // sin firma: usar caja solo si es autor real
     body=body.replace(/^\s*Anuncios\s*$/gmi,'').replace(/\n{3,}/g,'\n\n').trim();
   }
   // limpiar enlaces de "contenido relacionado" inyectados por plugins
@@ -172,7 +189,7 @@ function extractOne(slug){
   if(!date){ // intentar de la URL wayback en algún enlace o dejar vacío
   }
   if(!title || body.length<120) return {slug, skipped:true, reason:'sin cuerpo', len:body.length};
-  return {slug,title,date,image,category,author,body,isClean};
+  return {slug,title,date,image,category,author:fixName(author),body,isClean};
 }
 
 // recopilar slugs de primer nivel

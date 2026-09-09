@@ -1,7 +1,7 @@
 ---
 title: "Teoría del valor y dialéctica"
 date: "2018-02-02T20:05:04+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: ""
 ---

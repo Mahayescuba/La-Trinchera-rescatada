@@ -1,7 +1,7 @@
 ---
 title: "La mentira no tiene quien la escriba"
 date: "2021-04-22T16:00:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Sin lágrimas en los ojos"
 date: "2020-07-05T16:00:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---

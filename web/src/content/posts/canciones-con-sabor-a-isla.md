@@ -1,7 +1,7 @@
 ---
 title: "Canciones con sabor a isla"
 date: "2021-01-26T10:30:00+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Entrevista"
 image: ""
 ---

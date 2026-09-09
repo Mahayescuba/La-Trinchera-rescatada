@@ -1,7 +1,7 @@
 ---
 title: "Un pedazo del alma"
 date: "2020-08-29T16:00:00+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---

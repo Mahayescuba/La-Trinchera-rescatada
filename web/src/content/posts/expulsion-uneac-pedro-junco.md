@@ -1,7 +1,7 @@
 ---
 title: "Carta abierta a la UNEAC, Díaz-Canel y a quien pueda interesar"
 date: "2020-08-14T09:30:49+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---

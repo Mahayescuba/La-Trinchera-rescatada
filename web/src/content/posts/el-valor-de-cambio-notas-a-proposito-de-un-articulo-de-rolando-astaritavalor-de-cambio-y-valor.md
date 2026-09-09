@@ -1,7 +1,7 @@
 ---
 title: "El valor de cambio. Notas a propósito de un artículo de Rolando Astarita."
 date: "2018-05-11T00:52:01+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: ""
 ---
