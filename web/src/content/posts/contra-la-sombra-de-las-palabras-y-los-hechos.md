@@ -5,7 +5,7 @@ author: "Diego A. Marrero Leyva"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2021/02/Genevieve-Bouthot.jpg"
 ---
-**Por: Diego A. Marrero Leyva y Raymar A. Aguado Hernández**
+y Raymar A. Aguado Hernández**
 
 El punto de convergencia entre arte y sociedad deviene en la responsabilidad de la primera sobre la estabilidad de la segunda. La labor primaria del artista es siempre ser consecuente a su órbita social y velar porque su obra transgreda todo aquello que le sea incongruente a su progreso contextual. El arte verdaderamente revolucionario puede desestabilizar en pos de nuevas firmezas y convicciones, sentar bases sólidas para la perdurabilidad de un contexto que vele por las necesidades de la sociedad y de él mismo en sí. 
 

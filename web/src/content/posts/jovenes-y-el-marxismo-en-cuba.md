@@ -1,7 +1,7 @@
 ---
 title: "Veinticinco jóvenes y el marxismo"
 date: "2018-04-05T15:15:34+00:00"
-author: ""
+author: "Leydi Claudia Bravet Ramírez"
 category: "Trinchera Abierta"
 image: ""
 ---

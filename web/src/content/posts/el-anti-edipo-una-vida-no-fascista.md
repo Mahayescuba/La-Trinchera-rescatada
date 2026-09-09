@@ -1,12 +1,10 @@
 ---
 title: "El Anti-Edipo: Una introducción a la vida no fascista"
 date: "2019-03-22T05:11:17+00:00"
-author: ""
+author: "Michel Foucault(\\)"
 category: "Teoría"
 image: ""
 ---
-**Por: Michel Foucault(\*)**
-
 Durante los años 1945-1965 (pienso en Europa), había una determinada manera correcta de pensar, un cierto estilo de discurso político, una cierta ética para intelectuales. Había que tutearse con Marx, no dejar que los sueños vagabundeasen demasiado lejos de Freud, y tratar a los sistemas de signos -el significante- con el mayor respeto. Esas eran las tres condiciones que convertían en aceptable esta singular ocupación que consiste en escribir y enunciar una parte de verdad acerca de sí mismo y de su época.  
 Después vinieron cinco años breves, apasionados, cinco años de júbilo y de enigma. A las puertas de nuestro mundo,  
 Vietnam, evidentemente, y el primer gran golpe asestado a los poderes constituidos. Pero aquí, dentro de nuestras murallas, ¿qué estaba ocurriendo, exactamente? ¿Una amalgama de política revolucionaria anti-represiva? ¿Una guerra librada en dos frentes, el de la explotación social y la represión psíquica? ¿Una escalada de la libido, modulada por el  

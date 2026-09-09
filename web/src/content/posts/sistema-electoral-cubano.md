@@ -1,13 +1,13 @@
 ---
 title: "Reyes, soviets y presidentes"
 date: "2019-01-18T01:04:12+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
 image: ""
 ---
 Influencia soviética.
 
-**Por: Ernesto Gutiérrez Leyva y Miguel Alejandro Hayes**
+y Miguel Alejandro Hayes**
 
 Muchas veces se ha enfatizado en la influencia soviética que permea nuestro actual diseño constitucional. Lo que no suele tratarse es, en quiénes se basaron a su vez, los camaradas euroasiáticos.
 

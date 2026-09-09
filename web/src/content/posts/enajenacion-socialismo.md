@@ -1,12 +1,10 @@
 ---
 title: "La enajenación en el socialismo"
 date: "2018-12-19T00:24:24+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Teoría"
 image: "/wp-content/uploads/2018/06/enajenacion.jpg"
 ---
-**Por:** **Miguel Alejandro Hayes Martínez**
-
 Los proyectos socialistas se levantan como respuesta al explotador y _enajenante_ sistema capitalista. Como parte de la lógica de estos proyectos del socialismo real, están las nacionalizaciones y estatizaciones\[1\] de numerosas empresas. Con esto, la propiedad privada pasa legalmente a  manos del pueblo, mediado por la administración del estado.
 
 En tales circunstancias,-se dice-, que se está socializando el proceso de producción socialista de manera formal. De ahí deriva la idea de que el pueblo es formalmente dueño (como colectivo) de los medios de producción. Pero existe un problema: hay que lograr que el pueblo se sienta dueño de estos. Solo cuando eso se logre-afirma la teoría-, se habrá logrado socializar de manera real la producción, y habremos construido el socialismo.

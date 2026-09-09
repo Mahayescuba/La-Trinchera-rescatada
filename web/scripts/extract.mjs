@@ -44,18 +44,34 @@ const fixName = n => NAME_FIX[n] || n;
 
 // palabras que siguen a "por" como preposición (no son nombres)
 const NOT_NAME = /^(qué|que|el|la|los|las|un|una|eso|ejemplo|ello|ende|tanto|tantos|supuesto|ahora|favor|aquí|allí|estos|estas|este|esta|cierto|momento|primera|otro|otra|medio|cada|si|más|demás)\b/i;
-// Buscar una línea de firma "Por: Nombre" dentro del inicio del cuerpo (primeros ~900 caracteres).
-// Devuelve {name, line} o null. line = texto exacto de la línea a eliminar del cuerpo.
+// palabras Título que cortan un nombre pegado al texto (inicio de la frase del artículo)
+const STOP_WORD = new Set(['Por','El','La','Los','Las','Un','Una','Este','Esta','Estos','Estas','En','Al','De','Del','Con','Cuba','Y','O','Que','Se','No','Su','Sus','Lo','A','Como','Para','Desde','Hoy','Ayer','Cuando','Ahora','Hace','Si','Ha','Han','Es','Eso']);
+const validName = n => n.length>=3 && n.length<=45 && !NOT_NAME.test(n) && /[A-Za-zÁÉÍÓÚÑáéíóúñ]{2,}/.test(n) && n.split(/\s+/).length<=6;
+// Buscar la firma "Por: Nombre" / "Autor: Nombre" en el inicio del cuerpo (~900 car.).
+// Devuelve {name, line, replaceWith?} o null.
 function findByline(body){
   const lines=body.split('\n');
   let acc=0;
   for(let i=0;i<lines.length;i++){
     if(acc>900) break; acc+=lines[i].length+1;
-    const m=lines[i].match(/^\s*\**\s*[Pp]or:?\s*\**\s*([A-ZÁÉÍÓÚÑ][^\n*]{1,45}?)\s*\**\s*$/);
+    const de=lines[i].replace(/[*_`]/g,'');   // sin énfasis (arregla negritas partidas)
+    // 1) línea que es SOLO "Por: Nombre" o "Autor: Nombre"
+    let m=de.match(/^\s*(?:[Pp]or:?|[Aa]utor:)\s*([A-ZÁÉÍÓÚÑ][^\n]{1,45}?)\s*$/);
     if(m){
-      let name=clean(m[1]).replace(/[*_.,;:\\\s]+$/,'').trim();
-      if(name.length>=3 && name.length<=45 && !NOT_NAME.test(name) && /[A-Za-zÁÉÍÓÚÑáéíóúñ]{2,}/.test(name))
-        return {name, line:lines[i]};
+      const name=clean(m[1]).replace(/[*_.,;:\\\s]+$/,'').trim();
+      if(validName(name)) return {name, line:lines[i]};
+    }
+    // 2) "Por: Nombre" al inicio de línea pero pegado al texto (colon obligatorio: evita prosa "Por Fidel Castro sabemos…")
+    m=de.match(/^\s*(?:[Pp]or|[Aa]utor):\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ.]+(?:\s+[A-ZÁÉÍÓÚÑ][a-záéíóúñ.]+){0,4})\s+([a-záéíóúñ¿].*)?$/);
+    if(m && m[2]){   // hay texto de artículo después del nombre
+      const words=m[1].split(/\s+/); const keep=[];
+      for(const w of words){ if(STOP_WORD.has(w)) break; keep.push(w); }
+      const name=keep.join(' ').replace(/[.,;:]+$/,'').trim();
+      if(keep.length>=1 && validName(name)){
+        // quitar solo el prefijo "Por: Nombre" de la línea, conservando el resto
+        const rx=new RegExp('^(\\s*\\**\\s*(?:[Pp]or:?|[Aa]utor:)\\s*\\**\\s*)'+name.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'\\s*[*_]*\\s*','');
+        return {name, line:lines[i], replaceWith:lines[i].replace(rx,'')};
+      }
     }
   }
   return null;
@@ -192,7 +208,10 @@ function extractOne(slug){
   // autor: línea de firma "Por: Nombre" en las primeras líneas del cuerpo (ambos caminos)
   if(!author){
     const bl=findByline(body);
-    if(bl){ author=bl.name; body=body.split('\n').filter(l=>l!==bl.line).join('\n'); }
+    if(bl){ author=bl.name;
+      if(bl.replaceWith!=null){ const ls=body.split('\n'); const k=ls.indexOf(bl.line); if(k>=0) ls[k]=bl.replaceWith; body=ls.join('\n'); }
+      else body=body.split('\n').filter(l=>l!==bl.line).join('\n');
+    }
   }
   if(!author && boxAuthorTrust) author=boxAuthorTrust;   // sin firma: usar caja solo si es autor real
   body=body.replace(/^\s*Anuncios\s*$/gmi,'').replace(/\n{3,}/g,'\n\n').trim();

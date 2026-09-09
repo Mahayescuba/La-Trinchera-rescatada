@@ -1,13 +1,11 @@
 ---
 title: "Un pez peleador"
 date: "2019-11-29T07:00:50+00:00"
-author: ""
+author: "René Fidel González García"
 category: "Onírica"
 image: ""
 ---
 estado y sociedad. 
-
-**Por: René Fidel González** **García**
 
 Zamira nació en Cuba. Podría ser un absurdo pero no lo es. Aunque sus padres son negros tiene el pelo rojo y su piel es blanca con unas escasas pecas muy oscuras sembradas sobre sus pechos. Un cataclismo genético escandinavo como ella, sobrevenido en una isla caribeña más allá de toda duda de paternidad, es por necesidad escandaloso, mucho más si crece en un edificio prefabricado de [hormigón armado](https://es.wikipedia.org/wiki/Concreto_armado) que dentro de mil años será descubierto por los arqueólogos de la época como una locación perdida de la civilización soviética, en el diminuto atolón yermo que para ese entonces, cambio climático de por medio, serán éstas tierras.  
 A pesar de la espléndida llamarada sobre su cabeza nadie le llama la pelirroja, ni otras cosas. Para las personas que le conocen hay algo en ella infalible, inexorable, como si destilase una feromona contra la admiración con rabia que tan elocuentemente han practicado desde el origen de los tiempos sus connacionales. A la edad de 18 años, tiene, en ese orden: la frente insultante, los dientes precisos de un delfín, la nariz breve, los ojos teñidos de azul oscuro y rasgados milimétricamente hacia las orejas, las manos firmes de una tejedora, diminutas, una espalda torcida como un alambre que entra rabiosamente en sus caderas y nalgas, un vientre como una puñalada feroz entre ambos muslos, los pies de una niña. Su andar por las calles es una metáfora parsimoniosa del azul oleaje del caribe. Ella lo sabe.  

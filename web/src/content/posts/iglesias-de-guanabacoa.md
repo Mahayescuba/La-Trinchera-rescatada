@@ -1,15 +1,13 @@
 ---
 title: "SOS Guanabacoa"
 date: "2020-07-15T09:30:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 Entiendo que el debate nacional gira ahora mismo en torno a los adoquines del _parque G_, pero la realidad constructiva del patrimonio histórico guanabacoense, literalmente, da ganas de llorar.  
   
   
-
-Po**r: Julio Pernús**
 
 Soy natural de Cienfuegos de la comunidad de Montserrat, pero desde hace 10 años vivo en Guanabacoa, uno de los municipios habaneros que más ha sufrido -literalmente, parece una zona de guerra- el paso del tiempo. Entiendo que en Burkina Faso hay 2,2 millones de personas corriendo el riesgo de morir de hambre, eso lo lamento de corazón y me parece una injusticia que no acabamos de resolver como humanidad, pues preferimos hacernos selfies de nuestros logros, antes de practicar la mística de los ojos abiertos sobre estas postales de miedo que nadie desea mirar.
 

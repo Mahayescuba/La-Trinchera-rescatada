@@ -1,12 +1,10 @@
 ---
 title: "La reforma general del salario en Cuba"
 date: "2018-04-30T17:20:54+00:00"
-author: ""
+author: "Lázaro González Rodríguez"
 category: "Economía en Cuba"
 image: "/wp-content/uploads/2018/04/Courtney-Kessel.jpg"
 ---
-**Por:** **Lázaro González Rodríguez**
-
 Durante varios años, vengo proclamando la imperiosa necesidad de acometer una reforma general del salario, la cual no solo incremente los ingresos de los trabajadores, sino que cumpla las funciones del sistema a la vez que contribuya al desarrollo económico y social del país y, sobre todo, no postrarse ante el Dios Oro, lo que ocasiona notables consecuencias: egoísmo, mentiras, doble moral, robo, malversación, etc. La sordera, la valoración insuficiente, su tratamiento tardío y el desconocimiento han sido el panorama encontrado.
 
 En los documentos aprobados en el VII Congreso del Partido Comunista de Cuba no aparece reflejada la reforma de los salarios y pensiones; los principios sobre los cuales deben organizarse lo salarios adolecen por aquellos encargados de la tarea de grave inexactitud, confusión y desconocimiento. Nada se dice de la organización del trabajo, documentos que no fueron discutidos con el pueblo y los trabajadores olvidándose de las orientaciones de nuestro Comandante en Jefe Fidel Castro y del General de Ejército Raúl Castro en los congresos XIII y XX de la CTC.

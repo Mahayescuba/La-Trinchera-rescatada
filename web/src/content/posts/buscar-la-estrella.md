@@ -5,7 +5,7 @@ author: "Diego A. Marrero Leyva"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2021/03/Takanori-Ai.jpg"
 ---
-**Por: Diego A. Marrero Leyva y Raymar A. Aguado Hernández**
+y Raymar A. Aguado Hernández**
 
 Se habla mucho sobre la decadencia en la cual se ha visto sumida Cuba en los últimos años, dicha decadencia visible en cada una de las aristas que conforman nuestra nacionalidad. Pero al arremeter reiteradamente contra la misma, ignoramos que esta desde el inicio de nuestra formación patria, sirvió de punto de elevación para las transformaciones y revoluciones venideras dentro de la concepción de sus hacedores. Desde la constante exposición del declive solo se exacerba la desesperanza y se alimentan las sensaciones de tedio e improductividad, provocando falta de concreción y acción, cuestiones resolutivas a la problemática central. Vivimos en tiempos de ver la esperanza como impulso para la creación de una nueva conciencia social. Nuestras acciones futuras y su evidencia como bien común, determinarán el sustento para la solidificación de la espiritualidad del cubano, lo que servirá de fragua para la construcción de La Cuba Necesaria. 
 

@@ -5,8 +5,6 @@ author: "Alberto Miguel de la Paz Suárez"
 category: "Cultura"
 image: ""
 ---
-**Por: Alberto Miguel de l**a Paz **Suárez**
-
 Creo que los más rezagados llegaron en masa, en la segunda emisión. El comentario pasó de boca en boca y para el segundo domingo ya era casi sintonía total. Las noches del domingo volvían a tener buen sabor y alegría. 
 
 Desde unas semanas atrás la convocatoria movilizadora estaba haciendo sus efectos y la expectativa no cayó en terreno baldío. Los escépticos -los menos- rendidos, y el balance reporta un “OK” (0 killed). Todas las emisiones fueron de calidad. Para la mayoría bastó la “primera probadita”, y desde ahí otro consumidor ávido. ¿Comensales inapetentes? Si, claro, en número muy reducido, pero sin ellos no pudieran pulirse la receta hasta llevarla al punto del gourmet. Por aquí y por allá comienzo a escuchar alguna que otra voz dejando claro la añoranza por el espacio, confiados en la solución de cualquier desaguisado. 
