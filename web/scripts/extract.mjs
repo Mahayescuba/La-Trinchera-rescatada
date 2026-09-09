@@ -18,6 +18,8 @@ const SKIP = new Set(['category','tag','author','page','feed','wp-content','wp-i
   'homenaje-a-marx','janos-kornai','reforma-constitucional-en-cuba-1-2','quien-es-yusuam-2','marti-y-fray-olallo-2']);
 // títulos que en el origen quedaron como SEO/lema en vez del título real del artículo
 const TITLE_FIX = { 'blog-la-trinchera':'Al lector', 'podcast-cubano-el-solar':'El Solar' };
+// posts editados a mano por el autor: la extracción NO debe sobrescribirlos
+const MANUAL = new Set(['una-oda-oculta-en-el-principito']);
 const NAV_SELECTORS = '.sharedaddy,.jp-relatedposts,.sd-sharing,.pvc_stats,.wpupg-grid,.crp_related,.yarpp-related,script,style,.code-block,.wp-block-buttons,.saboxplugin-wrap,#jp-post-flair,.sharing,.entry-meta,.post-tags,.post-share,.related'
   // caja de autor duplicada al final (PublishPress Multiple Authors + widgets de bio/gravatar)
   + ',.pp-multiple-authors-wrapper,.multiple-authors-description,.multiple-authors-links,.ashe_author_widget,.ashe-widget,.author-box,.author_index_1,.author-img-circle,.wpl-avatars,.sd-like-gravatars,.wpl-likebox'
@@ -275,6 +277,7 @@ const entries=fs.readdirSync(ROOT,{withFileTypes:true})
 const argsN = process.argv[2]?parseInt(process.argv[2]):entries.length;
 let ok=0,skip=0; const cats={}, noDate=[];
 for(const slug of entries.slice(0,argsN)){
+  if(MANUAL.has(slug)) continue;   // no sobrescribir posts editados a mano
   const r=extractOne(slug);
   if(!r || r.skipped){ skip++; continue; }
   const fm=[
