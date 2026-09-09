@@ -8,22 +8,45 @@ const withDate = posts.filter(p=>p.data.date);
 const featured = withDate.slice(0,1)[0];
 const rest = withDate.slice(1,25);
 const total = posts.length;
-// "Voces del archivo": autores más prolíficos
+// autores con al menos un texto (para la línea de estadísticas)
 const authorCounts:Record<string,number> = {};
 for(const p of posts){ const a=p.data.author; if(a) authorCounts[a]=(authorCounts[a]||0)+1; }
+const numAutores = Object.keys(authorCounts).length;
+// "Explora por tema": categorías reales con su conteo
+const catCounts:Record<string,number> = {};
+for(const p of posts){ const c=fixCat(p.data.category); if(c && c!=='Sin categoría') catCounts[c]=(catCounts[c]||0)+1; }
+const temas = Object.entries(catCounts).sort((a,b)=>b[1]-a[1]).slice(0,12).map(([name,count])=>({name,count}));
+// "Voces del archivo": autores más prolíficos
 const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,8)
   .map(([name,count])=>{ const prof:any=(authors as any)[slugify(name)]||{}; return {name,count,hash:prof.hash||''}; });
 ---
 <Base title={null} description="Archivo rescatado de La Trinchera: una plataforma cubana para el debate y la reflexión.">
   <section class="wrap hero">
-    <p class="kicker">Archivo · 2018–2021 · {total} textos</p>
+    <p class="kicker">Archivo · 2018–2021</p>
     <h1>La Trinchera</h1>
     <p class="sub">Debate de ideas desde Cuba. Teoría, política y economía sin filiación: izquierda, derecha, centro, marxistas, libertarios.</p>
+    <ul class="stats">
+      <li><b>{total}</b> textos</li>
+      <li><b>{numAutores}</b> autores</li>
+      <li><b>2018–2021</b> en línea</li>
+    </ul>
   </section>
+
+  {temas.length > 0 && (
+    <nav class="wrap temas" aria-label="Explorar por tema">
+      <span class="temas-l">Explora por tema</span>
+      {temas.map(t=> (
+        <a class="chip" href={`/categoria/${slugify(t.name)}/`}>{t.name}<span class="chip-n">{t.count}</span></a>
+      ))}
+      <a class="chip chip-all" href="/categorias/">Ver todas →</a>
+    </nav>
+  )}
+
   {featured && (
     <a class="wrap feat" href={`/${featured.slug}/`}>
       {featured.data.image && <img class="feat-img" src={thumb(featured.data.image,900)} alt={featured.data.title} loading="eager" decoding="async" />}
       <div class="feat-txt">
+        <span class="feat-flag">Lo último</span>
         <span class="cat">{fixCat(featured.data.category)}</span>
         <h2>{featured.data.title}</h2>
         <p>{excerpt(featured.body,240)}</p>
@@ -31,19 +54,27 @@ const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,8)
       </div>
     </a>
   )}
-  <section class="wrap grid">
-    {rest.map(p=> (
-      <a class="card" href={`/${p.slug}/`}>
-        {p.data.image && <img class="card-img" src={thumb(p.data.image,600)} alt={p.data.title} loading="lazy" decoding="async" />}
-        <div class="card-body">
-          <span class="cat">{fixCat(p.data.category)}</span>
-          <h3>{p.data.title}</h3>
-          <p>{excerpt(p.body,120)}</p>
-          <span class="meta">{p.data.author && `${p.data.author} · `}{fmtDate(p.data.date)}</span>
-        </div>
-      </a>
-    ))}
+
+  <section class="wrap">
+    <div class="sec-head">
+      <h2>Lo más reciente</h2>
+      <a class="sec-all" href="/archivo/">Ver todo el archivo →</a>
+    </div>
+    <div class="grid">
+      {rest.map(p=> (
+        <a class="card" href={`/${p.slug}/`}>
+          {p.data.image && <img class="card-img" src={thumb(p.data.image,600)} alt={p.data.title} loading="lazy" decoding="async" />}
+          <div class="card-body">
+            <span class="cat">{fixCat(p.data.category)}</span>
+            <h3>{p.data.title}</h3>
+            <p>{excerpt(p.body,120)}</p>
+            <span class="meta">{p.data.author && `${p.data.author} · `}{fmtDate(p.data.date)}</span>
+          </div>
+        </a>
+      ))}
+    </div>
   </section>
+
   <section class="wrap voces">
     <div class="voces-head">
       <h2>Voces del archivo</h2>
@@ -61,16 +92,37 @@ const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,8)
       ))}
     </div>
   </section>
+
   <style>
-    .hero{padding:2.6rem 1.2rem 1.4rem;text-align:center}
+    .hero{padding:2.8rem 1.2rem 1.4rem;text-align:center}
     .hero .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.16em;font-size:.72rem;margin:0}
-    .hero h1{font-size:clamp(2.2rem,8vw,3rem);margin:.2em 0 .1em}
-    .hero .sub{color:var(--muted);max-width:620px;margin:.4rem auto 0}
-    .feat{display:grid;grid-template-columns:1.1fr 1fr;gap:1.6rem;align-items:stretch;background:var(--paper);border:1px solid var(--line);border-radius:10px;overflow:hidden;margin-bottom:2.2rem}
+    .hero h1{font-size:clamp(2.4rem,8vw,3.4rem);margin:.15em 0 .12em;letter-spacing:-.015em}
+    .hero .sub{color:var(--muted);max-width:640px;margin:.4rem auto 0;font-size:1.05rem}
+    .stats{list-style:none;display:flex;justify-content:center;flex-wrap:wrap;gap:.4rem 1.8rem;margin:1.3rem 0 0;padding:0;color:var(--muted);font-size:.9rem}
+    .stats li b{font-family:var(--display);color:var(--ink);font-size:1.05rem}
+
+    .temas{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem;padding:.4rem 1.2rem 2rem}
+    .temas-l{font-size:.72rem;text-transform:uppercase;letter-spacing:.14em;color:var(--muted);font-weight:700;margin-right:.3rem}
+    .chip{display:inline-flex;align-items:center;gap:.4rem;padding:.4rem .8rem;border:1px solid var(--line);border-radius:20px;
+      background:var(--paper);color:var(--ink);font-size:.85rem;transition:.15s}
+    .chip:hover{border-color:var(--accent);color:var(--accent)}
+    .chip-n{color:var(--muted);font-size:.72rem;font-variant-numeric:tabular-nums}
+    .chip:hover .chip-n{color:var(--accent)}
+    .chip-all{color:var(--accent);font-weight:600}
+
+    .feat{display:grid;grid-template-columns:1.1fr 1fr;gap:1.6rem;align-items:stretch;background:var(--paper);border:1px solid var(--line);border-radius:10px;overflow:hidden;margin-bottom:2.4rem}
     .feat-img{width:100%;height:100%;min-height:320px;object-fit:cover;display:block;background:#efe9e0}
-    .feat-txt{padding:1.6rem 1.8rem 1.8rem}
-    .feat-txt h2{font-size:1.9rem;margin:.3em 0}
+    .feat-txt{padding:1.7rem 1.9rem 1.9rem;display:flex;flex-direction:column}
+    .feat-flag{display:inline-block;align-self:flex-start;font-size:.66rem;text-transform:uppercase;letter-spacing:.14em;
+      font-weight:700;color:#fff;background:var(--accent);padding:.22rem .55rem;border-radius:4px;margin-bottom:.7rem}
+    .feat-txt .cat{margin-bottom:.2rem}
+    .feat-txt h2{font-size:2rem;margin:.15em 0 .3em;line-height:1.12}
     .feat-txt p{color:var(--muted)}
+    .feat-txt .meta{margin-top:auto}
+
+    .sec-head{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin:0 0 1.1rem}
+    .sec-head h2{font-size:1.5rem;margin:0}
+    .sec-all{color:var(--accent);font-size:.85rem;font-weight:600}
     .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.4rem;padding-bottom:2rem}
     .card{background:var(--paper);border:1px solid var(--line);border-radius:9px;overflow:hidden;display:flex;flex-direction:column;transition:.15s}
     .card:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,.06)}
@@ -79,6 +131,7 @@ const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,8)
     .card-body h3{font-size:1.12rem;margin:.15em 0}
     .card-body p{color:var(--muted);font-size:.9rem;margin:0}
     .meta{color:var(--muted);font-size:.76rem;margin-top:auto;padding-top:.3rem}
+
     .voces{padding:1.6rem 1.2rem 2.6rem;border-top:1px solid var(--line)}
     .voces-head{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin-bottom:1.1rem}
     .voces-head h2{font-size:1.5rem;margin:0}
@@ -89,7 +142,7 @@ const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,8)
     .voz:hover{transform:translateY(-2px);box-shadow:0 8px 22px rgba(40,25,20,.06);border-color:var(--accent)}
     .voz-av{width:56px;height:56px;border-radius:50%;object-fit:cover;display:grid;place-items:center;
       font-family:Georgia,serif;font-weight:700;font-size:1.25rem;color:#fbf6ef;border:1px solid rgba(0,0,0,.06)}
-    .voz-name{font-family:Georgia,"Times New Roman",serif;font-weight:700;font-size:1rem;line-height:1.2}
+    .voz-name{font-family:var(--display);font-weight:700;font-size:1rem;line-height:1.2}
     .voz:hover .voz-name{color:var(--accent)}
     .voz-count{color:var(--muted);font-size:.76rem}
     @media (max-width:860px){ .grid{grid-template-columns:repeat(2,1fr)} .feat{grid-template-columns:1fr} .feat-img{min-height:200px} .voces-grid{grid-template-columns:repeat(3,1fr)} }
