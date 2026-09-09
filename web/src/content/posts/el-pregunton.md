@@ -1,12 +1,10 @@
 ---
 title: "El preguntón"
 date: "2020-07-20T16:00:00+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/07/Jesús-Curiá-Sin-fin-III-2.jpg"
 ---
-**Por: Jorge Fernández Era**
-
 A ver, compañero presidente, quisiera me contestara algunas preguntas:
 
 Si la estrategia se aprobó por el [Buró Político](http://www.cubadebate.cu/etiqueta/partido-comunista-de-cuba/) desde la semana pasada y ustedes decidieron esperar hasta ayer para anunciarla: ¿son los enemigos los responsables de que en los últimos días se mostrara “insatisfacción, incomprensión, inseguridad”, “se especulara, se sembraran dudas y se alimentara la desconfianza” sobre las medidas que venían en camino? ¿No son ustedes mismos? ¿Es esa “la manera más efectiva de comunicar” “con toda transparencia” para no “seguir anclados a formas anteriores a la era digital”, de no “burocratizar los procesos ideológicos”, de ser “más proactivos, capaces de anticiparnos a las manipulaciones mediáticas” a que usted alude?

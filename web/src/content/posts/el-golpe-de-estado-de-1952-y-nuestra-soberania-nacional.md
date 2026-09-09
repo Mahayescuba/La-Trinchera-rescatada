@@ -1,13 +1,11 @@
 ---
 title: "El Golpe de Estado de 1952 y nuestra Soberanía Nacional"
 date: "2020-07-02T16:00:08+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
 image: ""
 ---
 Que lo del periodo de soberanía habría sido una debilidad americana, y que consecuentemente solo mediante la movilización total de la Nación y su puesta incondicional a las órdenes de alguna voluntad superior era y es posible mantener la soberanía nacional frente a nuestro vecino del Norte.
-
-**Por: José Gabriel Barrenechea**
 
 No entraré en detalles, solo voy a admitir que entre el 2 de mayo de 1902 y el 9 de septiembre de 1933, la República de Cuba fue un protectorado americano. Lo definía el apéndice impuesto por el Congreso de los EE.UU. a nuestra primera constitución republicana: La Enmienda Platt.
 

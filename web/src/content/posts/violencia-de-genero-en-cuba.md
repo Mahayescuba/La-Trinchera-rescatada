@@ -1,13 +1,12 @@
 ---
 title: "No a la violencia de género"
 date: "2020-02-02T01:58:40+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/02/tumblr_nyodwry1KG1qlt6bfo1_1280.jpg"
 ---
 #### Una visión desde la Iglesia
 
-**Por: Julio Pernús**  
 Cuando tenía 15 años y participaba de una escuela al campo, mientras recogía café en el Escambray, uno de mis compañeros de equipo le pegó un fuerte bofetón a una muchacha de atletismo por unos celos juveniles. En realidad, no hice nada por detener ese acto de violencia; era el nuevo del equipo y tenía miedo de provocar esa misma violencia en contra de mí. Quizás este artículo sea lo más cercano que he estado de defender aquella mujer.  
 El jueves 21 de noviembre, un grupo de féminas cubanas llevaron ante la Asamblea Nacional del Poder Popular, la propuesta de una Ley contra la violencia de género en Cuba, en virtud del derecho constitucional a dirigir quejas y peticiones a las autoridades. La Iglesia católica hace mucho que dejó de contar con el impacto comunicativo que tenía 61 años atrás. Somos a veces un susurro que se pierde en medio de tantas voces dentro del ecosistema mediático cubano. Pero, al mismo tiempo nuestro discurso es necesario, pues nada humano le resulta ajeno a Dios y menos cuando se trata de la mujer.  
 Desde el punto de vista teológico, no podemos olvidar que Jesús fue el primer ejemplo de lucha contra la violencia de género, pues se enfrentó a la ley y sus ejecutores cuando trataron de apedrear a la mujer adúltera; su frase ha resonado vigorosamente en la historia de la humanidad: “Aquel que esté libre de pecado, que lance la primera piedra.” Un hecho importante del evangelio es que Jesús se puso al lado de la mujer “pecadora”, descalificando la voluntad punitiva e inmisericorde de la Ley del Antiguo Testamento, al tiempo que la amparaba del régimen de opresión patriarcal propio de la sociedad que la rodeaba.  

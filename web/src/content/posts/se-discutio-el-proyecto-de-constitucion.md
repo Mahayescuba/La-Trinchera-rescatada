@@ -1,13 +1,11 @@
 ---
 title: "¿Se discutió realmente el Proyecto de Constitución?"
 date: "2019-02-21T17:06:00+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
 image: ""
 ---
 discusión de la constitución.
-
-**Por: José Gabriel Barrenechea**
 
 Algunos sostienen que el proceso de discusión del Proyecto de Constitución, en barrios, centros de trabajo y escuelas, fue una muestra de verdadera participación popular y democracia participativa; y no pocos, al interior de la Isla, pero sobre todo más allá de sus fronteras marítimas, adquieren esa visión en el mercado de las ideas con la avidez de quien se lleva a casa un producto legítimo.  
 Propongo otra realidad -otra visión-, una en la que no existió discusión con tal carácter, ni hubo una verdadera participación en el proceso que se realiza en la Cuba estatista, que no es -lo mismo que socialista, aunque parezca así en el imaginario-, entre agosto y noviembre pasados.

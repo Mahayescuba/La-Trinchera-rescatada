@@ -1,7 +1,7 @@
 ---
 title: "Ni desde las Artes se explican las Artes"
 date: "2021-06-26T16:00:00+00:00"
-author: ": Arturo Mesa"
+author: "Arturo Mesa"
 category: "Política en Cuba"
 image: ""
 ---

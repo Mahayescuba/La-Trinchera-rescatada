@@ -1,13 +1,11 @@
 ---
 title: "Las dos oposiciones cubanas"
 date: "2020-05-06T18:14:56+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
 image: ""
 ---
 ¿Son irreconciliables estas dos oposiciones cubanas, igual de legítimas?
-
-**Por: José Gabriel Barrenechea**
 
 En el interior de la sociedad cubana transnacional hay dos oposiciones al presente, y ambas son legítimas.  
 ¿Qué las distingue? El a qué sectores de esa sociedad transnacional representan, en lo esencial; en lo más superficial y evidente, su posición frente al embargo.  

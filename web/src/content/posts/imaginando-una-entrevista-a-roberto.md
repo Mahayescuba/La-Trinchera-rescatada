@@ -1,12 +1,10 @@
 ---
 title: "Machi, el reflejo de otra realidad"
 date: ""
-author: ""
+author: "Manuel Alejandro"
 category: ""
 image: ""
 ---
-Por: Manuel Alejandro
-
 Roberto Espinosa ha sido rebautizado, el joven actor, el cual mayormente se ha desempeñado en las tablas disfruta la resaca de la popularidad tras la culminación de la última novela cubana El rostro de los días. Ahora será eternamente Machi.
 
 Manuel Alejandro (MA)

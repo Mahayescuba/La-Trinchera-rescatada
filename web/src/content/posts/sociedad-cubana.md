@@ -1,13 +1,11 @@
 ---
 title: "Plan de la calle"
 date: "2019-12-03T06:22:33+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
 sociedad cubana. 
-
-**Por: Jorge Fernández Era**
 
 Se hace lugar común que ante cada metedura de pata se recurra a emprenderla contra las consecuencias y no directo a las causas. Somos el único país —de ello debemos sentirnos orgullosos— en que la culpa de los males estriba en lo desagradecidos de abajo, esos que no saben valorar el sacrificio de dirigir a gente bruta e incivilizada.  
 De ahí que la responsabilidad por los disturbios del Mercado de Cuatro Caminos la tengan un puñado de desclasados, nadie más. Sobre ellos caerá el peso de la ley. Los otros, los que idearon la gran mentira de un palacio ajeno a las carencias, los que sembraron expectativas más propias del capitalismo que dicen combatir, duermen tranquilos y desayunan bien.  

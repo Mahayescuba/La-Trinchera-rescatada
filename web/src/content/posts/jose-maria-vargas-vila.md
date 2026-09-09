@@ -1,13 +1,12 @@
 ---
 title: "No doblo la rodilla ante ningún mortal"
 date: "2019-04-21T20:42:22+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Opinión"
 image: ""
 ---
 Hacerme esta pregunta requirió una respuesta de lecturas variadas y el José María Vargas Vila que descubría no era el que había formado en mi conciencia a lo largo de los años.
 
-**Por: Sender Escobar**  
 Durante mi adolescencia uno de los temas más recurrentes que abarcaban el mayor porciento de diálogo entre los que aún no lográbamos calibrar correctamente la mirilla telescópica amorosa, eran los modos y métodos de conquista. Recuerdo que observaba detenidamente la estrategia de los más exitosos en este campo de batalla, muchas veces [Waterloo](https://es.wikipedia.org/wiki/Batalla_de_Waterloo), si eras Napoleón o Wellington.  
 La fuente bibliográfica a la que siempre acudía era un amigo que según consenso femenino general en mi secundaria, era uno de los muchachos más atractivos, y por demás, envidiado y admirado en escalas similares. En una esas conversaciones-consultas un nombre llamó mi atención, dicho nombre que aún para muchos todavía en este siglo no se ha transfigurado en hombre, fue José María Vargas Vila. _¿Quién?_ pregunté dejando al descubierto mi ignorancia rotunda, y entonces mi amigo comenzó a hacerme la historia de los libros de Vargas Vila, sus cartas, además de la archiconocida leyenda urbana de cómo conquistó a su propia madre en una fiesta de disfraces. _La labia no falla_, dijo mi amigo.  
 En casa de una tía abuela, octogenaria ya, ayudando a la limpieza de un closet encontré un pequeño libro llamado “Copos de Nieve” y al abrirlo en una de sus primeras páginas un señor achinado de bigote me miró desde el pasado y el polvo, _ah, así era_, me dije. Comenté el hallazgo con mi madre quien me respondió que a ella no le gustaba la literatura de Vargas Vila porque hablaba mal de las mujeres.  

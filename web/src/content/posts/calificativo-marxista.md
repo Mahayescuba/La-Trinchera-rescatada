@@ -1,13 +1,12 @@
 ---
 title: "El calificativo de “marxismo”"
 date: "2019-09-05T16:24:34+00:00"
-author: ""
+author: "Iñaki Gil de San Vicente"
 category: "Opinión"
 image: ""
 ---
 ### Doce apuntes sobre marxismo (VI de XII)
 
-**Por: Iñaki Gil de San Vicente**  
 Hacemos la entrega VI de la serie de XII escrita para el colectivo internacionalista Pakito Arriaran. En esta sexta entrega veremos la aparición de términos como «marxista» y «marxismo», y la dialéctica, en cuanto tal, y de cómo se desarrolla en la crítica de la economía política capitalista. Aunque todavía en 1917 había textos fundamentales del marxismo sin conocerse, ya estaba teorizado gran parte de lo necesario para saber qué era el capitalismo y cómo destruirlo. En la entrega VII terminaremos de exponer el reformismo en su unidad, porque es a partir de 1917 cuando adquiere su identidad esencial, como expusimos básicamente en la entrega V, sobre la II Internacional.  
 Fue entre 1853 y 1854, durante el debate con Weitling (1808-1871), cuando aparece el calificativo de «marxiano» para designarle a Marx y a los «ciegos seguidores»: ya desde entonces se tildaba negativamente a quienes más tarde serían llamados «marxistas» a secas. Y eran peyorativamente definidos como «ciegos», algo así como dogmáticos e incapaces de ver la realidad, la «luz», casi como fanáticos, precisamente por compañeros que en la Liga de los comunistas defendían posiciones utópicas. En aquellos años, Marx no había elaborado aún el núcleo duro de su crítica del capitalismo –la teoría del valor en su pleno alcance, la plusvalía, la moneda, la distinción entre trabajo y fuerza de trabajo, el trabajo abstracto, valor de cambio…-, aunque sí ya tenía una idea básica de la ley del valor, los cimientos de la teoría de la crisis como efecto de la superproducción, una visión mundial del capitalismo, la teoría de la socialización de los medios de producción, la teoría de la revolución permanente, el programa máximo y el programa mínimo, la crítica de Feuerbach y lo que podríamos llamar algo así como «humanismo marxista»…
 

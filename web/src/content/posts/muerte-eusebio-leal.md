@@ -1,13 +1,11 @@
 ---
 title: "El Caballero de La Habana"
 date: "2020-08-02T16:00:00+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Cultura"
 image: ""
 ---
 Muerte de Eusebio Leal.
-
-**Por: Ernesto Gutiérrez Leyva**
 
 Desde hacía un tiempo, la adversidad había privado las calles de la gran urbe del gentío que a diario las recorría. De todas las ausencias, producto de la reclusión general, había una que dejaba un vacío particularmente grande, la de su más insigne hidalgo. Este personaje no era un caballero de París, ni de Viena o Estocolmo, era el Caballero de La Habana, ¿acaso destacaba por ser el más refinado? ¿por poseer un verbo encendido y apasionado, sobre todo cuando hablaba de _su novia?_ Absolutamente… pero más resaltaba porque de todos, era el más _Leal_….
 

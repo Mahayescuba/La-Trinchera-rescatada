@@ -1,13 +1,11 @@
 ---
 title: "Cuba hoy, en la encrucijada constitucional (III)"
 date: "2018-12-11T08:12:48+00:00"
-author: ""
+author: "Ernesto Gutiérrez"
 category: "Política en Cuba"
 image: ""
 ---
 reforma constitucional en Cuba.
-
-**Por: Ernesto Gutiérrez**
 
 A lo largo de las últimas décadas, los cubanos nos hemos resignado a aceptar la burocracia y la inercia administrativa como males endógenos, y hasta normales, del funcionamiento de la maquinaria estatal. Al amparo del actual proceso constituyente que vive el país, podríamos plantearnos estas y otras cuestiones más, de cara a la configuración de una estructura estatal mucho más ágil y eficaz. E
 

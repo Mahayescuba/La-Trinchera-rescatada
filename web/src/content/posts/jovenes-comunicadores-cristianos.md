@@ -1,11 +1,11 @@
 ---
 title: "350 palabras para los náufragos"
 date: "2019-06-08T15:52:58+00:00"
-author: "primera vez en la historia de la Iglesia católica"
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
-**Por: Julio Pernús**
+Por primera vez en la historia de la Iglesia católica cubana, un número creciente de jóvenes comunicadores cristianos pervive dentro del ecosistema comunicativo (oficial) de la Isla.
 
 En una época oscura, las carreras sociales estaban destinadas a personas adscritas a una sola ideología política. Hoy existen muchos jóvenes graduados, como yo, de ciencias humanísticas. Somos parte de una nueva generación a la que voy a llamar _los náufragos_, pues mientras nos profesionalizábamos, elegimos, con miles de obstáculos, saltar del barco nombrado [_Batalla de_ _ideas_](https://es.wikipedia.org/wiki/Batalla_de_ideas) y dar con una Isla que construimos día a día desde nuestras acciones sociales.
 

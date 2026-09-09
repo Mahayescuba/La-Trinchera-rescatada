@@ -1,15 +1,13 @@
 ---
 title: "La inocencia de Dios"
 date: "2019-03-28T14:15:03+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 Inocencia.
 
 #### Un análisis cristiano de la película “Inocencia” del director Alejandro Gil, sobre el fusilamiento de los ocho estudiantes de medicina
-
-**Por: Julio Pernús**
 
 Cuando terminó la proyección del filme “Inocencia”, mi novia no paraba de llorar y yo sentía grandes retorcijones en el estómago producidos por tan pueril injustica. Sucede que la película del director Alejandro Gil, sobre el fusilamiento de los ocho estudiantes de medicina, logra esa magia cinematográfica de convertir al espectador en protagonista de la trama. No por gusto fue unánime el aplauso infinito de un cine Yara repleto, que supo dar un merecido homenaje al largometraje más popular de la 40 edición del Festival de Cine Latinoamericano de la Habana.  
 Aunque parezca un detalle de poca trascendencia, cuando uno lee el guion de la película escrito con suma inteligencia y veracidad por Amilcar Salatti, hay una pregunta de FE que guía toda la trama desde el principio, “por qué Dios permite tanta maldad”(1). Es innegable que la cinta realiza un documentado bosquejo por la arquitectura social del terrorífico año 1871 cubano, y desde el comienzo del filme hay un diálogo no escondido entre espiritualidad y patriotismo. Aunque la religión no es uno de los pilares en los que se apoya el largometraje, sí hay varios momentos en los que cobra protagonismo. Recordemos a los valerosos miembros de las sociedades secretas Abacuá que mueren intentando rescatar a los estudiantes, porque uno de ellos estaba ligado a la misma.  

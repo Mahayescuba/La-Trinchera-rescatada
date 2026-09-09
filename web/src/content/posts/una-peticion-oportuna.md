@@ -1,13 +1,11 @@
 ---
 title: "Una petición oportuna"
 date: "2019-01-15T05:23:40+00:00"
-author: ""
+author: "Iramís Rosique Cárdenas"
 category: "Política en Cuba"
 image: ""
 ---
 Campaña #Ni1+.
-
-**Por: Iramís Rosique Cárdenas**
 
 A petición de un amigo comencé estas líneas para responder a cierto “líder joven” cubano que publicó un artículo titulado “Por qué existe una campaña en las redes sociales #Ni1+?”. En él, este desconocido para el grueso de la juventud cubana –yo mismo lo conocí a propósito de esto-, abusa de tal manera de la manipulación de la historia de Cuba, que no se sabe bien el texto es un simple post o un ejercicio de “Ordene cronológicamente”. En sentido general, más allá de lo dicho, el artículo es bastante pobre, con una lógica y una retórica ya tradicionales en la derecha de Miami, que poco exigen de una mente con dos luces para ser demolidas o burladas en su totalidad. La sencillez –en el mal sentido—del texto me ha hecho detenerme en que de nada valdría un recital de fechas correctas, aclaraciones y señalamientos como si de la revisión de un examen de Historia se tratara. Una pregunta vino a mí:
 

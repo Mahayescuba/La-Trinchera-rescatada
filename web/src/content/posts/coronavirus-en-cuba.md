@@ -1,13 +1,11 @@
 ---
 title: "Cuba crece lineal y yo me preocupo"
 date: "2020-04-07T17:43:17+00:00"
-author: ""
+author: "Yasset Pérez Riverol"
 category: "Política en Cuba"
 image: ""
 ---
 …el uso de mascarillas para prevenir el coronavirus en Cuba no ha sido aplicado de igual manera que en Europa.
-
-**Por: Yasset Pérez Riverol**
 
 En la gráfica 1 se ve el crecimiento de países que han sido más afectados por la epidemia. En la gráfica 2 se ve el crecimiento de algunos países de la región.
 

@@ -1,13 +1,11 @@
 ---
 title: "Borroto y cuenta nueva"
 date: "2019-11-09T15:39:22+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Onírica"
 image: ""
 ---
 Béisbol. 
-
-**Por: Jorge Fernández Era**
 
 #### Carta de Ernesto Reynoso Piñeiro, director nacional de beisbol, al compañero Díaz Canel
 

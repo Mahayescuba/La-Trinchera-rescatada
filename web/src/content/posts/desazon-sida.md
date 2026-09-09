@@ -1,12 +1,10 @@
 ---
 title: "Desazón"
 date: ""
-author: ""
+author: "Norma Normand Cabrera"
 category: ""
 image: ""
 ---
-Por: Norma Normand Cabrera
-
 Aquella mujer, todavía de muy buen ver, profesional y culta, casada por segunda vez y con hijos ya adultos del primer matrimonio, aguardaba en la antesala de la consulta de Dermatología.
 
 Mientras esperaba ser atendida recordó con cierta tristeza que se acercaba su aniversario de bodas. "¡Quince años!", pensó. Hacía más de diez que no hacían el amor. Un día el marido no consiguió la erección y ambos lo achacaron al estrés, el culpable más socorrido en la historia de la humanidad desde que nuestros antepasados cavernícolas enfrentaran por primera vez a una fiera con solo sus manos como únicas armas defensivas. Pero el estrés fue tan recurrente que acabó por rendirlo. Por más que la esposa insistió para buscar ayuda profesional, él se negó rotundamente a hacerlo: era cosa de ellos, no de terceros, ya lo resolvería "por cuenta propia".

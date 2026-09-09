@@ -1,13 +1,12 @@
 ---
 title: "Asedio"
 date: "2019-06-27T19:14:44+00:00"
-author: ""
+author: "Anckla"
 category: "Onírica"
 image: ""
 ---
 Para a un turista en su carro de renta y pide somatón o cázalo saliendo de [_Tropicana_](https://es.wikipedia.org/wiki/Tropicana) con aliento etílico y asedio a las cubanas que estén montadas. 
 
-**Por: Anckla**  
 asediar (Del lat.obsidiāri). 1. tr. Cercar un lugar fortificado para impedir, que salgan quienes están en él o que reciban socorro de fuera. Asedió el castillo. 2. tr. Presionar insistentemente a alguien. La delantera asedió al equipo contrario.
 
 En Cuba… hablar con turistas, relacionarse con turistas y algunas cosas que involucran un turista.  

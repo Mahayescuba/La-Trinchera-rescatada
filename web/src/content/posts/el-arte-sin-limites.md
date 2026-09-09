@@ -1,13 +1,12 @@
 ---
 title: "El Arte sin “Límites”"
 date: "2020-02-18T22:55:24+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Cultura"
 image: "/wp-content/uploads/2020/02/IMG-20200205-WA0001.jpg"
 ---
 # Una valoración de la exposición fotográfica permanente de Enrique Rottenberg, en la Fábrica de Arte Cubano (FAC)
 
-**Por: Julio Pernús**  
 Hace unos días, Elaine Díaz, directora de la revista digital _Periodismo de Barrio_, sugirió la posibilidad de iniciar un debate en los medios en torno a los límites del arte. Su llamado de alguna forma fue amplificado por los muchachos de _Xel2, de_ la plataforma comunicativa El Toque. En ambos espacios, confluye la idea de que _la creación no tiene que hacer concesiones ni tener regulación alguna_. Es el último reducto de libertad de expresión. El artista deja constancia, es una voz que pertenece a su tiempo y su lugar. Ojalá que este artículo de nuestra _Vida Cristiana_ digital, aporte algún argumento interesante a tan necesario debate.  
 No estamos en tiempos de la Santa Inquisición para suprimir ideas creativas, tampoco es la idea de este texto; pero hace poco leí en el diario español _El País_, que en Rusia ha ganado popularidad un hotel que resignifica los campos de concentración de Stalin. Yo me quedé estupefacto al saber que miles de turistas en el año, están dispuestos a pagar 100 euros para pasar un día entero en las condiciones de un prisionero del régimen stalinista enviado a la Siberia y uno se pregunta: ¿cómo hemos llegado ha esto? ¿No podremos limitar estas aberraciones?  
 Enrique Rottenberg, es uno de los fotógrafos de mayor relevancia en el mundo, por decisión propia este singular argentino ha decidido vivir durante una gran parte del año en Cuba, conoce nuestra Isla, y su exposición permanente en la (FAC), es todo un desafío al pensamiento divergente de un mundo secularizado, líquido, diría Bauman. Me gustan mucho algunas de sus obras, pero en otras me pregunto, ¿qué mensaje se pretende transmitir con esa foto a un público sobre todo joven?  

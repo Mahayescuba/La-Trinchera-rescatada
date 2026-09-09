@@ -1,13 +1,11 @@
 ---
 title: "El oportunismo del pensamiento crítico: sobre Sopa de Wuhan"
 date: "2020-04-15T17:45:22+00:00"
-author: ""
+author: "Christina Soto Van Der Plas"
 category: "Teoría"
 image: ""
 ---
 Más allá de criticar la intencionalidad o no del título o que haya una agenda racista oculta, lo más preocupante es el oportunismo que decide que es necesario opinar ya y que ha surgido a raíz de la pandemia del coronavirus.
-
-**Por: Christina Soto Van Der Plas**
 
 La filosofía requiere tiempo. No es un arma de vanguardia y de golpeo de primera línea, sino un decir que nos obliga a reflexionar sobre las verdades, sobre quiénes somos y estamos siendo en los acontecimientos actuales y pasados. Cuando nos apuramos a sacar una conclusión para opinar sobre una situación, que es lo más cómodo y no nos obliga a pensar o escuchar sin juzgar, frecuentemente nos precipitamos y reducimos lo ajeno a categorías que podemos comprender. Metemos lo que no sabemos qué forma tiene en las cajitas que ya guardábamos en el sótano de nuestra mente para acallar la incertidumbre. Precipitamos el entendimiento antes de observar la situación, antes de medir sus ángulos y darle tiempo para que se desarrolle y se modifique: nos obliga la velocidad de los tiempos en que vivimos, en los que parece que no podemos estar ni un instante desconectados o sin producir algo.
 

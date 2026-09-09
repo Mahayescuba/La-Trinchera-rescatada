@@ -1,13 +1,11 @@
 ---
 title: "Una carrera iniciada"
 date: "2019-08-19T07:34:54+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2019/08/IMG_20190819_034508.jpg"
 ---
 SNET.
-
-**Por: Miguel Alejandro Hayes**
 
 No estoy conectado a _la red_. Supe tardíamente de su existencia. Mi cotidianidad más inmediata no es atravesada por su presencia. Su alcance está lejos de amigos más cercanos –por los que supe de ella-, familiares y seres allegados.  
 Pero eso no quiere decir que me sea un asunto ajeno. No se trata de que me sume a la causa para estar en oposición al gobierno; que ni es un deporte, ni da dinero –al menos a mí-, y mucho menos atrae mujeres –u hombres, en dependencia del gusto y la cantidad a consumir-, sino que es más bien un problema el ser no muy políticamente correcto.

@@ -1,15 +1,13 @@
 ---
 title: "Demonios verdes"
 date: "2019-04-10T05:06:02+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---
 demonios verdes.
 
 Fotografía: Obra “El Coco”, de Yulier Rodríguez.
-
-**Por: Pablo Dussac**
 
 Las verdades de un pueblo  
 Con mentiras pagaron,  

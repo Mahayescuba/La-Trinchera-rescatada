@@ -1,13 +1,11 @@
 ---
 title: "Emancipada"
 date: "2020-03-20T08:30:39+00:00"
-author: ""
+author: "Elaine Roca"
 category: "Onírica"
 image: ""
 ---
 Emancipada. 
-
-**Por: Elaine Roca**
 
 Su perfume oprime perfumes ajenos. Once de la mañana. Debe tener en el bolso peine, esmalte de uñas y espejo con polvos. La punta de sus zapatos del mismo color que su blusa. Nunca se viste de negro porque vestirse de negro es fácil. Hay que combinar las flores del vestido con los pulsos de la mano derecha, o los tirantes con el labial.  
 Libreta a renglones, márgenes blancos, termina una hoja y empieza la otra. Siempre al principio de izquierda a derecha, horizontal. Las d hasta arriba, las p hasta abajo ¡Lo escribe todo! Enumera por [plequitas](https://es.wikipedia.org/wiki/Pleca), por punticos. Emancipada.  

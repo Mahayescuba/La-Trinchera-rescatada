@@ -1,13 +1,11 @@
 ---
 title: "Duro y bajo"
 date: "2020-12-28T17:00:00+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
 _Nota a los lectores: Para este final de año, a los editores de La Trinchera nos complace presentarles una selección de los textos más leídos de cada uno de los colaboradores de este espacio. A todos les agradecemos su confianza._ 
-
-**Por: Jorge Fernández Era**
 
 “El guion de lo que debemos hacer está escrito y organizado por el enemigo de siempre: el imperialismo yanqui. No nos dejemos confundir ni sigamos cantos que enconden propósitos muy diferentes a lo que dicen por delante. Detrás, los propósitos son mucho más oscuros”. Fue lo último que se dijo en el noticiero, escrito por alguien que no dio la cara, pero acusó a los organizadores de los sucesos del Mincult de tomar “medidas para ocultar su identidad”.
 

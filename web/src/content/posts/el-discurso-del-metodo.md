@@ -1,14 +1,13 @@
 ---
 title: "El discurso del método"
 date: "2018-12-13T05:14:53+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: ""
 ---
 El discurso del método es el texto de Descartes que trae Miguel Alejandro Hayes a La Trinchera en esta ocasión para repensar el intelectual contemporáneo.
 
 ## **Un modelo para el intelectual contemporáneo**  
-**Por: Miguel Alejandro Hayes Martínez**
 
 Entre los actores que pueden concebirse en el seno o desenvolviendo de cualquier revolución, están los intelectuales. Ellos han sido caracterizados de diversas formas, que van desde atribuirle un rol protagónico, pensarlos como seres egoístas y poco comprometidos, o simplemente como indiferentes ante la revolución. Sin embargo, no se puede negar que en cualquiera de las grandes revoluciones ha habido un espacio especial para intelectuales, tanto en las burguesas, como la independentistas o las anti-imperialistas; prueba de ello, son, desde mi Cuba, Martí, Che y Fidel.
 

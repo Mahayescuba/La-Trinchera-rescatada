@@ -1,13 +1,11 @@
 ---
 title: "La mentira no tiene quien la escriba"
 date: "2021-04-22T16:00:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 ## **Breve reflexión sobre la actuación de dos obispos cubanos**  
-
-**Por: Julio Pernús** 
 
 Un joven filósofo católico cubano escribió hace un tiempo en la edición impresa de _Vida Cristiana_ una certera contextualización de la lectura del _Buen Samaritano_. Su artículo narraba que en la actualidad la parábola podía representar a un ser excluido llorando desconsoladamente en medio de una calle cualquiera de Cuba tras ser víctima de una injusticia; a él se fueron acercando grupos de diversas religiones, funcionarios, periodistas y en vez de ayudar directamente, le dieron un rodeo a la víctima tratando de no mirarlo de frente para no sentirse “afectados” por su situación. Pero, sacaban a cada instante sus móviles y comenzaban a grabarse, se hacían _selfies_ como testigos indiferentes del suceso, generando una narrativa dramática del hecho, buscando _likes_ en sus páginas y sus egos. Su versión de la historia culmina cuando un anciano, respetado por la sociedad civil, alejado del mediatismo, se acerca a la víctima, lo ayuda a recobrar su dignidad, le propone acompañarlo a denunciar la injustica sobre su persona y paga su deseo de construir el bien con la exposición de sus privilegios dentro del sistema, pues no era una persona pobre. 
 

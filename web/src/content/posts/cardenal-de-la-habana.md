@@ -1,11 +1,10 @@
 ---
 title: "Un cardenal llamado Juan"
 date: ""
-author: ""
+author: "Julio Pernús"
 category: ""
 image: ""
 ---
-Por: Julio Pernús  
 Con esta historia, espero compartirles a los amigos que leen este blog, un breve perfil del actual cardenal cubano, para que vayamos teniendo una idea de la condición humana de esta gran persona que quizás, renuncie por vocación, a su rol, como actor social de peso dentro de nuestra Isla. Sería la primera vez en nuestra Historia que una figura de tanta relevancia para la Iglesia católica, hiciera una opción de abajamiento tan fuerte, hasta desaparecer en la cotidianidad de su labor pastoral al servicio de los pobres. Créanme, este camagüeyano arzobispo de la Habana lo está haciendo y eso puede marcar un nuevo precedente para todo el episcopado nacional. Para muchos, yo me incluyo, esa fue la propuesta que deseaba llevar el papa Francisco a la realidad cubana con este sorpresivo nombramiento, eliminar cualquier tipo de auto-referencialidad.  
 Cada vez que al sacerdote Juan de la Caridad García Rodríguez lo han nombrado para un cargo jerárquico, sus amigos, familiares y laicos de sus comunidades le han comentado: De seguro, las responsabilidades y los títulos te harán cambiar. A lo que ese hombre, al que siempre llamarán Juan, les ha respondido con su peculiar voz: el tiempo les dará esa respuesta.  
 Pasados unos años, esas personas cercanas han pasado por el arzobispado de Camagüey o el de La Habana y le han comentado: es increíble cómo, a pesar de tus nuevos compromisos, sigues siendo el mismo sacerdote de pueblo, que siempre halla tiempo para acercarse a quien lo necesita. Es de suponer que cuando lo nombraron cardenal, la misma pregunta rondaría la mente de sus allegados, y él, con su sonrisa característica, les recordaría: el tiempo tendrá la última palabra.  

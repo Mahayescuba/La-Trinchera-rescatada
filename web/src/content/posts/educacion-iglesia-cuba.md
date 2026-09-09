@@ -1,7 +1,7 @@
 ---
 title: "La educación por la que apostamos desde la iglesia"
 date: "2019-04-08T18:43:54+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2019/04/PicsArt_04-08-02.50.16-1.jpg"
 ---
@@ -9,7 +9,6 @@ educación e iglesia en Cuba.
 
 #### Breve bosquejo del servicio educativo que ofrece la Iglesia católica dentro de nuestra Isla.
 
-**Por: Julio Pernús**  
 Quizás todo surgió durante aquel discurso del Primer Secretario del Partido Comunista, Raúl Castro Ruz, por el año 2008. En el mismo, se extendía una petición gubernamental para que las instituciones que rodeaban a los centros educativos apoyaran el proceso de enseñanza que no pasaba por su mejor momento, debido, entre otras causas, a la migración masiva de docentes hacia cualquier espacio laboral que le reportara tangibles mejoras económicas.  
 Por supuesto, antes de esta fecha se pudiera hablar de todo un camino ulterior recorrido por la Iglesia católica que por cuestiones de espacio; no abordaré aquí, donde solo intentaré mapear el rol actual de la institución más longeva de nuestro país, dentro del entorno educativo cubano.  
 En el documento final del Encuentro Nacional Eclesial Cubano (ENEC), se hace una descripción de la realidad educativa cubana que parece no perder vigencia a pesar de sus más de 30 años de historia (1).  

@@ -1,13 +1,11 @@
 ---
 title: "Lucha sin clases"
 date: "2019-01-16T06:54:21+00:00"
-author: ""
+author: "Ariel Pierucci"
 category: "Política en Cuba"
 image: ""
 ---
 Transporte en Cuba.
-
-**Por: Ariel Pierucci**
 
 Pasar el día sin hablar del transporte equivale a no vivir en Cuba. Acúdase a la sátira y se notará que en el ideal de los humoristas no se ausenta el modelo alemán de transporte público. Y el problema, hace tiempo dejó de ser exclusivo de un solo sector para convertirse en dificultad para todos.
 

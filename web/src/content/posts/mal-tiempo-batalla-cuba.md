@@ -1,7 +1,7 @@
 ---
 title: "El avance hacia Occidente: la Batalla de Mal Tiempo"
 date: "2019-06-11T06:58:50+00:00"
-author: ""
+author: "Norma Normand Cabrera"
 category: "Historia"
 image: ""
 ---
@@ -11,8 +11,6 @@ Invasión a occidente.
 > (Ayudante de Máximo Gómez,  
 > 14 de diciembre de 1895,  
 > a la entrada de Cienfuegos)
-
-**Por: Norma Normand Cabrera**
 
 Según un crítico extranjero, la Invasión a Occidente, con el Generalísimo Máximo Gómez y su Lugarteniente General Antonio Maceo al frente de las tropas insurrectas, fue “el hecho militar más audaz de la centuria”.  
 Los cubanos derrocharon audacia y valentía en cruentos combates, como el cruce de la trocha de Júcaro a Morón, enclave que les franqueara el camino hacia la provincia de Las Villas.  

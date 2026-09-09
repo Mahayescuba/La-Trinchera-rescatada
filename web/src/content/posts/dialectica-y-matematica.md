@@ -1,12 +1,10 @@
 ---
 title: "Y los dialécticos qué"
 date: ""
-author: ""
+author: "Miguel Alejandro Hayes"
 category: ""
 image: ""
 ---
-Por: Miguel Alejandro Hayes Martínez
-
 La matemática ha llevado la rienda en lo el pensamiento lógico. Incluso hoy, se le llama así a la estructuración de ideas que se genera desde esta. Cuando Hegel escribía La ciencia de la lógica, haría un intento de revolucionarla, proponiendo una sustitución y plasmando su propuesta: la dialéctica. En su obra se planteaban errores que se generaban al reflejar la realidad desde la matemática. Tras tantos años, ¿cómo se ha avanzado en la búsqueda de las fracturas de esta?
 
 En la actualidad los matemáticos son considerados de las personas con mayor capacidad de resolver problemas, modelar situaciones y otros muchos artilugios de su ciencia. Pudiera pensarse a simple vista que la matemática es casi impenetrable, o como dijo alguno “una religión”. El fetiche alrededor de la matemática, se refuerza en su aparente carácter de pureza.

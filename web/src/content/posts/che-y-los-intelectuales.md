@@ -1,13 +1,11 @@
 ---
 title: "Che y el intelectual revolucionario"
 date: "2018-06-14T11:15:38+00:00"
-author: ""
+author: "René Portuondo"
 category: "Marxismo"
 image: ""
 ---
 Che y los intelectuales en Cuba.
-
-Por: **René Portuondo**
 
 La izquierda revolucionaria y las clases trabajadoras han contado desde casi sus mismos inicios con un fuerte movimiento intelectual que ha acompañado sus procesos revolucionarios. Desde el surgimiento de los primeros movimientos que abogaban por la superación del orden capitalista, muchos han sido los que han contribuido desde la teoría al fortalecimiento de estos. Incluso antes, en el tiempo de las revoluciones burguesas -como la paradigmática [Revolución Francesa](https://es.wikipedia.org/wiki/Revoluci%C3%B3n_francesa)\-, fueron los intelectuales revolucionarios los que se posicionaron al frente de dichas revoluciones.
 

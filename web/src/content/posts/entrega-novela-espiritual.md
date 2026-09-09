@@ -1,15 +1,13 @@
 ---
 title: "Entrega: una telenovela de alto vuelo espiritual"
 date: "2020-01-16T17:45:21+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 telenovela iglesia.
 
 #### Una mirada desde la iglesia sobre el impacto social y humano que ha tenido la novela cubana.
-
-**Por: Julio Pernús**
 
 En los últimos tiempos he sido testigo de que la espiritualidad no es patrimonio exclusivo de los cristianos, sino un ejercicio sanador del Alma, un regalo especial, destinado a todos los seres humanos.
 

@@ -1,7 +1,7 @@
 ---
 title: "Los tiempos duros no son para poses"
 date: "2021-01-16T17:00:00+00:00"
-author: ": Hiram H. Castro"
+author: "Hiram H. Castro"
 category: "Política en Cuba"
 image: ""
 ---

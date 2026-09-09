@@ -1,13 +1,11 @@
 ---
 title: "El turismo jamás va a salvar la economía cubana"
 date: "2019-01-08T06:23:41+00:00"
-author: ""
+author: "Carlos Ávila Villamar"
 category: "Economía en Cuba"
 image: ""
 ---
 turismo en la economía cubana.
-
-Por: **Carlos Ávila Villamar**
 
 Ningún país jamás se ha desarrollado gracias al turismo. El Cairo, pese a estar al lado de las celebérrimas pirámides, es una ciudad con espantosos niveles de pobreza. El turismo no genera un desarrollo real, puesto que lo único que hace es crear una demanda falsa y un poder adquisitivo falso. Gracias a él se disparan los precios de las habitaciones, que los locales no podrían pagar, así como también de los servicios, que los locales tampoco podrían pagar. Por tanto se crean dos economías interdependientes que jamás van a conciliarse, por la sencilla razón de que nunca el local que sirve al turista va a ganar más que el propio turista. Se crea una relación de sirvientes y servidos, en la que los sirvientes tratarán de parecerse a los servidos, pasarán hambre durante días para ir todos los viernes a los mismos lugares que ellos, pero en la práctica seguirán siendo sirvientes. En el mejor de los casos, algunos acumularán suficiente dinero como para convertirse en capitalistas, montar un pequeño hostal o restaurante, y vivir del sudor de sus otrora hermanos sirvientes.  
 El dinero traído por el turismo, en el caso del estado cubano, con frecuencia se invierte en asuntos sociales, o en la propia industria turística. En el caso del negocio privado cubano, va a parar fundamentalmente a manos del inversor, a menudo extranjero o cubano residente en el exterior, por lo que sale del sistema, en vez de circular y así subir el poder adquisitivo, es decir, en vez de estimular al resto de la economía local.  

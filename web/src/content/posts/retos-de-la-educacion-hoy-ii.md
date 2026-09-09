@@ -1,13 +1,11 @@
 ---
 title: "Retos de la educación hoy (II)"
 date: "2019-12-13T05:05:19+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 Educación. 
-
-**Por: Julio Pernús**
 
 El problema que nos plantea el Papa Francisco en este llamado a una _aldea educativa global_ tiene como referencia sus lecturas sobre [Romano Guardini](https://es.m.wikipedia.org/wiki/Romano_Guardini), (Verona, Italia, 1885- Múnich, 1 de octubre de 1968). Este sacerdote italiano, en un escrito suyo de 1950, El _Fin de la Era Moderna_ y, en 1952, _El Poder_, planteó que _el problema principal del poder es su poder sobre el propio poder_ (1).
 

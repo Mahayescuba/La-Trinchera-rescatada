@@ -1,13 +1,11 @@
 ---
 title: "El rostro de los días"
 date: "2020-08-28T06:10:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Cultura"
 image: ""
 ---
 ##  Apuntes sobre la telenovela cubana
-
- **Por: Julio Pernús**
 
 La telenovela cubana _[El rostro de los días](http://www.trabajadores.cu/20200715/una-novela-las-canciones-y-un-live-de-buena-fe-video/)_ es un producto comunicativo de gran relevancia educativa en medio de la pandemia que azota la humanidad y nuestra Isla. Después de finalizada la novela anterior: _Entrega_, el listón había quedado bien alto, pero la directora Nohemí Cartaya y su equipo de trabajo han logrado responder con acierto a las exigencias, incluso sociales, pues en medio del aislamiento, hay quienes ven hasta dos veces los capítulos para no perderse un detalle de la trama que puede ayudarnos a crecer en valores, si aprendemos las lecciones expuestas entre líneas.
 

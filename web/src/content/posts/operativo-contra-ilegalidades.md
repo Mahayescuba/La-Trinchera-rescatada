@@ -1,13 +1,11 @@
 ---
 title: "Desmantelan cosmódromo en Pogolotti"
 date: "2020-07-30T16:00:00+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Onírica"
 image: ""
 ---
 Operativo contra ilegalidades en Pogolotti. operativo contra ilegalidades. 
-
-**Por: Jorge Fernández Era**
 
 Fuerzas conjuntas de la Policía Nacional Revolucionaria, la Dirección de Inspección, Supervisión y Control (DISC) y el Departamento Técnico de Investigaciones (DTI) realizaron un operativo que desmanteló un cosmódromo ilegal en el barrio de Pogolotti, donde nueve individuos se dedicaban a organizar exploraciones a planetas y satélites del sistema solar en busca de elementos de la tabla periódica que luego vendían a precios astronómicos como parte de su punible proceder.
 

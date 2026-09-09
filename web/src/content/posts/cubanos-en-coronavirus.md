@@ -1,13 +1,11 @@
 ---
 title: "Solo sigan con vida"
 date: "2020-03-27T09:30:59+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 Dedicado a esos cubanos que sufren ahora mismo la pandemia del coronavirus en países lejanos al suyo.
-
-**Por: Julio Pernús**
 
 Quizás este texto resulte familiar a esos jóvenes a quienes la prosperidad se nos ha vuelto la palabra más lejana, aunque tan solo a unos pasos de verla. Como siempre, he optado por escribir mi verdad. Debo admitir que a veces he intentado largarme de aquí, y por decisiones, en ocasiones inexplicables, nunca lo he conseguido. Pero ya no me atrevo a decirle a nadie que se quede (lo lamento); yo he optado por permanecer y afrontar esa decisión. Igual, con cada familiar o amigo que se va, siento que la Isla pierde un pedazo, y también yo.
 

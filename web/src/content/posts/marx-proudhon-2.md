@@ -1,13 +1,11 @@
 ---
 title: "Marx + Proudhon (II)"
 date: "2018-09-28T11:25:45+00:00"
-author: ""
+author: "Oscar Herrero"
 category: "Marxismo"
 image: ""
 ---
 Marx y Proudhon.
-
-**Por: Oscar Herrero**
 
 **¿Dónde ponemos nuestras ansias?**
 

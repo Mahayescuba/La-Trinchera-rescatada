@@ -1,13 +1,11 @@
 ---
 title: "La autopsia de Facundo"
 date: "2020-01-09T18:03:56+00:00"
-author: ""
+author: "Jorge Fernánez Era"
 category: "Política en Cuba"
 image: ""
 ---
 Facundo. 
-
-**Por: Jorge Fernánez Era**
 
 Alguien colocó en su muro el domingo 5 la siguiente nota: «Pensé que Facebook amanecería hoy repleto de indignación y denuncia por la injusta censura de nuestros peloteros a la Serie del Caribe, pero nah, seguimos con Facundo». Al otro día volvió a la carga: «Sancionan a un humorista y se arma un revuelo a nombre de la cultura; Trump dice tener derecho a bombardear objetivos culturales, y nadie opina. Eah, qué pasa con los nobles valores y la super libertad de expresión».  
 Como recién el 4 escribí «Facundo regresa» y el tema del humor me toca en los mismísimos, me sentí aludido, medio que me acomplejé y le respondí lo siguiente: «Pasa que lo de Trump entra en los cálculos sobre un presidente hijo de puta de un imperialismo que nos enseñaron desde niños que está ahí para jodernos la alegría. Pero que nos la jodan también los funcionarios omnipresentes e infalibles no cabe en una nación que construye la felicidad para su pueblo. En ese imperio de allá arriba la gente ha salido a las calles a protestar contra el degenerado que mata. Nosotros, indignados por otro asesinato (de la verdad, de la risa, del sentido común), tenemos que recurrir a este único espacio que nos permiten para cantar “la rabia con cantera” tras la muerte de Facundo. Porque exista Trump, no dejan de fastidiarnos (lo hacen más abiertamente, sí) esos burócratas disfrazados de veladores de sueños y sonrisas».  

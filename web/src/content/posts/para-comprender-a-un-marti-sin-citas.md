@@ -1,10 +1,12 @@
 ---
 title: "Para comprender a un Martí sin citas"
 date: "2021-04-06T09:30:00+00:00"
-author: "Raymar A. H. y Marcia Hernández Ramírez"
+author: "Raymar A. H"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2021/04/Saatchi-Art.jpg"
 ---
+. y Marcia Hernández Ramírez**
+
 > A la memoria de Cintio Vitier Bolaños en su centenario
 > 
 > (…) un Martí ya sin citas, el Martí esencial que vibra en nuestra sangre y nuestra alma (…)1

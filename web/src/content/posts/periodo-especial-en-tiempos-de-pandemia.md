@@ -1,13 +1,11 @@
 ---
 title: "La fe vs. la entropía ambiental"
 date: "2020-09-18T09:30:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/09/Esencia_125x90cm_acrilico_lienzo_2011_para_web-16fb3.jpg"
 ---
 período especial en tiempos de pandemia.
-
-**Por: Julio Pernús**
 
 En la última novela de Leonardo Padura, _Polvo en el Viento_, uno de sus personajes principales, Irving, utiliza el nombre de _entropía ambiental_ para referirse al Período Especial. Un concepto que, según el personaje literario del padre de Mario Conde, los cubanos asociamos con _calor, oscuridad, hambre y pérdida de la noción del futuro_. Agregaría que también con el desgarramiento familiar, fruto de una balsera migración. 
 

@@ -1,7 +1,7 @@
 ---
 title: "La mayor víctima de la cuarentena: el sueño"
 date: "2020-04-26T23:31:25+00:00"
-author: ""
+author: "Danilo Euser"
 category: "Ciencia"
 image: ""
 ---
@@ -9,7 +9,6 @@ _La influencia de la cuarentena en necesidades biológicas como el sueño y sus 
 
 ## Necesidad biológica
 
-**Por: Danilo Euser**  
 El sueño suele ser el caballo de turco de la vida y las elecciones de una gran parte de las personas, sobre todo de los más jóvenes. Tanto si el objetivo es por ocio (salir de fiesta, maratones de series o películas, o simplemente chatear y navegar por Internet…); como si es por _aumentar la productividad_ (estudiar/trabajar hasta muy tarde y/o levantarse muy pronto), al final el resultado es parecido: el descanso se ve perjudicado con las correspondientes consecuencias negativas que ello provoca en todos los sistemas del organismo.
 
 Con los cambios que se han dado en nuestros patrones de vida habituales, a consecuencia de la crisis sanitaria y social que estamos viviendo, esta problemática lejos de mejorarse, está siendo de las más perjudicadas, junto con la actividad física, el estado de ánimo y la exposición a luz solar, cuestiones que guardan una estrecha relación.

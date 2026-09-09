@@ -1,14 +1,12 @@
 ---
 title: "Las razones del primero de mayo"
 date: ""
-author: ""
+author: "Miguel Alejandro Hayes"
 category: ""
 image: ""
 ---
 Fotografía: Yolo  
 Este artículo fue publicado con motivo del primero de mayo del año 2018. Hoy, dada la similitud de contextos, lo compartimos nuevamente.
-
-Por: Miguel Alejandro Hayes
 
 En estos días me viene a la mente una de las consignas más conocidas del movimiento obrero: Proletarios… ¡uníos! En el contexto de la cercanía del primero de mayo, advierto en este unas cosas incoherentes. ¿Será el esfuerzo movilizativo en nombre de la unidad para esta fecha improductivo?
 

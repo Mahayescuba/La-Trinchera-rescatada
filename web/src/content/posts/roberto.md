@@ -1,13 +1,11 @@
 ---
 title: "Roberto"
 date: "2020-09-06T09:30:45+00:00"
-author: ""
+author: "Elaine Roca Aguiar"
 category: "Onírica"
 image: ""
 ---
 estereotipos caseros y feminismo.
-
-**Por: Elaine Roca Aguiar**
 
 Crecí en una casa de mujeres, solteras e independientes. Cuando se rompía el cable de un electrodoméstico, había que comprar otro. Mi bisabuela coleccionaba cadáveres de ollas, hornillas y planchas. Para poner un cuadro debía venir un vecino a marcar y abrir el hueco; hasta que llegó Roberto. Mi abuela se casó, siendo yo muy niña, con un Mayor del MININT que había ido a la [guerra en Angola](https://es.wikipedia.org/wiki/Guerra_de_la_Independencia_de_Angola).
 

@@ -1,13 +1,11 @@
 ---
 title: "Dudar de todas las versiones"
 date: "2020-06-26T20:41:01+00:00"
-author: ""
+author: "José Raúl Gallego"
 category: "Política en Cuba"
 image: ""
 ---
 _Nota: Este es un comentario publicado por el autor, a raíz de que en varios perfiles de Facebook se compartiera un video anónimo, que se anuncia como la versión oficial de lo ocurrido en Guanabacoa, en donde resultó muerto el joven_ _Hansel Ernesto Hernández Galiano._
-
-**Por: José Raúl Gallego**
 
 La prensa oficial estatal cubana, en vez de investigar sobre el hecho del ciudadano muerto a manos de la policía en [Guanabacoa](https://es.wikipedia.org/wiki/Guanabacoa), se dedica a compartir la versión ofrecida por una voz sin rostro.
 

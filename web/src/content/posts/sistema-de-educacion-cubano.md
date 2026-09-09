@@ -1,7 +1,7 @@
 ---
 title: "La medición efectiva"
 date: "2019-12-24T04:50:37+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
@@ -9,7 +9,6 @@ image: ""
 > 
 > Emil Cioran
 
-**Por: Miguel Alejandro Hayes**  
 En cada ocasión, cuando se informa a la [_Asamblea_](http://www.parlamentocubano.gob.cu) y al pueblo sobre los resultados del año a punto de concluir, se dicen muchas cifras. La mayoría de ellas, si de indicadores sociales se trata, son positivas. Al parecer, esa es la medición efectiva.  
 Así nos encontramos con todo lo que el país gasta en salud y educación (en realidad, no es otra cosa que la política de gasto público ampliada que se aplica). De ahí siempre se resalta la cantidad de graduados universitarios, de ingresos a la educación superior, de bachilleres, de técnicos y más cifras. Por el lado de la salud, es igual.  
 No dudo que todas esas cifras-resultados sean ciertas. Sin embargo, me pregunto: ¿hasta qué punto esos datos son el mejor indicador para medir el impacto del gasto público en las esferas mencionadas? Me temo que a veces no se hereda lo mejor de los mundos de afuera de las fronteras, sino lo peor. Así ocurre con cómo se calculan los resultados del país.  

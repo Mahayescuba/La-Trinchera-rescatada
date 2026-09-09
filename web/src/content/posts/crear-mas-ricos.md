@@ -1,13 +1,11 @@
 ---
 title: "¿Crear más ricos?"
 date: "2018-12-19T03:03:35+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
 image: ""
 ---
 La mercado mayorista en Cuba.
-
-**Por: Miguel Alejandro Hayes**
 
 La actualización del modelo económico cubano, trajo consigo la apertura a nuevas formas de propiedad, de las que destaca la privada. Esta, naciendo en un rudimentario marco regulatorio, realiza algunos reclamos para su mejoramiento. De ellos, uno de los más conocidos es el de la creación de un mercado mayorista, donde puedan adquirir insumos a un menor precio.  
 Cabe destacar que la cuestión no radica en la existencia de un espacio físico-geográfico que brinde estás facilidades. Es decir, este mercado, no es un lugar, sino que se refiere a las relaciones – y sus características- de intercambio, en la cual los privados compren lo necesario para su proceso productivo a menor cuantía. Por eso, la cuestión esencial es la de los precios de esas compras.  

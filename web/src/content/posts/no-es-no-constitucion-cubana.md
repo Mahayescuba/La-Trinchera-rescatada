@@ -1,13 +1,11 @@
 ---
 title: "No es no"
 date: "2019-02-10T07:44:25+00:00"
-author: ""
+author: "José Raúl Gallego"
 category: "Política en Cuba"
 image: ""
 ---
 constitución.
-
-**Por: José Raúl Gallego**
 
   
 El periódico Vanguardia publicó texto de la Dra. en Ciencias Jurídicas Mirtha Arely del Río, donde afirma que si el 24 de febrero gana el NO:

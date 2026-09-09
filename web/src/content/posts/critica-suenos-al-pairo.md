@@ -1,13 +1,12 @@
 ---
 title: "Mi preferencia al Pairo de los sueños"
 date: "2020-03-07T18:23:04+00:00"
-author: ""
+author: "Giordan Rodríguez Milanés"
 category: "Política en Cuba"
 image: ""
 ---
 Giordan Rodríguez critica _Sueños al Pairo_ desde su óptica de realizador.
 
-**Por: Giordan Rodríguez Milanés**  
 _Sueños al Pairo_, no me gusta, definitivamente.  
 Tantas personas inteligentes y sabias que dicen es un buen documental, me han hecho verlo tres veces mas.  
 Sigue sin gustarme.  

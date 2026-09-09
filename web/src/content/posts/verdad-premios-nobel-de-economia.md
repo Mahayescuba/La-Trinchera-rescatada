@@ -1,13 +1,11 @@
 ---
 title: "La verdad sobre los falsos premios “Nobel” de Economía"
 date: "2019-10-30T02:02:53+00:00"
-author: ""
+author: "Mario del Rosal"
 category: "Economía Política"
 image: "/wp-content/uploads/2019/10/IMG_20191029_220038_991.jpg"
 ---
 Nobel de Economía.
-
-**Por: Mario del Rosal**
 
 Hace pocos días se dieron a conocer los llamados premios “Nobel” de Economía. En esta ocasión, han sido tres los economistas galardonados: Abhijit Banerjee, Esther Duflo y Michael Kremer. Según la organización, “por su enfoque experimental para aliviar la pobreza global”.
 

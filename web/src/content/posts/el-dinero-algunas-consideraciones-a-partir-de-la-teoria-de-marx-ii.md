@@ -1,12 +1,10 @@
 ---
 title: "El dinero. Algunas consideraciones a partir de la teoría de Marx (II)"
 date: "2018-04-10T12:00:49+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: "/wp-content/uploads/2018/04/5a0100da3fa88.jpeg"
 ---
-Por:  **Miguel Alejandro Hayes Martínez**
-
 **El mito del predominio del mercado asociado al concepto de dinero**
 
 Uno de los mitos teóricos más grandes alrededor del dinero y del mercado, afirma que en los estadios pre-capitalistas no predominaba este, por ejemplo ver (2). Según esta lógica, solo alcanza su predominio en el capitalismo, donde por primera vez se compra y se vende casi todo. Esa idea, puede ser destruida desde la lógica del dinero de Marx.

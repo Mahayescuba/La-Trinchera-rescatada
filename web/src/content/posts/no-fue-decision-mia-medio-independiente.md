@@ -1,13 +1,12 @@
 ---
 title: "No fue decisión mía"
 date: "2020-04-27T17:09:18+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Mi experiencia de lo que es y puede ser un medio independiente en Cuba.
 
-**Por: Miguel Alejandro Hayes**  
 Escribo en [Rebelión](http://rebelion.org), un medio independiente de alcance regional. Soy el coordinador de [La Trinchera](/la-trinchera/), un proyecto editorial digital. Fui parte del equipo de [La Joven Cuba](http://jovencuba.com), un blog que ha sabido ganarse su espacio. Participo en [El Enjambre](https://eltoque.com/se-estrena-el-enjambre-un-podcast-de-el-toque-para-discutir-sobre-twitter-en-cuba/), un podcast de [El Toque](https://eltoque.com). Hago [El Solar](https://www.ivoox.com/p_sq_f1860729_1.html), una iniciativa autónoma de _podcasting_.  
 En esos escenarios independientes aprendí a escribir un _tin_ menos mal de lo habitual (porque bien nunca lo haré) y no he logrado mejorar la dicción (aunque lo intento). En ellos me formo y deformo. Mi experiencia de lo que es y puede ser un medio, es esa.  
 Hace cuatro años, más joven y más inocente, llamé a varios medios estatales buscando dónde colaborar. La primera pregunta siempre fue que si era periodista o estudiante de periodismo. La respuesta fue negativa, y la conclusión: yo no tenía patente para escribir. Y no intentaba hacerlo de política; solo de temas de filosofía, teorías asociadas a ciencias sociales y al propio ejercicio del pensamiento. Pero no fue una decisión mía.  

@@ -1,13 +1,11 @@
 ---
 title: "¿En Cuba existen clases sociales?"
 date: "2019-07-10T06:04:17+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 El término _clases sociales_ en Cuba se ha ido construyendo desde el marxismo, aunque con un volumen bien bajito para no causar ruidos en los artífices de la alta política.
-
-**Por: Julio Pernús**
 
 ¿Tiene sentido hablar de clases sociales en Cuba? Esa pregunta es recurrente en algunos debates trascendentes del complexus intelectual nacional, sobre todo, desde el mundo académico universitario de la Mayor de las Antillas. Pero conceptualizar esto en un país como el nuestro, donde un taxista gana más que un doctor en ciencias, parece algo inverosímil; pero, aún peor, puede ser quedarnos sin comprender la esencia del conflicto.
 

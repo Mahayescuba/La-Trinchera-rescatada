@@ -1,13 +1,11 @@
 ---
 title: "Contribución a la Teoría Marxista del Derecho ( PARTE II)"
 date: "2018-09-17T23:05:56+00:00"
-author: ""
+author: "Fernando Almeyda"
 category: "Marxismo"
 image: ""
 ---
 Marxismo y derecho.
-
-**Por: Fernando Almeyda**
 
 El Derecho concebido exclusivamente desde su dimensión formal-normativa, no es más que una inmensa abstracción. Si se quiere entender el real funcionamiento del fenómeno jurídico es preciso reconciliar la dimensión normativa con las relaciones reales. El dogmatismo jurídico comienza cuando se intenta invertir esta fórmula, arribándose a conclusiones generalmente erradas.  
 La norma jurídica, desgajada de su contexto y de las relaciones reales que la sustentan implica una idealidad, una abstracción; dicha abstracción es siempre expresión de determinada estructura socioeconómica vigente, por lo que a la hora de establecer las relaciones (aparentes) entre una norma u otra ha de tenerse en cuenta si las relaciones reales y, por ende, la estructura de poder que legitiman, tienen alguna semejanza.  

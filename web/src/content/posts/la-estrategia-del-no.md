@@ -1,13 +1,11 @@
 ---
 title: "La estrategia del No"
 date: "2019-02-12T19:43:51+00:00"
-author: ""
+author: "René Portuondo"
 category: "Política en Cuba"
 image: ""
 ---
 Constitución.
-
-**Por: Rene Portuondo**
 
 El texto final de la nueva Constitución corregido y aprobado por la [_Asamblea Nacional_](https://es.wikipedia.org/wiki/Asamblea_Nacional_del_Poder_Popular_de_Cuba), está listo para ser sometido a consulta popular. En medio de este proceso, no puede dejar de llamar la atención la campaña mediática que desde el exterior se ha lanzado para promover el voto negativo en la consulta popular del próximo 24 de febrero. Si bien para los cubanos en la isla debiera ser ya cotidiano el asedio constante y la crítica a todo paso que da el gobierno, esta nueva campaña tiene particularidades que realmente la hacen destacar de otras anteriores de formato semejante, impulsadas y financiadas por la disidencia cubana.  
 Y aunque en la política siempre hay que andar con mucho ojo, porque lo que parece no siempre es, creo que no hay que ser un analista político de renombre para identificar en el propio discurso y modos de actuación de estos grupos, cuáles son las líneas fundamentales de la estrategia que siguen.  

@@ -1,15 +1,13 @@
 ---
 title: "¿Quién soy yo para juzgar?"
 date: "2020-05-27T16:30:50+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 …una frase samaritana que dio la vuelta al mundo: _**¿Quién soy yo para juzgar?**_
 
 ## A propósito del día internacional contra la Homofobia y la Transfobia
-
-**Por: Julio Pernús**
 
 En el comienzo de la novela Por quién doblan las campanas, en inglés _For Whom the Bell Tolls_, del afamado escritor norteamericano Ernest Hemingway, este utiliza los versos del poeta John Donne para decir a sus lectores: _Ningún hombre es una isla, completo en sí mismo._ Tomando esta referencia, podemos vislumbrar que a cualquier organización religiosa, por sólida e influyente que sea en cuanto a su estructura, si no lograr cooperar con otros actores en la promoción de conceptos comunes que favorezcan la construcción de una mejor sociedad, le será bien difícil transformar su entorno social.  
 En el año 2019, durante el proceso constitucional que desembocó en nuestra nueva Carta Magna, se sucedieron debates interesantes al interior de la iglesia católica con respecto a diversos temas, pero, sin lugar a dudas, un punto común a muchos de ellos lo fue el vinculado al artículo 68 y la discusión sobre la reformulación del concepto de matrimonio. Las dos cartas de la Conferencia de Obispos Católicos de Cuba sobre el boceto constitucional abordaron la problemática; incluso algunos obispos de forma individual lanzaron al espacio público sus criterios.  

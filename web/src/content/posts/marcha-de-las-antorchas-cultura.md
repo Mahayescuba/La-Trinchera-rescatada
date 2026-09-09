@@ -1,12 +1,10 @@
 ---
 title: "Desfile pa los mikis y pa los repas"
 date: ""
-author: ""
+author: "Ariel Pierucci"
 category: ""
 image: ""
 ---
-Por: Ariel Pierucci
-
 “El desfile estuvo repa”. Así se refería a la última Marcha de las Antorchas uno de sus asistentes. La frase es muy interesante, pues valoraba desde un estereotipo contemporáneo uno de los más famosos actos político-ideológicos de nuestra historia. Igual de interesante resultaba quien la dijo: un joven que asistió al desfile, y mejor aún, le gustó, al punto de que le hiciera emitir un criterio desde el sistema de valores del estereotipo al que pertenece. Pero no solo repas marcharon este 27 de enero. El miki no faltó, y los llamados pijos estuvieron de plácemes. Sí, esta última Marcha de las Antorchas tiene el mérito histórico de haber permitido la confluencia de identidades juveniles muy diferentes que llegan a no soportarse, pero que se toleraron, y mejor aún, disfrutaron haber ido.
 
 Lo antes descrito, hace pensar sobre el estado en el que se encuentra la motivación en los actos políticos protagonizados por jóvenes, y provoca la siguiente pregunta: ¿qué motiva a un joven a asistir a un acto político-ideológico?

@@ -1,13 +1,11 @@
 ---
 title: "Utópico versus Real"
 date: "2019-04-01T06:38:21+00:00"
-author: ""
+author: "Ernesto Núñez"
 category: "Política en Cuba"
 image: ""
 ---
 Estado. 
-
-**Por: Ernesto Núñez**
 
 ARTÍCULO 1. Cuba es un Estado socialista de derecho y justicia social, democrático, independiente y soberano, organizado con todos y para el bien de todos como república unitaria e indivisible, fundada en el trabajo, la dignidad, el humanismo y la ética de sus ciudadanos para el disfrute de la libertad, la equidad, la igualdad, la solidaridad, el bienestar y la prosperidad individual y colectiva.
 

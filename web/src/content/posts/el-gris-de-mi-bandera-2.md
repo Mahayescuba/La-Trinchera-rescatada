@@ -1,13 +1,11 @@
 ---
 title: "¿El gris de mi bandera?"
 date: "2020-12-26T10:30:00+00:00"
-author: ""
+author: "Elaine Roca"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/12/Gerard-Cambon-Bajorelieves-.jpg"
 ---
 _Para este final de año, a los editores de La Trinchera nos complace presentarles una selección de los textos más leídos de cada uno de los colaboradores de este espacio. A todos les agradecemos su confianza._ 
-
-**Por: Elaine Roca**
 
 Yo no estuve la [noche del 27 en el MINCULT](https://oncubanews.com/cuba/artistas-e-intelectuales-cubanos-que-se-manifestaron-en-el-ministerio-de-cultura-logran-primeros-acuerdos-con-el-gobierno/) porque la noticia no me llegó a tiempo, porque solo tuvo cobertura por redes sociales y el servicio de internet lleva días tropezando, porque no se me convocó, nadie lo hizo. Pero si me hubiese enterado a tiempo hubiese ido, porque es un suceso (organizado por mercenarios o no, inspirado en parte por lo ocurrido con el MSI o no) que merece ser explorado, observado, analizado y archivado para la historia por quienes nos dedicamos al estudio de las sociedades y por quienes las vivimos. 
 

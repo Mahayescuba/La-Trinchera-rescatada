@@ -1,13 +1,12 @@
 ---
 title: "El día en que Otaola se metió con Rodiles"
 date: "2020-06-04T09:30:26+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/06/8c067a34-6853-4997-b2f5-840146ac9f58.jpeg"
 ---
 ahora Otaola cuestiona a Antonio Rodiles alegando escasez de sus acciones decisivas
 
-**Por: José Gabriel Barrenechea**  
 Entre cubanos cualquier cosa es posible: ahora Otaola cuestiona a Antonio Rodiles alegando escasez de sus acciones decisivas, o por su mal manejo de fondos.  
 Osadía cuestionable cuando nos percatamos de que tampoco Otaola ha logrado arrastrar a una acción decisiva al Exilio, como quedó más que demostrado durante el famoso _parón de Enero_, el cual contraproducentemente pareció servir para estimular los envíos a Cuba; o en su evidente incapacidad para comprometer en acciones concretas a los muchos que según afirma, lo siguen en Cuba, aunque parece que no con la suficiente determinación como para unírsele en los tan llevados y traídos _cacerolazos_, que solo suenan sin miedo en su estudio.  
 Carece de congruencia la acusación de mal manejo de fondos, cuando nos percatamos que procede de un individuo que no se ha cansado de _meter cabeza_ desde que llegó al Exilio, hasta hace poco con escaso éxito. Rodiles por otro lado, es un hombre que a pesar de no irle mal en el extranjero, decidió regresar a Cuba, a hacer por ella hace ya mucho; o que ya aquí, si hubiese escogido convertir su mansión en un hostal, podría haberse dado la gran y tranquila vida.  

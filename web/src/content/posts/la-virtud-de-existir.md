@@ -1,12 +1,10 @@
 ---
 title: "La virtud de existir"
 date: "2020-06-07T16:29:48+00:00"
-author: ""
+author: "Ana Barnes"
 category: "Política en Cuba"
 image: ""
 ---
-**Por: Ana Barnes**
-
 El otro día, en medio de una conversación con un amigo, solté una frase sobre [Twitter](https://twitter.com/?lang=ES) que llamó su atención. Dije que esta red, ideada para ser utilizada como transmisor de informaciones cortas a muchas personas al mismo tiempo, y no para dialogar particularmente, en el contexto de la aldea cubana derivaba a veces en largas conversaciones entre dos personas, en un alarde de exhibicionismo psicosocial no exento de pasiones, pero casi siempre alrededor de temas de la actualidad política nacional.
 
 No es por gusto que Twitter es la red favorita de los hombres políticos. Puede haber sido Barack Obama, durante su campaña de 2008, uno de los mejores ejemplos de lo que las redes sociales pueden multiplicar la visibilidad de un candidato. Se cuenta que ya para 2012 su discurso en la convención nacional demócrata generó 52.756 tuits por minuto (de lo cual daba testimonio [Nichola GROOM](https://www.reuters.com/article/us-usa-campaign-media/obama-draws-biggest-convention-tv-audience-twitter-record-idUSBRE88619220120907), de la agencia de prensa Reuters).

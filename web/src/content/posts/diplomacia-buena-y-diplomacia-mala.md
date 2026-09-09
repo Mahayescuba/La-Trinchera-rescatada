@@ -1,12 +1,10 @@
 ---
 title: "Diplomacia buena y diplomacia mala"
 date: "2018-07-25T14:32:55+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
-### **Por: Miguel Alejandro Hayes Martínez**
-
 En estos días está de moda en el seno de nuestra sociedad acusaciones a una serie de personas que han adquirido algunas comodidades en su vida. Según sus detractores, es condenable su postura diplomática para la obtención de tales condiciones.
 
 Debido a que no es precisamente el fanatismo político o la metafísica de izquierda-derecha algo con lo que ocupo mi pensamiento, me atrevo sin distinción, ha cuestionarme la diplomacia en general.

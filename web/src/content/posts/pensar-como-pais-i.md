@@ -1,12 +1,10 @@
 ---
 title: "¿Pensar como país?"
 date: "2019-12-17T07:48:00+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
-**Por: Miguel Alejandro Hayes**
-
 > I
 
 #### El _nuevo_ término

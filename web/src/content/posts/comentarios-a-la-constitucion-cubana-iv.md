@@ -1,13 +1,11 @@
 ---
 title: "Comentarios a la Constitución ¿socialista? IV"
 date: "2019-02-22T07:07:54+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
 image: ""
 ---
 Constitución socialista.
-
-**Por: Ernesto Gutiérrez Leyva**
 
 Por otro lado, el artículo 48 representa uno de los más notorios avances que en materia de derechos (de la personalidad en este caso) logra el proyecto. Al reconocimiento usual de figuras tradicionales -intimidad, honor, identidad personal e imagen- se suma el expreso reconocimiento de un derecho a la voz, el cual tradicionalmente se ha visto comprendido dentro del de la imagen.
 

@@ -1,13 +1,11 @@
 ---
 title: "Un pedazo del alma"
 date: "2020-08-29T16:00:00+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
 Celia Cruz en televisión cubana.
-
-**Por: Jorge Fernández Era**
 
 Hubiera podido ser una de las noticias culturales del año: después de más de cinco décadas de ostracismo regresa a la televisión cubana Celia Cruz, La Guarachera de Cuba, una artista que a pesar de hacer la mayor parte de su carrera fuera de su tierra natal, puso muy en alto la música de la Isla en los más encumbrados escenarios internacionales. Pero era demasiado pedir: la fugaz presentación en la emisión de La Pupila Asombrada —con título “¿Cuánto y cómo cambió Cuba en 1959?”— constituyó una burda manipulación.
 

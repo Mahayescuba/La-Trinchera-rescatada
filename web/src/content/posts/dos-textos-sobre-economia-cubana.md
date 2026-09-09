@@ -1,15 +1,13 @@
 ---
 title: "Dos textos sobre economía cubana"
 date: "2020-06-14T00:11:42+00:00"
-author: ""
+author: "Juan M. Ferrán Oliva"
 category: "Economía en Cuba"
 image: "/wp-content/uploads/2020/06/El-Machaque.jpg"
 ---
 Dos textos sobre economía cubana, uno que habla sobre la necesidad de sindicatos en el contexto actual, y el siguiente que lo interpreta en perspectiva.
 
 ## ¿Sindicatos?\*
-
-**Por Juan M. Ferrán Oliva**
 
 En más de una ocasión escuché al Comandante Ernesto Guevara –Che– afirmar que en el socialismo no eran necesarios los sindicatos. ¿Para qué hace falta esta organización en una sociedad de proletarios?, se preguntaba. Recuerdo una Reunión Bimestral con la participación de todos los administradores de empresas del Ministerio de Industrias, en la que se produjo un suculento debate al respecto. Sus únicos protagonistas fueron el propio Che y alguien de los asistentes que defendía hábilmente la idea contraria. Sería allá por el año 1964.
 

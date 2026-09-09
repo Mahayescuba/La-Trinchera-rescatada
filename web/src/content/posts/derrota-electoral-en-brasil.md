@@ -1,13 +1,11 @@
 ---
 title: "Cuestión de correspondencia"
 date: "2019-01-09T05:16:21+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política"
 image: ""
 ---
 Breves líneas a propósito de las elecciones en Brasil.
-
-**Por: Miguel Alejandro Hayes**
 
 Decía Marx en fecha tan temprana como 1845, que no debía entenderse la política como algo supraterrenal. Con ello, hacía un llamado a comprender los hechos políticos asociados a las cosas más naturales de la vida de la gente. Ese consejo del Moro, sigue siendo útil a la luz de los reveces políticos de la izquierda regional.
 

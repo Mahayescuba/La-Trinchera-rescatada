@@ -1,12 +1,10 @@
 ---
 title: "De “armas melladas” basta ya"
 date: "2018-12-21T05:13:34+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Teoría"
 image: ""
 ---
-por: **Miguel Alejandro Hayes Martínez**
-
 Recuerdo que hace unos años, como parte del _spot_ televisivo que promocionaba la _Mesa Redonda_, se mostraba el fragmento donde un académico cubano hacía alusión al Che cuando este decía que no se podía construir el socialismo con “las armas melladas del capitalismo”. La expresión ya estuvo de moda antes, pero como todo que se hace de dominio masivo, está a expensas de que comience a ser manipulada. Desde ese entonces la he visto ser utilizada en debates en torno  a las reformas económicas de manera reiterada.
 
 Puedo adelantar al lector que en una buena parte del uso que se le ha dado  no ha sido más que un concepto mal interpretado, sacado de contexto y usado a antojo. Por suerte eso no es nuevo. Ya hemos sido víctima de la parcialización de ideas por parte de quien conoce un poco del pensamiento de los hombres del pasado. Un lector de _La Joven Cuba_ me recordaba hace unos días, que -como Lasalle conocía de memoria _El Manifiesto Comunista_\-, manipulaba a los obreros con las ideas que le interesaban de este. Es también otro ejemplo,  cuando muchos _profesores_ de filosofía dicen que el hombre piensa como vive, obviando una parte de la idea: _y vive como piensa._\[1\]

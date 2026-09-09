@@ -1,12 +1,10 @@
 ---
 title: "La pupila y la molestia"
 date: "2020-09-01T16:00:00+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
-**Por: Miguel Alejandro Hayes**
-
 Si bien ante la ley los derechos nos deben igualar, para la subjetividad social no tiene que ser el caso. Ante ella, si de derecho se trata, no debe discriminarse, sino valorar a todos los sujetos de derecho por igual. Pero en el plano de lo moral, la jerarquización, la legitimidad, la capacidad, el desacuerdo, el pasado, lo simbólico, no lo son para todos por igual. Porque la desigualdad es también un derecho, dijo Marx. Es un derecho estudiar, por ejemplo, pero no lo es el ser premiado cuando no se cumplen las normas mínimas en dicha enseñanza. Se tiene derecho a las mismas normas, a las mismas reglas de juego, pero no al mismo resultado, aún habiéndolas cumplido.
 
 Y es que un derecho puede insertarse en lo legal, pero el resultado de su ejercicio no tiene por qué contar con legitimidad social, o generar un consenso a su alrededor, o un rechazo unánime en determinado marco. Un disco de música puede tener curso legal y no vender nada; un partido político puede fundarse (donde sea legal) y su discurso ser rechazado (sin que se niegue su derecho a existir, ajustado a determinado consenso social).

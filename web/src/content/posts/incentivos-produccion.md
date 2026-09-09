@@ -1,13 +1,11 @@
 ---
 title: "Prosperidad"
 date: "2020-07-24T20:00:00+00:00"
-author: ""
+author: "Mauricio de Miranda Parrondo"
 category: "Economía en Cuba"
 image: ""
 ---
 incentivos para producir.
-
-**Por: Mauricio de Miranda Parrondo**
 
 Cuando veo a la ministra de Comercio Interior de Cuba, Betsy Díaz, intervenir en la televisión del país para informar que durante los meses de julio y agosto, “se le dará” a la población, en edades entre 0 y 13 años y de más de 65, 1 libra de pollo adicional y a la población entre 14 y 64 años media libra de embutidos en las zonas urbanas y que para toda la población habrá 2 libras adicionales de arroz y ¡6 onzas! adicionales de frijoles “para completar 1 libra” siento pena por mi país y siento mucha, pero mucha frustración.
 

@@ -1,13 +1,11 @@
 ---
 title: "Carta abierta a los cineastas cubanos"
 date: "2019-08-02T12:58:27+00:00"
-author: ""
+author: "Enrique (Kiki) Álvarez"
 category: "Cultura"
 image: ""
 ---
 Carta a cineastas.
-
-**Por: Enrique (Kiki) Álvarez**
 
 Cineastas cubanos, anoche Amaury Pérez reiteró, profundizó y amplificó su ataque al sistema de relaciones productivas y creativas que, desde el ICAIC y bajo las disposiciones de sendos decretos leyes publicados en la Gaceta Oficial de la República de Cuba que reconocen la condición laboral del creador audiovisual como artista independiente y el derecho de esos creadores a constituir Colectivos de Creación Audiovisual, se está implementando en este momento.
 

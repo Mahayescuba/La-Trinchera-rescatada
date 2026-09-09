@@ -1,13 +1,11 @@
 ---
 title: "Mi amigo el ventilador"
 date: "2020-08-31T09:30:00+00:00"
-author: ""
+author: "Day Cordero"
 category: "Onírica"
 image: ""
 ---
 De ventiladores e intimidad. 
-
-**Por: Day Cordero**
 
 Es la primera vez que escribo sin muso.
 

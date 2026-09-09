@@ -1,7 +1,7 @@
 ---
 title: "Maceo, Martínez Campos y el Combate de Peralejo"
 date: "2019-06-03T06:13:46+00:00"
-author: ""
+author: "Norma Normand Cabrera"
 category: "Historia"
 image: ""
 ---
@@ -10,8 +10,6 @@ _Céspedes, Agramonte y Martí,_
 _Moncada, Quintín Banderas y Maceo,_  
 _y la Trocha que cruzara el fiel mambí_  
 _(Del Himno de la Juventud_ Socialista Popular)
-
-**Por: Norma Normand Cabrera**
 
 Desde hace varios días vemos con relativa frecuencia diferentes spots televisivos que utilizan, sin mencionar a su autor, la célebre frase con la que dícese que el Mayor General Antonio Maceo dio por terminada la entrevista sostenida con el General Arsenio Martínez Campos en los campos de Baraguá el 15 de marzo de 1878: _No nos entendemos_. Se da por sentado, al parecer, que la conocemos todos los cubanos. Debía ser así, en efecto, mas sabemos que no lo es. En mi opinión, corresponde dar el crédito. De paso recordaríamos al Apóstol, quien nos enseñó que honrar, honra.
 

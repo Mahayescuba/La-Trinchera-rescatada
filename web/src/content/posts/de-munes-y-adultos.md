@@ -1,13 +1,11 @@
 ---
 title: "De muñes y adultos"
 date: "2019-12-17T07:06:29+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Opinión"
 image: ""
 ---
 dibujos animados. 
-
-**Por: Sender Escobar**
 
 Parafraseando el título del libro del premio Nobel de Literatura John Steinbeck, _De ratones y Hombres_ es la historia de dos hombres: George y Lennie, que trabajan en granjas para sobrevivir durante la _Gran Depresión_. Como muchos jornaleros de esa época, los protagonistas vivían el día a día de lo poco que podían retribuir sus labores. George es un hombre serio y de gran sensibilidad que tiene a su cuidado a Lennie, un gigantón de una fuerza física increíble, pero con una percepción del mundo similar a la de un niño de ocho años y a su vez muchas veces contagia a George con esa alegría.  
 El libro concluye con la muerte de Lennie, ultimado por el propio George a raíz de que Lennie inconsciente de su fuerza física, asfixió a la hija del dueño de la granja donde laboraban y George para evitar mayores represalias contra su amigo decide él mismo matarlo cuando Lennie entretenido hablaba animadamente de espaldas a este.  

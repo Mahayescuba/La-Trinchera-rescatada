@@ -1,13 +1,12 @@
 ---
 title: "El año que finaliza"
 date: "2020-01-02T01:12:13+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
 # Una mirada a la economía cubana
 
-**Por: Jorge Fernández Era**  
 Agradezco a esta asamblea de [_Facebook_](http://facebook.com) darme la palabra para poner un granito de arena, un seboruco de pedraplén, un meteorito de Pinar en un asunto tan peliagudo como al que nos convoca el compañero Raúl: analizar el discurso del 21 de diciembre en la Asamblea Nacional del no menos compañero Díaz-Canel.  
 Hoy es 31, vísceras de año nuevo, no un año cualquiera, sino un veinte veinte que invita a mirar con luz larga al futuro, ese que llegará en el 2030 sóspero y prostenible… por ahí la cosa. Menudo dilema el de la década que se avecina: de cada diez cubanos, casi la mitad habremos arribado a la edad tercera, la de la vencida. Y lo haremos en un estado… de obreros y campesinos.  
 Sesenta y uno y palante. Son tantos los sueños… que dan sueño. Despierten con este: _El ordenamiento monetario se encuentra en fase avanzada de estudio y aprobación_. Si nos atenemos al tiempo que llevamos en _fase avanzada_, el ordenamiento-ordenanza desaprueba la lógica, amenaza una vez más con repetir el año, repasa para la revalorización de nuestro disminuido y menesteroso CUP. Y el poder adquisitivo no llega al poder. Y las fuerzas productivas no se liberan ni por la fuerza.  

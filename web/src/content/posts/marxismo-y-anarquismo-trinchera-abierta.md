@@ -1,13 +1,11 @@
 ---
 title: "Abriendo nuevas trincheras: confluencias del marxismo y el anarquismo"
 date: "2019-01-08T06:12:52+00:00"
-author: ""
+author: "Hamed Toledo"
 category: "Trinchera Abierta"
 image: ""
 ---
 confluencias entre marxismo y anarquismo.
-
-**Por: Hamed Toledo**
 
 En la tarde del 28 de agosto, nuestro Centro Social y Biblioteca Libertaria [ABRA](https://centrosocialabra.wordpress.com/), acogió en su espacio el evento Trinchera Abierta, con el sugerente tema “Confluencias del anarquismo y el marxismo”. La jornada, precedida por una abundante lluvia, se extendió por casi tres horas en las que se valoró el antiautoritarismo desde la teoría y la realidad cubana actual.
 

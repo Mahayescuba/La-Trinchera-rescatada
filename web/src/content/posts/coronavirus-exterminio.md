@@ -1,13 +1,11 @@
 ---
 title: "Exterminio"
 date: "2020-03-19T09:30:10+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Onírica"
 image: ""
 ---
 Una pequeña historia en tiempos de coronavirus.
-
-**Por: Jorge Fernández Era**
 
 En tiempos de coronavirus.  
 El vecino estremeció a todos con su falta de aire. Jóvenes, adultos y viejos se exaltaron ante la posibilidad del contagio. Uno a uno, como eco inconfundible de la enfermedad, sintieron que comenzaba a elevarse la temperatura interior. Eran síntomas de la propagación, casa por casa, de la pandemia. Las antenas transmitían la alarma. Muy tarde para huir, mucho menos con esa lentitud desesperante.  

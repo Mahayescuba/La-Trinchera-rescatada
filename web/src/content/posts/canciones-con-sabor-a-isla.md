@@ -1,13 +1,11 @@
 ---
 title: "Canciones con sabor a isla"
 date: "2021-01-26T10:30:00+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Entrevista"
 image: ""
 ---
 ## Continuaré trabajando para los que piensan con su propia cabeza
-
-**Por: Sender Escobar** 
 
 Entrevista al cantautor cubano William Vivanco
 

@@ -1,13 +1,11 @@
 ---
 title: "Sin lágrimas en los ojos"
 date: "2020-07-05T16:00:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 Solo espero que este lamentable ejemplo nos ayude a reﬂexionar como sociedad en la necesidad de hacer más eficientes las formas en que los ancianos en Cuba puedan trasladarse a un hospital.
-
-**Por: Julio Pernús**
 
 Hay historias sobre las que nunca me gustaría haber escrito, pues son imágenes tristes que me persiguen y me exigen salir en forma de artículos. Solo espero que los protagonistas de estas escenas puedan terminar de leerlas sin lágrimas en los ojos.
 

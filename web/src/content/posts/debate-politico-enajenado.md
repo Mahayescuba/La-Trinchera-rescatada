@@ -1,15 +1,13 @@
 ---
 title: "El debate enajenado"
 date: "2019-01-02T23:58:43+00:00"
-author: ""
+author: "René Portuondo"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2019/01/IMG_20190101_170326.jpg"
 ---
 dialéctica continuidad ruptura.
 
 ### A propósito del artículo “Dialéctica de continuidad y ruptura” de Yassel A. Padrón Kunakbaeva publicado en La Joven Cuba
-
-**Por: Rene Portuondo**
 
 Aunque en un primer momento solo pretendía un breve comentario a la publicación del camarada Yassel, las observaciones que tengo se convirtieron en un texto que considero oportuno publicar. Aún así, espero no perder el sentido de lo que originalmente pretendía hacer.  
 Yassel en su artículo hace referencia a dos posiciones que engloban dentro de sí las principales tendencias que contienden en el debate político sobre el desenvolvimiento futuro de nuestra nación: aquellos que defienden la continuidad del orden existente, y los que por el contrario abogan por su ruptura.  

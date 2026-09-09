@@ -1,10 +1,12 @@
 ---
 title: "Buscar la estrella"
 date: "2021-03-02T10:30:00+00:00"
-author: "Diego A. Marrero Leyva y Raymar A. Aguado Hernánde"
+author: "Diego A. Marrero Leyva"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2021/03/Takanori-Ai.jpg"
 ---
+y Raymar A. Aguado Hernández**
+
 Se habla mucho sobre la decadencia en la cual se ha visto sumida Cuba en los últimos años, dicha decadencia visible en cada una de las aristas que conforman nuestra nacionalidad. Pero al arremeter reiteradamente contra la misma, ignoramos que esta desde el inicio de nuestra formación patria, sirvió de punto de elevación para las transformaciones y revoluciones venideras dentro de la concepción de sus hacedores. Desde la constante exposición del declive solo se exacerba la desesperanza y se alimentan las sensaciones de tedio e improductividad, provocando falta de concreción y acción, cuestiones resolutivas a la problemática central. Vivimos en tiempos de ver la esperanza como impulso para la creación de una nueva conciencia social. Nuestras acciones futuras y su evidencia como bien común, determinarán el sustento para la solidificación de la espiritualidad del cubano, lo que servirá de fragua para la construcción de La Cuba Necesaria. 
 
 La tarea del cronista o expositor de realidades en el epicentro de un contexto hostil,  es de mayor valía si está sustentada en pos de la transformación del mismo. Si por el contrario, busca a través del método crítico ahondar en la herida abierta sin encaminar su sutura, solo potenciará el desapego y el rechazo a dicho contexto. El deber principal del [ser social](http://www.filosofia.org/enc/ros/ser2.htm) en crisis que aspire a un cambio proporcional a las aspiraciones colectivas, es transformarse a sí, para que, a raíz de dicha metamorfosis, logre el necesario aporte a la transformación de su medio circundante. “Preste cada hombre, sin que nadie lo regañe, el servicio que lleve en sí”1, y aflorará en esta Isla, la savia brava que nuestra historia y cultura merecen.  

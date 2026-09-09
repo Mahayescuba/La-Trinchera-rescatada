@@ -1,12 +1,10 @@
 ---
 title: "El estado cubano necesita asimilar con urgencia el activismo por los derechos de los animales"
 date: "2019-06-11T18:54:15+00:00"
-author: ""
+author: "Carlos Ávila Villamar"
 category: "Política en Cuba"
 image: ""
 ---
-**Por: Carlos Ávila Villamar**
-
 Las organizaciones de masas cubanas se encuentran en crisis. Los CDR no captan el interés de nadie menor de cuarenta años. La UJC es un nido de oportunismo, hipocresía y despilfarro. La FEU a menudo se comporta como una empresa organizadora de eventos, que pone los extras a cuanta marcha se les ocurra a los líderes de la UJC, para justificar que se está haciendo trabajo ideológico. La FMC es tan invisible e inútil como la CTC, con la peculiaridad de solo estar integrada por mujeres. El PCC se llama a sí mismo comunista, sin embargo la única base comunista que posee el noventa por ciento de sus miembros será algún manual soviético leído durante la enseñanza media hace siglos.
 
 > Los cubanos en su compleja [jerarquía](https://es.wikipedia.org/wiki/Jerarqu%C3%ADa) política _ratifican_ cosas a oyentes invisibles

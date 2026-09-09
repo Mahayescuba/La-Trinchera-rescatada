@@ -1,13 +1,11 @@
 ---
 title: "Laminarios XI"
 date: "2019-12-30T17:29:26+00:00"
-author: ""
+author: "Kmilo Noa"
 category: "Onírica"
 image: ""
 ---
 El soldado desconocido.
-
-**Por: Kmilo Noa**
 
 En la carretera  
 el soldado desconocido  

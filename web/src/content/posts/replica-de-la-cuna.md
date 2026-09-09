@@ -1,7 +1,7 @@
 ---
 title: "La nueva religión"
 date: "2019-04-11T04:35:38+00:00"
-author: ""
+author: "Alina Bárbara López Hernández"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2019/04/PicsArt_04-10-11.31.56.jpg"
 ---
@@ -16,8 +16,6 @@ No hago un ataque a la organización, sino una defensa a esta, del error que en 
 Miguel Alejandro Hayes.
 
 ### La nueva religión
-
-**Por: Alina B. López Hernández**
 
 En un [artículo](https://jovencuba.com/2018/07/09/la-otra-cara-del-verano/) anterior valoré como inoportuna la campaña publicitaria lanzada por la UJC el verano pasado, que demandaba disfrutar Cuba con alegría precisamente cuando se percibía un arreciamiento de la crisis económica. Al ver la campaña pre-congreso que concibieron para el 4 de abril pasado, mi sugerencia es que despidan al equipo de relaciones públicas de la organización.
 

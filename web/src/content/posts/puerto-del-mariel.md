@@ -1,13 +1,11 @@
 ---
 title: "En busca de una misma flor"
 date: "2020-03-15T15:28:19+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
 Van a hacer cuarenta años de los hechos del puerto del Mariel que desencadenaron una tormenta en el estrecho de la Florida.
-
-**Por: Jorge Fernández Era**
 
 Van a ser cuarenta años. El hecho que desencadenó la tormenta en el [estrecho de la Florida](https://es.wikipedia.org/wiki/Estrecho_de_Florida) ha quedado relegado al olvido. La casa donde estuvo la Embajada de Perú, la que albergó en pocos días a más de diez mil cubanos, fue borrada del mapa por _urgencias turísticas_, y al joven soldado primera víctima ya ni se le menciona.  
 Pero la historia es terca, nuestros hijos y nietos nos preguntan. Al mío tendré que contarle que el joven de 17 años que fui en abril y mayo del 80 participó como el que más en aquella histeria colectiva que nos llevó a renegar de miles de compatriotas que optaron no seguir en la pelea por una sociedad de los humildes y para los humildes.  

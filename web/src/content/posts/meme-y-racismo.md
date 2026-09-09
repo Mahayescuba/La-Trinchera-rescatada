@@ -1,7 +1,7 @@
 ---
 title: "Saber hacer memes"
 date: "2020-08-17T16:00:00+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/08/Arte-surrealista.jpg"
 ---
@@ -10,8 +10,6 @@ Meme y racismo. 
 A raíz del debate suscitado en las redes sobre el meme publicado por Ernesto Estévez Rams en su muro de Facebook, tres comentarios, tomados de los muros de sus autores.
 
 ![](/wp-content/uploads/2020/08/meme.jpg)
-
-**Por: Jorge Fernández Era**
 
 ME… ME JODÍ
 

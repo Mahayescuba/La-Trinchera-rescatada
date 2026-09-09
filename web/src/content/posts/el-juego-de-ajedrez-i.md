@@ -1,13 +1,11 @@
 ---
 title: "El Juego de ajedrez (I)"
 date: "2020-02-19T20:35:59+00:00"
-author: ""
+author: "Boris"
 category: "Política en Cuba"
 image: ""
 ---
 Ideología. 
-
-**Por: Boris**
 
 Hubiera sido una tarde cualquiera en otra pequeña ciudad de Cuba si no fuera por la escolta policial que estaba apostada en las afueras del parque; una pareja en cada esquina del lado que da a la calle principal. Lo notamos desde que dimos el rodeo pasando frente a ellos para entrar y buscar un banco con sombra. La interrogante nos mantuvo ocupados durante unos minutos hasta que con sólo virar la cara se nos presentó la respuesta: Martí con el rostro mirando en dirección al nacimiento del sol, quizás intencionalmente, reinaba sobre el panorama.  
 Para la mayoría de los cubanos los símbolos políticos pasan desapercibidos constantemente. Hemos sido bombardeados por ellos desde la infancia con el fin de adoctrinarnos. La idea de un “proyecto nacional” anclada en toda una serie de significaciones con una marcada ideologización empieza en el preescolar y todo el devenir de la vida del ciudadano cubano promedio. Una vez terminada la educación -el principal aparato ideológico del Estado- quedan toda una serie de mecanismos funcionales que atraviesan toda la sociedad cubana que van desde los más burdos hasta los más sutiles. Desde filtros laborales -que incluyen sindicatos y toda la burocracia laboral- hasta los más burdos -aparatos represivos en toda la extensión de la palabra- el Estado se erige como una gran maquinaria ideológica. Sin embargo, no evitaron el vandalismo político a los bustos de Martí. ¿Es que acaso no funcionan?  

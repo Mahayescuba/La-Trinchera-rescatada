@@ -1,7 +1,7 @@
 ---
 title: "Marx, salario y capital"
 date: "2020-04-22T09:30:59+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: ""
 ---

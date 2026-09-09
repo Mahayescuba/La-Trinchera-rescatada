@@ -1,7 +1,7 @@
 ---
 title: "Filosofía Libertad"
 date: "2019-02-20T05:54:14+00:00"
-author: ""
+author: "Javier Cortines"
 category: "Teoría"
 image: ""
 ---
@@ -10,8 +10,6 @@ _Aunque no logres realizar tus sueños, lucha a muerte por tu libertad_
 _Todo hombre es sincero a solas; en cuanto aparece una segunda persona empieza la hipocresía._
 
 R.W. Emerson
-
-**Por: Javier Cortines**
 
 Muchas personas son adoctrinadas o, lo que es peor, se autoadoctrinan injertando en su espíritu ideas ajenas a su naturaleza original. Y, tras esculpirse a sí mismas siguiendo los dictados de la “Academia” o de los profetas de una época, dejan de escuchar la voz de su “daimón”.
 

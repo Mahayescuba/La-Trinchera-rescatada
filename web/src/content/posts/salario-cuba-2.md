@@ -1,13 +1,11 @@
 ---
 title: "Salario y corona"
 date: "2019-08-09T05:12:00+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
 image: ""
 ---
 _Salario en Cuba._
-
-**Por: Miguel Alejandro Hayes**
 
 No creo que vaya a decir algo que sea nuevo. Ni siquiera que sea novedoso. Lo que aquí comunico, es muy simple…  
 …pero las ideas simples son las más difíciles de ver -justo por eso, por estar delante de tu cara todo el tiempo-. Si no se cree, pregúntesele al que gritó y que descubrió la palanca. También se le puede preguntar a Newton. ¿Todo el mundo veía las cosas ascender y descender, no? Sin embargo, tuvo que venir él a darse cuenta de lo obvio de “todo lo que sube baja”. Locke nos enseñó la importancia de esas imágenes apartamentemente poco elaboradas que produce la mente. Las imágenes simples que producen grandezas como la de la palanca o la gravedad.  

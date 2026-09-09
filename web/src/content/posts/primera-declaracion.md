@@ -1,12 +1,10 @@
 ---
 title: "Primera declaración"
 date: ""
-author: ""
+author: "Kmilo Noa"
 category: ""
 image: ""
 ---
-Por: Kmilo Noa
-
 Ni el mar existe.  
 Ni esto es una Isla.  
 Ni las estatuas  

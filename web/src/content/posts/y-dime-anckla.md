@@ -1,7 +1,7 @@
 ---
 title: "Y dime"
 date: "2019-04-10T23:28:48+00:00"
-author: ""
+author: "Anckla"
 category: "Onírica"
 image: ""
 ---
@@ -9,7 +9,6 @@ Y dime, ¿qué llegó al mercado?…
 
 Fotografía: Wendy Pérez Bereijo
 
-**Por: Anckla**  
 Y dime, ¿qué llegó al mercado? ¿Vino el pollo con hielo o sin hielo? No hay refrigeración y vino este sábado.  
 ¿Son libres las papas? ¿Ya están los huevos en la bodega? ¿De los baratos o los otros? ¿Cuándo se vence el café? ¿Por qué se vence?  
 Y dime, ¿están adelantando los mandados? ¿Por qué los mandan y a veces no llegan o se pierden? ¿Quién los pierde? ¿Cómo se pierden? ¿Las libras son de 14 onzas o no vienen completas?  

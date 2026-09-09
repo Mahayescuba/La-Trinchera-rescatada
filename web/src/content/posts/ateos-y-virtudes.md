@@ -1,13 +1,11 @@
 ---
 title: "De cómo un filósofo hugonote comprendió que los ateos pueden ser virtuosos"
 date: "2019-05-09T06:09:11+00:00"
-author: ""
+author: "Michael W Hickson"
 category: "Opinión"
 image: ""
 ---
 ateos y moral.
-
-**Por: Michael W Hickson**
 
 Por siglos en el Mundo Occidental la idea de un ateo moralmente bueno le resultaba contradictoria a la gente. La bondad moral era comprendida primariamente como resultado de tener una buena conciencia, y a su vez una buena conciencia era comprendida en términos de la Teología Cristiana. Ser una buena persona significaba escuchar y seguir intencionadamente la voz de Dios (consciencia). Mientras que un ateo, al no reconocer la voz de Dios, al estar sordo a los mandamientos morales divinos, no podía más que ser un hombre sin ley y un inmoral. Sin embargo hoy es bastante comprendido-sino completamente- que un ateo si puede ser moralmente bueno.
 

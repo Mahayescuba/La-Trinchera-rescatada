@@ -1,13 +1,11 @@
 ---
 title: "Una Rosa de luz"
 date: "2020-06-11T13:10:05+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Onírica"
 image: ""
 ---
 Salí a la calle a preguntar por ella, pero fue contraproducente: cuando les contaba a la gente que la Rosa que buscaba no era roja, ni amarilla, ni blanca, sino color luz
-
-**Por: Ernesto Gutiérrez Leyva**
 
 Apenas me levanté, sentí algo raro, solo que no sabía qué. No faltaba nada, todo estaba en el lugar que le corresponde en el desorden habitual…pero había algo diferente, sin dudas. ¿Qué podría ser? ¡Claro! Era el aire, o más bien su olor. Automáticamente fui al jardín, ¡y no estaba! La Rosa principal del jardín no estaba, y por supuesto, la falta de su perfume delataba su ausencia… ¿Habrá permutado? Me pregunté no sin cierta malicia, pero claro que no, ella jamás abandonaría su jardín.
 

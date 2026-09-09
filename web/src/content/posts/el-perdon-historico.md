@@ -1,7 +1,7 @@
 ---
 title: "El perdón histórico"
 date: "2020-03-26T19:10:26+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
@@ -14,7 +14,6 @@ Se lee rápido. Luego podemos volver al tema. Incluso puede contar conmigo para 
 
 > \*\*\*
 
-**Por: Miguel Alejandro Hayes**  
 Pedir perdón es algo que se debe aprender. Tal vez no arregla el daño, pero ayuda a aliviar el dolor. También acerca a ser perdonado, acción sin la cual es más difícil una espiritualidad satisfecha consigo misma. Y si de hechos del pasado que tocan una dimensión política se trata, no estamos ante una excepción.  
 Muchos pueblos merecen una disculpa por las atrocidades que contra ellos se cometieron; atrocidades que siempre dejan más dañados a los inocentes, que son esa yerba debajo del combate de elefantes. Luego, si el arrepentimiento devenido en acciones reparadoras no llega, contribuye a la persistencia un _dolor histórico_ que sobrevive y se manifiesta en la cultura, en la cotidianidad, incluso en la rebeldía. Como respuesta a la acumulación de estas, se han proclamado no pocas revoluciones.  
 Pero las revoluciones también cometen errores. Como toda subversión social, en ocasiones se descalibran en el acto de normalización y, en el sostener de cierta hegemonía, confunden el abuso con justicia, el ser violento con su ser revolucionario y el atropello intolerante con la transformación. Es un riesgo del que casi nunca se escapa. Por eso, en clave de una sabia enmienda, hay revoluciones que, en su reafirmación como tales, deben pedir perdón. La cubana es una de ellas.  

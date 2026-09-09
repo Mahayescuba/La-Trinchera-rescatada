@@ -1,13 +1,11 @@
 ---
 title: "¿Martiano?"
 date: "2019-01-29T05:31:27+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 #### A propósito de la Marcha de las antorchas en condiciones de un desastre natural, mi catarsis limitada.
-
-**Por: Miguel Alejandro Hayes**
 
 La Habana se estremeció. Estamos inmersos en un proceso donde los lazos humanos muestran que la cultura humanista de los cubanos no se ha perdido. Todos nos mostramos preocupados por los demás, por cómo están, cómo estuvieron, qué necesitan. Incluso, no faltó quienes llamaron a mi seguro y alto Marianao, preocupados. Siento orgullo de la cubanidad, que no le tiembla el brazo para ayudar.  
 Pero no observo la misma actitud en todos lados. Veo a la soberbia, al delirio autocrático y sus siervos, defendiendo lo indefendible.  

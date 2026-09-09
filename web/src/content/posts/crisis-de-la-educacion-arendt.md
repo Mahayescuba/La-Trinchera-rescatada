@@ -1,7 +1,7 @@
 ---
 title: "Hannah Arendt y la crisis de la educación"
 date: "2019-05-08T06:50:26+00:00"
-author: ""
+author: "Luis Roca Jusmet"
 category: "Teoría"
 image: ""
 ---
@@ -9,7 +9,6 @@ Es todo un desafío enfrentrar la crisis de la educación hoy. Para ello, vale l
 
 ##### Fotografía: Wendy Pérez Bereijo
 
-**Por: Luis Roca Jusmet**  
 Hanna Arendt tiene un interesante artículo sobre la crisis de la educación. Lo escribe en 1958, pero me parece que tiene una gran actualidad, lo cual quiere decir que nos permite pensar el presente. No quiero recetas, quiero material para pensar lo actual. Para la filósofa alemana hay tres causas que explican la crisis del sistema educativo actual (ella se refiere al de USA de su tiempo, que como sabemos se ha globalizado).  
 La primera es consecuencia de lo que ella califica como la desaparición de la autoridad en el mundo moderno. El mundo moderno no es lo mismo que la época moderna. El mundo moderno aparece, para Hanna Arendt, desde la explosión de la bomba atómica. Autoridad quiere decir reconocimiento. Los niños y los adolescentes no reconocen a los adultos como una autoridad, como alguien que está por encima de ellos porque tienen una formación y una experiencia de la que ellos carecen. Como no reconocen esta autoridad los niños y adolescentes se constituyen en un grupo con su propia dinámica y sus propios líderes y opiniones. Esto lleva, dice, a la tiranía de la mayoría. No hay criterio, solo hay opiniones, sin argumentación. Y tiene más fuerza el que tiene la mayoría, aunque no tenga razones.
 

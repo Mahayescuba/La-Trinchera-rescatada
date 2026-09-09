@@ -1,12 +1,10 @@
 ---
 title: "Neológicamente incorrecto"
 date: ""
-author: ""
+author: "Sender Escobar"
 category: ""
 image: ""
 ---
-Por: Sender Escobar
-
 En cierta querella verbal  
 de las que tanto disfruto,  
 al inquirirme en comentarios  

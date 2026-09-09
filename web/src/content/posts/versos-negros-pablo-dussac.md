@@ -1,13 +1,11 @@
 ---
 title: "Versos negros"
 date: "2019-03-14T05:13:12+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---
 versos negros. 
-
-**Por: Pablo Dussac**
 
 Provengo de ese color,  
 Que como raíz en tierra,  

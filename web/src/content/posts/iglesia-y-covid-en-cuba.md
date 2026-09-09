@@ -1,13 +1,14 @@
 ---
 title: "La Iglesia que no podemos ser"
 date: "2020-03-23T23:43:30+00:00"
-author: "Primera Vez en su Historia, la Iglesia Católica en"
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
+Por Primera Vez en su Historia, la Iglesia Católica en Cuba y sus obispos tienen la disyuntiva de cerrar o no los templos a causa del COVID 19.
+
 > \*\*\*
 
-**Por: Julio Pernús**  
 Días atrás un obispo me dio una sugerencia sobre un audio mío que saldría en unas horas; en realidad, su conversación terminó con una frase que me conmovió mucho: “cuídate mucho, Julito, y cuida de tu abuela, por favor.” En medio de cierta expectativa en torno a cuán al tanto están nuestros pastores del peligro que corre su pueblo, este hombre, también mayor y expuesto al contagio, se preocupaba por un laico a miles de km de su casa. Hoy, esta pandemia global no puede convertir a nuestra Iglesia en una ONG encerrada en su propia autorreferencialidad, pues solo podremos salir vivos si apelamos al trabajo en conjunto entre todos los actores sociales de nuestra Cuba. Nuestra fe debe movernos, como Pueblo de Dios -marcado por decretos eclesiales nunca antes vistos-, a asumir responsabilidades salvadoras con respecto a un entorno donde abunda muchas veces la insolidaridad y que nos pide tomar decisiones valientes.  
 A mi papá le gusta mucho una frase ignaciana que al buscar su texto original dice así: “Actúa como si todo dependiera de ti, confía como si todo dependiera de Dios” Nosotros no podemos ser la Iglesia que se queda petrificada en espera de que solo Dios lo haga todo, pues la confianza en Él y la acción se influyen recíprocamente y para nadie es un secreto que esa acción nos debe llevar a vivir en las fronteras como hizo Jesús, sabiendo que muchas veces nuestros actos nos pondrán como seres humanos en una infaltable fatiga exterior, en pos de tomar decisiones duras, como las del ayuno sacramental, planteado por el P. David Pantaleón, superior de los jesuitas en Cuba, para salvar al prójimo. Pero con cada paso a dar, estaremos a un paso de trasformar esa fe inquebrantable en un amor sin límites por la vida de aquella abuela que ocupa el primer banco desde hace muchos años.  
 Ser una Iglesia encarnada, solidaria y unida ha sido parte de nuestra historia eclesial. En medio de tanta liquidez global, no podemos ser un eslabón soluble, dentro de un entorno dramático que parece evaporarse por segundos. Después que salga la declaración de nuestros obispos y sea replicada por los medios de comunicación, debemos continuar con esos procesos encarnados que han llevado a movilizarnos en función de causas humanitarias como el cierre de nuestras fronteras. En realidad, es más fácil escribir sobre una decisión a tomar por nuestros obispos que ponerse en su posición, pues este último domingo he visto a una señora de 90 años de una comunidad parroquial llorar al oír que el sacerdote anunciaba el receso de la eucaristía semanal.  

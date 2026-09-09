@@ -1,13 +1,11 @@
 ---
 title: "Es necesaria la memoria histórica"
 date: "2020-03-17T05:20:12+00:00"
-author: ""
+author: "Mauricio de Miranda Parrondo"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/03/PicsArt_03-17-01.13.18.jpg"
 ---
 # A propósito de _Sueños al Pairo_
-
-**Por: Mauricio de Miranda** **Parrondo**
 
 El documental de los jóvenes realizadores José Luis Aparicio y Fernando Fraguela nos devolvió la figura de Mike Porcel a quienes por una u otra razón le habíamos perdido la _pista_.
 

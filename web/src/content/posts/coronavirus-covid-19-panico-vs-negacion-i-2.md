@@ -1,15 +1,13 @@
 ---
 title: "Coronavirus (COVID-19): pánico vs negación (II)"
 date: "2020-03-18T09:30:01+00:00"
-author: ""
+author: "Danilo Euser"
 category: "Opinión"
 image: ""
 ---
 Las medidas mencionadas anteriormente han demostrado ser las más eficaces para prevenir/reducir el contagio de coronavirus.
 
 # Perspectivas, realidades y consejos útiles
-
-**Por: Danilo Euser**
 
 ## Consejos útiles para prevenir/mitigar el contagio
 

@@ -1,13 +1,11 @@
 ---
 title: "Polychinela"
 date: "2019-03-17T05:32:45+00:00"
-author: ""
+author: "Anckla"
 category: "Onírica"
 image: ""
 ---
 Títere. 
-
-**Por: Anckla**
 
 Polychinela Rata tata , bajando la calle. De azul el traje. De negro las botas. Rata tata suenan entre los baches. La noche lo envuelve y el hambre lo aplaude.  
 La chica en vestido y ya el [_yuma_](https://es.wikipedia.org/wiki/Yanqui) le pagó. Recoge su parte, y a la estación. Títere sin hilos Polychinela.  

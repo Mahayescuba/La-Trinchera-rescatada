@@ -1,13 +1,11 @@
 ---
 title: "La Red Avispa y la antinomia iglesia católica y revolución"
 date: "2019-12-16T17:22:01+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Festival de cine de La Habana"
 image: ""
 ---
 Cinco héroes.
-
-**Por: Julio Pernús**
 
 En realidad, puede que este artículo solo sea la queja de un comunicador católico en medio de un cine Yara repleto para ver la historia “_real”_ de los cinco héroes. Real entre comillas, porque como se ha dicho incluso en el artículo que analiza la película en el periódico Granma, de Rolando Pérez Betancourt, _en toda obra basada en la realidad hay una selección de acontecimientos y personajes, junto a licencias artísticas puestas en función de una dramaturgia y simplificación del argumento._ Una corriente relativista de análisis del asunto, diría la editora Alina B. Hernández.  
 La película tiene la connotación de traer un tema sumamente misterioso al mundo del cine y, desde mi asiento de espectador, considero que lo hace con una visión bastante “neutral”; algo así, como si el director francés, Olivier Asayas, intentara no chocar con nadie, aunque al final su obra terminará siendo juzgada e inquicisionada de mil maneras.  

@@ -1,13 +1,11 @@
 ---
 title: "De copas y calendarios"
 date: "2020-07-22T00:00:00+00:00"
-author: ""
+author: "Ana Barnes"
 category: "Cultura"
 image: ""
 ---
 copa mundial de futbol.
-
-**Por: Ana Barnes** 
 
 La FIFA ya comunicó el calendario de la Copa Mundial de Qatar, que no se parecerá a ninguna otra. Sucederá durante el invierno, del 21 de noviembre al 18 de diciembre, lo cual ya es bastante original pero comprensible, teniendo en cuenta el rudo e inapropiado clima de la región para un evento de esta índole. Se inaugurará en el Al Bayt Stadium, de Al Khor City. La fase de grupos durará solo once días, y esto la hace una de las más apretadas de la historia de las Copas. La competencia, para completar la diferencia, comenzará un lunes.
 

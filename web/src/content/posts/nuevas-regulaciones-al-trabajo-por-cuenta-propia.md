@@ -1,13 +1,11 @@
 ---
 title: "La tortuga, la liebre y las regulaciones del 7 de diciembre"
 date: "2018-12-07T16:35:15+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
 image: "/wp-content/uploads/2018/12/descarga-5.jpeg"
 ---
 Un breve texto para reflexionar sobre las regulaciones al trabajo por cuenta propia en Cuba.
-
-**Por: Miguel Alejandro Hayes**
 
 La [liebre](https://www.guiainfantil.com/1374/fabulas-para-ninos-la-liebre-y-la-tortuga.html) era mucho más fuerte que la tortuga, por eso le daba ventaja en la carrera. La liebre esperaba en su descanso a que la tortuga lo estuviera alcanzando para volver a correr y sacarle ventaja, nuevamente.
 

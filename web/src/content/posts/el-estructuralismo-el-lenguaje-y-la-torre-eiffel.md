@@ -1,13 +1,11 @@
 ---
 title: "El estructuralismo, el lenguaje y la torre Eiffel"
 date: "2018-12-04T12:15:17+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Teoría"
 image: ""
 ---
 Sobre el lenguaje de la ciencia.
-
-**Por: Miguel Alejandro Hayes Martínez**
 
 Entre las principales figuras del estructuralismo están Louis Althusser, Jacques Lacan y Claude Lévi-Strauss. Todos ellos eran franceses. Eso me conduce a una reflexión.
 

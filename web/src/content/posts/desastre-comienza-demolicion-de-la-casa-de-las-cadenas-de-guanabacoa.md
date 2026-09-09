@@ -1,13 +1,11 @@
 ---
 title: "Desastre: Comienza demolición de la Casa de las Cadenas de Guanabacoa"
 date: "2018-03-17T15:16:20+00:00"
-author: ""
+author: "Fernando Almeyda Rodríguez"
 category: "Noticias"
 image: ""
 ---
 # **La Trinchera se suma a causas sociales**
-
-Por: **Fernando Almeyda Rodríguez**
 
 Este 19 de ha comenzado a ejecutarse un sacrilegio contra la historia y la cultura nacional. Una brigada de demolición está tirando abajo las deterioradas y desfallecidas paredes de la célebre y no por eso suficientemente respetada, Casa de las Cadenas de Guanabacoa.
 

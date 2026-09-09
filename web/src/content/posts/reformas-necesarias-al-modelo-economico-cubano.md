@@ -1,12 +1,10 @@
 ---
 title: "Cambiar la montaña y el mar"
 date: ""
-author: ""
+author: "Mario Valdés Navia"
 category: ""
 image: ""
 ---
-Por: Mario Valdés Navia
-
 Las filosofías orientales –de los países del Oriente, quiero decir− ayudan a comprender mejor algunos aspectos de la realidad que se tornan complicados si insistimos en analizarlos con enfoques meramente caribeños. Tal es el caso de los avatares cubanos actuales cuando los enfocamos a la luz del principio de La montaña y el mar, del famoso samurai Miyamoto Musashi, uno de los padres del Bushido −el Camino del Guerrero−, expuesto en su texto clásico El Libro de los Cinco Anillos, o Manuscrito del Fuego, de 1672.
 
 Montaña y mar significa que es perjudicial hacer lo mismo una y otra vez. Puedes repetir algo una vez, pero no una tercera. Según Musashi, cuando intentas lograr algo ante un adversario, si no funciona la primera vez, no obtendrás ningún beneficio apresurándote en hacerlo de nuevo. Él recomienda cambiar abruptamente la táctica, haciendo algo completamente diferente. La ciencia del arte de la guerra implica educar a la mente y el cuerpo para: actuar como el mar, cuando el enemigo es como una montaña, y actuar como una montaña, cuando el enemigo es como un mar.

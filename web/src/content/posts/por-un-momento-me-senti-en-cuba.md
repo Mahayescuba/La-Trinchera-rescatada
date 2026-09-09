@@ -1,13 +1,11 @@
 ---
 title: "Por un momento me sentí en Cuba"
 date: "2019-10-27T01:22:32+00:00"
-author: ""
+author: "Annarella Grimal"
 category: "Política"
 image: ""
 ---
 emigración cubana.
-
-**Por: Annarella Grimal**
 
 \-Hola. Vi tu post sobre Canel. Parece que finalmente se va a reunir con algunas personas.  
 \-Hola (…) Voy camino a Dublín. No se si llegue a tiempo. Esta mañana me llamaron de la embajada (…) Y salí de mi trabajo, recogí a la niña en la escuela, y creo que se me va a ir el tren de la 1:00 \[pm\]. Yo vivo a 5 horas.  

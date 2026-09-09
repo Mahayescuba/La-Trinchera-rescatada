@@ -1,13 +1,11 @@
 ---
 title: "La Propiedad en la Nueva Constitución Cubana"
 date: "2018-08-20T13:57:46+00:00"
-author: ""
+author: "René Portuondo"
 category: "Política en Cuba"
 image: ""
 ---
 La propiedad privada en Cuba.
-
-**Por: René Portuondo**
 
 Las variaciones al acápite de la propiedad en el anteproyecto de constitución resultan unas de las más conocidas y debatida por la población. Aun así y aunque en líneas generales todo parece bastante claro, en el artículo 21) que contiene dichas modificaciones, existen algunos detalles que meresultan inquietantes y me gustaría resaltar.
 

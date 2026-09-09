@@ -1,15 +1,13 @@
 ---
 title: "Silencio"
 date: "2020-06-28T00:42:56+00:00"
-author: ""
+author: "Maikel Pons Giralt"
 category: "Política en Cuba"
 image: ""
 ---
 muere joven cubano en Guanabacoa… La Trinchera comparte un texto a propósito.
 
 Que la muerte de un policía sea noticia y motivo de consternación o de alegría épica y la muerte a tiros por un policía de una persona “armada” con piedras sea objeto de silencio, justificación o proselitismo político, cuando menos me produce vergüenza y preocupación…
-
-**Por : Maikel Pons Giralt**
 
 ## Quiero indignarme sin perder la ternura
 

@@ -1,7 +1,7 @@
 ---
 title: "La raíz va siempre por dentro"
 date: "2020-12-07T17:00:29+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Entrevista"
 image: ""
 ---

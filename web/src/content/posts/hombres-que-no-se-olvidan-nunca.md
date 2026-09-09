@@ -1,13 +1,11 @@
 ---
 title: "Hombres que no se olvidan nunca"
 date: "2018-08-13T16:15:06+00:00"
-author: ""
+author: "René Portuondo"
 category: "Opinión"
 image: ""
 ---
 En Cuba no pasa por alto el natalicio de Fidel Castro, comandante de la revolución cubana.
-
-Por: René Portuondo
 
 **Fragmentos de las palabras pronunciadas por el autor en la actividad organizada en su comunidad en honor al natalicio de Fidel Castro, el domingo 12 de agosto del 2018.**
 

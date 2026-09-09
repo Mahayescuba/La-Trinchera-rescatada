@@ -1,7 +1,7 @@
 ---
 title: "Confío más en otros"
 date: "2021-02-26T17:00:00+00:00"
-author: "Carlos Avila Villamar"
+author: "Carlos Ávila Villamar"
 category: "Política en Cuba"
 image: ""
 ---

@@ -1,13 +1,11 @@
 ---
 title: "Carta abierta a la UNEAC, Díaz-Canel y a quien pueda interesar"
 date: "2020-08-14T09:30:49+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
 expulsión UNEAC Pedro Junco. 
-
-**Por: Jorge Fernández Era**
 
 En días pasados conocí a través de las redes la expulsión de las filas de la Unión de Escritores y Artistas de Cuba del escritor camagüeyano Pedro Armando Junco López, un creador de sostenida obra, ganador de múltiples reconocimientos literarios. La causa: una carta abierta al presidente de Cuba donde cuestiona las recientes medidas económicas tomadas por el Gobierno. Dicha carta, según los funcionarios que le notificaron la separación definitiva, actúa «en franca contradicción con los principios, estatutos y reglamentos de la Uneac».
 

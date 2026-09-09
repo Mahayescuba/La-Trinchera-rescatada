@@ -1,7 +1,7 @@
 ---
 title: "La ciencia enajenada"
 date: "2018-07-04T12:22:22+00:00"
-author: "Miguel Alejandro Hayes Martinez"
+author: "Miguel Alejandro Hayes"
 category: "Marxismo"
 image: ""
 ---

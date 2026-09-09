@@ -1,12 +1,10 @@
 ---
 title: "'Agricultura en Cuba: génesis'"
 date: ""
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: ""
 image: ""
 ---
-Por: Ernesto Gutiérrez Leyva
-
 sector agropecuario en Cuba.
 
 En los tiempos concurrentes, temáticas como la producción nacional de croquetas, o el uso de los intestinos de las gallinas decrépitas, copan el escenario noticioso nacional. La cuestión sería risible si no se diera en un contexto tan funesto, en el que las colas por acceder a algún que otro alimento abarcan varias cuadras. La familia cubana promedio se encuentra inquieta ante el hecho de que nociones como el derecho a la alimentación, o la soberanía alimentaria, no son más que eslóganes que solo se realizan en los reportajes del noticiero.

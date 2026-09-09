@@ -1,13 +1,11 @@
 ---
 title: "La marcha del poema combatiente"
 date: "2019-08-27T03:42:11+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---
 marcha del poema combatiente.
-
-**Por: Pablo Dussac**
 
 La libertad se defiende a estrofas sin métrica,  
 Contra la crítica, intención sin estésica.

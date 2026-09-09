@@ -1,13 +1,11 @@
 ---
 title: "A 145 años de una tragedia"
 date: "2019-05-06T15:31:46+00:00"
-author: ""
+author: "Norma Normand Cabrera"
 category: "Historia"
 image: "/wp-content/uploads/2019/05/Conexion-Cubana-La-bandera-cubana.jpeg"
 ---
 La desaparición física de Carlos Manuel de Céspedes marcó el inicio del declive de la Guerra Grande.
-
-**Por: Norma Normand Cabrera**
 
 Por estos días en que conmemoramos el bicentenario del nacimiento de Carlos Manuel de Céspedes del Castillo evocamos con pesar su inútil muerte, ocurrida el 27 de febrero de 1874.
 

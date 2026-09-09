@@ -1,13 +1,11 @@
 ---
 title: "¿Crear más ricos?"
 date: "2020-08-19T16:00:00+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
 image: "/wp-content/uploads/2020/08/Sebastian-Freitag.jpg"
 ---
 _Lo que conduce a una interrogante, ¿de qué sirve ese mercado mayorista en Cuba, si su presencia puede aumentar el desabastecimiento?_
-
-**Por: Miguel Alejandro Hayes**
 
 La llamada _actualización del modelo económico_ cubano trajo consigo la apertura a nuevas formas de propiedad, de las que destaca la privada. Esta, que nace en un rudimentario marco regulatorio, trae algunos reclamos para su mejoramiento. De ellos, uno de los más conocidos es el de la creación de un mercado mayorista, donde se puedan adquirir insumos a un menor precio.  
 Cabe destacar que la cuestión no radica en la existencia de un espacio físico-geográfico que brinde estas facilidades. Es decir, este mercado no es un lugar, sino que se refiere a las relaciones -y sus características- de intercambio, en la cual los privados compren lo necesario para su proceso productivo a menor cuantía. Por eso, la cuestión esencial es la de los precios y las cantidades de esas compras.  

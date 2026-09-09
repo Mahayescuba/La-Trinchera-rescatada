@@ -1,11 +1,10 @@
 ---
 title: "No one meets someone"
 date: ""
-author: ""
+author: "Blue Day"
 category: ""
 image: ""
 ---
-Por: Blue Day  
 Si esto es una película and I have to pretend, I don´t wanna be me, at all. I wanna be Natalie Portman thinking at the shore…buen trasero, rostro dulce, sex appeal de diosa de juventud, rock star para pedófilos reprimidos, ¿Great hair?. Porque, nadie es tan tonto como para hacer de sí mismo en una historia.
 
 Cuando nací me pusieron dos nombres, el primero por una telenovela y el segundo aparentemente me convertiría en deidad. Santa de los Santos Santísimos. Patrona de pescadores. Creo que todas las madres se suponen Virgen María dando a luz en algún Policlínico Jesuita.  

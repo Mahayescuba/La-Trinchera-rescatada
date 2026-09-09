@@ -1,15 +1,13 @@
 ---
 title: "Las grandes ligas"
 date: "2020-01-02T06:51:58+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 2020 economía.
 
 #### ¿Qué le depara el 2020 a Cuba?
-
-**Por: Julio Pernús**
 
 Hoy aprovecho este artículo para conversar sobre nuestra realidad social con tres jóvenes a quienes calificamos como _jugadores de Grandes Ligas_: **Eloy Viera**, abogado y columnista de [El Toque](http://eltoque.com), que acompañó con acierto lo relacionado con el referéndum constitucional; **Johan Moya**, licenciado en teología y miembro del Consejo de Redacción de Espacio Laical, de los primeros en anunciar el auge del fundamentalismo religioso en Cuba; y **Ángel Marcelo**, coordinador de InCuba Empresa, del Centro Loyola-Reina, y analista económico, quien vaticinó la crisis coyuntural de octubre. A ellos les lanzamos esta recta de 90 millas, ¿qué le depara el 2020 a Cuba?
 

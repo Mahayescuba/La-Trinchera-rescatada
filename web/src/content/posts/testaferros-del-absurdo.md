@@ -1,13 +1,11 @@
 ---
 title: "Testaferros de lo absurdo"
 date: "2019-08-15T15:20:59+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---
 Absurdo.
-
-**Por: Pablo Dussac**
 
 Quienes gritan que son el todo,  
 el poema definitivo,  

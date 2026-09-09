@@ -1,13 +1,11 @@
 ---
 title: "Comentarios a la Constitución ¿socialista? I"
 date: "2019-02-08T07:29:01+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
 image: ""
 ---
 constitución socialista.
-
-**Por: Ernesto Gutiérrez Leyva**
 
 El venidero 24 de febrero los cubanos estamos convocados a las urnas, a fin de pronunciarnos sobre el proyecto de Constitución, cuyo proceso de elaboración ha monopolizado la atención naciona, y seguramente ha ocupado un puesto envidiable en el mundo mediático extranjero.
 

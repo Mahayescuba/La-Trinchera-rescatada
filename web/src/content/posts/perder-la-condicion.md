@@ -1,15 +1,13 @@
 ---
 title: "Perder la condición"
 date: "2019-10-07T01:22:16+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Avión de Barbados. 
 
 _A los que estaban, a los pudieron estar, a los que lloraron por los que estuvieron, a todos los cubanos_.
-
-**Por: Miguel Alejandro Hayes**
 
 Trato de rechazar cualquier intento de segregar lo que llamamos _cubano_ y que cada cual lo siente a su modo. De ahí que no me guste usar la palabra exilio. Pero no se puede negar que lo hubo -y que lo hay.  
 No me refiero aquí a una condición legal, tema que conduce a los _vericuetos_ del derecho, y que a los expertos compete. Hablo de una cualidad espiritual, sentimental, relativo al hombre que se siente y actúa como tal: que se exilia de su condición de cubano.  

@@ -1,13 +1,11 @@
 ---
 title: "Amar la literatura y apostar por los jóvenes"
 date: "2019-03-01T08:41:55+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Entrevista"
 image: ""
 ---
 ### Entrevista a Eduardo Heras León
-
-**Por: Sender Escobar**
 
 > “Mantenerme en lo de siempre, amar la literatura y apostar por los jóvenes.”
 

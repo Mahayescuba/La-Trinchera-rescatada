@@ -1,13 +1,11 @@
 ---
 title: "Tampoco es un buen circo"
 date: "2020-01-12T05:16:06+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 clandestinos.
-
-**Por: Miguel Alejandro Hayes**
 
 En 1953, un grupo de jóvenes que en su mayoría venían de la juventud ortodoxa asaltaron dos cuarteles. Esos muchachos estaban locos _pa´l carajo_. Había que estar loco o tener par de _cojones_ para asaltarle el segundo cuartel más importante a una dictadura en pleno carnaval (torpeza de los entusiastas asaltantes, por cierto).  
 Y aquello era luchar, porque cuando se lucha de verdad, se está dispuesto a dar la vida. No es muela, no. El que está _obstinao_ a más no poder sí que sabe lo que es eso: siente no que existe más camino.  

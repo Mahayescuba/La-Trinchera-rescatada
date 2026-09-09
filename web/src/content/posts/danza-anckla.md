@@ -1,13 +1,11 @@
 ---
 title: "Danza"
 date: "2019-10-15T15:34:34+00:00"
-author: ""
+author: "Anckla"
 category: "Onírica"
 image: ""
 ---
 Danza. danza. 
-
-**Por: Anckla**
 
 Sin lunas, ni estrellas, ni luz.  
 Él se aleja.  

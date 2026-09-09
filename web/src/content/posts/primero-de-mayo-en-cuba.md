@@ -1,7 +1,7 @@
 ---
 title: "Las razones del primero de mayo"
 date: "2018-05-03T23:44:14+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: "/wp-content/uploads/2018/05/trabajadores-salud-desfile-1ro-mayo-foto-omara-garcia.jpg"
 ---

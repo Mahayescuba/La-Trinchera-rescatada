@@ -1,13 +1,11 @@
 ---
 title: "Los mártires de Chicago"
 date: "2019-05-01T17:17:09+00:00"
-author: ""
+author: "José Martí"
 category: "Historia"
 image: ""
 ---
 Ya, en danza horrible, murieron dando vueltas en el aire, embutidos en sayones blancos. Esos, eran los Mártires de Chicago.
-
-**Por: José Martí**
 
 (Un fragmento)
 

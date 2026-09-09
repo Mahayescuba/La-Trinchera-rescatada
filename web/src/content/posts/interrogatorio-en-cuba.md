@@ -1,7 +1,7 @@
 ---
 title: "En medio de la oscuridad"
 date: "2021-11-01T20:15:30+00:00"
-author: ": Julio Pernús"
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---

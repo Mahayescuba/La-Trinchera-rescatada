@@ -1,7 +1,7 @@
 ---
 title: "El otro país"
 date: "2020-05-17T04:05:40+00:00"
-author: ""
+author: "René Fidel González García"
 category: "Política en Cuba"
 image: ""
 ---

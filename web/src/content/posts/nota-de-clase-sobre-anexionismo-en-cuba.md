@@ -1,13 +1,11 @@
 ---
 title: "Nota de clase: sobre el anexionismo, los anexionistas y los ciudadanos en Cuba"
 date: "2020-04-09T16:13:08+00:00"
-author: ""
+author: "René Fidel González García"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/04/IMG_20200409_120057.jpg"
 ---
 El anexionismo en Cuba como opción política autóctona, fue absolutamente derrotado después de la segunda mitad del siglo XIX
-
-**Por: René Fidel González García**
 
 1\. El anexionismo, como opción política autóctona, fue absolutamente derrotado en Cuba después de la segunda mitad del siglo XIX por el pensamiento, la propuesta de democracia, de derechos y libertades, por la acción insurreccional del republicanismo independentista cubano.
 

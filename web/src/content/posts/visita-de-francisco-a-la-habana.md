@@ -1,13 +1,11 @@
 ---
 title: "Una Cruz, un Papa, unos jóvenes"
 date: "2020-09-23T01:50:53+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 ## A 5 años de la visita del Papa Francisco a nuestro país
-
-**Por: Julio Pernús**
 
 En la vida hay momentos que te marcan. En 5 años pasan tantas cosas y la memoria selectiva se va desprendiendo de recuerdos, aunque al menos estos se anidaron para siempre en mi corazón.
 

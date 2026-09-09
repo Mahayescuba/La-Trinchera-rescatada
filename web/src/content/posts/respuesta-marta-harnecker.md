@@ -1,13 +1,11 @@
 ---
 title: "Espero respuesta pronto de Marta"
 date: "2019-06-29T19:24:03+00:00"
-author: ""
+author: "Randy Perdomo García"
 category: "Onírica"
 image: ""
 ---
 Marta Harnecker respuesta.
-
-**Por: Randy Perdomo García**
 
 La noticia es incierta. ¡Cómo no volver a esperar un mensaje suyo! Quizás pudieras discrepar, no aceptar, buscar la alerta o la pregunta tarde. ¡Es incierta! Nunca dijo que se despedía. Al volver, conversaremos, definimos.  
 La sala blanca, paredes tejiendo el silencio de una voz inteligente, platos de berenjena servidos. Imitar la buena cocina. Repasar la vista a los libros diversos en sujetados estantes blancos, la noche oscura de La Habana en cristales limpios.  

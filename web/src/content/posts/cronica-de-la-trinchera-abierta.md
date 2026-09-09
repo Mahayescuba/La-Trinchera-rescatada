@@ -1,7 +1,7 @@
 ---
 title: "Crónica de la Trinchera Abierta"
 date: "2018-07-03T12:18:22+00:00"
-author: "Marcos Paz Sablon"
+author: "Marcos Paz Sablón"
 category: "Trinchera Abierta"
 image: ""
 ---

@@ -1,13 +1,11 @@
 ---
 title: "Color"
 date: "2019-03-10T01:30:24+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: ""
 ---
 Color político.
-
-**Por: Miguel Alejandro Hayes**
 
 Soy crítico con la gestión del gobierno, sí. Y a veces, hasta me dicen que mucho. Pero soy rojo. Rojo rojo requeterrojo. Y le llamo _camarada_ a muchos como muestra de aprecio.  
 Soy rojo por las cosas en las que creo, que no tienen que ser fijas precisamente, sino más bien asociadas a la justicia y a las pulsiones de bien del ser humano. Desde ahí, veo más rojos de los que creen serlo, y menos de los que lo dicen.  

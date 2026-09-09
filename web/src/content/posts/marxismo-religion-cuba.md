@@ -1,15 +1,13 @@
 ---
 title: "Marx y la Religión"
 date: "2019-05-25T06:06:23+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Marxismo en Cuba"
 image: ""
 ---
 Marxismo y religión.
 
 ##### Fotografía: Yolo
-
-**Por: Julio Pernús**
 
 No me considero un estudioso de la obra de Marx, aunque como todo universitario cubano, el estudio de su pensamiento me fue exigido para poder aprobar mi plan de graduación.
 

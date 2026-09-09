@@ -1,13 +1,11 @@
 ---
 title: "Nuestras madres"
 date: "2019-12-13T16:39:11+00:00"
-author: ""
+author: "Alberto Miguel de la Paz Suárez"
 category: "Festival de cine de La Habana"
 image: ""
 ---
 maternidad.
-
-**Por: Alberto Miguel de la Paz Suárez**
 
 Ante la cámara muestran en su rostro el maquillaje del tiempo, de la fuerza descomunal que les imprime el acto de la maternidad y hablan de su hastío, rebeladas contra el estado de las cosas que les arrebata el mejor de los tesoros que les es dado: los hijos.  
 Cualquiera de ellas podría ser el personaje que inspirara a Bretch para _[Madre Coraje](https://es.m.wikipedia.org/wiki/Madre_Coraje_y_sus_hijos)_, con la salvedad de que estas no viven del engendro que es la guerra.

@@ -1,13 +1,11 @@
 ---
 title: "Unas notas rápidas en medio del debate político"
 date: "2019-02-22T18:54:55+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Revolución.
-
-**Por: Miguel Alejandro Hayes**
 
 Leí un debate en las redes sociales y decidí sumarme. Pero como mis líneas excedían las dimensiones permitidas en las casillas para comentar, aquí las comparto.
 

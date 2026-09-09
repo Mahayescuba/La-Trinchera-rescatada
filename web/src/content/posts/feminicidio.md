@@ -1,13 +1,11 @@
 ---
 title: "¿Feminicidio?"
 date: "2020-05-31T03:23:07+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Política"
 image: ""
 ---
 ¿se justifica la existencia en algunos países de la figura penal del feminicidio?
-
-**Por: Ernesto Gutiérrez Leyva**
 
 En un contexto en que el discurso feminista ha alcanzado posiciones mediática y culturalmente hegemónicas, se alza una voz que con razón o razones desafía los cánones que ya empiezan a asentarse en el imaginario popular occidental. ¿Son las mujeres más victimizadas que los hombres? ¿Nos hemos olvidado del género masculino acaso?¿se justifica la existencia en algunos países de la figura penal del feminicidio? Son estas algunas de las espinosas interrogantes que se ventilan en este relativamente breve pero interesante material que [_La Trinchera_](../index.html) pone a su disposición.
 

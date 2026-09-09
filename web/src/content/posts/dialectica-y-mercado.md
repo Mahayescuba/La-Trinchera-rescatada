@@ -1,13 +1,11 @@
 ---
 title: "Dialéctica y mercado"
 date: "2018-12-08T17:05:08+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo"
 image: ""
 ---
 dialéctica y mercado.
-
-**Por: Miguel Alejandro Hayes Martínez**
 
 Los marxistas, los que lo somos, lo sentimos o aspiramos a serlo, debemos cuidar muy bien de seguir “la línea” (1) de un pensar dialéctico. Como parte de ese intento, hay que continuar con el espíritu del sospechar, del poner todo en tela de juicio (2).
 

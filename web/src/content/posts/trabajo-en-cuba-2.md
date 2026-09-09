@@ -1,13 +1,11 @@
 ---
 title: "Hay que despertar"
 date: "2020-10-14T15:09:02+00:00"
-author: ""
+author: "René Fidel González García"
 category: "Política en Cuba"
 image: ""
 ---
 trabajo en Cuba.
-
-**Por: René Fidel González García**
 
 [También puede interesar](/politica-en-cuba/)trabajo en
 

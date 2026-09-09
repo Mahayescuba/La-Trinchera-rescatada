@@ -1,13 +1,11 @@
 ---
 title: "La corrupción y algunas de sus aristas (I)"
 date: "2018-07-02T12:00:31+00:00"
-author: ""
+author: "René Portuondo"
 category: "Economía en Cuba"
 image: ""
 ---
 Corrupción en Cuba.
-
-**Por: René Portuondo**
 
 Es difícil hablar de [corrupción en Cuba](https://jovencuba.com/2018/05/23/hablar-de-corrupcion/), pues casi todos los cubanos hemos tenido-o tenemos- alguna necesidad que se ha visto resuelta en el mercado negro. Este, como todos saben -aunque a veces lo ignoren- se nutre de las  desviaciones que ocurren de recursos del sector estatal. Estas, muchas veces no solo nutren el inmenso mercado paralelo de medios de consumo, sino también muchos de los insumos de las actividades del sector cuentapropista-o privado- por brindar mejores precios.
 

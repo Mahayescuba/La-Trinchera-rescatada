@@ -1,13 +1,11 @@
 ---
 title: "Sobre el intento de asesinato de Marx"
 date: "2018-05-24T12:15:23+00:00"
-author: ""
+author: "Terence Renaud"
 category: "Marxismo"
 image: ""
 ---
 Reseña _Karl Marx. Ilusión y grandeza_, de Gareth Stedman Jones
-
-Por: **Terence Renaud**
 
 **Hinchables Marx**
 

@@ -1,13 +1,12 @@
 ---
 title: "Héroes del 6 de enero"
 date: "2020-01-06T19:02:40+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 #### A propósito del Día de los Reyes Magos
 
-**Por: Julio Pernús**  
 Durante mucho tiempo he pensado que la pobreza me persigue, pero como me dijo una persona a la que siempre querré mucho, a veces soy injusto y quejoso con la vida.
 
 Todavía mi papá me recuerda lo mucho que disfrutamos caminando los 3 km de nuestra casa a la escuela. Vivir en Junco Sur, un reparto de Cienfuegos, significaba en la década del noventa y quizás en esta también, ver las guaguas como un cuento de hadas. Le agradezco pocas cosas al _periodo especial_, pero me dio la oportunidad de poder escribir este artículo dando gracias a mis padres y a tantas personas en Cuba que inventaron de todo para que los niños de esos tiempos no sintiéramos el peso de la miseria en sus juguetes y estómagos.  

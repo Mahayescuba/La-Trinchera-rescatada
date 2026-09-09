@@ -1,13 +1,12 @@
 ---
 title: "Pensar como iglesia"
 date: "2020-02-03T05:03:32+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 #### _El llamado del presidente del país para potenciar el ahorro económico, debe ser promovido también dentro de las instituciones de la iglesia_
 
-**Por: Julio Pernús**  
 En el momento en que escribo este artículo hay un llamado nacional a pensar como país, sobre todo, en lo relativo al tema del ahorro energético-económico. Incluso, de forma voluntaria, en el [Centro Loyola-Reina](https://www.facebook.com/pages/Centro-Loyola-Reina/871311806268992) de la Iglesia católica, el administrador llamó a colaborar con el esfuerzo nacional al apagar equipos en el horario de 11:00 a.m. a 1:00 p.m. Entonces, aprovecho este espacio para preguntar si estamos pensando también como iglesia universal y cubana que cuenta con los recursos mínimos.  
 Sin ser un regaño, quisiera empezar esta reﬂexión interpelando a los jóvenes católicos cubanos. Durante dos años fui secretario de la Pastoral Juvenil Ignaciana (PJI) y no fueron pocas las veces en las que compramos pasajes interprovinciales y solo al comenzar el evento nos enterábamos de que algunos muchachos no asistirían. Un jesuita español me decía:  
 _Julio, es criminal tener que perder el dinero del reintegro y alojamiento por muchachos a quienes, como no les cuesta, les da igual._ Durante la pasada _JNJ_ en La Habana, fui testigo de la gran cantidad de comida sobrante por diversos motivos. Con el trabajo que se pasa para conseguir alimentos para las actividades eclesiales, no vendría mal un poco de conciencia y al menos decir con tiempo: _No voy a comer hoy_. Cualquier recurso que se aproveche, en Cuba, siempre será mucho.

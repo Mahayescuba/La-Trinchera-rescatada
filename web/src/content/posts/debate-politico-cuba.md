@@ -1,7 +1,7 @@
 ---
 title: "A propósito del centrismo"
 date: "2018-02-13T16:15:24+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---

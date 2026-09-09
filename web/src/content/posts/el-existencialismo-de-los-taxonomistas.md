@@ -1,13 +1,11 @@
 ---
 title: "El existencialismo de los taxonomistas"
 date: "2019-10-04T13:25:06+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Existencialismo de los taxonomistas.
-
-**Por: Miguel Alejandro Hayes**
 
 ### La taxonomía
 

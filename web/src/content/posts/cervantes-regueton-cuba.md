@@ -1,15 +1,13 @@
 ---
 title: "Cervantes y el reguetón"
 date: "2019-04-23T14:49:09+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 23 de abril de 1616: Muere Miguel de Cervantes. Día mundial de la lengua española.
 
 Fotografía: Wendy Pérez Bereijo
-
-**Por: Julio Pernus**
 
 El reguetón para muchos de mis amigos es una mala palabra y cuando les digo que lo sigo me dicen: ¡_pero tú oyes esa chabacanería!_, y me disculpan, pero dado el medio prefiero no poner la palabra exacta. Les quisiera preguntar a los mayores de sesenta si saben qué significa bajanda, para mí es la unión que hizo el llevado y traído Chocolate de bajando y anda.
 

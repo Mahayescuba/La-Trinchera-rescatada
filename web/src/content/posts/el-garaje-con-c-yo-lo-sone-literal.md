@@ -1,7 +1,7 @@
 ---
 title: "El Garaje con C, yo lo soñé… literal"
 date: "2019-07-01T02:14:12+00:00"
-author: ""
+author: "oscaracso28944"
 category: "Entrevista"
 image: ""
 ---

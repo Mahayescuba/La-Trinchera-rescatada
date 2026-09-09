@@ -1,15 +1,13 @@
 ---
 title: "Me hubiese sentido como un cobarde de no haber ido"
 date: "2019-05-12T19:45:26+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 marcha independiente Cuba.
 
 ##### Fotografía: Adriana Castro
-
-**Por: Miguel Alejandro Hayes**
 
 _Bufón_ estaba en la guerra de Vietnam. Era un militar. Llevaba pintado un símbolo de la paz, y un letrero: _Nacido para matar._ Él, era la contradicción: soldado que llevaba su contrario marcado en el casco.  
 Hoy, yo iba con un pullover blanco. En rojo 3 letras: _FEU_. Estaba en la marcha independiente por los derechos LGBTIQ en La Habana. Me sentí tan contradictorio como _Bufón_. No comparo, afirmo. Fui a una actividad no autorizada oficialmente, es decir, hecha al margen de la institución estatal; y yo con ese un pullover de la institución. No son excluyentes claro, pero yo llevaba un símbolo de una organización -a la que no pertenezco- que carece de autonomía del gobierno -más bien le pertenece a este- en medio de un acto que fue asumido por el propio gobierno como un símbolo de desobediencia. No sé qué tan certero sea, pero no pude evitar sentirme así en un ambiente que no tardó en llegar a la clásica polarización.  

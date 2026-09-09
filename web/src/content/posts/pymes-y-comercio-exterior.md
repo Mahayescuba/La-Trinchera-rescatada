@@ -1,13 +1,11 @@
 ---
 title: "La ley del embudo"
 date: "2020-07-24T18:00:00+00:00"
-author: ""
+author: "Mauricio de Miranda Parrondo"
 category: "Economía en Cuba"
 image: ""
 ---
 PYMEs y comercio exterior.
-
-**Por: Mauricio de Miranda Parrondo**
 
 El ministro de Comercio Exterior de Cuba, Rodrigo Malmierca, afirmó hoy en la Mesa Redonda, que “en ningún país del mundo una PYME exporta o importa por sus propios medios. Esto lo dijo para explicar por qué las empresas de “gestión no estatal” (para usar el eufemismo en boga en los medios cubanos) debían hacerlo a través de empresas estatales del [Grupo Empresarial del Comercio Exterior](http://www.gecomex.cu/index.php/es/site/nosotros.html). Mencionó que “ni en China ni en Singapur esto era así”.
 

@@ -1,13 +1,11 @@
 ---
 title: "Carta a mis camaradas sobre San Isidro"
 date: "2020-12-26T17:00:00+00:00"
-author: ""
+author: "Carlos Ávila Villamar"
 category: "Política en Cuba"
 image: ""
 ---
 _Nota a los lectores: Para este final de año, a los editores de La Trinchera nos complace presentarles una selección de los textos más leídos de cada uno de los colaboradores de este espacio. A todos les agradecemos su confianza._ 
-
-**Por: Carlos Ávila Villamar** 
 
 El primer problema con San Isidro es que uno no tiene una fuente fiable de información. El acoso es real, de eso no hay dudas, y tampoco creo que haya nada que lo justifique, no creo que sea un motivo de bromas, ni un incidente menor _que no merezca ser magnificado en la prensa nacional_. No sé la magnitud real del acoso, no obstante, y me parece irresponsable repetir la versión más melodramática de los hechos (_no es dictadura, sino genocidio_ y demás). La huelga de hambre es al menos parcialmente real, y puesto que ya dura cuatro días, y dado que existe la posibilidad de que sea por completo real, no merece ser minimizada o invisibilizada. Uno no puede dejar de impresionarse, sin embargo, por la salud que parecían mantener todavía los huelguistas en su segundo día y por la estadística que dice que con dos días sin tomar agua un ser humano ya debe estar al borde de la muerte. No digo que sea necesariamente un fraude, solo creo que al menos provoca que uno se cuestione las cosas. Repito que incluso una huelga falsa no justifica el acoso (la campaña de descrédito es de pésimo gusto, por cierto, como la mayoría de la propaganda de ese tipo que vemos en las redes sociales, cuya visibilidad se multiplica artificialmente mediante una vergonzosa red de usuarios falsos, creados de manera premeditada para incidentes semejantes). Lo que quiero analizar, y lo que me gustaría que las personas autopercibidas como _revolucionarias_ analizaran, es lo único medible y transparentemente real que ha habido en este triste episodio todavía en curso: la reacción de la _gente_. La reacción de los estudiantes universitarios, de los profesores universitarios, de los escritores, de los artistas, de lo que se podría considerar un sector letrado, más o menos letrado, en la ruina económica, política y social en la que vivimos. Lo que nadie puede negar ha sido el aplastante e inmediato apoyo que han tenido los huelguistas (reales o no) en un sector que no hay forma de presentar como fácilmente _manipulable_.
 

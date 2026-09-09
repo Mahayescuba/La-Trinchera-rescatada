@@ -1,15 +1,13 @@
 ---
 title: "¿Desechos del mismo origen?"
 date: "2019-02-14T05:12:33+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política"
 image: ""
 ---
 Premio Oswaldo Payá.
 
 ### A propósito de la entrega de un Premio
-
-**Por: Miguel Alejandro Hayes**
 
 Supe recientemente de la entrega del _Premio [Oswaldo Payá](https://es.wikipedia.org/wiki/Oswaldo_Pay%C3%A1)_. Por ahora me ahorro adjetivos. Usar el “_esto es…”_, que le cuelga a algo una cualidad, es también negar otras cualidades que mucho pueden aportar. Por eso, en clave de neolengua, la metafísica nos obliga a matar la riqueza del mundo en nuestras mentes. Así, podemos tener una _república que es neocolon_ial, y tal descripción, a todo cuanto sea salvable en su interior -muchos hombres-, lo condena. Las fuerzas revolucionarias, todavía usan esas formas para defenderse.  
 Sería mejor, dialécticamente comprender el movimiento y la lógica de lo que se desea explicar, y escapar de un moralista -que ya es un escalón peor- “_esto es…”_.

@@ -1,13 +1,11 @@
 ---
 title: "El Hombre que más sabe de Religión en Cuba"
 date: "2020-10-31T14:01:53+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Entrevista"
 image: ""
 ---
 ###### **Julio Pernús (JP) entrevista al profesor emérito de Historia de las Religiones en la Universidad de la Habana, Enrique López Oliva (ELO)**
-
-**Por: Julio Pernús** 
 
 El profesor Enrique López Oliva parece un ser mítico, su cabello blanco, gastado por el tiempo, siempre es acompañado por un sombrero rampante que no deja ver a un hombre con más de ocho décadas en su piel. Quizás algunos duden de que sea uno de los cubanos que más sepa de religión en Cuba, pero pocos podrán contradecir la afirmación de que en su casa está la biblioteca personal macro-ecuménica más grande del país. López Oliva dice que desea ser recordado como un profeta del antiguo testamento y algunos de sus alumnos pedimos a la academia cubana incluir su nombre entre los nominados a los premios nacionales en nuestro país. Sería un acto de justicia histórica para quien ha _gastado_ sus años enseñando a los jóvenes a entender y amar la Historia de las Religiones desde el diálogo.  
 

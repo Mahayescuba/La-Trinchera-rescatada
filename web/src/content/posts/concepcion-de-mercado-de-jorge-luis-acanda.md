@@ -1,12 +1,10 @@
 ---
 title: "El problema de Acanda"
 date: ""
-author: ""
+author: "Miguel Alejandro Hayes"
 category: ""
 image: ""
 ---
-Por: Miguel Alejandro Hayes Martínez
-
 Acercamiento al tema
 
 El mercado es uno de los puntos más oscuros y polémicos de la teoría marxista. Cuando numerosos estudiosos analizan esta cuestión, se pueden desatar diferentes posturas que van desde la más pura ortodoxia de los manuales soviéticos de economía política (por suerte o por desgracia aún presentes), hasta concepciones más contemporáneas que traspapelan una concepción marxista con pensamientos samuelsonianos.

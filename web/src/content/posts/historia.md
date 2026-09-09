@@ -1,13 +1,11 @@
 ---
 title: "Historia"
 date: "2020-01-04T06:11:59+00:00"
-author: ""
+author: "Kmilo Noa"
 category: "Onírica"
 image: ""
 ---
 Kmilo Noa poema. 
-
-**Por: Kmilo Noa**
 
 Caer  
 mirando al sol  

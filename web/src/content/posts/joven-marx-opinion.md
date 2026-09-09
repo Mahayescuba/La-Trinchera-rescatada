@@ -1,7 +1,7 @@
 ---
 title: "El joven Marx"
 date: "2018-02-28T16:15:35+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: ""
 ---

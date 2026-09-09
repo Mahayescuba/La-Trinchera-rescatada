@@ -1,13 +1,11 @@
 ---
 title: "La apuesta"
 date: ""
-author: ""
+author: "Adrián Pernas Álvarez"
 category: ""
 image: ""
 ---
 Realmente era un tipo raro. A la gente de nuestra edad no le gustan los tipos raros. Quizá haya sido por eso que comenzaron con aquella estúpida apuesta.
-
-Por : Adrián Pernas Álvarez
 
 Siempre había sido un tipo raro. Apenas sonaba la campana, a las seis de la mañana, se levantaba. Se quitaba el short que usaba para dormir, se ponía el pantalón de la escuela y los zapatos, pero no la camisa, nunca la camisa, para no ensuciarla antes de estar listo. Abría la taquilla y sacaba su cepillo y su pasta de dientes. La gota como grano de frijol y directo para el baño. Siempre era el primero en llegar al baño. Se lavaba con paciencia los dientes. Se enjuagaba la boca, se lavaba las manos y la cara. Orinaba. Y se volvía a lavar las manos. Se secaba y volvía al cubículo. No decía palabra alguna hasta que se la pidieran. Se enganchaba la camisa, se la abotonaba, tomaba la mochila y largaba para el comedor. Como llegaba tan temprano, era siempre el primero en la cola del desayuno. Luego de terminarse el banquete mañanero bajaba a lavarse por segunda vez la boca, quizá para ahora tener algo con verdadero sabor en la lengua.
 

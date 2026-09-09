@@ -1,7 +1,7 @@
 ---
 title: "No dejarse vencer nunca por las circunstancias"
 date: ""
-author: ""
+author: "Sender Escobar"
 category: ""
 image: ""
 ---

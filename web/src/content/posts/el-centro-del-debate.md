@@ -1,13 +1,11 @@
 ---
 title: "El centro del debate"
 date: "2020-05-29T02:26:47+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Mientras tanto, se siguen dando razones para que el centro del debate esté bien lejos del centro de los problemas.
-
-**Por: Miguel Alejandro Hayes**
 
 El primer error lo cometió Boris Fuentes. Luego, toda la cadena de técnicos y censores, directores de noticiero, directores de canal. El material que se publica en el [_NTV_](http://www.tvcubana.icrt.cu) pasa por muchas manos.  
 ¿No había censores y un equipo de numerosas personas que revisaran el reportaje? Lo dudo, porque cortaron un beso gay de una película comercial norteamericana en horario no estelar. Pero si de verdad no lo tienen, deberían. Un presidente necesita un equipo de comunicación política que cuide y que seleccione cuidadosamente lo que se transmite de él, más en un momento así. Entonces, he ahí el primer grupo de responsables del escándalo con la declaración sobre limonadas y guarapo.  

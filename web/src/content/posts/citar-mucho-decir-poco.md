@@ -1,13 +1,11 @@
 ---
 title: "Citar mucho, decir poco"
 date: "2019-02-03T06:45:30+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo"
 image: ""
 ---
 …no se trata de tener qué citar, sino qué decir.
-
-**Por: Miguel Alejandro Hayes**
 
 En cada ocasión que se va a escribir un artículo científico, o mejor dicho, socialmente reconocido como científico, es necesario usar ciertas normas.
 

@@ -1,7 +1,7 @@
 ---
 title: "Las Elecciones Generales, un poco más allá de la estadística"
 date: "2018-04-17T20:10:52+00:00"
-author: "Alejandra K."
+author: "Alejandra K"
 category: "Opinión"
 image: ""
 ---

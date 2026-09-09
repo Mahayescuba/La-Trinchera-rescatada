@@ -1,15 +1,13 @@
 ---
 title: "Los caminos de la UJC"
 date: "2019-04-05T06:20:12+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 UJC Cuba. 
 
 #### Hace un año publiqué este texto breve. Dado que las circunstancias no han cambiado mucho, lo comparto nuevamente.
-
-**Por: Miguel Alejandro Hayes**
 
 Hoy la Unión de Jóvenes Comunistas cumple aniversario de fundada. Si tuviera que hacer un diagnóstico a su funcionamiento, no dudaría ni un momento en tomar esta idea: “…a la Unión de Jóvenes Comunistas le ha faltado un poco de espíritu creador. Ha sido, a través de su dirigencia, demasiado dócil, demasiado respetuosa y poco decidida a plantearse problemas propios” (1)
 

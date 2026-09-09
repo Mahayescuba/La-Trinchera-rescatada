@@ -1,7 +1,7 @@
 ---
 title: "Crónicas del retorno (I)"
 date: ""
-author: ""
+author: "Tamarys L. Bahamonde"
 category: ""
 image: ""
 ---
@@ -11,8 +11,6 @@ Cuba, Isla bella. Orishas
 “Yo no me fui, yo me alejé un poquito,  
 Desde más lejos se oye más bonito…”  
 Habana Abierta
-
-Por: Tamarys L. Bahamonde
 
 El tiempo se dilata o se contrae a voluntad, o sea, es relativo. Las islas, por su parte, tienen ese tempo desordenado de los que no se ajustan. Un retardo natural con respecto a un mundo que la rodea y la empuja por un camino que la isla no recorre a la misma velocidad. Los isleños vivimos en un universo paralelo, separados, mirando estupefactos y anhelantes al cambiante planeta alrededor. Alguna vez alguien me comentó que, según estudios, la insularidad determinaba cierta sicología social entre sus habitantes. Sería interesante confirmar esas investigaciones.
 

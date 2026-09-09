@@ -1,13 +1,11 @@
 ---
 title: "El contenido del valor (II)"
 date: "2018-09-07T11:00:29+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Teoría"
 image: ""
 ---
 **En respuesta a Rolando Astarita**
-
-Por: Miguel Alejandro Hayes Martínez
 
 Una vez que se conoce cuál es el contenido de las categorías de la dialéctica, y parte de los errores que de suelen cometer a la hora de entender el ser determinado (confundir las determinaciones con el ser), se puede entonces pasar a pensar en otras cuestiones más cercanas a lo que es el contenido del valor.
 

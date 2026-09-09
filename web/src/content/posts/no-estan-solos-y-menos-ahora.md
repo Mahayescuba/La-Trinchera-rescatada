@@ -1,13 +1,11 @@
 ---
 title: "No están solos, y menos ahora"
 date: "2019-02-17T21:45:41+00:00"
-author: ""
+author: "Lázaro Benítez Díaz"
 category: "Opinión"
 image: ""
 ---
 Tornado Habana.
-
-**Por: Lázaro Benítez Díaz**
 
 La voz se fue corriendo, las redes sociales ayudaron muchísimo, y varios jóvenes de diferentes centros de estudios, artistas, amigxs nos fuimos reuniendo en el _Pabellón Cuba_. La idea era agruparnos para llegar al barrio de _Luyanó_ cerca de la calzada de _10 de Octubre_, uno de los lugares que sufrió grandes daños a causa del tornado del domingo 27.  
 Montamos una guagua, siempre estuvo aquella periodista que a pesar de decirle varias veces que la situación era delicada y se necesitaba más humanismo _in_ _situ_ que humanismo mediático, hizo poco caso a nuestras palabras.

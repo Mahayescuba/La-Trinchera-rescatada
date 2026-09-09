@@ -1,13 +1,11 @@
 ---
 title: "Sobrevivir en Cuba"
 date: "2018-12-31T04:51:18+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 Una historia que muestra un ejemplo de corrupción en Cuba.
-
-**Por: Julio Pernús**
 
 La corrupción es como un animal que nos ataca todos los días y estoy seguro de que nos ha mordido alguna vez. Hace unos meses, mientras esperaban su turno en el puesto de guardia de un hospital, algunas personas vieron llegar a un hombre de unos 53 años con un anciano encima de una carretilla de albañil. Un médico que pasaba cerca, casi asustado le recriminó: _¿Qué cosa es esto? Por favor, rápido, una camilla para el abuelo._
 

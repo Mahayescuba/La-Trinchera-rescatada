@@ -1,12 +1,10 @@
 ---
 title: "Sobre el debate con Astarita"
 date: "2018-08-22T11:15:29+00:00"
-author: ""
+author: "Iramís Rosique"
 category: "Economía Política"
 image: ""
 ---
-**Por: Iramís Rosique**
-
 ### En respuesta al artículo de Miguel Alejandro Hayes que polemiza con Rolando Astarita
 
 Miguel:

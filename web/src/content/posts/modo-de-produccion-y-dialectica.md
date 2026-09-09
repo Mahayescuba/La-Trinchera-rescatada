@@ -1,7 +1,7 @@
 ---
 title: "Modo de producción y dialéctica"
 date: "2018-07-10T16:26:34+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Teoría"
 image: ""
 ---

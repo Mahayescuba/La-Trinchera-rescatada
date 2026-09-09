@@ -1,13 +1,11 @@
 ---
 title: "Robando tiempo al tiempo"
 date: "2020-06-06T14:57:27+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/06/photo_2020-06-03_17-40-38.jpg"
 ---
 Actualización sobre el “financiamiento” de LA Trinchera”.
-
-**Por: Miguel Alejandro Hayes**
 
 _Huele a chisme._ Eso fue lo que pensé cuando vi el número de lecturas al anuncio en [Telegram](https://t.me/trincheracuba/2205) de que [La Trinchera](/la-trinchera/) (LT), luego de dos años, abría sus puertas al “dinero”, al “financiamiento”. Nunca mejor usadas que ahora, en un post mío, las comillas.  
 No estaba muy alejado de la realidad. A través de las redes de mensajería habituales, recibí comentarios y muchas preguntas como señal de que no había pasado inadvertido el suceso. Por suerte, eran bienintencionadas. Tampoco faltaron las felicitaciones.  

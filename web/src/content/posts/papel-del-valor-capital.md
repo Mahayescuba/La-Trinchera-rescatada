@@ -1,13 +1,11 @@
 ---
 title: "El papel del valor en “El Capital”"
 date: "2018-02-19T16:15:10+00:00"
-author: ""
+author: "Miguel Alejnadro Hayes Martínez"
 category: "Economía Política"
 image: "/wp-content/uploads/2018/02/el-valor-en-el-capital.jpg"
 ---
 Otro de los análisis de la categoría valor en El Capital, es su papel dentro de la evolución lógica de las categorías en ese texto, y ese es el segundo elemento en cuestión. La categoría valor en el Capital, debe comprenderse como la herramienta explicativa que permite mostrar el papel social de los principales mecanismos 
-
-Por: **Miguel Alejnadro Hayes Martínez**
 
 Muchos han sido los textos que se han escrito sobre el valor. Son tantos, que a pesar de haber leído un buen número de ellos, siento que aún no tengo una muestra suficiente y que en muy pocos he encontrado explicaciones que me convenzan. Por eso comencé mis estudios sobre la economía política de Marx, como recomendaba Lenin, a partir de lecturas de Hegel (1).Con esto, mucho de lo que había aprendido y que había defendido, empezó a parecerme equivocado. Sin quererlo, había comenzado a transitar mi propio camino, llegando a la conclusión, por ejemplo, de que el valor había sido mal conceptualizado entre muchos de los marxistas.
 

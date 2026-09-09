@@ -1,13 +1,11 @@
 ---
 title: "¡Tan tan! podcast dedicado a Juan Padrón"
 date: "2020-08-13T09:30:33+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Cultura"
 image: ""
 ---
 _Sender Escobar entrevista a Ian Padrón en una suerte de homenaje a Juán Padrón, el primero de los manigüeros, cineasta, animador por excelencia y pilar de la cultura cubana._ 
-
-**Por: Sender Escobar**
 
 **_Imagino que tuviste una infancia rodeada  de creatividad. ¿Cuándo adquiriste conciencia de que eras hermano de Elpidio Valdés?_**
 

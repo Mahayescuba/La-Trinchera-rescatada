@@ -1,13 +1,11 @@
 ---
 title: "Espacio y Libertad"
 date: "2020-03-29T20:18:23+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Teoría"
 image: "/wp-content/uploads/2020/03/The-Art-Of-Animation.jpeg"
 ---
 El autor reflexiona sobre la relación entre espacio y libertad en el desarrollo de la humanidad.
-
-**Por: José Gabriel Barrenechea**
 
 1-Las circunstancias presentes, bastante estables durante los últimos doce milenios, nos han devuelto a una posición muy semejante a la de los albores de la Modernidad. Solo que ya esas circunstancias no son particulares a los europeos, sino generales a todos nosotros. Como Europa tras la [caída de Constantinopla](https://es.wikipedia.org/wiki/Ca%C3%ADda_de_Constantinopla) en 1453, hoy la Humanidad completa se descubre encerrada no en una península con ínfulas de continente, sino en un planeta que ya le queda muy, muy pequeño. Ahora, como entonces, se impone extender nuestros límites más allá.  
 No vivimos ya en el mundo que un grupo de atrevidos navegantes portugueses, genoveses o vascos extendieron mucho más allá de la imaginación de sus más fantasiosos contemporáneos, hasta hacerle creer a las inmediatas generaciones que los recursos ante ellas eran infinitos y por tanto inacabables. Nuestro mundo no es ya aquel de John Locke, en el cual Dios nos había hecho entrega de la Naturaleza en estado salvaje, para que nosotros pudiéramos transformarla en un jardín. Acción con la cual se suponía honraríamos su creación, al poner en acción las chispas de capacidad creadora que tuvo a bien poner en nuestras almas.  

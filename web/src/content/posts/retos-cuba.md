@@ -1,13 +1,12 @@
 ---
 title: "El mismo reto"
 date: "2019-07-25T12:08:57+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 En el país que aparecían cadáveres en las calles, no fueron pocos los retos a enfrentar.
 
-**Por: Miguel Alejandro Hayes**  
 Las revoluciones son grandes cambios sociales. Para que no queden solo en el plano del signo político, su influencia debe llegar hasta la cotidianidad de los ciudadanos. El proceso que se inició en 1959, parece repetir las circunstancias que ameritan esa hazaña.
 
 En el país que aparecían cadáveres en las calles, no fueron pocos los retos a enfrentar para el intento de construcción de una nueva República alejada de aquella decadente y sin solución.

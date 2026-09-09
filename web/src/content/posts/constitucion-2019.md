@@ -1,13 +1,11 @@
 ---
 title: "Una nueva cultura política"
 date: "2020-07-07T00:00:26+00:00"
-author: ""
+author: "René Fidel González García"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/07/Angeles-Anglada-Equilibrium.jpg"
 ---
 Si pensar que la Constitución de 2019 no transversalizó muchas de las aspiraciones de los cubanos durante el proceso político de su discusión y aprobación es apenas una ilusión reforzada, creer que ella y su contenido no está sincronizada con el cambio social que ha ocurrido en Cuba es algo más que cometer un error.
-
-**Por: René Fidel González García**
 
 Dentro de muy poco tendrán desarrollo legislativo un grupo de artículos de la Constitución del 2019. Algunos de ellos permitirán a partir de ese momento la defensa judicial de derechos constitucionales violados por funcionarios públicos en el ejercicio de sus funciones, ya que tribunales cubanos han negado judicialmente durante el actual período de vigencia de las disposiciones transitorias de la Constitución, el principio de aplicabilidad directa de su articulado.
 

@@ -1,13 +1,11 @@
 ---
 title: "Bitácora de un submarino"
 date: "2019-12-07T05:26:37+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Onírica"
 image: ""
 ---
 Bitácora de un submarino.
-
-**Por: Sender Escobar**
 
 Qué falo ni falo,  
 ni mucho menos esa [lezamiana](https://es.wikipedia.org/wiki/Jos%C3%A9_Lezama_Lima)  

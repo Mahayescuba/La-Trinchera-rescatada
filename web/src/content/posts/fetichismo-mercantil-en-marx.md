@@ -1,13 +1,11 @@
 ---
 title: "¿Qué es el fetichismo para Marx?"
 date: "2018-02-08T18:38:21+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: "/wp-content/uploads/2018/02/fet.jpg"
 ---
 Un primer acercamiento a la idea del fetichismo mercantil en Marx.
-
-Por: **Miguel Alejandro Hayes Martínez**
 
 ## Breves aclaraciones previas
 

@@ -1,13 +1,11 @@
 ---
 title: "La información decrépita"
 date: "2020-09-11T09:30:00+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
 Producción de alimentos en Cuba.
-
-**Por: Jorge Fernández Era**
 
 Atiendan, compañeros: el ministro de la Industria Alimentaria me ha pedido les informe, imagino ustedes no lo sepan, que en nuestro país hay una necesidad, una escasez, una limitación con determinados alimentos en nuestra vida cotidiana.
 

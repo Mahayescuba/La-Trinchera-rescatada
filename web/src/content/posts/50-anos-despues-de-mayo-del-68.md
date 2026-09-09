@@ -1,7 +1,7 @@
 ---
 title: "50 años despues de Mayo del 68"
 date: "2018-05-04T14:01:55+00:00"
-author: ""
+author: "César Manzanos"
 category: "Historia"
 image: ""
 ---
@@ -10,8 +10,6 @@ Las consignas durante las revueltas de Mayo del 68: “seamos realistas, exijamo
 _La primera fase de la dominación de la economía sobre la vida social arrastró una evidente degradación del ser en tener. La fase presente de la ocupación total de la vida social por los resultados acumulados de la economía conduce a un deslizamiento generalizado del tener en parecer. Solamente al no existir individual (comportamiento hipnótico) le es permitido parecer (aparecer) por el poder social… La alienación del espectador se expresa así: cuanto más contempla menos vive. Cuanto más acepta reconocerse en las imágenes dominantes de la necesidad inventada, menos comprende su propia existencia y su propio deseo._
 
 Guy Debort, _La sociedad del espectáculo_, cofundador de la Internacional Situacionista, movimiento cultural e ideológico inspirador de Mayo del 68.
-
-Por: **César Manzanos**
 
 Tránsitos, transiciones, mudanzas, contagios, desplazamientos, trasmutaciones, revoluciones, migraciones, son términos que nos sirven para comprender las historias no contadas, las de las grandes mayorías que han sido masacradas, explotadas, culpabilizadas, ocultadas y enterradas en la fosa común del olvido por la historia oficializada de quienes vencen por la fuerza.
 

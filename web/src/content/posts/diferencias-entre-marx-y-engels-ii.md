@@ -1,7 +1,7 @@
 ---
 title: "Diferencias entre Marx y Engels (II)"
 date: "2018-03-06T16:17:59+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Teoría"
 image: ""
 ---

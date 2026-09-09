@@ -1,13 +1,11 @@
 ---
 title: "Agricultura en Cuba, ¿una solución postergada?"
 date: ""
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: ""
 image: ""
 ---
 Solución a la agricultura cubana.
-
-Por: Ernesto Gutiérrez Leyva
 
 Si mal no recuerdo, era Albert Einstein quien veía en las crisis oportunidades perfectas para dar rienda suelta a la inventiva e innovación, en modos que en tiempos normales no siempre se hace dada la relativa comodidad que la cotidianidad y lo conocido brindan. En el caso de Cuba, hemos atravesado por “circunstancias” a las que hemos denominado con eufemismos -ya sea período especial, o más recientemente, coyuntura-. Creo que es tiempo de dejar momentáneamente ese buen humor que nos caracteriza y enfrentar con toda la seriedad que merece el actual panorama nacional.
 

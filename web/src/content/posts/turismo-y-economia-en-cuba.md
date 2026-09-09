@@ -1,7 +1,7 @@
 ---
 title: "El turismo y el desarrollo de la economía cubana"
 date: "2018-10-19T13:02:49+00:00"
-author: "Rene Portuondo"
+author: "René Portuondo"
 category: "Economía en Cuba"
 image: ""
 ---

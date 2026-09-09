@@ -1,12 +1,10 @@
 ---
 title: "Cuba hoy, en la encrucijada constitucional (II)"
 date: ""
-author: ""
+author: "Ernesto Gutiérrez"
 category: ""
 image: ""
 ---
-Por: Ernesto Gutiérrez
-
 En torno al anteproyecto de Constitución que pretende aprobarse el próximo año, giran luces y sombras que inquietan a no pocos cubanos. Siguiendo la sistematicidad del texto, hemos realizado algunas observaciones sobre el contenido del mismo, siendo ahora pertinente abordar lo referente al tema de la ciudadanía, asunto harto sensible a la población, especialmente cuando se posee parientes o conocidos en el extranjero, o si uno mismo ostenta alguna ciudadanía foránea.
 
 Lo cierto es que los cubanos hemos sido tajantes en el tema de la ciudadanía a lo largo de nuestra breve, pero intensa vida republicana. La fórmula que reza “cuando se adquiera una ciudadanía extranjera, se perderá la cubana”, fue adoptada primeramente por las constituciones de 1901 y 1940, postura que acogió también el texto de 1976.

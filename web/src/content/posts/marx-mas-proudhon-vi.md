@@ -1,13 +1,11 @@
 ---
 title: "Marx + Proudhon (VI)"
 date: "2018-11-15T13:48:15+00:00"
-author: ""
+author: "Oscar Herrero"
 category: "Marxismo"
 image: ""
 ---
 Marx y Proudhon.
-
-**Por: Oscar Herrero**
 
 ### ¿Quién fue Pierre Joseph Proudhon?
 

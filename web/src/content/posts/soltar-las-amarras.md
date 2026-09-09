@@ -1,13 +1,11 @@
 ---
 title: "Soltar las amarras"
 date: "2020-07-24T22:00:00+00:00"
-author: ""
+author: "Mauricio de Miranda Parrondo"
 category: "Economía en Cuba"
 image: ""
 ---
 PYMEs  importaciones.
-
-**Por: Mauricio de Miranda Parrondo**
 
 ¿El gobierno cubano quiere eliminar el desabastecimiento de ciertos productos que deben importarse y no se cuenta con divisas suficientes?
 

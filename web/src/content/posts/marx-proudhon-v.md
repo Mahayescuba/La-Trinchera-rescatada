@@ -1,13 +1,11 @@
 ---
 title: "Marx + Proudhon (V)"
 date: "2018-11-03T15:16:29+00:00"
-author: ""
+author: "Oscar Herrero"
 category: "Marxismo"
 image: ""
 ---
 Marx y Proudhon.
-
-**Por: Oscar Herrero**
 
 ### Una rivalidad de intelectuales que todavía separa a muchos
 

@@ -1,15 +1,13 @@
 ---
 title: "Lo mejor del Otro"
 date: "2020-01-26T05:38:19+00:00"
-author: ""
+author: "Leonardo Manuel Fernández Otaño"
 category: "Teoría"
 image: ""
 ---
 santería en cuba.
 
 ## A mis amigos santeros por su coherencia, en especial a mi maestra y a mi amigo de universidad
-
-**Por: Leonardo Manuel Fernández Otaño**
 
 Al leer el texto _[Matanzas ganó por Brujería](/opinion/)_ de la autoría de [Julio Pernús](/una-luz-en-la-oscuridad/), me vino a la mente mi clase de historia medieval en la universidad, pues más de una vez me tocó pedir perdón como intelectual católico a Dios porque por causa del fanatismo religioso se llevaron a la hoguera a miles de mujeres inocentes, por la presunción del delito contextual de brujería. Con esta introducción quiero hacer un llamamiento al análisis serio y multicausal de los fenómenos sociales en especial la religión. Cuando se emiten juicios de valor sobre sistemas religiosos o filosóficos se debe tener en cuenta los elementos teóricos y conceptuales que lo respalden, no frases peyorativas, que sugieren desconocimiento de las problemáticas en análisis.
 

@@ -1,7 +1,7 @@
 ---
 title: "Preguntas al vacío"
 date: "2020-07-07T09:00:00+00:00"
-author: ": Ana Barnes"
+author: "Ana Barnes"
 category: "Onírica"
 image: ""
 ---

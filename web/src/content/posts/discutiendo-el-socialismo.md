@@ -1,13 +1,11 @@
 ---
 title: "Discutiendo acerca del socialismo"
 date: "2019-10-06T15:39:55+00:00"
-author: ""
+author: "Mauricio de Miranda Parrondo"
 category: "Marxismo"
 image: ""
 ---
 _El socialismo no puede ser interpretado como una receta, tampoco es un dogma, tampoco puede implicar la supresión de las libertades._
-
-**Por: Mauricio de Miranda Parrondo**
 
 Definitivamente, el stalinismo le hizo un daño terrible al socialismo. Con el stalinismo y el desenvolvimiento posterior se vulgarizó el marxismo.  
 La ciencia social se convirtió en dogma de fe, y las estructuras partidarias en tribunales de la inquisición. Cualquier cosa que se apartara mínimamente del guión era considerado “herejía”, “revisionismo” como se le llamaba entonces.  

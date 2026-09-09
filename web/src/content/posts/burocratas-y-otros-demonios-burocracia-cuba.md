@@ -1,7 +1,7 @@
 ---
 title: "Burócratas y otros demonios"
 date: "2019-04-17T05:50:58+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
@@ -9,7 +9,6 @@ No hay que decir nombres aquí, ni de estos ni de los primeros burócratas, porq
 
 Fotografía: Portada de Animals, de Pink Floyd. Pigs, canción dedicada a los políticos.
 
-**Por: Miguel Alejandro Hayes**  
 Si se mira fijo durante mucho tiempo a un abismo, el abismo puede mirar también dentro de uno, nos enseñó el sabio [Nietzsche](https://es.wikipedia.org/wiki/Friedrich_Nietzsche). De la misma manera que luchar contra un demonio puede convertir al luchador, en otro de la misma especie mística. Pero no, no siempre es así: hay gente que se enfrenta al demonio, ya siéndolo de antes (y que me perdone el anticristo por la metáfora en que lo empleo).  
 Los burócratas son una lacra, sí. El sistema social más justo simbólico que representan, el socialismo, no tiene nada que ver con ellos. De los menos nuevos de los hombres, el burócrata es uno de ellos. El contenido moral, humano, más justo, no es su objeto de trabajo. No practican el ser ellos mismos la expresión de socialismo.
 

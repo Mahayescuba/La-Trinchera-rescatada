@@ -1,15 +1,13 @@
 ---
 title: "Marx + Proudhon (XI)"
 date: "2019-02-03T17:52:58+00:00"
-author: ""
+author: "Oscar Herrero"
 category: "Marxismo"
 image: ""
 ---
 Continuamos la serie sobre Marx + Proudhon, parte XI. 
 
 ### El principio de autoridad
-
-**Por: Oscar Herrero**
 
 Como dijimos más arriba, la figura del caudillo, en los combatientes deviene en el líder, en el terreno político, especialmente, en la llamada política profesional. El liderazgo que los “centralistas” ejercían dentro y fuera del Consejo General estableció otra de las interdicciones con los “federalistas”, por su conocida posición de defensa de la autonomía de los individuos.
 

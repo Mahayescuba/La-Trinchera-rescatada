@@ -1,13 +1,11 @@
 ---
 title: "Si no lidia con la diversidad, ni abra Facebook"
 date: "2020-03-24T16:22:20+00:00"
-author: ""
+author: "Ulises Padrón Suárez"
 category: "Política en Cuba"
 image: ""
 ---
 Ulises Padrón Suárez reflexiona sobre la diversidad en Facebook.
-
-**Por: Ulises Padrón Suárez**
 
 Zuckerberg es un genio, ha creado esto que llamamos _Facebook_. Se ha hecho millonario. Dicen que se robó la idea pero en el capitalismo todo vale. Zuckerberg ha creado, además, ciertos algoritmos que nos hacen pensar que estamos en una comunidad virtual. Reúne a las personas basado en los [_Big Data_](https://es.wikipedia.org/wiki/Macrodatos) que piensan, compran y comparten fotos similares. Nos ahorra el tiempo de seleccionar, de discriminar. Si usted no se siente contento con mis posts haga cuatro cosas:
 

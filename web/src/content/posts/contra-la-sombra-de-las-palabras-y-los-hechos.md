@@ -1,10 +1,12 @@
 ---
 title: "Contra la sombra de las palabras y los hechos"
 date: "2021-02-08T10:30:00+00:00"
-author: "Diego A. Marrero Leyva y Raymar A. Aguado Hernánde"
+author: "Diego A. Marrero Leyva"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2021/02/Genevieve-Bouthot.jpg"
 ---
+y Raymar A. Aguado Hernández**
+
 El punto de convergencia entre arte y sociedad deviene en la responsabilidad de la primera sobre la estabilidad de la segunda. La labor primaria del artista es siempre ser consecuente a su órbita social y velar porque su obra transgreda todo aquello que le sea incongruente a su progreso contextual. El arte verdaderamente revolucionario puede desestabilizar en pos de nuevas firmezas y convicciones, sentar bases sólidas para la perdurabilidad de un contexto que vele por las necesidades de la sociedad y de él mismo en sí. 
 
 Sabemos que la labor del artista en beneficio social deslinda de cualquier pretensión política que asuma los intereses individuales por encima del interés colectivo, sabemos también que la política es servidora directa de la cultura y no a la inversa como ingenuamente muchas veces se cree. En un momento donde la necesidad del rescate y perdurabilidad de la cultura nacional se torna el emblema del creador, las nimiedades adyacentes que sobreponen la egolatría empañan la visión colectiva respecto a la labor que todo culturizador realiza. El conocimiento de las bases donde una nación se sienta (tradición, cultura e historia) debe ser fulcro del creador en vía a la reafirmación de su obra en beneficio de estas. 

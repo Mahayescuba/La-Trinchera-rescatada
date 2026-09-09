@@ -1,13 +1,11 @@
 ---
 title: "Y nosotros sobre la noria"
 date: "2020-04-22T15:30:43+00:00"
-author: ""
+author: "Giordan Rodríguez Milanés"
 category: "Política en Cuba"
 image: ""
 ---
 También sería una lamentable singularidad que, en medio de una cola por el aceite, en Manzanillo, llegara alguien con coronavirus e iniciara una cadena en una provincia que no ha tenido episodios de transmisión.
-
-**Por: Giordan Rodríguez Milanés**
 
 Más rápido los científicos cubanos descubren vacunas contra este o cualquier otro coronavirus y su múltiples mutaciones, que el Ministerio de Comercio Interior logre convencer al CIMEX de que les “suelten” el pollo y el aceite para venderlos por la libreta y organizadamente en las bodegas de los barrios.  
 Hoy, mientras mi hija veía un repaso para sus exámenes de ingreso a la universidad, me surgió una duda: ¿Qué pasa con los que no tienen TV? Porque no le quepa duda a nadie de que en este país hay un montón de familias que no tienen TV o lo tienen roto, no tienen acceso a **Internet**, no tienen _smartphone_.  

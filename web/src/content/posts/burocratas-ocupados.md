@@ -1,13 +1,11 @@
 ---
 title: "Los burócratas siempre están demasiado ocupados"
 date: "2019-08-24T08:58:33+00:00"
-author: ""
+author: "Homar Garcés"
 category: "Opinión"
 image: ""
 ---
 Burócratas.
-
-**Por: Homar Garcés**
 
 Las fallas, las omisiones y las negligencias del Estado (sea cual sea su denominación) les son atribuidas comúnmente al burocratismo presente en cada una de sus estructuras. En esencia, de una forma generalizada, puede determinarse que la subjetividad y la rutina diaria (cumplida sin mucha alteración durante tantos años de permanencia en el cargo) hacen de los burócratas, incluso aquellos que, en apariencia, no lo harían de una manera consciente, unos elementos perniciosos que conspiran constantemente contra el ejercicio democrático del pueblo, contra la transparencia administrativa que debiera caracterizar al Estado en todo momento y contra la posibilidad real de concretar cualquier experiencia revolucionaria orientada a su logro pleno.
 

@@ -1,13 +1,11 @@
 ---
 title: "¿En Cuba se gesta una Revolución Sexual?"
 date: "2019-06-05T06:45:15+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 En otros países, los grupos de la sociedad civil defensores del movimiento _LGTBI_, luchan por influir al estado, para que tomen políticas a su favor.
-
-**Por: Julio Pernús**
 
 La sexualidad y la fe en ocasiones se analizan como las antípodas de una historia plagada de censura, de ahí que me cueste tanto bosquejar este tema desde un pensamiento católico. Pero considero necesario el poder dar una mirada a un debate que ya está introducido dentro de nuestro entorno nacional, a sabiendas de que solo es un primer paso, con la esperanza de poder brindar algunas pistas de cara al futuro inmediato.
 

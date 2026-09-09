@@ -1,12 +1,10 @@
 ---
 title: "Marcarse"
 date: ""
-author: ""
+author: "Anckla"
 category: ""
 image: ""
 ---
-Por: Anckla
-
 Ten cuidado y no te marques .Esa frase típicamente criolla que pasa susurrada de boca en boca todos los días. La plegaria de los santos no tan inocentes, te la aprendes en la escuela cuando preguntas por qué (?).  
 Viene visita y hay que ponerla bonita. ( ?)
 

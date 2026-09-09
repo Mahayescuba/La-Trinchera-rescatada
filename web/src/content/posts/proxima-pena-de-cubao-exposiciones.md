@@ -1,7 +1,7 @@
 ---
 title: "Próxima peña de CUBAO EXPOSICIONES"
 date: "2020-02-05T23:00:35+00:00"
-author: ""
+author: "raymarcorleone"
 category: "Cultura"
 image: "/wp-content/uploads/2020/02/Screenshot_20200205-1757002-2.png"
 ---

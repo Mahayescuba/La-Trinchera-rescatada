@@ -1,7 +1,7 @@
 ---
 title: "Encuéntrense, canten, conspiren…"
 date: "2019-05-23T05:51:12+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Entrevista"
 image: ""
 ---

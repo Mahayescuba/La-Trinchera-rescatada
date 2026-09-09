@@ -1,7 +1,7 @@
 ---
 title: "El dinero, algunas consideraciones a partir de la teoría de Marx (I)"
 date: "2018-04-03T12:00:19+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: "/wp-content/uploads/2018/03/AP7-1-466x310.jpg"
 ---

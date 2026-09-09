@@ -1,15 +1,13 @@
 ---
 title: "Sobre el 11M, nuestros derechos y desafíos"
 date: "2019-05-15T06:13:52+00:00"
-author: ""
+author: "Alberto Roque"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2019/05/IMG_20190513_000412.jpg"
 ---
 marcha del 11 de mayo en cuba.
 
 ##### Fotografía: Wendy Pérez Bereijo
-
-**Por: Alberto Roque**
 
 Me he tomado un tiempo para reflexionar sobre los hechos lamentables que han ocurrido durante la 12 edición de la Jornada contra la Homofobia. Me detengo en este momento con la convicción de que no es un debate acabado.
 

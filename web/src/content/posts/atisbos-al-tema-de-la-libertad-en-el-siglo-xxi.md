@@ -1,13 +1,11 @@
 ---
 title: "Atisbos al tema de la libertad en el siglo XXI"
 date: "2021-03-14T16:00:00+00:00"
-author: ""
+author: "Raymar A. Aguado Hernández"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2021/03/atelier-venustas.jpg"
 ---
 ## **Primer esbozo: libertad individual**
-
-**Por: Raymar A. Aguado Hernández**
 
 > _A: Diego A. Marrero Leyva. Pues sé que el día que mi mente no pueda darle voz a mis ideas, las de él, las premiarán._
 

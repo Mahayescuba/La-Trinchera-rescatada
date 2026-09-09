@@ -1,13 +1,11 @@
 ---
 title: "Quizás, quizás, quizás…"
 date: "2019-01-10T06:27:31+00:00"
-author: ""
+author: "Ernesto Gutiérrez"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2019/01/IMG_20190110_012552.jpg"
 ---
 proyecto de constitución.
-
-**Por: Ernesto Gutiérrez**
 
 El estribillo y tonalidad de esta añeja melodía del cancionero cubano, bien podría servir como respuesta refrescante, a una campaña mediática polarizada en torno al beneplácito o rechazo que deberemos dar los cubanos, a la que aún me permito llamar **proyecto de Constitución**, dado que el soberano aún no se ha pronunciado al respecto.
 

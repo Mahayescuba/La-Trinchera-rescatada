@@ -1,7 +1,7 @@
 ---
 title: "Forma y movimiento"
 date: "2018-12-27T18:56:48+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Teoría"
 image: ""
 ---
@@ -11,7 +11,6 @@ Un texto sobre forma y dialéctica.
 
 ### Breve reflexión sobre la importancia del estudio de la dialéctica para el marxismo
 
-**Por: Miguel Alejandro Hayes Martínez**  
 Nos levantamos cada día y observamos el mundo. Al hacerlo, vemos formas. Es a través de estas que apreciamos el mundo. De la misma manera, con formas, expresamos lo que vemos.  
 Así, todo cuanto nos rodea, lo que vemos, sentimos, soñamos, lo expresamos contenido en formas, porque solo así podemos hacerlo (al menos desde el sentido común). Por lo que cada contenido que queremos decir, está dentro de una forma. Y pensar este, es pensar más allá de su forma.  
 De esa manera, nos referimos al perro, una estructura, una forma que expresa un contenido, pero que para referirse al él, hay que usar esta. Cuando entendemos de qué se está hablando al usar una categoría, es porque logramos trascender esa forma y asumir su contenido.  

@@ -1,13 +1,12 @@
 ---
 title: "El trabajo por cuenta propia en Cuba (I)"
 date: "2018-11-26T05:05:55+00:00"
-author: ""
+author: "Alexandra Torres"
 category: "Política en Cuba"
 image: ""
 ---
 ### El futuro después del 7 de diciembre de 2018
 
-**Por: Alexandra Torres**  
 En los próximos días se pondrá en vigencia el paquete normativo que re-ordena la actividad del trabajo por cuenta propia en Cuba. Tras un año entero -y seis meses- las nuevas disposiciones continúan sin ser expresión de la realidad social y frenan el desarrollo de otras de las actividades que generan empleo y riquezas en el país.  
 Sabiendo aún el relevante papel que les corresponde desempeñar a estos trabajadores “por cuenta propia”, la tutela que nuestro derecho les ha dispensado –tradicionalmente- ha sido precaria en relación con la otorgada a los asalariados, en todos los ámbitos. Este nuevo conjunto de normas jurídicas arrastra idéntica característica.  
 Si bien se mantienen vigentes las disposiciones del código de trabajo sobre estas relaciones de trabajo especiales, las nuevas normas jurídicas que complementan a aquellas, conservan eufemismos que tienen un impacto directo en el ejercicio de derechos constitucionales, en el desarrollo de la economía cubana y en la construcción de una sociedad socialista, próspera y sostenible.  

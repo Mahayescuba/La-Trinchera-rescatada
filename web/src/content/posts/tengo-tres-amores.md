@@ -1,11 +1,10 @@
 ---
 title: "Tengo tres amores"
 date: ""
-author: ""
+author: "Roberto Mendoza Pinto"
 category: ""
 image: ""
 ---
-Por: Roberto Mendoza Pinto  
 Tres amores tengo:  
 Libertad, Igualdad y Fraternidad.  
 ¡Ah! ¿Con cuál me quedo?  

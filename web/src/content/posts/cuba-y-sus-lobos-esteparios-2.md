@@ -1,15 +1,13 @@
 ---
 title: "Cuba y sus lobos esteparios"
 date: ""
-author: ""
+author: "Oscar E. Mendía Véliz"
 category: ""
 image: ""
 ---
 Nota a los lectores: Para este final de año, a los editores de La Trinchera nos complace presentarles una selección de los textos más leídos de cada uno de los colaboradores de este espacio. A todos les agradecemos su confianza.
 
 Una generación de lobos esteparios irreverentes, que se siente desconectada de su entorno. Aunque paradójicamente, seamos la más interconectada que jamás haya existido.
-
-Por: Oscar E. Mendía Véliz
 
 El Lobo Estepario de Herman Hesse es un libro que no quería leer. Demasiado misticismo en torno a ese título tan lejano. Cuba no es tierra de lobos o de estepas. Hace poco (antes de la cuarentena, cuando todavía se hacían cosas), encontré la obra alemana en una librería de segunda mano que está por la esquina de Tejas. Estaba en el fondo, donde los libros con polvo y las enciclopedias desactualizadas. También encontré una primera edición de tapa dura de una biografía de Carlo Magno, y la edición cubana de La Doctrina del Shock de Naomi Klein. Compré los tres, cada uno me costó cincuenta pesos. Pagué mis seis CUC satisfecho. Lo que ahora me tenía que enfrentar al viejo Lobo Estepario. El libro me atrapó con la fuerza con que lo hacen algunos de los clásicos. No podía parar de pensar en este hombre trágico e hipersensible que escribía estas palabras hace casi un siglo. Los pensamientos de Harry Haller, el lobo, mantienen intacta su capacidad de expresar conflictos sustanciales de nuestro tiempo. Es un libro apasionado, que muestra a un intelectual nihilista que sufre en solitario la transición entre dos épocas. Un burgués que reniega de su condición, pero no puede separarse de ella. Un individuo que no encaja en su sociedad, atrapado en la lucha entre dos naturalezas: la del hombre y la del lobo. Su existencia es una contradicción, y lo sabe. Este hombre de mediana edad bien podría ser un millennial.
 

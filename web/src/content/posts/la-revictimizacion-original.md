@@ -1,13 +1,11 @@
 ---
 title: "La revictimización original"
 date: "2020-08-26T09:30:34+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
 image: ""
 ---
 _El artículo de Granma trata de denigrar a la prensa independiente, en esta ocasión al intentar desenmascarar la supuesta exageración con que esos medios tratan el tema de los feminicidios en Cuba._
-
-**Por: José Gabriel Barrenechea**
 
 He leído el artículo [_Revictimizada_ _mil_ _veces_](http://www.granma.cu/cuba/2020-08-18/revictimizada-mil-veces-18-08-2020-22-08-28), de Javier Gómez Sánchez para Granma, y al terminar no pude más que recordar aquella frase que un amigo le dedica a otro, cuando este último ha intentado ayudarlo de manera equívoca: ¡Mejor no me defiendas, compadre!
 

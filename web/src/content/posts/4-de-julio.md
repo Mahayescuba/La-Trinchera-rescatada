@@ -1,13 +1,11 @@
 ---
 title: "Un imperio, dos imperios, tres…"
 date: "2019-07-05T04:36:11+00:00"
-author: ""
+author: "Marcos A. Alemán"
 category: "Onírica"
 image: ""
 ---
 Imperio. 
-
-**Por: Marcos A. Alemán**
 
 Un 4 de Julio.  
 Una turba.  

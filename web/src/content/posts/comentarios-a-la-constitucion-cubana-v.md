@@ -1,13 +1,11 @@
 ---
 title: "Comentarios a la Constitución ¿socialista? V"
 date: "2019-02-23T18:16:28+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
 image: ""
 ---
 Constitución socialista.
-
-**Por: Ernesto Gutiérrez Leyva**
 
 En lo referente a la estructura estatal que refrenda el aun proyecto de Constitución, poco puede decirse que no hayamos comentado ya [(1)](/politica-en-cuba/) [(2)](/politica-en-cuba/). Llama poderosamente la atención el poco debate que suscitó lo referente al tema en el seno de la Asamblea Nacional en las dos ocasiones en que el documento fue debatido.
 

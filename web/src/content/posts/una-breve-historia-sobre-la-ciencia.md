@@ -1,13 +1,11 @@
 ---
 title: "Una breve historia sobre la Ciencia."
 date: "2018-08-17T12:00:30+00:00"
-author: ""
+author: "René Portuondo"
 category: "Opinión"
 image: ""
 ---
 A lo largo de la historia las ciencias se han subordinado a las estructuras sociales dominantes, que en gran medida han retrazado su devenir.
-
-Por: **René Portuondo**
 
 Desde el surgimiento del hombre como especie, el deseo de explicarse los disímiles fenómenos que a su alrededor ocurrían y que en gran medida lo afectaba, le impulsaron a pensar en los mismo como parte de su propio desarrollo.
 

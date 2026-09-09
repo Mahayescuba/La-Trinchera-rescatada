@@ -1,13 +1,11 @@
 ---
 title: "Por qué apoyo a Maduro"
 date: "2019-02-06T07:24:15+00:00"
-author: ""
+author: "Iramís Rosique"
 category: "Política"
 image: ""
 ---
 Venezuela Maduro.
-
-**Por: Iramis Rosique**
 
 Llevo varias semanas siguiendo de cerca el tema Venezuela, interesante como es para cualquier revolucionario hoy. Una postura en particular ha florecido con fuerza entre los militantes de izquierda, y es esa que dice:
 

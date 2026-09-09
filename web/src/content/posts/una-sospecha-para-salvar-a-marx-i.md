@@ -1,11 +1,10 @@
 ---
 title: "Una sospecha para salvar a Marx (I)"
 date: ""
-author: ""
+author: "Miguel Alejandro Hayes"
 category: ""
 image: ""
 ---
-Por: Miguel Alejandro Hayes Martínez  
 Soy un apasionado del debate. Conozco perfectamente sus límites, pero valoro mucho su importancia. Me gusta que se haga con respeto, incluso, dentro del blog donde comencé a publicar habitualmente (La Joven Cuba), he participado en polémicas siempre con respeto, con otros articulistas, producto de la cual ha surgido una simpatía.  
 Sin embargo, cuando el ego y la arrogancia prima, la cosa es diferente. Hasta ahora he visto que en cualquier diferenciación de criterios, no paran de enviarse los adjetivos. Como mismo en materia política se acusa en sentido peyorativo de disidente, en materia de marxismo la acusación más habitual es la de “subjetivista”. Es con motivo de esa calificación, y otros, que hago estas líneas.  
 Aclaro que no tengo nada en contra de Astarita, incluso creo que de seguro compartimos ideas políticas. Esto a tal punto, que varios de sus artículos de contenido político, y otros teóricos los he compartido en mi pequeño blog La Trinchera. Pero con motivo de sus respuestas, aquí va la mía.  

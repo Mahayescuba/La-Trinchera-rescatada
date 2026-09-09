@@ -1,13 +1,11 @@
 ---
 title: "ETECSA y moneda"
 date: "2019-11-22T17:59:36+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
 image: ""
 ---
 Notas para un debate en las redes ETECSA.
-
-**Por: Miguel Alejandro Hayes**
 
 ### Oferta y demanda para ETECSA
 

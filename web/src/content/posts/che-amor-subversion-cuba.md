@@ -1,13 +1,11 @@
 ---
 title: "Che: el amor y la subversión"
 date: "2019-06-14T06:16:47+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Historia"
 image: ""
 ---
 Quizá sea eso lo que marcó esa brecha entre el Che y todos los demás, es decir, hay una la diferencia entre un hombre que sentía el dolor ajeno y los adeptos de una doctrina.
-
-**Por: Miguel Alejandro Hayes**
 
 El Che es referencia inevitable en la vida de un revolucionario. Ha sido una constante en mi vida desde que con 16 años cayó en mis manos _El camino del fuego_ de Orlando Borrego. Desde entonces intento –fallidamente- seguir ese camino de esfuerzo que trazó.
 

@@ -1,13 +1,11 @@
 ---
 title: "Lo que piensan las niñas antes de dormir"
 date: "2020-08-08T09:30:47+00:00"
-author: ""
+author: "Day Cordero"
 category: "Onírica"
 image: ""
 ---
 sueño. 
-
-**Por: Day Cordero**
 
 _Poetas con insomnio redactan una oda chistosa sobre corazones lejanos_
 

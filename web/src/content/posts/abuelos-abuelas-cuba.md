@@ -1,13 +1,11 @@
 ---
 title: "¿Por qué lloran los abuelos y las abuelas?"
 date: "2019-09-13T16:23:46+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: "/wp-content/uploads/2019/09/8944702-la-habana-cuba-el-2-de-febrero-de-2009-ancianos-cubanos-pasan-el-tiempo-jugando-en-las-calles-de-la-.jpg"
 ---
 Abuelos y abuelas. 
-
-**Por: Julio Pernús**
 
 Ahora tengo 30 años. Antes de darme cuenta seré un anciano y me gustaría poder construir una sociedad que valore y proteja a este grupo generacional como su tesoro más preciado, después de los niños. No sé si tendré que vivir en un asilo, pero sueño con verlos convertidos en lugares acogedores y de fácil acceso.
 

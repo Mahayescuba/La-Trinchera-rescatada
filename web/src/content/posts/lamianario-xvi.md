@@ -1,13 +1,11 @@
 ---
 title: "Laminarios XVI"
 date: "2020-01-19T03:25:52+00:00"
-author: ""
+author: "Kmilo Noa"
 category: "Onírica"
 image: ""
 ---
 Kmilo Noa poema.
-
-**Por: Kmilo Noa**
 
 Una granada de fragmentación  
 sobre el brocal de un pozo  

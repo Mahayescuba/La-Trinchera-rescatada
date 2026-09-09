@@ -1,7 +1,7 @@
 ---
 title: "Lo que debo hacer"
 date: "2019-07-19T16:17:48+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---

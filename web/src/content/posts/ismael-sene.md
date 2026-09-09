@@ -1,13 +1,11 @@
 ---
 title: "El grand Slam de un sabio"
 date: "2020-01-21T23:36:20+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Opinión"
 image: ""
 ---
 Béisbol.
-
-**Por: Sender Escobar**
 
 Jueves 17 de enero de 2019, 11:30 pm:  
 El equipo de béisbol de Las Tunas, _Los Leñadores_, acaba de proclamarse campeón de la _[Serie Nacional](http://www.beisbolencuba.com/) LVIII_ por primera vez, después de cuarenta y tres años de fundado el equipo. Emocionado por ver al fin logrado un anhelo de niño.

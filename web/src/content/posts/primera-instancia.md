@@ -1,13 +1,11 @@
 ---
 title: "Primera instancia"
 date: "2020-06-30T00:28:05+00:00"
-author: ""
+author: "Ana Barnes"
 category: "Onírica"
 image: ""
 ---
 Primera instancia.
-
-**Por: Ana Barnes**
 
 Hoy puede ser el día  
 De desechar la respuesta  

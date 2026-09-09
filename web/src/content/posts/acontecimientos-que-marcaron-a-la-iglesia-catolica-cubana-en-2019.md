@@ -1,13 +1,11 @@
 ---
 title: "Acontecimientos que marcaron a la Iglesia Católica cubana en 2019"
 date: "2019-12-27T23:23:01+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 #### Un bosquejo de los tres hechos de mayor importancia para la Iglesia cubana en 2019
-
-**Por: Julio Pernús**
 
 El final de un año resulta un momento ideal para, de alguna forma, revivir los doce meses que van quedando atrás. El 2019 ha sido un año histórico para la Iglesia católica cubana, pues ha estado marcado por sucesos imborrables en la mente de sus protagonistas, como gusta decir un obispo cubano: dios ha estado grande con nosotros. Yo me voy aventurar a resaltar tres sucesos, que en realidad serán cuatro, como los principales, pero de seguro la lista es mucho más extensa. Cada uno de estos acontecimientos marcó a sus protagonistas y además, tienen como ingrediente común el vínculo tangible del Papa Francisco con ellos.  
 Los más de 500 jóvenes cubanos que integramos la delegación que asistió a la Jornada Mundial de la Juventud en Panamá, del 22 al 27 de enero, ya no seremos los mismos. Por primera vez la Iglesia cubana pudo mandar una delegación tan numerosa a un evento internacional. Aprovecho estas líneas para dar gracias a todos los artífices de este sueño, sobre todo, a nuestro pastor universal, el Papa Francisco, que nos acompañó de cerca durante todo el proceso de inscripción y nos fue a visitar de forma sorpresiva en Panamá. De ahí, salimos con el compromiso de soñar una Cuba diferente; el reto es grande, pero se van dando pasos confiando en la fuerza de lo pequeño.  

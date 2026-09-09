@@ -1,7 +1,7 @@
 ---
 title: "Motor de arranque"
 date: "2021-04-12T09:30:00+00:00"
-author: "Alberto Miguel de l"
+author: "Alberto Miguel de la Paz Suárez"
 category: "Cultura"
 image: ""
 ---

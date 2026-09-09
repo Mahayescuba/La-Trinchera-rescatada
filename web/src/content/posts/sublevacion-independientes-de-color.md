@@ -1,13 +1,11 @@
 ---
 title: "Crónica de una vergüenza nacional"
 date: "2020-06-25T17:00:00+00:00"
-author: ""
+author: "Mario Valdés Navia"
 category: "Política en Cuba"
 image: ""
 ---
 En 1912, el ejército reprimió la sublevación del partido de los Independientes de Color. Como debe hacerse siempre, lo único serio y honrado es hurgar en las fuentes y reconstruir los acontecimientos con objetividad.
-
-**Por: Mario Valdés Navia**
 
 En Cuba existe una etnia: la cubana. Aquí muy pocos se autorreconocen como euros, afros, o chinocubanos. No obstante, ahora, cuando a raíz del asesinato de Floyd en otras partes derriban estatuas de Cristobal Colón, conquistadores y mercaderes de la trata, un grupo de extremistas pretende destruir el conjunto escultórico al [Mayor General José Miguel Gómez](https://es.wikipedia.org/wiki/Monumento_a_Jos%C3%A9_Miguel_G%C3%B3mez_\(La_Habana\)), en 29 y G,\[1\] con el pretexto de que era el presidente cuando hace 108 años, en 1912, el ejército reprimió la sublevación del partido de los Independientes de Color (PIC).
 

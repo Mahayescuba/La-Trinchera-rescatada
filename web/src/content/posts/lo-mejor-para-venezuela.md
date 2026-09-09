@@ -1,13 +1,11 @@
 ---
 title: "Lo mejor para Venezuela"
 date: "2019-02-01T14:17:22+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política"
 image: ""
 ---
 Si se quiere hacer el socialismo en Venezuela, no puede ser a base de la escasez, de las necesidades insatisfechas, y sobre todo, en este clima que desmoraliza a las fuerzas progresistas que pagan con daños a su identidad política los errores del gobierno bolivariano.
-
-**Por: Miguel Alejandro Hayes**
 
 No se puede estar en el mundo hoy, del lado de los que luchan y de los que lloran, sin pensar y sin hablar de Venezuela. Lo delicado de su situación no puede confundir a la hora de tomar una postura en su conflicto interno.  
 Como la rutina de la pugna por el poder en sus estados más primitivos, ocurre que se desatan dos polos, y de ahí, el análisis formal lleva a tener que decidir. Claro está que un golpe de estado no se puede apoyar. Pero, ¿hay que defender a Maduro y a su gobierno ?  

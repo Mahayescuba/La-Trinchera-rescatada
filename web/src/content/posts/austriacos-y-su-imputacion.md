@@ -1,13 +1,11 @@
 ---
 title: "Austriacos y el irresoluble problema de la imputación"
 date: "2018-06-26T11:15:55+00:00"
-author: ""
+author: "Rolando Astarita"
 category: "Economía Política"
 image: "/wp-content/uploads/2018/06/innovacion-empresarial3.jpg"
 ---
 En definitiva, han pasado casi 150 años desde que Menger publicara sus Principios de Economía Política, y el problema de la imputación sigue sin resolverse.
-
-Por: **Rolando Astarita**
 
 En la nota anterior mostramos que los economistas austriacos no pueden derivar los precios de las ordenaciones de las utilidades marginales por parte de los individuos (véase [aquí](https://rolandoastarita.blog/2018/06/19/austriacos-imposibilidad-de-derivar-precios-de-utilidades/)). Pero esos rankings,u ordenaciones, de las utilidades marginales, se refieren exclusivamente a los bienes de consumo, o bienes “de orden inferior”. ¿Cómo se determinan entonces los precios de los medios de producción, (o “bienes de orden superior”), y de los llamados servicios productivos, tales como la renta de la tierra y el salario? La respuesta de los economistas austriacos no deja lugar a dudas: derivan del valor de los bienes de consumo, o inferiores.
 

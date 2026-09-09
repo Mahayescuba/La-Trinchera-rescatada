@@ -1,13 +1,11 @@
 ---
 title: "El marxismo en Cuba hoy"
 date: "2020-05-07T09:30:12+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/05/ddefb72f-e74d-463d-ad57-c3ff3e816494.jpeg"
 ---
 Sobre el marxismo en Cuba hoy.
-
-**Por: Miguel Alejandro Hayes**
 
 El marxismo en Cuba sigue siendo esencialmente marxista-leninista; es decir, estalinista.  
 Vivimos en una sociedad donde el fetiche de la institución es un fenómeno extendido. De ahí que las muestras de estas líneas sean un marxismo académico y uno que se autodeclara crítico (cuyos núcleos suelen ser instituciones como el Centro Martin Luther King , el Instituto de de Filosofía y el Instituto Juan Marinello).  

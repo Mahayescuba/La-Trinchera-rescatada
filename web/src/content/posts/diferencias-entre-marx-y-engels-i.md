@@ -1,12 +1,10 @@
 ---
 title: "Diferencias entre Marx y Engels (I)"
 date: ""
-author: ""
+author: "Miguel Alejandro Hayes"
 category: ""
 image: ""
 ---
-Por: Miguel Alejandro Hayes Martínez
-
 Durante mucho tiempo, he escuchado afirmar de los lazos inseparables entre Marx y Engels. Se nos presentan como los padres fundadores del marxismo, cosa que no pongo en tela de juicio, porque sin duda, el marxismo le debe mucho a Engels. Por otra parte, es necesario, que se asuma con objetividad, lo escrito por este, y sobre todo que se comprenda que no eran precisamente una sola mente. Sin especular mucho, creo que los siguientes fragmentos hablan por sí solos.
 
 Dice Engels: ‘’La Economía política al uso nos enseña que el trabajo es la fuente de toda la riqueza y la medida de todos los valores, de tal modo, que dos objetos cuya producción haya costado el mismo tiempo de trabajo encierran idéntico valor; y como, por término medio, sólo pueden cambiarse entre sí valores iguales, esos objetos deben poder ser cambiados el uno por el otro. ’’ (Engels, 2001)

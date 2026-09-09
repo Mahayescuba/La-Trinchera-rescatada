@@ -1,13 +1,11 @@
 ---
 title: "Marx no es Proudhon"
 date: "2018-04-25T22:23:56+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo"
 image: ""
 ---
 Diferencias entre Marx y Proudhon.
-
-Por: **Miguel Alejandro Hayes Martínez**
 
 Ese es el gran aporte: conocer objetivamente la realidad, para que los intentos de transformarlas sean certeros. Es esa, el arma que aporta _El Capital_, porque Marx entendía que desde la euforia y los deseos, no se garantizaba la lucha correcta. Por eso, Marx no es [Proudhon](https://es.wikipedia.org/wiki/Pierre-Joseph_Proudhon).
 

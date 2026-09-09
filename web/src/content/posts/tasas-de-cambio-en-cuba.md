@@ -1,15 +1,13 @@
 ---
 title: "Resetear"
 date: "2020-09-09T09:30:00+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
 image: "/wp-content/uploads/2020/09/the-eternity_u-l-pu1kcx0.jpg"
 ---
 Tasas de cambio en Cuba. 
 
 _Si bien las tasas de cambio se comportan como procesos lógicos en sí mismos, por separado, son el resultado de un sistema (proceso) ilógico._
-
-**Por: Miguel Alejandro Hayes**
 
 En las [teorías de conjunto y de funciones](https://es.wikibooks.org/wiki/Matemáticas/Teor%C3%ADa_de_conjuntos) están los aportes más importantes a la matemática y los más importantes avances de la lógica moderna.
 

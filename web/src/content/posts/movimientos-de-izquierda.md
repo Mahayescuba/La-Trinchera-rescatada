@@ -1,13 +1,11 @@
 ---
 title: "Movimientos de izquierda"
 date: "2020-01-25T23:57:50+00:00"
-author: ""
+author: "Jorge Bonilla"
 category: "Política"
 image: ""
 ---
 #### Frente a la colonización económica en el continente americano
-
-**Por: Jorge Bonilla**
 
 La década de los años 90, marcó la dominación de sistemas políticos que desencadenaron situaciones que favorecieron índices de desigualdades sociales caracterizados por una creciente dependencia económica, política y militar a los designios impuestos por el gobierno de los [Estados Unidos](https://www.usa.gov/espanol/), materializando desapariciones forzadas de personas inocentes, quebrantando las disposiciones legales enarboladas por los presuntos defensores de los derechos humanos.  
 Los índices de pobreza, analfabetismo y dominación económica, materializaron avalanchas de movimientos progresistas afianzados por un creciente apoyo de las masas, favoreciendo el triunfo político de movimientos de izquierda radical, moderada y modelos antineoliverales.  

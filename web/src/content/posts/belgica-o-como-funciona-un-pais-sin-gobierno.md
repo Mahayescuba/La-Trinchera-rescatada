@@ -1,13 +1,11 @@
 ---
 title: "Bélgica, o cómo funciona un país sin gobierno"
 date: "2020-09-05T09:30:00+00:00"
-author: ""
+author: "Ana Barnes"
 category: "Política"
 image: ""
 ---
 Bélgica sin gobierno.
-
-**Por : Ana Barnes**
 
 Hace veinte meses que Bélgica no tiene gobierno. El 18 de diciembre de 2018 el primer ministro Charles Michel entregaba su renuncia. Mucho ha llovido desde entonces, incluyendo una pandemia global. ¿Cómo puede un país enfrentar una crisis sanitaria de tal envergadura en medio de una crisis política de fondo?
 

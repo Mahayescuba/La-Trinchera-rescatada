@@ -1,11 +1,10 @@
 ---
 title: "Mi parchis"
 date: ""
-author: ""
+author: "Anckla"
 category: ""
 image: ""
 ---
-Por: Anckla  
 Mi vuelta 35 se acerca y me parece que no he jugado bien otra vez. Las victorias en este parchis no dependen de llegar primero, solo de llegar.  
 Sin embargo, los pocos que llegan, juegan frustrados y nada divertidos. Hace más de medio siglo que los dados se estropearon y es difícil sacar un 5, o avanzar sin que el equipo azul te coma las fichas para encerrarte, y no se cuánto caminan después; o los rojos quiten el doble puente justo a la entrada de la meta, y que te manda al principio y obliga a dar vueltas en el tablero.
 

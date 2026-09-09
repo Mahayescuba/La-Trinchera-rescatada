@@ -1,11 +1,10 @@
 ---
 title: "Manos"
 date: ""
-author: ""
+author: "Pablo Dussac"
 category: ""
 image: ""
 ---
-Por: Pablo Dussac  
 Manos que construyen  
 Y huyen de la cobardía,  
 Aferradas al mástil que soporta  

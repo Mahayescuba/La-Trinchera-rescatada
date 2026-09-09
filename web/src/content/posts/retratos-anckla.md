@@ -1,13 +1,11 @@
 ---
 title: "Retratos"
 date: "2019-06-05T04:37:56+00:00"
-author: ""
+author: "Anckla"
 category: "Onírica"
 image: ""
 ---
 retratos.
-
-**Por: Anckla**
 
 Me da ira y decepción todos estos muertos para nada. Tanta sangre, tanto pensamiento… y no valgan para mantener vivo ni su espíritu, ni su coraje…  
 Su pueblo prefiere al extranjero. Y sus fotos valen más que las de nuestro álbum de cadáveres, que si reviven, empiezan todo de nuevo, porque nosotros ya los olvidamos.  

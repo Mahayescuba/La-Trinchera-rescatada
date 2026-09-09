@@ -1,13 +1,11 @@
 ---
 title: "Un cuadro que no cuadra"
 date: "2020-01-17T18:02:31+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/01/facundo.jpg"
 ---
 libertad expresión.
-
-**Por: Ernesto Gutiérrez Leyva**
 
 El otro día estaba en la parada de la guagua, y me puse a leer lo primero que tenía a mano para hacer tiempo. Lo que leí tenía partes tétricas, algunas risibles y otras tantas, que hoy día en la actual _coyuntura_ parecen realmente quiméricas. Una de las partes que más me gustó era la que decía: _El Estado reconoce, respeta y garantiza a las personas la libertad de pensamiento, conciencia y expresión._
 

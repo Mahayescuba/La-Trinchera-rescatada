@@ -1,12 +1,10 @@
 ---
 title: "Ana Lía y la Fábrica de Traumas"
 date: ""
-author: ""
+author: "Day Cordero"
 category: ""
 image: ""
 ---
-Por: Day Cordero
-
 \> Esto no es literatura señores, yo solo escribo para hacerme famosa
 
 Dice que no tiene magia pero yo conozco a Ana Lía. Es inadvertida como una tormenta en Mercurio. Hidrógeno en ocasiones para quien la respire bien. Ella es un labio sellado. Un blúmer con secretos. La humedad sin razón.

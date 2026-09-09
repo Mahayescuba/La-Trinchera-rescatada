@@ -1,13 +1,11 @@
 ---
 title: "Disertación primera"
 date: "2020-04-27T16:24:19+00:00"
-author: ""
+author: "Elaine Roca"
 category: "Onírica"
 image: ""
 ---
 Hablar de filosofía con amigos puede ser como esta Disertación primera.
-
-**Por: Elaine Roca**
 
 Saúl, yo te digo que no tiene tanta importancia. Nadie piensa en Sartre, o en si el trabajo de la [Escuela de Frankfurt](https://es.wikipedia.org/wiki/Escuela_de_Fr%C3%A1ncfort) es mejor valorarlo desde el enfoque epistémico. Que si aquello de lo que hablamos tiene orígenes en la Metafísica de las Costumbres o si Heidegger era muy mal escritor pero acertó en los análisis sobre el ser y el ente.  
 Y ya no me recuerdes más que tengo que desmarcar a Nietzsche del existencialismo porque era un irracionalista, como Pascal ¿Quién se acuerda de Pascal? Nadie se lee a Zaratustra o Verdad y Mentira en Sentido Extramoral ¡Por favor!… Y bla bla bla y bla bla bla.  

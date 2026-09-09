@@ -1,15 +1,13 @@
 ---
 title: "Lo irrenunciable"
 date: "2019-05-20T06:42:17+00:00"
-author: ""
+author: "Mauricio Cifuentes Nodarse"
 category: "Opinión"
 image: ""
 ---
 marcha orgullo gay cuba 2019.
 
 ##### Fotografía: Obra “Abrir la mente”, de Mauricio Cifuentes Nodarse
-
-**Por: Mauricio Cifuentes Nodarse**
 
 Para muchos cubanos asiduos a las redes sociales, no resultará novedad el incidente ocurrido en el Paseo del Prado de La Habana, cuando fue interrumpida una marcha espontánea por el _Orgullo Gay_ –espontánea a decir de sus organizadores, aunque por alguna razón que aún no ha sido bien aclarada Mariela Castro en representación del _CENESEX_ considera orquestada desde Miami y Matanzas (tampoco se ha dicho por quienes)-. Para ese que no tenga relación directa con un miembro de la comunidad LGTBI en Cuba, o la tenga pero no conozca su historia, todo este asunto de la marcha espontánea y la policía en la calle podrá resultarle quizás un tanto aparatoso. Y es probable que en muchas otras circunstancias lo fuera. Pero tratándose de la comunidad LGBTI en Cuba, este es un hecho grave. Intentaré explicar por qué lo considero así.  
 Nunca fui a una _Conga por la Diversidad_, que se han venido haciendo en los últimos años, cada 17 de mayo. La consideraba – quizás con la insolencia intelectual de la juventud más temprana- una curita, un remiendo, al problema de fondo. ¿Marchar, conguear, bailar, agitar banderas? ¿Para qué, con qué fin? ¿Dónde están mis derechos a casarme y adoptar, quien pretende sustituírmelos por un baile y que yo esté conforme con eso? Esto me preguntaba a mis veinte uno, veinte y dos años. Pero al parecer yo estaba equivocado – como lo he estado otras veces con tantas otras cosas- y la Conga sí era necesaria. Porque eso que para mí seguía siendo una nadería, el alfiler de un sombrero, para otros representaba una inmensa conquista: la de poder exhibir su preferencia sexual públicamente, por primera vez para muchos, inclusive homosexuales maduros (sobre todo para ellos, que vivieron los años más grises y oscuros).

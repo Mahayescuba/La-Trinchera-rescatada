@@ -1,13 +1,11 @@
 ---
 title: "¿Quo Vadis ciudadano?"
 date: "2019-02-15T03:38:48+00:00"
-author: ""
+author: "René Fidel González García"
 category: "Política en Cuba"
 image: ""
 ---
 referéndum constitucional. 
-
-**Por: René Fidel González García**
 
   
 Lo primero que hay que entender en relación al referéndum constitucional a celebrarse en Cuba el 24 de febrero de 2019 y a sus resultados, es que entrañan la legalidad y legitimidad como opciones políticas tanto del _SI_ y como del _No_ a la Constitución aprobada por la [_Asamblea Nacional del Poder Popular_](http://www.parlamentocubano.gob.cu/index.php/asamblea-nacional-del-poder-popular/) (ANPP).

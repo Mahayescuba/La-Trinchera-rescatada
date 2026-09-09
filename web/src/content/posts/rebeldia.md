@@ -1,12 +1,10 @@
 ---
 title: "Rebeldía"
 date: "2020-07-27T16:00:00+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
-**Por: Jorge Fernández Era**
-
 Tendría 15 años. Cosía pelotas en la industria deportiva de la Lenin. Pasó por allí un grupo de norteamericanos de la [brigada Venceremos](http://www.cubadebate.cu/etiqueta/brigada-venceremos/). A una muchacha le resultó curiosa la destreza con que yo lo hacía y se acercó a mi puesto de trabajo. Tras una breve conversación me abrazó, sacó de una cartera un bolígrafo y me lo obsequió como recuerdo de nuestro encuentro. Minutos después, despejado el escenario de incómodos testigos, se acercó un profesor, por demás dirigente de la UJC, y exigió me desprendiera del regalo. Ante mis dudas pidió la atención de la concurrencia y me hizo pasar la vergüenza de arengar a mis compañeros que actitudes como esa mancillaban la dignidad que defendíamos, que nada había que recibir del enemigo aunque estuviera disfrazado de solidaridad, que un producto de los yanquis era la antítesis de los valores que habíamos recibido desde pequeños.
 
 Los valores que recibí desde pequeño incluían cortar todo vínculo con los familiares que habían volado al norte. Una hermana de mi papá, la que me hizo conocer de pequeño las pocetas del malecón y se fue tras su esposo a un universo desconocido, se convirtió desde mis seis años en una gusana, no importa si nunca tiró un hollejo en la política. Solo cuarenta años después mi mamá me confesó que se vio obligada a romper todas las cartas que mi tía Amadita enviaba a sus sobrinos desde Miami, so peligro de ser sancionada.

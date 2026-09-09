@@ -1,7 +1,7 @@
 ---
 title: "Enrique Colina fallece"
 date: ""
-author: ""
+author: "René Fidel González García"
 category: ""
 image: ""
 ---

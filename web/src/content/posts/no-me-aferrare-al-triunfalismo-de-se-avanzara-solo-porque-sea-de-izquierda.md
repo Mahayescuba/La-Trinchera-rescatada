@@ -1,7 +1,7 @@
 ---
 title: "La victoria en México"
 date: "2018-12-05T15:08:58+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Política"
 image: ""
 ---

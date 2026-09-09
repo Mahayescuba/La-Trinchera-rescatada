@@ -1,7 +1,7 @@
 ---
 title: "Teoría del valor y costos, notas para pensar su relación"
 date: "2018-06-15T11:15:11+00:00"
-author: "Miguel Alejando Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Teoría"
 image: ""
 ---

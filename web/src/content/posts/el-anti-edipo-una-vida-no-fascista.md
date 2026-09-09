@@ -1,7 +1,7 @@
 ---
 title: "El Anti-Edipo: Una introducción a la vida no fascista"
 date: "2019-03-22T05:11:17+00:00"
-author: "Michel Foucault(\\"
+author: "Michel Foucault(\\)"
 category: "Teoría"
 image: ""
 ---

@@ -1,15 +1,13 @@
 ---
 title: "New York, New York"
 date: "2020-04-14T09:30:02+00:00"
-author: ""
+author: "Norma Normand Cabrera"
 category: "Onírica"
 image: ""
 ---
 Un texto de Norma para pensar el coronavirus en New York
 
 _(Sobre la idea de un amigo)_
-
-**Por: Norma Normand Cabrera**
 
 Anoche soñé algo terrible: veía a [New York](https://es.wikipedia.org/wiki/Nueva_York) con cientos, miles de cadáveres tirados en las calles, en las aceras, en los contenedores de basura, y el hedor de tanta putrefacción elevándose al cielo, nublado por bandadas de buitres en busca de alimento.  
 Vi hospitales abarrotados y morgues colapsadas, mientras los sobrevivientes huían en masa hacia otros estados, diseminando la pandemia por toda la Unión, regando el caos por todas partes, asaltando supermercados, entrando a las casas vacías para robar lo que pudieran, hasta dejar convertida a la ciudad más importante del mundo en una ciudad fantasma de edificios abandonados y parqueos llenos de carros cubiertos de polvo.  

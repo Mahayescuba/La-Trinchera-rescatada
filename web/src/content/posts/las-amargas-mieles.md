@@ -1,13 +1,11 @@
 ---
 title: "Las amargas mieles"
 date: "2020-06-22T00:18:29+00:00"
-author: ""
+author: "René Fidel González García"
 category: "Onírica"
 image: "/wp-content/uploads/2020/06/Saul-Landell-Nadie-conoce-a-su-espejo-hasta-que-lo-rompe.jpg"
 ---
 Qué amargas mieles las vuestras.
-
-**Por: René Fidel González García** 
 
 Qué amargas nos saben, y cada vez más, vuestras mieles, vuestros privilegios, vuestro obsceno, minucioso y cada vez más vulgar y mezquino poder.
 

@@ -1,13 +1,12 @@
 ---
 title: "¿Por qué el socialismo es mejor que el capitalismo?"
 date: "2019-10-01T13:54:10+00:00"
-author: ""
+author: "Farid Reyes"
 category: "Marxismo"
 image: "/wp-content/uploads/2019/10/FB_IMG_15699382111479171.jpg"
 ---
 A continuación se reproduce el fragmento de un artículo publicado originalmente en _La Izquierda diario_ que, si bien emplea terminología que en la línea editorial de _La Trinchera_ es rechazada, plantea de manera sintética una visión sobre el socialismo que constituye un llamado a la reflexión.
 
-**Por: Farid Reyes**  
 Cuando se debate sobre las ideas marxistas y el socialismo no falta quien asocie este planteo con lo que pasa en Venezuela, la pobreza que se vive en Cuba o lo que pasó en la Unión Soviética bajo el mando de Stalin y sus amigos.
 
 > ¿es en realidad el socialismo un modelo de sociedad autoritario y antidemocrático que lleva a la pobreza generalizada?

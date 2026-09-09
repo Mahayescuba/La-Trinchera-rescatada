@@ -1,13 +1,11 @@
 ---
 title: "En la parada"
 date: "2019-09-29T21:42:41+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---
 **Miedo.**
-
-**Por: Pablo Dussac**
 
 Hay miedo de Ártico en el trópico,  
 camellos que no saben de arena,  

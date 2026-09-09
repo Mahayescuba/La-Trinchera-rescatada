@@ -1,13 +1,11 @@
 ---
 title: "Destruyeron el salario"
 date: "2019-10-02T03:13:57+00:00"
-author: ""
+author: "Marcos Paz Sablón"
 category: "Economía Política"
 image: ""
 ---
 _Otras medidas incluyeron: aumentar el salario mínimo 34 veces respecto a su nivel anterior; frenar los generosos subsidios a los combustibles de Venezuela para aquellos que no tengan el llamado “carnet de la patria”._
-
-**Por: Marcos Paz Sablón**
 
 Primero fue Miguel, jodiendo con que hacía falta leerse una entrevista a un tal Manuel Sutherland hablando no sé qué cosa de la economía de Venezuela, y hablar también sobre el tema. Vaya por Dios. No podía pedirme que escribiera sobre los unicornios o sobre la bolsa de Chipre o sobre _Tutanga_, no: toca hablar de la economía veneca- el que esto garabatea se considera lo suficiente _chic_ como para decir veneca y no venezolana, ojo. Al parecer Hayes se pensó que porque uno se espanta _Telesur_ a diario puede ponerse a pontificar de las economías latinoamericanas, como si fuera Randy Alonso o un comentarista de _Cubadebate_.  
 Bueno,vale. A ver que dice el primo latino de Kiefer  

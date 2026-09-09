@@ -1,13 +1,11 @@
 ---
 title: "Ascensión y caída de Julian Assange"
 date: "2019-04-15T03:15:58+00:00"
-author: ""
+author: "Benedetto Vecchi"
 category: "Opinión"
 image: ""
 ---
 Washington, y sobre todo el Pentágono, han sido muy diligentes en buscarle la ruina a Julian Assange, después de que WikiLeaks publicara materiales clasificados sobre una operación de guerra sucia a cargo de soldados norteamericanos
-
-**Por: Benedetto Vecchi**
 
 La imagen de la detención de Assange por agentes de [Scotland Yard](https://es.wikipedia.org/wiki/Scotland_Yard) señala el final de una era de activismo en la Red…mediante un acto de traición. Solo, cansado, tras años de actividad, se había convertido en una molestia para sus anfitriones ecuatorianos, una piedra en el zapato en las relaciones de Ecuador con los Estados Unidos.
 

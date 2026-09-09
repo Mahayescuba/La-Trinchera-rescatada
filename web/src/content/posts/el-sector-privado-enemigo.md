@@ -1,13 +1,11 @@
 ---
 title: "El sector privado, ¿enemigo?"
 date: "2018-06-22T11:08:37+00:00"
-author: ""
+author: "Oniel Díaz"
 category: "Política en Cuba"
 image: ""
 ---
 Si queremos sacar a Cuba del hoyo económico en el que está, tendremos que aprender a dominar las fuerzas del mercado y pensar en propiedad privada.
-
-Por: **Oniel Díaz**
 
 Hace unos días, la revista de cultura cubana _La Jiribilla_ publicó el **[artículo](http://www.lajiribilla.cu/articulo/bombas-de-tiempo-millonarias-en-cuba)** “¿Bombas de tiempo millonarias en Cuba?” firmado por Luis Toledo Sande. En este material, el autor abordó el peligro que puede representar para la Revolución y la construcción del socialismo en Cuba la existencia de un sector privado sin regulaciones ni control de algún tipo.
 

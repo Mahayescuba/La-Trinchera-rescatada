@@ -1,13 +1,11 @@
 ---
 title: "De los agujeros negros a la Historia… y viceversa"
 date: "2019-08-08T15:37:52+00:00"
-author: ""
+author: "Alina Bárbara López Hernández"
 category: "Política en Cuba"
 image: ""
 ---
 Historia de Cuba.
-
-**Por: Alina B. López Hernández**
 
 En la medida en que los escritos de Carlos Luque Zayas-Bazán restringen su calado teórico y crecen en insultos, les resulta poco apropiado un sitio de Internet como Rebelión, que incita a reflexionar y, además, tiene la saludable costumbre de divulgar todos los puntos de vista de los contendientes. Esa no es la izquierda que se prefiere en nuestro medio ambiente ideológico.
 

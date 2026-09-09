@@ -1,13 +1,11 @@
 ---
 title: "Nuevas formas de protestar"
 date: "2019-04-08T04:42:48+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 protestar en Cuba.
-
-**P****or: Miguel Alejandro Hayes**
 
 Supe que alrededor de un mes subieron los precios de los helados en Coppelia, bajo el pretexto de que ahí se comenzaría a comercializar la marca del mismo nombre. Luego -según me contaron-, los bajaron nuevamente al monto en el que el subsidio los había mantenido siempre.  
 En los mismos días, se dio el caso de la prolongación del tiempo de los populares Bonos de [ETECSA](http://www.etecsa.cu/) -ya que el tiempo de su oferta duraba muy poco-, y todo por la queja de numerosos usuarios. Pero poco importa en estas líneas si algunas vez ocurrió el subir o bajar lo monetario y la prolongación de una oferta, o si son solo una ilusión producto de esos mundos paralelos -o a veces subreales- que crean los medios.

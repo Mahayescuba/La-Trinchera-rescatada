@@ -1,13 +1,12 @@
 ---
 title: "Yuval Harari, el humanismo liberal y un escepticismo"
 date: "2020-05-12T15:53:15+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Teoría"
 image: ""
 ---
 Casualmente algunas de las creencias sobre las que Yuval Harari se trepa para extender al viento los gonfalones de un escepticismo por tanto muy mal ubicado.
 
-**Por: José Gabriel Barrenechea**  
 Según Yuval Harari, en [_De animales a dioses_](https://es.wikipedia.org/wiki/Sapiens:_De_animales_a_dioses), ya que hoy sabemos que el pensamiento es un producto del cerebro humano, y consecuencia por tanto de procesos materiales a los que supuestamente estamos cada vez más próximos de explicar, ha quedado más que demostrada cuán errónea es la creencia en la naturaleza excepcional del individuo humano, en la que a su vez se sustenta el humanismo liberal. Somos hormonas e impulsos eléctricos, nada más, por tanto, no se entiende esa insistencia en reclamarnos propietarios de ciertos derechos en vista de esa inexistente excepcionalidad.  
 La realidad es que los proponentes dueños de tales ideas cometen un error al equivocar el lugar desde donde lanzan sus juicios: en lugar de desde el único lugar posible, desde sí mismos, lo hacen desde el supuesto punto de vista objetivo de una razón universal que lo observa todo “desde arriba”, tanto al pensamiento como a su objeto.  
 Entendámonos: a mí no me es para nada evidente que una idea que llamo cerebro sea el continente material de ese subproducto también material que es mi pensamiento, cuando miro a esa idea desde un imposible punto de vista externo a mi pensamiento. A mí lo único que me es evidente es que ahora estoy pensando, yo, en lo ridícula que es la idea de que el contenido de una de mis ideas pueda serme más evidente que el acto de pensarla, y que en consecuencia una idea pueda ser el continente de esa misma idea, del acto de pensarla, y de mi persona que la piensa.  

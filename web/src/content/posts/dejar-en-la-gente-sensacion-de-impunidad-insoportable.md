@@ -1,13 +1,11 @@
 ---
 title: "La culpa (lamentablemente) está repartida"
 date: "2019-11-20T16:45:03+00:00"
-author: ""
+author: "Randol Pérez Salas"
 category: "Opinión"
 image: ""
 ---
 Escasez.
-
-**Por: Randol Pérez Salas**
 
 Aquí la culpa está repartida, señores: ¿escasez prolongada (prolongadísima) de productos básicos? Cierto ¿Pésima logística de [Cimex](http://www.cimex.cu/es) (malísima, bochornosa)? Igual de cierto. Pero también mucha indisciplina social, mucha vulgaridad y mucho irrespeto a la autoridad.  
 Hay gente ahí que rompió cajas de alimentos, perforó latas de cerveza y arrojó pintura al suelo ¡Eso es vandalismo!  

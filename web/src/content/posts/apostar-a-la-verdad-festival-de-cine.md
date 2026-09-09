@@ -1,15 +1,13 @@
 ---
 title: "Apostar a la verdad"
 date: "2019-12-03T02:51:04+00:00"
-author: ""
+author: "Alberto Miguel de la Paz Suárez"
 category: "Festival de cine de La Habana"
 image: ""
 ---
 festival cine. 
 
 #### O el latinoamericanismo en el cine
-
-**Por: Alberto Miguel de la Paz Suárez**
 
 Cuando en Viña del Mar, Chile, a finales de la década de los 70 del siglo pasado, un grupo de cineastas se reunieron para dialogar sobre sus discursos, sus formas de representar realidades de naciones y culturas de nuestra América, condenadas a _cien años de_ _soledad_, las fronteras de _Macondo_ comenzaron a resquebrajarse.  
 Provenían unos de una Latinoamérica que sangraba por las heridas de dictaduras, y otros de una Cuba _nueva_, pujante, autorreconstituyente, alimentada por la participación comprometida emocional y políticamente asertiva de sus ciudadanos. Eran los _Tiempos de Fundación, los años de la herejía._  

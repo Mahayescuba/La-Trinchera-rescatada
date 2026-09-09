@@ -1,13 +1,11 @@
 ---
 title: "Solidaridad y el monopolio del agradecimiento"
 date: "2020-09-16T16:06:30+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
 image: ""
 ---
 ayuda humanitaria de Cuba decide.
-
-**Por: José Gabriel Barrenechea**
 
 Sin lugar a dudas, la ayuda de Cuba Decide tiene, además de los humanitarios, fines políticos. Sería inocente pensar otra cosa. Lo que en la decisión del gobierno cubano de negarse a que esa ayuda llegue a sus destinatarios, ya no pueden identificarse fines humanitarios de ningún tipo, solo políticos: los de defender contra viento y marea una estructuración _clientelista_ de la sociedad cubana, que le permite canalizar hacia sí, y solo hacia sí, el [agradecimiento](/los-agradecidos-y-los-aprovechados/) de la ciudadanía.
 

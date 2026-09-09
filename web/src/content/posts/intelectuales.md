@@ -1,7 +1,7 @@
 ---
 title: "Los foucaultianos, los intelectuales y Hegel"
 date: "2018-03-20T16:22:13+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: ""
 ---

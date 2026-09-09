@@ -1,14 +1,28 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
-import { fixCat, slugify, fmtDate, excerpt } from '../lib/util';
+import { fixCat, slugify, fmtDate, excerpt, initials, monoColor } from '../lib/util';
+import authors from '../data/authors.json';
 export async function getStaticPaths(){
   const posts = await getCollection('posts');
-  return posts.map(p=> ({ params:{ slug:p.slug }, props:{ p } }));
+  const counts:Record<string,number> = {};
+  for(const x of posts){ const a=x.data.author; if(a) counts[a]=(counts[a]||0)+1; }
+  return posts.map(p=> ({ params:{ slug:p.slug }, props:{ p, count: p.data.author ? counts[p.data.author] : 0 } }));
 }
-const { p } = Astro.props;
+const { p, count } = Astro.props;
 const { Content } = await p.render();
 const desc = excerpt(p.body, 155);
+const prof:any = p.data.author ? ((authors as any)[slugify(p.data.author)] || {}) : null;
+const readMin = Math.max(1, Math.round(p.body.trim().split(/\s+/).length / 200));
+const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
+const year = p.data.date ? new Date(p.data.date).getFullYear() : '';
+const cite = `${p.data.author ? p.data.author+'. ' : ''}${year?`(${year}). `:''}«${p.data.title}». La Trinchera. ${pageUrl}`;
+const share = {
+  x: `https://twitter.com/intent/tweet?text=${encodeURIComponent(p.data.title)}&url=${encodeURIComponent(pageUrl)}`,
+  fb: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(pageUrl)}`,
+  wa: `https://wa.me/?text=${encodeURIComponent(p.data.title+' '+pageUrl)}`,
+  tg: `https://t.me/share/url?url=${encodeURIComponent(pageUrl)}&text=${encodeURIComponent(p.data.title)}`,
+};
 const jsonLd = {
   '@context':'https://schema.org','@type':'Article',
   headline: p.data.title,
@@ -25,12 +39,45 @@ const jsonLd = {
     {p.data.category && <a class="cat" href={`/categoria/${slugify(fixCat(p.data.category))}/`}>{fixCat(p.data.category)}</a>}
     <h1>{p.data.title}</h1>
     <p class="meta">
-      {p.data.author && <a href={`/autor/${slugify(p.data.author)}/`}>{p.data.author}</a>}
-      {p.data.author && p.data.date && ' · '}
-      {p.data.date && <time datetime={p.data.date}>{fmtDate(p.data.date)}</time>}
+      {p.data.author
+        ? <span>Por <a href={`/autor/${slugify(p.data.author)}/`}>{p.data.author}</a></span>
+        : <span class="anon">Autoría no identificada</span>}
+      {p.data.date && <span> · <time datetime={p.data.date}>{fmtDate(p.data.date)}</time></span>}
+      <span> · {readMin} min de lectura</span>
     </p>
     {p.data.image && <img class="lead" src={p.data.image} alt={p.data.title} loading="eager" decoding="async" />}
     <div class="body"><Content /></div>
+    <div class="share">
+      <span class="share-l">Compartir</span>
+      <a href={share.x} target="_blank" rel="noopener">X</a>
+      <a href={share.fb} target="_blank" rel="noopener">Facebook</a>
+      <a href={share.wa} target="_blank" rel="noopener">WhatsApp</a>
+      <a href={share.tg} target="_blank" rel="noopener">Telegram</a>
+      <button type="button" class="copybtn" data-copy={pageUrl}>Copiar enlace</button>
+    </div>
+    {p.data.author && (
+      <aside class="authorcard">
+        {prof.hash
+          ? <img class="ac-av" src={`https://www.gravatar.com/avatar/${prof.hash}?s=160`} alt={p.data.author} width="64" height="64" loading="lazy" />
+          : <span class="ac-av ac-mono" style={`background:${monoColor(p.data.author)}`}>{initials(p.data.author)}</span>}
+        <div class="ac-body">
+          <span class="ac-label">Autor</span>
+          <a class="ac-name" href={`/autor/${slugify(p.data.author)}/`}>{p.data.author}</a>
+          {prof.bio && <p class="ac-bio">{prof.bio}</p>}
+          <p class="ac-meta">
+            <a href={`/autor/${slugify(p.data.author)}/`}>{count} {count===1?'texto':'textos'} en La Trinchera</a>
+            {prof.links && prof.links.map((l:string)=> (
+              <a class="ac-link" href={l} target="_blank" rel="noopener">{l.startsWith('mailto:')?'correo':'sitio'}</a>
+            ))}
+          </p>
+        </div>
+      </aside>
+    )}
+    <details class="cite">
+      <summary>Cómo citar este texto</summary>
+      <p class="cite-text" id="cite-text">{cite}</p>
+      <button type="button" class="copybtn" data-copy={cite}>Copiar cita</button>
+    </details>
   </article>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)}></script>
   <style>
@@ -39,6 +86,7 @@ const jsonLd = {
     .post h1{font-size:2.3rem;margin:.25em 0 .1em}
     .post .meta{color:var(--muted);font-size:.9rem;margin:.2rem 0 1.3rem}
     .post .meta a{color:var(--accent)}
+    .post .meta .anon{font-style:italic;opacity:.7}
     img.lead{width:100%;border-radius:8px;margin:.5rem 0 1.5rem}
     .body{font-family:Georgia,"Times New Roman",serif;font-size:1.14rem;line-height:1.8;overflow-wrap:break-word;word-break:break-word}
     .body :global(p){margin:0 0 1.15em}
@@ -48,5 +96,42 @@ const jsonLd = {
     .body :global(h2),.body :global(h3){margin:1.6em 0 .4em}
     .body :global(blockquote){border-left:3px solid var(--accent);margin:1.2em 0;padding:.2em 1.1em;color:var(--muted);font-style:italic}
     .body :global(a){color:var(--accent);text-decoration:underline;text-underline-offset:2px}
+    .authorcard{display:flex;gap:1rem;align-items:flex-start;margin:2.6rem 0 .5rem;padding:1.2rem 1.3rem;
+      background:var(--paper);border:1px solid var(--line);border-radius:12px}
+    .ac-av{width:64px;height:64px;border-radius:50%;flex:0 0 auto;object-fit:cover;display:grid;place-items:center;
+      font-family:Georgia,serif;font-weight:700;font-size:1.4rem;color:#fbf6ef;border:1px solid rgba(0,0,0,.06)}
+    .ac-body{min-width:0}
+    .ac-label{display:block;font-size:.68rem;text-transform:uppercase;letter-spacing:.14em;color:var(--accent);font-weight:700}
+    .ac-name{font-family:Georgia,"Times New Roman",serif;font-size:1.3rem;font-weight:700;line-height:1.2;display:inline-block;margin:.1rem 0}
+    .ac-name:hover{color:var(--accent)}
+    .ac-bio{margin:.35rem 0 .55rem;color:var(--muted);font-size:.92rem;line-height:1.55}
+    .ac-meta{margin:0;font-size:.82rem;display:flex;gap:.9rem;flex-wrap:wrap;align-items:center}
+    .ac-meta a{color:var(--accent)}
+    .ac-link{text-transform:uppercase;letter-spacing:.05em;font-size:.72rem;font-weight:600}
+    .share{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:2.2rem 0 .5rem;
+      padding-top:1.2rem;border-top:1px solid var(--line)}
+    .share-l{font-size:.72rem;text-transform:uppercase;letter-spacing:.12em;color:var(--muted);font-weight:700;margin-right:.2rem}
+    .share a,.share .copybtn{font-size:.82rem;color:var(--accent);border:1px solid var(--line);background:var(--paper);
+      border-radius:20px;padding:.32rem .8rem;text-decoration:none;cursor:pointer;font-family:inherit;line-height:1}
+    .share a:hover,.share .copybtn:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+    .cite{margin:1.4rem 0 .5rem;border:1px solid var(--line);border-radius:10px;background:var(--paper);padding:.4rem 1rem}
+    .cite summary{cursor:pointer;font-size:.85rem;color:var(--muted);font-weight:600;padding:.5rem 0;list-style:none}
+    .cite summary::-webkit-details-marker{display:none}
+    .cite summary::before{content:"❞ ";color:var(--accent)}
+    .cite[open] summary{border-bottom:1px solid var(--line);margin-bottom:.6rem}
+    .cite-text{font-size:.86rem;color:var(--ink);margin:.3rem 0 .6rem;line-height:1.5}
+    .cite .copybtn{font-size:.78rem;color:var(--accent);border:1px solid var(--accent);background:transparent;
+      border-radius:7px;padding:.35rem .8rem;cursor:pointer;font-family:inherit;margin-bottom:.5rem}
+    .cite .copybtn:hover{background:var(--accent);color:#fff}
   </style>
+  <script is:inline>
+    document.addEventListener('click',function(e){
+      var b=e.target.closest('.copybtn'); if(!b) return;
+      var txt=b.getAttribute('data-copy')||'';
+      navigator.clipboard.writeText(txt).then(function(){
+        var old=b.textContent; b.textContent='¡Copiado!';
+        setTimeout(function(){ b.textContent=old; },1600);
+      }).catch(function(){});
+    });
+  </script>
 </Base>

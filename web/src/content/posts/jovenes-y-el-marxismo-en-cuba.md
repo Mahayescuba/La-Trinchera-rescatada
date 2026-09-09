@@ -1,10 +1,12 @@
 ---
 title: "Veinticinco jóvenes y el marxismo"
 date: "2018-04-05T15:15:34+00:00"
-author: ": Leydi Claudia Bravet Ramírez"
+author: "Leydi Claudia Bravet Ramírez"
 category: "Trinchera Abierta"
 image: ""
 ---
+Por**: Leydi Claudia Bravet Ramírez** y **Marcos Paz Sablon**
+
 Viento. Brisas de aire soplan por los entresijos de las sillas de plástico, lengüetean los canalillos de las baldosas, chocan con los barandajes de hierro que delimitan la terraza. Allí, sentados a comoquiera sobre las sillas, 25 jóvenes con los ojos abiertos. A 25 jóvenes cubanos  les interesa hablar de marxismo. Quizás sean los únicos.
 
 ¿Y redescubrir y  cambiar lo  que debe ser redescubierto y transformado? En todos los espacios institucionales  habituales de coloquios marxistas impera siempre la tendencia apologética a la filosofía del “viejo Charlie”- como diría alguno- tocando somera y rápidamente algunos de sus limitaciones. Eso ni es crítica, ni análisis real. El Foro de Estudios Críticos a través del Proyecto La Trinchera  propone entonces de verdad pensar a Marx y a Engels,  diseccionar de cada concepto una significación, recontextualizando en épocas, en lugares,  en sentidos. Analítica consciente, nunca sin dejar de horadar en las varias lagunas de su pensamiento, en las incongruencias y contradicciones internas de un sistema de ideas. Hoy con un tema que los panelistas sabían teórico total: el papel de Engels en el marxismo, con el visto bueno de [Martha Harnecker](https://es.wikipedia.org/wiki/Marta_Harnecker), uno de esos monumentos vivos  a los que pretenden muchos marxistas emular- o disimular- acomodado en el discreto nombre de “Trinchera Abierta”.

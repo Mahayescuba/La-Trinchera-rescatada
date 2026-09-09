@@ -1,7 +1,7 @@
 ---
 title: "Una oda oculta en El Principito"
 date: "2018-03-15T11:15:49+00:00"
-author: "Miguel Alejandro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: ""
 ---

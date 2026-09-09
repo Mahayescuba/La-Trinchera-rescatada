@@ -1,13 +1,11 @@
 ---
 title: "¿Violaciones de la ley electoral?"
 date: "2019-02-12T06:20:35+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
 image: ""
 ---
 Ley electoral. 
-
-**Por: José Gabriel Barrenechea**
 
 Las autoridades, al igual que los ciudadanos, deben respetar las leyes. En el actual proceso electoral, puede aparecer alguna excepción.  
 Hasta el momento, veo que se han dado dos violaciones -nada despreciables- de la Ley Electoral vigente por parte de las autoridades de la Isla:

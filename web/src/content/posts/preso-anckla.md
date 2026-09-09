@@ -1,13 +1,11 @@
 ---
 title: "Preso"
 date: "2019-07-30T17:42:28+00:00"
-author: ""
+author: "Anckla"
 category: "Onírica"
 image: ""
 ---
 Preso.
-
-**Por: Anckla**
 
 Y la cama se sentía como el arrecife en mi espalda. La angustia, amarga y fétida, llega a mis pulmones en marea, conquistando mi boca como si fuera un beso de ira, o el olor de la muerte en vida, reclamandome el aliento inmerecido que exhalo a su paso.  
 Esta noche hierven en mi mente mis ojos salados.  

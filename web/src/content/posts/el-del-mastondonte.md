@@ -1,13 +1,11 @@
 ---
 title: "El del mastodonte"
 date: "2020-05-19T18:29:52+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Onírica"
 image: ""
 ---
 A la espera, busco información sobre Raúl, el del mastodonte.
-
-**Por: Miguel Alejandro Hayes**
 
 Yo no conocía a [Raúl Suñet](https://www.arbolinvertido.com/cultura/raul-sunet-el-viaje-infinito). Su poema del Mastodonte lo había visto, hace como un año, en el boletín de Abelardo(1) y lo repliqué en La Trinchera. Ahí ha estado sin pena ni gloria.  
 Como el que no quiere la cosa, compartí este domingo en las redes del blog el poema. De pronto, _[La generación del Mastodonte amarillo](/politica-en-cuba/)_ era el texto más leído. Se disparan las entradas. Y seguía sin saber quién era ese poeta.  

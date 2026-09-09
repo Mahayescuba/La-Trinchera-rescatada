@@ -1,12 +1,10 @@
 ---
 title: "La globalización no es reversible"
 date: ""
-author: ""
+author: "René Portuondo"
 category: ""
 image: ""
 ---
-Por: Rene Portuondo
-
 En los últimos tiempos han tomado relevancia posturas, que defienden que algunos de los sucesos que están ocurriendo en el escenario internacional actual son parte de un retroceso en el proceso de globalización. En gran medida, los partidarios de estas ideas han encontrado aliados en los movimientos nacionalistas que han despuntado en varias regiones del mundo, y que defienden un reacomodo de las relaciones económicas internacionales.  
 Por una parte, en el plano económico se tiende a argumentar que el crecimiento del comercio internacional ha decrecido en los últimos años, cayendo por debajo incluso del crecimiento de la economía mundial, después de muchos años en donde el comercio crecía a mucha mayor velocidad que la producción. Esto significa que en algunas economías han comenzado a apostar por el incentivo de sus mercados internos en detrimento de un crecimiento desproporcionado de la dependencia a las relaciones económicas internacionales. Por otro lado, se atribuyen a sucesos con un marcado peso político, como el Brexit o la salida de los Estados Unidos de varios de los tratados de libre comercio, como expresiones de un retroceso en las relaciones comerciales establecidas en pleno proceso de globalización neoliberal, lo que pone en cuestionamiento el propio proceso que las creo.  
 Dicho debate se encuentra hoy en pleno desarrollo, muchos especialistas desde disimiles posturas teóricas abordan la cuestión, que tiende a girar en torno a una pregunta fundamental, ¿está en crisis el proceso de globalización?  

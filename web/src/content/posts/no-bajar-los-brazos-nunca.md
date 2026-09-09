@@ -1,13 +1,11 @@
 ---
 title: "No bajar los brazos…nunca"
 date: "2019-12-08T05:04:20+00:00"
-author: ""
+author: "Alberto Miguel de la Paz Suárez"
 category: "Festival de cine de La Habana"
 image: ""
 ---
 La odisea de los giles. 
-
-**Por: Alberto Miguel de la Paz Suárez**
 
 Divertir y pensar son dos posturas estratégicas que bien manejadas puedan arrancar un sí definitivo a quienes apuestan para el consumo de un determinado producto. Tal es el caso del filme argentino _La odisea de los giles_ (2019).  
 Es emocionante salir del cine y percibir un público conmovido con un película: _…es que lo tiene todo…_ Los índices de audiencia recogidos en sitios digitales apuntan a un 98% de aceptación. Es lo que cuenta al final, saber encontrar los resortes y códigos que harían de un filme algo que revomendar al otro cuál si de una solución mítica se tratara.  

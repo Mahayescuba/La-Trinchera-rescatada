@@ -1,13 +1,11 @@
 ---
 title: "El camino de la lealtad"
 date: "2020-07-31T16:00:00+00:00"
-author: ""
+author: "Roberto Chile"
 category: "Onírica"
 image: ""
 ---
 Muerte de Eusebio Leal. 
-
-**Por: Roberto Chile**
 
 Para hablar de Eusebio Leal hay que hacerlo con el corazón, porque Eusebio no es un hombre común, es un hombre excepcional, un elegido.
 

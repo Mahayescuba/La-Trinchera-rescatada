@@ -1,13 +1,11 @@
 ---
 title: "Dios y los Reyes de la Cebolla"
 date: "2020-06-15T12:13:03+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Onírica"
 image: ""
 ---
 Amanece en mi barrio y muchos vecinos corren para marcar en el agro, pues ha nacido la bola de la llegada de cebolla a precio estatal, un producto casi impagable en los últimos tiempos.
-
-**Por Julio Pernús**
 
 La cámara los mira de frente, mientras ellos esperan la señal para hablarle a un  periodista que acaban de conocer, junto con la llegada de la policía a sus casas. El temor les corre por la sangre, mientras ven escabullirse de sus ojos un futuro acumulado. Unos minutos después, ya el camarógrafo anuncia que la grabación está lista. Un nasobuco intenta ocultar por algunos instantes la inquietud de unos labios antes de declararse culpables en una especie de juicio televisivo, pero real. Sus madres, esposas e hijos sostienen casa adentro y a duras penas los ríos de llanto. Saben que la vida les cambiará de un momento a otro, cuando el “hombre de la casa” comience a vivir en el desierto que le espera tras haber acaparado en su entorno algunos años de prosperidad.
 

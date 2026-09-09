@@ -1,7 +1,7 @@
 ---
 title: "La educación de la esperanza"
 date: "2021-01-27T17:00:00+00:00"
-author: ""
+author: "René Fidel González García"
 category: "Política en Cuba"
 image: ""
 ---

@@ -1,13 +1,11 @@
 ---
 title: "Marx+Proudhon (VIII)"
 date: "2018-12-02T20:16:57+00:00"
-author: ""
+author: "Oscar Herrero"
 category: "Marxismo"
 image: ""
 ---
 Marx y Proudhon.
-
-**Por: Oscar Herrero**
 
 ### El “conservadurismo” de Proudhon
 

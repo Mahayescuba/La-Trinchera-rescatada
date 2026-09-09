@@ -1,12 +1,10 @@
 ---
 title: "Presidencia de la República responde al joven Carlos Boza Mojena"
 date: "2020-03-08T03:05:02+00:00"
-author: ""
+author: "Giordan Rodríguez Milanés"
 category: "Noticias"
 image: ""
 ---
-**Por: Giordan Rodríguez Milanés**
-
 Presidencia de la República responde al joven [Carlos Boza Mojena](/politica-en-cuba/) y atenderá su queja por el sistema de atención a la población.  
 Carlos Yordanys es un discapacitado del municipio de guisa que ha denunciado la negación a dejarlo matricular la carrera de medicina -que se ganara al finalizar su preuniversitario- porque, según le dijeron en Granma, hay una Resolución del MINSAP que no contempla su padecimiento entre los que se permiten estudiar en universidades médicas.  
 Otros argumentos que le dieron para no dejarlo matricular fueron:  

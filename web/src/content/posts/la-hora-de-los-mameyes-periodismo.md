@@ -1,13 +1,11 @@
 ---
 title: "La hora de los mameyes"
 date: "2019-11-23T21:26:49+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Opinión"
 image: "/wp-content/uploads/2019/11/IMG_20191123_014258_468.jpg"
 ---
 Periodismo. 
-
-**Por: Jorge Fernández Era**
 
   
 El periódico _Granma_ y el _Noticiero Nacional_ _de Televisión_ nos han dado en los últimos días algunas lecciones de periodismo.  

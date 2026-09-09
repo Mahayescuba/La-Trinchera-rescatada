@@ -1,7 +1,7 @@
 ---
 title: "Bolivia: ¿culpa de quién?"
 date: "2019-11-19T04:44:23+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Política"
 image: ""
 ---
@@ -11,8 +11,6 @@ _“Los políticos y los pañales han de_
 _cambiarse con la misma frecuencia_  
 _y por la misma razón.”_  
 Bernard Shaw
-
-**Por: Ernesto Gutiérrez Leyva**
 
 > _“Ojalá que Dios, la Pachamama o la divinidad que sea, den fuerza a algunos y sabiduría y humildad a otros para que, por encima de los intereses personales en juego, piensen ante todo en el bien de Bolivia y el gestante dilema tenga un feliz desenlace.”_
 

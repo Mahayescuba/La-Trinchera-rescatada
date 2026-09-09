@@ -1,12 +1,10 @@
 ---
 title: "Derrota"
 date: ""
-author: ""
+author: "Ana Barnes"
 category: ""
 image: ""
 ---
-Por: Ana Barnes
-
 Mientras luchas tus batallas  
 Yo bombardeo mis dudas  
 Dinamito los puentes  

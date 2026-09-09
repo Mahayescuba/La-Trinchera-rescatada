@@ -1,12 +1,10 @@
 ---
 title: "Aullidos a una luna tricolor estrellada"
 date: ""
-author: ""
+author: "Alberto Miguel de la Paz Suárez"
 category: ""
 image: ""
 ---
-Por: Alberto Miguel de la Paz Suárez
-
 Esta pudiera ser la historia de tantos niños desarraigados a causa de la migración hacia alguna metrópoli. La promesa de la oportunidad conquistada nos llega en los construcciones audiovisuales y los cuentos y brillos con que justifican los winners (ganadores —los que se atrevieron—), una decisión engañosa y difícil en todas sus consecuencias y peor en los silencios, en la apariencia de felicidad.
 
 \> ¿Cuánto cuesta?

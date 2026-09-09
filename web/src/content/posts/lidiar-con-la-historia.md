@@ -1,13 +1,11 @@
 ---
 title: "Lidiar con la historia"
 date: "2020-01-20T23:27:16+00:00"
-author: ""
+author: "Pablo Antonio González López"
 category: "Opinión"
 image: ""
 ---
 historia.
-
-**Por: Pablo Antonio González López**
 
 Muchos son los desafíos que un pueblo puede enfrentar, pero no hay ninguno más determinante que el de enfrentar nuestro pasado. Aprendí hace poco que cada nación interactúa con su historia de manera distinta, tal vez por sus características culturales, o tal vez por intereses nacionales; y me chocó muchísimo pues, a pesar de que he visto como se encubren mentiras, nunca presencié cómo encubrir la historia.
 

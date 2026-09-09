@@ -1,13 +1,11 @@
 ---
 title: "Sobre la breve historia de la ciencia"
 date: "2018-08-27T13:48:24+00:00"
-author: ""
+author: "Iramís Rosique"
 category: "Opinión"
 image: ""
 ---
 ## En respuesta al artículo “Una breve historia sobre la Ciencia”
-
-**Por: Iramís Rosique**
 
 Miguel:
 

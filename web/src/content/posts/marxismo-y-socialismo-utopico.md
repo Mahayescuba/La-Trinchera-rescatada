@@ -1,13 +1,11 @@
 ---
 title: "El marxismo y el nuevo socialismo utópico"
 date: "2020-08-04T16:00:00+00:00"
-author: ""
+author: "Sviajsk"
 category: "Marxismo"
 image: ""
 ---
 Marxismo y socialismo utópico. 
-
-**Por: Sviajsk**
 
 El marxismo se convirtió en el nuevo socialismo utópico.
 

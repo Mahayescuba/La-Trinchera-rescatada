@@ -1,7 +1,7 @@
 ---
 title: "Los hay que"
 date: "2020-05-05T19:35:46+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/05/de1a3fc6cab02b926246ecfbca9f6923.jpg"
 ---

@@ -1,13 +1,11 @@
 ---
 title: "El último aldabonazo"
 date: "2020-08-06T09:30:00+00:00"
-author: ""
+author: "Adriana Fonte"
 category: "Historia"
 image: "/wp-content/uploads/2020/08/2020-08-06-13.07.43.jpg"
 ---
 Un texto sobre la muerte de Eduardo Chibás.
-
-**Por: Adriana Fonte**
 
 Eduardo Chibás, santiaguero de nacimiento (1907), ingresó con 17 años en la Universidad de la Habana en la Facultad de Derecho y enseguida se convirtió en un distinguido miembro de[l _Directorio Estudiantil Revolucionario_](http://www.5septiembre.cu/tag/directorio-estudiantil-revolucionario/). Ya para 1927 es expulsado del centro de altos estudios y luego encarcelado y enviado al exilio un año después por su aguda lucha contra el poder del dictador Gerardo Machado. Luego de la caída de la caída de este, regresa a Cuba defendiendo las ideas de Ramón Grau San Martín.
 

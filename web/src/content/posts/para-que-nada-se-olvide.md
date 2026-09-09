@@ -1,13 +1,11 @@
 ---
 title: "Para que nada se olvide"
 date: "2020-08-06T16:00:00+00:00"
-author: ""
+author: "Ana Barnes"
 category: "Historia"
 image: ""
 ---
 Y ahí quedan, frente a nuestra conciencia, las palabras inscritas en el _Memorial de la Paz_ en Hiroshima, para que nada se olvide. 
-
-**Por: Ana Barnes** 
 
 Este jueves, el mundo recuerda uno de los sucesos más trágicos de la Segunda Guerra Mundial. Hace hoy 75 años, el 6 de agosto de 1945, en horas de la mañana, caía en Japón la primera bomba atómica de la historia de la humanidad. Las consecuencias de esta catástrofe aún son visibles hoy.
 

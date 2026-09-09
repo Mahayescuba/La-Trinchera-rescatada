@@ -1,13 +1,11 @@
 ---
 title: "Mis circunstancias y yo"
 date: "2019-08-30T07:45:41+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 la crítica y las circunstancias.
-
-**Por: Miguel Alejandro Hayes**
 
 Quizá escriba pasado de tono, no lo voy a negar, pero tengo un buen motivo para hacerlo. No sería la primera vez. Se puede notar también cierto resentimiento, molestia e incomodidad en alguno de mis textos. Quizás debiera moderarme para mantener una cierta diplomacia.  
 Este es uno de esos momentos en que me cuestiono lo que escribo, no por su contenido, sino el ¿para qué sirven? No dejo de pensar en un artículo de Esteban Morales, y repetirme la pregunta ¿quién me lee? Por instantes tengo en cuenta la opción de que todo esto de escribir sea solo un juego, un ejercicio para insertarse en una endogamia de un grupo cerrado y parecer un tipo valiente que burla la censura y la indiferencia de los medios oficiales- que es lo mismo-, y despierta de su sueño sublime a los censores -algo así como _Librepensadorman_.  

@@ -1,7 +1,7 @@
 ---
 title: "La Champions y el fútbol deben tejer un nuevo paradigma existencial"
 date: "2020-08-27T09:30:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
@@ -10,8 +10,6 @@ futbol y mercado
 Leonel Messi gana 50 millones de dólares al año, pero aun así, no parece ser suficiente, hemos convertido a hombre en _dioses_ y esto tiene costos ya evidenciables en la crisis que vive toda la comunidad de Barcelona con su presunta salida.
 
 ## Algunos apuntes sobre el papel del mercado en el escenario futbolístico mundial
-
-**Por: Julio Pernús**
 
  La semana pasada, los amantes del más universal de los deportes estuvimos de _[plácemes](https://es.thefreedictionary.com/plácemes)_, pues hemos sido testigos de dos extraordinarias finales de clubes en Europa, la **[UEFA Europa League](https://es.uefa.com/uefaeuropaleague/)**, ganada de forma justa por el Sevilla y la **[Champions League](https://es.uefa.com/uefachampionsleague/)**, donde con autoridad triunfó el _[Bayer de Múnich](https://fcbayern.com/es)_. En realidad, puede que a muchos les resulte un poco desconcertante, pedir transformaciones a un deporte que se ha convertido en el más popular del planeta, pero temo que la _hiperfutboralidad_ nos ha llevado a tejer un ecosistema de ligas y torneos futboleros, totalmente insostenibles en el tiempo.
 

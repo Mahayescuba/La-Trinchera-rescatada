@@ -1,13 +1,11 @@
 ---
 title: "La Armadura de Dios"
 date: "2019-08-05T13:47:18+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 Dios. 
-
-**Por: Julio Pernús**
 
 Él acaricia con sus manos un elefante dibujado a todo lo ancho de la pared. Tan quieto. Y yo me molesto con mi falta de imaginación.
 

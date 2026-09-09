@@ -1,13 +1,11 @@
 ---
 title: "¿Quién financia a La Trinchera?"
 date: "2020-12-31T10:30:00+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 _Nota a los lectores: Para este final de año, a los editores de La Trinchera nos complace presentarles una selección de los textos más leídos de cada uno de los colaboradores de este espacio. A todos les agradecemos su confianza._ 
-
-**Por: Miguel Alejandro Hayes**
 
   
 No es un hecho aislado que me pregunten con qué dinero se sostiene La Trinchera (LT); como tampoco lo es el que le ocurra lo mismo a los colaboradores del proyecto. Son cuestionamientos “normales” en nuestra sociedad basada en el principio de la _presunción de culpabilidad_. De lo que deriva la nunca certera acusación de ser LT una plataforma financiada con dinero subversivo o de cambio de régimen.

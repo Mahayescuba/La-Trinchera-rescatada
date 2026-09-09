@@ -1,15 +1,13 @@
 ---
 title: "Debate sobre el valor del arte"
 date: "2019-03-31T18:00:14+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo"
 image: "/wp-content/uploads/2019/04/PicsArt_04-01-01.41.02.jpg"
 ---
 Valor del arte. 
 
 Fotografía: Wendy Pérez Bereijo
-
-**Por: Miguel Alejandro Hayes**
 
 Hace varios meses publiqué un artículo titulado ¿Cuál es el valor del arte? (1) Recientemente ha generado algunos comentarios (2). A responderlos, van dedicadas estas líneas. Aclaro, que bajo el espíritu del diálogo entre marxistas, siempre con el deseo de enriquecer, retroalimentar y mejorar, es que hago esta contestación.
 

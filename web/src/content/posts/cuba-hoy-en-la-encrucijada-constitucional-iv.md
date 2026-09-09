@@ -1,13 +1,11 @@
 ---
 title: "Cuba hoy, en la encrucijada constitucional (IV)"
 date: "2018-12-18T15:40:12+00:00"
-author: ""
+author: "Ernesto Gutiérrez"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2018/12/IMG_20181218_103840.jpg"
 ---
 Reforma constitucional en Cuba.
-
-**Por: Ernesto Gutiérrez**
 
 La situación actual es posible en nuestro país, debido a lo extremadamente breves que son las sesiones de la Asamblea Nacional, las cuales dicho sea de paso, suelen pasar sin penas ni glorias ante la opinión pública nacional.
 

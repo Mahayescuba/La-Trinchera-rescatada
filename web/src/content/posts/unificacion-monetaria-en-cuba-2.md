@@ -1,13 +1,11 @@
 ---
 title: "La unificación monetaria y la “percepción”"
 date: "2019-01-04T06:48:13+00:00"
-author: ""
+author: "Tamarys L. Bahamonde"
 category: "Economía en Cuba"
 image: ""
 ---
 Dualidad monetaria Cuba.
-
-**Por: Tamarys L. Bahamonde**
 
 Mucho se ha dicho y se ha debatido sobre el tema de la dualidad monetaria en Cuba y sus efectos en la economía cubana. Aún así, es un tema difícil de entender por los no especialistas. A decir verdad, es un asunto complicado para los economistas, y se sabe que los economistas, por regla general, no sabemos explicar la economía, y ahí seguimos en el círculo vicioso de la incomprensión.
 

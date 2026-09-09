@@ -1,13 +1,11 @@
 ---
 title: "“Capital e ideología”, nuevo libro de Thomas Piketty"
 date: "2019-09-15T23:23:02+00:00"
-author: ""
+author: "Eduardo Febbro"
 category: "Economía Política"
 image: ""
 ---
 _Capital e ideología: Para Thomas Piketty la desigualdad es ideológica y política._
-
-**Por: Eduardo Febbro**
 
 > En «Capital e ideología», el economista francés derriba las narrativas del liberalismo.
 

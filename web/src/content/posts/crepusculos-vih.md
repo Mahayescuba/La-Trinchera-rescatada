@@ -1,11 +1,10 @@
 ---
 title: "Crepúsculos"
 date: ""
-author: ""
+author: "Norma Normand Cabrera"
 category: ""
 image: ""
 ---
-Por: Norma Normand Cabrera  
 Siempre le había gustado bañarse en la playa al atardecer. Por eso, en su ya lejana primera cita, mientras hacían el amor dentro del agua, Fausto le dijo que le regalaba la puesta de sol de aquel sábado en Guanabo. Después se volvió una costumbre y cada ocaso que pasaban juntos Melina lo recibía como ofrenda.  
 Hacía mucho la vida los había separado, o quién sabe si colocado las cosas en su lugar: después de todo los dos eran casados, tenían hijos, responsabilidades familiares. Pero nada de eso le importó entonces a Melina, como tampoco parecía importarle ahora, al enfrentarlo de nuevo, cual bendita aparición. Esta vez era Varadero. Esperaba sentada en la arena la llegada del crepúsculo cuando lo vio avanzar por la orilla, con aquel paso de dueño del mundo que ella tan bien conocía. Se incorporó y caminó a su encuentro. Él, al reconocerla, se apuró para alcanzarla. Sin mediar palabra, entre nerviosos y sorprendidos, se abrazaron con ternura. Al separarse, y como al descuido, se recorrieron con la mirada, complacido cada uno de lo que veía frente a sí.  
 \-¡Melina, esto sí que es una sorpresa!, ¿cuánto tiempo ha pasado?, ¿quince años, veinte?  

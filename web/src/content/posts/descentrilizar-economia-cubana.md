@@ -1,13 +1,11 @@
 ---
 title: "¿Vamos a descentralizar?"
 date: "2019-06-21T16:39:02+00:00"
-author: ""
+author: "René Portuondo"
 category: "Economía en Cuba"
 image: ""
 ---
 Es un paso más, importante, pero siendo honesto, en el orden de las muchas cuestiones económicas que debe resolver la economía cubana no es, a mi criterio, de los fundamentales.
-
-**Por: René Portuondo**
 
 En los últimos días se ha hablado en el entorno de los medios digitales cubanos sobre la intervención realizada por el Presidente de los Consejos de Estado y de Ministro Miguel Díaz–Canel, en el recién finalizado Congreso de la [_ANEC_](https://www.anec.cu/en) [(1)](https://elestadocomotal.com/2019/06/16/los-economistas-cubanos-el-discurso-del-cambio-y-la-insondable-metodologia-del-plan-2020/) [(2)](https://elestadocomotal.com/2019/06/14/los-economistas-cubanos-y-la-batalla-economica-sin-novedad-en-el-frente/) [(3)](https://jovencuba.com/2019/06/19/construir-plan-abajo/). Los anuncios en el mismo realizados, han destacado en tanto se interpretan por muchos como el comienzo de un periodo de democratización y descentralización de la conducción de la economía cubana. Frases como “el plan no llegara desde arriba”, “los trabajadores serán los responsables de la elaboración del plan de las empresas” y el llamado a un “cambio de mentalidad para hacer efectiva dichas medidas” han sido tendencia en el debate de los últimos días.
 

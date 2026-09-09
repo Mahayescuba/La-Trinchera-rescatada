@@ -1,11 +1,10 @@
 ---
 title: "La anciana"
 date: ""
-author: ""
+author: "Pablo Dussac"
 category: ""
 image: ""
 ---
-Por: Pablo Dussac  
 Llora triste la anciana  
 Lágrimas de silencio  
 Por los rastros de dolor  

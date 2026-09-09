@@ -1,13 +1,11 @@
 ---
 title: "El miedo como bandera"
 date: "2020-11-06T14:20:10+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 ## Reflexión sobre las amenazas esgrimidas en redes sociales, sobre algunos sacerdotes cubanos  
-
-**Por: Julio Pernús**
 
 _Tengo miedo_ no es solo una frase manida atribuida al intelectual católico Virgilio Piñera, más bien parece ser la norma que desean instalar en la mente de sus contrarios,   grupos extremistas vinculados con agendas políticas de las dos orillas. Solo así se puede justificar las amenazas hasta de muerte, recibidas por parte de personas que se han expresado con libertad contrario al discurso hegemónico tanto de un lado como de otro.
 

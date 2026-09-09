@@ -1,13 +1,11 @@
 ---
 title: "La Isla en Peso"
 date: "2021-05-26T09:30:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 ## Apuntes sobre cómo encarar al miedo desde la fe
-
-**Por: Julio Pernús**
 
 El aislamiento producto de la pandemia nos ha permitido revisar lecturas pendientes, _la Isla en Peso_  de Virgilio Piñera estuvo entre los versos que pude apreciar tras caer en mi biblioteca digital.  
 

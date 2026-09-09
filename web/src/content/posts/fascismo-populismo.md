@@ -1,7 +1,7 @@
 ---
 title: "¿Fascismo millenial o populismo fascistoide?"
 date: "2019-04-25T07:00:17+00:00"
-author: ""
+author: "Jaime Malhue"
 category: "Marxismo"
 image: ""
 ---
@@ -12,8 +12,6 @@ fascismo millenial populismo.
 > _“El fascismo es totalitario incluso en el hecho de que trata de poner la rebelión de la naturaleza oprimida contra el dominio directamente al servicio de este último.”_
 > 
 > Theodor Adorno
-
-**Por: Jaime Malhue**
 
 En la historia, el fascismo siempre se asoma luego de una profunda crisis del liberalismo. A comienzos del siglo XX explotó una gran crisis política de representatividad, luego de que la reciente “democracia de masas” no cumpliera con la democratización prometida. A los ya consabidos vicios del liberalismo político—la brecha entre un discurso meritocrático y la realidad de nepotismo y cuoteo político, la consecuente exclusión política y social de sectores postergados, la imposibilidad de seguir manteniendo la retórica liberal del exclusivo esfuerzo individual para el bienestar material, en un contexto social donde era evidente la corrupción de la elite dirigente— se sumaron las catástrofes de la Primera Guerra mundial y el crack económico de 1929. Esto significó un verdadero mazazo para los estratos medios de la sociedad. Frente a la grave crisis que azotaba a Europa surgieron alternativas políticas radicales; primero en la Italia de Mussolini, luego en la Alemania de Hitler. En la actualidad podemos encontrar ciertas similitudes; el azote de la crisis subprime generada en Estados Unidos el 2008 terminó siendo exportada a Europa. Fueron especialmente los latinos —España, Italia y Grecia— quienes pagaron los platos rotos. A nivel político, el declive económico vino acompañado por una nueva crisis de representación. En esta oportunidad, el sueño tecnocrático del neoliberalismo —basado en una dominación sobre supuestos de pretendida neutralidad científica— estallaba en mil pedazos. La crisis fue de tal magnitud, que la misma economía resultó fuertemente cuestionada en su dignidad de ciencia, quedando develada su faceta como “dispositivo de dominación”.
 

@@ -1,12 +1,10 @@
 ---
 title: "Vacaciones"
 date: "2020-07-11T09:00:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
-**Por: Julio Pernús**
-
 Cuando pienso en las vacaciones, me vienen a la mente esos veranos infantiles que pasábamos en familia en la casa de Rancho Luna, [Cienfuegos](https://es.wikipedia.org/wiki/Cienfuegos), que cedían por su trabajo a mi mamá. Vivíamos momentos inolvidables marcados por un mar siempre dispuesto a regalarnos nuevos juegos.
 
 La palabra _vacación_ procede del latín _vacatio_, en referencia al descanso de una actividad habitual o a un período en que las personas que estudian o trabajan suspenden temporalmente sus obligaciones. Aunque parezca increíble, quizás estemos presenciando el final de lo que teníamos por vacaciones: en un mundo totalmente hiperconectado, se pierde muchas veces ese horizonte tan anhelado que nos invitaba a desconectarnos. Hoy nadie quiere _desconectarse_, porque equivaldría a dejar de existir.

@@ -1,11 +1,11 @@
 ---
 title: "¿\"LCB2: La Otra Guerra\" contra una imagen de Dios?"
 date: ""
-author: ""
+author: "Julio Pernús"
 category: ""
 image: ""
 ---
-Por: Julio Pernús El escritor cubano José Lezama Lima decía:
+El escritor cubano José Lezama Lima decía:
 
 la imagen es la causa secreta de la historia. El hombre es siempre un prodigio, de ahí que la imagen lo penetre, lo impulse. La hipótesis de la imagen es siempre la posibilidad. En realidad, desde la primera temporada de la serie LCB: La Otra Guerra, que narra los acontecimientos reales de lucha entre cubanos en los primeros años de la década del 60, me pareció que se trataba de caracterizar peyorativamente al cristianismo. Durante los primeros capítulos, Mongo Castillo (Osvaldo Doimeadiós), al recoger a su hijo muerto entre los brazos se preguntaba: ¿Por qué los cristianos son unos asesinos y a qué Dios representan?
 

@@ -1,12 +1,10 @@
 ---
 title: "Y nosotros con la lengua afuera"
 date: "2019-07-07T05:50:26+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Cultura"
 image: ""
 ---
-**Por: Miguel Alejandro Hayes**
-
 Hace unos días, asistí a un concierto de Kamankola. Mientras esperaba, escribí estas notas. Acá las comparto.
 
 \*\*\*

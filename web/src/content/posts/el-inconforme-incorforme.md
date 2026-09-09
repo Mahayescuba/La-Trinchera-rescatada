@@ -1,13 +1,12 @@
 ---
 title: "El inconforme incorforme"
 date: "2020-02-25T13:52:01+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
 feria del libro.
 
-**Por: Jorge Fernández Era**  
 Había decidido no responder a Hermes J. Moreno Rodríguez desde que leí el eufemismo («arbitraje de los contenidos») que inserta en su refutación a mis escritos _[(Comer es crecer](/onirica/)_ y _[La Cabaña sin ton ni son](/opinion/)_), pues me decepcionó mucho fuera utilizado por una persona informada e inteligente. Pero al ver que para afincar sus criterios se vale (como se ha hecho común en casos como este) de la descalificación del oponente (_hipercríticos que se dedican a hacer valoraciones superficiales_, _ceguera intencional_, _deseos_ _de criticar sin que nada más importe_), ahí le van algunas otras valoraciones:  
 Al _arbitraje de los contenidos_ **(alias censura)** le puse nombre y apellidos. No hablé de un volumen que fue desechado en su evaluación. El libro de Alina Bárbara López Hernández fue aprobado por un Consejo Editorial en Matanzas y luego por otra institución afín en el [Instituto Cubano del Libro](https://www.ecured.cu/Instituto_Cubano_del_Libro).
 

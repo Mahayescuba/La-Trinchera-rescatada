@@ -1,15 +1,13 @@
 ---
 title: "En algún punto nos volveremos a reencontrar"
 date: "2020-07-18T22:04:43+00:00"
-author: ""
+author: "Ulises Padrón Suárez"
 category: "Cultura"
 image: ""
 ---
 Compartimos algunos comentarios a raíz de la muerte del músico Dany.
 
 > Como dicen que fueron sus últimas palabras en _algún punto nos volveremos a reencontrar_.
-
-**Por: Ulises Padrón Suárez**
 
 Tengo un problema con el reguetón, no es ningún conflicto amor/odio ni intelectualismo, que para mí llegó hasta Tego Calderón y las fiestas en el _pre_. Incluso, con mi amigo Lorenzo llegamos a componer algo en ese estilo. La muerte de El [Dany](https://www.ecured.cu/Yomil_y_el_Dany) me sobrecoge. Su juventud detenida por la repentina muerte me deja, como suele suceder, pensando en el valor de la vida. En sus 31 años hizo una carrera musical exitosa y hoy Centro Habana lo llora. Parece mentira pero solo bastan estas cosas para recolocar lo importante y lo imperecedero. Como dicen que fueron sus últimas palabras en _algún punto nos volveremos a reencontrar_.
 
