@@ -1,7 +1,7 @@
 ---
 title: "Generaciones y revolución"
 date: "2020-02-15T00:34:33+00:00"
-author: ""
+author: "Ricardo Jorge Machado"
 category: "Política en Cuba"
 image: ""
 ---
@@ -20,8 +20,6 @@ La historia de los años 60 cubanos es aún un prisma por redescubrir. Agradecem
 (Abelardo G Mena/ Habana Insider)
 
 ## Generaciones y revolución
-
-**Por: Ricardo Jorge Machado**
 
 (marzo 1965)
 

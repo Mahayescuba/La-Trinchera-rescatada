@@ -1,7 +1,7 @@
 ---
 title: "Rescatando a Martí"
 date: ""
-author: "Alina B. López Hernández"
+author: "Alina Bárbara López Hernández"
 category: ""
 image: ""
 ---

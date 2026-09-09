@@ -39,8 +39,16 @@ const NAME_FIX = {
   'Iramis Rosique':'Iramís Rosique',
   'Juan M. Ferran Oliva':'Juan M. Ferrán Oliva',
   'Marcos Paz Sablon':'Marcos Paz Sablón',
+  'Alina B. López Hernández':'Alina Bárbara López Hernández',
 };
 const fixName = n => NAME_FIX[n] || n;
+
+// autores recuperados desde la fuente original (URL de repost) — no están en el cuerpo
+const SOURCE_AUTHOR = {
+  'el-otro-pais':'René Fidel González García',       // cubaposible.com/author/rene-fidel-gonzalez-garcia
+  'marx-salario-y-capital':'Miguel Alejandro Hayes',  // rebelion.org/autor/miguel-alejandro-hayes
+  'los-hay-que':'Miguel Alejandro Hayes',             // rebelion.org/los-efectos-de-facundo
+};
 
 // palabras que siguen a "por" como preposición (no son nombres)
 const NOT_NAME = /^(qué|que|el|la|los|las|un|una|eso|ejemplo|ello|ende|tanto|tantos|supuesto|ahora|favor|aquí|allí|estos|estas|este|esta|cierto|momento|primera|otro|otra|medio|cada|si|más|demás)\b/i;
@@ -53,7 +61,7 @@ function findByline(body){
   const lines=body.split('\n');
   let acc=0;
   for(let i=0;i<lines.length;i++){
-    if(acc>900) break; acc+=lines[i].length+1;
+    if(i>=30 || acc>4000) break; acc+=lines[i].length+1;   // firma cerca del inicio (por línea o por caracteres)
     const de=lines[i].replace(/[*_`]/g,'');   // sin énfasis (arregla negritas partidas)
     // 1) línea que es SOLO "Por: Nombre" o "Autor: Nombre"
     let m=de.match(/^\s*(?:[Pp]or:?|[Aa]utor:)\s*([A-ZÁÉÍÓÚÑ][^\n]{1,45}?)\s*$/);
@@ -213,6 +221,7 @@ function extractOne(slug){
       else body=body.split('\n').filter(l=>l!==bl.line).join('\n');
     }
   }
+  if(!author && SOURCE_AUTHOR[slug]) author=SOURCE_AUTHOR[slug];   // recuperado de la fuente original
   if(!author && boxAuthorTrust) author=boxAuthorTrust;   // sin firma: usar caja solo si es autor real
   body=body.replace(/^\s*Anuncios\s*$/gmi,'').replace(/\n{3,}/g,'\n\n').trim();
   // limpiar enlaces de "contenido relacionado" inyectados por plugins

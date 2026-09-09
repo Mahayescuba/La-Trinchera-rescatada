@@ -1,7 +1,7 @@
 ---
 title: "Sea breve presidente"
 date: "2019-10-16T18:48:35+00:00"
-author: "Alina B. López Hernández"
+author: "Alina Bárbara López Hernández"
 category: "Política en Cuba"
 image: ""
 ---

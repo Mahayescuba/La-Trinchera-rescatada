@@ -1,7 +1,7 @@
 ---
 title: "De los agujeros negros a la Historia… y viceversa"
 date: "2019-08-08T15:37:52+00:00"
-author: "Alina B. López Hernández"
+author: "Alina Bárbara López Hernández"
 category: "Política en Cuba"
 image: ""
 ---
