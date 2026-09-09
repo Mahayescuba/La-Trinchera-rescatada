@@ -32,12 +32,16 @@ const ogImage = new URL(image || '/og-default.png', Astro.site).href;
   :root{ --ink:#1a1714; --muted:#6b625a; --line:#e7e0d6; --bg:#fbf9f5; --paper:#fff; --accent:#8a2b2b; --mono-ink:#fbf6ef;
     --display:"Fraunces",Georgia,"Times New Roman",serif; --read:Georgia,"Times New Roman",serif; }
   @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
-    --ink:#ece5db; --muted:#a89d92; --line:#352d27; --bg:#191512; --paper:#221d19; --accent:#d0685f; }
+    --ink:#ece5db; --muted:#b3a99e; --line:#352d27; --bg:#191512; --paper:#221d19; --accent:#d0685f; }
   }
   :root[data-theme="dark"]{
-    --ink:#ece5db; --muted:#a89d92; --line:#352d27; --bg:#191512; --paper:#221d19; --accent:#d0685f; }
+    --ink:#ece5db; --muted:#b3a99e; --line:#352d27; --bg:#191512; --paper:#221d19; --accent:#d0685f; }
   *{box-sizing:border-box}
   [hidden]{display:none!important}   /* que el atributo hidden gane sobre display:flex/grid */
+  :focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:3px}
+  .skip{position:absolute;left:.6rem;top:-3rem;z-index:100;background:var(--accent);color:#fff;
+    padding:.55rem .9rem;border-radius:8px;font-size:.85rem;font-weight:600;transition:top .15s}
+  .skip:focus{top:.6rem}
   body{margin:0;background:var(--bg);color:var(--ink);
     font-family:-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.65;}
   a{color:inherit;text-decoration:none}
@@ -73,9 +77,10 @@ const ogImage = new URL(image || '/og-default.png', Astro.site).href;
 </style>
 </head>
 <body>
+<a class="skip" href="#main">Saltar al contenido</a>
 <header class="site"><div class="wrap">
   <a class="brand" href="/">La Trinchera<small>muchas maneras de estar</small></a>
-  <nav class="main">
+  <nav class="main" aria-label="Navegación principal">
     <a href="/">Inicio</a>
     <a href="/categoria/politica-en-cuba/">Política</a>
     <a href="/categoria/economia-en-cuba/">Economía</a>
@@ -88,7 +93,7 @@ const ogImage = new URL(image || '/og-default.png', Astro.site).href;
     <button id="themeToggle" class="theme-btn" type="button" aria-label="Cambiar entre tema claro y oscuro" title="Tema claro/oscuro">☾</button>
   </nav>
 </div></header>
-<main><slot /></main>
+<main id="main"><slot /></main>
 <footer class="site"><div class="wrap">
   <div>
     <div>La Trinchera — archivo rescatado. {new Date().getFullYear()}</div>
