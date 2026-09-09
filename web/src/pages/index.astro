@@ -1,12 +1,18 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
-import { fixCat, slugify, fmtDate, excerpt, thumb } from '../lib/util';
+import { fixCat, slugify, fmtDate, excerpt, thumb, initials, monoColor } from '../lib/util';
+import authors from '../data/authors.json';
 const posts = (await getCollection('posts')).sort((a,b)=> (b.data.date||'').localeCompare(a.data.date||''));
 const withDate = posts.filter(p=>p.data.date);
 const featured = withDate.slice(0,1)[0];
 const rest = withDate.slice(1,25);
 const total = posts.length;
+// "Voces del archivo": autores más prolíficos
+const authorCounts:Record<string,number> = {};
+for(const p of posts){ const a=p.data.author; if(a) authorCounts[a]=(authorCounts[a]||0)+1; }
+const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,8)
+  .map(([name,count])=>{ const prof:any=(authors as any)[slugify(name)]||{}; return {name,count,hash:prof.hash||''}; });
 ---
 <Base title={null} description="Archivo rescatado de La Trinchera: una plataforma cubana para el debate y la reflexión.">
   <section class="wrap hero">
@@ -38,6 +44,23 @@ const total = posts.length;
       </a>
     ))}
   </section>
+  <section class="wrap voces">
+    <div class="voces-head">
+      <h2>Voces del archivo</h2>
+      <a class="voces-all" href="/autores/">Ver todos los autores →</a>
+    </div>
+    <div class="voces-grid">
+      {voces.map(v=> (
+        <a class="voz" href={`/autor/${slugify(v.name)}/`}>
+          {v.hash
+            ? <img class="voz-av" src={`https://www.gravatar.com/avatar/${v.hash}?s=120`} alt="" width="48" height="48" loading="lazy" />
+            : <span class="voz-av voz-mono" style={`background:${monoColor(v.name)}`}>{initials(v.name)}</span>}
+          <span class="voz-name">{v.name}</span>
+          <span class="voz-count">{v.count} textos</span>
+        </a>
+      ))}
+    </div>
+  </section>
   <style>
     .hero{padding:2.6rem 1.2rem 1.4rem;text-align:center}
     .hero .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.16em;font-size:.72rem;margin:0}
@@ -56,7 +79,20 @@ const total = posts.length;
     .card-body h3{font-size:1.12rem;margin:.15em 0}
     .card-body p{color:var(--muted);font-size:.9rem;margin:0}
     .meta{color:var(--muted);font-size:.76rem;margin-top:auto;padding-top:.3rem}
-    @media (max-width:860px){ .grid{grid-template-columns:repeat(2,1fr)} .feat{grid-template-columns:1fr} .feat-img{min-height:200px} }
-    @media (max-width:560px){ .grid{grid-template-columns:1fr} }
+    .voces{padding:1.6rem 1.2rem 2.6rem;border-top:1px solid var(--line)}
+    .voces-head{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin-bottom:1.1rem}
+    .voces-head h2{font-size:1.5rem;margin:0}
+    .voces-all{color:var(--accent);font-size:.85rem;font-weight:600}
+    .voces-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:.9rem}
+    .voz{display:flex;flex-direction:column;align-items:center;text-align:center;gap:.4rem;padding:1.1rem .8rem;
+      background:var(--paper);border:1px solid var(--line);border-radius:11px;text-decoration:none;color:inherit;transition:.15s}
+    .voz:hover{transform:translateY(-2px);box-shadow:0 8px 22px rgba(40,25,20,.06);border-color:var(--accent)}
+    .voz-av{width:56px;height:56px;border-radius:50%;object-fit:cover;display:grid;place-items:center;
+      font-family:Georgia,serif;font-weight:700;font-size:1.25rem;color:#fbf6ef;border:1px solid rgba(0,0,0,.06)}
+    .voz-name{font-family:Georgia,"Times New Roman",serif;font-weight:700;font-size:1rem;line-height:1.2}
+    .voz:hover .voz-name{color:var(--accent)}
+    .voz-count{color:var(--muted);font-size:.76rem}
+    @media (max-width:860px){ .grid{grid-template-columns:repeat(2,1fr)} .feat{grid-template-columns:1fr} .feat-img{min-height:200px} .voces-grid{grid-template-columns:repeat(3,1fr)} }
+    @media (max-width:560px){ .grid{grid-template-columns:1fr} .voces-grid{grid-template-columns:repeat(2,1fr)} }
   </style>
 </Base>

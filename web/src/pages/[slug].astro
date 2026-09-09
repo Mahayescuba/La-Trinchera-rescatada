@@ -6,10 +6,16 @@ import authors from '../data/authors.json';
 export async function getStaticPaths(){
   const posts = await getCollection('posts');
   const counts:Record<string,number> = {};
-  for(const x of posts){ const a=x.data.author; if(a) counts[a]=(counts[a]||0)+1; }
-  return posts.map(p=> ({ params:{ slug:p.slug }, props:{ p, count: p.data.author ? counts[p.data.author] : 0 } }));
+  const cats:Record<string,Record<string,number>> = {};
+  for(const x of posts){ const a=x.data.author; if(!a) continue;
+    counts[a]=(counts[a]||0)+1;
+    const c=fixCat(x.data.category);
+    if(c && c!=='Sin categoría'){ (cats[a] ??= {}); cats[a][c]=(cats[a][c]||0)+1; }
+  }
+  const topCatOf=(a:string)=>{ const e=Object.entries(cats[a]||{}).sort((x,y)=>y[1]-x[1])[0]; return e?e[0]:''; };
+  return posts.map(p=> ({ params:{ slug:p.slug }, props:{ p, count: p.data.author ? counts[p.data.author] : 0, topCat: p.data.author ? topCatOf(p.data.author) : '' } }));
 }
-const { p, count } = Astro.props;
+const { p, count, topCat } = Astro.props;
 const { Content } = await p.render();
 const desc = excerpt(p.body, 155);
 const prof:any = p.data.author ? ((authors as any)[slugify(p.data.author)] || {}) : null;
@@ -66,6 +72,7 @@ const jsonLd = {
           {prof.bio && <p class="ac-bio">{prof.bio}</p>}
           <p class="ac-meta">
             <a href={`/autor/${slugify(p.data.author)}/`}>{count} {count===1?'texto':'textos'} en La Trinchera</a>
+            {topCat && <a class="ac-link" href={`/categoria/${slugify(topCat)}/`}>{topCat}</a>}
             {prof.links && prof.links.map((l:string)=> (
               <a class="ac-link" href={l} target="_blank" rel="noopener">{l.startsWith('mailto:')?'correo':'sitio'}</a>
             ))}
