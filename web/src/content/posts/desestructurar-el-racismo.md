@@ -1,15 +1,13 @@
 ---
 title: "Desestructurar el racismo"
 date: "2020-04-22T09:30:06+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/04/Screenshot_20200422-030208-1.jpg"
 ---
 # ¿Hay racismo en Cuba?
 
 No sé si al salir este artículo, la investigadora [Zuleica Romay](https://www.ecured.cu/Zuleica_Romay), una de las voces autorizadas para hablar del tema de la racialidad y el racismo en Cuba.
-
-**Por: Julio Pernús**
 
 El racismo es una estructura mental que fácilmente se aloja en los seres humanos. Su desestructuración dependerá de un cambio radical en la filosofía cotidiana de muchas personas.
 

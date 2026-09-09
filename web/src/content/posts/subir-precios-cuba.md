@@ -1,13 +1,11 @@
 ---
 title: "¿Controles de precio? Mal camino…"
 date: "2019-08-02T09:32:07+00:00"
-author: ""
+author: "Óscar Fernández"
 category: "Economía en Cuba"
 image: ""
 ---
 Precios en Cuba.
-
-**Por: Óscar Fernández**
 
 Al mercado no se combate con fusiles, ni con fuerza de ningún tipo. Debe estudiarse su funcionamiento y conducirse con instrumentos indirectos. La  
 restricción de precios es un error total. Es un error de concepto. Es, además, esencialmente  

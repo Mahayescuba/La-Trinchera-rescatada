@@ -1,13 +1,11 @@
 ---
 title: "Rockanrollear"
 date: "2019-05-10T19:33:58+00:00"
-author: ""
+author: "Anckla"
 category: "Onírica"
 image: ""
 ---
 rockanrollear.
-
-**Por: Anckla**
 
 El cartel de _libre_ apagado, ya es una señal. Aun estamos a tiempo, no pasan de las 7 :30.
 

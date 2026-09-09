@@ -1,13 +1,11 @@
 ---
 title: "La Condición Izquierdista"
 date: "2019-01-08T06:21:18+00:00"
-author: ""
+author: "Fernando A. Rodríguez"
 category: "Política"
 image: ""
 ---
 Izquierda en Latinoamérica.
-
-**Por: Fernando A. Rodríguez**
 
 La Izquierda en Latinoamérica está sufriendo uno de sus peores momentos. Con reveses políticos por doquier parece que los únicos países estables con gobiernos autodenominados de izquierda son Cuba y México, el resto han pasado por varias crisis o han sido desplazados. En casos como Argentina, la salida de Cristina dejó a un ultraderechista como Macri, mientras que en Brasil amenaza una forma aún más agresiva y totalitaria, que recuerda algunas de las pesadillas políticas del siglo pasado.  
 Ahora mismo la política del bloque está dividida, pero gana fuerza la facción centro-derecha. Más allá de los personalismos, los aferramientos, los enemigos o las “madureces” políticas, estamos ante un fenómeno objetivo, ante una tendencia general y tangible. Mas ¿cuáles son las causas detrás de este fenómeno? ¿a qué se está enfrentando Latinoamérica?  

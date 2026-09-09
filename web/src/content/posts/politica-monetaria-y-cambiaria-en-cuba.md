@@ -1,12 +1,10 @@
 ---
 title: "Política monetaria y cambiaria en Cuba"
 date: ""
-author: ""
+author: "Miguel Alejandro Hayes"
 category: ""
 image: ""
 ---
-Por: Miguel Alejandro Hayes
-
 La política monetaria opera sobre la circulación de dinero (en sus diferentes niveles de liquidez) buscando un:
 
 objetivo directo: mantener un equilibrio en el nivel de precios,

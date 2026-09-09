@@ -7,8 +7,6 @@ image: ""
 ---
 expulsión UNEAC Pedro Junco. 
 
-**Por: Jorge Fernández Era**
-
 En días pasados conocí a través de las redes la expulsión de las filas de la Unión de Escritores y Artistas de Cuba del escritor camagüeyano Pedro Armando Junco López, un creador de sostenida obra, ganador de múltiples reconocimientos literarios. La causa: una carta abierta al presidente de Cuba donde cuestiona las recientes medidas económicas tomadas por el Gobierno. Dicha carta, según los funcionarios que le notificaron la separación definitiva, actúa «en franca contradicción con los principios, estatutos y reglamentos de la Uneac».
 
 Aquí, para los que no la conocen, la carta de Pedro Armando:

@@ -1,13 +1,11 @@
 ---
 title: "¿Capturaron a “Clandestinos”?"
 date: "2020-01-07T04:58:45+00:00"
-author: ""
+author: "Redacción LT"
 category: "Noticias"
 image: ""
 ---
 Clandestinos. 
-
-**Por: Redacción LT**
 
 Ha comenzado a circular en las redes sociales la información de que el grupo autodenominado _Clandestinos_ ha sido detenido por el MININT.  
 La noticia sobre la agrupación —que el pasado 1ro de enero asaltara a las redes con una serie de fotos de varios actos “vandálicos” contra bustos de Martí— fue difundida, entre tantos, por la periodista [Delia Rosa Proenza](https://twitter.com/deliaproenza/status/1214393847704440832?s=20), colega del periódico Escambray de Santi Spíritu.

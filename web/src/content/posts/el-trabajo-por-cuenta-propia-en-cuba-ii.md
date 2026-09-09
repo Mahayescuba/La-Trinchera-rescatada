@@ -1,15 +1,13 @@
 ---
 title: "El trabajo por cuenta propia en Cuba (II)"
 date: "2018-12-03T05:04:32+00:00"
-author: ""
+author: "Alexandra Torres"
 category: "Política en Cuba"
 image: ""
 ---
 Una reflexión sobre el artículo 10.1 del Decreto Ley No. 356 y las nuevas regulaciones para trabajo por cuenta propia en Cuba.
 
 ### El futuro después del 7 de diciembre de 2018
-
-**Por: Alexandra Torres**
 
 Otra cuestión es en relación con los organismos de la administración central del estado con responsabilidades en esta materia, al **[MTSS](http://www.mtss.gob.cu/) solo le corresponde lo relativo a la contratación de los trabajadores**.  
 Aquí bien cabe detenerse a pensar en las cuestiones relativas al trabajo y el descanso, la seguridad y salud en el trabajo, la seguridad social, la inspección del trabajo, la remuneración, la gestión del capital humano y otras tantas categorías del derecho del trabajo y de los derechos en el trabajo.  

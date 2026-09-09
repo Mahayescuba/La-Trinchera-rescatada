@@ -1,13 +1,11 @@
 ---
 title: "Crónicas de Tutanga (V)"
 date: "2019-09-17T14:14:48+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Onírica"
 image: ""
 ---
 _Tutanga en la nueva coyuntura especial._
-
-**Por: Ernesto Gutiérrez Leyva**
 
 Durante la semana que culmina, Tutanga ha estado auténticamente conmocionada. Medios de comunicación, jubilados en los parques, personas haciendo cola, todas hablan de lo mismo con intensa preocupación: el [incendio en el Amazonas](https://es.wikipedia.org/wiki/Incendios_de_la_selva_amaz%C3%B3nica_de_2019). En ningún lugar de la nación es tan palpable la inquietud como en las paradas de los autobuses: auténticas aglomeraciones que bien harían pensar al visitante extranjero que se han adelantado las festividades por el _1 de mayo_ o que se espera la visita papal, se suceden en todos aquellos puntos del país que en algún momento tuvieron el privilegio de contar con transporte público.
 

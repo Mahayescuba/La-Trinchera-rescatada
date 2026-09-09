@@ -1,15 +1,13 @@
 ---
 title: "Le dijeron loco"
 date: "2019-03-09T05:11:21+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---
 loco. 
 
 Fotografía: Oscar Pérez
-
-**Por: Pablo Dussac**
 
 Le dijeron loco,  
 Anduvo de [verde olivo](https://www.cubahora.cu/historia/cuando-el-pueblo-estreno-el-uniforme-verde-olivo),  

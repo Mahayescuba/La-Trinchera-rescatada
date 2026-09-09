@@ -1,12 +1,10 @@
 ---
 title: "Cuba en clave constituyente"
 date: ""
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: ""
 image: ""
 ---
-Por: Ernesto Gutiérrez Leyva
-
 El pasado 2 de junio, se presentaban ante la Asamblea Nacional del Poder Popular los integrantes de la Comisión encargada de elaborar la nueva Carta Magna. Como un televidente más de la sesión convocada al efecto, puedo decir que me dejó más interrogantes que respuestas. Para empezar: ¿se trata de un “proceso constituyente” o de una reforma al estilo de la ocurrida en 1992? El discurso mediático posterior a la sesión ha usado indistintamente ambos términos, los cuales por su alcance no son equiparables. Otro punto de incertidumbre es el de la lista de temas que ocuparán la agenda de la comisión integrada para llevar a cabo el proceso en comento.
 
 Trátese de una reforma o de una nueva constitución, lo cierto es que un proceso de esta naturaleza siempre trae aparejado un doble impacto, uno en el ámbito político y otro en el jurídico. En el primer aspecto, siempre muy visibilizado por los medios de difusión masiva, podemos decir que el hecho de que Raúl sea quien preside la comisión denota la importancia que se le está dando al tema, al ser el I Secretario del Partido quien personalmente supervise este proceso. Por otro lado, creo que con este proceso se cierra una etapa de la que el propio Raúl es símbolo.

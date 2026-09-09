@@ -1,15 +1,13 @@
 ---
 title: "Un Sí contra la Revolución Socialista (Rectificado)"
 date: "2019-03-01T08:00:07+00:00"
-author: ""
+author: "Roberto Cobas Avivar"
 category: "Política en Cuba"
 image: ""
 ---
 Constitución.
 
 #### Nota: Al copiar el texto original se duplicaron líneas, lo que deformó su contenido. Pedimos disculpas a nuestros suscriptores. Aquí enviamos la corrección.
-
-**Por: Roberto Cobas Avivar**
 
 “Poner fin a la explotación del hombre por el hombre”:  
 “… inspirados en la historia de la humanidad y en los más preclaros teóricos y promotores de un sistema socialista de producción y distribución de las riquezas, el único capaz de crear una sociedad verdaderamente justa y humana: Marx, Engels y más tarde Lenin”

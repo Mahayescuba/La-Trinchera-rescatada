@@ -1,12 +1,10 @@
 ---
 title: "Naturaleza humana ¿Existe tal cosa?"
 date: "2020-06-02T09:00:00+00:00"
-author: ""
+author: "Danilo Euser"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/05/Bronze.jpg"
 ---
-**Por: Danilo Euser**
-
 Cuántas veces se ha escuchado que “los seres humanos somos así…” o “es parte de la naturaleza humana”, al hacer referencia a ciertas conductas…
 
 A lo largo de la historia de la humanidad, muchos pensadores han intentado descifrar el comportamiento humano, preguntándose por qué somos como somos, pensamos como pensamos y, sobre todo, actuamos como actuamos.

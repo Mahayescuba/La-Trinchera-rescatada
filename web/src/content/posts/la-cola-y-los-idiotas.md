@@ -7,8 +7,6 @@ image: ""
 ---
 _Una cola de picadillo, Aristóteles y muchos, muchos idiotas. Estrategia_ e_timológica para alcanzar un turno._
 
-**Por: Alex Correa Iglesias**
-
 El gobierno piensa que somos todos  idiotas, decía  una mujer frente a mí mientras la cola del picadillo se estiraba como acordeón. Idiotas, pensé: ¡que palabra tan griega! Cuando uno está dispuesto a permanecer en una cola, y hacerlo por muchas horas, ha de arreglársela para no morir de aburrimiento.
 
 El aburrimiento, señora, es no tener qué hacer con el tiempo libre. 

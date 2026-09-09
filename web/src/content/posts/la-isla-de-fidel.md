@@ -1,13 +1,11 @@
 ---
 title: "La isla de Fidel"
 date: "2019-08-11T06:53:08+00:00"
-author: ""
+author: "Santiago Feliú"
 category: "Onírica"
 image: ""
 ---
 La isla de Fidel.
-
-**Por: Santiago Feliú**
 
 En mi casa el mundo  
 tiene otro color,  

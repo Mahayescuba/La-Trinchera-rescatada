@@ -1,15 +1,13 @@
 ---
 title: "Crecer con la revolución"
 date: "2019-05-07T06:02:50+00:00"
-author: ""
+author: "María del Pilar Díaz Castañón"
 category: "Opinión"
 image: ""
 ---
 Crecer con la revolución cubana es una bella experiencia.
 
 ##### Fotografía: Wendy Pérez Bereijo
-
-**Por: María del Pilar Díaz Castañón**
 
 > #### I
 

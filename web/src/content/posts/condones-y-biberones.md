@@ -1,13 +1,11 @@
 ---
 title: "Condones y biberones"
 date: "2019-09-11T07:01:56+00:00"
-author: ""
+author: "Juan M. Ferrán Oliva"
 category: "Opinión"
 image: ""
 ---
 Condones y biberones.
-
-**Por: Juan M. Ferrán Oliva**
 
 Antes de retirarme fui economista; así lo indica un título. Es un oficio estresante que he desatendido debido a mi jubilación y, más que nada, a la falta de información. La prensa no me ayuda pues se consagra a una propaganda política aberrante. Lo más parecido a una noticia son sus crónicas triunfalistas de entidades aisladas, pero el obstinado PIB per cápita no crece. Una golondrina no hace verano.  
 Tengo recaídas ocasionales tras las cuales vuelve fosca a su rincón el alma trémula y sola. Una noticia que recogí del ciberespacio avivó mi vocación. Se refería a una importante fábrica de productos de látex cuyo nombre omito. Me limitaré a señalar que es asiática y sólo elabora tetillas de biberón\[1\] y condones. Es líder en esos renglones.  

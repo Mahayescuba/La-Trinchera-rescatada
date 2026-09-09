@@ -1,13 +1,11 @@
 ---
 title: "Por qué repensar el valor"
 date: "2018-06-20T11:15:56+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: "/wp-content/uploads/2018/06/repensar-el-ejercicio-docente.jpg"
 ---
 Para repensar la teoría del valor hay que saber elementos del aparato de la dialéctica.
-
-Por: **Miguel Alejandro Hayes Martínez**
 
 La filosofía nació de la poesía. De los versos de Homero y de Solón, los griegos jónicos establecieron la doctrina de la justicia universal (1 pág. 18). Fue del lenguaje de aquellos primeros poetas, de sus metáforas, que se fueron creando las formas para expresar la filosofía. Sobre la base de sus enseñanzas, surgió la cosmología del mundo en la [antigua Grecia.](https://es.wikipedia.org/wiki/Antigua_Grecia)
 

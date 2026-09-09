@@ -1,13 +1,11 @@
 ---
 title: "La importancia de la nueva lucha"
 date: "2019-09-25T14:05:38+00:00"
-author: ""
+author: "Yunier Mena"
 category: "Economía en Cuba"
 image: ""
 ---
 Socialismo. 
-
-**Por: Yunier Mena**
 
   
 Bajo el elocuente título _[La importancia de la tautología](/economia-politica/)__,_ Miguel Alejandro Hayes publica los resultados de su lectura y discusión de mi reciente _[Carta](https://www.rebelion.org/noticia.php?id=260620&titular=carta-sobre-el-socialismo-)_ [_sobre el socialismo_](https://www.rebelion.org/noticia.php?id=260620&titular=carta-sobre-el-socialismo-) dirigida a Juventud Rebelde, ignorada y más tarde acogida por otros medios de izquierda que por suerte dan voz a los comunistas sin prensa. Hayes observa, en un acto innecesario de relativización del término por el cual me imputa un error teórico, que la liberación de las fuerzas productivas no conduce al capitalismo. Para él liberar las fuerzas productivas es una frase de significado general e impreciso que sugiere el aprovechamiento de la potencia productiva de una sociedad. Las fuerzas productivas, dice con razón, comprenden «la capacidad productiva del hombre, la de la naturaleza, y de lo que estos en combinación crean, la capacidad de los medios de producción». Hayes saca de contexto mi análisis de las fuerzas productivas en relación con el capitalismo, lo desprende de su referencia a una Cuba en transición y lo eleva a la universalidad de la economía política de una manera muy poco marxista.  

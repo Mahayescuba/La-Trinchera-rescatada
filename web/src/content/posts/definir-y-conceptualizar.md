@@ -1,13 +1,12 @@
 ---
 title: "Muchos definen, pocos conceptualizan"
 date: "2020-02-13T23:37:24+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo"
 image: ""
 ---
 Una breve reflexión sobre las diferencias entre definir y conceptualizar.
 
-**Por: Miguel Alejandro Hayes**  
 Un amigo me preguntó por la diferencia entre definición y concepto. Este es un tema sensible para un hegeliano-marxista, y para darle una respuesta propongo abordarlo desde una lectura a _La ciencia de la lógica_, de Hegel.  
 Para iniciar, aclaro que a la palabra definición no me gustaría verla como puede expresar un diccionario o “definirla” un experto; sino que ofrezco pensarla desde lo que transmite y sus implicaciones.  
 Ella va asociada a acotar, delimitar y enmarcar un ente. De ahí que la definición se trata de un _aislamiento sígnico_ que se realiza a través del lenguaje, y su resultado será siempre el establecimiento una identidad (formal).  

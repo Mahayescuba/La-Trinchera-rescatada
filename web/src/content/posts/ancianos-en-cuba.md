@@ -7,8 +7,6 @@ image: ""
 ---
 Solo espero que este lamentable ejemplo nos ayude a reﬂexionar como sociedad en la necesidad de hacer más eficientes las formas en que los ancianos en Cuba puedan trasladarse a un hospital.
 
-**Por: Julio Pernús**
-
 Hay historias sobre las que nunca me gustaría haber escrito, pues son imágenes tristes que me persiguen y me exigen salir en forma de artículos. Solo espero que los protagonistas de estas escenas puedan terminar de leerlas sin lágrimas en los ojos.
 
 En uno de los tantos edificios derruidos por el tiempo en La Habana, un hijo mira con tristeza el sufrimiento de su madre. Él, que tiene unos 50 años y es un hombre de fe, no se resigna a perderla, por eso ha dedicado los mejores años de su vida a cuidarla y son dos seres inseparables. La madre mira con ternura al hijo y, aferrada a su rosario, trata de esconder su dolor. A las 8:00 de la mañana, el médico de familia, una persona dedicada a su trabajo por vocación, sabiendo las condiciones de su anciana paciente, decide ir a reconocerla y le dice al hijo: _Necesitas llevarla urgente a un hospital, pues de no ser así puede morir_.

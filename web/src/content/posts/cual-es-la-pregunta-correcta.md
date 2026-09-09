@@ -1,13 +1,11 @@
 ---
 title: "¿Cuál es la pregunta correcta?"
 date: "2018-08-02T12:00:01+00:00"
-author: ""
+author: "Juan Triana Cordoví"
 category: "Economía en Cuba"
 image: "/wp-content/uploads/2018/07/trabajo-por-cuenta-propia.jpg"
 ---
 Cuentapropismo en Cuba.
-
-**Por: Juan Triana Cordoví**
 
 A partir del 13 de agosto y por espacio de noventa días los cubanos residentes en Cuba tendremos la oportunidad de emitir nuestros criterios acerca del Anteproyecto de Reforma Constitucional, un ejercicio trascendental para todos.
 

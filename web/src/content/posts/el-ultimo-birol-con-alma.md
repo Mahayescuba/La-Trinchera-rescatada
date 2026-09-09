@@ -1,13 +1,11 @@
 ---
 title: "El último Bírol con alma"
 date: "2020-08-23T09:30:00+00:00"
-author: ""
+author: "Day Cordero"
 category: "Onírica"
 image: ""
 ---
 Bírol con alma.
-
-**Por: Day Cordero**
 
 **La introducción de mierda que puedes saltarte:**
 

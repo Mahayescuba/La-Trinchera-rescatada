@@ -1,13 +1,11 @@
 ---
 title: "El mal de fondo"
 date: "2019-10-24T03:11:10+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2019/10/Astronaut-Wallpaper_.jpeg"
 ---
 Cuatro puntos sobre el artículo _“Progresismo” en Cuba y memorias del subdesarrollo._
-
-**Por: Miguel Alejandro Hayes**
 
 No creo que yo pueda responder a todas las afirmaciones de _[“Progresismo” en Cuba y memorias del subdesarrollo](http://www.cubasocialista.cu/2019/10/21/progresismo-en-cuba-y-memorias-del-subdesarrollo-por-karima-oliva-y-vibani-b-jimenez/)__,_ publicado en [Cuba Socialista](http://cubasocialista.cu); es más, no creo que alguien tenga la paciencia para contestar todo lo que en ese texto se plantea, y el que lo haga, terminará por escribir todo un curso de ciencia política, o hasta de cómo leer a Marx. Por eso, me limito aquí a abordar lo mínimo.
 

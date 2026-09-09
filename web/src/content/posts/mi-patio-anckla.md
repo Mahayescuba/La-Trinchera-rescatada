@@ -1,13 +1,11 @@
 ---
 title: "Mi patio"
 date: "2019-01-02T06:31:34+00:00"
-author: ""
+author: "Anckla"
 category: "Onírica"
 image: ""
 ---
 mi patio.
-
-**Por: Anckla**
 
 De la misma manera que un cojín de alﬁleres que sale de los ojos y acaricia las mejillas,  
 con el peso exagerado del culpable a quien atrapan, aun siendo libre y la ansiedad de la polilla mojada en un inodoro cuando levantan la cadena,  

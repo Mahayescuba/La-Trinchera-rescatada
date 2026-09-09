@@ -1,12 +1,10 @@
 ---
 title: "Be(r)sos para tu domingo"
 date: ""
-author: ""
+author: "Pablo Dussac"
 category: ""
 image: ""
 ---
-Por: Pablo Dussac
-
 Eres tú el poema  
 De todos los días,  
 Todos los tropos,  

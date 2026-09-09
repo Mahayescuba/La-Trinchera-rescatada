@@ -1,13 +1,11 @@
 ---
 title: "Lo que pasa en Chile no es solo culpa de Cuba"
 date: "2019-11-04T16:07:35+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política"
 image: ""
 ---
 Chile y Cuba. 
-
-**Por: Julio Pernús**
 
 Algunos medios han culpado a la influencia de Cuba y su Revolución como la principal causa del estallido social en Chile [(1)](https://www.periodicocubano.com/la-policia-de-investigacion-de-chile-identifico-a-un-agente-cubano-en-la-quema-del-metro-de-santiago/) [(2)](https://cubanosporelmundo.com/2019/10/25/oea-cuba-vioencia-chile/). Sin desvalorar el crédito de las luchas emancipadoras de la izquierda latinoamericana en la base del problema, también se puede hacer un abordaje más amplio de lo que ocurre en ese hermano país.  
 Entre los puntos que no se pueden perder de vista, debe destacarse que, ahora mismo en la región se denota un creciente agotamiento del capitalismo neoliberal y su capacidad para construir _consensos_, es decir, la capacidad de naturalizar y neutralizar a través de sus dispositivos ideológicos. Esto se ha manifestado en las crisis que viven varios de los gobiernos de derecha y la gente lo reconoce, votando por los Fernández en Argentina o por Morales en Bolivia.

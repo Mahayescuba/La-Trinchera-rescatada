@@ -1,13 +1,11 @@
 ---
 title: "Semántica del insulto"
 date: "2020-04-05T07:09:22+00:00"
-author: ""
+author: "Ariel Pierucci"
 category: "Onírica"
 image: ""
 ---
 Semántica del insulto
-
-**Por: Ariel Pierucci**
 
 [Pablo de la Torriente Brau](https://es.wikipedia.org/wiki/Pablo_de_la_Torriente_Brau) le dijo a un americano  
 \-de esos que ahora robaría respiradores-  

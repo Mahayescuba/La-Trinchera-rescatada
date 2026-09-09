@@ -1,15 +1,13 @@
 ---
 title: "Marxismo y religión"
 date: "2018-12-07T02:19:02+00:00"
-author: ""
+author: "Iván Rodrigo"
 category: "Trinchera Abierta"
 image: ""
 ---
 relación entre marximo y religión.
 
 **Colaboración especial desde la distancia con el espacio Trinchera Abierta**
-
-**Por: Iván Rodrigo**
 
 Hasta este desolado y heróico paraje de nuestra Isla me ha llegado la información de que la próxima Trinchera Abierta tratará el tema “Marxismo y religión”, polémico y antiguo tema en este,  nuestro negocio del fin del Capitalismo en particular, y de todas las formas sociales enajenadas que impiden la realización plena de los seres humanos en general.
 

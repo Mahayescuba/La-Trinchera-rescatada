@@ -1,13 +1,11 @@
 ---
 title: "Pantano I"
 date: "2019-12-31T23:36:11+00:00"
-author: ""
+author: "Kmilo Noa"
 category: "Onírica"
 image: ""
 ---
 Pensar en los amigos.
-
-**Por: Kmilo Noa**
 
 Ahora pienso en mis amigos  
 y en su lejanía,  

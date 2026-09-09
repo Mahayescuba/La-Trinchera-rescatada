@@ -1,13 +1,11 @@
 ---
 title: "Por aquí ya pasamos…"
 date: "2018-08-01T12:00:12+00:00"
-author: ""
+author: "Ricardo Torres"
 category: "Economía en Cuba"
 image: ""
 ---
 Este nuevo episodio en el interminable zigzagueo alrededor del trabajo privado se anunció bajo la sugerente etiqueta de “Política para el Perfeccionamiento del Trabajo por Cuenta Propia”.
-
-**Por: Ricardo Torres**
 
 El 10 de julio de 2018, luego de 11 meses y 10 días, la Gaceta Oficial de la República publicó un numeroso conjunto de normas que incluye: 5 decretos-leyes, un decreto, y 14 resoluciones, que abarcan un gran total 129 páginas de modificaciones en el marco regulatorio relevante para los denominados “Trabajadores por Cuenta Propia”. Este nuevo episodio en el interminable zigzagueo alrededor del trabajo privado se anunció bajo la sugerente etiqueta de “Política para el Perfeccionamiento del Trabajo por Cuenta Propia”.
 

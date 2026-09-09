@@ -1,13 +1,12 @@
 ---
 title: "Lunes de involución"
 date: "2020-01-19T18:13:02+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Onírica"
 image: ""
 ---
 # Un texto sobre la programación de Cubavisión
 
-**Por: Jorge Fernández Era**  
 En recientes declaraciones a _Cuba en Directo_, el director del canal Cubavisión, [Rafael Pérez Insúa](https://cu.linkedin.com/in/rafael-perez-insua-15b584167), se llenó la boca ―cosa habitual en él― para expresar: _Cubavisión se está reformulando, revisando todos los diseños de programación_.  
 Cumpliendo su promesa, el canal reajusta a partir de mañana su programación de los lunes haciendo énfasis en lo humorístico, con el objetivo de que los televidentes no piensen que porque sale del aire un actor, un programa muere; no piensen que porque la cosa se pone seria, dejaremos de reír; no piensen que porque el enemigo arrecia, llevaremos más recio a los amigos; en fin, que los televidentes no piensen.
 

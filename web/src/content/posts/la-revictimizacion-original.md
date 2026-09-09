@@ -7,8 +7,6 @@ image: ""
 ---
 _El artículo de Granma trata de denigrar a la prensa independiente, en esta ocasión al intentar desenmascarar la supuesta exageración con que esos medios tratan el tema de los feminicidios en Cuba._
 
-**Por: José Gabriel Barrenechea**
-
 He leído el artículo [_Revictimizada_ _mil_ _veces_](http://www.granma.cu/cuba/2020-08-18/revictimizada-mil-veces-18-08-2020-22-08-28), de Javier Gómez Sánchez para Granma, y al terminar no pude más que recordar aquella frase que un amigo le dedica a otro, cuando este último ha intentado ayudarlo de manera equívoca: ¡Mejor no me defiendas, compadre!
 
 Javier trata aquí de denigrar a la prensa independiente. En esta ocasión al intentar desenmascarar la supuesta exageración con que esos medios tratan el tema del feminicidio en Cuba. Fenómeno que según él no tiene más que interés testimonial, pero no estadístico, dado el carácter aislado de los hechos.

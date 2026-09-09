@@ -1,13 +1,11 @@
 ---
 title: "Francisco no es un “ciudadano” más"
 date: "2020-05-15T17:40:04+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 Han comenzado a llamar con un dejo irónico al Papa Francisco, el “ciudadano Bergoglio”, para restarle importancia como un líder relevante de la humanidad.
-
-**Por: Julio Pernús**
 
 En un mundo totalmente desconcertado ante la crisis generada por la Pandemia, algunos líderes de una mentalidad muy vuelta al pasado y muy alejada de la [_Doctrina Social de la Iglesia_](https://es.wikipedia.org/wiki/Doctrina_social_de_la_Iglesia), han comenzado a llamar con un dejo irónico al Papa Francisco, el “ciudadano Bergoglio”, para restarle importancia como un líder relevante de la humanidad. En realidad la categoría de ciudadano, ajustada sobre todo a personas que pertenecen a una ciudad o nación, no tiene por qué ser negativa, pero sí lo es su uso discriminatorio en pos de minimizar el impacto social de los mensajes y la teología esgrimida por el primer sumo pontífice de origen latinoamericano. Se busca, además, llevar a creyente y no creyentes la idea de que la voz del Papa, al hablar de los problemas sociales, económicos y políticos, así como de sus posibles soluciones, es decir, más allá del ámbito de la fe cristiana, no gozan de autoridad alguna; son tan solo opiniones de un ciudadano más.  
 En Cuba, también se puede apreciar, aunque en menor medida, este tipo de conductas anti-Bergoglio, sobre todo en los comentarios descalificatorios sobre el Papa Francisco que colocan en los medios digitales que tienen al Papa Francisco como un referente especialmente calificado en cuanto a la fe, como también en relación a la escena mundial. Entre los miembros allegados al catolicismo de estos grupos, algunos se auto-definen como “sede vacantes” (consideran la cátedra de San Pedro como sede desocupada). Sus ideas y prácticas tienen por referencia esencial la Iglesia anterior al Concilio Vaticano II. Este tipo de creyentes suelen atacar la capacidad intelectual del Papa Francisco, afirmando que no cumple con las “expectativas” para el cargo. Como bien ha expresado uno de los biógrafos de Bergoglio, el profesor Massimo Borghessi, “Francisco detesta este tipo de comparaciones y mediciones de intelectualismo barato, que muchas veces son afincadas en posturas ideológicas o teológicas cerradas.”  

@@ -1,12 +1,10 @@
 ---
 title: "Discriminación ortográfica"
 date: "2020-07-06T09:00:00+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
-**Por: Miguel Alejandro Hayes**
-
 Pensé en googlear una buena frase para iniciar, pero no, ni esto es un buen ensayo, ni voy a concursar en lides de estética. Prefiero decirlo así, tal y como me vino a la mente mientras espero el retorno de la corriente en Marianao.
 
 No me gusta burlarme de la (mala) ortografía de las personas.

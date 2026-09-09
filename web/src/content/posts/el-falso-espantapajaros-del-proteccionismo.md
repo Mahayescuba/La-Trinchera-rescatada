@@ -1,13 +1,11 @@
 ---
 title: "El falso espantapájaros del proteccionismo"
 date: "2018-07-06T11:15:36+00:00"
-author: ""
+author: "Bernard Cassen"
 category: "Opinión"
 image: "/wp-content/uploads/2018/07/700x420_Donald-Trump-dibujo-770-dreamstime.jpg"
 ---
 Nuevo proteccionismo de Donald Trump.
-
-Por: **Bernard Cassen**
 
 En la imposición y la legitimación de las normas de todo sistema dominante, el control del léxico desempeña una función estratégica. Así, en su novela _1984_, publicada en 1949, George Orwell describe magistralmente los cimientos lingüísticos de un régimen totalitario cuyo Ministerio de la Verdad, respaldado por la Policía del Pensamiento, produce eslóganes como “La guerra es la paz” o “La libertad es la esclavitud”. Incluso aunque hoy en día se violan las libertades democráticas en un número creciente de Estados, sería absurdo ver el mundo de 2018 como una extrapolación del de los años 1930 y de la posguerra europea. Sin embargo, al mismo tiempo, de una época a otra existe una indiscutible permanencia de los mecanismos para “secuestrar” o tomar como rehén este o aquel elemento del lenguaje con el fin de hacer de ellos un arma de la lucha política.
 

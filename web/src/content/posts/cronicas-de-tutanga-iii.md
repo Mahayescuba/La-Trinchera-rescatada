@@ -1,13 +1,11 @@
 ---
 title: "Crónicas de Tutanga (III)"
 date: "2019-04-12T05:19:10+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Onírica"
 image: ""
 ---
 crónicas tutanga.
-
-**Por: Ernesto Gutiérrez Leyva**
 
 “¡No hay huevos!” Se quejaba esta mañana un ciudadano en una larga fila frente a un establecimiento comercial ubicado en Nobipazar, una de las principales avenidas de Havavlank, capital de Tutanga. “¡Ese es el principal problema de este país!” Continuaba gritando el ciudadano.
 

@@ -1,7 +1,7 @@
 ---
 title: "Ser marxista hoy"
 date: "2019-03-16T20:36:01+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo"
 image: ""
 ---
@@ -10,8 +10,6 @@ Ser marxista hoy.
 Fotografía: Wendy Pérez Bereijo
 
 ### Traer a Marx pero alejado de la utopía
-
-**Por: Miguel Alejandro Hayes**
 
 Disfruto cada relectura de Marx en el Soho. También las puestas en escena a las que he podido acceder de dicha obra. Confieso que llego a creerme que Marx está aquí de nuevo, que ha sido tan revoltoso, que el cielo lo ha puesto otra vez entre nosotros. Pero en cuestión de no mucho tiempo regreso a saber, que claro, no está. Y como sigo queriendo que esté, intento encontrar una forma.
 

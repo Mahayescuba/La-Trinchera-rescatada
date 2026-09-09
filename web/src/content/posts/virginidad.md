@@ -1,13 +1,11 @@
 ---
 title: "¡Qué molesta la virginidad!"
 date: "2020-01-28T15:42:42+00:00"
-author: ""
+author: "Elaine Roca"
 category: "Onírica"
 image: ""
 ---
 virginidad.
-
-**Por: Elaine Roca**
 
 Cuando fui niña me la pasé jugando en la calle, pintando paredes, siendo feliz hasta las ocho. Cuando fui niña ensucié mi ropa, hice pandillas, tuve un novio de mentiras y tres mejores amigas: la rubia, la trigueña y la pelirroja. Cuando fui niña escribí un diario y guardé deseos para mi fiesta de quince años.  
 Todo mentira.  

@@ -1,13 +1,11 @@
 ---
 title: "Anti-reloj"
 date: "2019-02-09T08:15:38+00:00"
-author: ""
+author: "Anckla"
 category: "Onírica"
 image: ""
 ---
 anti-reloj.
-
-**Por: Anckla**
 
 Eso pasa todos los días. Da pereza levantarse al toque del reloj.  
 La rutina del hogar antes de salir, entre la poca pasta y el cepillo, el jabón que ya se extingue, y el café con poca azúcar y mucha agua -sin elección.  

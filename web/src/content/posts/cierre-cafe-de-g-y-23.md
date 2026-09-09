@@ -1,13 +1,11 @@
 ---
 title: "Bye bye and fuck you"
 date: "2019-08-12T06:14:06+00:00"
-author: ""
+author: "Daniel Toledo Guillén"
 category: "Cultura"
 image: "/wp-content/uploads/2019/08/PicsArt_08-12-12.59.24-2.jpg"
 ---
 Café Literario del Vedado.
-
-**Por: Daniel Toledo Guillén**
 
 _Bye bye and fuck you_. Así le dice Riggan Thompson –[Michael Keaton](https://es.m.wikipedia.org/wiki/Michael_Keaton)– a su alter ego _Birdman, en_ la película de igual nombre dirigida por [Alejandro G. Iñárritu](https://es.m.wikipedia.org/wiki/Alejandro_González_Iñárritu). Ocurre esto justo en los últimos momentos, cuando él -Riggan- decide, sea real o no, pactar consigo mismo y dejar atrás el otro él -de traje y capa de superhéroe- para ascender en un acto de suicidio escapatorio, un vuelo. Así mismo: _bye bye and fuck you_ le podemos decir al Café Literario de G y 23.  
 Al parecer hemos pactado con un pasado inventado. Pareciera que a los que nos gustaba el Café de G nos inventamos conversaciones intensísimas donde reparábamos la humanidad y la destruíamos, completábamos el arte, inventábamos, nos escurríamos, nos agrupábamos. Sí, parece que eso era mentira, que era un lugar intrascendente.

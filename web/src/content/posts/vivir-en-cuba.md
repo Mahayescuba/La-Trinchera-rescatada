@@ -1,11 +1,10 @@
 ---
 title: "Entrevista"
 date: ""
-author: ""
+author: "Anckla"
 category: ""
 image: ""
 ---
-Por: Anckla  
 De todas maneras, si los estudios superiores estan sobrevalorados, para mi línea de trabajo solo es necesario huevos. No soy dulcero, mis manos solo amasan las carnes de renta, a veces, quieran o no.  
 Soy profesional, cobro por mi trabajo. Me vez con cuhillo pero carnicero no me vale. Con un punzón también funciono, y no soy zapatero.  
 ¿idiomas? Lo suficiente para que me entienda cualquier yumita, valiente o no. ¿Guía turistico? ¡Ja! De cuando en vez les doy un tour, La Habana se puede poner chiquita.  

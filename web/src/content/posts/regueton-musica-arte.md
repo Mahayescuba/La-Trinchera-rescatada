@@ -1,7 +1,7 @@
 ---
 title: "Reguetón, ¿vanguardia?"
 date: "2019-05-21T06:54:36+00:00"
-author: "Ernesto Nuñez"
+author: "Ernesto Núñez"
 category: "Opinión"
 image: ""
 ---

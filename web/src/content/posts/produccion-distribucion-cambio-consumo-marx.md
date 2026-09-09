@@ -1,13 +1,11 @@
 ---
 title: "Producción, distribución, cambio y consumo"
 date: "2019-07-29T09:09:19+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: ""
 ---
 #### Unas primeras líneas sobre los Grundrisse
-
-**Por: Miguel Alejandro Hayes**
 
 La [dialéctica](/marxismo/) como método toma totalidades. Con ello, pretende escapar de los aislamientos y separaciones que terminan en el esquema de la mecánica y –por qué no-, en el planteamiento de un Dios metafísico causante del primer impulso que originó el resto del los impulsos.  
 El auto-movimiento, respuesta [hegeliana](https://es.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel), conduce a pensar dichas totalidades –diferente de un conjunto de partes, de una sumatoria algebraica, de un conjunto total-. Los nexos dentro una totalidad -determinación inevitable para que sea tal-, llevan a explorar su interior.  

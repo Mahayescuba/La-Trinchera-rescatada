@@ -1,13 +1,11 @@
 ---
 title: "La terrible circunstancia del agua por ninguna parte"
 date: "2019-12-19T04:26:33+00:00"
-author: ""
+author: "Ariel Díaz"
 category: "Noticias"
 image: ""
 ---
 > Abandonados por las autoridades de la Habana, la terrible circunstancia del agua por ninguna parte.
-
-**Por: Ariel Díaz**
 
 Volviendo al tema del agua en el edificio Reina 109. En medio de ilegalidades y la ausencia total de agua por fin se convocó hace un par de semanas a una reunión con los vecinos del edificio. Fijada para las 8 de la noche en el sector de la [P.N.R.](https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_Revolucionaria) ante la delegada de la circunscripción, donde se convocó a directivos de la empresa _Aguas de la Habana_ y del _Jefe del Sector_ de la localidad de _Los Sitios,_ con buena asistencia de los afectados. Salieron a la luz situaciones verdaderamente lamentables como la adjudicación del local donde se encuentra la cisterna del edificio de un individuo que la ocupa de manera ilegal en una vivienda improvisada. Este ciudadano, conocido como Lezcay (por su apellido) extrae de manera ilegal agua de la cisterna por un agujero en su costado y una manguera.
 

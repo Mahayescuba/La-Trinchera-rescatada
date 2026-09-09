@@ -1,13 +1,11 @@
 ---
 title: "Naturaleza muerta"
 date: "2020-05-10T03:30:27+00:00"
-author: ""
+author: "Sahily Aguilera"
 category: "Onírica"
 image: ""
 ---
 …preso en un lienzo maldito de naturaleza muerta.
-
-**Por: Sahily Aguilera**
 
 Amanece otra semana  
 cenicienta… La ciudad  

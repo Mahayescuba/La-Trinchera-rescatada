@@ -1,7 +1,7 @@
 ---
 title: "No, no nos entendemos…"
 date: "2019-05-17T06:16:49+00:00"
-author: ""
+author: "Norma Normand Cabrera"
 category: "Historia"
 image: ""
 ---
@@ -9,8 +9,6 @@ Protesta de Baraguá.
 
 _Tengo ahora mismo ante mis ojos_ _la Protesta de Baraguá,_ _que es de lo más glorioso de nuestra historia._  
 (Carta de Martí a Maceo, 1893)
-
-**Por: Norma Normand Cabrera**
 
 – Entonces…¿no nos entendemos?  
 – ¡No, no nos entendemos!

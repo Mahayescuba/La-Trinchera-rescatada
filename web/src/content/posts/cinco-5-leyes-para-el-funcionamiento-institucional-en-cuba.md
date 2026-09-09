@@ -1,7 +1,7 @@
 ---
 title: "Cinco (5) leyes para el funcionamiento institucional en Cuba"
 date: "2021-01-10T10:30:00+00:00"
-author: "Alberto Miguel de La Paz Suárez"
+author: "Alberto Miguel de la Paz Suárez"
 category: "Onírica"
 image: ""
 ---

@@ -1,13 +1,11 @@
 ---
 title: "Das más"
 date: "2019-04-16T17:58:08+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 ##### Fotografía: Wendy Pérez Bereijo
-
-**Por: Julio Pernús**
 
 Como bien lo expresó _Buena Fe_, múltiples excusas y pretextos han navegado en mi barco existencial durante estas 30 vueltas completas al sol. A veces pienso que la vida en esta isla que amo visceralmente, se parece mucho a la descripción de la profesora y politóloga española, Soledad Becerril, sobre la semejanza entre la vida clandestina de Ana Frank y la de algunos estamentos de la sociedad civil: “Viven en un lugar sin poder utilizar la calle como espacio social, sobreviven con las pocas cosas que se pueden llevar consigo, sin poder siquiera asomarse al balcón para comprender que, ahí afuera, pueden tener 13, 30 o 60 años y no entienden nada de lo que les sucede.”
 

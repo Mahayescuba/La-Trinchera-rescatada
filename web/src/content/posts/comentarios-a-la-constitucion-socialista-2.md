@@ -1,13 +1,11 @@
 ---
 title: "Comentarios a la constitución ¿socialista? II"
 date: "2019-02-13T06:44:12+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
 image: ""
 ---
 constitución socialista.
-
-**Por Ernesto Gutiérrez Leyva**
 
 En lo referente a la propiedad, nuevos escollos se suman. No solo se ha mantenido su desacertada sistematicidad, no solo se comete la pifia teórica ex art. 22-g) de hablar de bienes que no constituyen medios de producción -dicen [los marxistas](/teoria/) que en esta categoría caben todos los bienes, no solamente la fábrica o el hotel, la ropa que nos cubre clasifica también como medios de producción-, sino que desaparece el reconocimiento expreso al carácter abierto de la lista que enumera los tipos de propiedad.
 

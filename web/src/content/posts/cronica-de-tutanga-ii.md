@@ -1,13 +1,11 @@
 ---
 title: "Crónicas de Tutanga (II)"
 date: "2019-03-02T05:41:37+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Onírica"
 image: ""
 ---
 crónicas de tutanga. 
-
-**Por: Ernesto Gutiérrez Leyva**
 
 Tutanga es realmente un país encantador, cuya relevancia mundial supera con creces su modesta extensión geográfica. Destaca en el país su capital, Havavlank \[1\], ciudad que recibió recientemente el título de ciudad maravilla, y no es para menos. La arquitectura de la urbe se erige como una de las más diversas del continente, amén de que su casco histórico es el mayor del continente africano. Las arriesgadas edificaciones de Havavlank, representan un verdadero desafío a las leyes de la gravedad y al paso del tiempo, de hecho, según expertos, es una verdadera maravilla que la ciudad no haya colapsado casi en su totalidad, de ahí el origen del premio.
 

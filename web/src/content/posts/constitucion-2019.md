@@ -7,8 +7,6 @@ image: "/wp-content/uploads/2020/07/Angeles-Anglada-Equilibrium.jpg"
 ---
 Si pensar que la Constitución de 2019 no transversalizó muchas de las aspiraciones de los cubanos durante el proceso político de su discusión y aprobación es apenas una ilusión reforzada, creer que ella y su contenido no está sincronizada con el cambio social que ha ocurrido en Cuba es algo más que cometer un error.
 
-**Por: René Fidel González García**
-
 Dentro de muy poco tendrán desarrollo legislativo un grupo de artículos de la Constitución del 2019. Algunos de ellos permitirán a partir de ese momento la defensa judicial de derechos constitucionales violados por funcionarios públicos en el ejercicio de sus funciones, ya que tribunales cubanos han negado judicialmente durante el actual período de vigencia de las disposiciones transitorias de la Constitución, el principio de aplicabilidad directa de su articulado.
 
 Hay que tomar nota de la importancia de esos desarrollos legislativos, la manera en que serán concretados y de su eficacia jurídica, porque nuestra cultura política, tal como sugiere el aquelarre de vilezas, falta de empatía y crueldad exhibidas grotescamente en las últimas semanas por representantes del espectro del neoconservadurismo y la marginalidad exitosa que se posiciona en nuestra realidad, ha estado durante mucho tiempo mediada por contenidos, valores y prácticas que han promovido y hoy protagonizan percepciones públicas e institucionales en las que el ejercicio de derechos y libertades y de la ciudadanía plena aparecen como algo aborrecible e inquietante, también peligroso.

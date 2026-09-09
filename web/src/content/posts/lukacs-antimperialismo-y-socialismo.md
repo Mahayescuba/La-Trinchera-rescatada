@@ -1,13 +1,11 @@
 ---
 title: "Lukács: antimperialismo y socialismo"
 date: "2020-03-29T22:35:54+00:00"
-author: ""
+author: "Mario Valdés Navia"
 category: "Marxismo en Cuba"
 image: ""
 ---
 Mario Valdés Navia escribe sobre el pensamiento y la vida de George Lukács, uno de los filósofos marxistas más importantes del siglo XX.
-
-**Por: Mario Valdés Navia**
 
 Aún hoy, el pensamiento y la vida de George Lukács (Budapest, 13-4-1885 − ibídem, 4-6-1971), uno de los filósofos marxistas más importantes del siglo XX, es poco conocido y valorado en Cuba. La entronización del marxismo-leninismo soviético (M-L) como dogma prevaleciente hizo que quienes desarrollaron un pensamiento crítico desde dentro del marxismo fueran proscritos, tanto ideológica como teóricamente, del entorno de las aulas y las ciencias sociales y humanísticas durante décadas. La sola mención de su nombre era considerada tabú.
 

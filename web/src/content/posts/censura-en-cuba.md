@@ -1,13 +1,11 @@
 ---
 title: "La censura me parece estúpida e injusta"
 date: "2020-01-26T05:53:59+00:00"
-author: ""
+author: "Yassel A. Padrón Kunakbaeva"
 category: "Política en Cuba"
 image: ""
 ---
 censura en cuba.
-
-**Por: Yassel A. Padrón Kunakbaeva**
 
   
 La lista del compañero Lagarde, reproducida temporalmente en la página de Radio Progreso, es un monumento a la ofuscación sectaria. Entre otras cosas, muestra la impotencia y la frustración de personas como él, que lo que quisieran es que esos medios no existieran.  

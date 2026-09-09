@@ -7,8 +7,6 @@ image: ""
 ---
 ## Continuaré trabajando para los que piensan con su propia cabeza
 
-**Por: Sender Escobar** 
-
 Entrevista al cantautor cubano William Vivanco
 
 La mística criolla se manifiesta en el canto de un pelícano, en los toques de un Palo Haitiano. En las incertidumbres de una realidad que nos sorprende a diario, también existe la magia que llega en número trece cuando una isla milagrosa vuelve una y otra vez trovando.

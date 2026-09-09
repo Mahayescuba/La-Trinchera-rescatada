@@ -1,13 +1,11 @@
 ---
 title: "Comer es crecer"
 date: "2020-02-16T21:22:13+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Onírica"
 image: ""
 ---
 Feria del libro.
-
-**Por: Jorge Fernández Era**
 
 _La Feria del Libro_ culmina para mí. Me queda la angustia de no hallar lo buscado, de constatar lo que ya sabía: que está deprimido como nunca el sistema editorial cubano.  
 La preocupación mayor es sobre qué presupuestos se logra todavía movilizar a tanta gente hacia el este de la ciudad. Si se mira bien, la mayoría de las personas salen de La Cabaña cargadas de pacotilla, de producciones seudoculturales que entre otros despropósitos no hacen más que incitar a niños y jóvenes a no tomar en sus manos un libro.  

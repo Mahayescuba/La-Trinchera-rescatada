@@ -1,12 +1,10 @@
 ---
 title: "Un mismo pueblo"
 date: "2020-06-25T00:24:10+00:00"
-author: ""
+author: "Julio V. Ruiz"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/06/Alexis-Leyva-Kcho.jpg"
 ---
-**Por: Julio V. Ruiz**
-
 Para mí, el concepto de Patria o Nación es muy importante. Siempre lo ha sido, quizás por mi trauma de adolescente y de la separación. Les comparto la reflexión que escribí a un artículo sobre la emigración. No está muy bien escrita, pues no soy escritor sino científico, pero viene desde mi alma, si algo así existiera. Pido que se lea primero el artículo al que hago referencia.
 
 Yo respeto al general [Fabián Escalante](https://www.ecured.cu/Fabi%C3%A1n_Escalante), un Héroe de la defensa nacional, que ha sido indispensable para sobrevivir al gigante del norte después de tantos años de agresión. Comprendo perfectamente su pensamiento, que no es solo de él, sino de muchos, o de casi todos en el Partido.

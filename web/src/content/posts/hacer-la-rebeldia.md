@@ -1,13 +1,11 @@
 ---
 title: "Hacer la rebeldía"
 date: "2020-07-29T16:00:00+00:00"
-author: ""
+author: "René Fidel González García"
 category: "Política en Cuba"
 image: ""
 ---
 Generación del Centenario.
-
-**Por: René Fidel González García**
 
 Todavía hoy, en 1953, estaban matando en Santiago de Cuba a los de la Generación del Centenario. Por lo menos uno de ellos, llevado junto a otros a un lugar cercano a la Granjita Siboney para ser fríamente asesinado después de haber sido torturado y golpeado, vejado y ultrajado hasta el infinito que puede ser cada segundo en esas circunstancias, murió de un infarto y no como el resto de sus compañeros del impacto y el destrozo de carnes, músculos y huesos de las balas.
 

@@ -1,12 +1,11 @@
 ---
 title: "Una sola opción"
 date: ""
-author: ""
+author: "Julio Pernús"
 category: ""
 image: ""
 ---
 Dedicado a todos los maestros en su día  
-Por: Julio Pernús
 
 En muchas ocasiones me levanto diciéndome: “es posible ser feliz aquí”. Y me lo repito mil veces para que la idea me cale hondo; pero la vivencia petrificada de algunas realidades va dejando sin voz algunos de mis mejores pensamientos.
 

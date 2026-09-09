@@ -1,13 +1,11 @@
 ---
 title: "Soy biobomba resistiendo a la ocupación de mi cuerpo por el enemigo*"
 date: "2020-04-13T18:49:42+00:00"
-author: ""
+author: "Lázaro Benítez"
 category: "Cultura"
 image: ""
 ---
 ¿Podríamos hablar de danza y coronavirus?
-
-**Por: Lázaro Benítez**
 
 Una vez llegados a este punto donde no pocos han sido afectados por las múltiples extensiones del COVID 19, y a propósito de mi interés por documentar y exponer-me dentro del contexto particular en el que vivo, quisiera compartir esta reflexión surgida en tiempos de pandemia. ¿Podríamos hablar de la danza en estos tiempos? ¿Cuáles son los dispositivos coreográficos que se han generado en medio de esta crisis? ¿Cuál es la danza que generan los tiempos de epidemia?  
 A todas aquellas personas con un poco de acceso al cibermundo no le son ajenas las diversas alternativas creadas por diferentes artistas en medio de esta crisis: conciertos, cursos de danza, cursos de historia, funciones de teatro para niños, cursos de diferentes modalidades para adultos. Tampoco les debe resultar ajena la apertura de los fondos bibliográficos, registros audiovisuales, de las instituciones culturales: todo de forma gratuita. Seas o no parte de su membresía, puedes acceder a este amplio espacio de archivos, que hasta este momento estuvieron a disposición de una minoría. Ahora el acceso es masivo y, sobre todo, gratuito. Pero, ¿quiénes son las personas que acceden a estos espacios? ¿Cuáles son las estrategias de comunicación que han generado tanto artistas como instituciones de la danza?  

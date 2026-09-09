@@ -1,12 +1,10 @@
 ---
 title: "La gramática de la continuidad"
 date: ""
-author: ""
+author: "Miguel Alejandro Hayes"
 category: ""
 image: ""
 ---
-Por: Miguel Alejandro Hayes
-
 La continuidad es un modo de proyectarse. Lo es también de refractar la realidad política y cotidiana, de relacionarse con ellas, de actuar. Genera su propio lenguaje, discurso, códigos y estructuras. Por tanto, no le faltan las trampas que ella misma se pone.
 
 El discurso de la continuidad usa las más sencillas de las herramientas para reforzar el elemento que sostiene la propia continuidad: el centro de la estructura. El centro de la estructura es el líder. La continuidad se articula alrededor de este, de varios, en jerarquía, donde a un nivel superior le corresponde un mayor grado de blindaje. Y así lo muestra.

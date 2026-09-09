@@ -1,13 +1,11 @@
 ---
 title: "El mercado y el socialismo"
 date: "2019-04-15T06:27:15+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: ""
 ---
 Fotografía: Wendy Pérez Bereijo
-
-**Por: Miguel Alejandro Hayes**
 
 Decía el marxista y estudioso de la dialéctica francés [Henri Lefebvre](https://es.wikipedia.org/wiki/Henri_Lefebvre), que la economía capitalista había estafado bastante a la marxista. Con ello señalaba cómo los teóricos del marxismo caían en las trampas y provocaciones de los ideólogos del capitalismo, donde estos creaban falsos dilemas como mercado-planificación, a los que se respondía –del lado de acá- en ocasiones con utopías.
 

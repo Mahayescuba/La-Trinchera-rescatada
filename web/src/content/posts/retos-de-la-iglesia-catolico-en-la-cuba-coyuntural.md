@@ -1,7 +1,7 @@
 ---
 title: "Retos de la iglesia católica en la Cuba coyuntural"
 date: "2019-11-14T22:46:35+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
@@ -9,7 +9,6 @@ Iglesia católica en Cuba.
 
 #### Una mirada católica a desafíos eclesiales de S.E.R. Juan de la Caridad García Rodríguez
 
-**Por: Julio Pernús**  
 Desde el pasado 5 de octubre Cuba tiene un nuevo cardenal, y esto, sin lugar a dudas, ofrece la oportunidad de hacer un repaso por los tópicos donde debe posarse la mirada como Iglesia. Para este artículo voy a utilizar como referentes las ideas planteadas por dos hombres católicos de especial talento, para vislumbrar esos senderos que nos deparan el presente y futuro eclesial. Mi análisis lo voy a comenzar por la Iglesia cubana y sus retos, porque, de seguro, nos ayudarán a comprender un poco mejor, el contexto en el que se desempeñará nuestro nuevo cardenal, Juan de la Caridad García Rodríguez.
 
 > ¿qué significa ser un católico cubano hoy?

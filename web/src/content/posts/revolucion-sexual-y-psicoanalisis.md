@@ -1,15 +1,13 @@
 ---
 title: "Psicoanálisis y la revolución sexual"
 date: "2019-10-10T01:26:15+00:00"
-author: ""
+author: "Andy de Calzadilla Loureiro"
 category: "Teoría"
 image: ""
 ---
 Psicoanálisis y revolución sexual. 
 
 #### Ponencia presentada en la mesa-debate Trinchera Abierta en su edición del mes de mayo
-
-**Por: Andy de Calzadilla Loureiro**
 
 Es ciertamente curioso que se me haya invitado acá como representante del psicoanálisis para hablar de un tema que, por las limitaciones prácticas del psicoanálisis, escapa al saber clínico. Como ustedes bien saben, el psicoanálisis soporta su saber fundamentalmente en la clínica individual. Y los intentos de hacer una teoría general de la sexualidad exceden los esfuerzos terapéuticos y clínicos, sobre todo porque el saber que se origina en la práctica psicoanalítica nace de la transferencia como saber del inconsciente que es indomable por los procesos de la voluntad.  
 El tema que nos ocupa hoy es la _revolución sexual_, cuya historia es seguramente mejor conocida por los teóricos que nos acompañan. Pero como he aceptado venir acá, seguramente por puro narcisismo, quizás pueda hablar desde el lugar de la pregunta, e ir, sin demasiados rodeos a mis propias inquietudes e ilustrar de manera simple el método psicoanalítico cuando se piensa sobre los procesos sociales.  

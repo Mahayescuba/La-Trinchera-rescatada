@@ -1,7 +1,7 @@
 ---
 title: "Aquello de contextualizar"
 date: "2020-06-19T14:00:33+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
@@ -10,8 +10,6 @@ Otro rasgo a destacar de la metafísica es que junto al problema de la existenci
 <iframe allowfullscreen="" height="200" src="https://us.ivoox.com/es/player_ej_52173362_4_1.html?c1=ff6600"></iframe>
 
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/DjVWMIpEsks" allowfullscreen=""></iframe>
-
-**Por: Miguel Alejandro Hayes**
 
 Es muy difícil escapar de la metafísica. Y es que los discursos hegemónicos de las ciencias, se engendraron, nacieron, crecen y se desarrollan, como tal paradigma. El individuo metafísico, a decir de [Frederick Copleston](https://es.m.wikipedia.org/wiki/Frederick_Copleston), _supone que tiene sentido buscar la razón o la causa de los fenómenos**\[1\]**_. Este es un supuesto que tanto la dialéctica (Hegel), como parte de la corriente posestructuralista, como la filosofía analítica, cuestionaron; pero el tema trasciende estas líneas.
 

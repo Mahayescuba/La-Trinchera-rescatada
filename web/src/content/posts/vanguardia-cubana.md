@@ -1,13 +1,11 @@
 ---
 title: "No miro el abismo"
 date: "2019-10-26T14:20:16+00:00"
-author: ""
+author: "Orlando Ocaña Díaz"
 category: "Política en Cuba"
 image: ""
 ---
 Vanguardia cubana.
-
-**Por: Orlando Ocaña Díaz**
 
 Miguel Alejandro Hayes:  
 He leído con detenimiento dos artículos recientes publicados en Joven Cuba, respectivamente, el primero redactado por Yassel Padrón, titulado [_Todos los tonos del gris_](https://jovencuba.com/2019/10/22/22640/) y el tuyo: _[La relación del presente con el futuro…](https://jovencuba.com/2019/10/23/la-relacion-del-presente-con-el-futuro-no-es-inversa/)_, y debido a su contenido me surgen algunas ideas que quiero hacerles llegar.

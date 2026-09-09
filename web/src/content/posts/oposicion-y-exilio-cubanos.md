@@ -1,13 +1,11 @@
 ---
 title: "El nudo marciano de la oposición y el exilio cubanos"
 date: "2019-01-28T17:30:23+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
 image: ""
 ---
 Un texto sobre oposición y exilio cubanos.
-
-**Por: José Gabriel Barrenechea**
 
 En Cuba, oponerse abiertamente al régimen lo llevará de manera irremediable a la más total inopia: No podrá trabajar en uno de esos mayoritarios empleos oficiales, en los que solo se le permitirá poner un pie si es que antes ha accedido a colaborar con los órganos de seguridad; no obtendrá una imprescindible licencia estatal para ejercer el “trabajo por cuenta propia”, y si la tenía de corre el riesgo de perderla tras la inspección sanitaria o el registro que se hace en la caza de recursos mal habidos… en un país en que el único suministrador autorizado, el estado, no suministra de manera mayorista absolutamente nada. Tampoco, por cierto, podrá dedicarse al amplio sector ilegal,
 

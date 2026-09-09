@@ -1,7 +1,7 @@
 ---
 title: "La atención de los jóvenes es el premio mayor"
 date: "2019-04-07T01:38:10+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Entrevista"
 image: ""
 ---
@@ -10,8 +10,6 @@ Entrevista a Silvio Rodríguez.
 Fotografía: González Gil
 
 #### Entrevista a Silvio Rodríguez
-
-**Por: Sender Escobar**
 
 Siguen rompiendo lo imposible las estaciones de Silvio Rodríguez. Ya son cien las giras por los barrios y la magia de cada encuentro se multiplica. Esta vez, llega en palabras el dulce látigo de abeja en la conciencia, de un hombre que continúa ampliando la canción.
 

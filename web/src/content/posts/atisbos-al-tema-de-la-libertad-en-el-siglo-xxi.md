@@ -7,8 +7,6 @@ image: "/wp-content/uploads/2021/03/atelier-venustas.jpg"
 ---
 ## **Primer esbozo: libertad individual**
 
-**Por: Raymar A. Aguado Hernández**
-
 > _A: Diego A. Marrero Leyva. Pues sé que el día que mi mente no pueda darle voz a mis ideas, las de él, las premiarán._
 
 La necesidad de lograr la plenitud individual, para su posterior repercusión en su medio circundante, es esencial para el hombre en la búsqueda de la tan ansiada libertad. Un ser sumido en odios, estandarizaciones, conflictos de incompatibilidad social, escepticismo, desconocimiento, autocensura y miedo, nunca logrará gozar a plenitud de la misma, pues estará atado a cadenas autoimpuestas, de las cuales, sólo podrá zafarse a raíz del estado de conciencia adquirida desde la experiencia y madurez de criterio.

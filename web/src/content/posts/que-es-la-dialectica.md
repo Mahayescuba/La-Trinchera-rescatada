@@ -1,15 +1,13 @@
 ---
 title: "¿Qué es la dialéctica?"
 date: "2019-01-08T06:20:29+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo"
 image: ""
 ---
 dialéctica hegeliana.
 
 ## Ponencia presentada en la Mesa Debate Trinchera Abierta, en su edición del mes de octubre. Realizada en MEPLA, La Habana, Cuba.
-
-**Por: Miguel Alejandro Hayes**
 
 Cuando decidimos que el tema de este encuentro sería Mitos del marxismo, confieso que no me decidía por ninguno en particular. No sabía si hablar de la producción, de la propiedad, de las contradicciones, del socialismo, del comunismo, de la alienación, del valor.
 

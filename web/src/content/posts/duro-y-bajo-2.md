@@ -7,8 +7,6 @@ image: ""
 ---
 _Nota a los lectores: Para este final de año, a los editores de La Trinchera nos complace presentarles una selección de los textos más leídos de cada uno de los colaboradores de este espacio. A todos les agradecemos su confianza._ 
 
-**Por: Jorge Fernández Era**
-
 “El guion de lo que debemos hacer está escrito y organizado por el enemigo de siempre: el imperialismo yanqui. No nos dejemos confundir ni sigamos cantos que enconden propósitos muy diferentes a lo que dicen por delante. Detrás, los propósitos son mucho más oscuros”. Fue lo último que se dijo en el noticiero, escrito por alguien que no dio la cara, pero acusó a los organizadores de los sucesos del Mincult de tomar “medidas para ocultar su identidad”.
 
 Debe haber segunda parte para presentar las “nuevas pruebas que reafirman” que lo que pasó el 27 de noviembre en el Vedado capitalino “está claramente dibujado y marcado por el imperio, incitado y financiado, con propósitos muy definidos”. Porque lo presentado en el noticiero fue una grandísima bofetada a la inteligencia y al decoro, un libreto de quinta categoría que no merece ser financiado por nadie.

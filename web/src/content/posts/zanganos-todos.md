@@ -1,13 +1,11 @@
 ---
 title: "Yo zanganeo, tú zanganeas…todos zanganeamos"
 date: "2019-10-09T13:48:13+00:00"
-author: ""
+author: "Hugo el búho"
 category: "Opinión"
 image: "/wp-content/uploads/2019/10/IMG_20191009_094724.jpg"
 ---
 Ecuador. 
-
-**Por: Hugo el búho**
 
 De gana se pone a insultar el Boltaire. Nada le sale a ese pobre. Lo único que consiguió es que el paro se prolongue y con más bronca que antes. Estado de excepción dijo. Como que le fuéramos a hacer caso; ni el perro le para bola, peor el pueblo –que harto de tanto privilegio a banqueros, nebotces y empresarios- decidió seguir en las calles.  
 Se acabó la zanganada dijo el presidente más vago del que uno tenga memoria. Lo que el vago no sabe y no entiende es que cualquier insulto que venga desde el poder no hace más que invertir el significado y que uno lo asuma con orgullo y hasta con alegría. ¿Se acordará el vago de los forajidos y el coronel? Ese pobre, qué va recordar ni entender nada.  

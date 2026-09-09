@@ -7,8 +7,6 @@ image: ""
 ---
 Que lo del periodo de soberanía habría sido una debilidad americana, y que consecuentemente solo mediante la movilización total de la Nación y su puesta incondicional a las órdenes de alguna voluntad superior era y es posible mantener la soberanía nacional frente a nuestro vecino del Norte.
 
-**Por: José Gabriel Barrenechea**
-
 No entraré en detalles, solo voy a admitir que entre el 2 de mayo de 1902 y el 9 de septiembre de 1933, la República de Cuba fue un protectorado americano. Lo definía el apéndice impuesto por el Congreso de los EE.UU. a nuestra primera constitución republicana: La Enmienda Platt.
 
 Pero desde que durante 127 días el primer gobierno de Ramón Grau San Martín se mantuvo en el poder, en contra de la voluntad americana, la realidad fue muy otra. Grau se negó entonces a jurar la Constitución de 1901 por contener el referido apéndice, e hizo más: trajo al imaginario colectivo cubano la idea de que porque en Washington cogieran catarro no había necesariamente que ponerse a estornudar en La Habana. Lo logró el referido 9 de septiembre con un gesto muy simple, casi pueril, pero efectivo no obstante. Daba su discurso de asunción presidencial desde la terraza norte del Palacio Presidencial, cuando alguien lo interrumpió con la noticia de que lo llamaban desde la Embajada Americana. Grau, con su desenfado habitual respondió:

@@ -1,12 +1,10 @@
 ---
 title: "Ciudadanía o el injusto peaje"
 date: ""
-author: ""
+author: "Hiram H. Castro"
 category: ""
 image: ""
 ---
-Por: Hiram H. Castro
-
 Las autoridades de migración cubana han decidido que los ciudadanos cubanos en el exterior paguen 40 dólares (y más) por cada mes que, después de pasado 24 meses sin ir a Cuba, permanezcan en el exterior. Sin embargo, irónicamente, el aeropuerto José Martí permanece cerrado. Los aeropuertos de otros países también. Las autoridades cubanas han puesto la carreta delante de los bueyes y a los ciudadanos cubanos en el exterior entre la espada y la pared.
 
 ¿Quiénes asesoran a las autoridades cubanas en materia de migración? Un gobierno debe contar con expertos que adviertan sobre las consecuencias de sus decisiones. Un experto debe ser capaz de analizar las múltiples dimensiones en torno a un problema.

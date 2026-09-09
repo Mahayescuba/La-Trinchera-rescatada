@@ -1,12 +1,10 @@
 ---
 title: "Decires"
 date: ""
-author: ""
+author: "Roque Dalton"
 category: ""
 image: ""
 ---
-Por: Roque Dalton
-
 El marxismo-leninismo es una piedra  
 para romperle la cabeza al imperialismo  
 y a la burguesía.  

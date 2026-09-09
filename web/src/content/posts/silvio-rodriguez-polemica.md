@@ -1,13 +1,11 @@
 ---
 title: "Silvio es Silvio"
 date: "2018-10-01T11:30:37+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: ""
 ---
 A propósito de algunas declaraciones que se han visto en las redes contra el cantautor cubano Silvio Rodríguez y la polémica al respecto.
-
-**Por: Miguel Alejandro Hayes Martínez**
 
 No me gusta la mayoría de la música que produce la industria. Para mí, es solo una buena envoltura, bien actuada. Si no veo algo más, un lado humano, altruista, la ignoro.  
 Quizá por eso solo escucho cantautores, especialmente la trova. En ella encontré una salida a los dilemas existenciales de un joven que nunca supo- y todavía no cree saber- cómo mejorar su país sin contribuir a su destrucción.  

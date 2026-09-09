@@ -1,13 +1,11 @@
 ---
 title: "Debates trans en Cuba: desinformación, transfobia y otros errores en el c(s)istema"
 date: "2020-07-04T16:00:00+00:00"
-author: ""
+author: "Mel Herrera"
 category: "Debates"
 image: ""
 ---
 Hay gente cis que se arroga incluso el derecho de evaluar y dictaminar quién es trans y quién no, qué es transfobia y qué no. ¿Cómo que una mujer trans lesbiana? ¿No se supone que le gusten los hombres y por eso “se haya convertido en mujer”?
-
-**Por:  Mel Herrera**
 
 Este texto fue publicado originalmente en la plataforma 11M y se reproduce con autorización de su autora
 

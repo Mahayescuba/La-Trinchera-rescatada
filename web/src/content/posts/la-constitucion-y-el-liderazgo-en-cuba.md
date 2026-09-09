@@ -1,7 +1,7 @@
 ---
 title: "El liderazgo de la Cuba actual ¿Quién lo asume?"
 date: "2019-02-24T22:12:30+00:00"
-author: "Ernesto Nuñez"
+author: "Ernesto Núñez"
 category: "Política en Cuba"
 image: ""
 ---

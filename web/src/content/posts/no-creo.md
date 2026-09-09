@@ -1,7 +1,7 @@
 ---
 title: "No creo"
 date: "2019-06-28T04:05:56+00:00"
-author: ""
+author: "Daniel Toledo Guillén"
 category: "Opinión"
 image: ""
 ---
@@ -9,7 +9,6 @@ Silencio contra silencio, como fuego contra fuego.
 
 > …no tiene memoria, tiene esperanzas.
 
-**Por: Daniel Toledo Guillén**  
 _No creo que mi pueblo valga la pena_. Así se titulaba una entrevista hecha a [Alfredo Guevara](https://es.wikipedia.org/wiki/Alfredo_Guevara) cerca de su fallecimiento. No sé si la entrevista sea real, entre tanta confusión mediática. No sé si la frase fue realmente dicha por él. No importa, me apropio de ella aunque sea falsa. Haya sido dicha por Guevara o no, ahora la estoy diciendo yo por lo que su _status_ de incertidumbre ha cesado.
 
 > Díganle adiós al humanismo, la solidaridad, el heroísmo

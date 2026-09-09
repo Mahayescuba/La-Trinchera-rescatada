@@ -1,13 +1,12 @@
 ---
 title: "El objeto y el método"
 date: "2020-02-19T05:04:05+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo"
 image: ""
 ---
 #### Pequeño comentario para cuestionar el instrumentalismo desde el que algunos piensan la dialéctica
 
-**Por: Miguel Alejandro Hayes**  
 Tengo varios amigos que, como desconocen la dialéctica, hablan de ella y de su uso como si se tratara de una varita mágica. Seguro la mayoría de ellos cree eso, o porque conocen aquella idea de que la dialéctica materialista va de aplicar la dialéctica idealista o porque pueden intuirla. De ahí que les dedique estas líneas.  
 Y como sé que la jerga filosófica de corte de la clásica alemana vista a través de Hegel no está de moda, que pasa por mal escrita y cuesta entenderla, usaré exposición más sencilla y de tema cotidiano.  
 Imagínese el lector que una mujer está embarazada. Ella puede acceder a un hospital, el cual cuenta con equipos para hacer [ecografías](https://medlineplus.gov/spanish/pruebas-de-laboratorio/ecografia/) y demás análisis del feto.  

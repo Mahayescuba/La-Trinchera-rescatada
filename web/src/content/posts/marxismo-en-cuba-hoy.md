@@ -1,13 +1,11 @@
 ---
 title: "El milagro que debe realizarse"
 date: "2019-08-10T06:37:12+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo en Cuba"
 image: ""
 ---
 El Marxismo en Cuba.
-
-**Por: Miguel Alejandro Hayes**
 
 El marxismo sin dudas ha sido defendido como la ciencia que ha de acompañar a los más desposeídos en su camino hacia la liberación. El propio Marx, era justo esto lo que buscaba, por eso intentó dejar una obra en la que los obreros pudieran entender su realidad y sobre la base de esta cambiarla.  
 Durante la existencia del llamado campo socialista, se propagó por una buena parte del mundo el marxismo (aunque fuera la línea soviética). Parecía ser el sueño que habían deseado muchos revolucionarios. Sin embargo, tras el derrumbe del socialismo, las cosas comenzaron a cambiar y fue desechado radicalmente por ese mundo que había cambiado de signo político.

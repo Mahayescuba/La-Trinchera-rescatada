@@ -1,13 +1,11 @@
 ---
 title: "Y esto no puede ser el final"
 date: "2018-12-17T04:03:31+00:00"
-author: ""
+author: "René Portuondo"
 category: "Política en Cuba"
 image: ""
 ---
 Para los que creemos que esto no puede ser el final, que el socialismo es más que la caricatura deforme del mismo que a lo largo de la historia se nos ha presentado.
-
-**Por: Rene Portuondo**
 
 Para nadie es un secreto que la implantación del modo de producción capitalista, fue en términos efectivos, la implantación de las relaciones de dependencia del trabajo al capital, y su imposición como relación hegemónica que condicionaba todo el funcionamiento de la vida orgánica de una sociedad. Así mismo ha sido ampliamente extendido, la idea en muchos casos distorsionada, que la superación socialista del modo capitalista de producción implica necesariamente la ruptura de dicha relación de subordinación, y la implantación de relaciones económicas fundadas en el trabajo colectivo y orientado al pleno desarrollo del potencial de la especie humana.  
 Uno de los temas más traídos y llevados que ha centrado la polémica en la construcción del socialismo ha sido el del proceso de socialización socialista de la propiedad. El mismo tiende a comprender el proceso mediante el cual, una vez que ha sido tomado el poder político por parte de la clase trabajadora, se pone en función de los intereses de dicha clase, la estructura productiva de la sociedad. 

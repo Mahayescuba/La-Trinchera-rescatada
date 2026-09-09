@@ -1,7 +1,7 @@
 ---
 title: "Kubilete"
 date: "2019-05-16T20:25:25+00:00"
-author: ""
+author: "Anckla"
 category: "Onírica"
 image: ""
 ---
@@ -9,7 +9,6 @@ kubilete. 
 
 ##### Fotografía: Anckla
 
-**Por: Anckla**  
 Siempre que vemos la vida aquí, en esta mesa de juego, se nos pasa la hora pensando en emigrar.  
 No importa ser negro o gallego, jevita o cundango; o te rompes la cabeza esperando que la suerte te sorprenda o vendes alguna prenda para comer.  
 El cubano ha aprendido a luchar con la carencia, a huirle a la inteligencia que se camufla entre nosotros.  

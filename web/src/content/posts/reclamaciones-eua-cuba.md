@@ -1,13 +1,11 @@
 ---
 title: "Las reclamaciones de Estados Unidos hacia Cuba"
 date: ""
-author: ""
+author: "María del Pilar Díaz Castañón"
 category: ""
 image: ""
 ---
 Fotografía: Wendy Pérez Bereijo
-
-Por: María del Pilar Díaz Castañón
 
 Hasta el 30 de septiembre de 1970, la Comisión de Ajuste de Reclamaciones Extranjeras de los Estados Unidos (United States Foreign Claims Commission, FCSC) de Washington, D.C., había recibido un total de 8765 demandas por pérdidas de individuos norteamericanos y de corporaciones anteriormente activas en Cuba. La pérdida total que se reclama es de $3,346,335,726.75 (1). A medida que la Comisión estudiaba estas demandas, algunas fueron rechazadas, otras reducidas y unas pocas aumentadas. Para la fecha del 31 de diciembre de 1971, la Comisión había revisado 7079 solicitudes. De ellas, 1192 fueron denegadas, generalmente por falta de evidencia suficiente respecto a la nacionalidad norteamericana del demandante, o porque el demandante no podía probar satisfactoriamente ser dueño de la propiedad expropiada. De los restantes 5887 se certificó una pérdida total de $1, 769,124.08 (2).
 

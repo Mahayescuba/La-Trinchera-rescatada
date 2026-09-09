@@ -1,15 +1,13 @@
 ---
 title: "Del arte y los artistas"
 date: "2019-08-01T07:18:54+00:00"
-author: ""
+author: "Daniel Toledo Guillén"
 category: "Política en Cuba"
 image: ""
 ---
 Arte y artistas. 
 
 ### Discurso de la 38° Graduación [Isa](http://www.isa.cult.cu/)
-
-**Por: Daniel Toledo Guillén**
 
 Hoy no he venido a excitar sentimientos de nostalgia por el tiempo pasado o rememorar anécdotas. Cada cual ha de recordar sus propias experiencias y atesorarlas como considere mejor. Tampoco he venido a hablar en nombre de los graduados. Nadie puede hablar en nombre de nadie. Para ello, todos tenemos voces propias, ideas propias, razonamientos individuales.
 

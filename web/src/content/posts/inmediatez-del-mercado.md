@@ -1,13 +1,11 @@
 ---
 title: "La irreductible inmediatez del Mercado"
 date: "2019-10-09T12:38:04+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Teoría"
 image: ""
 ---
 Es poco probable que el Mercado por sí solo pueda organizar una economía viable para cuando el aire puro sea un bien escaso.
-
-**Por: José Gabriel Barrenechea**
 
 El Mercado no nos permite ver más allá de nuestros más inmediatos intereses. En apariencias, en base a él puede organizarse un más eficiente control sobre los recursos naturales que el que puede lograrse con el planeamiento económico, mas esto realmente solo ocurre a nivel inmediato, pero no al mediato. Los mercados funcionan en base al principio del “Carpe Diem”, y en consecuencia sobre el aquello de que “después de mí, el diluvio”. La incuestionable eficiencia que en lo inmediato dejan los mercados se afinca a la larga sobre la ineficiencia absoluta en lo mediato. Es esta la explicación de porqué nuestras eficientes economías mercantilizadas están dejándole en herencia a las futuras generaciones un planeta cada vez más irrespirable.  
 Es el carácter restringido a que los mercados reducen la negociación, como cosa solo de dos, pero en medio de un masivo resto de la sociedad a la que solo se le deja el papel de amenaza competitiva, la causa más importante de su incapacidad para lograr un sano equilibrio entre lo inmediato y lo mediato.  

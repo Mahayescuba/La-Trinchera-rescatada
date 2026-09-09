@@ -1,13 +1,11 @@
 ---
 title: "Marx + Proudhon (I)"
 date: "2018-09-14T17:51:43+00:00"
-author: ""
+author: "Oscar Herrero"
 category: "Opinión"
 image: ""
 ---
 Marx y Proudhon.
-
-Por: Oscar Herrero
 
 Como la sociedad no nos brinda previsibilidad, recurrimos a la religión
 

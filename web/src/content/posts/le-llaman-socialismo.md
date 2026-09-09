@@ -1,13 +1,11 @@
 ---
 title: "Le llaman socialismo"
 date: "2019-10-18T12:40:35+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo"
 image: ""
 ---
 Lo peor es que, al aceptar todo lo que ha sido conocido como socialismo y asociado a este como si lo fuese, se niega y se impide ver otras sociedades o experiencias que pudieran tener algo de socialismo (aunque esta(s) esté(n) delante, y serán rechazadas por causa de la envoltura ideo-política).
-
-**Por: Miguel Alejandro Hayes**
 
 La crisis del socialismo es la crisis de lo que así hemos llamado. Para bien o para mal, el pensamiento mediado por el lenguaje, como en recurrencia a otras épocas, ha confundido palabras con cosas.  
 Se le llama socialismo no a una construcción de relaciones y esquemas sociales capaces de auto-reproducirse, sino a un estado al que se llega con heroísmo y mística política; que con nombrarlo, se dejó atrás al capitalismo. ¿Acaso no se reflexiona en que si existe un socialismo, no es más que un capitalismo que se está negando a sí mismo, al punto que su fundamento empieza a mutar? No parece hacerse mucho y, por el contrario, también se le llama socialismo:  

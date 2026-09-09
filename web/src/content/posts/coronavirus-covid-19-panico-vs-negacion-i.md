@@ -1,15 +1,13 @@
 ---
 title: "Coronavirus (COVID-19): Pánico vs Negación (I)"
 date: "2020-03-15T19:30:18+00:00"
-author: ""
+author: "Danilo Euser"
 category: "Cultura"
 image: "/wp-content/uploads/2020/03/virus4-600x844-1.jpg"
 ---
 En pocas semanas ya se había identificado la enfermedad en Wuhan, y ya se ha hecho la secuenciación genética del coronavirus, lo cual es súper importante para entender los riesgos y poder encontrar curas y formas de revertirlo.
 
 # Perspectivas, realidades y consejos útiles
-
-**Por: Danilo Euser**
 
 Realidad indiscutible: las bacterias resistentes y las pandemias han sido, y son, una de las principales amenazas para la Humanidad. También suelen ser un ejemplo de la ineficiencia y el diseño inapropiado de nuestros Sistemas Sociales existentes.  
 Aclaración: estas líneas no ofrecerán una descripción microbiológica ni epidemiológica del virus. Para obtener esa información, consultar directamente en las entidades científicas sanitarias, como el apartado especial de la página oficial de la [Organización Mundial de la Salud](http://www.who.int/es/emergencies/diseases/novel-coronavirus-2019). Aquí nos limitaremos a responder algunas cuestiones no tan mencionadas, desde un punto de vista, tanto sociológico como individual.  

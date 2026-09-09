@@ -1,13 +1,11 @@
 ---
 title: "Educación, ¿privilegio o derecho?"
 date: "2019-09-17T15:31:07+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
 image: ""
 ---
 Educación.
-
-**Por: Ernesto Gutiérrez Leyva**
 
 Escribo estas breves líneas ante la preocupación que me provocan las recientes declaraciones de un alto funcionario cubano. La respuesta a la pregunta que da título a este artículo, en Cuba es conocida por cualquier cubano: es un derecho. Me atrevo a afirmarlo de forma tan categórica porque desde pequeños escuchamos hablar de esos dos grandes logros de la Revolución: educación y salud, dos derechos alcanzados por y para el pueblo.
 

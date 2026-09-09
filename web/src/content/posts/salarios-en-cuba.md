@@ -1,13 +1,11 @@
 ---
 title: "Salario Mínimo o mínimos salarios"
 date: "2020-01-11T20:02:03+00:00"
-author: ""
+author: "Ernesto Pérez Castillo"
 category: "Economía en Cuba"
 image: ""
 ---
 salario minimo.
-
-**Por: Ernesto Pérez Castillo**
 
 Antes, a mí se me daban muy bien las matemáticas. Y tanto, que hasta hice como que estudiaba cibernética. Claro que entonces, a mitad de los ochenta, los cálculos eran básicos, elementales, y las cifras no eran temerarias.  
 Hoy no podría atreverme a tanto, ni a menos. Y las cuentas, ni grandes ni pequeñas, ya no me salen. Ni atrás ni adelante. No hay manera. Llevo un año tratando de saber y sin lograr calcularlo, por ejemplo, cuánto dinero necesito para vivir un mes, una semana, un día. Ni siquiera para vivirlo a todo tren, a cuerpo de rey, sino solo vivirlo, apenas vivirlo.  

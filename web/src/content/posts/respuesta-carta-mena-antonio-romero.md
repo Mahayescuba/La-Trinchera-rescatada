@@ -1,7 +1,7 @@
 ---
 title: "La importancia de la tautología"
 date: "2019-09-23T04:28:13+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: "/wp-content/uploads/2019/09/PicsArt_09-22-08.37.46.jpg"
 ---
@@ -9,7 +9,6 @@ Socialismo. 
 
 #### La cuestión de “liberar” las fuerzas productivas
 
-**Por: Miguel Alejandro Hayes**  
 Leí [la carta](https://www.rebelion.org/noticia.php?id=260620&titular=carta-sobre-el-socialismo-) de Yunier Mena varias veces. Conversé y di mis criterios sobre ella en las redes sociales, así como en otros escenarios; creo que en ellos ya planteé lo que podía decir al respecto.
 
 A continuación expongo algunas de esas ideas bajo el deseo de que puedan ser parte de la construcción de la que todos somos parte.  

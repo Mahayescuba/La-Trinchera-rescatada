@@ -1,13 +1,11 @@
 ---
 title: "Los 14 síntomas del fascismo eterno"
 date: "2019-03-13T05:36:57+00:00"
-author: ""
+author: "Umberto Eco"
 category: "Teoría"
 image: "/wp-content/uploads/2019/03/PicsArt_03-24-02.58.05.jpg"
 ---
 fascismo eterno. 
-
-**Por:Umberto Eco**
 
 #### Discurso pronunciado por Umberto Eco el 24 de abril de 1995 en la Universidad de Columbia, Nueva York, recogido después en Cinco escritos morales (Penguin Random House, 2010) y en Contra el fascismo (Lumen, 2018).
 

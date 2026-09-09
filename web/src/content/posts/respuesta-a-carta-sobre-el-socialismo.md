@@ -1,13 +1,11 @@
 ---
 title: "Sin ni siquiera saberlo"
 date: "2019-09-26T15:34:00+00:00"
-author: ""
+author: "Giordan Rodríguez Milanés"
 category: "Marxismo en Cuba"
 image: ""
 ---
 ### En respuesta a una carta publicada en Rebelión
-
-**Por: Giordan Rodríguez Milanés**
 
 El socialismo tendrá que ser el anhelo consciente de multitudes lo suficientemente cuantiosas y culturalmente empoderadas, como para hacer tambalear las relaciones de poder históricas entre el Estado, el Mercado y los ciudadanos. Y esto no sucederá sin una crisis global que estremezca la condición humana, nuestros egoísmos, nuestras avaricias, nuestras vanidades sustentadas en el instinto de conservación, la búsqueda de la seguridad y el hedonismo como respuesta a una vida llena de estímulos desagradables o angustias.  
 No hablo de la crisis sociopolítica de un país, una región o un sistema de gobierno, sino una megacrisis de orden antropológico que nos ponga como especie al borde de la extinción. Una crisis que provoque un trauma psicosocial y cultural tal, que cambie la visión que la humanidad tiene de si misma, o que por lo menos cambien la visión de una parte determinante de la humanidad tiene de si misma.  

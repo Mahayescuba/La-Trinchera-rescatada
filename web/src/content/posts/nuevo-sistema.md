@@ -1,12 +1,10 @@
 ---
 title: "Un nuevo sistema"
 date: ""
-author: ""
+author: "Ernesto Núñez"
 category: ""
 image: ""
 ---
-Por: Ernesto Núñez
-
 \> Ya las utopías existen  
 \> ¿Qué estamos haciendo?  
 \> ¿Qué hiciste?

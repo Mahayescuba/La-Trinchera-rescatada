@@ -1,12 +1,10 @@
 ---
 title: "El clasificador en su laberinto"
 date: "2020-06-05T13:34:11+00:00"
-author: "Alina Bárbara López Hernández"
+author: "Alina B. López Hernández"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/06/IMG_20200605_092907.jpg"
 ---
-**Por: Alina B. López Hernández**
-
 Como si a Cuba no le bastara con haber perdido su lugar prominente en la producción de azúcar. Por si no fuera suficiente con el hecho de que ya no existen frutas que hasta hace unas décadas eran parte de la cotidianidad tropical. Como si no hubiéramos degenerado en tantas de nuestras potencialidades para crear riquezas. Ahora, para colmo de males, ya el país no es capaz de producir ni un pensamiento o una opinión política propios; también son importados.
 
 Lo que la revista Cuba Socialista [había unido hace unos meses por obra y gracia de Karima Oliva y Vibani B. Jiménez](/politica-en-cuba/), en una corriente única de oposición denominada progresismo, ahora Cubadebate lo separa en dos mitades tras el pase de magia de Javier Gómez Sánchez, pues según su artículo, publicado en el referido sitio la pasada semana, las opiniones adversas al gobierno se dividen entre nosotros en dos tendencias contrarrevolucionarias. Pero, oh nacionalismo derrotado, ambas tienen su origen en EE.UU. Las bautiza y todo: obamistas y trumpistas, o para ser más precisos «la estrategia Trump» y «la estrategia Obama».

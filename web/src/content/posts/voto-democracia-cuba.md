@@ -1,13 +1,11 @@
 ---
 title: "El voto"
 date: "2019-05-31T18:38:42+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 En Cuba, la democracia también ha sido un referente.
-
-**Por: Miguel Alejandro Hayes**
 
 La democracia es una de esas formas ilusorias que nos ha creado la modernidad. Lo que en la antigüedad fue considerado de una manera, con connotaciones algo separadas de las que tenemos hoy, se convierte casi en una necesidad ontológica para el habitante del occidentalizado _antropoceno_.  
 En cualquier caso, el etnocentrismo expandido nos acerca querer ser poseedores de la democracia -y no vivimos a espalda de la cultura, esta es parte del sistema de símbolos que se levantan, no solo a nivel teórico, sino a nivel de las masas populares-. La democracia autoproclamada, ya sea la liberal, o la de la Corea _fuerte_, es parte de esas referencias con las que tenemos que lidiar -tanto dentro como fuera del imaginario revolucionario.  

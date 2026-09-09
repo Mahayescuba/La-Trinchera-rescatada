@@ -1,13 +1,12 @@
 ---
 title: "Joe Biden, o el acercamiento"
 date: "2020-04-30T17:30:14+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Política"
 image: ""
 ---
 Pero al salir Bernie, tenemos que conformarnos con una opción menos óptima: Joe Biden.
 
-**Por: José Gabriel Barrenechea**  
 Blas Roca, allá por los cuarenta del siglo pasado, declaró que en Cuba no habría socialismo mientras antes no lo hubiera en EEUU. Claro, Roca hablaba de esa actualización 2.0 de la formación asiática marxista que el marxismo-leninismo identifica erróneamente con el Socialismo, no de este propiamente dicho.  
 En esta posición se explica la decisión del Partido Socialista Popular (comunista) de subordinarse al Partido Norteamericano, y a la vez se expresa una verdad como un templo: por razones geopolíticas, e históricas, Cuba se halla en tal grado de relación con los EEUU que su política, interna y externa, siempre tendrá un alto grado de dependencia de lo que en nuestro vecino opinen sobre el asunto en cuestión. Porque ese grado de dependencia terminará por manifestarse, incluso, cuando el país intente romperla, ya que eso solo se conseguiría al buscar alianzas con los intereses globales en contraste con la Nación Americana, y al adoptar cualquier discurso en las antípodas del sostenido como principal en nuestro vecino del norte.  
 Precisamente lo ocurrido a partir de 1960.  

@@ -1,7 +1,7 @@
 ---
 title: "Hablar de socialismo"
 date: "2019-05-03T05:05:31+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo"
 image: ""
 ---
@@ -9,7 +9,6 @@ La teoría del socialismo, necesita una teoría seria del capitalismo.
 
 ##### Fotografía: Yolo
 
-**Por: Miguel Alejandro Hayes**  
 En tiempos y lugares donde se puede ver las diferentes caras del sistema dominante: el llamado capitalismo de rostro humano, el capitalismo subdesarrollado y otros capitalismos que pretenden con nombre de otra cosa no pasar por tal, están creadas las condiciones para que al tomar como rasgos del sistema a sus peores expresiones, se piense en la posibilidad de una sociedad mejor. Y ciertamente, el mundo que tenemos no es una fluctuación ni una casualidad, es el que tendencialmente se genera, y un mundo menos polarizado, implicaría cambiar la lógica de este.
 
 La salida casi unánime a este capitalismo que domina, es el socialismo. Sin hacer distinción, y dado lo abarcador que puede ser el socialismo, la pregunta que propongo es, ¿de qué hablamos cuando hablamos de socialismo?

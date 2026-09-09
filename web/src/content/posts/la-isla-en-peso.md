@@ -7,8 +7,6 @@ image: ""
 ---
 ## Apuntes sobre cómo encarar al miedo desde la fe
 
-**Por: Julio Pernús**
-
 El aislamiento producto de la pandemia nos ha permitido revisar lecturas pendientes, _la Isla en Peso_  de Virgilio Piñera estuvo entre los versos que pude apreciar tras caer en mi biblioteca digital.  
 
 La poesía reflejada en la Cuba avistada por el autor no puede ser consumida en un solo sorbo, ni en un único concepto, pues en  su interior expresa la espiritualidad de un ser humano mutilado, detestado, pero en verdad eficaz con su voz de denuncia, _un descifrador de la irrealidad, que se desprende de lo real según sus versos_, diría uno de sus discípulos más cercanos, Antón Arrufat.

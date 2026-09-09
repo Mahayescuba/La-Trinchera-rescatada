@@ -1,13 +1,11 @@
 ---
 title: "Marx + Proudhon (VII)"
 date: "2018-11-26T00:00:12+00:00"
-author: ""
+author: "Oscar Herrero"
 category: "Marxismo"
 image: ""
 ---
 Marx y Proudhon.
-
-**Por: Oscar Herrero**
 
 De qué hablamos, al contrastar estos dos posicionamientos respecto al modo de combatir el capitalismo? En cuanto a difusión e instalación de sus ideas, Marx ganó, casi en toda la línea, y digo casi, porque en ese casi, está la sombra de Proudhón. Su premonición de erigir una nueva profecía, precursora de su respectiva iglesia, o iglesias, o fetiches de la libertad, confundiéndolos con la libertad misma. En realidad se trata de revisar los que los marxistas han hecho del programa de Marx, con los ojos de Proudhón. Una cosa para examinar es la noción de partido.  
 Para precisar, y poner en presente, un recorrido de varias décadas de experiencia, puede decirse, que la expresión más acabada del programa marxista lo representan los herederos de la [Cuarta Internacional](https://es.wikipedia.org/wiki/Cuarta_Internacional), al que también puede agregársele fracciones maoístas e inclusive lo que queda del PC, fundado por Lenín, un abanico variopinto de organizaciones golpeadas por la arrolladora recuperación de posiciones que ha tenido el capitalismo, en un trayecto contradictorio y que conlleva el noventa por ciento del transcurrir, dicho con generosidad, hablamos del programa en su registro mínimo. Un sobrevivir. Atravesar las contingencias adversas dentro del triunfalismo mercantil. Cómo sobrevivir en tiempos de contrariedad? Esa es la principal dificultad de un partido revolucionario. Un partido liviano de estructura tiene mayores ventajas. Un periódico, o varias publicaciones, escasos locales, los estrictamente necesarios, comunicación aceitada, algún billete guardado para imprevistos y escapadas urgentes. El mínimo aparato necesario. El resto son todas relaciones sociales por donde se estructura la conciencia de clase. El Partido debe tener autonomía financiera, pero convertir en tarea principal esta función desnaturaliza la especificidad del partido. Como le decía Trostki, a los miembros de la filial estadounidense. El partido no funge solo para hacer Campaña Financiera. Ni que hablar de las rentas políticas?  

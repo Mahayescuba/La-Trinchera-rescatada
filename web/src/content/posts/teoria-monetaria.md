@@ -1,15 +1,13 @@
 ---
 title: "La teoría monetaria (300 palabras)"
 date: "2020-09-07T03:33:00+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: ""
 ---
 La concreción de una teoría monetaria, cual la verdad del ser, su esencia, solo se alcanza al comprender el sistema económico del cual el dinero es dinero.
 
 ## Breve resumen sobre el alcance de la teoría monetaria
-
-**Por: Miguel Alejandro Hayes**
 
 El tema monetario en una economía no es propiamente el dinero, sino su impacto sobre la estructura y el ciclo productivo.
 

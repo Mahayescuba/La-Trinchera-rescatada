@@ -1,13 +1,11 @@
 ---
 title: "Los austriacos y la “reducción a sustancia común”"
 date: "2018-05-08T12:15:54+00:00"
-author: ""
+author: "Rolando Astarita"
 category: "Teoría"
 image: "/wp-content/uploads/2018/05/Valor.jpg"
 ---
 Una reflexión sobre la teoría austriaca del valor.
-
-Por: **Rolando Astarita**
 
 En una nota anterior ([aquí](https://rolandoastarita.blog/2018/04/08/la-critica-de-rallo-a-la-reduccion-de-marx/)) dedicada a la crítica que hace Ramón Rallo a la reducción marxiana de los valores de cambio a una “sustancia común”, explicamos por qué esta solo puede tener un carácter social. Esto es, no puede ser una característica física o química de las mercancías, ni ser una propiedad subjetiva. En este sentido demostramos, con numerosas citas de pasajes de _El Capital_, que Rallo miente cuando afirma que Marx no explicó por qué el peso, por ejemplo, no puede ser el elemento en común que determina el valor de cambio.
 

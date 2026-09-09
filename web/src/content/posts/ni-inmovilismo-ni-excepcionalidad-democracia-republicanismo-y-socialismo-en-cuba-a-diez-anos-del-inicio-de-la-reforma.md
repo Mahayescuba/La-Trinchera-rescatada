@@ -1,10 +1,12 @@
 ---
 title: "Ni inmovilismo ni excepcionalidad. Democracia, republicanismo y socialismo en Cuba a diez años del inicio de la reforma"
 date: "2021-03-19T16:00:00+00:00"
-author: ": Ailynn Torres Santana y Julio César Guanche"
+author: "Julio César Guanche"
 category: "Política en Cuba"
 image: ""
 ---
+**Por : Ailynn Torres Santana y Julio César Guanche**
+
 Desde aproximadamente 2010 Cuba está inmersa en procesos de cambios profundos. No se emplea la palabra «reforma», pero lo es, y ocurre en múltiples dimensiones. Todas estas transformaciones poseen legitimidades y problemas de cara a las necesidades y condiciones de posibilidad de la sociedad y el Estado socialista.
 
 La [consulta popular](https://jcguanche.wordpress.com/2019/02/22/deliberar-es-participar-a-proposito-de-la-consulta-constitucional/) y posterior aprobación en referéndum de una nueva [Constitución de la República](http://www.cubadebate.cu/noticias/2019/04/09/descargue-la-constitucion-de-la-republica-de-cuba-pdf/) (2019) fue un punto de llegada respecto a [cambios que ya estaban en proceso](https://jcguanche.wordpress.com/2018/11/11/una-constitucion-para-cuba-la-necesidad-de-una-nueva-constitucion-el-enfoque-tecnico-y-el-enfoque-politico/) y que la nueva norma formalizó. A la vez, abrió un momento de profunda transformación legislativa que está implicando la [creación o modificación](http://www.cubadebate.cu/noticias/2020/12/17/asamblea-nacional-aprueba-nuevo-cronograma-legislativo-infografias/) de más de un centenar de leyes y decretos. La ciudadanía ha buscado [intervenir](https://oncubanews.com/opinion/columnas/sin-filtro/la-ley-integral-contra-la-violencia-de-genero-lo-que-se-gana-y-lo-que-se-pierde/) el nuevo orden jurídico por distintas vías y con [distintos grados de éxito](http://www.cubadebate.cu/especiales/2020/12/07/como-marcha-la-construccion-de-la-politica-de-bienestar-animal-en-cuba/).

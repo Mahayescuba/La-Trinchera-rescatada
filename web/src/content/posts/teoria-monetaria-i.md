@@ -1,7 +1,7 @@
 ---
 title: "La teoría monetaria (podcast)"
 date: "2020-10-03T17:18:50+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: ""
 ---
@@ -10,8 +10,6 @@ La concreción de una teoría monetaria, cual la verdad del ser, su esencia, sol
 ## Breve resumen sobre el alcance de la teoría monetaria
 
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/zLihWFCX8Yw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-**Por: Miguel Alejandro Hayes**
 
 El tema monetario en una economía no es propiamente el dinero, sino su impacto sobre la estructura y el ciclo productivo.
 

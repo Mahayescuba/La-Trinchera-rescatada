@@ -5,8 +5,6 @@ author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
-**Por: Julio Pernús**
-
 Esta es la historia de un sábado, acontecida hace menos de un mes; fue en el municipio donde resido, en [Guanabacoa](https://es.wikipedia.org/wiki/Guanabacoa), pero quizás el suceso pudo darse en cualquier lugar de nuestro país. Una cola en Cuba es una fila larga de personas que han “marcado” para poder comprar algún producto de alta demanda y que, por estos días, tienden a esfumarse con velocidad espantosa. Mi abuela me había pedido que fuera a la farmacia para ver si habían entrado alguno de los medicamentos de su tarjetón. Ya era casi de noche cuando me dispuse a ir y averiguar, pues últimamente en donde resido, casi nunca se consigue con facilidad ninguna medicina.
 
 Mientras iba llegando a la farmacia, un señor de unos ochenta y pico de años me aborda para decirme: “yo soy el último”. Lo miré un poco confundido y le respondí: “Abuelo, yo solo vine a preguntar si habían entrado los medicamentos de mi abuela”. El señor me ripostó: “Hijo, yo te recomiendo marcar primero y luego averiguar, pues aquí uno no sabe la magnitud que puede tomar esta cola”. Al final marqué, pero al preguntar la dependiente me dice que la medicina entró en la tarde y la venderían por la mañana. En eso regresé para decirle al señor que hoy no venderían la medicina y me comentó: “Yo lo sé, pero llevo semanas detrás del aparato de asma para mi esposa y, al parecer, entró un pequeño lote que seguro será comprado por los primeros turnos.”

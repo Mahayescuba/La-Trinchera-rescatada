@@ -1,13 +1,11 @@
 ---
 title: "CUBA. Un SÍ contra la Revolución Socialista"
 date: "2019-02-27T10:00:00+00:00"
-author: ""
+author: "Roberto Cobas Avivar"
 category: "Política en Cuba"
 image: ""
 ---
 Constitución. 
-
-**Por: Roberto Cobas Avivar**
 
 “_Poner fin a la explotación del hombre por el hombre”:_  
 _“… inspirados en la historia de la humanidad y en los más preclaros teóricos y promotores de un sistema socialista de producción y distribución de las riquezas, el único capaz de crear una sociedad verdaderamente justa y humana: Marx, Engels y más tarde Lenin”_

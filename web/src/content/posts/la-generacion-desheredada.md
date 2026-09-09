@@ -1,13 +1,11 @@
 ---
 title: "La generación desheredada"
 date: "2020-05-13T09:30:15+00:00"
-author: ""
+author: "Elaine Roca"
 category: "Onírica"
 image: ""
 ---
 Es una generación vacía, comentan, la generación desheredada.
-
-**Por: Elaine Roca**
 
 Hay una generación que ha decepcionado a todos, la que más frases de la _juventud está perdida_ acumula. Es una generación que reniega, inmoral, sin principios, sin patria. A la que le ha resultado, dicen, más sencillo emigrar antes que resolver los problemas de su terruño. Es una generación que no conoce su historia, que no hace reverencias ante conquistas del pasado, que no viste como haría alguien con identidad propia, que no consume lo que debería y así irrespeta a los que, por ella, derramaron charcos de sangre.  
 Es una generación vacía, comentan, no distinguen, solo opinan y llenan las redes de basura inútil. Entregados al ciberespacio no viven en el mundo real. Su producción es la peor; su música, decepcionante; sus artes, plásticas vulgares, de mal gusto; su producción teórica carece de fundamentos; sus núcleos familiares,los más disfuncionales; sus gustos, los más mediocres, su forma de expresarse avergüenza a los grandes titanes del pasado.  

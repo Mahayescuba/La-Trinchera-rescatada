@@ -1,7 +1,7 @@
 ---
 title: "¿Modificar la constitución?"
 date: "2019-03-07T06:42:31+00:00"
-author: "Ernesto Nuñez"
+author: "Ernesto Núñez"
 category: "Política en Cuba"
 image: ""
 ---

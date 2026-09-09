@@ -1,13 +1,11 @@
 ---
 title: "¿Quiénes quedamos?"
 date: "2020-08-11T09:30:00+00:00"
-author: ""
+author: "Giordan Rodríguez Milanés"
 category: "Política en Cuba"
 image: ""
 ---
 “El pueblo”. 
-
-**Por: Giordan Rodríguez Milanés**
 
 El presidente dice: “El pueblo” o “nuestro pueblo”, como una entidad “otra”, que le pertenece.
 

@@ -1,13 +1,11 @@
 ---
 title: "Lunes"
 date: "2019-02-04T15:20:06+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: ""
 ---
 Me eche a reír cuando supe la noticia del meteorito.
-
-**Por: Miguel Alejandro Hayes**
 
 Me eche a reír cuando supe la noticia del meteorito. En realidad no reía de corazón, era solo la fachada asincrónica del miedo que sentí. Era miedo, incertidumbre (esa que amenaza la inteligencia humana).  
 Me atormentó la idea de no saber qué pasa en Cuba en estos días. Todo esto supera mi ateísmo convencido, y me pone al borde de las deidades, de lo supraterrenal, de algo que sea más que la voluntad de los hombres de hacer un mundo mejor.  

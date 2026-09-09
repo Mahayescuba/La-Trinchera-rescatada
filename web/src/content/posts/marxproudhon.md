@@ -1,13 +1,11 @@
 ---
 title: "Marx+Proudhon(IV)"
 date: "2018-10-12T18:03:07+00:00"
-author: ""
+author: "Oscar Herrero"
 category: "Teoría"
 image: ""
 ---
 Relación de Marx y Proudhon.
-
-**Por: Oscar Herrero**
 
 Marx más Proudhon  
 Cuando Lenin habló de las tres fuentes del marxismo, refiriéndose a su estudio, estaba hablando, del desarrollo teórico del socialismo francés, de la filosofía Alemana y de la escuela de economía clásica, fundamentalmente la inglesa.  

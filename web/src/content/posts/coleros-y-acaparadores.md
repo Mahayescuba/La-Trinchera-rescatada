@@ -1,13 +1,11 @@
 ---
 title: "El último"
 date: "2020-08-07T09:30:00+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
 coleros y acaparadores.
-
-**Por: Jorge Fernández Era**
 
 —¡Mima, ya estoy aquí! Sírveme rápido, tengo que irme de nuevo.
 

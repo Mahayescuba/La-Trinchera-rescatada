@@ -1,13 +1,11 @@
 ---
 title: "Facundo Regresa"
 date: "2020-01-05T09:26:20+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
 Facundo.
-
-**Por: Jorge Fernández Era**
 
   
 Que todavía haya gente que opine que la _TV Cubana_ no hace por mantener los espacios humorísticos y hasta fundar otros… Ahora mismo veo una cosita corta, pero graciosísima, que se llama _Cuba en Directo._ Me parto de la risa al percibir a una periodista haciéndonos creer que se encuentra por casualidad en las afueras del ICRT con el director del canal Cubavisión, Rafael Pérez Insúa («Va a entrar al edificio», dice). Este, sorprendido, jocosísimo y campechano, se dirige a ella: «¡Coño, qué bueno que voy a estar en Cuba en Directo!».  

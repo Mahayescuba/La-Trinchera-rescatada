@@ -1,13 +1,11 @@
 ---
 title: "Golpe de Estado"
 date: "2019-05-16T02:36:48+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---
 golpe de estado.
-
-**Por: Pablo Dussac**
 
 \-¿Cuándo damos el Golpe?  
 \-En la próxima que haga,  

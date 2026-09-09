@@ -1,13 +1,11 @@
 ---
 title: "Crónica de un chalecazo anunciado"
 date: "2018-12-24T05:27:52+00:00"
-author: ""
+author: "Ernesto Gutiérrez"
 category: "Política"
 image: ""
 ---
 Bolivia. 
-
-**Por: Ernesto Gutiérrez**
 
 No, no me refiero a Francia, ni al movimiento de chalecos amarillos de ese país. El chalecazo del que hablaremos en esta oportunidad es andino, adora a la [Pachamama](https://es.wikipedia.org/wiki/Pachamama) y honestamente, se veía venir. Me refiero a la ola de protestas que recorren Bolivia de un tiempo a la fecha, ante la manifiesta intención del actual presidente, Evo Morales Ayma, de optar por la re re re elección a la presidencia de ese país. Para entender lo que pasa hoy en Bolivia, debemos remontarnos al año 2009, fecha en que se instaló la Asamblea Constituyente de cuyo seno saldría elaborada la actual Carta Magna boliviana. Esta Constitución tomó posturas muy progresistas en lo referente a los derechos humanos -sobre todo de cara a la reivindicación de los derechos de los pueblos originarios-, determinó que los tratados internacionales ratificados por Bolivia en materia de derechos humanos, que fueran más favorables a los individuos que la propia Constitución, deberían prevalecer por encima de ella misma, pero también estableció límites al número de veces en que una persona puede reelegirse de manera continua.  
 Esto último ahora es un problema, considerando que el hermano presidente parece querer batir el récord de permanencia en el poder -que en el caso de América Latina ronda entorno a los 47 años, aunque no sé, no estoy muy seguro-, pero antes de llegar a ese punto hay algunas cosas que debemos tener claras: Siempre que se promulga una nueva Constitución que limita el número de mandatos para los cargos de elección popular, surge invariablemente un asunto que atender:

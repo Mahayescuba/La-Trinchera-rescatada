@@ -1,13 +1,11 @@
 ---
 title: "Constelaciones"
 date: "2018-04-11T12:15:16+00:00"
-author: ""
+author: "Carlos Rivero"
 category: "Teoría"
 image: ""
 ---
 A mi profesora Alina Gutiérrez con gratitud y admiración.
-
-Por: **Carlos Rivero**
 
 La primera metáfora es el pensamiento mismo. La fatalidad de que cualquier cosa deba, no solamente ser expresada, sino también concebida en términos de otra cosa, permite vislumbrar que la metáfora posee un valor que no se restringe al uso estético o retórico\[1\]. Nos apropiamos de las nuevas costumbres en función de juzgarlas a partir de las costumbres precedentes. Muchos son los caminos que se abren a cada instante en virtud del carácter metafórico de nuestra percepción y nuestros recuerdos. Así, porque es posible resucitar la elegancia con algún verso memorable de Virgilio, porque una sinfonía de Beethoven es suficiente para vestir a la fuerza de música, porque _El éxtasis de Santa Teresa_ de Bernini conforma al unísono, carne y sepulcro marmóreo del deseo místico; porque la belleza adivinó el modo de esconderse para no fulminarnos, es que existe la metáfora. Del mismo modo que Zeus cambiaba de apariencia para seducir a sus amantes, así también unas palabras se transmutan en otras para llamar la atención sobre un aspecto en particular de su ser. La fortuna de Sémele parece una alegoría elocuente de lo que nos sucedería si la realidad se nos presentara tal cual es, en todo su esplendor y sin filtro alguno de la percepción, el lenguaje o la imaginación.
 

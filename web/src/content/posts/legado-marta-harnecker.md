@@ -1,13 +1,11 @@
 ---
 title: "El legado de Marta Harnecker"
 date: "2019-06-29T07:18:46+00:00"
-author: ""
+author: "Tony López R"
 category: "Opinión"
 image: "/wp-content/uploads/2019/06/Marta-Harnecker-560x315.jpg"
 ---
 Es en ese escenario que Marta Harnecker, estudia y desarrolla su trabajo académico y cuando fruto de sus experiencias, pública su primer libro.
-
-**Por: Tony López R.**
 
 Marta, al morir el pasado 14 de junio, nos ha dejado un rico legado, que no solo se encuentran en sus 100 obras escritas, teóricas y prácticas sobre el movimiento popular y social. También por su pedagógica forma de enseñar y de trasmitir sus ideas y pensamiento revolucionario a sus interlocutores, siempre partiendo de combatir los dogmas y los sectarismos.
 

@@ -1,13 +1,11 @@
 ---
 title: "Socialismo libertario y oposición de izquierda"
 date: "2020-05-11T18:33:46+00:00"
-author: ""
+author: "Ramón García Guerra"
 category: "Política en Cuba"
 image: ""
 ---
 Un texto que nos trae un término que resulta novedoso en el escenario político cubano actual: oposición de izquierda.
-
-**Por: Ramón García Guerra**
 
 ## I
 

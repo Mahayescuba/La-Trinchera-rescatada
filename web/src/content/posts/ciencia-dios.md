@@ -1,13 +1,11 @@
 ---
 title: "Una ciencia que muere por Dios"
 date: "2019-09-04T16:33:06+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 Ciencia y Dios.
-
-**Por: Julio Pernús**
 
 Hace unos años, mientras estudiaba en la universidad, un profesor que es doctor en Ciencias Sociales, que sabía de mis creencias, se acercó y me dijo:  
 _Pernús, tú sabes que yo creía en Dios y participaba de una comunidad cristiana, hasta que comencé a ganar en conocimientos._  

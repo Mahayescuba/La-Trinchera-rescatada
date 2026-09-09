@@ -1,13 +1,11 @@
 ---
 title: "Socialismo y ciencia ficción"
 date: "2018-12-22T16:57:23+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo en Cuba"
 image: ""
 ---
 Enseñanza de la conomía política en Cuba.
-
-**Por: Miguel Alejandro Hayes**
 
 Hace unos días, me llamó por la noche una de esas amigas que siempre es agradable escuchar, pero que solo se acuerdan de uno para pedir. Me dijo que tenía prueba de Economía Política del Socialismo, que estaba perdida y que tenía que estudiar. Para sellar su labor de convencimiento me dijo: – Dale, anda, que tú estás escapao en todo eso-.  
 Le confirmé que la ayudaría, mientras me preguntaba de que servía “estar escapao en todo eso”, es decir, conocer el contenido de la asignatura que ella examinaría. Entonces, empezamos a repasar.  

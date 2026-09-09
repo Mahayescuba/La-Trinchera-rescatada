@@ -1,13 +1,11 @@
 ---
 title: "Eusebio"
 date: "2020-08-03T09:30:54+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Cultura"
 image: ""
 ---
 Eusebio Leal. 
-
-**Por: Jorge Fernández Era** 
 
 En menos de una semana se nos han ido dos poetas. Este último nunca estuvo consciente del poema que nos regaló con su vida, con su presencia, con esa tozudez de no aceptar que fue grande.
 

@@ -7,8 +7,6 @@ image: ""
 ---
 aplausos a los médicos. 
 
-**Por: Ana Barnes** 
-
 Tengo un amigo
 
 Que se pregunta 

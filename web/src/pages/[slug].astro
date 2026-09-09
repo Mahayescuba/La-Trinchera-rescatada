@@ -25,9 +25,10 @@ const jsonLd = {
     {p.data.category && <a class="cat" href={`/categoria/${slugify(fixCat(p.data.category))}/`}>{fixCat(p.data.category)}</a>}
     <h1>{p.data.title}</h1>
     <p class="meta">
-      {p.data.author && <a href={`/autor/${slugify(p.data.author)}/`}>{p.data.author}</a>}
-      {p.data.author && p.data.date && ' · '}
-      {p.data.date && <time datetime={p.data.date}>{fmtDate(p.data.date)}</time>}
+      {p.data.author
+        ? <span>Por <a href={`/autor/${slugify(p.data.author)}/`}>{p.data.author}</a></span>
+        : <span class="anon">Autoría no identificada</span>}
+      {p.data.date && <span> · <time datetime={p.data.date}>{fmtDate(p.data.date)}</time></span>}
     </p>
     {p.data.image && <img class="lead" src={p.data.image} alt={p.data.title} loading="eager" decoding="async" />}
     <div class="body"><Content /></div>
@@ -39,6 +40,7 @@ const jsonLd = {
     .post h1{font-size:2.3rem;margin:.25em 0 .1em}
     .post .meta{color:var(--muted);font-size:.9rem;margin:.2rem 0 1.3rem}
     .post .meta a{color:var(--accent)}
+    .post .meta .anon{font-style:italic;opacity:.7}
     img.lead{width:100%;border-radius:8px;margin:.5rem 0 1.5rem}
     .body{font-family:Georgia,"Times New Roman",serif;font-size:1.14rem;line-height:1.8;overflow-wrap:break-word;word-break:break-word}
     .body :global(p){margin:0 0 1.15em}

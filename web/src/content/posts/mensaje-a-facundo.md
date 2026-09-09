@@ -1,13 +1,11 @@
 ---
 title: "Que alguien le haga llegar a Facundo"
 date: "2020-01-06T16:34:10+00:00"
-author: ""
+author: "Javier López Fernández"
 category: "Política en Cuba"
 image: ""
 ---
 Facundo. 
-
-**Por: Javier López Fernández**
 
 Apreciable Facundo, te voy a compartir este detalle… lee con detenimiento. Eres un profesional de los medios, y yo, un simple profesor, nada más… desde esta lógica percibo que:
 

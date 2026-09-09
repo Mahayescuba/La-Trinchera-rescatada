@@ -1,12 +1,10 @@
 ---
 title: "Poder constituyente"
 date: ""
-author: ""
+author: "Hamori Toltor"
 category: ""
 image: ""
 ---
-Por: Hamori Toltor
-
 Quiero hacerme una constitución, puesto que ya soy viejo y me han cambiado muchas cosas  
 Artículo Primero  
 Mi cuerpo tiene las mismas partes y órganos que antes. Tan solo perdí una uña, pero me volvió a salir  

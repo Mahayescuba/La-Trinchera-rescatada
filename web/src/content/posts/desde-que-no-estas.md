@@ -1,13 +1,11 @@
 ---
 title: "Desde que no estás"
 date: "2019-11-22T06:28:13+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Onírica"
 image: ""
 ---
 Desde que no estás. 
-
-**Por: Miguel Alejandro Hayes**
 
 ###### _A Elizabeth_
 

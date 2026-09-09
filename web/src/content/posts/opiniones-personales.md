@@ -1,13 +1,11 @@
 ---
 title: "Opiniones personales"
 date: "2020-08-25T09:30:00+00:00"
-author: ""
+author: "Koldo Campos Sagaseta"
 category: "Opinión"
 image: "/wp-content/uploads/2020/08/2020-08-25-10.40.44.jpg"
 ---
 De ahí que haya opiniones a secas y opiniones personales. opiniones personales.
-
-**Por: Koldo Campos Sagaseta** 
 
 Cada vez son más los opinadores que desde que llegan a alguna conjetura, algunos lo consiguen constantemente, se ven en la necesidad de matizarla como propia.
 

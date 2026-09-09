@@ -7,8 +7,6 @@ image: ""
 ---
 Primera instancia.
 
-**Por: Ana Barnes**
-
 Hoy puede ser el día  
 De desechar la respuesta  
 De hojear una a una  

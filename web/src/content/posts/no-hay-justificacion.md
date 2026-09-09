@@ -1,13 +1,11 @@
 ---
 title: "No hay justificación"
 date: "2018-08-21T11:15:31+00:00"
-author: ""
+author: "Claudio Katz"
 category: "Opinión"
 image: ""
 ---
 Y justamente en esos momentos hay que levantar la voz por Nicaragua.
-
-**Por: Claudio Katz**
 
 ## Fragmento de las declaraciones del destacado economista argentino Claudio Katz en una entrevista realizada por Mario López (Rebelión)
 

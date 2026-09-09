@@ -29,8 +29,37 @@ const NAME_FIX = {
   'Miguel Alejandro Hayes Martínez':'Miguel Alejandro Hayes',
   'Miguel Alejando Hayes Martínez':'Miguel Alejandro Hayes',
   'Miguel Alejandro Hayes Martinez':'Miguel Alejandro Hayes',
+  'Rene Portuondo':'René Portuondo',
+  'Julio Pernus':'Julio Pernús',
+  'Alberto Miguel de La Paz Suárez':'Alberto Miguel de la Paz Suárez',
+  'Ernesto Nuñez':'Ernesto Núñez',
+  'Giordan Rodríguez Milanes':'Giordan Rodríguez Milanés',
+  'Leonardo Manuel Férnandez Otaño':'Leonardo Manuel Fernández Otaño',
+  'Carlos Avila Villamar':'Carlos Ávila Villamar',
+  'Iramis Rosique':'Iramís Rosique',
+  'Juan M. Ferran Oliva':'Juan M. Ferrán Oliva',
+  'Marcos Paz Sablon':'Marcos Paz Sablón',
 };
 const fixName = n => NAME_FIX[n] || n;
+
+// palabras que siguen a "por" como preposición (no son nombres)
+const NOT_NAME = /^(qué|que|el|la|los|las|un|una|eso|ejemplo|ello|ende|tanto|tantos|supuesto|ahora|favor|aquí|allí|estos|estas|este|esta|cierto|momento|primera|otro|otra|medio|cada|si|más|demás)\b/i;
+// Buscar una línea de firma "Por: Nombre" dentro del inicio del cuerpo (primeros ~900 caracteres).
+// Devuelve {name, line} o null. line = texto exacto de la línea a eliminar del cuerpo.
+function findByline(body){
+  const lines=body.split('\n');
+  let acc=0;
+  for(let i=0;i<lines.length;i++){
+    if(acc>900) break; acc+=lines[i].length+1;
+    const m=lines[i].match(/^\s*\**\s*[Pp]or:?\s*\**\s*([A-ZÁÉÍÓÚÑ][^\n*]{1,45}?)\s*\**\s*$/);
+    if(m){
+      let name=clean(m[1]).replace(/[*_.,;:\\\s]+$/,'').trim();
+      if(name.length>=3 && name.length<=45 && !NOT_NAME.test(name) && /[A-Za-zÁÉÍÓÚÑáéíóúñ]{2,}/.test(name))
+        return {name, line:lines[i]};
+    }
+  }
+  return null;
+}
 
 // texto normalizado (sin markdown) para comparar párrafos duplicados
 function normText(s){
@@ -158,15 +187,15 @@ function extractOne(slug){
     cont=$('.post-content').first();
     if(!cont.length) cont=$('.entry-content,.td-post-content').first();
     if(!cont.length) return null;
-    // autor: primera línea "Por: X"
-    const firstTxt=clean(cont.text());
-    const am=firstTxt.match(/^Por:? *([A-ZÁÉÍÓÚÑ][^.\n]{1,50}?)(?=[A-ZÁÉÍÓÚ“"]|$)/);
     body=mdFromContainer($,cont);
-    const bm=body.match(/^\**\s*Por:?\s*\**\s*([^\n*]{2,50})/);
-    if(bm){ author=clean(bm[1]).replace(/\*+$/,'').trim(); body=body.replace(/^\**\s*Por:?[^\n]*\n+/, '').trim(); }
-    if(!author && boxAuthorTrust) author=boxAuthorTrust;   // sin firma: usar caja solo si es autor real
-    body=body.replace(/^\s*Anuncios\s*$/gmi,'').replace(/\n{3,}/g,'\n\n').trim();
   }
+  // autor: línea de firma "Por: Nombre" en las primeras líneas del cuerpo (ambos caminos)
+  if(!author){
+    const bl=findByline(body);
+    if(bl){ author=bl.name; body=body.split('\n').filter(l=>l!==bl.line).join('\n'); }
+  }
+  if(!author && boxAuthorTrust) author=boxAuthorTrust;   // sin firma: usar caja solo si es autor real
+  body=body.replace(/^\s*Anuncios\s*$/gmi,'').replace(/\n{3,}/g,'\n\n').trim();
   // limpiar enlaces de "contenido relacionado" inyectados por plugins
   body = body
     .replace(/^\s*\[Otro texto del autor\]\([^)]*\)\s*$/gmi,'')   // "otro texto del autor" -> categoría

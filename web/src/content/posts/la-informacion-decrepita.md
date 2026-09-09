@@ -7,8 +7,6 @@ image: ""
 ---
 Producción de alimentos en Cuba.
 
-**Por: Jorge Fernández Era**
-
 Atiendan, compañeros: el ministro de la Industria Alimentaria me ha pedido les informe, imagino ustedes no lo sepan, que en nuestro país hay una necesidad, una escasez, una limitación con determinados alimentos en nuestra vida cotidiana.
 
 La [Mesa Redonda](http://mesaredonda.cubadebate.cu/noticias/2020/09/09/mincex-y-minal-en-la-estrategia-economica-social-hoy-en-la-mesa-redonda/) no le preguntó (y eso me impide responderles a mis conciudadanos) por qué si el Minal tenía definido desde que el ministro no era ministro los lineamientos 174, 178 y 179, que le fijaron en un plazo de cinco años las cosas que tenía que atender con prioridad, todavía a estas horas no se hayan implementado del todo.

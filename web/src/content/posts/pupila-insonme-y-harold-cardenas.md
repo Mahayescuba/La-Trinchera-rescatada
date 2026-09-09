@@ -1,13 +1,11 @@
 ---
 title: "Las guerras fraticidas"
 date: "2018-07-26T12:52:35+00:00"
-author: ""
+author: "Yassel A. Padrón Kunakbaeva"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2018/07/images2.jpg"
 ---
 El conflicto de La Pupila insonme y Harold Cárdenas, que ya dura sobre los dos años, no le presta ningún servicio a la Revolución.
-
-**Por: Yassel A. Padrón Kunakbaeva**
 
 Muchas veces en el seno de los procesos revolucionarios surgen luchas intestinas entre aquellos que se supone tienen el mismo objetivo. Las contradicciones por motivos de teoría, de estrategia o de táctica, que deberían ser resueltas a través del debate transparente entre camaradas, en ocasiones son motivo del surgimiento de resentimientos personales que llegan a ser más fuertes que el odio al adversario. Es entonces cuando surge la común figura del caudillo patriarcal, al que no le tiembla la mano para usar la violencia contra sus rivales dentro del mismo movimiento liberador. En su enceguecido odio, el fratricida irá por encima de cualquier obstáculo para acabar con otros revolucionarios: será capaz incluso de darle candela a los territorios liberados en la lucha común.  
 No he entendido nunca la cruzada de La Pupila Insomne contra [Harold Cárdenas](https://www.facebook.com/haroldcardenaslema) y [La Joven Cuba](http://jovencuba.com). ¿Qué es lo que no le perdonan a Harold, que se abstuviera de apoyar la campaña contra el centrismo? ¿O es que, al verlo con una beca en New York, han perdido la fe en su “pureza moral”? Supongamos que Harold haya cometido algún error: ¿Es que eso no forma parte de la vida de los revolucionarios? No creo que ninguna causa racional pueda justificar el encarnizamiento con que se ataca a un joven que le ha dedicado tanto esfuerzo y tiempo de su vida a servir a la Revolución Cubana.  

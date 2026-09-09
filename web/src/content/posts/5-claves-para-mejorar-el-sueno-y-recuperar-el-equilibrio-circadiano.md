@@ -1,15 +1,13 @@
 ---
 title: "5 claves para mejorar el sueño y recuperar el equilibrio circadiano"
 date: "2020-05-02T19:21:15+00:00"
-author: "daniloeuser"
+author: "Danilo Euser"
 category: "Ciencia"
 image: ""
 ---
 > [Texto anterior](/ciencia/)
 
 Un beneficio adicional del ejercicio físico (de los muchísimos que tiene) es mejorar el sueño nocturno.
-
-**Por: Danilo Euser**
 
 ## Exponerse lo suficiente a luz solar durante el día
 

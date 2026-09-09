@@ -1,13 +1,11 @@
 ---
 title: "Internet: de vida o muerte"
 date: "2019-07-16T06:34:51+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 En Cuba -a veces- es peligroso andar en Internet.
-
-**Por: Julio Pernús**
 
 En Cuba -a veces- es peligroso andar en Internet.  
 No es malo pertenecer al ecosistema de la red de redes, pero ojalá todos vivamos nuestra pasión con una cuota importante de prudencia.  

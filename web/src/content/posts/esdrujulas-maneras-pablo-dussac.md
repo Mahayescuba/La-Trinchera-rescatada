@@ -1,13 +1,11 @@
 ---
 title: "Esdrújulas maneras"
 date: "2019-07-11T13:12:34+00:00"
-author: ""
+author: "Pablo: Dussac"
 category: "Onírica"
 image: ""
 ---
 Esdrújulas maneras.
-
-**Por: Pablo: Dussac**
 
 Se arriesgan al ridículo,  
 Lo insípido, banal,  

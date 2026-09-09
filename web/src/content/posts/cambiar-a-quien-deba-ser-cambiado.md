@@ -1,13 +1,11 @@
 ---
 title: "Cambiar a quien deba ser cambiado"
 date: "2020-09-11T16:00:53+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/09/John-Dykstra.jpg"
 ---
 Agricultura en Cuba.
-
-**Por: Miguel Alejandro Hayes**
 
 El discurso oficial nos quiere crear un trauma con respecto a la producción.
 

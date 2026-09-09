@@ -1,12 +1,10 @@
 ---
 title: "La alegría"
 date: ""
-author: ""
+author: "René Fidel González García"
 category: ""
 image: ""
 ---
-Por: René Fidel González García
-
 ¡Que triste es para un jurista, para un Profesor de Derecho, ver como se pisotea la ley, la libertad, la justicia, la razón, la manera silenciosa y burda en que se aplaza el cumplimiento de algunos de los mandatos y contenidos de la Constitución que hemos esperado pacientemente y en los que aún ciframos como pueblo nuestras esperanzas!
 
 ¡Que triste es no poder explicar a alumnos, amigos, conocidos, las cosas inadmisibles que han estado ocurriendo en los pasados 18 meses y los últimos días!

@@ -1,13 +1,11 @@
 ---
 title: "Heredero"
 date: "2019-12-01T00:18:06+00:00"
-author: ""
+author: "Norma Normand Cabrera"
 category: "Onírica"
 image: ""
 ---
 VIH. 
-
-**Por: Norma Normand Cabrera**
 
 – Profesora, ¿puedo hablar un momento con usted?  
 La pregunta me hizo abandonar la lectura que me mantenía absorta, mientras disfrutaba la inusual tranquilidad que reinaba esa tarde en la biblioteca. Quien así me distrajo fue uno de mis alumnos dilectos del curso anterior: Tomás. A la vez inteligente e ingenuo, respetuoso y audaz, formal y divertido.  

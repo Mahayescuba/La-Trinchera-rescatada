@@ -1,13 +1,11 @@
 ---
 title: "Lukács es seguramente el mayor filósofo marxista después de Marx"
 date: "2018-06-13T12:15:53+00:00"
-author: ""
+author: "Mario Hernández"
 category: "Opinión"
 image: ""
 ---
 Los que quieran conocer un poco más de Lukács, tuvimos la satisfacción de que Antonino Infranca publicara en _La Revolución Rusa cien años después_, el libro que editamos en Editorial Metrópolis en conmemoración de los 100 años de la Revolución Rusa, un texto “El joven Lukács y la Revolución Rusa”.
-
-**Por: Mario Hernández**
 
 **M.H.: Hace unas semanas nos comunicamos para que nos dieras una visión de las elecciones parlamentarias italianas, visión que por cierto fue bastante ajustada a lo que después fueron los resultados. Pero hoy, al cumplirse un nuevo aniversario de la muerte de Lukács, y como sé que sos uno de los más importantes especialistas internacionales sobre la obra del filósofo marxista húngaro, y nos ha llegado información de que ha sido objeto de ataques en Budapest, queríamos consultarte sobre ese tema.**
 

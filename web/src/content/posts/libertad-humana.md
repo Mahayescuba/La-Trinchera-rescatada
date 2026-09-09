@@ -1,13 +1,12 @@
 ---
 title: "Los fundamentos humanos de la Libertad"
 date: "2020-03-15T09:30:15+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Teoría"
 image: "/wp-content/uploads/2020/03/IMG_20200314_122341_631.jpg"
 ---
 José Gabriel Barrenechea reflexiona sobre los fundamentos de la libertad humana frente a la sociedad y su relación con la propiedad
 
-**Por: José Gabriel Barrenechea**  
 Según muchos, la libertad del individuo frente a la sociedad, y en especial el Estado, se sostiene sobre el derecho a la propiedad privada. Es el interés de las amplias clases medias propietarias en la conservación de la libertad que les da la autonomía económica, el principal sostén de las poliarquías modernas, o lo que equívocamente llamamos regímenes democráticos. Incluso Marx, hacia el final de su vida, coqueteó con esa idea en algún párrafo del primer tomo de _El Capital_.  
 En esta visión el Capitalismo, el individualismo moderno, y los regímenes poliárquicos, tendrían su origen en el yeoman inglés de la Baja Edad Media. El pequeño propietario rural que nutrió de excelentes arqueros las filas del ejército inglés en la [_Guerra de los Cien Años_](https://es.wikipedia.org/wiki/Guerra_de_los_Cien_Años) contra Francia, y que tan determinante fue en la inicial superioridad inglesa en un conflicto entre dos reinos tan dispares en población -en el siglo XIV la población francesa superaba en más de diez veces a la inglesa.  
 Mas, el asunto está en que hace mucho las clases medias en las poliarquías no son realmente propietarias de los medios de producción. Incluso en el caso de los pocos propietarios de clase media que van quedando, su libertad en cuanto a lo que pueden hacer con su propiedad, y sus producciones, se encuentra cada vez más y más restringida por los acuerdos de financiación y distribución que necesariamente, dadas las complejidades de la economía moderna, deben firmar con bancos y grandes empresas. Sin dejar de lado las limitaciones al margen de maniobra del propietario en general, en cuanto a ejercer su voluntad sobre su posesión, que dicta el marco regulatorio de una convivencia altamente civilizada. Ejemplo, ciertos estándares de vida que la sociedad contemporánea impone: en las democracias más próximas al ideal no puede usted talar los árboles de su propiedad porque le da su real gana, ni tampoco puede decidir construir su casa sin determinados estándares higiénicos.  

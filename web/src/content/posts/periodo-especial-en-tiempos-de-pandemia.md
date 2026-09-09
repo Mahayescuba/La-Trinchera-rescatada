@@ -7,8 +7,6 @@ image: "/wp-content/uploads/2020/09/Esencia_125x90cm_acrilico_lienzo_2011_para_w
 ---
 período especial en tiempos de pandemia.
 
-**Por: Julio Pernús**
-
 En la última novela de Leonardo Padura, _Polvo en el Viento_, uno de sus personajes principales, Irving, utiliza el nombre de _entropía ambiental_ para referirse al Período Especial. Un concepto que, según el personaje literario del padre de Mario Conde, los cubanos asociamos con _calor, oscuridad, hambre y pérdida de la noción del futuro_. Agregaría que también con el desgarramiento familiar, fruto de una balsera migración. 
 
 Durante la etapa más cruda de esa crisis económica _especial,_ que mordió con fuerza la humanidad de muchos cubanos en la década del 90, yo aún era un niño. Pero sus fantasmas de desabastecimiento parecen correr tras mis pasos. También recuerdo que mientras iniciaba la universidad, por el año 2008, desde el discurso oficial se decía que entrábamos en una nueva etapa que se podía conocer como _período especial en tiempos de paz_. Para muchos, el mismo contexto existencial con un nuevo capitán. A diferencia de que al menos se notaba mejoría, menos ahogo. 

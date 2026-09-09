@@ -1,12 +1,10 @@
 ---
 title: "El regalador de sombrillas"
 date: ""
-author: ""
+author: "Capas de Opinión"
 category: ""
 image: ""
 ---
-Por: Capas de Opinión
-
 Llovía.
 
 Llovía tanto que parecía no escampar jamás.

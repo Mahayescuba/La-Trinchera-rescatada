@@ -1,15 +1,13 @@
 ---
 title: "Daño antropológico"
 date: "2020-09-02T16:00:00+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 orinar en lugares públicos.
 
  _¿Por qué hay personas que orinan en lugares públicos?_
-
-**Por: Julio Pernús** 
 
 Es domingo al anochecer y de forma silenciosa un hombre se arrima a uno de los costados de una iglesia en busca de alivio para sus esfínteres. Su esposa vigila y solo le dice: “Apúrate, antes de que pase un oficial y se le ocurra ponernos una multa”. Muchos sabemos que cualquier oscurecido resquicio puede convertirse en baño público; pues ante la falta de una infraestructura urbana con lugares que cada cierta cantidad de kilómetros permitan al transeúnte dar paso a necesidades fisiológicas, el ser humano buscará alternativas; solo basta ir cerca de lugares donde se hacen colas de varias horas y oler ese entorno. Así, sin querer, estas malas prácticas parecen ir trasmitiéndose de generación en generación.
 

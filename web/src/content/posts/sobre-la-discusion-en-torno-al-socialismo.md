@@ -1,13 +1,11 @@
 ---
 title: "Sobre la discusión en torno al socialismo"
 date: "2019-10-11T15:35:08+00:00"
-author: ""
+author: "José Ernesto Nováez Guerrero"
 category: "Marxismo en Cuba"
 image: ""
 ---
 debate en torno al socialismo.
-
-**Por: José Ernesto Nováez Guerrero**
 
 Creo que el debate en torno al socialismo, de emprenderlo, debe partir del estado de desarrollo que ha tenido la reflexión en torno al tema dentro de la tradición marxista. Sin pretender agotar acá está tradición, si quisiera apuntar algunas ideas, en diálogo fraterno con el artículo [Discutiendo acerca del socialismo](/marxismo/), publicado recientemente en este blog.  
 Sin dudas, una de las aspiraciones del socialismo ha de ser la de lograr el mayor nivel de vida posible, pero lograr esto no puede divorciarse del como lo logramos y, desde luego, siempre cabe la discusión en torno a cual es el mejor nivel de vida posible en una sociedad determinada.

@@ -1,13 +1,11 @@
 ---
 title: "Análisis y desarrollo del modelo económico cubano"
 date: "2020-02-15T20:59:00+00:00"
-author: ""
+author: "Jorge Bonilla"
 category: "Economía en Cuba"
 image: ""
 ---
 Economía. 
-
-**Por: Jorge Bonilla**
 
 Posterior a 1959 se desencadenaron en territorio cubano un grupo de transformaciones en el orden político, económico y social, con el fin de revertir las situaciones de miseria, desigualdad y pobreza que caracterizaron al modo de producción capitalista imperante en Cuba en aquel entonces.  
 Para tal fin, se implementaron un grupo de medidas, que repercutieron especialmente en materia de salud, educación, distribución equitativa de la tierra, así como transformaciones económicas en función de equiparar la distribución de las riqueza.  

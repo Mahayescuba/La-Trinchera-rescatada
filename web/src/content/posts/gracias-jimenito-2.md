@@ -1,13 +1,11 @@
 ---
 title: "Gracias, Jimenito"
 date: "2020-12-27T10:30:00+00:00"
-author: "María del Pilar Díaz Castañon"
+author: "María del Pilar Díaz Castañón"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/05/FB_IMG_1589355461462.jpg"
 ---
 _Nota a los lectores: Para este final de año, a los editores de La Trinchera nos complace presentarles una selección de los textos más leídos de cada uno de los colaboradores de este espacio. A todos les agradecemos su confianza._ 
-
-**Por: María del Pilar Díaz Castañón**
 
 A los héroes se les recuerda sin llanto, dice el verso.  
 Pero se les recuerda. Un héroe ha muerto, y sólo hay una [mención](http://\(http://www.radiohc.cu/especiales/exclusivas/222327\)) de su deceso en la prensa nacional.  

@@ -1,13 +1,11 @@
 ---
 title: "Paradojas del Estado-Nación en Cuba"
 date: "2020-02-29T15:04:01+00:00"
-author: ""
+author: "María Pilar Díaz Castañón"
 category: "Política en Cuba"
 image: ""
 ---
 Agradezco al Departamento de Historia de Cuba y en particular al profesor Fabio Fernández su gentil invitación a este debate.
-
-**Por: María Pilar Díaz Castañón**
 
 Agradezco al Departamento de Historia de Cuba y en particular al profesor Fabio Fernández su gentil invitación a este debate, en el que por razones familiares solo participaré a través de las siguientes líneas. Desde luego, la persona idónea para enfrentar semejante escollo, María Antonia Marqués Dolz, ya no puede hacerlo, de modo que trataré de abordar el tema con la dignidad que le era tan propia y, por supuesto, con muchísimo menos arte.
 

@@ -1,13 +1,11 @@
 ---
 title: "Unas notas rápidas en medio del debate político"
 date: "2019-06-12T06:46:06+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 En un sentido de cambios constantes acelerados, un país en Revolución durante un tiempo superior a una década no aguantaría.
-
-**Por: Miguel Alejandro Hayes**
 
 Está muy bien montado el signo lingüístico pos 59 en Cuba -y no es palabrería. El lenguaje nos domina, y repetimos -y nos creemos- que somos un país en revolución. La [Revolución Francesa](https://es.wikipedia.org/wiki/Revoluci%C3%B3n_francesa) no duró más de diez años, ni podía. Una revolución no puede durar sesenta… En un sentido de cambios constantes acelerados, un país en Revolución durante un tiempo superior a una década no aguantaría, sobre todo porque las transformaciones pudieran ser mayores que los que las propias relaciones sociales soportarían. Por otro lado, un país altamente burocratizado no puede ser un país en revolución… ¿suena contradictorio verdad? Eso ya se ha dicho antes, pero debía empezar por ahí.
 

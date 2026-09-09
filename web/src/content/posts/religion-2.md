@@ -1,13 +1,11 @@
 ---
 title: "¡Matanzas ganó por Brujería!"
 date: "2020-01-23T14:14:50+00:00"
-author: "oscaracso28944"
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 **Una reflexión sobre religión en la final de la Serie Nacional de Béisbol Cubana.**
-
-**Por: Julio Pernús**
 
 El título que da nombre a este artículo es solo una provocación, pues soy consciente de la amplia calidad del equipo matancero de béisbol, justos ganadores de nuestra [serie nacional](http://www.beisbolencuba.com/). Por increíble que parezca, en medio de un entorno a veces tan arreligioso como es un estadio de pelota, dentro del mismo se sucede un sinfín de singularidades vinculadas a la fe sincrética de una gran parte de nuestro pueblo. Los grupos sociales que han abogado por una ley de protección animal no deben olvidar, dentro de su agenda, los animales sacrificados en pos de algún culto sincrético afrocubano. Y no lo digo solo por la gallina aterrorizada que apareció de la nada en los jardines durante el quinto juego del play-off final, sino porque es una práctica habitual encontrarse con toda clase de sacrificios rituales en cualquiera de nuestros barrios con sus consecuentes pestilencias ambientales.  
 Para los cubanos, la pelota es parte de nuestra cultura de resiliencia, pues, según escribió el destacado historiador del béisbol en Cuba, Ismael Sene Alegret, fue una muestra fehaciente de enfrentamiento al sistema colonial español. Ahora, el fenómeno digno de estudiar es cómo este deporte ha estado de alguna forma marcado por la actividad religiosa. No somos pocos los que hemos visto con gran asombro la tiradera constante de agua para “alejar” los malos momentos de nuestros equipos preferidos. Sí la oficina nacional de recursos hidráulicos se pone un poco tensa, casi que pudiese aplicarle una multa a la selección de Matanzas o Camagüey por despilfarro injustificado de agua. Esto, por no hablar de la cantidad de cascarilla de huevo que circuló por el aire en los diversos momentos del play- off; hubo escenarios en que algunos de los periodistas, al entrar a los dogouts, salían con el pelo pintado de blanco.  

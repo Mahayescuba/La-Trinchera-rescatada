@@ -1,13 +1,11 @@
 ---
 title: "Ser comunista en Cuba"
 date: "2019-06-09T18:32:28+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2019/06/PicsArt_06-09-02.48.19-1.jpg"
 ---
 Aun más, cuando las condiciones por las que surgió el comunismo, existen en nuestro país.
-
-**Por: Miguel Alejandro Hayes**
 
 El comunismo está llamado a ser la doctrina de lucha de la clase obrera. El comunista lucha por la emancipación de esta sin distinción alguna. Pero, ¿se sabe lo que es realmente ser comunista?
 

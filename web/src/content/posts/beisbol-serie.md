@@ -1,13 +1,11 @@
 ---
 title: "Fichaje"
 date: "2020-03-08T16:30:06+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Onírica"
 image: ""
 ---
 Muy divertido el programa _Bola Viva_, de Tele Rebelde. Se oyó hablar de _mercado de fichaje_ y de _contratos_. No se referían los comentaristas a la vilipendiada _pelota_ _rentada_, sino al béisbol nuestro de cada día, al movimiento desmesurado de los atletas entre provincias con miras a la venidera _Serie_ _Nacional_. Qué iba a imaginar yo que el cuento que escribí hace años pudiera dejar de ser jodedera para convertirse en una realidad que está ahí y adelanta, a noventa pies del home.
-
-**Por: Jorge Fernández Era**
 
 No hay quien pare el relajito armado después que la [_Comisión Nacional de Béisbol_](http://www.beisbolencuba.com/) aprobara el fichaje de atletas por parte de los equipos provinciales.  
 La operación que inauguró este tipo de maniobra comercial fue la compra para la nómina de Ciego de Ávila del jardinero central cienfueguero Gleides Sforza. Quizás la inexperiencia jugó una mala pasada al equipo técnico de la Perla del Sur -era el primero en ser cedido- y no repararon en que un pelotero de la calidad de Gleidis pudiera valer mucho más que los mil sacos de fertilizante nitrogenado pactados.  

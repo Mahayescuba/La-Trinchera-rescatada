@@ -1,10 +1,12 @@
 ---
 title: "Preguntas al vacío"
 date: "2020-07-07T09:00:00+00:00"
-author: ": Ana Barnes"
+author: "Ana Barnes"
 category: "Onírica"
 image: ""
 ---
+**Por : Ana Barnes**
+
 El día en que se fue dejó todas las preguntas sin responder. No tuvo tiempo. Ni ella misma imaginó la inmediatez del abandono, lo repentino del punto final. A veces es así, no hay nada que se pueda hacer.
 
 Pero las preguntas se quedaron, persistentes, huérfanas como nosotras, necesitadas de explicación. Las que habíamos hecho en silencio, las que esperaba responder en cuanto se sintiera mejor, las que nunca llegamos a intentar.

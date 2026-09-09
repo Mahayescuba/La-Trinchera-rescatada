@@ -1,15 +1,13 @@
 ---
 title: "Convertibilidad de monedas nacionales"
 date: "2019-05-28T07:20:07+00:00"
-author: ""
+author: "René Portuondo"
 category: "Economía en Cuba"
 image: ""
 ---
 Que las monedas sean convertibles es un hecho. Aplica tanto para el CUC como para el CUP.
 
 #### En respuesta a “El peso incovertible”
-
-**Por: René Portuondo**
 
 Texto en respuesta al post “El peso inconvertible” de Eduardo Perez Castel, publicado en La Joven Cuba el día\_\_\_\_
 

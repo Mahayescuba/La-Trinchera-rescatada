@@ -1,13 +1,11 @@
 ---
 title: "¿Existe una política lingüística en Cuba?"
 date: "2019-07-22T10:11:49+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 Los problemas que tenemos en Cuba con la política lingüística, nos urge resolverlos por nosotros mismos.
-
-**Por: Julio Pernús**
 
 En ocasiones oímos diálogos, en nuestro entorno físico y existencial, que cuesta trabajo descifrar. En el panorama adolescente de la isla, es normal decirse: “Nos mordemos a tal hora en tu casa,” o que un durako le diga a su enamorada: “Eres una tiza.” Nuestra forma de hablar el español, peculiar y cubanizada, nos vincula más al sur de España que a la región centro-norte de ese país.  
 Para comprender mejor nuestro idioma, es vital tener el punto de partida de nuestros antepasados. Los aborígenes hablaban lenguas comunes entre ellos y algunos vocablos de sus dialectos se conservan hoy dentro del léxico oriental del país. Cuba significa tierra labrada, tierra cultivada. Al recordar a nuestros aborígenes y su masiva extinción, debemos sentir tristeza, no solo por el genocidio llevado a cabo, sino también por los problemas de representación y las malas interpretaciones de lo que fue su realidad. Por ejemplo, la palabra “Jigüe” se representa como un negro con un bozal, pero se trata de una palabra aborigen, completamente ajena al mundo de la esclavitud de siglos pasados, pues , en ocasiones, la lengua y los medios no trabajan al unísono.  

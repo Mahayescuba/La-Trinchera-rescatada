@@ -1,13 +1,11 @@
 ---
 title: "Los efectos de Facundo"
 date: "2020-01-14T03:13:03+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Facundo.
-
-**Por: Miguel Alejandro Hayes**
 
   
 Facundo no es, ni puede ser, el _Presidente de la República_, o el _Primer Ministro_, o el _Primer Secretario del Partido Comunista_; ni siquiera el _Presidente de la [Asamblea Nacional](http://www.parlamentocubano.gob.cu/index.php/asamblea-nacional-del-poder-popular/)_. No es tampoco un _Comandante de la Revolución_, o un alto mando militar, y menos, un ideólogo del discurso oficial. Sin embargo, sí es otras personas.  

@@ -1,13 +1,11 @@
 ---
 title: "Nuestro sistema: ¿democracia sin partidos o partidos sin democracia?"
 date: "2018-01-22T17:05:33+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2018/01/fabelo-detras-del-muro.jpg"
 ---
 El modelo cubano sigue desafiando abiertamente lo que parecería ser ya un fenómeno irreversible y para muchos base una posible democracia en Cuba: el pluripartidismo.
-
-**Por: Ernesto Gutiérrez Leyva** 
 
 Por estos días se respiran aires electorales en el Continente. Algunas muy serias como las chilenas, otras como las hondureñas, un franco desastre… No obstante existe un patrón que se suele repetir: hay un contexto pluripartidista en el que los distintos Partidos nominan candidatos para elegir ya a un alcalde, ya al presidente de la Nación. Este modelo se reproduce en toda América Latina, salvo en Cuba… Cuando observo las dinámicas continentales y las propias de nuestro país, llego a preguntarme hasta qué punto encajamos en el Continente, y la arista electoral es solo uno de los aspectos en cuestión.  
 El modelo cubano sigue desafiando abiertamente lo que parecería ser ya un fenómeno irreversible: el pluripartidismo. Se suele plantear que sin este no hay democracia, pero ¿es tan así? ¿es realmente el pluripartidismo el epítome de todos los logros y buenos valores de los que se enorgullece la [Sociedad Occidental](https://es.wikipedia.org/wiki/Occidente)?

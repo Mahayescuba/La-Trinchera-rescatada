@@ -1,7 +1,7 @@
 ---
 title: "Unidos"
 date: "2019-04-25T06:27:11+00:00"
-author: ""
+author: "Anckla"
 category: "Onírica"
 image: ""
 ---
@@ -9,7 +9,6 @@ unidos.
 
 ##### Fotografía: Wendy Pérez Bereijo
 
-**Por: Anckla**  
 Dos disparos en el pecho lo pararon en seco. Dos agujeros rojos muy juntitos sobre el corazón. Terminó la vida y la jornada del día antes de caer.  
 El tercero en la frente para asegurarme. Ya el pago estaba en el pasillo, aunque yo lo hubiera apagado gratis por diversión.  
 Puse de nuevo el makarov en la funda del muerto, que colgaba de un clavo en la pared del cuarto del solar (justo donde encontré el par de guantes).  

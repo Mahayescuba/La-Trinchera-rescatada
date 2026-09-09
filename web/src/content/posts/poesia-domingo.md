@@ -1,15 +1,13 @@
 ---
 title: "Diciendo de la lectura poética del domingo"
 date: "2019-09-06T15:55:30+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---
 Domingo. 
 
 Este versa sobre el mojo que sale de tus paredes linternas, cuando centra, en cualquier cuarto, menos de un cuarto de mi ser entero.
-
-**Por: Pablo Dussac**
 
 Me invitó a leer la dama,  
 ya reina en mi tablero.  

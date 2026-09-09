@@ -1,13 +1,11 @@
 ---
 title: "Ventajas y desventajas de quitar el servicio militar obligatorio en Cuba"
 date: "2018-12-21T05:04:02+00:00"
-author: ""
+author: "Carlos Ávila Villamar"
 category: "Política en Cuba"
 image: ""
 ---
 servicio militar obligatorio en Cuba.
-
-**Por: Carlos Ávila Villamar**
 
 El riesgo de una invasión a la isla no se ha disipado. Durante una crisis interna, en una demostración de poder, Donald Trump puede atacar Cuba bajo cualquier excusa ridícula. En realidad ya es una tradición que cada presidente norteamericano comience al menos una guerra preventiva durante su mandato, y desde el principio Trump ha estado observando opciones. Corea del Norte tiene misiles nucleares intercontinentales y Siria cuenta con la alianza del ejército ruso, por tanto han quedado descartados como objetivos. Cuba y Venezuela, aunque sean difíciles de ocupar, son vulnerables a ataques aéreos masivos que dejen la infraestructura económica del país en ruinas. La única inconveniencia de este método (que les ha funcionado bien hasta ahora, puesto que evita las electoralmente complicadas bajas en el ejército) serían las consecuencias diplomáticas con el resto de los países latinoamericanos. Pero no creo que a Trump le quite el sueño la diplomacia con nuestra región. En resumen, corremos más peligro de lo que el cubano promedio sería capaz de admitir.  
 El ejército convencional cubano es incapaz de hacer frente durante mucho tiempo a una invasión norteamericana. Nuestra flota aérea, gigantesca en otros tiempos, ha quedado reducida y obsoleta. Nuestras pocas embarcaciones de guerra son blancos fáciles y solo sirven para patrullajes. Nuestros tanques y blindados pueden resistir más tiempo en refugios y escondites rurales, pero la escasez de combustible a la larga los volverá inútiles. Lo que queda es pura infantería, el combate cuerpo a cuerpo en el que el ejército norteamericano resulta más vulnerable. La forma más eficiente de prevenir una guerra (que traería consecuencias nefastas para la población cubana) es asegurar una masa armada y militarmente instruida lo bastante grande como para que la ocupación constituya un verdadero dolor de cabeza, tanto para los generales norteamericanos como para los políticos. En esencia esta es la doctrina de la guerra de todo el pueblo, que nos ha permitido sobrevivir sin tener que sacrificar toda nuestra economía en función del campo militar.  

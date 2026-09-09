@@ -7,8 +7,6 @@ image: "/wp-content/uploads/2022/01/mejias.jpg"
 ---
 ## La Habana y su región en el final de la segunda esclavitud.1860-1886
 
-**Por: Jesús Javier Mejias Díaz**
-
 En el caso cubano, imaginar la ciudad no es solo figurarse el enjuto espacio en que las murallas, ejidos y propios crean un espacio bullicioso y definido que puede avistarse desde las alturas cercanas. La ciudad cubana no es el límite al que el entorno rural no puede acercarse; sino que es una obra civilizatoria que extiende empresas colonizadoras y explotadoras hasta los bordes mismos del _hinterland_ que configuraron sus élites.
 
 La Habana del momento final de la esclavitud será, sin embargo, la gran cabeza de un entorno regional formado por decenas de asentamientos, pueblos y ciudades subsidiarias cuyas economías dependen del gran mercado y centro de abasto en que se convierte la ciudad desde la década de 1840.

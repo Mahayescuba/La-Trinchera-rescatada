@@ -5,6 +5,8 @@ author: "El hijo de Lucy"
 category: "Onírica"
 image: ""
 ---
+**Por: El hijo de Lucy**
+
 Ayer cumplí tantos años que no recuerdo cuándo fue la primera vez que reí, o que tuve un sueño. No encuentro en mi memoria el minuto exacto en el que sentí que mi corazón se destrozaba de amor por primera vez. 
 
 Ayer, al verme rodeado de todos mis seres queridos (algunos en presencia física) y mirarle a los ojos, no supe si se alegraban al felicitarme o me extendían sus _congratulaciones_ como condolencias prematuras para algún Sainete Póstumo, o algo parecido que tampoco distingo si  leí en alguna parte, o es invención de una mente cansada. 

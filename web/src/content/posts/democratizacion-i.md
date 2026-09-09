@@ -1,13 +1,11 @@
 ---
 title: "Democratización"
 date: "2019-12-09T23:31:23+00:00"
-author: ""
+author: "Diego Conno"
 category: "Teoría"
 image: ""
 ---
 Apuntes para una teoría de la democracia popular (I).
-
-**Por:Diego Conno**
 
 Primera proposición. La democracia no es solo un régimen político. La democracia es fundamentalmente una forma de vida. Por ello supone también una ética, una estética y una erótica. Como ha sabido decir Diego Tatián, la democracia es una forma de sociedad que activa declaraciones de igual-libertad y un régimen político que realiza esas declaraciones en instituciones hospitalarias a la novedad humana.  
 Segunda proposición. La democracia conlleva un exceso irreductible. Hay en la democracia algo que es indomesticable, por la cual no se deja reducir a las formas de la ley y el derecho sino que muchas veces la excede. Exceso de lo político frente a lo jurídico, exceso de la justicia frente a lo legal. La democracia es portadora de un escándalo. ¿Cuál es ese escándalo democrático? Para que la democracia pueda seguir existiendo debe ir más allá de sí misma, expandiendo sus límites institucionales, extendiendo el horizonte de igual-libertad, ampliando los límites del demos. Llamémosle a esto producción de nuevas formas de “invención democrática”. Desde esta perspectiva, las políticas de inclusión, tan importantes y necesarias en contextos de desigualdad se vuelven, sin embargo, insuficientes. Ciertamente. inclusión es una palabra equívoca, que no refleja del todo, o que tiene ciertos límites al momento de pensar efectivamente la ampliación del demos. Las políticas de inclusión no pueden ser el único propósito de la democracia, al menos no de una política de democratización de la democracia o de una democracia popular. La política democrática tiene que ocuparse de quienes deben aparecer como “pueblo”, de quiénes cuentan como pueblo y quiénes no. Una política verdaderamente democrática no puede reducirse a la inclusión vía el reconocimiento de cualquier persona en términos de igualdad, sino más bien a la posibilidad de modificar precisamente las fronteras que establecen la relación entre lo reconocible y lo no reconocible. Así, la democratización de la democracia es irreductible al par inclusión-exclusión, debe poder transformar los marcos ontológicos, epistemológicos e institucionales que hacen posible que alguien pueda aparecer como parte del pueblo. Esto implicaría, en primer lugar, sostener la igualdad como principio. Y, en segundo lugar, no hacer del pueblo una entidad ya definida de antemano, tal como se desprende de gran parte de las teorías de la democracia liberal. Antes bien, la política democrática debe tener como tarea la construcción del pueblo como un campo abierto de elaboraciones múltiples.  

@@ -1,13 +1,11 @@
 ---
 title: "La puesta en escena de esa ley"
 date: "2020-03-09T09:15:34+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 A mí no me agradan los modos de actuación de Luis Manuel Otero, pero dudo que esto deba tratar de empatía.
-
-**Por: Miguel Alejandro Hayes**
 
 Me gustaría decir algo sobre Alcántara. Aquí, un brevísimo comentario.
 

@@ -1,13 +1,11 @@
 ---
 title: "¿ Y la lucha de clases qué?"
 date: "2019-01-01T21:27:52+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Una reflexión sobre la lucha de clases en Cuba enfocada en la Constitución.
-
-**Por: Miguel Alejandro Hayes Martínez**
 
 Agradezco a todos aquellos intelectuales, académicos, o a cualquier cubano que con sus opiniones han enriquecido el debate en torno al [Proyecto de Constitución](/politica-en-cuba/). Todos, de una forma u otra, han contribuido a la conformación de mis criterios sobre el tema, sean especialistas o no. Incluso, yo también ya he expresado algunas ideas sobre tal cuestión de la constitución (1).  
 Sin embargo, a pesar de toda esa riqueza de puntos de vista, prefiero apostar por algunas enseñanzas que a mi juicio son básicas -o al menos-, lo son desde los conocimientos que he adquirido, en buena parte, guiados por pensadores y profesores cubanos.  

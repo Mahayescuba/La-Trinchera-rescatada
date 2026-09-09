@@ -1,13 +1,11 @@
 ---
 title: "Cumpleaños"
 date: "2019-06-18T05:34:25+00:00"
-author: ""
+author: "Marea Baja"
 category: "Onírica"
 image: ""
 ---
 Cumpleaños.
-
-**Por: Marea Baja**
 
 ¿Qué regalarme, dices?  
 No soy mujer de joyas  

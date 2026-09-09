@@ -1,15 +1,13 @@
 ---
 title: "Guerreros"
 date: "2019-04-03T19:09:22+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/LlT3SV0hZnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 guerreros. 
-
-**Por: Pablo Dussac**
 
 Yo soy el verso de aquellos poetas  
 Mártires que, inconformes con la injusticia,  

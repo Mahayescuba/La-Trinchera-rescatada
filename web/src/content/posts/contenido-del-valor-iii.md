@@ -1,15 +1,13 @@
 ---
 title: "El contenido del valor (III y final)"
 date: "2018-09-25T11:01:13+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: ""
 ---
 Sustancia del valor.
 
 **En Respuesta a Rolando Astarita**
-
-**Por: Miguel Alejandro Hayes Martínez**
 
 **Recordando**
 

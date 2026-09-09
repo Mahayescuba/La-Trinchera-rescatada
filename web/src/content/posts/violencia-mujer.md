@@ -1,13 +1,11 @@
 ---
 title: "Novelas cubanas con actores callejeros"
 date: "2019-05-17T06:38:11+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 En nuestra nueva Constitución se plasmó el tema de la violencia de género, pero no se llegó a insertar el feminicidio, un punto que deberá tenerse en cuenta en futuras legislaciones.
-
-**Por: Julio Pernús**
 
 Recorría las calles de Guanabacoa, cuando vi a un conocido discutiendo con su pareja. Ella, de unos 17 años, le decía a viva voz: “eres un cochino, porque desde hace rato te comes a mis espaldas a la sucia esta”; en ese momento de la bronca, descubrí que la muchacha señalada también era parte de aquel reality show. Detrás, había dos seguidores del estilo Chocolatero que entusiasmados por el ambiente iniciaron un coro que decía: “la galleta, la galleta…”.
 

@@ -1,13 +1,11 @@
 ---
 title: "La inconformidad por los granos"
 date: "2018-12-19T03:02:52+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 No hay que tener granos para sentir incomodidad por lo que pasa en las sociedad.
-
-**Por: Miguel Alejandro Hayes Martínez**
 
 Un hipotético héroe quedó plasmado en la obra [Marx en el Soho](https://en.wikipedia.org/wiki/Marx_in_Soho). Su único personaje, se quejaba de sus forúnculos, y de cómo sus enemigos se aprovechaban de ello para justificar su rebeldía.  
 Según estos, todo lo que tenía él contra el orden social imperante eran sus molestias de salud. ¿Cómo si para estar contra el capitalismo hay que tener granos en el culo y no poder dormir?, decía el Moro. Él comprendía, que se intentaba desviar la atención de los problemas sociales que condicionaban esas realidades de cada individuo.  

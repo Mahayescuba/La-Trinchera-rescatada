@@ -7,8 +7,6 @@ image: ""
 ---
 receta para un dictador.
 
-**Por: Armando Pazos**
-
 Ingredientes:
 
 -   Un narcisista mitómano (la edad no importa)

@@ -1,12 +1,10 @@
 ---
 title: "Cuba en clave constituyente II"
 date: ""
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: ""
 image: ""
 ---
-Por: Ernesto Gutiérrez Leyva
-
 El actual proceso constituyente que se lleva a cabo en la Isla no ha pasado inadvertido para nadie, tal y como corresponde a un acontecimiento de tal trascendencia. En todos los medios se reflejan los pros y los contra de dotarnos de una nueva Carta Magna pero ¿alguien se ha detenido a preguntarse si el mismo está concebido dentro de la Constitución actual?
 
 Me explico: al amparo del artículo 137 de la actual ley fundamental se establece que “Esta Constitución solo puede ser reformada...”o sea, tal parece que el constituyente en su momento no tuvo intenciones de articular un mecanismo legal en virtud del cual la ley de leyes de 1976 pudiese ser remplazada por otra.

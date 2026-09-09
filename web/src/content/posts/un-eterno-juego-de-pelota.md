@@ -1,13 +1,11 @@
 ---
 title: "Un eterno juego de pelota"
 date: "2020-05-23T09:30:32+00:00"
-author: ""
+author: "Adrián Pernas Álvarez"
 category: "Onírica"
 image: ""
 ---
 Y cada quien seguía en lo suyo, como si su vida fuera un eterno juego de pelota.
-
-**Por: Adrián Pernas Álvarez**
 
 Era domingo. Se jugaba la final de la Liga Amateur de Béisbol de los Trabajadores. Bajo el sol dominical, la pizarra del [Latinoamericano](https://es.wikipedia.org/wiki/Estadio_Latinoamericano) mostraba un marcador de 2-0 a favor del equipo visitador. Última oportunidad para los de casa de remontar. Ambas plantillas las integraban mis vecinos de la barriada de Lawton.  
 Parado sobre el montículo: Alejandro, mi bodeguero. En la caja de bateo: Julio El Chispa, deseoso de ganar y ansioso de beber ese néctar tan exquisito que implicaría un triunfo tan importante, …la gloria.  

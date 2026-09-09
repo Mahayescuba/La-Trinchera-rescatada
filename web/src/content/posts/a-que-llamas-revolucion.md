@@ -1,13 +1,11 @@
 ---
 title: "Juguetes de mármol"
 date: "2019-05-03T05:51:53+00:00"
-author: ""
+author: "César Fraga"
 category: "Onírica"
 image: ""
 ---
 Revolución. 
-
-**Por: César Fraga**
 
 > _“Despierta un pueblo memorizando consignas,_  
 > _Desafinando el himno nacional.”_  

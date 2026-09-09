@@ -7,8 +7,6 @@ image: ""
 ---
 _Sender Escobar entrevista a Ian Padrón en una suerte de homenaje a Juán Padrón, el primero de los manigüeros, cineasta, animador por excelencia y pilar de la cultura cubana._ 
 
-**Por: Sender Escobar**
-
 **_Imagino que tuviste una infancia rodeada  de creatividad. ¿Cuándo adquiriste conciencia de que eras hermano de Elpidio Valdés?_**
 
 Descubrí que era hermano de Elpidio Valdés, a los cinco o seis años. Un día me levanté de madrugada y ví a mi papá dibujando a Elpidio y le pregunté _Tu eres el que hace Elpidio Valdés no es mi tío_. No entendía bien quien lo dibujaba porque mi tío Ernesto también hacia afiches de Elpidio Valdés y desde entonces soy un fanático de Elpidio.

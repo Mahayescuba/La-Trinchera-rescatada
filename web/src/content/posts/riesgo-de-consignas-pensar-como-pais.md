@@ -1,13 +1,11 @@
 ---
 title: "El riesgo de las consignas"
 date: "2019-10-05T20:58:41+00:00"
-author: ""
+author: "Giordan Rodríguez Milanés"
 category: "Política en Cuba"
 image: ""
 ---
 _Tal es el riesgo hipócrita de las consignas._
-
-**Por: Giordan Rodríguez Milanés**
 
 Leí hace unos años, en un sitio web, la historia de un piloto que hizo una complicadísima maniobra con su avión comercial. Evitó que este se desplomara por un desperfecto en el timón de profundidad y logró un magistral aterrizaje de emergencia.
 

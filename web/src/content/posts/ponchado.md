@@ -7,8 +7,6 @@ image: ""
 ---
 el que camina con uno. 
 
-**Por: Giordan Rodríguez Milanés**
-
 I
 
 _Mal rayo me parta_, es lo que uno se dice cuando se te poncha la bici a 7 km de la casa, pleno mediodía, cuando ya te arden los ojos por el sol y el sudor, te duelen las nalgas, las piernas, la espalda y la cervical.

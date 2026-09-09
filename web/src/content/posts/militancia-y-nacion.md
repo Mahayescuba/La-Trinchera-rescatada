@@ -1,13 +1,11 @@
 ---
 title: "Militancia y nación"
 date: "2020-07-24T09:00:00+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
 image: ""
 ---
 Consenso y democracia. 
-
-**Por: Ernesto Gutiérrez Leyva**
 
 Estaba el otro día revisando las redes, no sin cierto desgano, cuando encontré la publicación sobre un tuit o comentario de cierta personalidad haciendo un llamado a los empresarios de su país a no reabrir los negocios, porque la reactivación de la economía sin dudas ayudaría al candidato del oficialismo a reelegirse en la venidera contienda electoral por la presidencia de la nación.
 

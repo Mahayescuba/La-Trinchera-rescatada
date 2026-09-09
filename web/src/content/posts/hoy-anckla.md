@@ -1,13 +1,11 @@
 ---
 title: "Hoy"
 date: "2019-02-28T05:43:31+00:00"
-author: ""
+author: "Anckla"
 category: "Onírica"
 image: ""
 ---
 Hoy. 
-
-**Por: Anckla**
 
 Vuela lejos y alto. Gira en el cielo olvidando la gravedad. Sin atadura o montura por el aire se va. Pone los pies en el suelo y recuerda donde está. Toca la billetera. Choca con la realidad.  
 Cuanto más reconoce, toma cuenta de la gravedad, en la que vive estos tiempos pensando en no pensar.  

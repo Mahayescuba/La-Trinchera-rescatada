@@ -1,13 +1,11 @@
 ---
 title: "El anarquismo en Cuba. Un pensamiento verdaderamente revolucionario"
 date: "2018-09-10T11:00:15+00:00"
-author: ""
+author: "Mario Valdés Navia"
 category: "Trinchera Abierta"
 image: ""
 ---
 Ponencia presentada en la mesa-debate Trinchera Abierta en su edición del mes de agosto, realizada en el Centro Social Abra, La Habana
-
-**Por: Mario Valdés Navia**
 
 **La lucha independentista, el anarquismo y Martí**
 

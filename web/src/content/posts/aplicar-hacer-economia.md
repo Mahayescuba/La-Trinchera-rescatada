@@ -1,13 +1,11 @@
 ---
 title: "Aplicar o hacer economía"
 date: "2019-04-09T05:33:18+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: ""
 ---
 Economía. 
-
-**Por: Miguel Alejandro Hayes**
 
 Siempre es un gran riesgo hacer generalizaciones, sin embargo, son inevitables. Entonces, lo que debe hacerse es aprender a lidiar con ellas. En estas líneas, no puedo dejar de hacer generalizaciones. Solo aclaro, esto no es una crítica a economistas, sino una de esas palmadas en la espalda que tanto necesitamos.  
 La ciencia económica, no ha dejado de ser limitada. Su nacimiento, aun fuera de los marcos del positivismo, cargaba los encasillamientos, como el mecanicismo de los precursores de la fisiocracia francesa, o de un exceso empírico de los ingleses. A pesar de ello, fue esa misma economía inglesa, la que sirvió de base, de fuente de inspiración a una posterior dialéctica hegeliana, y a un Marx que lograría unir la economía, y la dialéctica que de ella nació.  

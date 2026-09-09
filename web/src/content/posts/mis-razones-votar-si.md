@@ -1,13 +1,11 @@
 ---
 title: "Mis razones"
 date: "2019-02-11T06:11:18+00:00"
-author: ""
+author: "Leonardo Martínez Quintana"
 category: "Política en Cuba"
 image: ""
 ---
 proyecto constitucional.
-
-**Por: Leonardo Martínez Quintana**
 
 El día que se publicó el primer proyecto constitucional, lo leí con avidez. Me sentí muy entusiasmado, pues la lectura preliminar puso de manifiesto un grupo de medidas que mucho antes un grupo de amigos habíamos avizorado como oportunas: la unión en la misma persona de los cargos de presidente de la Asamblea Nacional del Poder Popular y su Consejo de Estado, y consecuentemente la separación de los cargos de presidente del Consejo de Estado y el de Gobierno; la creación de un órgano electoral permanente e independiente; la necesidad imperativa del reconocimiento constitucional de la propiedad privada como un actor económico existente en la realidad, hasta ahora en un total marco de “alegalidad”, por no decir algo peor –quiero dejar bien claro que ideológicamente aborrezco la propiedad privada, aunque tácticamente entiendo que la economía cubana no puede prescindir de ella en estos momentos–; la apuesta por el municipalismo y la descentralización del gobierno; el reforzamiento de la dogmática sobre los derechos y la necesidad de una vía contenciosa para garantizarlos; la revolución en la esfera de las familias –que se nos había quedado tan atrasada– que replanteara completamente el significado del matrimonio, que eliminaba, de paso, una horrible fuente de discriminación.  
 Me resultó casi increíble, que luego de ocho años, desde que empecé a pensar sistemáticamente en mi realidad, desde un punto de vista crítico, marxista, enfocado en los humildes y en la protección de las conquistas de la Revolución, haber dado en el clavo en un grupo de ideas, que nuestro gobierno, aparentemente de repente, impulsaría en la nueva Constitución.

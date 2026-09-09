@@ -1,12 +1,10 @@
 ---
 title: "El pecado original"
 date: "2020-06-22T16:51:54+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Opinión"
 image: ""
 ---
-**Por: Sender Escobar**
-
 Parece que no solo el coronavirus (noticiavirus, como lo bauticé) es protagonista de la realidad cubana. Además del spin off de Tras la Huella en el noticiero, de los memes, unos más ingeniosos que otros, o de opiniones al margen sobre la limonada y secretos a voces sobre amistades con _power_ en Cuba.
 
 Esta vez la polémica, entre tantas crudas realidades, viene del post, en mi opinión muy desacertado, compartido por la rapera Danay Suárez (de quien soy admirador). En el mismo, compara la percepción y el encauzamiento de lucha del movimiento LBGTI con una agrupación que intenta darse un estatus legal, llamada [MAP](https://es.wikipedia.org/wiki/Movimiento_activista_ped%C3%B3filo). O sea, pedófilos clamando por reconocimiento.

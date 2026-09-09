@@ -1,13 +1,11 @@
 ---
 title: "Apuntes de pose y postura"
 date: "2018-05-15T12:30:49+00:00"
-author: ""
+author: "Carlos Ávila Villamar"
 category: "Opinión"
 image: ""
 ---
 En definitiva, cada tres largos reportajes vendidos dentro del empaque del periodismo narrativo, muy popular en estos días (no entiendo por qué, si en la mayoría de los casos resulta demasiado difuso como para ser periodismo, y demasiado aburrido como para ser literatura), había alguna opinión violenta, agresiva y francamente interesante.
-
-**Por: Carlos Ávila Villamar**
 
 Lamenté el bloqueo a la página de [_El Estornudo_](https://www.revistaelestornudo.com). En definitiva, cada tres largos reportajes vendidos dentro del empaque del periodismo narrativo, muy popular en estos días (no entiendo por qué, si en la mayoría de los casos resulta demasiado difuso como para ser periodismo, y demasiado aburrido como para ser literatura), había alguna opinión violenta, agresiva y francamente interesante. Leía _El Estornudo_ porque me gustaba su relativo desparpajo: liberado de la pose moderada de _OnCuba_, Carlos Manuel Álvarez (a quien no conozco y de cuya moralidad no podré hablar, aunque pueda afirmar que ya desde _Cubadebate_ había escrito textos magníficos) construyó un espacio reaccionario que merecía ser leído con atención aunque uno estuviera radicalmente en contra de lo que decía. Carlos Manuel Álvarez no tenía una pose, sino una postura, una a la que llegó tras un largo recorrido. A veces nuestros adversarios nos conocen más de lo que nos conocemos nosotros mismos (si es que puede llamarse _adversario_ a alguien tan obsesionado por el Che Guevara que no encuentra otro concilio consigo mismo que tratar inútilmente de odiarlo, tarea difícil para el que lo haya leído). Lamenté el bloqueo de la página de _El Estornudo_ porque en mi opinión era inofensiva, el periodismo narrativo solo es atrayente para aspirantes a escritores de periodismo narrativo, y los artículos de opinión resultaban más útiles al gobierno cubano que a la propia oposición de nuestro tiempo, que salvo el extraño caso de Ángel Santisteban es inmune a la literatura. Si yo fuera la CIA pagaría por un proyecto como _CiberCuba_, que entre chismes de reguetón y noticias poco fiables, de las que les encantan a las personas, recreara una opinión pública contraria al gobierno socialista. No pagaría un centavo, no obstante, por _El Estornudo_, que por su naturaleza jamás cambiaría el modo de pensar de demasiados cubanos. Los que lo leíamos, de un bando o de otro (y perdone el lector la dicotomía), teníamos claro qué encontrar allí.
 

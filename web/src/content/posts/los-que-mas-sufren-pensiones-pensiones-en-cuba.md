@@ -1,13 +1,11 @@
 ---
 title: "Los que más sufren"
 date: "2018-12-10T16:19:39+00:00"
-author: ""
+author: "René Portuondo"
 category: "Política en Cuba"
 image: ""
 ---
 Una reflexión sobre las pensiones en Cuba…
-
-**Por: Rene Portuondo**
 
 Para nadie es un secreto que uno de los principales problemas que enfrenta la economía nacional es el de la desconexión entre los ingresos por vía de salario y las necesidades de consumo medio de la población. Si bien es desconocida los niveles exactos de la canasta básica en Cuba, según (Sandoval, 2012) la cifra que media las necesidades básicas de la población en el año 2011 era de 841.40 pesos mensuales por persona a precios corrientes, analizado este valor mediante el método de Costo de las Necesidades Básicas. Tomando dicho valor y trayéndolo al presente aplicando las variaciones que sufre solamente vía inflación (1), tenemos que para el año 2018 el costo de la vida en Cuba asciende como promedio a cerca de 1100 pesos mensuales. Aun así, muchas otros estudios y estimaciones sitúan este monto en un nivel muy superior, algunos cercano a los 2000 pesos.
 

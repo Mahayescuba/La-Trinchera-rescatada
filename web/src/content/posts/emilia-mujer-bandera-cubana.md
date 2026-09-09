@@ -1,14 +1,12 @@
 ---
 title: "Emilia, la mujer que bordó la primera bandera cubana"
 date: "2019-07-03T13:52:40+00:00"
-author: ""
+author: "Norma Normand Cabrera"
 category: "Historia"
 image: ""
 ---
 Sirvió de muestra a las jóvenes de Nueva Orleans para confeccionar la bandera que encabezó la expedición de Narciso López y que ondeó por veinticuatro horas en la ciudad de Cárdenas el 19 de mayo de 1850.  
 Emilia Teurbe Tolón volvió a Cuba en 1856.
-
-**Por: Norma Normand Cabrera**
 
 Es abril y en la ciudad que no duerme la primavera se despereza de a poco, soltando flores y otras cosas bonitas. A la ciudad llega un barco y en el barco va una joven matancera de familia rica a quien sus ideas separatistas acababan de convertir en la primera mujer desterrada de Cuba por motivos políticos. Siglo XIX, por supuesto. Al que escribe no le consta la hora. Solo que ella tenía 24 años.  
 Solo que era Nueva York en el 50.  

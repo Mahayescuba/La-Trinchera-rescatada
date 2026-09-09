@@ -1,13 +1,12 @@
 ---
 title: "¿Merece una película, la historia del Partido Independientes de Color?"
 date: "2019-06-26T04:51:08+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Historia"
 image: ""
 ---
 #### Una mirada católica sobre el movimiento racial de mayor relevancia ocurrido en la historia de Cuba
 
-**Por: Julio Pernús**  
 No es usual que se les pida mediante un artículo a los directores de cine en nuestro país su sensibilización con un hecho determinado de la historia, para llevarlo a la gran pantalla. Pero, la matanza a mansalva de miles de negros en 1912, convierte al movimiento de los _Independientes de Color_, en un hecho singular que bien mereciera un esfuerzo de Fernando Pérez, Carlos Lechuga o Alejandro Gil, por solo mencionar, algunos de mis preferidos directores cubanos de la actualidad. Solo espero que este texto sirva de nicho para seguir profundizando sobre un acontecimiento lleno de matices y afeamientos históricos que no creo poder llenar con estas breves palabras.  
 La historia del _Partido Independiente de Color_, puede retraernos a la llegada de los primeros esclavos a nuestra nación. Los negros eran vistos como una especie de cuerpo sin alma, hay quien llegó a identificarlos como meros animales de trabajo. Por supuesto, esto no puede alejarnos del contexto de una Cuba colonial, con grandes plantaciones azucareras que demandaban una gran cantidad de fuerza laboral.
 

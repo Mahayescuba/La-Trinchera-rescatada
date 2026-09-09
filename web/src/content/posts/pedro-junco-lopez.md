@@ -1,13 +1,11 @@
 ---
 title: "Carta abierta al presidente"
 date: ""
-author: ""
+author: "Pedro Junco López"
 category: ""
 image: ""
 ---
 Nota: Desde su página de Facebook, el escritor camagüeyano Pedro Junco López dirige esta carta al presidente Miguel Díaz-Canel, a raíz del anuncio de las nuevas medidas económicas el pasado 16 de julio. Luego de esta publicación, que provocó más de dos mil reacciones y ha sido más de mil veces compartida, el autor informa en la misma plataforma que el lunes 3 de agosto se le notificó su separación definitiva de la UNEAC, “por actuar en franca contradicción con los principios, estatutos y reglamentos” de dicho organismo.
-
-Por: Pedro Junco López
 
 Señor presidente Diaz-Canel:
 

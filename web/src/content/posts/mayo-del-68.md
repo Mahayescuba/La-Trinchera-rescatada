@@ -1,12 +1,10 @@
 ---
 title: "Qué fue mayo del 68"
 date: ""
-author: ""
+author: "Antonio Sáenz"
 category: ""
 image: ""
 ---
-Por: Antonio Sáenz
-
 Se cumplen ahora los 40 años del mítico 68. Fue una explosión de carácter internacional: México, Pekín, Berkeley, Berlín, Madrid… Pero el mayo francés presentó una característica propia que le diferenciaba de los numerosos sucesos universitarios del 68; la unión del movimiento estudiantil con una larga y profunda crisis social.
 
 A la inicial agitación universitaria, más profunda y extendida que en otras ocasiones, se sumó una oleada de huelgas de dimensiones no conocidas en Francia desde 1936, que llegó a paralizar la vida económica y social del país y a poner en peligro la existencia misma de la V República. Esa conjunción de crisis universitaria y crisis obrera fue la que dio al 68 francés una especificidad histórica. Todavía hoy, 40 años después, nos seguimos preguntando qué fueron, qué representaron aquellos sucesos que, de forma tan inopinada, irrumpieron en la tranquila Francia del general De Gaulle.

@@ -1,13 +1,11 @@
 ---
 title: "La Cabaña sin ton ni son"
 date: "2020-02-23T22:08:35+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Opinión"
 image: ""
 ---
 Feria del libro. 
-
-**Por: Jorge Fernández Era**
 
 Todo aquel que emite criterios debe tener la humildad de aceptar cuando se equivoca. Y yo he metido la pata al formular opiniones infundadas sobre un evento al que verdaderamente no asistí (lean si no _Comer es crecer_). No imaginan los lectores la vergüenza que sentí ayer al ver la Mesa Redonda y darme cuenta de que lo que asumí como Feria Internacional del Libro en el Complejo Morro-Cabaña era simplemente una suma trigonométrica de timbiriches de co(rey)midas, arte(in)sanías, (fe)afiches y otros demonios.
 

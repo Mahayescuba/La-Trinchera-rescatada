@@ -1,13 +1,11 @@
 ---
 title: "Venezuela: los silencios que condenan"
 date: "2019-02-13T19:45:54+00:00"
-author: ""
+author: "Yosvany Montano Garrido"
 category: "Política"
 image: ""
 ---
 Venezuela.
-
-**Por: Yosvany Montano Garrido**
 
 Los presocráticos usaban túnicas y jamás sospecharon la llegada de Internet. Insistieron, sin embargo, en la importancia de siempre suponer una doble lectura de la realidad. Era importante evaluar los contenidos en un primer momento. Luego, determinar cómo estos se expresaban y qué condiciones eran capaces de recrear. Fueron los primeros en defender un uso sistemático de la reflexión racional. El pensamiento perduró para ellos solo como actividad subjetiva pero incorporaron al saber occidental importantísimas interrogantes. Dispuesto dejaron para nosotros el espinoso problema de cómo establecer la verdad.
 

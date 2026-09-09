@@ -1,15 +1,13 @@
 ---
 title: "Cuestión de condiciones"
 date: "2019-09-10T16:25:41+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2019/09/PicsArt_09-10-12.26.48.jpg"
 ---
 Condiciones. 
 
 #### Algunas ideas sobre la participación en el debate político
-
-**Por: Miguel Alejandro Hayes**
 
 Un máster. Un doctorado. ¡Un diploma! Aquí no se pronuncia toda la dimensión de la inconformidad si no se cuenta con el aval de “persona apta para pensar”, y que varía según el área del saber. Primero, hay que tener el futuro seguro, luego, a criticar con la valentía de magnitud nunca conocida en otros tiempos.  
 No pocas de las figuras -dentro o fuera del país- que en el presente tienen sabias y doctas reflexiones críticas -e incluso radicales y opositoras-, en el pasado miraron para otro lado y callaron a conciencia ante una injusticia; o se pronunciaron en contra de lo mal hecho solo hasta que les fue permitido; o dieron charlas y repitieron sin creerlo el bodrio ideológico desfasado que tocaba decir; o luego de enseñar a sus alumnos dónde estaba el mal, dijeron en público que solo había bien –quizá antes hubo un regaño en una mesa con un oficial o funcionario-; o tomaron un carné a pesar de rechazar la carga de desprestigio reflexivo que le veían; o defendieron los más positivistas e indigeribles dogmas [marxistas-leninistas](https://es.wikipedia.org/wiki/Marxismo-leninismo).  

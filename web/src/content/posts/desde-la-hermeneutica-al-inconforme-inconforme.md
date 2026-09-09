@@ -1,13 +1,11 @@
 ---
 title: "Desde la hermenéutica al “Inconforme Inconforme “"
 date: "2020-02-28T00:30:18+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
 feria del libro.
-
-**Por: Jorge Fernández Era**
 
 Hermes J. Moreno Rodríguez contesta a mi escrito _[El inconforme inconforme](/politica-en-cuba/)__._  
 Solo lamento que el director de la editorial [_Nuevo Milenio_](http://www.nuevomilenio.cult.cu/) no haya podido comunicarse, a pesar de sus esfuerzos, con las autoridades del Instituto Cubano del Libro para conocer el porqué del arbitraje de contenidos con Alina Bárbara López Hernández después de haber impreso su libro con el papel que le cuesta al pueblo 1600 dólares la tonelada.

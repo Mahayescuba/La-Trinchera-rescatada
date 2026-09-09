@@ -1,13 +1,11 @@
 ---
 title: "¿Militantes, números, o la pastilla del placebo ideológico?"
 date: "2019-05-13T06:10:35+00:00"
-author: ""
+author: "Marcos A. Alemán"
 category: "Política en Cuba"
 image: ""
 ---
 UJC y militancia.
-
-**Por: Marcos A. Alemán**
 
 Aún recuerdo el día en el que, cursando mis estudios preuniversitarios, recibí la charla habitual del secretario del Comité de Base del centro con el objetivo de atraer jóvenes a las filas de la “cantera ideológica del Partido”. Era un martes caluroso, y como es habitual en ese tipo de conversatorios, la mayoría de mis compañeros deseaba con desesperación que aquel individuo terminase para, en rápida acción, salir al merecido receso tras un largo turno de Matemáticas.  
 Aún así yo, que había leído a Marx en la secundaria (o al menos lo había intentado), era uno de los pocos estudiantes que estaba prestando atención a aquel joven delgado y compacto, de unos 27 años, que con unas evidentes pocas ganas nos explicaba por qué debíamos ingresar a la Unión de Jóvenes Comunistas. No obstante, hubo un hecho que me dejó contrariado: en lugar de hablarnos de Marx, de Lenin, de la historia de la organización y sus ideas o al menos de compromiso, el muchacho comenzó a enumerar de forma persuasiva y sugerente los beneficios que nos traería aceptar la condición de militante. Y empezó que a decir que “a veces hacen campamentos”, que “las excursiones al parque Lenin”, que si “el carnet hace falta para entrar a las fiestas de la UJC”, que “los viajes”; luego que era un aval para la carrera, que en un futuro trabajo se tendría en cuenta, y que si deseábamos podíamos ingresar en un futuro al Partido.  

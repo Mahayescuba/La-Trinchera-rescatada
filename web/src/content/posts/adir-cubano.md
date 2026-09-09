@@ -1,13 +1,11 @@
 ---
 title: "Adir"
 date: "2020-10-06T09:30:00+00:00"
-author: ""
+author: "René Fidel González García"
 category: "Política en Cuba"
 image: ""
 ---
 Ese es nuestro adir (cubano). Pero hay que pelear, incluso con cada palabra, con cada gesto y no cejar. De eso se trata hacerlo.
-
-**Por: René Fidel González García**
 
 ¿Qué hecho, qué drama terrible nos devolverá la razón, la decencia y el respeto? ¿Qué nos hará real la [Constitución](/politica-en-cuba/) y sus derechos a nosotros los ciudadanos?
 

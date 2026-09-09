@@ -1,12 +1,10 @@
 ---
 title: "Yo soy otra"
 date: ""
-author: ""
+author: "Kmilo Noa"
 category: ""
 image: ""
 ---
-Por: Kmilo Noa
-
 Soy la perfecta imagen  
 del erotismo  
 la chica de portada  

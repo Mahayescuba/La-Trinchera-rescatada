@@ -1,13 +1,11 @@
 ---
 title: "La ventaja de ser viejo"
 date: "2019-04-20T21:33:18+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Entrevista"
 image: ""
 ---
 **Ismael Sené revive la historia en palabras con la pasión de un aficionado y la erudición de un estudioso consagrado.**
-
-**Por: Sender Escobar**
 
 **Octogenario apasionado por el [béisbol](https://es.wikipedia.org/wiki/B%C3%A9isbol), Ismael Sené revive la historia en palabras con la pasión de un aficionado y la erudición de un estudioso consagrado a las bolas y los strikes, con un carisma inigualable “El Sabio” continúa jugando hasta el out 27.**
 

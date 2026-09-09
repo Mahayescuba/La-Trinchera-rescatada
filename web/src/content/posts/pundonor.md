@@ -1,13 +1,11 @@
 ---
 title: "Pundonor"
 date: "2020-01-06T04:08:18+00:00"
-author: ""
+author: "Norma Normand Cabrera"
 category: "Onírica"
 image: ""
 ---
 Pundonor.
-
-**Por: Norma Normand Cabrera**
 
 Eliseo, el respetable comerciante descendiente de rancios inmigrantes españoles, “vio nacer” a Ketty, hija menor de la joven pareja que desde su casamiento, más de ocho años atrás, vivía en la casa aledaña. A partir de entonces entablaron excelentes relaciones de vecindad y hasta llegaron a ser buenos amigos entre sí, en particular las mujeres. Por eso, la esposa del viejo, amable y generosa, en representación de la madrina oficial, llevó a la niña a la iglesia el día del bautizo, y como la acunó en su regazo durante toda la ceremonia religiosa pasó a ser llamada su “madrina de brazos”.  
 La pequeña crecía linda e inteligente, graciosa y locuaz. Poco a poco se fue convirtiendo en la consentida de aquella especie de hogar alternativo, donde a diario pasaba las tardes jugando con la hija adolescente del matrimonio, muchacha acomplejada por el color de su piel, muy oscura para su gusto, quien idealizaba a Ketty como la hermanita blanca que tanto hubiera querido tener de no haber escogido el padre a una negra para traerla al mundo.  

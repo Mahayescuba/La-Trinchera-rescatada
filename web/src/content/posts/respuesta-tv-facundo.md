@@ -1,13 +1,11 @@
 ---
 title: "¿Lindoro responde a Facundo?"
 date: "2020-01-04T17:04:03+00:00"
-author: ""
+author: "Giordan Rodríguez Milanés"
 category: "Política en Cuba"
 image: ""
 ---
 Facundo. 
-
-**Por:Giordan Rodríguez Milanés**
 
 **En mi opinión,** hay una oscuridad conceptual y jurídica en la [declaración](https://t.me/trincheracuba/309) del director de Cubavisión. Dice que Andy _usó el personaje y el programa para emitir criterios personales_.
 

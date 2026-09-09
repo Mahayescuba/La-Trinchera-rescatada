@@ -1,13 +1,11 @@
 ---
 title: "Cuba hoy, en la encrucijada constitucional"
 date: "2019-09-24T12:20:24+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
 image: ""
 ---
 Constitución en Cuba. 
-
-**Por: Ernesto Gutiérrez Leyva**
 
 Entre 2018 y 2019 los cubanos fuimos testigos de un proceso que culminó con la promulgación de la actual constitución. Este periodo constituyente fue en extremo atípico si lo comparamos con otros que, en fechas relativamente próximas, se llevaron a cabo en nuestro continente, y no es para menos: Cuba es el único país del hemisferio que reivindica la estructura estatal soviética, la cual con ligeros retoques, se mantiene incólume en el nuevo texto.
 

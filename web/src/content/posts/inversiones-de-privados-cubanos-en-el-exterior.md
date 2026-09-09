@@ -1,7 +1,7 @@
 ---
 title: "Tasa de ganancia o patriotismo"
 date: "2018-12-31T04:51:35+00:00"
-author: "Rene Portuondo"
+author: "René Portuondo"
 category: "Economía en Cuba"
 image: ""
 ---

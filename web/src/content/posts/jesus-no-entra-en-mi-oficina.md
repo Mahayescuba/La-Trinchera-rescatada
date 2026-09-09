@@ -1,13 +1,11 @@
 ---
 title: "Jesús no entra en mi oficina"
 date: "2019-10-29T13:01:58+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 Jesús. 
-
-**Por: Julio Pernús**
 
 _Dios no entra en mi oficina_ es un libro del pastor bautista Alberto I. González, donde narra los acontecimientos vividos por él en las [Unidades Militares de Apoyo a la Producción (UMAP)](https://es.wikipedia.org/wiki/Unidad_Militar_de_Ayuda_a_la_Producci%C3%B3n).
 

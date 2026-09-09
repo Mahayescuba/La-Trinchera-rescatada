@@ -1,11 +1,11 @@
 ---
 title: "Retamar"
 date: "2019-07-22T15:21:07+00:00"
-author: "simple matemática, lo que trascendió de Retamar fu"
+author: "Ariel Montenegro"
 category: "Opinión"
 image: ""
 ---
-**Por: Ariel Montenegro**
+Por simple matemática, lo que trascendió de Retamar fue lo bueno.
 
 Nunca conversé con él más que un saludo. Hace muchos años, iba a su casa, que era la casa de mi amigo, a copiar películas y el solo leía en el sillón de su biblioteca, como se supone que hacen los ancianos sabios.  
 Yo sabía en ese entonces que se llamaba Roberto Fernández Retamar, que estaba al frente de [Casa de las Américas](https://en.wikipedia.org/wiki/Casa_de_las_Am%C3%A9ricas) y poco más. Pero en sus dos casas aprendí mucho. En una, entré en contacto por primera vez con el buen cine, en la otra entendí por primera vez lo que me habían enseñado sin razonamientos: la Revolución.  

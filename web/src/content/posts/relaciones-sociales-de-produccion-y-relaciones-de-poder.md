@@ -1,15 +1,13 @@
 ---
 title: "Relaciones sociales de producción y relaciones de poder"
 date: "2018-07-31T12:00:42+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Trinchera Abierta"
 image: ""
 ---
 Relaciones sociales y de poder.
 
 ### Ponencia presentada en la Mesa Debate: Trinchera Abierta, en su edición del mes de julio. Realizada en MEPLA, La Habana, Cuba.
-
-**Por: Miguel Alejandro Hayes Martínez**
 
 **A modo introductorio**
 

@@ -1,13 +1,11 @@
 ---
 title: "Carta al compañero que le corresponde vigilarme"
 date: "2020-08-10T09:30:00+00:00"
-author: "Elaine Roca"
+author: "Elaine Roca Aguiar"
 category: "Onírica"
 image: ""
 ---
 vigilancia en Cuba.
-
-**Por: Elaine Roca Aguiar**
 
 Estimado Lenin-Lenin, compañero que me vigila:  
 Llevo días pensando en usted, en nosotros, en lo mucho que lo comprendo, en lo difícil que debo estar haciéndole la vida a usted y a su familia.  

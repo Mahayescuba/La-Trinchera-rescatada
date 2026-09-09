@@ -10,7 +10,6 @@ Breves apuntes sobre lo que acontece con el Movimiento de San Isidro
 
   
 **  
-Por Julio Pernús**
 
   
 No sé si a otros les suceda igual, pero el 2020 ha sido un año lleno de angustias; sería una inmensa pena si su culminación fuera ver convertida en un [Gólgota](https://es.wikipedia.org/wiki/Calvario) la sede del [Movimiento San Isidro](https://www.facebook.com/Mv.SanIsidro/) (MSI) en La Habana.

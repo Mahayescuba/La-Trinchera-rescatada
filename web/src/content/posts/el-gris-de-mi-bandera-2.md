@@ -7,8 +7,6 @@ image: "/wp-content/uploads/2020/12/Gerard-Cambon-Bajorelieves-.jpg"
 ---
 _Para este final de año, a los editores de La Trinchera nos complace presentarles una selección de los textos más leídos de cada uno de los colaboradores de este espacio. A todos les agradecemos su confianza._ 
 
-**Por: Elaine Roca**
-
 Yo no estuve la [noche del 27 en el MINCULT](https://oncubanews.com/cuba/artistas-e-intelectuales-cubanos-que-se-manifestaron-en-el-ministerio-de-cultura-logran-primeros-acuerdos-con-el-gobierno/) porque la noticia no me llegó a tiempo, porque solo tuvo cobertura por redes sociales y el servicio de internet lleva días tropezando, porque no se me convocó, nadie lo hizo. Pero si me hubiese enterado a tiempo hubiese ido, porque es un suceso (organizado por mercenarios o no, inspirado en parte por lo ocurrido con el MSI o no) que merece ser explorado, observado, analizado y archivado para la historia por quienes nos dedicamos al estudio de las sociedades y por quienes las vivimos. 
 
 Esa misma razón fue la que me llevó al [parque Trillo](http://www.cubadebate.cu/noticias/2020/11/29/tremenda-tangana-en-el-trillo-fotos-y-videos/), actividad que aprovechó la cobertura del suceso en el MINCULT para promoverse, que sí tuvo cobertura por las redes y por los medios de prensa oficiales, a la que sí fui convocada. Actividad que tuvo cartel, logotipo, guaguas para transportar estudiantes, equipo de audio, una tarima, permiso para usar un parque, un canal de Telegram, a los compañeros de la seguridad observando y la visita de nuestro presidente. Todo muy rápido, está muy bien. 

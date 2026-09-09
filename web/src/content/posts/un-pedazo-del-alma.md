@@ -7,8 +7,6 @@ image: ""
 ---
 Celia Cruz en televisión cubana.
 
-**Por: Jorge Fernández Era**
-
 Hubiera podido ser una de las noticias culturales del año: después de más de cinco décadas de ostracismo regresa a la televisión cubana Celia Cruz, La Guarachera de Cuba, una artista que a pesar de hacer la mayor parte de su carrera fuera de su tierra natal, puso muy en alto la música de la Isla en los más encumbrados escenarios internacionales. Pero era demasiado pedir: la fugaz presentación en la emisión de La Pupila Asombrada —con título “¿Cuánto y cómo cambió Cuba en 1959?”— constituyó una burda manipulación.
 
 Con tantas cosas que se pueden decir sobre la también conocida como Reina Universal de la Salsa, nominada en trece ocasiones al Premio Grammy y en seis a los Grammy Latinos, el comentarista solo atina a resaltar lo extenso de su nombre y, como para que no quede por él, culmina afirmando que Celia es “una figura importantísima de la música cubana”. En el programa, cuyo hilo conductor fue la “Canción de la Columna Juvenil del Centenario” de Silvio y Pablo, quedó clara la intención de los realizadores —apuntalada por la evocación del origen humilde de la cantante— de realzar, a través de la reproducción de “Guajiro, llegó tu día” (una oda a la Ley de Reforma Agraria que menciona a Fidel), la “traición” (no se menciona la palabra, pero estuvo ahí) de la cantante al decidir echar su suerte fuera de Cuba, ajena al proceso revolucionario al que cantó en ese tema.

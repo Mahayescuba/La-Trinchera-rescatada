@@ -1,13 +1,11 @@
 ---
 title: "Los mínimos de una buena educación"
 date: "2019-10-14T14:01:23+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 5 de octubre: Día Mundial de los docentes.
-
-**Por: Julio Pernús**
 
 El _precariado_ es una categoría socioeconómica que se atribuye a las personas con un nivel de ingreso inferior al mínimo establecido para vivir en su país. Si nuestros maestros no están en este grupo, andan cerca.  
 Al concluir la _previa_ del servicio militar, por recomendaciones médicas me ubicaron en una secundaria a pasar el año de servicio social. A mi llegada, la directora, sabiendo que no tenía curso de pedagogía alguno, me encomendó la parte recreativa.  

@@ -1,13 +1,11 @@
 ---
 title: "Crisis"
 date: "2019-01-22T06:47:03+00:00"
-author: ""
+author: "Alexandra Torres"
 category: "Política en Cuba"
 image: ""
 ---
 Y es el tema de la “crisis”. Y es que de lo único que se ha estado hablando es de este mal.
-
-**Por: Alexandra Torres**
 
 Ciertemente desde finales del año pasado he estado alejada de la blogosfera, pero no he dejado de leer a diario al menos un post de LJC o de La Trinchera, y sobre todo el boletín de Abelardo Mena, a quien aprovecho para felicitar pues me ahorra tiempo de leer material poco trascendente si su diario no existiera.  
 Sin embargo, al leer un post de la Alina B. López Hernández me sentí tan iluminada que me permití emitir mis propias consideraciones en un tema sobre Cuba, que ha sido la comidilla de las redes en los últimos meses.  

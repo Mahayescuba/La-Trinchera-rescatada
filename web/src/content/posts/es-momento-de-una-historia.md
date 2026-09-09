@@ -1,13 +1,11 @@
 ---
 title: "Es momento de una historia"
 date: "2020-05-21T09:30:21+00:00"
-author: ""
+author: "Elaine Roca"
 category: "Onírica"
 image: ""
 ---
 ¡Qué historia buena! Es momento de una historia, otros la contarán mejor, hoy se las cuento yo.
-
-**Por: Elaine Roca**
 
 Amigos míos, trotamundos, mercaderes, carpinteros, hermosas doncellas y madres, compartamos el fuego, es momento de una historia…  
 Verán, hay gente que cree que todo lo esencial fue dicho, que la verdad fue anunciada, que la mejor historia del mundo ha sido contada. Yo no sé, con lo poco que vive un hombre… pero me acuerdo, siempre me acuerdo del padre que engullía hijos. ¡Qué historia buena!, otros la contarán mejor, hoy se las cuento yo.  

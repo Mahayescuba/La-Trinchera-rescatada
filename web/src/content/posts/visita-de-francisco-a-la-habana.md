@@ -7,8 +7,6 @@ image: ""
 ---
 ## A 5 años de la visita del Papa Francisco a nuestro país
 
-**Por: Julio Pernús**
-
 En la vida hay momentos que te marcan. En 5 años pasan tantas cosas y la memoria selectiva se va desprendiendo de recuerdos, aunque al menos estos se anidaron para siempre en mi corazón.
 
 Junto a dos amigas de la pastoral juvenil, tuve la oportunidad de entregar físicamente en La Habana al papa Francisco la cruz de la Jornada Nacional de la Juventud (JNJ, Cuba 2015).

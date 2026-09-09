@@ -1,13 +1,11 @@
 ---
 title: "La generación del Mastodonte Amarillo"
 date: "2018-11-29T15:44:05+00:00"
-author: ""
+author: "Raúl Suñet"
 category: "Política en Cuba"
 image: ""
 ---
 la generación del mastodonte amarillo.
-
-**Por: Raúl Suñet**
 
 Somos una generación incolora sin triunfos ni glorias,  
 nuestro andar no dejará huella alguna que cuente nuestros pasos.  

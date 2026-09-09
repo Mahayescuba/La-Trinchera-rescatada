@@ -1,13 +1,11 @@
 ---
 title: "A la izquierda del delirio"
 date: "2019-09-02T06:26:32+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Izquierda.
-
-**Por: Miguel Alejandro Hayes**
 
 La ausencia de debates arroja resultados. Uno de ellos es que el punto de partida de la respuesta a un texto mío, sea calificarlo de servir al enemigo. Así Dayron Roque propone que mi post _Educación y Autoritarismo_ le es funcional a la derecha.  
 Quienes asumen con seriedad la reflexión saben que el orden en que se plantean las ideas –más allá de las oscuridades y perversiones del inconsciente-, responde a una intención comunicativa que sugiere una interpretación –esto, hermenéuticamente hablando, claro-. De modo que no es casual el inicio de la réplica que se me da. Ahí se emplea un calificativo que a mi juicio, no se demuestra, sino que solo se pone, y luego lo acompañan algunas exposiciones.  

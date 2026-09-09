@@ -1,13 +1,11 @@
 ---
 title: "Crónicas de Tutanga (IV)"
 date: "2019-05-13T06:03:23+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Onírica"
 image: ""
 ---
 crónicas de tutanga.
-
-**Por: Ernesto Gutiérrez Leyva**
 
 Sesionó por estos días en Havavlank el Congreso de la Central Tutana Católica (CTC), organización que surgió como patronal de los empresarios, pero que ha devenido en la práctica en una organización sindical.  
 Los temas relativos a la difícil realidad nacional fueron debatidos al amparo de la más exquisita teleología: _Si Cristo murió por nuestros pecados, ¿por qué a los tutanos nos están cobrando doble? Esto que vivimos hoy, es sin dudas una penitencia_, decía uno de los delegados del Congreso, que narraba además el crónico déficit que afecta los mercados nacionales.  

@@ -1,13 +1,11 @@
 ---
 title: "De lo que no iba el texto"
 date: "2020-08-23T16:30:00+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 feminismos y Granma.
-
-**Por: Miguel Alejandro Hayes** 
 
 Seamos justos: el [artículo](http://www.granma.cu/cuba/2020-08-18/revictimizada-mil-veces-18-08-2020-22-08-28) de Javier Gómez Sánchez no tiene como objetivo dar un mensaje, en esencia, sobre los feminismos. No busca vender misoginia, o anti femininsmos, y menos relativizar una lucha. Si así quedó, fue el resultado de forzar lo que sí quería decir.
 

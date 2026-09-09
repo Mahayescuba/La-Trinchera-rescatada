@@ -1,12 +1,11 @@
 ---
 title: "La Historia del Lolo"
 date: ""
-author: ""
+author: "Julio Pernús"
 category: ""
 image: ""
 ---
 En homenaje a todos esos jóvenes cubanos que están en la primera línea de Defensa contra la COVID 19  
-Por: Julio Pernús
 
 A Ernesto Antonio Cruz Lolo, o simplemente el Lolo, como le decimos sus amigos, lo conozco casi desde que era un niño y lo he visto crecer hasta llegar a sus 23 años de edad. Apenas nacido, gracias a su familia, ha estado bien cerca de ambientes católicos, primero en la capilla de las Religiosas de María Inmaculada, en El Cerro, y luego en San Juan de Letrán en el Vedado. Por vocación siempre anda cerca de las personas vulnerables, pues trabaja en una brigada de rescate y primeros auxilios de la Cruz Roja; pero igual, no por eso deja de ser un joven valiente que ha dejado cosas propias de su edad para dedicarse a socorrer por completo a los demás. Siempre he valorado mucho la oportunidad de comunicar, pero son historias como estas las que edifican enormemente mi trabajo delante de un teclado y una PC. De ahí que me sienta tan agradecido de poder conversar con El Lolo, en medio de su pausa laboral para que el mismo nos cuente cómo ha vivido desde que la pandemia llegó a Cuba.
 

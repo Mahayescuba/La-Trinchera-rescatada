@@ -1,13 +1,11 @@
 ---
 title: "Parece que ayer fue un gran día"
 date: "2019-11-12T21:30:30+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Zoonosis. 
-
-**Por: Miguel Alejandro Hayes**
 
 Llegué tarde a _La Habana_; lo suficiente como para no poder coger el _P_ que me llevara hasta G y 23 antes de las 3 y 30 de la tarde, y sumarme a enérgicos activistas a condenar el golpe de estado en Bolivia. También, claro, era tarde para presentarme a la sede de Zoonosis junto con otros enérgicos activistas.  
 Parece que ayer fue un gran día, y no estuve.

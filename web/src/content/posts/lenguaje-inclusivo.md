@@ -1,13 +1,11 @@
 ---
 title: "¿Lenguaje in(ex)clusivo?"
 date: "2020-02-21T17:39:37+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Opinión"
 image: ""
 ---
 Entonces, la exigencia para utilizar este lenguaje inclusivo es una desplazamiento de una cultura de inferioridad, motivo idóneo ante posturas conservadoras
-
-**Por: Sender Escobar**
 
 Con el surgimiento de nuevas voces que buscan atención y espacio para comunicar ideas y defender planteamientos respaldados por la razón que los impulsó a comenzar la iniciativa, el lenguaje es la herramienta _perfecta_ y universal (como medio comunicativo). Precisamente cuando un movimiento social, político o de cualquier otro orden viene acompañado con un discurso interesante, reflexivo e innovador, la identificación y percepciones sobre lo que constituye tal novedad comienza a funcionar en nuestro pensamiento, materializándose en acciones concretas o en la transmisión del ideal adoptado.
 

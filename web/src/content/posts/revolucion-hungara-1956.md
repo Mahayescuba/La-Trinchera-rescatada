@@ -1,13 +1,11 @@
 ---
 title: "Hungría 1956. La historia de un pueblo insumiso."
 date: "2018-07-30T12:00:24+00:00"
-author: ""
+author: "René Portuondo"
 category: "Historia"
 image: "/wp-content/uploads/2018/07/Manifestantes-universitarios-a-la-estatua-de-Josef-Bem-copiar.jpg"
 ---
 Un texto sobre la Revolución húngara 1956.
-
-**Por: René Portuondo**
 
 Corría el año 1956, mientras los revolucionarios cubanos bajo el mando de Fidel en México preparaban el inicio de la lucha insurreccional que comenzaría a finales del mismo año, a varios miles de kilómetros de Cuba el pueblo húngaro se preparaba para uno de los acontecimientos más dramáticos y polémicos de su historia reciente: La Insurrección de Octubre de 1956.
 

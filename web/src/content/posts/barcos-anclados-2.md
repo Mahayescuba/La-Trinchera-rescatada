@@ -1,13 +1,11 @@
 ---
 title: "Ancklado"
 date: "2018-12-25T05:05:49+00:00"
-author: ""
+author: "Anckla"
 category: "Onírica"
 image: ""
 ---
 Ancklado.
-
-**Por: Anckla**
 
 Como si fuera un barco ancklado, justo en la entrada del golfo, tranquilamente desde hace mucho tiempo, con más de una bandera en su historia y sus bodegas vacías, la nave privilegiada entre muchas, y la más hermosa que ojos humanos han visto. 
 

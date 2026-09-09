@@ -1,15 +1,13 @@
 ---
 title: "La postergada tarea de pasar a subsidiar personas"
 date: "2019-04-05T18:38:14+00:00"
-author: ""
+author: "René Portuondo"
 category: "Economía en Cuba"
 image: "/wp-content/uploads/2019/04/PicsArt_04-05-02.34.38.jpg"
 ---
 economía y subsidios.
 
 Fotografía: Wendy Pérez Bereijo
-
-**Por: Rene Portuondo**
 
 Sin dudas el año 2018 ha sido uno de los más tensos que ha enfrentado la economía nacional en los últimos decenios. Como ya expresará el ministro de economía en su exposición ante la asamblea nacional; el incumplimiento de las exportaciones y la ralentización de los ingresos del turismo, matizaron el año ocasionando una fuerte tensión en la liquidez de la economía que ocasionó incumplimiento en las inversiones y en las importaciones que afectaron el crecimiento de la economía y el consumo de la población.  
 En ese marco de tensiones, provocadas por insuficiencias internas y coyunturas externas desfavorables, se refuerza la idea de que en momentos como este la optimización de los recursos con que cuenta el país deben ser una tarea de primer orden. Es por ello que sale a relucir lo poco que se ha avanzado en la reconceptualización del inmenso sistema de subsidios con que cuenta el país y que hace mucho tiempo dejo de ser una fuente de justicia social, para convertirse en un pesado fantasma del igualitarismo que tampoco hace por el desarrollo nacional presente.  

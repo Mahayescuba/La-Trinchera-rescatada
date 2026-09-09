@@ -1,13 +1,11 @@
 ---
 title: "Contribución a la teoría marxista del derecho (PARTE I)"
 date: "2018-09-12T16:04:04+00:00"
-author: ""
+author: "Fernando Almeyda"
 category: "Teoría"
 image: ""
 ---
 marxismo y derecho.
-
-Por: Fernando Almeyda
 
 Inevitablemente debemos partir de que no se tiene conocimiento de ninguna obra titulada “Filosofía del Derecho” por Marx y/o Engels (al menos hasta el momento) y, por tanto, de la inexistencia de trabajos de los clásicos dedicados exclusivamente a analizar y determinar la naturaleza del fenómeno jurídico.
 

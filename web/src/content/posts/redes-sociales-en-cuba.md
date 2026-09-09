@@ -1,13 +1,12 @@
 ---
 title: "El juego de ajedrez (II)"
 date: "2020-02-22T23:47:03+00:00"
-author: ""
+author: "Boris"
 category: "Política en Cuba"
 image: ""
 ---
 # Un Juego de Ajedrez en las redes sociales
 
-**Por: Boris**  
 La imagen de un parque wifi repleto de personas absortas en las pantallas de sus celulares se ha borrado a partir de la implementación del internet por telefonía móvil. El impacto en la sociedad cubana ha sido indudable y, quizás, uno de los momentos más emblemáticos fueron las labores de recuperación tras el paso del tornado en enero del año pasado cuando gran parte de la sociedad cubana se movilizó a ayudar a los damnificados. Por supuesto que las tensiones políticas no pasaron desapercibidas y en medio del desastre hubo toda una lucha mediática que se montó sobre la poca habilidad de los funcionarios del Estado para manejar su presencia en las redes, algo que ha sido una constante a lo largo de este año de masificación del Internet. ¿Por qué fallan los tanques pensantes del Estado cubano en generar una buena imagen ante el mundo en lo que respecta a las redes sociales?  
 En los primeros años de la _Revolución_ mantener un estado de opinión fue un proceso sencillo. La figura de [Fidel Castro](https://es.wikipedia.org/wiki/Fidel_Castro), desde su impoluta imagen de joven héroe vencedor, servía como factor para aunar al público cediendo con el tiempo lugar a un muy eficiente aparato de inteligencia.
 

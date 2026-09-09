@@ -1,13 +1,11 @@
 ---
 title: "Las medidas del gobierno cubano en la comercialización de ciertos bienes"
 date: "2019-10-17T14:08:13+00:00"
-author: ""
+author: "Mauricio de Miranda Parrondo"
 category: "Economía en Cuba"
 image: ""
 ---
 Comercialización de ciertos bienes. 
-
-**Por: Mauricio de Miranda Parrondo**
 
 En la Mesa Redonda de hoy, en la que comparecieron el Vicepresidente de la República de Cuba, Salvador Valdés Mesa, el ministro de Economía y Planificación, la ministra de Finanzas y Precios, la ministra-presidenta del Banco Central de Cuba, la ministra de Comercio Interior, el ministro de Comercio Exterior e Inversión Extranjera y la vicepresidenta primera de la Corporación CIMEX se anunciaron nuevas medidas en la esfera del comercio interior. Se produjo semejante despliegue ministerial para anunciar algo que ya se había filtrado por ciertos medios antes de que se diera la Mesa Redonda y que, en esencia, se reduce a que, no contentos con tener un mercado segmentado por el uso de dos monedas nacionales (el peso cubano, CUP, y el peso convertible, CUC), abrirán un nuevo tercer segmento en el que se venderán productos de una “gama media y alta” (es decir, de mejor calidad que los que se venden en las tiendas que operan en CUP y CUC) en monedas libremente convertibles (MLC). En ese nuevo mercado (que no es tan nuevo porque ya en los 90’s antes de que apareciera el CUC se realizaban transacciones en dólares estadounidenses en las llamadas tiendas de “recuperación” de divisas) no se operará con efectivo sino con unas tarjetas magnéticas que tendrán como respaldo depósitos bancarios previos realizados en MLC.  
 La Mesa Redonda giró en torno a los detalles normativos que permitirían funcionar en este mercado a las “personas naturales” y “personas jurídicas”. Aparte de esto, resultó interesante la afirmación del ministro de Economía y Planificación, Alejandro Gil, acerca de la intención del gobierno cubano de propiciar el restablecimiento de la industria nacional, que actualmente tiene, según el ministro, capacidades productivas pero falta de financiamiento y entonces no puede satisfacer la demanda de la población. Sin embargo, el ministro eludió las medidas que resultan necesarias para atraer los recursos tecnológicos y financieros necesarios para relanzar a la industria nacional, actualmente estancada.  

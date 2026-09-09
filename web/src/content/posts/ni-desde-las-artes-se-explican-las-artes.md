@@ -1,10 +1,12 @@
 ---
 title: "Ni desde las Artes se explican las Artes"
 date: "2021-06-26T16:00:00+00:00"
-author: ": Arturo Mesa"
+author: "Arturo Mesa"
 category: "Política en Cuba"
 image: ""
 ---
+**Por : Arturo Mesa**
+
 Admito que el documento de la conceptualización del modelo recientemente publicado ha sido revisado con lupa, de forma que los temas más álgidos queden un poco entre dos aguas, con un lenguaje cauto y una pormenorizada edición. 
 
 Se editó en la [Federico Engels](https://www.ecured.cu/Imprenta_Federico_Engels) así que mis felicitaciones para el colectivo. No tanto para quienes debieron haberlo hecho público desde que concluyera el Congreso en donde ya se había hablado de su existencia. Entonces, quisiera meditar sobre uno de los aspectos allí planteados y se trata del Arte y la Política Cultural.

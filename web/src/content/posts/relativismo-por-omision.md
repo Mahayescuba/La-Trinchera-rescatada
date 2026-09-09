@@ -8,8 +8,6 @@ image: ""
 Nota: este texto fue escrito por el autor a raíz de la publicación en el diario Granma del artículo de Ernesto Estévez Rams titulado _Moderados y revolucionarios_, en su edición del 29 de diciembre de 2020. 
  
 
-**Por: Giordan Rodríguez Milanés** 
-
 También reflexiono acerca del relativismo por omisión que Estévez Rams le aplica a la radicalidad en este [artículo](http://www.granma.cu/cuba/2020-12-29/moderados-y-revolucionarios?fbclid=IwAR080Q-xW8yST1ifyC0vTaujKcEFB91XcvwMrQkNLqyxTy_DSLdZenSPIhs) aparecido en el periódico Granma. Porque si bien estoy de acuerdo con él en que cierta moderación evita batirse frontalmente con el imperialismo y la ideología oligarca, no veo un atisbo en su texto de adecuación de esa radicalidad clasista hacia lo interno, y hacia las manifestaciones de modos de vidas émulos en lo interno de esa ideología oligarca, ni de las desigualdades internas no siempre resultantes de las limitaciones del bloqueo.
 
 El radicalismo que yo aprecio y respeto, y que practico y estoy dispuesto a seguir, es aquel que sí llama con nombre y apellidos al imperialismo yanqui y sus acólitos, pero también llama con nombre y apellidos a los representantes de la clase burocrática interna que nos pide al pueblo comprender que no todos podemos tener, por ejemplo, un aire acondicionado, pero a ellos los esperan sus choferes con el aire acondicionado de sus autos encendidos para que se refresquen luego del sofocante recorrido que yo tengo que hacer a pie o en bicicleta todos los días. 

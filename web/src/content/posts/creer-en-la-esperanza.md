@@ -1,13 +1,11 @@
 ---
 title: "Creer en la esperanza"
 date: ""
-author: ""
+author: "Leonardo Manuel Fernández Otaño"
 category: ""
 image: ""
 ---
 Francisco en La Habana.
-
-Por: Leonardo Manuel Férnandez Otaño
 
 Hace 5 años tuve la oportunidad de ofrecer mi testimonio como joven cubano ante el Papa Francisco- ¡Cómo olvidar aquel día que tanto marcó mi vida! Hoy siento la necesidad, aun a miles de kilómetros de la Patria y ante el gemido del dolor de mi pueblo, que llega hasta este rincón de Castilla, de pedir a Dios por todos los cubanos, en especial por los jóvenes.
 

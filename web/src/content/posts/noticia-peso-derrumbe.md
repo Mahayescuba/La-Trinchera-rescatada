@@ -1,13 +1,12 @@
 ---
 title: "La Noticia por su peso"
 date: "2020-02-01T23:41:57+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
 Un texto sobre la muerte de tres niñas en La Habana
 
-**Por: Jorge Fernández Era**  
 Cierre: 11:30 p.m. Eso dice el [Granma](http://granma.cu) en el cintillo superior de su primera página. El accidente en el que fallecieron tres niñas tras un derrumbe en La Habana Vieja ocurrió en horas de la tarde del lunes 27. Al lugar de los hechos acudió el primer secretario del Partido de la capital.  
 ¿Cómo es posible que en la edición del martes 28 del órgano oficial del PCC no apareciera mención al suceso? ¿No informó Torres Iribar a las instancias superiores? ¿En el periódico se enteraron solo ayer? Son preguntas que uno se hace al leer la tardía reacción del diario.  
 A ello agréguese que ni siquiera pudieron enviar a un periodista. Se valen, para la información, de Cubadebate —que a su vez cita a una vecina; no aparece autoridad alguna que explique lo sucedido—, de la red social Facebook del Canal Habana y del presidente de la Asamblea Municipal del Poder Popular. Gracias a este último, devenido reportero, nos enteramos de que estuvieron los otros.  

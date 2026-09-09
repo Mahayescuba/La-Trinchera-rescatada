@@ -1,13 +1,11 @@
 ---
 title: "Silencios, odios y culpas…una muralla"
 date: "2019-12-11T23:09:06+00:00"
-author: ""
+author: "Alberto Miguel de la Paz Suárez"
 category: "Festival de cine de La Habana"
 image: ""
 ---
 Filme Muralla. 
-
-**Por: Alberto Miguel de la Paz Suárez**
 
 La muerte detiene su paso, marcha con la espalda doblada por la carga eterna de la miseria humana que lleva atada a su espalda. Va callada, profunda la mirada, escudriña y avisa. La muerte ronda la vida de aquel hombre, le mira a la cara, y lo sorprende en cada uno de los espacios y gentes que conforman sus días.  
 _El Muralla_ ha dejado de ser el ídolo goleador de aquella raza, ahora atrapada en la desidia. Es un estado que los ha transformado casi en misántropos. La estructura social afectada por los vicios (el tráfico de órganos, de droga y la trata de niños) y el juego de las apariencias, los silencios y los miedos.  

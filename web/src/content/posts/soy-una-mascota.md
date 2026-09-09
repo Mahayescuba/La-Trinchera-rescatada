@@ -1,15 +1,13 @@
 ---
 title: "Soy una mascota"
 date: "2019-05-27T04:15:18+00:00"
-author: ""
+author: "Norma Normand Cabrera"
 category: "Opinión"
 image: ""
 ---
 ##### mascota.
 
 ##### En la fotografía: Aparicio
-
-**Por: Norma Normand Cabrera**
 
 Se llama _Aparicio_ y lo conocí hace unos días en [La Habana Vieja](https://es.wikipedia.org/wiki/La_Habana_Vieja). De nuestro encuentro guardo varias fotos que le tomé. Se refugia en el Museo de la Orfebrería, el cual lo acoge como Si fuera su casa, al igual que a _Vladimir_ (que no permitió ser retratado), a _Canela_ (quien dormía arrinconada y no quise molestar) y a un par más de su especie que no vi porque desde muy temprano en la mañana andaban ya de paseo.  
 Como los demás que otrora fueron perros callejeros abandonados por sus dueños y que han hallado un hogar en las instituciones culturales del entorno, tiene colgado al pescuezo un solapín donde aparece su foto, consta su nombre, dice que es vecino del Centro Histórico de La Habana Vieja y, sobre todo, aclara:

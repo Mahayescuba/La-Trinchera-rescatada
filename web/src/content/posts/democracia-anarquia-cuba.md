@@ -1,15 +1,13 @@
 ---
 title: "Democracia…¿para qué?"
 date: "2019-05-14T06:31:59+00:00"
-author: ""
+author: "Boris"
 category: "Política en Cuba"
 image: ""
 ---
 Marcha alternativa por los derechos LGBTIQ en Cuba.
 
 ##### Fotografía: Yolo
-
-**Por: Boris**
 
 Pudiera remontarme a Platón y su “[Politeia](https://es.wikipedia.org/wiki/Politeia)” para empezar una crítica a la tan llevada y traída “Democracia”. Ya desde entonces se puede apelar a los mismos puntos: una plebe estupidizada por demagogos y un Gobierno de casta superior que la sirve en la medida en que le es funcional mientras se nutre de ella. Y los resultados son siempre los mismos, colapsos político-económicos-sociales que terminan decantando en Dictaduras apoyadas en un restablecimiento de la moral…moral tradicional…moral fascista…moral socialista…¡Derechos Humanos! Esa es la pacto final que el Estado (democrático, liberal y postmoderno) le ofrece a sus ciudadanos. Es el camino del “progreso” renunciando a la “libertad”.  
 Lo pasado en Cuba el pasado sábado en la Marcha Alternativa por los Derechos de la Comunidad LGBTIQ en Cuba es increíblemente triste. Retrotrae la realidad política a la época un debilucho James Carter se dejó inundar Florida por lo que un Fidel Castro llamaba “escoria” (expresidiarios, enfermos mentales y homosexuales). Ha pasado casi cuarenta años pero los bisoños y gallardos represores de entonces hoy ostentan estrellas en sus uniformes y son los encargados de transmitir la moral “revolucionaria” a sus subalternos…o sea, ¡la homofobia está garantizada en FAR, MININT y PCC!  

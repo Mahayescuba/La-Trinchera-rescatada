@@ -1,7 +1,7 @@
 ---
 title: "Catolicismo e independencia (II)"
 date: "2018-10-29T18:09:38+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Historia"
 image: "/wp-content/uploads/2018/10/iglesia-cubana-1.jpg"
 ---
@@ -11,7 +11,6 @@ Catolicismo y guerras de independencia en Cuba.
 
 Para ver la primera parte de [Catolicismo e Independencia](/historia/)
 
-**Por: Julio Pernús**  
 En este momento de mi ensayo es necesario señalar que existía una plataforma ideológica con varios puntos en común entre la Iglesia católica y el gobierno español. No verlo así, puede ser un intento efímero de falsear la verdad. Esto se traduce también en campos tangibles de colaboración. Pero una parte importante de la historiografía cubana, entre los que me sumo, señala que: “… al menos entre 1868 y 1874 no puede hablarse de unidad incondicional entre la Iglesia católica y el dominio colonial (…)” (1)  
 Por consiguiente, podemos corroborar que durante la “Guerra de los Diez Años” no existía una cohesión monolítica entre ambos poderes frente al proceso de formación de la nacionalidad cubana, como sí sucederá después y marcará toda la Guerra del 95. Había en ese contexto una división notable del clero por razones políticas. Los sacerdotes de origen español eran incondicionales al poder colonial, los consagrados de origen cubano, en su mayoría eran partidarios de la independencia. Esto se puede legitimar a través de historias de vidas, en la que se relatan los desafíos morales, que tenía para cualquier sacerdote cubano, el hecho de asumir una conducta pro-española.  
 El clero criollo también se sumó a la lucha más cruda por alcanzar la independencia, incluso alguno llegó a optar por la opción de las armas. Lo cual no quiere decir que todos los sacerdotes nacidos en Cuba se fueran a la manigua, o que pudieran hacer explícito sus intereses como grupo político pro independentista; no podemos obviar que había sacerdotes cubanos subyugados a España, pero no eran mayoría. A muchos de los clérigos comprometidos con la gesta libertadora, se les abrió un proceso judicial y se les cerró el acceso al púlpito por esos motivos, lo que limitó notablemente la envergadura de su labor como una fuerza política desde la Iglesia. Todo esto bajo el paraguas del Patronato Regio que funcionaba como un chaleco de españolización al interior de la Iglesia criolla, logrando que todo el impacto del clero mambí fuera reducido a una mínima excepción.

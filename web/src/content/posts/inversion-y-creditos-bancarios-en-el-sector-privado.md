@@ -1,13 +1,11 @@
 ---
 title: "Inversión y créditos bancarios en el sector privado"
 date: "2019-03-15T05:31:38+00:00"
-author: ""
+author: "René Portuondo"
 category: "Economía en Cuba"
 image: ""
 ---
 sector privado en Cuba. 
-
-**Por: Rene Portuondo**
 
 Uno de los temas que más causaba incertidumbre en los primeros momentos de la apertura del sector privado en Cuba, en su última etapa luego del 2011, era el de las fuentes de la inversión que se utilizarían para el despegue de dicho sector; en condiciones donde el ahorro nacional (ya fuera público o privado) y el desarrollo del sector bancario, hacían inviable el financiamiento del mismo desde la banca nacional. Los negocios más pequeños podrían comenzar con niveles mínimos de capital, pero los más grandes, los que verdaderamente supondrían el centro de dichas políticas, quedaban muy distantes de los modestos ahorros particulares que podría tener una familia en Cuba.  
 Ante esta realidad, el incipiente sector privado optó por fuentes de financiamiento externas, tanto de verdaderos agentes financieros (solicitud de créditos con respaldo en personas en el exterior), como con el apoyo de amigos o familiares que suministrarían los capitales iniciales para la puesta en marcha de dicha actividad. Y aunque es imposible captar con seguridad los montos reales, este hecho es conocido y ha sido ampliamente tratado por varias investigaciones recientes. A dichos emprendedores nacionales que asumieron deudas para la apertura de sus negocios, se sumaron, cientos de cubanos residentes en el exterior, luego de acogerse a su derecho de repatriación o mediante testaferros en el país, a la apertura de pequeños y medianos negocios privados, fundamentalmente en el sector del turismo y restaurantes.  

@@ -1,13 +1,11 @@
 ---
 title: "Un socialismo más participativo"
 date: "2019-06-17T04:42:22+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: ""
 ---
 El socialismo participativo del siglo XXI, la planificación participativa, la educación popular, pasaron a ser cuestiones incorporadas a mi manera de pensar.
-
-**Por: Miguel Alejandro Hayes**
 
 Conocí a Marta en La Universidad de La Habana. Ella presentaba para un grupo de estudiantes un documental sobre algunos de los procesos de participación popular realizados en Venezuela durante el gobierno del presidente Chávez.  
 Me llamaba la atención aquella mujer con tanta energía. Su actitud nos hacía sentir a otros vergüenza; vergüenza por verla hacer tanto, y nosotros -que nos creíamos que hacíamos mucho-, haciendo tan poco.  

@@ -1,13 +1,11 @@
 ---
 title: "La destrucción también viene de adentro"
 date: "2019-03-03T06:47:00+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política"
 image: ""
 ---
 Venezuela. 
-
-**Por: Miguel Alejandro Hayes**
 
 > La degradación del chavismo, va a resultar que no solo es debida a la derecha, sino también, a todas esas tendencias negativas en su interior.
 

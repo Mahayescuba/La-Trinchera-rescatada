@@ -1,13 +1,11 @@
 ---
 title: "Crecer con la revolución"
 date: "2019-05-29T06:58:31+00:00"
-author: ""
+author: "María del Pilar Díaz Castañón"
 category: "Opinión"
 image: ""
 ---
 Crecer con la revolución Cubana es una bella experiencia.
-
-**Por: María del Pilar Díaz Castañón**
 
 > II
 

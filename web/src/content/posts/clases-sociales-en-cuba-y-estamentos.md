@@ -1,13 +1,11 @@
 ---
 title: "Cuba, entre clases sociales y estamentos"
 date: "2020-06-10T15:58:56+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
 image: ""
 ---
 Un texto de Ernesto Gutiérrez Leyva sobre clases sociales en Cuba. En tiempos en que el Covid-19 copa los titulares de los medios nacionales y extranjeros
-
-**Por: Ernesto Gutiérrez Leyva**
 
 En tiempos en que el Covid-19 copa los titulares de los medios nacionales y extranjeros, mi costumbre de llevar la contraria me hace escribir sobre un tema muy vigente, aunque eclipsado en la actual _coyuntura_: las clases sociales.
 

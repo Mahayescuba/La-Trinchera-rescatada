@@ -1,12 +1,10 @@
 ---
 title: "La profecía de la Huérfana"
 date: "2020-09-08T09:30:00+00:00"
-author: ""
+author: "Day Cordero"
 category: "Onírica"
 image: ""
 ---
-**Por: Day Cordero**
-
 A ti romano, a ti te cuento mis sueños más estúpidos antes de que se me olviden.
 
 _El polvo queda suspendido en la atmósfera tras una tormenta, y el silencio es más estridente que el ruido._

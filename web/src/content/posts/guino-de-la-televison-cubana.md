@@ -1,13 +1,11 @@
 ---
 title: "DuckTales: Un guiño de la televisión cubana a la resurrección de Mr. Hyde"
 date: "2018-06-28T11:00:17+00:00"
-author: ""
+author: "Antonio Gutiérrez Laborit"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2018/06/100913f8f31e94c.jpg"
 ---
 _DuckTales_: Un guiño de la televisión cubana a la resurrección de Mr. Hyde
-
-Por: **Antonio Gutiérrez Laborit**
 
 “\[…\] mientras Donald sea poder y representación colectiva, el imperialismo y la burguesía podrán dormir tranquilos”
 

@@ -1,13 +1,11 @@
 ---
 title: "El Gobierno Provincial en la nueva Constitución"
 date: "2018-10-08T14:47:21+00:00"
-author: ""
+author: "René Portuondo"
 category: "Política en Cuba"
 image: ""
 ---
 Gobierno provincial en Cuba.
-
-Por: Rene Portuondo
 
 Uno de los temas más polémicos en los debates del [Proyecto de Constitución](http://www.cubadebate.cu/especiales/2018/12/21/cuales-son-los-principales-cambios-en-el-proyecto-de-constitucion/) es la nueva estructura del gobierno provincia. Esta introduce cambios que rompen con el esquema asambleario utilizada a todos los niveles hasta el momento, y trata de instaurar un mecanismo más dinámico y eficiente para dicha labor. Dichos cambios vienen también enfocados a la tan difundida “autonomía municipal”, al reducir el papel del gobierno provincial en algunas esferas permite concentrar más poder de decisión y recursos en los gobiernos municipales. El gobierno provincial quedaría como un ente coordinador de los esfuerzos de los municipios y como intermediario ante el gobierno central, y muchas de las tareas que antes realizaba este pasarían a ser controladas por los municipios, que tendrían ahora más capacidad de enfocarse y actuar sobre los problemas verdaderamente urgentes de su localidad.  
 Presentado de esta forma se nota que la idea de reducir el tamaño del gobierno provincial y hacerlo más dinámico es todo un avance con respecto al modelo anterior. Aun así, hay elementos en esta nueva estructura que dejan mucho que desear y lo alejan del espíritu representativo y democrático que está presente en otras partes del texto constitucional.  

@@ -1,13 +1,11 @@
 ---
 title: "Nota rápida sobre las consecuencias"
 date: "2020-06-30T16:00:00+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Hoy martes, se reunirá en el Yara un grupo de opositores para una protesta, esencialmente, por lo que consideran un asesinato en el caso mediatizado en estos días, según afirman.
-
-**Por: Miguel Alejandro Hayes**
 
 Para mí, esta nota solo tiene sentido si se lee en las próximas doce horas. Es por lo que no me extiendo más allá de algunas afirmaciones, cuya aprobación será más por afinidad con ideas previas que por reflexión pausada e introspección.
 

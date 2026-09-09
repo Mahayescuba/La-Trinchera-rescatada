@@ -1,13 +1,11 @@
 ---
 title: "Elige tú, que yo ni canto"
 date: "2019-10-11T17:01:36+00:00"
-author: ""
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---
 Elecciones en Cuba. 
-
-**Por: Jorge Fernández Era**
 
 El próximo 10 de Octubre la Asamblea Nacional se reunirá para elegir a su presidente, vicepresidente y secretario, a los miembros del Consejo de Estado y, más importante aún, al vice y al presidente de la República, quien anunciará más adelante al primer ministro.  
 He oído más de una vez en los últimos días que la [Comisión Electoral Nacional](http://www.eleccionesencuba.cu/) —la misma que representa a once millones de cubanos (los de allende los mares no cuentan) y nos quita el trabajo de pensar quiénes son las personas más adecuadas— ni siquiera propone, sino que analiza las propuestas que surgen entre los propios diputados. Vaya, que todo el mundo le ahorra dolores de cabeza al prójimo.  

@@ -1,13 +1,11 @@
 ---
 title: "Debate con amigos"
 date: "2019-05-03T17:09:23+00:00"
-author: ""
+author: "Manuel Sutherland"
 category: "Economía Política"
 image: ""
 ---
 Sobre las “Medidas Socialistas revolucionarias para salir de la crisis e igualar salario con canasta básica en el corto o mediano plazo.”
-
-**Por: Manuel Sutherland**
 
 1\. Imaginate que se da la reveolución clásica leninista. Lo que ustedes llaman “medidas revolucionarias socialistas” son impuestas sin guerra civil, ni nada, para no poner el caso de mayor destrucción económica.
 

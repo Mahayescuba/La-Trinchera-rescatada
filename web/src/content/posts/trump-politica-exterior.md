@@ -1,12 +1,10 @@
 ---
 title: "Trump: dos años de (No) política exterior"
 date: "2019-04-18T19:45:29+00:00"
-author: ""
+author: "Carmelo Mesa-Lago"
 category: "Política"
 image: ""
 ---
-**Por: Carmelo Mesa-Lago**
-
 Elementos cardinales para poder entender la política exterior de Donald Trump son: su egocentrismo, la expansión de sus negocios y el cultivo de su base política para satisfacer a los otros dos elementos y mantenerse en el poder. Trump es un constante abusador que apabulla a quien lo critica, a quien es débil o competidor. Por el contrario, es sumiso con líderes autoritarios, especialmente si tienen información comprometedora en su contra o pueden darle cobertura mediática universal. Agreguemos su vasta ignorancia sobre cuestiones científicas y globales, su incapacidad de concentrarse mucho tiempo en un asunto importante, el desdeño por lo intelectual, la mentira consuetudinaria, así como su perfil autoritario, racismo, corrupción financiera y sexual, arrogancia y narcicismo. Bajo este prisma, su lema “América primero” se convierte en “Trump primero”.
 
 Desde el inicio de su mandato, Trump ha dicho 7.000 mentiras o exageraciones. Más aun, ha creado una cultura de transgredir la verdad, cuyo ejemplo principal es él mismo, rodeándose de funcionarios que mienten para taparlo o por temor a ser despedidos. Varios de sus colaboradores están siendo encausados por el fiscal especial Robert Mueller. Irónicamente, Trump desprestigia y acusa de propagar “noticias falsas” a los medios de comunicación que reportan la verdad, tildándolos de “enemigos del pueblo”, como hizo [Stalin](https://es.wikipedia.org/wiki/I%C3%B3sif_Stalin).

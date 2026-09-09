@@ -1,7 +1,7 @@
 ---
 title: "Protesta de Jarao, una historia poco conocida"
 date: "2019-06-24T07:39:43+00:00"
-author: ""
+author: "Norma Normand Cabrera"
 category: "Historia"
 image: "/wp-content/uploads/2019/06/IMG_20190624_033711_454.jpg"
 ---
@@ -9,8 +9,6 @@ Protesta de Jarao.
 
 > _“El hombre de Hornos de Cal no tiene igual entre los que protestan de la paz. Con menos recursos que Maceo, menos prestigio, menos ascendiente, persistió por más tiempo en el gesto supremo y no arrojó nunca un ápice de sombra sobre aquella página que no cede ni ante la hazaña estupenda de Baraguá”_  
 > José Martí
-
-**Por: Norma Normand Cabrera**
 
 Si no olvidado, sí poco recordado es el Coronel [mambí](https://es.wikipedia.org/wiki/Mambises) Ramón Leocadio Bonachea, quien un año después de la Protesta de Baraguá aun peleaba en los campos de Cuba. Al frente de un grupo de sus hombres se desplegó a ambos lados de la Trocha de Júcaro a Morón, extensa zona de la región central del país que abarcaba Trinidad, Sancti Spíritus, Remedios, Ciego de Ávila y Morón.  
 Más de veinte mil soldados comandados por el propio General Arsenio Martínez Campos emprendieron una cacería perenne contra Bonachea y sus algo más de cien hombres, que lograron replegarse en la zona de Morón.  

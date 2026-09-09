@@ -1,13 +1,11 @@
 ---
 title: "Sin tantas confusiones"
 date: "2019-01-16T05:51:18+00:00"
-author: ""
+author: "Mauricio Cifuentes Nodarse"
 category: "Política en Cuba"
 image: ""
 ---
 ¿Por qué existe una campaña en las redes sociales [#Ni1+?.](https://www.cubanet.org/noticias/cuba-dictadura-campana-60/)
-
-**Por: Mauricio Cifuentes Nodarse**
 
 Iramís, me gustaría continuar la cadena que comenzaste con tu amigo, y responderte entonces tu artículo publicado en La Trinchera: _[Una petición oportuna](/politica-en-cuba/)_.  
 Hay conversaciones que se sostienen sentados, mientras uno rolea los dedos gordos de las manos, frente a la panza. Otras, sin embargo, hay que tenerlas de pie, para que se nos escuche mejor y el oxígeno fluya más en la cabeza. Para no quedarme sin hacer nada, mientras te comento un par de asuntos, partiré el pan pita y lo untaré con hummus, como dice un amigo mío.  

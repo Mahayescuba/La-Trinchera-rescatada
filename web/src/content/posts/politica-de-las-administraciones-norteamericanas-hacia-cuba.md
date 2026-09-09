@@ -1,13 +1,11 @@
 ---
 title: "Política"
 date: "2020-03-09T09:30:52+00:00"
-author: ""
+author: "Jorge Bonilla"
 category: "Política en Cuba"
 image: ""
 ---
 # Sobre la política de las administraciones norteamericanas hacia Cuba
-
-**Por: Jorge Bonilla**
 
 Como se conoce, el diferendo Estados Unidos- Cuba constituye un proceso con varios siglos de vigencia histórica; constando fehacientemente las aspiraciones de las sucesivas administraciones estadounidenses para obstaculizar la soberanía e independencia del pueblo cubano.  
 Es imposible enfatizar en el contenido del presente artículo las medidas que durante tres siglos se desencadenan para socavar la estabilidad económica del pueblo cubano, poniendo en peligro en las últimas décadas la seguridad de los cubanos en los asuntos sociales y políticos. En particular, sometiéndonos a carencias económicas para catalizar la caída vertiginosa del _modo de producción socialista_ elegido libremente por los cubanos, tras siglos de explotación colonial española y norteamericana.  

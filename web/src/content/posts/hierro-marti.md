@@ -1,11 +1,10 @@
 ---
 title: "\"Hierro\", no te engavetes"
 date: ""
-author: ""
+author: "Alfredo Herrera"
 category: ""
 image: ""
 ---
-Por: Alfredo Herrera  
 Argos Teatro trae una nueva obra. Inspirada en momentos de la vida de José Martí, Hierro llega al público con un aire fresco de la vida del más universal de los cubanos. Una suerte de presentación teatral que arremete contra los viejos paradigmas sobre Martí y lo tipifica como el ser humano que fue.  
 Cualquier concepto o idea del Martí que conocemos, del que hemos construido con el paso de la vida, sufrirá cambios después de acercarnos a esta puesta en escena. El vínculo que mantenemos con la figura del Apóstol está llamado a fortalecerse en los momentos de cambio y reformación socioeconómica que vive Cuba hoy.  
 El paso de los años difuminó los recuerdos que sus contemporáneos profesaban con orgullo. Ese Martí cercano, protagonista de anécdotas e historias llamativas desaparece inexorablemente. Las fórmulas para mantener su impronta y espíritu de cubano genuino devenido inmortal, han variado con la evolución de la sociedad. Carlos Celdrán nos da a beber la elipsis martiana en un formato tradicional como el teatro; medio imperecedero, trasciende épocas y apreciaciones.  

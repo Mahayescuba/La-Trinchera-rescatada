@@ -1,13 +1,11 @@
 ---
 title: "Virus, modernidad y capitalismo"
 date: "2020-04-03T09:45:58+00:00"
-author: ""
+author: "Patricio Pilca"
 category: "Política"
 image: ""
 ---
 En tiempos de coronavirus, un análisis sobre la sociedad actual.
-
-**Por: Patricio Pilca**
 
 Las ciudades son el “gran” logro moderno, sinónimo de modernidad es el cemento, las vías, los edificios levantándose cual murallas invencibles que incorporan un nuevo estilo de vida, un nuevo _habitus_. Todos quieren habitar en ellas. Si hay una victoria notable del capitalismo es la ampliación de la ciudad como eje del desarrollo y la inserción ideológica del progreso como parte de esta.
 

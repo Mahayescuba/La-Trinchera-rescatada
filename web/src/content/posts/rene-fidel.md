@@ -1,13 +1,11 @@
 ---
 title: "Supongamos que no se trata un caso aislado"
 date: "2019-08-21T05:34:20+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 René Fidel.
-
-**Por: Miguel Alejandro Hayes**
 
 Supongamos que todas y cada de las quejas, que todos y cada uno de los reclamos de los profesores e investigadores vinculados a una institución universitaria son una mentira, un mero ejercicio de oportunismo para, a través del recién descubierto mundo de las redes ganar espacio mediático y hacerse de 20 minutos de fama. Por tanto, que ninguno ha sido digno, ni ético, ni legal, y que todas las sanciones aplicadas se la han merecido, tanto desde lo moral como desde lo legal.  
 Supongamos, que cada una de los funcionarios que ha encabezado los procesos de sanciones contra aquellos profesores e investigadores, son, los más honestos de todo el sistema burocratizado que tenemos. Supongamos que esos le dan contenido a la estadística de los funcionarios correctos que no son aquellos que han merecido una línea en el discurso político de algún altísimo dirigente del país –sabiendo que cuando un fenómeno que manche a las estructuras del gobierno solo se menciona cuando es innegable-. Por tanto, que estos cuadros solo cumplían su más estricto deber –no con el gobierno-, sino con la educación del país, con la Revolución, y que jamás cometerían un abuso de poder, y que las sanciones han sido las más justas.  

@@ -1,11 +1,10 @@
 ---
 title: "Latinoamérica entre imperios y antiimperialismos"
 date: ""
-author: ""
+author: "José Gabriel Barrenechea"
 category: ""
 image: ""
 ---
-Por: José Gabriel Barrenechea  
 ¿Hay al presente en Latinoamérica una lucha entre la derecha y la izquierda?  
 No. En toda la región lo que ocurre es una lucha entre dos Imperios, entre el Hegemón Mundial hasta ayer mismo, y el que hoy le disputa el puesto: entre el Consenso de Washington y el Consenso de Beijing, y esas dos posiciones políticas, derecha e izquierda, lo único que hacen es servirle de agentes internos a los colosos contendientes.  
 Que en Latinoamérica las “oligarquías” le apuesten al Viejo Imperio, por tal de mantener los privilegios que obtuvieron de esa relación, a la vez que las desigualdades ancestrales que les permiten singularizarse dentro de la gran masa nacional, mientras los “redistribucionistas” lo hacen con el Nuevo, puede que nos lleve emocionalmente a dar a los segundos nuestro apoyo. Mas, el análisis racional nos deja ver que ni unos ni otros conducen a ninguna otra parte que a una nueva redistribución del Mundo en la que, por enésima vez, se nos excluya gracias a nuestra miopía ancestral, al tiempo que a una nueva redistribución interna entre privilegiados y excluidos. Ya antes ha ocurrido esto más de una vez, cuando se pasó de la hegemonía española a la británica, y nuevamente cuando a esta última la reemplazó la americana.  

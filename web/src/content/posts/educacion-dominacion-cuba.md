@@ -1,13 +1,11 @@
 ---
 title: "Educación y dominación"
 date: "2019-08-13T14:39:25+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Educación y dominación.
-
-**Por: Miguel Alejandro Hayes**
 
 En Cuba aun persiste una educación que no pudo zafarse de los tipos decimonónicos que llegaban desde la metrópoli española. Es casi innegable el carácter repetitivo de los 12 primeros años de enseñanza hoy. Lo muestran la memorización de fórmulas, los dicótomos y reduccionistas verdadero o falso, y los maratones de ejercicios tipo. Modos estos, que quienes los logren exitosamente serán mejor premiados.  
 El educando, se entrena para mostrar que memorizó esquemas previamente aprendidos. Ello lleva implícito que exista la autoridad que dicta el qué del proceso. Tal educación, atenta contra la formación del espacio social demócratico para producir conocimientos y la propia realidad, y estimula su contrario.  

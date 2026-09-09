@@ -1,13 +1,11 @@
 ---
 title: "La Cuba de los próximos Años"
 date: "2019-03-04T16:43:11+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 constitución Cuba.
-
-**Por: Julio Pernús**
 
 Un análisis interpretativo de la Cuba que viene tras el Sí constitucional.  
 Es importante que cuando intentemos desempolvar la historia de nuestra nueva constitución, la miremos con una mirada más amplia del 86,72% a favor y el 9% en contra. Los datos a menudo son muecas frívolas que no aportan las luces suficientes para visionar el horizonte inmediato.  

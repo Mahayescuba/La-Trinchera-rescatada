@@ -1,13 +1,11 @@
 ---
 title: "Sin anécdota, sin drama, sin historia, sin misterio, sin magia"
 date: "2019-11-17T15:31:32+00:00"
-author: ""
+author: "Giordan Rodríguez Milanés"
 category: "Cultura"
 image: "/wp-content/uploads/2019/11/capitolio-de-la-habana-VISTAR-2-1.jpg"
 ---
 500 aniversario de La Habana.
-
-**Por: Giordan Rodríguez Milanes**
 
 Parece que en Cuba nos detuvimos en el concepto de espectáculo que no pasa de unos cuantos números danzarios, música con apoyo coreográfico y poemas con carácter evocatorio. Todos de gran calidad como entes unitarios, de altísimos quilates interpretativos, pero sin hilvanar un argumento ni explícito ni implícito. Sin anécdota, sin drama, sin historia, sin misterio, sin magia.
 

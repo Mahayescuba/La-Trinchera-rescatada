@@ -1,13 +1,11 @@
 ---
 title: "Seguiré conversando frente a un micrófono"
 date: "2020-02-28T13:39:05+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
 image: ""
 ---
 Nota sobre el episodio 3 de _El Solar._ 
-
-**Por: Miguel Alejandro Hayes**
 
 Me demoré mucho. No me decidía.  
 Pero al fin me llené de valor y, micrófono en mano (más bien puesto sobre la gaveta de ropa interior), comencé a grabar este podcast. Era la primera vez que hacía uno yo solo (sin nadie detrás del equipo de grabación, sin otra persona conversando conmigo).  

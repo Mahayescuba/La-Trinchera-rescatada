@@ -1,7 +1,7 @@
 ---
 title: "Catolicismo e independencia (I)"
 date: "2018-10-16T17:05:12+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Historia"
 image: ""
 ---
@@ -11,7 +11,6 @@ Catolicismo e independencia en Cuba.
 
 Para ver la segunda parte de [Catolicismo e idependencia](/historia/)
 
-**Por: Julio Pernús**  
 La verdad suele alumbrar los parajes más recónditos de la vida, por lo que no avanzamos mucho si pretendemos enterrarla; de seguro, al final resucitará y seguirá marcando los destinos de nuestra historia. El año 1868 podía haber sido uno más dentro de la realidad colonial cubana, pero un aristócrata bayamés, Carlos Manuel de Céspedes y López del Castillo, decidió insuflar de amor su corazón y arengar a todo un pueblo a pelear por su libertad. Enorme gesto de valor, que lo incrustaría para siempre dentro de los anales del independentismo cubano y lo haría en lo adelante convertirse – luego de hacernos saber que Oscar no era su único hijo- en el “Padre de toda la Patria”. Con este ensayo intentaremos dar algunos elementos sustanciales del papel de la Iglesia católica dentro del proceso independentista cubano.  
 Como casi todo suceso histórico, la materialización del vínculo del catolicismo con el alzamiento de La Demajagua, debe ser comprendido de forma procesal. Ya que aquí hay bastantes historias por donde cortar. Aunque parezca bien lejano, nuestro recorrido se inicia en el año 1492, cuando la Iglesia católica llegó junto a los colonizadores a la tierra más hermosa vista por ojos humanos. Los primeros frailes que arribaron a Cuba tenían como misión lograr una fructífera evangelización de los habitantes nativos, considerados en aquel entonces, personas sin alma. La desaparición delosaborígenesyladestruccióndesuculturaoriginalenfaseprimitivadedesarrollo,nos remiten a una realidad muy compleja donde se hace notar el uso de la fuerza en pos de la imposición de una fe.  
 Los colonizadores explotaron sin piedad a las tribus que subsistían en nuestra Isla, por lo que fue ríspido sugerirles un acercamiento a la religión cristiana en medio de un exterminio masivo, en función de la búsqueda insaciable de riquezas. La defensa de los aborígenes encontró en Fray Bartolomé de las Casas , encomendero convertido por la predicación de los frailes dominicos, a una figura histórica relevante; él supo articular su accionar en favor de aquellos seres considerados casi como un instrumento más de trabajo. Esto es algo que siempre debe guiar un pensamiento reflexivo de la Historia, la comprensión de los hechos en su contexto. En esta etapa es innegable que hubo una instrumentalización forzosa de la evangelización como método coercitivo de apoyo al poder. Y que figuras como el fraile Montesinos o el propio las Casas, no eran mayoría dentro de los religiosos misioneros.  

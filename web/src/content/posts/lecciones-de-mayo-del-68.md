@@ -1,12 +1,10 @@
 ---
 title: "Lecciones de mayo del 68"
 date: "2018-05-18T13:30:54+00:00"
-author: ""
+author: "Ernest Mandel"
 category: "Política"
 image: ""
 ---
-Por: **Ernest Mandel**
-
 **Este artículo de Ernest Mandel fue publicado originalmente en la revista _Les Temps Modernes_ en julio de 1968 \[1\]. En él, después de situar las luchas de Mayo como resultado directo de las contradicciones de lo que entonces se conocía como “neocapitalismo”, pone el acento en su relevancia como acontecimiento que volvió a poner de actualidad la hipótesis revolucionaria en un país central del capitalismo occidental. Mandel fue un activista más de aquellas jornadas, habiendo participado en el acto público que se desarrolló en la Mutualité de París el 9 de mayo y en el que intervino también, junto a activistas de otros países, Daniel Cohn-Bendit. Al igual que le ocurrió a este líder estudiantil en pleno mes de mayo, Mandel fue expulsado de Francia el 10 de junio de aquel mismo año.**
 
 El ascenso revolucionario de mayo de 1968 constituye una enorme cantera de experiencias sociales. El inventario de estas experiencias está lejos de haber sido terminado: lo que caracterizó este ascenso fue precisamente la irrupción en la escena histórica de la energía creadora de las masas, que multiplicó las formas de acción, las iniciativas, las audaces innovaciones en la lucha por el socialismo. Tan sólo acudiendo a esta cantera y partiendo de este logro podrá el movimiento obrero y revolucionario armarse eficazmente para llevar a buen fin la tarea cuya posibilidad y, a la vez, cuya necesidad han sido confirmadas por mayo de 1968: la victoria de la revolución socialista en los países altamente industrializados de Europa occidental.

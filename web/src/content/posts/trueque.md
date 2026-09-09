@@ -1,15 +1,13 @@
 ---
 title: "¿Trueque?"
 date: "2020-06-20T22:51:00+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
 image: "/wp-content/uploads/2020/06/c7603ec2bdc6d1fbdda75d7a88c97855.jpg"
 ---
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/Uey1e5yFi08" allowfullscreen=""></iframe>
 
 <iframe allowfullscreen="" height="200" src="https://us.ivoox.com/es/player_ej_52803198_4_1.html?c1=ff6600"></iframe>
-
-**Por: Miguel Alejandro Hayes**
 
 Si de modernidad se trata, tanto para Marx como para Keynes, las ideas de una economía basada en el **_trueque_** carecen de sentido. Y es porque la satisfacción de necesidades a través del (inter)cambio en sociedad es mediada por el dinero. La cotidianidad del individuo exige tener un valor equivalente a lo que necesita en términos de dinero y no en términos de cualquier otra mercancía. Solo poseer lo segundo es, desde el punto de vista táctico, la antesala lógica de la conformación de relaciones dinerarias.
 

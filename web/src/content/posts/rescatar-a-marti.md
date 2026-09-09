@@ -1,12 +1,10 @@
 ---
 title: "Rescatando a Martí"
 date: ""
-author: ""
+author: "Alina B. López Hernández"
 category: ""
 image: ""
 ---
-Por: Alina B. López Hernández
-
 Al revisar la bibliografía sobre José Martí que se generó en los primeros años de la República, se aprecia que salvo el libro Contra el yanqui, de Julio Cesar Gandarilla, publicado en 1913, la faceta antimperialista del pensamiento martiano no tuvo marcada influencia. El criterio de publicación sobre el tema era más compilatorio que analítico.
 
 Según José A. Fernández de Castro, en las primeras décadas republicanas no se conocía casi nada sobre la labor política de Martí en el exilio. Excepción eran algunos libros y folletos de valor informativo publicados por Ángel Peláez y Enrique Collazo. Solo habían trascendido algunas de sus cartas y los trabajos realizados por Gonzalo de Quesada, Roque Garrigó y Néstor Carbonell, que publicaron lo que poseían del Apóstol e investigaban sobre su vida.

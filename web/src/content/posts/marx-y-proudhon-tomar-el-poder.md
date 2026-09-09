@@ -1,13 +1,11 @@
 ---
 title: "Marx+Proudhon(III)"
 date: "2018-10-05T11:05:52+00:00"
-author: ""
+author: "Oscar Herrero"
 category: "Marxismo"
 image: ""
 ---
 Relación de Marx y Proudhon.
-
-**Por: Oscar Herrero**
 
 El programa hacia adentro
 

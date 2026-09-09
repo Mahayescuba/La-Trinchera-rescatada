@@ -1,13 +1,11 @@
 ---
 title: "De Homo sapiens sapiens a Homo sapiens sentiens"
 date: "2020-05-08T23:15:50+00:00"
-author: "daniloeuser"
+author: "Danilo Euser"
 category: "Ciencia"
 image: ""
 ---
 Hay que vigilar con frecuencia el inicio de las emociones, notando además los cambios físicos o sensaciones que las acompañan.
-
-**Por: Danilo Euser**
 
 ## Somos seres emocionalmente racionales
 

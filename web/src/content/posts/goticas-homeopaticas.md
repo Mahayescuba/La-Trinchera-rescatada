@@ -1,13 +1,12 @@
 ---
 title: "Goticas homeopáticas"
 date: "2020-04-23T20:05:08+00:00"
-author: ""
+author: "Danilo Euser"
 category: "Política en Cuba"
 image: ""
 ---
 ## Homeopatía, efectividad real o un placebo colectivo
 
-**Por: Danilo Euser**  
 Por las dos primeras palabras del título, seguramente sabes ya de lo que a continuación hablaremos: de las gotas homeopáticas recomendadas y repartidas por las entidades de Salud Pública de Cuba (oficial) para el uso de la población.  
 ¿Para qué se están repartiendo estas gotas a la población? ¿En qué consisten? ¿Qué es la homeopatía? ¿Existe evidencia científica que la respalde? ¿Sus efectos son superiores al placebo? ¿Qué problemas puede conllevar su uso?  
 ¿Para qué se están repartiendo estas gotas a toda la población?  

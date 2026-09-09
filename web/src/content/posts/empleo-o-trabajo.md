@@ -1,13 +1,11 @@
 ---
 title: "Empleo o trabajo digno: ¿qué término utilizar?"
 date: "2018-12-15T16:38:34+00:00"
-author: ""
+author: "Alexandra Torres"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2018/12/Yanne-Kintgen.jpg"
 ---
 trabajo en Cuba.
-
-**Por: Alexandra Torres**
 
 No puedo dejar de iniciar expresando que lo que a continuación escribo ha sido formulado en otros espacios. Pero como un amigo siempre me recuerda el poder de las redes sociales me he aventurado a escribir -mi primera contribución- sobre este tema. Entiéndase que es una reflexión personal basada en el sentido común.  
 Por estos días el pueblo cubano se encuentra inmerso en un proceso de consulta popular de un [proyecto de constitución](http://www.parlamentocubano.cu/wp-content/uploads/Tabloide-Constituci%C3%B3n.pdf) -novedoso y necesario-. Mucho se ha debatido respecto a diversos artículos de dicho texto, haciéndose mayor énfasis en algunos temas que en otros. Pero en esta ocasión quiero hacer alusión a uno en particular, que se erige como fundamento político y económico de nuestro estado. (Artículos 1 y 31 del Proyecto).  

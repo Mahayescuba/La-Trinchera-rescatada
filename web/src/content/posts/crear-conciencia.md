@@ -1,15 +1,13 @@
 ---
 title: "Crear conciencia"
 date: "2020-05-26T20:01:44+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: ""
 ---
 El _reto_ del día de África sirvió para que, en medio del aislamiento muchos encontraran una razón para cambiar el aire e interactuar y disfrutar a través de las redes.
 
 ## Apuntes sobre el reto del _Día de África_
-
-**Por: Miguel Alejandro Hayes**
 
 El mito es inherente al pensamiento cotidiano. Y es que el sentido común no puede convivir mucho tiempo con generalidades abstractas, de ahí que necesite cosificarlas. Por eso es que, por mucha diversidad que exista en el marxismo, su mito se funda en el marxismo-leninismo; por mucho que Keynes haya rechazado el uso de los postulados neoclásicos esenciales, se seguirá entendiendo como keynesianismo a la _Síntesis_ [(1)](https://es.m.wikipedia.org/wiki/Modelo_IS-LM) de Hicks y Hansen; por mucho que la economía política intente plantear otra visión, en el imaginario popular cubano el socialismo seguirá siendo un sinónimo de salud y educación gratuitas (I).  
 Pero lo importante aquí no son los mitos teóricos o políticos.  

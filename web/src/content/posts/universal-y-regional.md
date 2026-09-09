@@ -1,13 +1,11 @@
 ---
 title: "Lo universal y lo regional"
 date: "2019-12-20T14:08:33+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo"
 image: ""
 ---
 universal y regional. 
-
-**Por: Miguel Alejandro Hayes**
 
 Este post ya se escribió, pero el mal empleo de la tecnología hizo que se perdiera. Sin la memoria capaz de recordar cada línea, cada idea, no quedó de otra que volverlo a redactar. Nunca será lo mismo, pero es igual.
 

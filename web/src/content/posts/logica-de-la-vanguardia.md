@@ -1,7 +1,7 @@
 ---
 title: "Los hombres que suben en los hombros de otros"
 date: "2019-03-29T13:28:40+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Marxismo"
 image: "/wp-content/uploads/2019/03/PicsArt_03-29-09.19.10.jpg"
 ---
@@ -11,7 +11,6 @@ Fotografía: Wendy Pérez Bereijo
 
 ### Peligros de la lógica de la vanguardia
 
-**Por: Miguel Alejandro Hayes**  
 Desde que comenzaron las revoluciones y grandes rebeliones del hombre en busca de la libertad, se ha enfrentado un grave problema: se está en peligro de que algunos que participan en la lucha se aprovechen de esto para hacer valer sus intereses en pro de su beneficio personal, llegando incluso a invertir todo lo revolucionario que pudo ser la causa inicial.
 
 Martí, precursor de la independencia cubana y defensor de la unidad latinoamericana, advirtió sobre tal riesgo. Pudo comprender que en el contexto de un capitalismo mundial, algunos sabrían elaborar un discurso conmovedor a los obreros. Así, sentenció de entre los peligros de las ideas socialistas, la de los hombres que se suben en los hombros de otros.

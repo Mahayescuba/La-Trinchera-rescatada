@@ -1,13 +1,11 @@
 ---
 title: "El DR 13 de marzo: un ejército de la libertad (I)"
 date: "2019-03-29T17:32:46+00:00"
-author: ""
+author: "Julio César Guanche"
 category: "Historia"
 image: ""
 ---
 DR 13 marzo.
-
-**Por: Julio César Guanche**
 
 El 29 de agosto de 1956 José Antonio Echeverría y Fidel Castro suscribieron en la capital azteca la llamada «Carta de México». Por vez primera en la historia cubana el presidente de una organización estudiantil, la Federación Estudiantil Universitaria (FEU), suscribía un pacto con el líder de una agrupación política, el Movimiento Revolucionario 26 de Julio (MR-26-7), para poner fin por las armas al régimen imperante en el país.
 

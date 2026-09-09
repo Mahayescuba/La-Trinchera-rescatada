@@ -1,13 +1,12 @@
 ---
 title: "El socialismo de ellos"
 date: "2019-01-25T16:24:27+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Recuérdese que el socialismo -la idea sobre este- es esa necesaria certeza de muchos cubanos.
 
-**Por: Miguel Alejandro Hayes**  
 El ser humano siempre busca a qué aferrarse, me comentó hace algún tiempo un destacado activista social cubano. Quise ignorar su planteamiento, con esa fe que tengo en la racionalidad humana. Lo cierto, es que la realidad le da cada vez más la razón a lo expresado por aquel hombre.  
 La gente se aferra a la música, a la poesía, al dinero, a la política, a otra persona, a Dios. Pero no era eso de lo que iba aquella afirmación tan importante. Se refería más bien a esa casi necesidad de muchos de inventarse, de buscarse algo en lo que creer ciegamente.  
 Ese algo que se busca suele ser el motivo de alivio -de certeza-, de esa certeza que todos necesitamos.

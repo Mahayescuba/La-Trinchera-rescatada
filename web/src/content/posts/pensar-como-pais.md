@@ -1,13 +1,11 @@
 ---
 title: "Una nueva categorización"
 date: "2019-09-03T16:28:00+00:00"
-author: ""
+author: "Giordan Rodríguez Milanés"
 category: "Política en Cuba"
 image: ""
 ---
 Pensar como país.
-
-**Por: Giordan Rodríguez Milanés**
 
 A las ya históricas categorizaciones polarizadas de “revolucionario-contrarrevolucionario”, “afecto-desafecto”, “crítico constructivo-crítico destructivo”, se comienza a sumar otra, que ya se va perfilando: “Los que pensamos como país-Los que no pensamos como país”.  
 Lo mismo que hasta ahora cualquier Diosecillo Ideopolítico, frente a cualquier tamaño de buró, se aroga la prerrogativa de decidir quién es revolucionario y quién no, ya van apareciendo los catalogadores de valores patrios.  

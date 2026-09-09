@@ -1,12 +1,10 @@
 ---
 title: "Las culpas de mi hermano el vago"
 date: ""
-author: ""
+author: "Maikel Pons Giralt"
 category: ""
 image: ""
 ---
-Por: Maikel Pons Giralt
-
 Nota: Este texto fue publicado por el autor en respuesta a artículo \*Con lupa para llegar abajo\*, publicado en el periódico Juventud Rebelde.
 
 Ahora el Estado es mi “papá” y no el sistema de instituciones que deben garantizarme bienestar, protección, derechos y deberes y buen servicio. Ahora yo no soy un hijo de Cuba, soy hijo del Estado cubano, y tengo que creerme que las ineficiencias macro estructurales y de ordenamiento del “Estado/papá” son culpa de algunos hermanos míos “vagos y extraviados”.

@@ -1,13 +1,11 @@
 ---
 title: "Mentira"
 date: "2019-05-26T19:52:02+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---
 mentira. 
-
-**Por: Pablo Dussac**
 
 Que tengo el verso obsoleto,  
 que lluevo sobre mojado,  

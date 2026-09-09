@@ -1,12 +1,10 @@
 ---
 title: "Nacido Villano"
 date: ""
-author: ""
+author: "Sender Escobar"
 category: ""
 image: ""
 ---
-Por: Sender Escobar
-
 Hace unas semanas en el programa televisivo "Espectador Crítico" -espacio cinematográfico de atractivas propuestas- conducido por la Dra. Martha Resik el largometraje proyectado fue "City Bomb", historia basada en hechos reales sobre el asesinato del joven músico punk Brian Deneke, víctima de la intolerancia sureña de los Estados Unidos.
 
 En el final de la película la cámara va haciendo una toma continua que muestra una habitación, presenta planos de una ciudad, vuelve a la casa. Continúa guiada por una voz singular que habla sobre la violencia y la impunidad, además de lo ocurrido en Amarillo, Texas, ciudad de los hechos. Al final la toma enfoca un televisor, para mi sorpresa, quien realizaba el comentario era uno de los artistas más populares en el mundo del rock a nivel mundial.  

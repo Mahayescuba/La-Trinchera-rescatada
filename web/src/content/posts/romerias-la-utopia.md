@@ -1,13 +1,12 @@
 ---
 title: "Romerías, la Utopía"
 date: "2020-05-20T17:14:25+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 ## Señales de un cambio del paradigma comunicativo católico en Cuba y el documental, “Romerías, la utopía”
 
-**Por: Julio Pernús**  
 En realidad siempre resulta complejo escribir sobre la obra de un amigo, pero he preferido hacerlo, antes de permitir que el tiempo abdujera los recuerdos del estrenado documental, “Romerías, la utopía”, de los directores Carlos Gómez y Manuel A. Rodríguez Yong.  
 No es mi interés hacer un examen a fondo sobre la calidad audiovisual de la obra, pues en su presentación nacional el 6 de mayo, durante el programa de la televisión cubana, “Cine de Nuestra América”, el presentador Frank Padrón hizo un análisis integral y acertado del material. Pero, sí quisiera detenerme en los rasgos católicos que posee la ópera prima del director Rodríguez Yong, joven comunicador católico y miembro de [SIGNIS Cuba](http://signisalc.org/carta/somos/asociadas-1/signis-cuba).  
 Desde hace algunos años me he interesado en escribir sobre la nueva realidad comunicativa que se viene asentando en el interior de la iglesia católica cubana. Cada vez es más común ver a comunicadores católicos ocupando roles protagónicos en el ecosistema de los medios masivos de comunicación en la Isla. Hoy, más que construir una pastoral de la comunicación especializada en comunicar ad-intra, orientada a los mismos católicos, el desafío es generar un discurso coherente, en medio de una sociedad que suele valorar la diversidad de voces.  

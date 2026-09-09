@@ -1,13 +1,11 @@
 ---
 title: "Pensé en Pepe"
 date: "2020-01-29T04:31:12+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Onírica"
 image: ""
 ---
 _A Martí, a Helmo_
-
-**Por: Miguel Alejandro Hayes**
 
 Pensé en Pepe.  
 ¿Cómo podía pasar el día sin hacerlo? ¿Quién soy yo para hoy no escribir sobre él? ¿O quién soy, tan arrítmico, asimétrico, disonante, amorfo, para hacerlo?  

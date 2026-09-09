@@ -1,7 +1,7 @@
 ---
 title: "Los boteros de La Habana. La lección que nos dejan."
 date: "2018-12-10T04:36:15+00:00"
-author: "Alejandra K."
+author: "Alejandra K"
 category: "Economía en Cuba"
 image: ""
 ---

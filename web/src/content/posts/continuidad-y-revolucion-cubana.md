@@ -1,7 +1,7 @@
 ---
 title: "La Revolución soy yo"
 date: "2018-03-19T21:06:42+00:00"
-author: "Alejandra K."
+author: "Alejandra K"
 category: "Opinión"
 image: ""
 ---

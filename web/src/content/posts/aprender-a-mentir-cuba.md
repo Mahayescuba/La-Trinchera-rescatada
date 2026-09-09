@@ -1,12 +1,10 @@
 ---
 title: "Aprender a mentir"
 date: ""
-author: ""
+author: "Julio Pernús"
 category: ""
 image: ""
 ---
-Por: Julio Pernús
-
 Una vez un sacerdote pidió a varios líderes de pastoral juvenil que alentáramos a nuestros amigos a permanecer y transformar la realidad eclesial, que lucía envejecida. En aquella época, cuatro años atrás, no supe bien cómo explicarle mi pensamiento; pero, al menos hoy me gustaría decirle que los jóvenes padecemos de asma crónica.
 
 \> Ojalá pudiese compartirles una forma de apagar nuestras penurias

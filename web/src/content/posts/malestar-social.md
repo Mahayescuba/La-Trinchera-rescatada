@@ -1,7 +1,7 @@
 ---
 title: "M a l e s t a r s o c i a l"
 date: "2019-07-06T18:39:16+00:00"
-author: ""
+author: "Rolando Jaime Malhue"
 category: "Teoría"
 image: ""
 ---
@@ -15,7 +15,6 @@ _“No es síntoma de buena salud estar adaptado a una sociedad profundamente en
 
 J. Krishnamurti
 
-**Por: Rolando Jaime Malhue**  
 Uno de los grandes problemas que acarrean nuestras sociedades actuales, ha sido el creciente sentimiento de malestar que las acompaña. Casi desde el mismo momento en que surge la modernidad, emerge la sociología como ciencia para estudiar precisamente el gran descontento de las masas, expresado en el gran revuelo e incertidumbre que significaron los procesos revolucionarios en Francia. Pensadores positivistas, como Auguste Comte y Saint-Simon, proponen contrarrestar el malestar mediante la creación de un sistema social orgánico y armónico, en el cual trabajador y empresario se dan la mano, colaborando juntos para lograr el preciado “estado de civilización”.  
 En tales sociedades, los tecnócratas, en tanto elite gobernante, deben reforzar constantemente el “espíritu de conjunto”, recordando —en una serie de rituales seculares— la importancia que cada individuo, sin importar su rol al interior del cuerpo social, cumple para el funcionamiento del todo. En estos rituales, las elites tecnocráticas deben autoplocamarse como “las más capaces” de gobernar, creando aquellos mitos fundadores de nuestras sociedades liberales actuales; la meritocracia como discurso justificativo de las jerarquías sociales y la tecnocracia como discurso legitimador basado en la eficacia y neutralidad de la ciencia para regir nuestros destinos. Pero poco duró el discurso; el malestar se fue expandiendo desde Francia en 1789 al resto de Europa en 1848. El positivismo comienza a perder terreno frente a la capacidad crítica de los ilustrados franceses. Las grandes masas empobrecidas exigen a las elites el cumplimiento de las proclamas ilustradas. Comenzó a gestarse entonces una brecha entre las expectativas sociales y lo que las recientes cúpulas gobernantes estaban efectivamente dispuestas a otorgar al resto de la sociedad.  
 A medida que la burguesía se establecía como nueva clase dirigente, las expectativas fueron apaciguadas de a poco por lo nuevos intelectuales liberales y su discurso del consumo como elemento integrador, junto a la ideología de “sumisión a la realidad dada” (resabio positivista). Pero desde ese momento fundador, ha quedado rugiendo bajo la civilización aquella utopía arrebata, la cual emerge cada tanto como fuerza social que desbarata el falso universalismo ahistórico oculto en los fundamentos de nuestras sociedades modernas; es el malestar social que aparece como fantasma que recorre el mundo, luego de cada crisis global del sistema económico.  

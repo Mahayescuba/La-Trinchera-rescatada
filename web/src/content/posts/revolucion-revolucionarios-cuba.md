@@ -1,13 +1,11 @@
 ---
 title: "De revolución y revolucionarios"
 date: "2019-05-18T20:37:56+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Opinión"
 image: ""
 ---
 Los _revolucionarios_ de mi generación no se alzan en montañas, no toman palacios, ni innovan en nada, ellos son continuidad, y cuestionar lo establecido -sin que se pregunten por quién o para qué- es herejía.
-
-**Por: Ernesto Gutiérrez Leyva**
 
 Mi generación necesita nuevas consignas, o al menos poder ser consecuente con las heredadas. Yo mismo crecí poniendo la mano en la frente con la exhausta “pioneros por el comunismo, seremos como el Che”, aunque honestamente, si a la altura de 25 años, no creo tener una noción clara de qué es comunismo, entonces ¿qué dejaremos para aquel niño holguinero, que creció con los apagones remanentes del _periodo especial_?
 

@@ -1,13 +1,11 @@
 ---
 title: "Ventas internas en divisas en Cuba"
 date: "2019-11-06T13:24:03+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
 image: ""
 ---
 #### Unas breves anotaciones
-
-**Por: Miguel Alejandro Hayes**
 
 Luego de leer [Ventas internas en divisas en Cuba](https://www.google.com/amp/s/elestadocomotal.com/2019/10/22/ventas-internas-en-divisas-en-cuba-el-efecto-gulliver/), de Pedro Monreal, me surgen algunos comentarios que comparto a continuación.  
 \*\*\*  

@@ -1,13 +1,11 @@
 ---
 title: "La Quadratura del círculo delmontino"
 date: "2019-01-30T05:25:09+00:00"
-author: ""
+author: "Mauricio Cifuentes Nodarse"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2019/01/196c5e9afda564ed23bb1264654f9875.jpg"
 ---
 Mauricio Cifuentes nos propone en La Trinchera una reflexión sobre el decreto 349
-
-**Por: Mauricio Cifuentes Nodarse**
 
 Me escribe mi antiguo vecino del Junquillo de Matanzas, desde Naples, Florida. Vecino, aquello está que arde con el 349. Quieren controlar la gozadera que tienen formada los reggaetoneros. Hay muchos millones en juego. Continúan los tres puntos suspensivos, en suspensión perpetua, sobre la ventana del Whatssap de mi amigo. Pero esto que cosa es ahora, me digo. Con los problemas tan acuciantes que asolan a los cubanos, en el día a día,
 

@@ -1,13 +1,11 @@
 ---
 title: "Sobre la cuestión del valor del arte"
 date: "2019-03-26T05:34:41+00:00"
-author: ""
+author: "Iramís Rosique Cárdenas"
 category: "Marxismo"
 image: ""
 ---
 Valor del arte.
-
-**Por: Iramís Rosique Cárdenas**
 
 Miguel, he leído [tu texto sobre el asunto](/marxismo/), y quisiera comentarte algunas cuestiones que me parecieron necesarias y ausentes.  
 Coincidimos en la comprensión de la naturaleza social del valor, naturaleza objetiva pero social indudablemente, que nada tiene que ver con la canción de los cronómetros. No obstante, debo hacer énfasis en la historicidad de esa categoría. Si no se parte entre otros de este presupuesto, poco se podrá entender sobre el “valor del arte”.  

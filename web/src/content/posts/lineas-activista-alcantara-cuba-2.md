@@ -1,13 +1,11 @@
 ---
 title: "Líneas sobre un activista"
 date: "2019-06-06T22:58:43+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Comenzando con la transparencia, aclaro que me refiero a Luis Manuel Otero Alcántara. Sí, a ese mismo.
-
-**Por: Miguel Alejandro Hayes**
 
 Como cada noche -cuando los datos me lo permiten- reviso mis redes sociales. Intento responder todos los comentarios a amigos, conocidos, o todo el que de una forma u otra interactúa.  
 Recorriendo publicaciones vi un denominador común: una serie de ¿ideas? de alguien que se mostraba poco respetuoso y agresivo. Decidí sumarme al debate, sin embargo, una vez más mis comentarios excedían el espacio que Facebook te permite usar para tal intercambio. Por tanto, los comparto así, en forma de post.  

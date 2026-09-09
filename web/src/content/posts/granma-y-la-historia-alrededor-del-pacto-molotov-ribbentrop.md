@@ -1,13 +1,11 @@
 ---
 title: "Granma y la historia alrededor del Tratado Molotov-Ribbentrop"
 date: "2020-06-15T00:15:51+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Historia"
 image: ""
 ---
 La realidad es que el pacto Molotov-Ribbentrop, pactado solo 8 días antes del ataque alemán a Polonia, provocó que la respuesta franco-británica se enlenteciera tras declarar la guerra, más allá de los naturales retrasos que implicaba la movilización general de ambos países
-
-**Por: José Gabriel Barrenechea**
 
 El órgano oficial del Partido Comunista de Cuba, Granma, publicó una de tergiversación de la historia. En _El_ _pacto_ _Molotov_–_Ribbentrop_, _una_ _luz_ _sobre_ _la_ _verdad_,  Raúl Antonio Capote miente y calla sin vergüenza para conseguir de alguna forma justificar aquel  pacto entre los líderes de la URSS y la Alemania nazi.
 

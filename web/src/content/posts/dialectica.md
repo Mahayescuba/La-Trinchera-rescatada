@@ -1,12 +1,10 @@
 ---
 title: "Dialéctica"
 date: "2020-08-18T09:30:00+00:00"
-author: ""
+author: "Almelio Calderón Fornaris"
 category: "Onírica"
 image: ""
 ---
 Dialéctica.
-
-**Por: Almelio Calderón Fornaris**
 
 Los que quieran saber la historia que sepan la historia. Los que quieran aprender a saltar que aprendan de saltos. Los que quieran decir que su corazón es de arena que lo digan. Los que quieran decir como Anaximandro que el hombre nació de un pez cuidado con los pescadores—.  que quieran saber la historia que sepan la historia. Los que quieran aprender a saltar que aprendan de saltos.  que quieran decir que su corazón es de arena que lo digan. Los que quieran decir como Anaximandro que el hombre nació de un pez cuidado con los pescadores—. que quieran saber la historia que sepan la historia. Los que quieran aprender a saltar que aprendan de saltos.  que quieran decir que su corazón es de arena que lo digan. Los que quieran decir como Anaximandro que el hombre nació de un pez cuidado con los pescadores—. dialéctica dialéctica

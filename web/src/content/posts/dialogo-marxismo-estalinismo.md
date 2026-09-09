@@ -1,13 +1,11 @@
 ---
 title: "Para no hablar con la pared"
 date: ""
-author: ""
+author: "Miguel Alejandro Hayes"
 category: ""
 image: ""
 ---
 Algunas notas breves sobre un diálogo marxista con el estalinismo
-
-Por: Miguel Alejandro Hayes
 
 La ciencia, como todo aquello que puede ser pensado por el hombre, está sujeta un sinnúmero de lecturas, enfoques, interpretaciones. Aquí, solo me referiré a dos de ellos: la ciencia respecto a sí misma, y respecto a la sociedad. Desde ahí, pueden esbozarse algunas ideas sobre el estalinismo.
 

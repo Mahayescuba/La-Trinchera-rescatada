@@ -1,13 +1,11 @@
 ---
 title: "La leyenda de “Pepe Ginebra”"
 date: "2019-08-29T04:53:50+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Cultura"
 image: ""
 ---
 Pepe Ginebra.
-
-**Por: Sender Escobar**
 
 Recientemente, en el concurso [Adolfo Guzmán](http://www.tvcubana.icrt.cu/seccion-eventos/4424-alzar-la-voz-con-el-guzman-2019), el joven _Dúo Iris_ presento una canción hermosa y sugerente llamada _Haciendo Fe,_ dedicada a José Martí. Sin dudas el poder de la música tiene la capacidad de remover estados de ánimos, desde hacernos reír, conmovernos o reflexionar como es el caso de esta canción.  
 Pero un arte tan flexible como la música también puede ser objeto de manipulaciones con cualquier fin, ya sea de parodia, mensajes políticos o composiciones -si es correcto usar este término- absurdas. En este último caso, recuerdo la anécdota de una profesora de mi universidad, alumna de Ana Cairo Ballester, que en una clase sobre el Apóstol pidió ejemplos musicales sobre él. Uno de los estudiantes comenzó a marcar clave cubana con las manos y la letra de la canción era algo así -apelo a la memoria:  

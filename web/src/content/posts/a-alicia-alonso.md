@@ -1,13 +1,11 @@
 ---
 title: "Para ella…"
 date: "2019-10-20T13:39:41+00:00"
-author: ""
+author: "Ernesto Gutiérrez Leyva"
 category: "Cultura"
 image: ""
 ---
 Alicia Alonso. 
-
-**Por: Ernesto Gutiérrez Leyva**
 
 Las banderas subieron, alcanzaron el tope de las astas como de costumbre, el bullicio habitual se mantuvo, pero algo había cambiado. El pasado jueves el lago principal de la ciudad amaneció diferente: la tristeza se había apoderado de él, y no es para menos, el más hermoso de sus cisnes no estaba. Dicen quienes lo vieron, que en la mañana repentinamente había desplegado sus alas y había partido.
 

@@ -1,13 +1,11 @@
 ---
 title: "Solo el respeto a su derecho de expresión"
 date: "2020-03-09T19:32:03+00:00"
-author: ""
+author: "Sender Escobar"
 category: "Política en Cuba"
 image: ""
 ---
 Luis Manuel Otero Alcántara.
-
-**Por: Sender Escobar**
 
 Con el permiso de René Francisco Rodríguez, me voy a meter en un tema espinoso, pero al fin y al cabo es mi criterio. Si Luis Manuel Otero Alcántara es artista, yo soy John Williams o Steven Spielberg.  
 Pondría mejor en la categoría de artista callejero cubanos a Happy Zombie o 2+2=5?, o el que pinta los bichos en paredes de ruinas donde la realidad y las contradicciones de la sociedad de nuestro país se aprecia desde las diferentes panorámicas que se ven cuando un _grafiti_ o un mural en una pared habla más claro y conciso que el propio NTV.

@@ -1,13 +1,11 @@
 ---
 title: "Los ecos de Heráclito y Aristóteles en la dialéctica de El Capital de Marx"
 date: "2018-06-27T13:50:47+00:00"
-author: ""
+author: "Néstor Kohan"
 category: "Teoría"
 image: ""
 ---
 ## Nota de La trinchera : Hace unos días se publicó en [Rebelión](http://rebelion.org/noticia.php?id=243388) un artículo donde se cuestiona la dialéctica como método. Por suerte, algunos no pensamos igual.
-
-**Por: Néstor Kohan**
 
 **El fantasma insepulto de la dialéctica**  
 

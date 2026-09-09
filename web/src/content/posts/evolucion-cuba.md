@@ -1,13 +1,11 @@
 ---
 title: "La transversalidad de la evolución"
 date: "2019-08-04T11:55:50+00:00"
-author: ""
+author: "Pablo Antonio González López"
 category: "Política en Cuba"
 image: ""
 ---
 Evolución.
-
-**Por: Pablo Antonio González López**
 
 ¿Cuándo fue la última vez que oí a alguien decir que Cuba necesita una democracia? ¿Cuándo fue la última vez que oí a alguien preguntar cuándo podremos los cubanos elegir nuestro sistema político? ¿Cuándo fue la última vez que oí una solución acompañada de sus consecuencias?  
 A ninguna de estas preguntas les tengo una respuesta. Cada vez escucho ideas menos razonables para soslayar defectos incorregibles. Es como tener un lomo de cerdo muy mal cocinado y, en vez de decir cómo cocinarlo bien, cocinas otra cosa y no comes lomo de cerdo más nunca en la vida por la irreconocible u omitida razón de que lo estás haciendo mal.

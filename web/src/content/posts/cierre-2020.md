@@ -1,13 +1,11 @@
 ---
 title: "Que venga, ¡qué lo estoy esperando!"
 date: "2020-01-01T04:17:11+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Opinión"
 image: ""
 ---
 2019.
-
-**Por: Miguel Alejandro Hayes**
 
 El 2019 me dejó algunas cosas.  
 Por primera vez: asistí a una marcha que se realizó sin autorización, pedí disculpas por no ir a otra, falté a un 1ro de mayo, me dejaron de publicar por ser malo escribiendo, me enamoré de una mujer más de lo que esperaba, participé en un podcast, bloqueé a alguien, dije malas palabras varias veces en redes sociales, estuve más de una hora hablando sin decir yo, Marx o Hegel.  

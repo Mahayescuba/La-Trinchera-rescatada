@@ -1,13 +1,11 @@
 ---
 title: "¿Es la burocracia cubana una verdadera burocracia?"
 date: "2019-09-09T15:37:44+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
 image: ""
 ---
 Burocracia cubana.
-
-**Por: José Gabriel Barrenechea**
 
 Lo que al presente llamamos burocracia en Cuba, o sea, el cuadro administrativo del gobierno, es en primerísimo lugar cualquier cosa menos impersonal. De hecho en la Cuba de Fidel, de Raúl, y quizás ahora con mayor razón bajo Díaz-Canel, algunos tenemos un sobrenombre muy particular para el tipo de sociedad que definen las relaciones personales preferidas por su cuadro administrativo: Sociolismo, el socialismo de los compadres, en que los cargos no son asignados por las competencias individuales, sino por la incondicionalidad hacia el _Panteón Revolucionario,_ y por las relaciones personales de los pretendientes.  
 Unos cargos que por demás no tienen una remuneración efectiva estable, sino que dependen por sobre todo de lo que se pueda “resolver” por quien los ocupa. Ya que aunque absolutamente todos los burócratas cubanos cobran un sueldo mensual, la realidad es que con el mismo no pueden atender a las necesidades básicas de sus familias incluso ni durante una semana del mes. Lo que los obliga a echar mano de otras vías poco éticas para conseguirlo. Y aclaramos que al hablar de lo que se pueda “resolver” no nos referimos solo a lo que se obtenga a resultas del cargo que se ocupa en cuestión, sino y sobre todo del complejo entramado de relaciones de compadreo que en definitiva conforman la verdadera estructura de la “burocracia cubana”, y que la definen como “cuadro administrativo socialista”.  

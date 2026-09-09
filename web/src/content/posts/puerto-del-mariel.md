@@ -7,8 +7,6 @@ image: ""
 ---
 Van a hacer cuarenta años de los hechos del puerto del Mariel que desencadenaron una tormenta en el estrecho de la Florida.
 
-**Por: Jorge Fernández Era**
-
 Van a ser cuarenta años. El hecho que desencadenó la tormenta en el [estrecho de la Florida](https://es.wikipedia.org/wiki/Estrecho_de_Florida) ha quedado relegado al olvido. La casa donde estuvo la Embajada de Perú, la que albergó en pocos días a más de diez mil cubanos, fue borrada del mapa por _urgencias turísticas_, y al joven soldado primera víctima ya ni se le menciona.  
 Pero la historia es terca, nuestros hijos y nietos nos preguntan. Al mío tendré que contarle que el joven de 17 años que fui en abril y mayo del 80 participó como el que más en aquella histeria colectiva que nos llevó a renegar de miles de compatriotas que optaron no seguir en la pelea por una sociedad de los humildes y para los humildes.  
 Humildemente tendré que confesarle que no hice nada por impedirlo. Los que desfilaban conmigo en las marchas del pueblo combatiente, y yo mismo, proferimos insultos a mi primo Toni y a todos los que como él se refugiaron en la casona de 5ta. Avenida y 72. No hice nada por miedo, y sobre todo porque abrigaba la convicción de que era lo correcto, así me habían formado.  

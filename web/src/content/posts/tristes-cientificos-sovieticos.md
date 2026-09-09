@@ -1,13 +1,11 @@
 ---
 title: "Los tristes científicos soviéticos"
 date: "2018-09-26T11:13:42+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Onírica"
 image: ""
 ---
 Los tristes científicos soviéticos, los de las ciencias sociales, tuvieron que escribir para validar un discurso político.
-
-**Por: Miguel Alejandro Hayes**
 
 No pretendo hacer un texto científico. Tampoco sé si lo que escribo es real o no; aunque puede ser el intento fallido de crear algo cursi.  
 No pude resistirme: fui atacado por los cromos de una imagen que me recordaba a ese campo socialista; el que tanto odio y amo; el que tanto critico por no haber sido lo que se soñó.  

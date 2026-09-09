@@ -1,13 +1,11 @@
 ---
 title: "Persona incómoda para los designios imperialistas"
 date: "2020-08-04T22:46:18+00:00"
-author: ""
+author: "Adriana Fonte"
 category: "Historia"
 image: ""
 ---
 Calixto García. 
-
-**Por: Adriana Fonte**
 
 El 4 de agosto de 1839 nace en Holguín, el General de las tres guerras, Calixto García.
 

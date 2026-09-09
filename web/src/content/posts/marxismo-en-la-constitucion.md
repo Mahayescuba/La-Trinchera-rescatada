@@ -1,15 +1,13 @@
 ---
 title: "No ver el bosque"
 date: "2019-03-06T06:09:28+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---
 Marxismo y leninismo.
 
 #### A propósito de la separación del marxismo y el leninismo en la Constitución
-
-**Por: Miguel Alejandro Hayes**
 
 Recibí con beneplácito la separación del marxismo y del leninismo en el texto constitucional. Reconozco el carácter bienintencionado y el logro que representa esa modificación, pero sin dejarme llevar por la euforia, me pregunto si esto es un paso significativo para la salida del dogma.  
 Asumamos el hecho de que el marxismo es muy variado, por lo que si se menciona en la Constitución, debe ser con el mayor espíritu inclusivo, lo que implica reconocer como marxistas a corrientes distintas del leninismo. Se harían formalmente válidas otras tendencias que incluirían al freudomarxismo, al analítico, y hasta otros que pueden ser políticamente polémicos como el marxismo-libertario, o el luxemburguismo -que fue muy crítico con el capitalismo de estado que planteaba Lenin-.

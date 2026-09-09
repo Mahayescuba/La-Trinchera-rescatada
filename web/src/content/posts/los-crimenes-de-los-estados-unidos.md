@@ -1,15 +1,13 @@
 ---
 title: "Los crímenes de Estados Unidos"
 date: "2018-08-07T12:00:19+00:00"
-author: ""
+author: "Atilio Borón"
 category: "Noticias"
 image: ""
 ---
 Juntos también redactamos una Declaración Mundial Contra los Crímenes Estadounidenses a la Humanidad, en donde expresamos una condena colectiva…
 
 ## Convocatoria a una jornada internacional
-
-**Por: Atilio Borón**
 
 Cuando el mundo se escandalizó durante las décadas de 1960 y 70 ante la sangrienta guerra de Vietnam muchos intelectuales, artistas, escritores y políticos comenzaron una campaña de concientización internacional sobre lo que significaba ese conflicto. Vietnam era un ejemplo –recordar otros como Argelia, el África Subsahariana– de que los países occidentales no habían abandonado su vocación colonialista, lesiva de la autodeterminación de los pueblos, y que Washington estaba preparado para asumir su hegemonía internacional a cualquier precio, contando para ello con la colaboración de las viejas potencias coloniales.
 

@@ -7,8 +7,6 @@ image: ""
 ---
 ## Reflexión sobre las amenazas esgrimidas en redes sociales, sobre algunos sacerdotes cubanos  
 
-**Por: Julio Pernús**
-
 _Tengo miedo_ no es solo una frase manida atribuida al intelectual católico Virgilio Piñera, más bien parece ser la norma que desean instalar en la mente de sus contrarios,   grupos extremistas vinculados con agendas políticas de las dos orillas. Solo así se puede justificar las amenazas hasta de muerte, recibidas por parte de personas que se han expresado con libertad contrario al discurso hegemónico tanto de un lado como de otro.
 
  Los defensores del _[otaolianismo](https://es.wikipedia.org/wiki/Vena_yugular)_ (farandulerismo político), han ido a por la vena yugular de cualquiera que se posicione del lado izquierdo de la marea, son personas a las que el centro les parece una mala palabra y son intransigentes con la “x-distancia”, han hecho diana hasta contra un obispo de nuestro país. Mientras que los ciber-agentes (identificados popularmente como ciberclarias), han sido capaces de amenazar con consecuencias “imperecederas” al P. Alberto y otros sacerdotes que han alzado su voz para denunciar realidades que deben doler a todos en la Nación.

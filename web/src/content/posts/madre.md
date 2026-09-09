@@ -1,13 +1,11 @@
 ---
 title: "Madre"
 date: "2020-05-10T09:30:53+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Opinión"
 image: ""
 ---
 Tú, madre, sabes bien lo que significa permitir a un animal incontrolable como el _[periodo especial](/opinion/)_, morder tu propio estómago para evitar que fuera tras el de tus tres hijos.
-
-**Por: Julio Pernús**
 
 Para volverme loco en medio de este aislamiento social siento que no me falta mucho. Pero a punto de caer mi mente en la inmovilidad fruto de un coctel que combina ansiedad y escasez, me atrevo a enfrentar el temor o pena que me acompaña desde siempre para expresar lo que siento por gente cercana, para decirte, _vieja_, que agradezco tanto que me hayas ayudado a caminar descalzo por la vida, sin permitir que el mal con sus puntas o esquinas filosas rompiera mis sueños.  
 Hoy, con tres décadas, soy más consciente de que vale más tu salud y alegría que todos los títulos o artículos que pueda escribir o ganar. Muchas veces tuviste que soplarme esas verdades que se convirtieron en llamas quemando mi vida. Pero luego, a pesar de ser un hijo muy cabezón, cuando todo me salía mal, enjuagabas mis lágrimas y me armabas con tu amor silencioso de madre, con una armadura especial para que las caídas me dolieran menos.  

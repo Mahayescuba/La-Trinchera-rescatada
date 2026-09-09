@@ -1,13 +1,12 @@
 ---
 title: "Democratización"
 date: "2019-12-12T05:08:36+00:00"
-author: ""
+author: "Diego Conno"
 category: "Teoría"
 image: ""
 ---
 Apuntes para una teoría de la democracia popular (II).
 
-**Por:Diego Conno**  
 1\. ¿Qué es un pueblo? Pueblo es el nombre de uno de los modos de la subjetivación política, especialmente de la política democrática. Diremos, a su vez, que “lo popular” es, al mismo tiempo, un adjetivo y un sustantivo. Un adjetivo en el sentido que adjetiva, califica o caracteriza una forma de Estado o de gobierno. Es decir, que le da forma al Estado o al gobierno en la medida que orienta o establece la forma y sus fines u objetivos. Un sustantivo porque el carácter popular de un gobierno depende de quienes lleven adelante sus políticas y de a quiénes van dirigidas o a quiénes benefician. Ahora bien: esto nos lleva a una segunda cuestión ¿Quién es el pueblo de un gobierno popular?  
 Como sabemos, el concepto de pueblo es portador de una cierta ambigüedad. Pueblo designa muchas cosas a la vez. Por un lado, la palabra pueblo nombra una parte de la sociedad, la plebe, los pobres, la parte baja. En efecto, esta idea del pueblo como parte recorre la historia de nuestra tradición de pensamiento político que va de Platón a Maquiavelo. Consideremos la teoría política platónica sobre el mejor régimen. Para Platón el pueblo lo constituyen los trabajadores, artesanos, comerciantes, es decir, aquellos en los que, según Platón, prima la parte más baja del alma, la concupiscencia o el deseo de satisfacer necesidades básicas, y cuya virtud es la templanza o moderación de los apetitos. Sabemos que para Platón un gobierno del pueblo era una mala forma de gobierno, porque implicaba el gobierno de cualquiera. Aristóteles también concibe al pueblo como una parte -los pobres o libres- y a la democracia como el gobierno de esa parte que en general son los muchos. Pero también para Aristóteles la democracia era una forma mala o desviada de gobierno porque implicaba el gobierno de una parte para el bien de esa misma parte y no de todos.  
 Esta idea del pueblo como parte, decía, llega al menos hasta el renacimiento con Maquiavelo. Consideremos ahora a Maquiavelo: el pueblo es una de las dos partes, humores o deseos, en que se divide toda ciudad: los grandes desean dominar, el pueblo desea no ser dominado y ser libre. Lo interesante de Maquiavelo, para una reflexión como la que a nosotros aquí nos interesa, es que el pueblo no es tanto una entidad reconocible, una identidad o un grupo social delimitado. El pueblo no es una categoría sociológica sino más bien política. El pueblo es el nombre de un deseo: “deseo de no ser dominado y ser libre”. En un pasaje esencial de su obra sobre El Príncipe, se lee: “los grandes desean tener, el pueblo desea ser”.  

@@ -1,13 +1,11 @@
 ---
 title: "Una insuperada hazaña… mal recordada"
 date: "2019-05-24T05:55:59+00:00"
-author: ""
+author: "José Gabriel Barrenechea"
 category: "Historia"
 image: ""
 ---
 hazañas de Cuba.
-
-**Por: José Gabriel Barrenechea**
 
 A ratos, aunque en verdad ya no tanto como hace treinta o cuarenta años, se escucha en nuestros medios, círculos académicos y hasta controversias de barrio, ensalzar una y otra vez a la guerra de Indochina, a finales de los sesentas y comienzos de los setentas del pasado siglo, como la más desigual de todos los tiempos. Que esto se diga en el resto de Latinoamérica no nos causa asombro. A fin de cuentas allí las guerras más desiguales contra potencias extranjeras nunca excedieron la relación de tres a uno, y en cuanto a lo técnico, ejércitos libertadores los hubo mejor armados que los que la decrépita, ocupada ella misma España por los ejércitos napoleónicos, pudo ponerles enfrente. Pero que semejante opinión se vierta en Cuba no puede más que descorazonarnos. ¿Es que acaso olvidamos nuestra Historia, en específico nuestra Guerra de los Treinta Años (como acertadamente la llamaba Don Fernando Ortiz), con la que nos sacudimos de encima la dominación colonial española que nos ahogaba económica, política y socialmente?  
 “Vino el Remington y junto con el Remington la ofensiva; se acabaron los indios y se conquistó el Desierto”, así escribía el general Ignacio Fotheringham en su _La vida de un soldado_, refiriéndose a la vital importancia que tuvo para la conformación territorial definitiva de la República Argentina aquel arma, que permitió finalmente enfrentar con éxito las cargas de caballería de los bravos aborígenes araucanos. Pues bien, a solo dos años de su salida al mercado ese mismo fusil remington 1867, de tiro central, fue masivamente enviado a la isla de Cuba en 1869, dándose el caso de que en la propia España, donde el gobierno debía enfrentar una guerra, la segunda carlista, y numerosos y diarios pronunciamientos, sus unidades siguieron usando el ya obsoleto fusil de avancarga hasta bien entrada la década de los setentas.  

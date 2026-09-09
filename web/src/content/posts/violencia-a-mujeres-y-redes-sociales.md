@@ -1,15 +1,13 @@
 ---
 title: "Haz lo que yo digo, no lo que yo hago"
 date: "2020-09-17T22:54:38+00:00"
-author: ""
+author: "Alexei Padilla Herrera"
 category: "Política en Cuba"
 image: ""
 ---
 Violencia a mujeres y redes sociales
 
 ## Comentario sobre el artículo _Violencias y silencios contra Cuba en las redes_
-
-**Por: Alexei Padilla Herrera**
 
 Es cierto que pocas personas somos capaces de condenar la injusticia contra cualquier ser humano sin importar género, color de la piel, ideología, preferencias políticas ni religión. Yo sí creo ser uno de ellos, pues pienso que hay principios y valores que trascienden las ideologías.
 

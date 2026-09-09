@@ -1,13 +1,11 @@
 ---
 title: "¿Por qué se van?"
 date: "2019-01-14T06:09:18+00:00"
-author: ""
+author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
 ¿Por qué se van tantos cubanos?
-
-**Por: Julio Pernús**
 
 “¿Por qué se van tantos cubanos?” Esa pregunta siempre me resulta radioactiva, sobre todo, por el dolor de las familias tras cada partida. No tengo una respuesta precisa, porque padezco el mismo daño antropológico que una buena parte de mi generación:
 

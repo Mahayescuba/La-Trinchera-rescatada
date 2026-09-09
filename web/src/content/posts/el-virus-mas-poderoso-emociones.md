@@ -1,13 +1,11 @@
 ---
 title: "El virus más poderoso"
 date: "2020-06-15T20:00:50+00:00"
-author: ""
+author: "Danilo Euser"
 category: "Ciencia"
 image: ""
 ---
 Contagiarse de las emociones más alegres y jubilosas de otros o caer rendidos ante un carrusel infinito de carcajadas es algo satisfactorio y positivo.
-
-**Por Danilo Euser**
 
 Los [virus](https://es.wikipedia.org/wiki/Virus) son para la medicina como los psicópatas para la criminología. El conocimiento profundo sobre ellos no ha empezado a salir a luz hasta hace muy poco tiempo, con los consecuentes problemas de este desconocimiento. Estos _entes_ tienen características bastante especiales. Se sabe que no son seres vivos como tal, pero que se comportan de una forma muy peculiar para no serlo. A pesar de no estar vivos, tienen una gran influencia sobre los que sí lo están, marcando muchas veces el destino de los mismos, y haciéndolos una extraordinaria vía para expandir y perpetuar sus mensajes encriptados biológicamente.
 

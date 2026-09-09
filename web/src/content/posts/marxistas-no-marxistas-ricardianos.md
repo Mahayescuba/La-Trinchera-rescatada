@@ -1,13 +1,12 @@
 ---
 title: "Marxistas y no marxistas, ¿ricardianos?"
 date: "2019-12-10T14:38:02+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: ""
 ---
 marxismo.
 
-**Por: Miguel Alejandro Hayes**  
 Uno de los mayores retos para las ideas es el de ser entendidas de acuerdo al momento y al lugar en que fueron pensadas; más aún, cuando están expuestas, organizadas y estructuradas en sistemas de compleja elaboración.  
 Tal es el caso de las ideas de Marx plasmadas en el _Capital_.
 

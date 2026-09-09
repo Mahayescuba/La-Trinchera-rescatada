@@ -1,13 +1,11 @@
 ---
 title: "Marx+Proudhon (X)"
 date: "2019-01-06T04:06:46+00:00"
-author: ""
+author: "Oscar Herrero"
 category: "Marxismo"
 image: ""
 ---
 Marx y Proudhon.
-
-**Por: Oscar Herrero**
 
 **Las Sociedades secretas**  
 ¿Qué aporta el desarrollo teórico de Marx? Un programa. Un programa que por sus fundamentos es un programa universal, y basado en una interpretación de la historia, que como en toda interpretación no es única ni definitiva.

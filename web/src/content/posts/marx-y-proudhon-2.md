@@ -1,15 +1,13 @@
 ---
 title: "Marx+Proudhon (IX)"
 date: "2018-12-15T16:43:56+00:00"
-author: ""
+author: "Oscar Herrero"
 category: "Marxismo"
 image: ""
 ---
 Marx y Proudhon.
 
 **La Comuna. Dos**  **enfoques**  
-
-**Por: Oscar Herrero**
 
 La [AIT](https://es.wikipedia.org/wiki/Primera_Internacional) fundada en 1864 fue la expresión de las distintas corrientes socialistas de Europa. Marx y Engels formaron parte del Consejo General, una suerte de Comité Central, fueron consensuando distintos documentos, a lo largo de su trayecto, donde se fueron plasmando diferencias teóricas en cuanto a las formas de ‘la abolición de clases’, donde se iban estableciendo acuerdos sobre las cuestiones inmediatas, dejando abiertas las perspectivas estratégicas, sobre el estado y la propiedad privada, Así, por ejemplo, en el Congreso de Basilea (septiembre 1869) en el debate sobre la derogación del derecho de herencia, aparecieron las diferencias entre los partidarios de Bakunin y los de Marx. Los primeros plantearon abolir ‘de inmediato’, sin esperar ‘la extinción’ de la propiedad privada en su conjunto, mientras que los marxistas se inclinaron por el voto de dos medidas de transición: la extensión de los impuestos sobre las herencias y la limitación del derecho de testar. Medida que fue rechazada por el Congreso, sin que la otra moción alcanzase los votos para ser aprobada. Esta relación de fuerza fue guiando la acción cotidiana. 
 

@@ -1,13 +1,11 @@
 ---
 title: "Las nuevas refinerías"
 date: "2020-05-16T19:31:11+00:00"
-author: ""
+author: "Alberto Segundo"
 category: "Onírica"
 image: ""
 ---
 Rápidamente las compañías petroleras se fueron a pique, y surgieron las nuevas refinerías.
-
-**Por: Alberto Segundo**
 
 “Aquel día en que la doctora Lianet descubrió la existencia de la nueva bacteria E. Menstri, en el [meteorito](http://www.cubadebate.cu/noticias/2019/02/01/reportan-fuerte-explosion-en-pinar-del-rio-debido-a-caida-de-meteorito/) que cayó en Pinar del Rio en 2019, seguramente no pensó el cambio que traería a la economía mundial. No fue hasta el día en que “accidentalmente” lanzó una íntima usada al cesto de los reactivos, en los que se encontraba una placa con el cultivo de esta bacteria. ¿Cuál no sería su sorpresa cuando…”  
 \-Pss, niña. ¡Niña!  

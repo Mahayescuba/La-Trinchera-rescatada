@@ -1,13 +1,11 @@
 ---
 title: "Marx y los regímenes socialistas(I)"
 date: "2018-08-03T15:24:29+00:00"
-author: ""
+author: "Manuel Acuña Asenjo"
 category: "Marxismo"
 image: ""
 ---
 Regímenes socialistas.
-
-**Por: Manuel Acuña Asenjo**
 
 En nuestro trabajo Marx y la Economía’, de junio recién pasado, refiriéndonos a las fallidas experiencias de intentar la aplicación de presuntos principios marxistas a diferentes experiencias sociales, empleamos la palabra ‘fracaso’. El uso de ese vocablo no fue casual: queríamos dar a entender que los objetivos perseguidos por quienes realizaron tales intentos (raras veces especificados) se habían malogrado, circunstancia imposible de negar, por más explicaciones que, al respecto, quisieran entregarse: eran, a no dudarlo, experiencias fallidas, realidad imposible de soslayar. Porque fracasa todo quien emprende una tarea que se malogra.
 

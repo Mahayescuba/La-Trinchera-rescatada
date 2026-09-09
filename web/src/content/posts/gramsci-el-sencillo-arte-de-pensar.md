@@ -1,13 +1,11 @@
 ---
 title: "Gramsci: el sencillo arte de pensar"
 date: "2019-03-05T06:28:24+00:00"
-author: ""
+author: "María del Pilar Díaz Castañón"
 category: "Marxismo"
 image: ""
 ---
 Gramsci.
-
-**Por: María del Pilar Díaz Castañón**
 
 > _Hay que observar que a menudo se tiende a confundir lo que “no hace época” con lo que tiene corta duración “en el tiempo”: se puede durar de una manera prolongada sin “hacer época”._  
 > Antonio Gramsci

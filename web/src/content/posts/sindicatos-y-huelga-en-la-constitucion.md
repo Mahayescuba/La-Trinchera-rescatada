@@ -1,13 +1,11 @@
 ---
 title: "Los sindicatos y las huelga en la Nueva Constitución Cubana"
 date: "2018-10-30T13:53:22+00:00"
-author: ""
+author: "René Portuondo"
 category: "Política en Cuba"
 image: ""
 ---
 Huelgas y sindicatos en Cuba.
-
-**Por: Rene Portuondo**
 
 Ya van quedado solo unos pocos días para que concluyan en los barrios, centros de trabajos y de estudio de toda Cuba la discusión del [proyecto de reforma constitucional](http://www.granma.cu/cuba/2018-07-22/aprobado-proyecto-de-reforma-constitucional). Es normal escuchar en diferentes espacios públicos o en conversaciones privadas comentarios sobre los temas más candentes que han salido a debate: el artículo 68 sobre el matrimonio igualitario, el reclamo sobre la elección directa de algunos cargos administrativos del gobierno, el discutido asunto de la propiedad entre otros. Aun así, si bien cada tema que se discute tiene su relevancia, dos puntos de gran importancia han quedado in-visibilizados y fuera del debate en forma general: los sindicatos y el derecho a la huelga.  
 Parecería que en un estado de trabajadores (ahora de derecho según los cambios que introduce el nuevo texto), dos elementos tan ligados a las luchas obreras serían tomados en cuenta, o al menos debería tener alguna alusión a nivel constitucional. Pero no, las palabras sindicato y huelga ni tan siquiera aparece en el nuevo texto, al igual que no aparecieron en el presente.  

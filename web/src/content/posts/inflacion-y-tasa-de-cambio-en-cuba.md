@@ -1,15 +1,13 @@
 ---
 title: "El contexto importa"
 date: "2020-09-10T16:00:00+00:00"
-author: ""
+author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
 image: ""
 ---
 Inflación y tasa de cambio en Cuba.
 
 #### _¿Inflación o aumento productivo con una nueva tasa de cambio?_
-
-**Por: Miguel Alejandro Hayes**
 
 ### **La teoría cuantitativa del dinero**
 

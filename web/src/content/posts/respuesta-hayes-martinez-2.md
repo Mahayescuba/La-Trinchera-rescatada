@@ -1,12 +1,11 @@
 ---
 title: "Teoría del valor, respuesta a crítica desde Cuba (2)"
 date: ""
-author: ""
+author: "Rolando Astarita"
 category: ""
 image: ""
 ---
 Polémica  
-Por: Rolando Astarita
 
 Cuestión de método
 
