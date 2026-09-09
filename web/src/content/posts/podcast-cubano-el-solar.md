@@ -1,5 +1,5 @@
 ---
-title: "Podcast cubano El Solar Página Oficial Presentación"
+title: "El Solar"
 date: ""
 author: ""
 category: ""

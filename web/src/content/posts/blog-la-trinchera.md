@@ -1,5 +1,5 @@
 ---
-title: "blog La Trinchera Una plataforma independiente cubana para el debate"
+title: "Al lector"
 date: ""
 author: ""
 category: ""

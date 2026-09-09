@@ -12,7 +12,10 @@ const localExists = (src)=> src.startsWith('/wp-content/') && fs.existsSync(path
 const td = new TurndownService({ headingStyle: 'atx', codeBlockStyle: 'fenced', bulletListMarker: '-' });
 td.keep(['iframe']);
 
-const SKIP = new Set(['category','tag','author','page','feed','wp-content','wp-includes','wp-json','comments','amigos','wp-admin']);
+const SKIP = new Set(['category','tag','author','page','feed','wp-content','wp-includes','wp-json','comments','amigos','wp-admin',
+  'categorias','la-trinchera']);   // páginas-utilidad, no artículos (índice de categorías, portada)
+// títulos que en el origen quedaron como SEO/lema en vez del título real del artículo
+const TITLE_FIX = { 'blog-la-trinchera':'Al lector', 'podcast-cubano-el-solar':'El Solar' };
 const NAV_SELECTORS = '.sharedaddy,.jp-relatedposts,.sd-sharing,.pvc_stats,.wpupg-grid,.crp_related,.yarpp-related,script,style,.code-block,.wp-block-buttons,.saboxplugin-wrap,#jp-post-flair,.sharing,.entry-meta,.post-tags,.post-share,.related'
   // caja de autor duplicada al final (PublishPress Multiple Authors + widgets de bio/gravatar)
   + ',.pp-multiple-authors-wrapper,.multiple-authors-description,.multiple-authors-links,.ashe_author_widget,.ashe-widget,.author-box,.author_index_1,.author-img-circle,.wpl-avatars,.sd-like-gravatars,.wpl-likebox'
@@ -207,6 +210,7 @@ function extractOne(slug){
     title = clean($('title').first().text()).replace(/\s*[—–-]\s*La Trinchera.*$/i,'').replace(/^▷/,'');
   }
   title = title.replace(/^▷\s*/,'').trim();
+  if(TITLE_FIX[slug]) title=TITLE_FIX[slug];   // corregir títulos SEO/lema puntuales
   let date = $('meta[property="article:published_time"]').attr('content')||'';
   let image = $('meta[property="og:image"]').attr('content')||'';
   if(image){ const m=image.match(/wp-content\/uploads\/.+$/); image=m?'/'+m[0].split('?')[0]:''; }
