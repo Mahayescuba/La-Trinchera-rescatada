@@ -21,7 +21,7 @@ El tema alimentación. ¿Cómo garantizarle una dieta sana y equilibrada a un be
 
 ¿Cómo gestionar el tiempo entre colas interminables, trabajo, labores domésticas y cuidados al supuesto bebé? Ni hablemos de todos esos sueños que tiene una de visitar las pirámides de Egipto; quedaron en el pasado utópico. O las que somos de profesiones que requieren largos horarios de estudio y lectura. Imposible. ¡Ah, los 35 ya están ahí! ¡Y el maldito bloqueo! 
 
-Productos (¿productas?, ¿productes?) del período especial, muchas quedamos destruidas tras los partos por la alimentación deficiente y los genes que vamos heredando (y legando). Llenarse con embutidos, arroz y harina no es estar nutrida. Escuchamos las historias y ¡de ninguna manera! Además, ¿si se nos enferma el niño? ¡El maldito bloqueo y la crisis de medicamentos! 
+Productos (¿productas?, ¿productes) del período especial, muchas quedamos destruidas tras los partos por la alimentación deficiente y los genes que vamos heredando (y legando). Llenarse con embutidos, arroz y harina no es estar nutrida. Escuchamos las historias y ¡de ninguna manera! Además, ¿si se nos enferma el niño? ¡El maldito bloqueo y la crisis de medicamentos! 
 
 La educación que recibirá nuestro hijo. Nosotras mismas somos producto de los [PGI](http://www.cubadebate.cu/noticias/2013/06/07/oriniel-martinez-de-pgi-a-doctor-en-ciencias-pedagogicas/#.X2kBIy8lPUo), las teleclases, la venta de pruebas de ingreso, los sobornos a profesores, el pago a repasadores particulares. No queremos pasar de nuevo por esa experiencia a través de nuestros hijos. 
 

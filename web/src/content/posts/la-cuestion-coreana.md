@@ -19,7 +19,7 @@ Como macro indicadores finales, observemos que el PIB per cápita norcoreano es 
 
 Con los datos anteriores, manejados por las instituciones internacionales, Corea del Norte debería ser en la lógica del mundo actual un miserable país tercermundista adaptado a rogar a sus vecinos desarrollados migajas en forma de créditos impagables y  por tanto, un país azotado por la violencia y la inestabilidad política, con un desarrollo científico – técnico y económico que ronda el nivel de los años 60 del siglo pasado.
 
-Ahora bien, antes de sacar conclusiones me gustaría seguir usando esas estadísticas. Solo 10 países en el mundo tienen capacidad de colocar un satélite artificial en la órbita terrestre con rampas de lanzamiento y cohetes propios, estos son: Rusia, Estados Unidos, Francia, Japón, China, Reino Unido, India, Israel, Irán (¿casualidad?) y Corea del Norte.
+Ahora bien, antes de sacar conclusiones me gustaría seguir usando esas estadísticas. Solo 10 países en el mundo tienen capacidad de colocar un satélite artificial en la órbita terrestre con rampas de lanzamiento y cohetes propios, estos son: Rusia, Estados Unidos, Francia, Japón, China, Reino Unido, India, Israel, Irán (¿casualidad) y Corea del Norte.
 
 Solo 10 países cuentan con arsenal nuclear y misiles balísticos intercontinentales para su lanzamiento, Rusia, Estados Unidos, Francia, China, Reino Unido, India, Israel, Pakistán, Sudáfrica y nuevamente Corea del Norte.
 

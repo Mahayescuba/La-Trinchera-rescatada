@@ -167,7 +167,7 @@ A pesar de que a propósito he optado por no registrar a naciones del África Su
 
 Preguntémonos, para finalizar, si es verdad que la obra de la Revolución, al menos en cuanto a este indicador específico, no ha tenido comparación posible.
 
-En su más arriba citado discurso del 2 de enero de 1967, versión taquigráfica de Bohemia, Fidel Castro continúa: “Otros países de los que estaban más próximos a nosotros (en 1958) eran: Costa Rica, con 77,6; Argentina tiene 61; Chile tiene 111 por mil- es decir, una cifra tres veces mayor que la de Cuba” (¿tres veces mayor que el 60 por mil?, ¿es que acaso Fidel Castro en la plenitud de sus 39 años ha cometido un error aritmético?, ¿o es que sin darse cuenta ha calculado en base a la cifra de 40 por mil?). A su vez, basándonos en la ya referida edición de _Granma_ correspondiente al 4 de enero de 2010, podemos reunir en una tabla los datos correspondientes a cada uno de los países mencionados por Fidel Castro 50 años después:
+En su más arriba citado discurso del 2 de enero de 1967, versión taquigráfica de Bohemia, Fidel Castro continúa: “Otros países de los que estaban más próximos a nosotros (en 1958) eran: Costa Rica, con 77,6; Argentina tiene 61; Chile tiene 111 por mil- es decir, una cifra tres veces mayor que la de Cuba” (¿tres veces mayor que el 60 por mil?, ¿es que acaso Fidel Castro en la plenitud de sus 39 años ha cometido un error aritmético?, ¿o es que sin darse cuenta ha calculado en base a la cifra de 40 por mil). A su vez, basándonos en la ya referida edición de _Granma_ correspondiente al 4 de enero de 2010, podemos reunir en una tabla los datos correspondientes a cada uno de los países mencionados por Fidel Castro 50 años después:
 
 País
 

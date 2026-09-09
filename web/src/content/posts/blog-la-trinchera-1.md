@@ -29,4 +29,4 @@ Gracias a todos los que nos leen.
 
 Les deseamos un próspero 2019, año donde se cumple un aniversario 60 de un triunfo revolucionario.
 
-\> ¡Seguimos en combate!
+> ¡Seguimos en combate!

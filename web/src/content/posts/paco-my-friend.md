@@ -29,7 +29,7 @@ Hablar de _Septiembre me ha desheredado_ es toda una proeza. Es de esos poemas q
 
 [Spotify](https://open.spotify.com/episode/4QCjwrKhWbsmFan2B4ws6S?si=v1Hna3F3RtWIocJb8vHtfw)
 
-[CastBox](https://castbox.fm/episode/Episodio-22%3A-Paco-My-Friend%3A-ni-me-resuciten-id2657893-id295337566?utm_source=i_share&utm_medium=dlink&utm_campaign=i_share_ch&utm_content=Episodio%2022%3A%20Paco%20My%20Friend%3A%20ni%20me%20resuciten-CastBox_FM)
+[CastBox](https://castbox.fm/episode/Episodio-22%3A-Paco-My-Friend%3A-ni-me-resuciten-id2657893-id295337566)
 
 [Googlepodcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaXZvb3guY29tL3NvbGFyX2ZnX2YxODYwNzI5X2ZpbHRyb18xLnhtbA/episode/aHR0cHM6Ly93d3cuaXZvb3guY29tLzU0OTA5NTIz?sa=X&ved=2ahUKEwjL4IPPio3rAhUfajABHSyPCqEQkfYCegQIARAF)
 

@@ -7,7 +7,7 @@ image: ""
 ---
 Esta pudiera ser la historia de tantos niños desarraigados a causa de la migración hacia alguna metrópoli. La promesa de la oportunidad conquistada nos llega en los construcciones audiovisuales y los cuentos y brillos con que justifican los winners (ganadores —los que se atrevieron—), una decisión engañosa y difícil en todas sus consecuencias y peor en los silencios, en la apariencia de felicidad.
 
-\> ¿Cuánto cuesta?
+> ¿Cuánto cuesta?
 
 El tema de las migraciones es recurrente en el panorama audiovisual latinoamericano, pero tan inagotable como historias acumule en cada persona que se ve obligada —cualquiera sea la razón— a dejar su tierra y sufrir el proceso de enculturación, de aprender a caminar otra vez sin que esté mi mamá para que me guíe—me dijo tiempo atrás una amiga, describiendo su experiencia—.  
 ¿Y cuando aún están los padres? ¿Cuándo son los niños los afectados? Hace un tiempo leyendo la mininovela 341 del cubano Andrés Pi Andrew, me puse de frente ante este problema. Esta es la historia de un pequeño que en la emigración marca los días que faltan para el prometido y esperado reencuentro con el padre. Pi Adrew se ha consagrado, en el arte de construir visiones muy próximas a las que pudieran tener los niños sobre su realidad (Lo que sabe Alejandro, 341). Atrás quedaron los amigos, el barrio, los juegos de siempre, y los miembros grandes de la manada que me protegían.  

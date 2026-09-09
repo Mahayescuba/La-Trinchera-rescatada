@@ -31,4 +31,4 @@ Estos días de confinamiento se está debatiendo sobre los usos y abusos de la f
 
 \[3\]Patricia Manrique, “Hospitalidad e inmunidad virtuosa” en Sopa de Wuhan: pensamiento contemporáneo en tiempo de pandemias, Pablo Amadeo, ed. ASPO, p.145-146.
 
-**[Tomado de Tierra Adentro](https://www.tierraadentro.cultura.gob.mx/el-oportunismo-del-pensamiento-critico-sobre-sopa-de-wuhan/?fbclid=IwAR0HstcxwiWdCGsINn4xkfjD8FNUodMwkvb4KmIOUm7Zr0PlFMXjP-SStcs)**
+**[Tomado de Tierra Adentro](https://www.tierraadentro.cultura.gob.mx/el-oportunismo-del-pensamiento-critico-sobre-sopa-de-wuhan/)**

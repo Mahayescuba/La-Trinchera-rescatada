@@ -26,5 +26,3 @@ Pero lamentablemente, un mundo sin armas nucleares parece cada vez más lejano. 
 Y ahí quedan, frente a nuestra conciencia, las palabras inscritas en el [_Memorial de la Paz_](https://es.wikipedia.org/wiki/Museo_Memorial_de_la_Paz_de_Hiroshima) en Hiroshima, para que nada se olvide, para que nadie se canse, para que alguien recuerde que las “políticas equivocadas” pueden llevarnos al desastre:
 
 _“(…) Por la presente, lloramos a todos los fallecidos en el bombardeo atómico. Recordamos, con mucho dolor, las numerosas vidas sacrificadas por las políticas nacionales equivocadas. Para asegurarnos de que tales tragedias no se reproduzcan jamás, nos comprometemos a transmitir la historia de estos sucesos a las generaciones futuras, de Japón y del resto del mundo, y a construir lo más pronto posible un mundo de paz, libre de armas nucleares.”_
-
-<iframe class="wpview-sandbox" style="width: 100%; display: block;" frameborder="0" scrolling="no"></iframe>
