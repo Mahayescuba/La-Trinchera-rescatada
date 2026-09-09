@@ -1,14 +1,18 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
-import { fixCat, slugify, fmtDate, excerpt } from '../lib/util';
+import { fixCat, slugify, fmtDate, excerpt, initials, monoColor } from '../lib/util';
+import authors from '../data/authors.json';
 export async function getStaticPaths(){
   const posts = await getCollection('posts');
-  return posts.map(p=> ({ params:{ slug:p.slug }, props:{ p } }));
+  const counts:Record<string,number> = {};
+  for(const x of posts){ const a=x.data.author; if(a) counts[a]=(counts[a]||0)+1; }
+  return posts.map(p=> ({ params:{ slug:p.slug }, props:{ p, count: p.data.author ? counts[p.data.author] : 0 } }));
 }
-const { p } = Astro.props;
+const { p, count } = Astro.props;
 const { Content } = await p.render();
 const desc = excerpt(p.body, 155);
+const prof:any = p.data.author ? ((authors as any)[slugify(p.data.author)] || {}) : null;
 const jsonLd = {
   '@context':'https://schema.org','@type':'Article',
   headline: p.data.title,
@@ -32,6 +36,24 @@ const jsonLd = {
     </p>
     {p.data.image && <img class="lead" src={p.data.image} alt={p.data.title} loading="eager" decoding="async" />}
     <div class="body"><Content /></div>
+    {p.data.author && (
+      <aside class="authorcard">
+        {prof.hash
+          ? <img class="ac-av" src={`https://www.gravatar.com/avatar/${prof.hash}?s=160`} alt={p.data.author} width="64" height="64" loading="lazy" />
+          : <span class="ac-av ac-mono" style={`background:${monoColor(p.data.author)}`}>{initials(p.data.author)}</span>}
+        <div class="ac-body">
+          <span class="ac-label">Autor</span>
+          <a class="ac-name" href={`/autor/${slugify(p.data.author)}/`}>{p.data.author}</a>
+          {prof.bio && <p class="ac-bio">{prof.bio}</p>}
+          <p class="ac-meta">
+            <a href={`/autor/${slugify(p.data.author)}/`}>{count} {count===1?'texto':'textos'} en La Trinchera</a>
+            {prof.links && prof.links.map((l:string)=> (
+              <a class="ac-link" href={l} target="_blank" rel="noopener">{l.startsWith('mailto:')?'correo':'sitio'}</a>
+            ))}
+          </p>
+        </div>
+      </aside>
+    )}
   </article>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)}></script>
   <style>
@@ -50,5 +72,17 @@ const jsonLd = {
     .body :global(h2),.body :global(h3){margin:1.6em 0 .4em}
     .body :global(blockquote){border-left:3px solid var(--accent);margin:1.2em 0;padding:.2em 1.1em;color:var(--muted);font-style:italic}
     .body :global(a){color:var(--accent);text-decoration:underline;text-underline-offset:2px}
+    .authorcard{display:flex;gap:1rem;align-items:flex-start;margin:2.6rem 0 .5rem;padding:1.2rem 1.3rem;
+      background:var(--paper);border:1px solid var(--line);border-radius:12px}
+    .ac-av{width:64px;height:64px;border-radius:50%;flex:0 0 auto;object-fit:cover;display:grid;place-items:center;
+      font-family:Georgia,serif;font-weight:700;font-size:1.4rem;color:#fbf6ef;border:1px solid rgba(0,0,0,.06)}
+    .ac-body{min-width:0}
+    .ac-label{display:block;font-size:.68rem;text-transform:uppercase;letter-spacing:.14em;color:var(--accent);font-weight:700}
+    .ac-name{font-family:Georgia,"Times New Roman",serif;font-size:1.3rem;font-weight:700;line-height:1.2;display:inline-block;margin:.1rem 0}
+    .ac-name:hover{color:var(--accent)}
+    .ac-bio{margin:.35rem 0 .55rem;color:var(--muted);font-size:.92rem;line-height:1.55}
+    .ac-meta{margin:0;font-size:.82rem;display:flex;gap:.9rem;flex-wrap:wrap;align-items:center}
+    .ac-meta a{color:var(--accent)}
+    .ac-link{text-transform:uppercase;letter-spacing:.05em;font-size:.72rem;font-weight:600}
   </style>
 </Base>

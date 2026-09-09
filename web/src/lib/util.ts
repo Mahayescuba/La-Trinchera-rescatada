@@ -5,6 +5,17 @@ export const CAT_FIX: Record<string,string> = {
 export const fixCat = (c:string)=> CAT_FIX[c] || c || 'Sin categoría';
 export const slugify = (s:string)=> s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')
   .replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
+// monograma de autor (iniciales + color estable) para cuando no hay foto
+const MONO_COLORS = ['#8a2b2b','#6b4f2a','#4f5d3a','#3f5666','#6d4a5c','#7a5230','#4a5a52'];
+export const initials = (n:string)=>{
+  const w = (n||'').trim().split(/\s+/);
+  return ((w[0]?.[0]||'') + (w.length>1 ? w[w.length-1][0] : (w[0]?.[1]||''))).toUpperCase();
+};
+export const monoColor = (n:string)=>{
+  let h=0; for(const c of (n||'')) h=(h*31+c.charCodeAt(0))>>>0;
+  return MONO_COLORS[h % MONO_COLORS.length];
+};
+
 export const fmtDate = (d?:string)=>{
   if(!d) return '';
   const t=new Date(d); if(isNaN(+t)) return '';
