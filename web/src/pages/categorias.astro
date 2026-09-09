@@ -1,0 +1,41 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { fixCat, slugify, excerpt } from '../lib/util';
+
+const posts = await getCollection('posts');
+const counts:Record<string,number> = {};
+for(const p of posts){ const c=fixCat(p.data.category); if(c && c!=='Sin categoría') counts[c]=(counts[c]||0)+1; }
+const list = Object.entries(counts).sort((a,b)=> b[1]-a[1] || a[0].localeCompare(b[0],'es'))
+  .map(([name,count])=>({name,count}));
+const total = list.reduce((s,c)=>s+c.count,0);
+---
+<Base title="Categorías" description={`Los ${list.length} temas del archivo de La Trinchera: política, economía, teoría, cultura y más, desde Cuba (2018–2021).`}>
+  <section class="wrap head">
+    <p class="kicker">La Trinchera · Archivo</p>
+    <h1>Categorías</h1>
+    <p class="lede">{list.length} temas reúnen los {total} textos clasificados del archivo. Elige uno para leer todo lo publicado sobre él.</p>
+  </section>
+  <section class="wrap grid">
+    {list.map(c=> (
+      <a class="cat-card" href={`/categoria/${slugify(c.name)}/`}>
+        <span class="cat-name">{c.name}</span>
+        <span class="cat-count">{c.count} {c.count===1?'texto':'textos'}</span>
+      </a>
+    ))}
+  </section>
+  <style>
+    .head{padding:2.4rem 1.2rem 1rem;max-width:760px}
+    .head .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.16em;font-size:.72rem;margin:0;font-weight:700}
+    .head h1{font-size:clamp(2rem,6vw,2.8rem);margin:.15em 0 .1em}
+    .head .lede{color:var(--muted);margin:.2rem 0 .4rem}
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:.9rem;padding:1.2rem 1.2rem 2.6rem}
+    .cat-card{display:flex;flex-direction:column;gap:.25rem;background:var(--paper);border:1px solid var(--line);
+      border-left:3px solid var(--accent);border-radius:0 10px 10px 0;padding:1rem 1.1rem;text-decoration:none;color:inherit;transition:.15s}
+    .cat-card:hover{transform:translateY(-2px);box-shadow:0 8px 22px rgba(40,25,20,.06)}
+    .cat-name{font-family:Georgia,"Times New Roman",serif;font-weight:700;font-size:1.2rem;line-height:1.2}
+    .cat-card:hover .cat-name{color:var(--accent)}
+    .cat-count{color:var(--muted);font-size:.8rem}
+    @media (max-width:560px){ .grid{grid-template-columns:1fr} }
+  </style>
+</Base>
