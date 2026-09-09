@@ -40,6 +40,9 @@ const ogImage = image ? new URL(image, Astro.site).href : undefined;
   nav.main a:hover{color:var(--accent)}
   footer.site{border-top:1px solid var(--line);margin-top:3rem;background:var(--paper);color:var(--muted);font-size:.82rem}
   footer.site .wrap{padding:2rem 1.2rem;display:flex;justify-content:space-between;flex-wrap:wrap;gap:1rem}
+  footer.site .fnav{display:flex;flex-wrap:wrap;gap:.1rem .3rem;align-items:center}
+  footer.site .fnav a{padding:.4rem .55rem;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;font-size:.72rem}
+  footer.site .fnav a:hover{color:var(--accent)}
   h1,h2,h3{font-family:Georgia,"Times New Roman",serif;line-height:1.2}
   .cat{display:inline-block;font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:600}
   @media (max-width:640px){
@@ -72,8 +75,17 @@ const ogImage = image ? new URL(image, Astro.site).href : undefined;
 </div></header>
 <main><slot /></main>
 <footer class="site"><div class="wrap">
-  <div>La Trinchera — archivo rescatado. {new Date().getFullYear()}</div>
-  <div>Un proyecto colaborativo cubano para el debate y la reflexión.</div>
+  <div>
+    <div>La Trinchera — archivo rescatado. {new Date().getFullYear()}</div>
+    <div>Un proyecto colaborativo cubano para el debate y la reflexión.</div>
+  </div>
+  <nav class="fnav">
+    <a href="/">Inicio</a>
+    <a href="/autores/">Autores</a>
+    <a href="/buscar/">Buscar</a>
+    <a href="/sobre/">Sobre</a>
+    <a href="/rss.xml">RSS</a>
+  </nav>
 </div></footer>
 <button id="toTop" aria-label="Volver arriba" title="Volver arriba">↑</button>
 <script is:inline>
