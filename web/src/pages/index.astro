@@ -18,11 +18,13 @@ const numAutores = Object.keys(authorCounts).length;
 const catCounts:Record<string,number> = {};
 for(const p of posts){ const c=fixCat(p.data.category); if(c && c!=='Sin categoría') catCounts[c]=(catCounts[c]||0)+1; }
 const temas = Object.entries(catCounts).sort((a,b)=>b[1]-a[1]).slice(0,12).map(([name,count])=>({name,count}));
-// Series destacadas (las más largas) para dar visibilidad desde la portada
-const topSeries = buildSeries(posts).all.slice(0,6);
+// Todas las series (con portada real de sus entregas) para la tira de la portada
+const allSeries = buildSeries(posts).all;
+const gradPairs = [['#8a2b2b','#3f1414'],['#6d4a5c','#2c1a22'],['#4f5d3a','#232a17'],['#3f5666','#1b262e'],['#7a5230','#33210f'],['#6b4f2a','#2e2210']];
+const seriesCards = allSeries.map((s,i)=>({ s, cover: s.cover ? thumbData(s.cover, 520) : null, grad: gradPairs[i % gradPairs.length], init: (s.base.trim()[0]||'·').toUpperCase() }));
 // "Voces del archivo": autores más prolíficos
-const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,8)
-  .map(([name,count])=>{ const prof:any=(authors as any)[slugify(name)]||{}; return {name,count,hash:prof.hash||''}; });
+const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,10)
+  .map(([name,count],i)=>{ const prof:any=(authors as any)[slugify(name)]||{}; return {name,count,hash:prof.hash||'',big:i<2}; });
 ---
 <Base title={null} description="Archivo rescatado de La Trinchera: una plataforma cubana para el debate y la reflexión.">
   <section class="wrap hero">
@@ -82,34 +84,40 @@ const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,8)
     </div>
   </section>
 
-  {topSeries.length>0 && (
+  {seriesCards.length>0 && (
     <section class="wrap series-home">
       <div class="sec-head">
         <h2>Series del archivo</h2>
         <a class="sec-all" href="/series/">Ver todas las series →</a>
       </div>
-      <div class="sh-grid">
-        {topSeries.map(s=> (
-          <a class="sh-card" href={`/${s.parts[0].slug}/`}>
-            <span class="sh-n">{s.parts.length} entregas</span>
+      <div class="sh-rail" id="seriesRail">
+        {seriesCards.map(({s,cover,grad,init})=> (
+          <a class="sh-card" href={`/${s.parts[0].slug}/`} data-series>
+            <span class={`sh-cover${cover?'':' noimg'}`} style={cover
+              ? `background-image:url(${cover.src})`
+              : `background-image:linear-gradient(150deg,${grad[0]},${grad[1]})`}>
+              {!cover && <span class="sh-init" aria-hidden="true">{init}</span>}
+              <span class="sh-badge">{s.parts.length} entregas</span>
+            </span>
             <span class="sh-title">{s.base}</span>
             {s.author && <span class="sh-au">{s.author}</span>}
           </a>
         ))}
       </div>
+      <p class="sh-hint">Desliza para ver las {allSeries.length} series →</p>
     </section>
   )}
 
   <section class="wrap voces">
     <div class="voces-head">
-      <h2>Voces del archivo</h2>
-      <a class="voces-all" href="/autores/">Ver todos los autores →</a>
+      <h2>Firmas del archivo</h2>
+      <a class="voces-all" href="/autores/">Ver los {Object.keys(authorCounts).length} autores →</a>
     </div>
     <div class="voces-grid">
       {voces.map(v=> (
-        <a class="voz" href={`/autor/${slugify(v.name)}/`}>
+        <a class={`voz${v.big?' big':''}`} href={`/autor/${slugify(v.name)}/`}>
           {v.hash
-            ? <img class="voz-av" src={`https://www.gravatar.com/avatar/${v.hash}?s=120`} alt="" width="48" height="48" loading="lazy" />
+            ? <img class="voz-av" src={`https://www.gravatar.com/avatar/${v.hash}?s=${v.big?200:120}`} alt="" width={v.big?76:56} height={v.big?76:56} loading="lazy" />
             : <span class="voz-av voz-mono" style={`background:${monoColor(v.name)}`}>{initials(v.name)}</span>}
           <span class="voz-name">{v.name}</span>
           <span class="voz-count">{v.count} textos</span>
@@ -117,6 +125,15 @@ const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,8)
       ))}
     </div>
   </section>
+
+  <script is:inline>
+    /* mostrar las series en orden distinto en cada visita */
+    (function(){var r=document.getElementById('seriesRail');if(!r)return;
+      var k=[].slice.call(r.children);
+      for(var i=k.length-1;i>0;i--){var j=Math.random()*(i+1)|0;var t=k[i];k[i]=k[j];k[j]=t;}
+      k.forEach(function(el){r.appendChild(el);});
+    })();
+  </script>
 
   <style>
     .hero{padding:2.8rem 1.2rem 1.4rem;text-align:center}
@@ -162,16 +179,20 @@ const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,8)
     .cta:hover{background:var(--accent);color:#fff}
 
     .series-home{padding:1.6rem 1.2rem 0}
-    .sh-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:.9rem}
-    .sh-card{display:flex;flex-direction:column;gap:.25rem;background:var(--paper);border:1px solid var(--line);
-      border-left:3px solid var(--accent);border-radius:10px;padding:.9rem 1rem;text-decoration:none;color:inherit;transition:.15s}
-    .sh-card:hover{transform:translateY(-2px);box-shadow:0 8px 22px rgba(40,25,20,.06)}
-    .sh-n{font-size:.66rem;text-transform:uppercase;letter-spacing:.12em;color:var(--accent);font-weight:700}
-    .sh-title{font-family:var(--display);font-weight:700;font-size:1.12rem;line-height:1.2}
+    .sh-rail{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(210px,240px);gap:1rem;
+      overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:.7rem;scrollbar-width:thin;overscroll-behavior-x:contain}
+    .sh-card{scroll-snap-align:start;display:flex;flex-direction:column;gap:.35rem;text-decoration:none;color:inherit}
+    .sh-cover{position:relative;display:block;aspect-ratio:5/4;border-radius:9px;background-size:cover;background-position:center;
+      background-color:var(--line);border:1px solid var(--line);overflow:hidden}
+    .sh-card:hover .sh-cover{box-shadow:0 8px 22px rgba(40,25,20,.14)}
+    .sh-badge{position:absolute;left:.5rem;top:.5rem;font-size:.62rem;text-transform:uppercase;letter-spacing:.1em;
+      font-weight:700;color:#fff;background:rgba(20,8,8,.55);backdrop-filter:blur(2px);padding:.22rem .5rem;border-radius:5px}
+    .sh-init{position:absolute;right:-.05em;bottom:-.32em;font-family:var(--display);font-weight:900;font-size:7rem;
+      line-height:1;color:#fff;opacity:.16}
+    .sh-title{font-family:var(--display);font-weight:700;font-size:1.08rem;line-height:1.18;margin-top:.1rem}
     .sh-card:hover .sh-title{color:var(--accent)}
-    .sh-au{color:var(--muted);font-size:.8rem}
-    @media (max-width:860px){ .sh-grid{grid-template-columns:repeat(2,1fr)} }
-    @media (max-width:560px){ .sh-grid{grid-template-columns:1fr} }
+    .sh-au{color:var(--muted);font-size:.78rem}
+    .sh-hint{font-size:.74rem;color:var(--muted);margin:.4rem 0 0;font-weight:600}
     .voces{padding:1.6rem 1.2rem 2.6rem;border-top:1px solid var(--line);margin-top:2rem}
     .voces-head{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin-bottom:1.1rem}
     .voces-head h2{font-size:1.5rem;margin:0}
@@ -185,6 +206,10 @@ const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,8)
     .voz-name{font-family:var(--display);font-weight:700;font-size:1rem;line-height:1.2}
     .voz:hover .voz-name{color:var(--accent)}
     .voz-count{color:var(--muted);font-size:.76rem}
+    .voz.big{grid-column:span 2;padding:1.4rem 1rem;background:linear-gradient(180deg,var(--paper),var(--bg))}
+    .voz.big .voz-av{width:76px;height:76px;font-size:1.65rem;box-shadow:0 0 0 3px var(--paper),0 0 0 4px var(--accent)}
+    .voz.big .voz-name{font-size:1.28rem}
+    .voz.big .voz-count{font-size:.82rem}
     @media (max-width:860px){ .grid{grid-template-columns:repeat(2,1fr)} .feat{grid-template-columns:1fr} .feat-img{min-height:200px} .voces-grid{grid-template-columns:repeat(3,1fr)} }
     @media (max-width:560px){ .grid{grid-template-columns:1fr} .voces-grid{grid-template-columns:repeat(2,1fr)} }
   </style>
