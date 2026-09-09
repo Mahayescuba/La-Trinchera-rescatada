@@ -27,6 +27,7 @@ const ogImage = image ? new URL(image, Astro.site).href : undefined;
 <style is:global>
   :root{ --ink:#1a1714; --muted:#6b625a; --line:#e7e0d6; --bg:#fbf9f5; --paper:#fff; --accent:#8a2b2b; }
   *{box-sizing:border-box}
+  [hidden]{display:none!important}   /* que el atributo hidden gane sobre display:flex/grid */
   body{margin:0;background:var(--bg);color:var(--ink);
     font-family:-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.65;}
   a{color:inherit;text-decoration:none}
