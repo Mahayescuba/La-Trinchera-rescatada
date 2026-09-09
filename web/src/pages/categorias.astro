@@ -33,7 +33,7 @@ const total = list.reduce((s,c)=>s+c.count,0);
     .cat-card{display:flex;flex-direction:column;gap:.25rem;background:var(--paper);border:1px solid var(--line);
       border-left:3px solid var(--accent);border-radius:0 10px 10px 0;padding:1rem 1.1rem;text-decoration:none;color:inherit;transition:.15s}
     .cat-card:hover{transform:translateY(-2px);box-shadow:0 8px 22px rgba(40,25,20,.06)}
-    .cat-name{font-family:Georgia,"Times New Roman",serif;font-weight:700;font-size:1.2rem;line-height:1.2}
+    .cat-name{font-family:var(--display);font-weight:700;font-size:1.2rem;line-height:1.2}
     .cat-card:hover .cat-name{color:var(--accent)}
     .cat-count{color:var(--muted);font-size:.8rem}
     @media (max-width:560px){ .grid{grid-template-columns:1fr} }
