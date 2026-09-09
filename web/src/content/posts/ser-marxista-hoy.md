@@ -3,7 +3,7 @@ title: "Ser marxista hoy"
 date: "2019-03-16T20:36:01+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2019/03/PicsArt_03-16-04.30.47.jpg"
+image: ""
 ---
 Ser marxista hoy.
 
@@ -72,15 +72,3 @@ Aun así, sería muy ambicioso decir qué es ser marxista hoy. Sin embargo, sí 
 8\. Hegel, Federico. La fenomenología del espíritu. s.l. : Lasson.
 
 **Publicado originalmente en Rebelión**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

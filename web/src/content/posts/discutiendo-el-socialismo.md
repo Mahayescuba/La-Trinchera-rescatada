@@ -3,7 +3,7 @@ title: "Discutiendo acerca del socialismo"
 date: "2019-10-06T15:39:55+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2019/10/IMG-20190525-WA0006.jpg"
+image: ""
 ---
 _El socialismo no puede ser interpretado como una receta, tampoco es un dogma, tampoco puede implicar la supresión de las libertades._
 
@@ -20,15 +20,3 @@ Le Dang Doanh fue asesor de Nguyen Van Linh y de Vo Van Kiet en los inicios del 
 El socialismo no puede ser interpretado como una receta, tampoco es un dogma, tampoco puede implicar la supresión de las libertades. Si el socialismo es llevado a la práctica bajo esos preceptos será un fracaso.
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/marxismo/marxismo-y-socialismo-utopico/
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

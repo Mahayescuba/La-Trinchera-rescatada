@@ -1,5 +1,5 @@
 ---
-title: "Respuesta a críticas de la prensa oficial cubana"
+title: "Me resbala"
 date: "2020-12-03T17:00:25+00:00"
 author: "Jorge Fernández Era"
 category: "Onírica"
@@ -34,15 +34,3 @@ Ustedes se preguntarán qué relación pueden tener ambos elementos, y yo les de
 La segunda imagen es muy significativa. Están viendo un reportaje de la CBS en una de las calles más céntricas de Nueva York. Observen ahora cómo esa viejecita, que viene caminando muy tranquila, de buenas a primera resbala con una cáscara de plátano (¡ahí está!), cae de espaldas y se da un fuerte golpe en la cabeza. Momentos después muere a causa de una fractura craneana de gran magnitud.
 
 The New York Times, en una pequeña nota, atribuye el hecho a un descuido de la señora, quien, según ellos, no divisó la cáscara de plátano. ¡¿Hasta cuándo estos individuos pretenden engañar a la opinión pública?! ¿De dónde proviene esa cáscara de plátano? Para nadie es un secreto que los plátanos que consumen los yanquis son importados desde la región centroamericana. ¿Quiénes explotan las grandes cosechas bananeras? Ustedes y yo lo sabemos: las transnacionales norteamericanas. Ellas son las verdaderas culpables de que esta inocente anciana haya muerto en una céntrica calle de Nueva York. ¡Y detrás de ese resbalón está la mano de la CIA!
-
-respuesta a críticas de la prensa oficial cubana, respuesta a críticas de la prensa oficial cubana, respuesta a críticas de la prensa oficial cubana
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

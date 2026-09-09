@@ -1,9 +1,9 @@
 ---
-title: "Corea del Norte"
+title: "Sobre la cuestión coreana (I)"
 date: "2018-03-01T16:15:44+00:00"
 author: "Joel Ernesto Marill Domenech"
 category: "Opinión"
-image: "/wp-content/uploads/2018/02/sobre-la-cuestion.jpg"
+image: ""
 ---
 En este post aplicaré las engañosas estadísticas que tanto disfrutan  usas los politólogos occidentales para exponer un punto que tendrá continuidad en próximas publicaciones. Todos los datos que utilizaré son tomados de instituciones internacionales, por lo que son de muy fácil su comprobación para cualquier interesado.
 
@@ -51,15 +51,3 @@ Sin ánimo de seguir en una exposición interminable de datos fríos, invito a q
 [\[1\]](#_ftnref1) compilación de datos de diversos países del mundo realizada por la Agencia Central de Inteligencia de los Estados Unidos y con el aval de alguna de las instituciones financieras más reconocidas a nivel mundial como el Fondo Monetario Internacional y el Banco Mundial
 
 [Segunda parte](_wp_link_placeholder)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "La propiedad privada en Cuba"
+title: "La Propiedad en la Nueva Constitución Cubana"
 date: "2018-08-20T13:57:46+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/08/4172759013_52372d80df_o1-960x623.jpg"
+image: ""
 ---
 La propiedad privada en Cuba.
 
@@ -60,15 +60,3 @@ Sin extenderme mucho esta vez, considero que la redacción de dicho inciso serí
 Aquí no solo se retoma el sujeto, sino que logra dar sentido al inciso, que de otra forma no estaría carente de un aspecto extremadamente relevante.
 
 La propiedad privada en Cuba. La propiedad privada en Cuba. La propiedad privada en Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

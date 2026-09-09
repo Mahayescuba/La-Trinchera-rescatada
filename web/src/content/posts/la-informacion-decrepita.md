@@ -3,7 +3,7 @@ title: "La información decrépita"
 date: "2020-09-11T09:30:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/09/monumento-a-la-veleidad-calcografia-2004.jpg"
+image: ""
 ---
 Producción de alimentos en Cuba.
 
@@ -28,13 +28,3 @@ Buena parte de dichas croquetas se conforman con maquinarias de producción naci
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/estrategia-economica-en-cuba/
 
 producción de alimentos en Cuba, producción de alimentos en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

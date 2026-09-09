@@ -3,7 +3,7 @@ title: "La ventaja de ser viejo"
 date: "2019-04-20T21:33:18+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2019/04/IMG_20190420_172529.jpg"
+image: ""
 ---
 **Ismael Sené revive la historia en palabras con la pasión de un aficionado y la erudición de un estudioso consagrado.**
 
@@ -41,17 +41,3 @@ El reconocimiento de las personas porque me ha permitido poder transmitir todos 
 Tengo ochenta y un años compadre, mira mis dos aspiraciones fundamentales están vinculadas con la pelota, realmente en otras cosas ya no puedo pedir más porque durante toda mi vida hice lo que realmente me gustaba, cosas complicadas desde el punto de vista físico, también de riesgo político, pero ya es una etapa de la vida que pasó, duró muchos años. Entonces actualmente es la pelota, estoy luchando en cuerpo y alma, aunque cuerpo no me queda mucho, pero sobre todo en alma y tengo dos aspiraciones que ya las he convertido a algo personal ayudado por mi querido amigo Felix Julio Alfonso, la primera es que se proclame el Beisbol como parte intangible de la cultura nacional y que se acabé de construir el salón de la Fama del Beisbol Cubano, la primera está casi ganada es prácticamente un problema de trámite ya tenemos lo principal que es la carta del INDER solicitada por la comisión de patrimonio y luego presentar el expediente, pero Felix Julio también quiere presentar al Latino como monumento nacional . Respecto al salón de la Fama es un poco más intangibles que la pelota porque nadie te dice que no, tenemos pronto una reunión con el Comisionado Nacional de Beisbol para discutir ese problema y es probable que Felix Julio también vea al nuevo presidente del INDER para hablar de también de ese asunto. Ya te digo mis aspiraciones son que esas dos cosas se materialicen el hall de la fama y la pelota sea parte intangible de la cultura nacional. Lo otro son preocupaciones de tipo intelectual, que se muera Trump, que se no tumben a Maduro, cosas así.  
 **Muchas gracias Sené por la originalidad**.  
 No, gracias a ustedes
-
-[Otro texto del autor](/onirica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

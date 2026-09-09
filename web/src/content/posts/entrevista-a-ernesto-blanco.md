@@ -1,9 +1,9 @@
 ---
-title: "Entrevista a Ernesto Blanco por Sender Escobar La Trinchera"
+title: "Ernesto Blanco: cada reto que llega es una oportunidad de crecer"
 date: "2020-08-24T16:00:00+00:00"
 author: "Sender Escobar"
 category: "Entrevista"
-image: "/wp-content/uploads/2020/08/ernestp9.56.jpg"
+image: ""
 ---
 **Sin renunciar a las esencias en sus acordes de guitarra, energía y originalidad son el sello del rock _made in Cuba_ confeccionado a la medida de los oídos. Ernesto Blanco está inmerso en la vorágine de sus nuevos proyectos en tiempos _sui generis_ para la música**
 
@@ -27,7 +27,7 @@ Sin dudas Síntesis abrió un camino para el rock en nuestro país, sin quitarle
 
 El disco _[Kilómetro Cero](http://www.cubadebate.cu/noticias/2010/04/14/ernesto-blanco-kilometro-cero/)_ fue muy especial para mí, lanzado en el año 2010, estuvo nominado y premiado por el _Cubadisco_, _Lucas_ y _Cuerda Viva_ ese mismo año, en la categoría Pop Rock. También tuvo muy buena acogida en el público, lo que fue sin dudas un gran comienzo, después de haber pasado los dos años anteriores trabajando en ese disco.
 
-![](/wp-content/uploads/2010/04/disco-ernesto-blanco-08.jpg)
+![](https://media.cubadebate.cu/wp-content/uploads/2010/04/disco-ernesto-blanco-08.jpg)
 
 Fuente: _Cubadebate_
 
@@ -39,7 +39,7 @@ Me gusta combinar mucho la labor de trabajar con mi banda y las giras con el tra
 
 El proyecto _[La Flota](https://suenacubano.com/news/186ca62441e111e6a52800163e211c9e/david-blanco-bordo-de-la-flota/)_ es una banda que hicimos juntos X Alfonso (bajo y voz), mi hermano David (voz, guitarra, teclados), Yissi (drums) y yo (voz y guitarra). Decidimos tocar nuestra música de una forma más rockera y estuvimos muy activos entre el 2015 y 2017, sobre todo en festivales internacionales. Amo tocar con ellos, sin duda había una química muy especial cuando tocábamos juntos.
 
-![](/suenacubano.com/files/nodes/images/la_flota_david_blanco_en_fac.jpg?w=960&ssl=1)
+![](https://suenacubano.com/files/nodes/images/la_flota_david_blanco_en_fac.jpg)
 
 Fuente: _Facebook oficial de Yissi García_
 
@@ -64,15 +64,3 @@ Además de seguir dándole promoción a mi nuevo single _Don’t Let it bring yo
 Un saludo grande para todos, gracias por esta entrevista.
 
 [También puede interesar](/entrevista/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

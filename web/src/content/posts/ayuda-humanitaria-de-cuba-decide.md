@@ -1,9 +1,9 @@
 ---
-title: "Ayuda humanitaria de Cuba decide"
+title: "Solidaridad y el monopolio del agradecimiento"
 date: "2020-09-16T16:06:30+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/09/111.jpg"
+image: ""
 ---
 ayuda humanitaria de Cuba decide.
 
@@ -32,15 +32,3 @@ En este sentido, no tengo ningún problema en declarar que apoyo el reclamo de l
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/emigracion-cubana/
 
 ayuda humanitaria de Cuba decide. ayuda humanitaria de Cuba decide.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

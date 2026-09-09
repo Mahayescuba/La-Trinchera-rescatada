@@ -1,9 +1,9 @@
 ---
-title: "Color político"
+title: "Color"
 date: "2019-03-10T01:30:24+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/03/machado.jpg"
+image: ""
 ---
 Color político.
 
@@ -16,15 +16,3 @@ Un rojo prefiere siempre luchar por mejorar a los suyos -aunque sean azules-, qu
 Sé que el color no es con lo que nos pintamos, sino el cómo somos como humanos. Me disculpo por usar un cromo específico, y llamarle rojo a quien no se sienta así. Pero es que para mí es eso, y es también una muestra afectiva su uso. Llámale cada cual a su color como prefiera, e identifique al grupo de sus semejantes. Yo no me molestaré -si es humano y justo-, si me incluye en él.
 
 Color político. Color político.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

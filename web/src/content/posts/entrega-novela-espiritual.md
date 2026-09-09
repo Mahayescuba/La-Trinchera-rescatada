@@ -3,7 +3,7 @@ title: "Entrega: una telenovela de alto vuelo espiritual"
 date: "2020-01-16T17:45:21+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2020/01/entrega2.jpg"
+image: ""
 ---
 telenovela iglesia.
 
@@ -15,8 +15,6 @@ En los últimos tiempos he sido testigo de que la espiritualidad no es patrimoni
 
 No soy un aficionado fervoroso de las telenovelas, menos de las cubanas, pues en realidad destino mi tiempo libre sobre todo a leer y ver películas; pero la trama de _Entrega_, última producción nacional en curso, me ha logrado cautivar y junto a mí, a gran parte de la población.  
 Sobre _Entrega_ y sus microtramas se han hecho varios artículos, pero en especial me gustaría abordar la forma tan estética y creativa en que se manejó una escena vinculada a la religión en el capítulo transmitido el lunes 6 de febrero. En la escena, Jaime cuentapropista, interpretado de forma elocuente por Patricio Wood, le pide a Hortensia, profesora hermana de Gladys (Nancy González) -su gran amor, enferma terminal de cáncer- que le acompañe a rezar en la Iglesia más cercana.
-
-![](/wp-content/uploads/2020/01/patricio-wood-actor-cubano2140654475534692506.jpeg)
 
 En ese momento de la trama, el diálogo despega con un alto vuelo espiritual, pues Hortensia -una estricta educadora formada intelectualmente bajo la filosofía de que Dios no existe-, le confiesa al hombre, que ama con toda su vida a su misma hermana, que ella es atea, por lo que no le ve sentido a rezar en un templo por aquella. Él, contemporáneo suyo, le dice lleno de tristeza:
 
@@ -31,15 +29,3 @@ Desde mi ser católico, aprovecho estás líneas paraagradecer a Amílcar Salatt
 La invitación desde este artículo es a ver esta _Entrega_ tan rica que nos ha llegado en tiempos difíciles. Ojalá se sigan promoviendo en Cuba figuras cotidianas como el profesor Manuel, magistralmente interpretado por Ray Cruz, pues muchos como él, a pesar de sus limitaciones humanas, serían actores principales en la sanación del cuerpo espiritual de nuestra nación.
 
 telenovela iglesia telenovela iglesia telenovela iglesia
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "sociedad civil en Cuba y reconciliación"
+title: "La palabra clave es reconciliación"
 date: "2020-10-18T09:30:00+00:00"
 author: "Julio Pernús"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/10/Lorenzo-Quinn.jpg"
+image: ""
 ---
 La narrativa que acompaña la construcción del nacimiento de Nación está ligada escolarmente al conflicto armado, la [guerra](http://www.cubadebate.cu/etiqueta/guerra-de-independencia-de-cuba/). Para los que añoran la construcción de un tejido social que impulse la paz, se hace necesario encontrar un discurso que sea distinto.
 
@@ -30,15 +30,3 @@ Cuba ha sido testigo de un [ejemplo](https://www.ipscuba.net/salud-y-ciencia/com
 Hoy parece ser un momento idóneo para intentar ser artífices de la teología de la ternura (la cultura del abrazo) en nuestra sociedad cubana; mañana, mañana puede ser muy tarde. El Papa Francisco en su última [encíclica](https://es.wikipedia.org/wiki/Enc%C3%ADclica) _Fratelli Tutti,_ aboga por un modo de proceder guiado por la fraternidad y la amistad social.  Quizás eclesialmente no tengamos la fuerza social de antaño para sentar a dialogar las partes del conflicto en nuestra sociedad civil, pero intentarlo con todas las herramientas disponibles, puede ayudar. Pues, si en algo las personas de bien coinciden plenamente, es que la palabra clave para dar pasos tangibles hacia la armonía civil, es Reconciliación.      
 
 sociedad civil en Cuba y reconciliación, sociedad civil en Cuba y reconciliación
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)

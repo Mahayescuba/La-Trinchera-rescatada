@@ -3,7 +3,7 @@ title: "El pecado original"
 date: "2020-06-22T16:51:54+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2020/06/Maykel-Herrera-Nina.jpg"
+image: ""
 ---
 Esta vez la polémica, entre tantas crudas realidades, viene del post, en mi opinión muy desacertado, compartido por la rapera Danay Suárez (de quien soy admirador).
 
@@ -32,15 +32,3 @@ Reza la Biblia que Dios es amor, y en la lectura de las palabras escritas en el 
 La interpretación al pecado original también puede venir acompañado de una dosis de odio, en el peor de los casos, e  incomprensión hacia lo diferente en las concepciones de quienes escriben las leyes de la divinidad.
 
 Las palabras y acciones de cristianos, a mi entender, no deben estar lejos de la materia que compone a Dios: AMOR.
-
-[Otro texto del autor](/onirica/)
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

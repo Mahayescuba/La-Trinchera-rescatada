@@ -3,7 +3,7 @@ title: "De “armas melladas” basta ya"
 date: "2018-12-21T05:13:34+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2018/06/armas.jpg"
+image: ""
 ---
 por: **Miguel Alejandro Hayes Martínez**
 
@@ -68,15 +68,3 @@ En realidad no doy grandes razones teóricas aquí, pero acabar de entender cóm
 [](#_ftnref1) \[1\]Marx afirmó: “…las circunstancias hacen al hombre en la  misma medida en que éste hace a las circunstancias”.  Con esto se refiere a que el hombre (ser consciente) está determinado por sus circunstancias, pero que este ser consciente, crea conscientemente sus circunstancias. Por tanto, ese pensamiento, está  determinado por estas, pero también conscientemente se va construyendo una vida.
 
 [\[2\]](#_ftnref2) Asumo desenfrenado no a partir de una moral del consumo, sino que sea perjudicial para el propio hombre el sus circunstancias.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

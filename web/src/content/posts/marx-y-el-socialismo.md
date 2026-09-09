@@ -3,7 +3,7 @@ title: "Marx y el socialismo"
 date: "2021-02-13T17:00:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/02/David-Andrew-Frey.jpg"
+image: ""
 ---
 Durante mucho tiempo, el pensamiento de Marx ha sido asociado a la idea de la construcción de un “proyecto socialista”. Una buena parte de esa concepción se debe a la gran influencia o, mejor dicho, a la hegemonía ejercida sobre el marxismo desde la URSS. Eso llegó a nuestro país, y como muestra de ello es el cambio de nombre del PCC (de orientación marxista) a PSP. Más allá de la necesidad histórica de ese cambio, producto de las persecuciones políticas, en la actualidad, por razones que no mencionaré, es evidente que nosotros los cubanos, al igual que el resto del mundo, asociamos las ideas del marxismo a un pensamiento socialista.  ¿Hasta qué punto es eso correcto?
 
@@ -49,17 +49,3 @@ Sin dudas, él no se sentía atraído por el socialismo como doctrina y no tení
 [\[1\]](https://jovencuba.com/marx-y-el-socialismo/#_ftnref1)  El modelo de Lasalle es lo que se expone en el tristemente conocido ¨Programa de Gotha¨.
 
 _Texto originalmente publicado en LJC_
-
-Marx y el socialismo, Marx y el socialismo
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

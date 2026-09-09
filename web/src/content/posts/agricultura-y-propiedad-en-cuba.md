@@ -1,5 +1,5 @@
 ---
-title: "agricultura y propiedad en Cuba"
+title: "Agricultura en Cuba: la tierra ¿de quienes la trabajan?"
 date: "2020-10-15T09:30:00+00:00"
 author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
@@ -14,10 +14,6 @@ Dejando de lado el histrionismo impregnado en la cita, y haciendo la justa salve
 La ya mencionada Ley de reforma agraria de 1959 concibió un modelo agrario que abandonaba el monocultivo, impulsaba la industria privada de la mano de un Estado que combinaba mecanismos directos e indirectos -a la usanza de la época- en aras del desarrollo de la economía nacional, la cual no por ello dejaba de ser esencialmente liberal. La ley fijaba en un máximo de 30 caballerías la extensión de tierra que personas naturales o jurídicas podrían poseer en lo adelante, siendo expropiable el resto para su distribución entre los campesinos. 
 
 Al ser el agropecuario un área tan compleja, impregnada de particularidades sectoriales, la ley previó toda una serie de excepciones a esta distribución[\[1\]](applewebdata://BF7827D4-0E2D-4836-A19F-040F35BE4DCE#_ftn1), a la vez que sustraía las parcelas entregadas del tráfico económico al impedirles integrar sociedades civiles o mercantiles (art. 33) e impedía a los titulares su libre disposición. 
-
-> [Agricultura en Cuba, ¿una solución postergada?](/economia-en-cuba/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Agricultura en Cuba, ¿una solución postergada?» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/economia-en-cuba/solucion-a-la-agricultura-cubana/embed/#?secret=tSDB5f7m0F" data-secret="tSDB5f7m0F" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 Por su parte, la ley de reforma agraria de 1963 marcó distancias con su antecesora de 1959. Lo dramático del giro en un periodo de tiempo tan breve, no se explica sino mediante la convulsa situación política que sacudía y polarizaba el país. Los _por cuantos_ de la segunda ley de reforma hablaban por sí solos. En efecto, estigmatizaban a los medianos y grandes propietarios rurales recurriendo a términos despectivos hoy clásicos del oficialismo: _burgueses_, _contrarrevolucionarios_, _antisociales_ -vamos, lo de siempre- y su retórica recurría constantemente a la lucha de clases, sazonada con un discurso nacionalista a tono con las circunstancias de la época…
 
@@ -38,10 +34,6 @@ Si se quiere ver, avanzamos hacia la definitiva consolidación de un modelo neof
 Con respecto lo primero, diré que ACOPIO ha devenido en la práctica un lamentable paradigma de la ineficiencia del sector, capaz de contrarrestar cualquier mejora en la producción agraria al entorpecer su distribución en el mercado (no mucho antes de la fecha en que se escribe este artículo, indignó al país la pérdida de buena parte de la cosecha de mangos, por solo citar un ejemplo).
 
 En cuanto a lo segundo, lo inconveniente salta a la vista: no se le permite al agricultor ni siquiera determinar qué cultivar. Un mayor margen de discrecionalidad en este ámbito permitiría que las cosechas se proyectaran con una noción más funcional a la oferta y demanda del mercado, mitigando así escaseces y precios exorbitantes. Pero no, aparentemente los funcionarios del MINAGRI desde la comodidad de sus aclimatadas oficinas están en mejor posición de saber qué es mejor para el campo cubano que los propios campesinos. 
-
-![](/wp-content/uploads/2020/10/Sustituir-importaciones.jpg)
-
-![](/wp-content/uploads/2020/10/Sustituir-importaciones.jpg)
 
 A ello se le suma que la forma que concibe el Estado de disuadir (o punir, depende cómo se vea) la explotación _inadecuada_ de la tierra no es mediante una política de incentivos que persuadan al campesino de acatar la voluntad administrativa. El Estado prescinde de la miel y abusa del vinagre:
 
@@ -64,11 +56,3 @@ Para asegurarse del cumplimiento de las normas -intento resistirme a calificarla
 [\[1\]](applewebdata://BF7827D4-0E2D-4836-A19F-040F35BE4DCE#_ftnref1) Las excepciones a este reparto estaban recogidas esencialmente en los artículos 2, 3, 6
 
 Nota: _Et al:_ expresión latina que significa _y otros_
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/ernesto-g.jpg#038;ssl=1)
-    
-    ![](/wp-content/uploads/2021/02/ernesto-g.jpg#038;ssl=1)
-    
-    [Ernesto Gutiérrez Leyva](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/ernesto-gutierrez-leyva/)

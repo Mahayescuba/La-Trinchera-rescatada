@@ -3,7 +3,7 @@ title: "Marx y los regímenes socialistas(I)"
 date: "2018-08-03T15:24:29+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2018/08/descarga.jpeg"
+image: ""
 ---
 Regímenes socialistas.
 
@@ -72,15 +72,3 @@ Marx y Engels eran ‘comunistas’; y no cualquier tipo de ‘comunistas’. Ha
 Tomado de [Rebelión](http://www.rebelion.org/noticia.php?id=244809&titular=marx-y-los-regimenes-socialistas-)
 
 Regímenes socialistas. Regímenes socialistas. Regímenes socialistas. Regímenes socialistas. Regímenes socialistas.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

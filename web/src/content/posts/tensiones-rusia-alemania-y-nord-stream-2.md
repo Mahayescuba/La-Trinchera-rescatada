@@ -1,9 +1,9 @@
 ---
-title: "tensiones Rusia Alemania y Nord Stream 2"
+title: "Tras el telón"
 date: "2020-09-23T09:30:00+00:00"
 author: "Ernesto Gutiérrez Leyva"
 category: "Política"
-image: "/wp-content/uploads/2020/09/Russian-Fairy-Tales-.jpg"
+image: ""
 ---
 tensiones Rusia Alemania y Nord Stream 2.
 
@@ -39,10 +39,6 @@ Llegamos a 2020, año electoral en Estados Unidos. Uno de los candidatos, el dem
 
 Entonces, nos encontramos ante una Europa que prácticamente reza por la victoria de Biden [4](applewebdata://E04C7BCA-1E51-4A52-A4D4-E09F262F7C06/%20https:/www.elconfidencial.com/economia/2020-06-26/elecciones-eeuu-ue-menu-electoral-trump_2657715/) y que calcula que el Nord Stream 2 será llevado a la mesa de negociaciones, si USA decidiera definitivamente retomar la senda del libre comercio. Inclusive, ya desde sus días como vicepresidente, el demócrata criticó abiertamente el gasoducto[5](applewebdata://E04C7BCA-1E51-4A52-A4D4-E09F262F7C06/%20https:/www.finanzas.com/empresas-y-directivos/biden-cree-que-el-gasoducto-nord-stream-ii-seria-un-mal-negocio-para-europa_13469008_102.html%20)., y es en este contexto que ocurre el presunto envenenamiento del opositor ruso Alexéi Navalny.
 
-![](/wp-content/uploads/2020/09/Russia-Nord-Stream-2-Denmark-Akademik-Cherskiy-Baltic-gas-pipeline-hydrocarbons-energy-industry-gas.png)
-
-![](/wp-content/uploads/2020/09/Russia-Nord-Stream-2-Denmark-Akademik-Cherskiy-Baltic-gas-pipeline-hydrocarbons-energy-industry-gas.png)
-
 SOURCE: NORD-STREAM2.COM
 
 El pasado 20 de agosto la noticia del presunto envenenamiento de Alexéi Navalny daba la vuelta al mundo. Según la versión dada por los partidarios del político ruso, habría tomado un té en el aeropuerto mientras esperaba el vuelo que lo llevaría de regreso a Moscú desde la siberiana ciudad de Tomsk, en la cual había participado en diversas actividades de índole política.
@@ -60,11 +56,3 @@ Otras reacciones europeas, aunque mucho más moderadas como la francesa no se ha
 Alemania entiende que será mucho más fácil deshacerse del gasoducto en aras de complacer a Washington si no llega a estar operativo, de ahí que el polvo levantado por el infortunio de Navalny le venga como anillo al dedo a Berlín para dilatar el asunto. Sea cual sea la decisión que tomen los alemanes, dudo que nos enteremos antes del 3 de noviembre próximo.
 
 tensiones Rusia Alemania y Nord Stream 2, tensiones Rusia Alemania y Nord Stream 2, tensiones Rusia Alemania y Nord Stream 2
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/ernesto-g.jpg)
-    
-    ![](/wp-content/uploads/2021/02/ernesto-g.jpg)
-    
-    [Ernesto Gutiérrez Leyva](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/ernesto-gutierrez-leyva/)

@@ -1,9 +1,9 @@
 ---
-title: "Periodismo"
+title: "El mejor periodista"
 date: "2020-01-12T20:30:20+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/01/TRES-COSAS-VINTAGE-MUY-MODERNAS-QUE-NOS-ENCANTAN-muymolon-1.jpeg"
+image: ""
 ---
 periodismo.
 
@@ -37,15 +37,3 @@ Llamé al seleccionado y le informé que ya estaba elegido, pero deseábamos man
 El favorecido acudió a la cita y tras los saludos habituales le pedí una prueba final. Le doy 10 minutos para que redacte un editorial de una cuartilla, ahí tiene la máquina de escribir (no había aún computadoras). El aludido no se inmutó. Se sentó frente a la artefacto y simplemente inquirió ¿Sobre qué tema? Cualquiera, le respondí, por ejemplo: [Dios](https://es.wikipedia.org/wiki/Dios). A lo que contestó: ¿Lo quiere a favor o en contra?
 
 Por supuesto, no todos los periodistas actúan de este modo venal. No son plumas a sueldo. Algunos prefieren quemarse.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

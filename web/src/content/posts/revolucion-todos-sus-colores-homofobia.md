@@ -3,7 +3,7 @@ title: "Una Revolución con todos sus colores"
 date: "2018-05-28T16:00:37+00:00"
 author: "René Portuondo"
 category: "Opinión"
-image: "/wp-content/uploads/2018/05/LGBT_flag_map_of_Cuba.svg_.png"
+image: ""
 ---
 Aunque el nombre suene raro, este post nada tiene que ver con las llamadas “revoluciones” de colores ocurridas en los países del Este Europeo hace ya más de una década. Me ocupa un tema mucho más cercano y que realmente tiene mayor impacto en la vida actual de la nación, la cual recorre el largo camino de abrir espacios y superar viejos prejuicios contra un sector poblacional con cada vez mayor peso en el día a día cubano: la comunidad LGBTI (Lesbianas- Gais- Bisexuales- Transexuales e Intersexuales).
 
@@ -26,15 +26,3 @@ Desde inicios del siglo XXI y hasta la actualidad mucho se ha avanzado, y desde 
 Para nadie es un secreto que queda mucho por caminar todavía, que queda muchas mentes que abrir, leyes que hacer o que cambiar (la aceptación legal del matrimonio entre personas del mismo género y los derechos de adopción conjunta por ejemplo), pero nadie puede negar lo mucho que se ha avanzado. De ser uno de los países más intolerantes de la región, a estar considerados uno de los que más lucha por materia de inclusión y contra la homofobia. En gran medida eso ha sido obra de muchas personas nacidas bajo los principios de la revolución y que más que sacar los errores del pasado, se esfuerzan por superarlos.
 
 Eso es muestra de un país que avanza y que trata de dejar atrás los viejos errores, haciendo lo mejor que se puede para ello: corregirlos. Algunos dicen que aun falta una disculpa oficial por los exceso de antaño, -es posible-, pero realmente no creo que unas palabras sean lo fundamental aquí, lo fundamental es todo lo que se está trabajando y todo lo que puede quedar por hacer, por hacer desaparecer un moralismo de índole sexual que se heredó del capitalismo y que sin dudas, ha sido dañino para el socialismo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,5 +1,5 @@
 ---
-title: "Neurotecnología y discurso transhumanista"
+title: "Distopía transhumanista para un mundo pospandemia"
 date: "2020-12-02T10:30:35+00:00"
 author: "Andrés Kogan Valderrama"
 category: "Cultura"
@@ -38,15 +38,3 @@ Desconociendo así, que la mente, como bien plantearon en su momento los neuroci
 Lo que se trata por tanto, no es solo regular desde los Estados a las nuevas neurotecnologías y dispositivos digitales, sino de interconectar mundos solidarios y sostenibles, que se sitúen desde un horizonte del Buen Vivir y no desde un Vivir Mejor de carácter tecnocapitalista, para dejar atrás así un discurso transhumanista que va dirigido finalmente a una elite económica, política e intelectual, que quiere superar nuestra condición de seres vivos para salvarse de la catástrofe socioambiental.
 
 Tomado de [Rebelión](https://rebelion.org/)
-
-neurotecnología y discurso transhumanista, neurotecnología y discurso transhumanista, neurotecnología y discurso transhumanista
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/0.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/0.jpeg)
-    
-    [Andrés Kogan Valderrama](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/andres-kogan-valderrama/)
-    
-    Sociólogo de Municipalidad de Lo Prado, Chile

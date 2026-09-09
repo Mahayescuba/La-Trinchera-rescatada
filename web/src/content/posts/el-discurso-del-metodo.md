@@ -3,7 +3,7 @@ title: "El discurso del método"
 date: "2018-12-13T05:14:53+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2018/12/PicsArt_12-06-12.41.25.jpg"
+image: ""
 ---
 El discurso del método es el texto de Descartes que trae Miguel Alejandro Hayes a La Trinchera en esta ocasión para repensar el intelectual contemporáneo.
 
@@ -45,15 +45,3 @@ No será algo muy convencional, pero hay todo un modelo en Descartes si se conte
 Bibliografía
 
 Descartes, R. (2010). El discurso del Método. Madrid: FGS.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

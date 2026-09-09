@@ -1,5 +1,5 @@
 ---
-title: "Los economistas y sus teorías esconden una postura política"
+title: "Cuál es el bando de los economistas"
 date: "2018-02-15T16:15:15+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Opinión"
@@ -22,15 +22,3 @@ En la nueva propuesta ya no era un criterio de propiedad lo que determinaba la d
 Estos queridos economistas, de Austria, Laussanna, Inglaterra y Estados Unidos de América, no sólo leían poco (insisto en que esto no es una ofensa), sino que se habían quedado traumatizados con las máquinas. Para ellos, esa gran productividad que estas generaban, era lo que poseía el poder creador en la sociedad (eso decían pensar). Así poco a poco, una pobre teoría se fue apoderando de la mente y la concepción del beneficio: la máquina es su fuente.
 
 Quizá el lector se cuestione si mi crítica es innecesaria, porque quién sabe, a lo mejor ellos tenían razón. Sin embargo, hay algunas cosas sobre las que propongo reflexionar para cerrar el tema. ¿Cuáles son los países con mayores niveles de maquinarias e industrias? ¿A quién le conviene entonces pensar que las utilidades las producen estas? Para ellos trabajaban esos economistas, y siguen trabajando los que han continuado la misma línea.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

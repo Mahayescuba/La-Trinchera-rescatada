@@ -3,7 +3,7 @@ title: "Martí y Fray Olallo"
 date: "2020-02-12T15:57:32+00:00"
 author: "Norma Normand Cabrera"
 category: "Historia"
-image: "/wp-content/uploads/2020/02/IMG_20200212_105434.jpg"
+image: ""
 ---
 José Martí fue bautizado el sábado 12 de febrero de 1853, apenas con quince días de nacido, en la iglesia del Santo Ángel Custodio, la misma donde en la novela inolvidable del cubanísimo Cirilo Villaverde cayera apuñalado por un vengativo rival, en el día de sus bodas con otra, el burlador de la infeliz mulata Cecilia Valdés.
 
@@ -24,8 +24,6 @@ En efecto, él será cristiano; cristiano, como explicará en una cartilla escri
 > Y continúa el Dr. Quesada: _Pero ha concluido el rito; queda firmada el acta. Cumplida la tradición, el padre vuelve a sus deberes militares; y la madre, al pie de la modesta cuna donde el niño soñoliento de tanto ajetreo dormirá plácidamente, sin signo alguno de lo que habrá de ser: un eterno rebelde”…_  
 > _Ese mismo día, un cubano huérfano que fuera depositado el 15 de marzo de 1820 en la Casa Cuna de San José en La Habana, cumplía treinta y tres años (la llamada, popularmente, “edad de Cristo”). Por un papel prendido en sus ropas cuando lo abandonaron se supo que nació el 12 de febrero, mas no el nombre de sus padres. Como los demás de su condición, fue bautizado Valdés: José Olallo Valdés._
 
-![](/wp-content/uploads/2020/02/josé_olallo_valdés6463396852356834.-scaled.jpg)
-
 Tan pronto como en 1835 el adolescente se unió a la Orden Hospitalaria, y desde entonces, hasta su fallecimiento, ocurrido en 1889, vivió y trabajó en el Hospital de San Juan de Dios, en el hoy Camagüey. Obviamente, la Guerra del 68 lo encontró allí, prestando sus servicios como enfermero y cirujano, conocimientos adquiridos de forma empírica y mediante la mucha práctica hospitalaria, primero en La Habana y después en Puerto Príncipe.  
 En el hermoso trabajo Héroe de la Caridad, publicado en la Revista Palabra Nueva de diciembre de 2008, expresa en uno de sus párrafos el Dr. Roberto Méndez:
 
@@ -39,15 +37,3 @@ El 29 de noviembre de 2008 la Plaza de la Catedral de Camagüey resultó pequeñ
 Su fiesta se celebra, según disposición del Vaticano, cada 12 de febrero, fecha de su cumpleaños.  
 Acostumbrados los cubanos a la riqueza de nuestra historia, no debe asombrarnos cómo de nuevo se unen dos efemérides tan caras a todos: el bautizo de José Julián, devenido Apóstol de la Independencia, Héroe Nacional de Cuba, y el nacimiento de otro José, Beato cubano y Héroe de la Caridad.  
 Sirvan estas líneas como sencillo homenaje de recuerdo, respeto y devoción hacia tan entrañables figuras, cubanos que se desenvolvieron casi en la misma época turbulenta y decisiva para nuestro país como lo fue la segunda mitad del Siglo XIX. Aunque en contextos diferentes, ambos actuaron guiados por sentimientos de infinito amor y entrega sin límites hacia los demás, pilares de la fe cristiana y características de nuestra conciencia patria: el religioso Fray Olallo, consagrado a la noble vocación de curar a sus semejantes y luchar a brazo partido contra la muerte, pero enfrentando también a las autoridades coloniales cuando trataban de impedirle atender a los cubanos heridos, y el revolucionario Martí, dedicado su vida entera a hacer a Cuba libre, a sanarla de los males que la aquejaban, y para quien _ser cristiano es ser rebelde a todo lo que representa injusticia en el mundo._
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

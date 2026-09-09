@@ -80,15 +80,3 @@ Un fantasma recorre Cuba, es el fantasma de la cubanidad, esa que se plasmó en 
 una isla digna de llamarse Nación, donde el ideario Martiano adquiera plena vigencia.
 
 Reforma constitucional en Cuba. Reforma constitucional en Cuba. Reforma constitucional en Cuba. Reforma constitucional en Cuba. Reforma constitucional en Cuba.  Reforma constitucional en Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

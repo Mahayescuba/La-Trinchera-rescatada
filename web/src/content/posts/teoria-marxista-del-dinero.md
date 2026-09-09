@@ -1,5 +1,5 @@
 ---
-title: "teoria marxista del dinero La Trinchera Miguel Alejandro Hayes"
+title: "El dinero, algunas consideraciones a partir de la teoría de Marx (I)"
 date: "2018-04-03T12:00:19+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Economía Política"
@@ -58,15 +58,3 @@ Hasta aquí, puede verse que la teoría de Marx del dinero, permitía exponer c�
 Marx, Carlos. El Capital I. México : Siglo XXI, 2002.
 
 [Segunda Parte](/economia-politica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

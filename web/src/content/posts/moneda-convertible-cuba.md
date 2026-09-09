@@ -3,7 +3,7 @@ title: "Convertibilidad de monedas nacionales"
 date: "2019-05-28T07:20:07+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2019/05/PicsArt_05-28-03.14.34.jpg"
+image: ""
 ---
 Que las monedas sean convertibles es un hecho. Aplica tanto para el CUC como para el CUP.
 
@@ -41,15 +41,3 @@ Para finalizar, algo de teoría no estaría mal. Cualquier moneda que haya funci
 En las monedas modernas pasa un fenómeno similar, si se intentara cambiar todos los euros en manos de los ciudadanos de la Unión Europea por dólares, a la tasa de cambio vigente, pues sería imposible, ningún país cuenta con reservas de divisas externas tan grande. Pero la confianza de la convertibilidad es la basa fundamental de su existencia. Igualmente, si mañana todos los cubanos corriéramos a cambiar nuestros pesos por dólares u otras divisas, descubriríamos que el Banco Central no puede hacer frente a dicho tamaño de demanda a la tasa de cambio 25cup por 1 usd, estaría obligado a devaluar el tipo de cambio. Pero mientras dicho pánico no ocurra y se pueda mantener una estabilidad en los flujos de divisas, la convertibilidad es un hecho, no una ilusión.
 
 monedas convertibles monedas convertibles monedas convertiblesmonedas convertibles  monedas convertibles monedas convertibles monedas convertibles monedas convertiblesmonedas convertibles  monedas convertibles
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

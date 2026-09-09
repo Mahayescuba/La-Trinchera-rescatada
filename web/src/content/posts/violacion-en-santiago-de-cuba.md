@@ -1,9 +1,9 @@
 ---
-title: "violación en santiago de cuba"
+title: "Sobre un interrogatorio"
 date: "2020-03-11T09:30:08+00:00"
 author: "Ariel Montenegro"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/03/abstract-painting-by-huanggonghuang-scaled.jpeg"
+image: ""
 ---
 Después de ver el video filtrado del interrogatorio al monstruo que violó una niña de ocho años recientemente en Santiago de Cuba, siento vergüenza como hombre y como revolucionario.
 
@@ -24,15 +24,3 @@ Violar es de las peores vilezas humanas: da lo mismo el género o la edad de qui
 [Tomado de Western Congrí](https://westerncongri.wordpress.com/2020/03/06/sobre-un-interrogatorio/)
 
 [También puede interesar](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "A los implicados"
 date: "2019-03-11T07:09:09+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Opinión"
-image: "/wp-content/uploads/2019/03/PicsArt_03-11-03.06.18.jpg"
+image: ""
 ---
 Hace poco más de un año, un hecho nos marcó a un grupo de jóvenes. Nos tocó muy de cerca. A algunos, nos sumió en una angustia que conducía a replantear mucho de lo que se creía. Otros sacaron provecho, y otros claro, ni se enteraron, incluso estando ahí.  
 Con lágrimas asomadas, escribí estas líneas que he esperado este tiempo para publicarlas.
@@ -41,16 +41,4 @@ Los implicados, pueden recordar con nostalgia la adrenalina de desafiar al poder
 Se perdió mucho, se cedió ante un poder que no teme debilitar y dividir a los jóvenes por hacer primar sus intereses. La revolución, por falta de constancia en las ideas se convirtió en una revuelta. Pero somos tan solo hombres, no se podía hacer más. También es un hecho que las contradicciones siguen estando ahí. Están y seguirán estando mientras no las concienticemos, y para entonces, no serán incontenibles.  
 No fuimos malos, ni débiles, simplemente no se supo llevar encima el peso de lo que se representaba en ese momento. Aun no se contaba con la madurez suficiente para enfrentar un hecho de tal magnitud. Se ganó en experiencia. Se tenía que ceder, no estaban creadas las condiciones suficientes de lucha. Estos hechos fueron nuestra paz impuesta, sin independencia, nuestro _Zanjón_. Ya vendrá otra guerra una chiquita,
 
-> ¡Y una necesaria! 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+> ¡Y una necesaria!

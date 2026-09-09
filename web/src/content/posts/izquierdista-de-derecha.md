@@ -3,12 +3,8 @@ title: "Izquierdista de derecha"
 date: ""
 author: ""
 category: ""
-image: "/wp-content/uploads/2020/05/IMG_20200504_215805.jpg"
+image: ""
 ---
-![](/wp-content/uploads/2020/05/IMG_20200504_215805.jpg)
-
-![](/wp-content/uploads/2020/05/IMG_20200504_215805.jpg)
-
 [](# "Siguiente")[](# "Anterior")
 
 [](# "Anterior")[](# "Siguiente")

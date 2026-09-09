@@ -1,9 +1,9 @@
 ---
-title: "Marx: política y enajenación"
+title: "El libro “Marx: política y enajenación”"
 date: "2018-02-21T16:15:59+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Opinión"
-image: "/wp-content/uploads/2018/02/marx-politica-y-enajenacion.jpg"
+image: ""
 ---
 El día 8 de febrero el equipo de _La Trinchera_ visitó la Casa Cultural del Alba. Como parte de las actividades de la actual Feria Internacional  del libro de La Habana se realizaron presentaciones de libros. Me centro en uno de ellos _Marx: política y enajenación_ [(1)](http://edusol.cug.co.cu/index.php/EduSol/article/view/995).
 
@@ -33,15 +33,3 @@ Realmente se pudieran hacer numerosas observaciones que giran alrededor de lo ya
 Es mi primera reflexión.
 
 [También puede interesar](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

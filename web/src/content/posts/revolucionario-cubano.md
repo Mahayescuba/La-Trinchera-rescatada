@@ -1,9 +1,9 @@
 ---
-title: "revolucionario cubano"
+title: "Confundir ser cubano con ser revolucionario"
 date: "2018-03-08T16:35:30+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/03/cuba-libre.jpg"
+image: ""
 ---
 Hace unos días leí un texto con algo que me llamó la atención: el hecho de considerar al independentismo como lo auténticamente cubano y revolucionario. ¿Ha sido el independentismo realmente esa única postura revolucionaria y cubana? Para ilustrar el punto que intentaré exponer, haré uso de Marx dos veces.
 
@@ -51,18 +51,4 @@ Marx, Carlos. Sobre Proudhon. Obras Escogidas II. Moscú : Progreso, 1973.
 
 —. El Capital. México : Siglo XXI, 2002.
 
-[Otro texto del autor](/politica-en-cuba/)
-
 Tomado de [La Joven Cuba](https://jovencuba.com/2018/02/23/confundir-ser-cubano-con-ser-revolucionario/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

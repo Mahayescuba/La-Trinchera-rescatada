@@ -1,9 +1,9 @@
 ---
-title: "corrupción en Cuba hoy La Trinchera Miguel Alejandro Hayes"
+title: "Hablar de corrupción"
 date: "2018-06-01T12:20:16+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2018/05/corrupcion-cuba.jpg"
+image: ""
 ---
 Parece que hay nuevos aires en el país. Con la renovación se cambian personas y nuevos asuntos se levantan sobre la mesa. La corrupción pasa a ser uno de los temas que ocupará más nuestra atención en el futuro.
 
@@ -34,15 +34,3 @@ Quien se considere revolucionario y quiera resolver esto o ayudar a su solución
 Bibliografía
 
 1.  **Granma.**Consejo de Ministros analizó temas de la vida económica y social. _Granma._ 26 de abril de 2018, pág. Portada.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

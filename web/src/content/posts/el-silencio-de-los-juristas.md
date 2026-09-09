@@ -1,9 +1,9 @@
 ---
-title: "Aplicación del Derecho en Cuba"
+title: "El silencio de los juristas"
 date: "2020-11-20T17:00:37+00:00"
 author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/11/52eb291f2b13624cd805fa2c7abc1741.jpg"
+image: ""
 ---
 > _¿Cómo se sale del subdesarrollo? Cada día creo que es más difícil, lo marca todo, todo… En el subdesarrollo nada tiene continuidad, todo se olvida, la gente no es consecuente, pero tú recuerdas muchas cosas, recuerdas demasiado…_
 > 
@@ -20,10 +20,6 @@ La noticia me hizo reflexionar y finalmente decidirme a retomar este artículo�
 ¿Alguno de mis colegas habrá caído en cuenta que el día a día de la aplicación del Derecho en Cuba es francamente tétrico? ¿Habrán pensado que la serie a veces tiene que recurrir obligatoriamente a la ficción, porque la solución real que hoy por hoy se dan a ciertos conflictos, que van desde lo penal a lo familiar, es francamente lúgubre? 
 
 Los tribunales -no en Cuba, en el mundo entero-, son de derecho, no de justicia; triste pero cierto. Podemos ver fallos manifiestamente injustos porque en determinados supuestos es la única salida que nos da la propia ley. Es usual que la parte a quien le asiste la razón no gane porque no pudo probar lo alegado. Es cierto, pero no hablo de eso…
-
-> [Agricultura en Cuba: génesis](/politica-en-cuba/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Agricultura en Cuba: génesis» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/politica-en-cuba/sector-agropecuario-en-cuba/embed/#?secret=fv23Rtrq5U" data-secret="fv23Rtrq5U" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 Volviendo a la serie: mi amiga se indignaba porque en pleno acto judicial, y con la anuencia del tribunal, una de las abogadas sacaba de la sala a su cliente y la presionaba para que alterara su declaración. No voy a detenerme aquí a explicar la magnitud del disparate que ello representa, pero… ¿es acaso eso más grave que el que, en sede penal, el tribunal parezca más decidido a condenar al acusado que el propio fiscal? _Quien tenga por fiscal a un juez, necesitará a Dios como abogado_ reza un viejo aforismo de los especializados en Derecho procesal…
 
@@ -43,10 +39,6 @@ Otro caso es el de la ley procesal civil, que prohíbe a los jueces entender sob
 
 El Código Penal castiga el _hurto y sacrificio ilegal del ganado mayor_, y no resulta descabellado. Motivos para disuadir de esta práctica sobran, lo inconcebible es que a los ojos de la ley se dé igual tratamiento al campesino propietario del animal -vacuno o equino-, que al vulgar ladrón que la sustrae ilegítimamente del patrimonio de su dueño. ¿Sabrá el legislador penal que la libre disposición (sacrificio en este caso) es una facultad inherente al derecho a la propiedad?
 
-> [Cambiar a quien deba ser cambiado](/politica-en-cuba/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Cambiar a quien deba ser cambiado» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/politica-en-cuba/cambiar-a-quien-deba-ser-cambiado/embed/#?secret=GHwA9OSrMn" data-secret="GHwA9OSrMn" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
 El régimen agrario en su conjunto es más que nefasto, [como hemos expuesto en otras oportunidades](/politica-en-cuba/) y suya es parte de la responsabilidad del estado en la improductividad en que se encuentra el sector desde hace décadas…
 
 En plena pandemia, al Estado cubano se le ocurrió desempolvar un nefasto DL-370 en cuya virtud multó a más de un ciudadano por subir _contenido contrario al interés social_ a sus redes sociales… [Algunos protestamos en contra](http://www.ivoox.com/51058362) pero no fuimos suficientes. ¿Dónde quedó la libertad de expresión del artículo 54 de la Constitución? Esa misma en cuya fase de discusión popular hubo un consenso prácticamente unánime en el seno de la sociedad: el cargo de Presidente de la República debía ser electivo, no por designación de la Asamblea. ¿Con qué derecho los que dicen representarnos usaron nuestra petición -más bien orden, que para algo somos el soberano como dicen por ahí- con el mismo fin que se usa el periódico Granma, a veces antes de ser leído incluso?
@@ -58,13 +50,3 @@ Con todos y los otros muchísimos problemas (que no voy a mencionar) que aquejan
 Quedan muy pocos juristas en Cuba. Algunos de ellos ya han sido satanizados y excomulgados por _exceso de dignidad_. Por eso me fui del gremio apenas pude, con la expresa intención de ahorrarme la ceremonia del acto de imposición de la toga. Haciendo un rápido chequeo mental, no veo ningún jurista entre aquellos que posiblemente hubieran presidido el protocolar acto. Discúlpenme la rudeza, pero una persona que no merece la toga que usa, mucho menos está autorizada a imponérsela a otra.
 
 No voy a cerrar este artículo indicando una ruta cuya elaboración no me corresponde en exclusiva. Mi única intención es llamar a la reflexión, a que cada uno de nosotros piense, desde la coherencia y la integridad, en lo que podemos hacer para que todo aquello que tenga que ver con Cuba -no solo el Derecho- gane un poco más de amor y de esperanza.
-
-aplicación del Derecho en Cuba, aplicación del Derecho en Cuba, aplicación del Derecho en Cuba, aplicación del Derecho en Cuba, aplicación del Derecho en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/ernesto-g.jpg#038;ssl=1)
-    
-    ![](/wp-content/uploads/2021/02/ernesto-g.jpg#038;ssl=1)
-    
-    [Ernesto Gutiérrez Leyva](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/ernesto-gutierrez-leyva/)

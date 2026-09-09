@@ -1,9 +1,9 @@
 ---
-title: "Dios Yo, tú, ¿nosotros?"
+title: "Yo, tú, ¿nosotros?"
 date: "2019-09-02T06:02:00+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/09/Dieuimages-1.jpg"
+image: ""
 ---
 Dios. 
 
@@ -18,13 +18,3 @@ Quizá no pretendo escribir lo que siento -tal vez sea ficción lo que digo. Dio
 Amanece y atardece y empuño mi pluma -tanta carencia de un revolver en mis manos- solo y acompañado por todos aquellos que mienten con todos aquellos que deambulan por las palabras, respirar, cuantos más como yo, y nadie para luchar  
 (continuar)  
 Este jodido corrector no funciona.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    [Anckla](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/anckla/)
-    
-    [](https://www.amazon.com/s?i=digital-text&rh=p_27%3AAnckla+Almirante+&s=relevancerank&language=es&text=Anckla+Almirante+&ref=dp_byline_sr_ebooks_1)

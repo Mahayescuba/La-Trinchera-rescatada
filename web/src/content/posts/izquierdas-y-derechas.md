@@ -3,7 +3,7 @@ title: "El imperio del populacho Vs la modernidad ilustrada"
 date: "2019-04-22T14:39:31+00:00"
 author: "José Gabriel Barrenechea"
 category: "Política"
-image: "/wp-content/uploads/2019/04/Asaf-Hanuka_-The-Realist.jpeg"
+image: ""
 ---
 Mucho tienen en común las izquierdas y las derechas autoritarias; además del adjetivo, claro está: ambas parten de la sublimación del _populacho_, de la canalla de [Voltaire](https://es.wikipedia.org/wiki/Voltaire).  
 Los caminos por los cuales llegan a este mismo punto son diferentes, pero evidentemente el objetivo en su actividad política es uno y el mismo: enfrentar a la Modernidad Ilustrada.  
@@ -21,17 +21,3 @@ El que sin lugar a dudas vivamos un retroceso cultural, y hasta algunos señalan
 No negamos que el modelo de ingeniería social para el mejoramiento del hombre, aplicado por una élite y según programas burocráticos, no tenga evidentes peligros… pero hay algo también muy real: la democracia no funciona sin que el hombre se mejore a sí mismo, y sin que busque la virtud. La democracia funciona no tanto en base a mecanismos legales y contrapesos institucionales, como a una determinada cultura, la del pluralismo, sobre la cual no se sustenta el _populacho_, quien por el contrario lo hace sobre la heterofobia.  
 El asunto no es eliminar a las élites educadas, cultas, virtuosas del pasado, para en su lugar elevar a la categoría de lo máximo al _populacho_, a la canalla… el verdadero asunto, y la verdadera agenda del progresivismo consecuente es convertir a ese populacho en lo que antes solo eran las élites. ¿Un empeño utopista…? Quizás, pero es el único camino… por otra parte, la verdad es que solo hay que proponerse abandonar las Utopías reivindicacionistas por esa otra Utopía que está en el fondo del liberalismo: en definitiva la sociedad utópica a que debemos aspirar es aquella propuesta por Kant, la de una sociedad en que todos seamos en igual medida libres. La sociedad Abierta de Popper, en que los motivos de la acción de cada ciudadano solo se encuentran en sus imperativos morales propios, no en el miedo a desentonar de un determinado ideal de lo humano, o en la imitación de ese ideal mimético.  
 La primera acción concreta, por cierto, es mandar a paseo a casi todos los sistemas de enseñanza del mundo, que solo perpetúan al hombre sin facetas… No es conocimiento lo que necesitamos educar, sino valores, virtudes, habilidades… y mucha, mucha independencia de criterio, toneladas de ella.
-
-[Otro texto del autor](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

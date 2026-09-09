@@ -3,7 +3,7 @@ title: "Justo ante todo"
 date: "2020-05-12T18:52:15+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/05/photo_2020-05-12_20-46-46.jpg"
+image: ""
 ---
 Desafortunadamente, existen activistas que para encontrar un sitio dentro del movimiento LGBTIQ cubano se basan en una negación del otro.
 
@@ -20,17 +20,3 @@ Por eso, no comparto y denuncio cualquier complot politiquero que pida la renunc
 El saldo positivo de ayer fue que hay más voces y perspectivas del movimiento cubano LGBTIQ, de la que los extremismos pueden dilucidar. Aún nuestros cuerpos, deseos y disidencias necesitan el tan ansiado diálogo. Construirlo desde el respeto permitirá avanzar en la conquista de nuestros derechos.
 
 P.S. No tengo intención de responder, siéntase libre de descargar su odio.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Marx no es Proudhon"
 date: "2018-04-25T22:23:56+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2018/04/índice-1.jpg"
+image: ""
 ---
 Diferencias entre Marx y Proudhon.
 
@@ -79,13 +79,3 @@ Es por eso que mi llamado, es a comprender el pensamiento de Marx tal y como lo 
 2\. Marx, Carlos. Glosas marginales al ”Tratado de economía política” de Adolph Wagner. \[aut. libro\] Maurice Dobb, y otros. Estudios sobre El Capital. México: Siglo XXI.
 
 Diferencias entre Marx y Proudhon.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

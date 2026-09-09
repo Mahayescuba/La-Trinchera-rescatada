@@ -3,7 +3,7 @@ title: "¿En Cuba existen clases sociales?"
 date: "2019-07-10T06:04:17+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/07/PicsArt_07-10-01.58.52.jpg"
+image: ""
 ---
 El término _clases sociales_ en Cuba se ha ido construyendo desde el marxismo, aunque con un volumen bien bajito para no causar ruidos en los artífices de la alta política.
 
@@ -46,15 +46,3 @@ Todo el proceso de los medios de producción involucra también a quienes tienen
 
 Al finalizar este texto surge la pregunta sobre si deslegitiman las clases sociales el paradigma de la Revolución cubana; yo creo que no, porque son parte sustancial de cualquier mirada etnográfica de la misma evolución de la humanidad, no hablar de ellas como parte de nuestra realidad cotidiana es una falacia. La Revolución cubana nace de la consigna del Partido Auténtico que movió los hilos en 1933, “Cuba para los revolucionarios”. El triunfo revolucionario fue obra de 13 organizaciones diferentes con estamentos diferentes en sus estructuras. La idea de una sociedad sin clases, nace un poco más tarde, cuando se asume una especie marxismo ortodoxo soviético que va copando de a poco los tejidos sociales del país, hasta consolidarse un tiempo después. Los conceptos en el discurso político reciben disimiles significados, y algunos parecen evaporar de su interior su concepción inicial; por eso ahora, podemos oír decir, que aquel hombre que tiene contratada fuerza de trabajo en Cuba, si paga sus impuestos y contribuye en ganancias para el gobierno, es un miembro más del sistema socialista -partiendo de esa cosmovisión- toda Europa y Canadá también son esencialmente sociedades socialista.  
 La nomenklatura se caracteriza sobre todo en nuestro país, por la ascensión a un poder _decisor_. Los máximos representantes de la religión como estructura o clase social, lo que hacen es participar de poderes mediados, al menos así es como funciona en estas primeras décadas del siglo XXI. Lo económico es la forma más común para saber a qué clase social pertenece una persona. Algunos cientistas sociales aplican parámetros que permiten retratar de forma detallada el nivel de ingresos y beneficios que usualmente devenga cualquier individuo en su entorno; en las sociedades modernas definidas como marxistas es oportuno seguir la relación: persona, grupos y medio de producción, y allí entra el tema de la toma de decisiones, y las clases en lo político. En Cuba existe un problema serio en cuanto a definir con claridad, quién pertenece a una clase determinada, pero lo que sí es seguro es que la brecha – pese a no copar los niveles de la región latinoamericana – cada día va en aumento, desprotegiendo a esos que no tienen las herramientas necesarias para cambiar su _estatus_.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

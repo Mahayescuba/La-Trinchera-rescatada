@@ -1,9 +1,9 @@
 ---
-title: "Homenaje a Maradona Adiós"
+title: "Adiós"
 date: "2020-11-27T17:00:10+00:00"
 author: "Sender Escobar"
 category: "Cultura"
-image: "/wp-content/uploads/2020/11/115648738_gettyimages-1064052236-1.jpg"
+image: ""
 ---
 _La va a tocar para Diego, ahí la tiene Maradona, lo marcan dos.._.
 
@@ -11,9 +11,7 @@ Me leí _Yo soy el Diego de la gente_ en el pre, acostado en el suelo con una al
 
 La historia comienza con un niño nacido en Villa Fiorito, abrazado a una pelota de fútbol, con un padre que se levantaba a las 2 de la mañana para ir al [_laburo_](https://dle.rae.es/laburo) y varios hermanos durmiendo en un mismo cuarto.
 
-![](/i.pinimg.com/564x/22/82/d2/2282d2c9c220c057223bfcff98d369a0.jpg?w=960&ssl=1)
-
-![](https://i0.wp.com/i.pinimg.com/564x/22/82/d2/2282d2c9c220c057223bfcff98d369a0.jpg?w=960&ssl=1)
+![](https://i.pinimg.com/564x/22/82/d2/2282d2c9c220c057223bfcff98d369a0.jpg)
 
 Un niño que rompía los zapatos recién comprados jugando a la pelota. El adolescente que empezó a llamar la atención de clubes argentinos, ya inscrito en la AFA, y el destino de ser leyenda se construía en un regate, en un pase de magia certera, en una caída y recuperación inmediata porque en 90 minutos no solo a Luis Eduardo Aute le iba la vida en ello.
 
@@ -21,9 +19,7 @@ El descubrimiento de un joven que conquistó a un gran amor escuchando a Roberto
 
 Así llegaba al entonces discreto club italiano Nápoli F.C y la concreción era solo cuestión de tiempo cuando una pierna zurda dibujaba en el campo jugadas para no soñar, sin tener en cuenta marcas de rivales mayores y que la predilección de los ataques fueran sus tobillos, blancos de golpes ante la imposibilidad de detener a un _pibe_, al _pelusa_, que levantaba la cabeza una sola vez para calcular milimétricamente los metros de separación entre una portería y su pie o un compañero a la justa distancia de un zurdazo para detener el juego durante los eufóricos segundos de la celebración porque el verbo de una esfera se hizo gol _…deja el tendal y va a tocar para Burruchaga…_ ¡Siempre Maradona!…
 
-![](/www.telam.com.ar/advf/imagenes/2019/12/5dea9de697ecb_1004x565.jpg?w=960&ssl=1)
-
-![](https://i0.wp.com/www.telam.com.ar/advf/imagenes/2019/12/5dea9de697ecb_1004x565.jpg?w=960&ssl=1)
+![](https://www.telam.com.ar/advf/imagenes/2019/12/5dea9de697ecb_1004x565.jpg)
 
 Maradona con los colores del Napoli. Telam
 
@@ -31,9 +27,7 @@ Y llegó el 86, en el pre mi mamá también vio el juego desde una ventana, cuan
 
 _¡Genio! ¡Genio! ¡Genio! Ta-ta-ta-ta-ta-ta-ta-ta… Gooooool… Gooooool…_
 
-![](/www.mundodeportivo.com/r/GODO/MD/p7/MasQueDeporte/Imagenes/2020/11/25/Recortada/img_rruano_20201125-203052_imagenes_md_otras_fuentes_no_archivables_236181w980h1800-klYD-U49700273498gFF-980x554@MundoDeportivo-Web.jpg?w=960&ssl=1)
-
-![](https://i0.wp.com/www.mundodeportivo.com/r/GODO/MD/p7/MasQueDeporte/Imagenes/2020/11/25/Recortada/img_rruano_20201125-203052_imagenes_md_otras_fuentes_no_archivables_236181w980h1800-klYD-U49700273498gFF-980x554@MundoDeportivo-Web.jpg?w=960&ssl=1)
+![](https://www.mundodeportivo.com/r/GODO/MD/p7/MasQueDeporte/Imagenes/2020/11/25/Recortada/img_rruano_20201125-203052_imagenes_md_otras_fuentes_no_archivables_236181w980h1800-klYD-U49700273498gFF-980x554@MundoDeportivo-Web.jpg)
 
 Maradona contra Inglaterra: el día que el ‘10’ enmudeció al mundo en el Mundial de México 1986. Mundo Deportivo
 
@@ -41,9 +35,7 @@ La incertidumbre, consecuencia de malas decisiones, tuvo la respuesta fortuita e
 
 ¡Quiero llorar! ¡Dios Santo, viva el fútbol! _¡Golaaazooo!_… [Vivir De Zurda](https://www.telesurtv.net/news/Maradona-en-De-Zurda-20150301-0046.html) fue un privilegio, tener de cerca a Diego y Víctor Hugo cada noche de ese verano del 2014 cuando la espontaneidad y los abrazos humanizaban a un hombre que pidió disculpas cuando se le fue en medio de una aseveración más que cierta: –_¡Ahí es donde la cagan!_ Sentía cada noche que el fútbol era diferente, mucho más que un deporte, cuando Diego recordaba junto a Stoikov o Valderrama los años de juventud incansable tras el balón…._¡Diegoooool! ¡Maradona!_ Es para llorar, perdónenme…Toda noticia tuya, fuera deportiva o personal, cobraba interés porque a pesar de todo eras el Diego de la gente, ese que me maravilla cuando veo las jugadas de un deporte tan duro como el tiempo transcurrido. Incluso ser un dios en tu propia patria tenía el costo de la dificultad, porque ser honesto siempre es pecado cuando la mentira ya no es el cojín donde duermen las conciencias… Maradona, en recorrida memorable, en la jugada de todos los tiempos…
 
-![](/wp-content/uploads/2014/07/victor-y-maradona.jpg)
-
-![](/wp-content/uploads/2014/07/victor-y-maradona.jpg)
+![](https://www.trabajadores.cu/wp-content/uploads/2014/07/victor-y-maradona.jpg)
 
 _Diego Armando Maradona y Víctor Hugo en el programa De Zurda_. Trabajadores
 
@@ -54,15 +46,3 @@ Diego, es hora de marcar otros goles, donde la luz vea que llegaste para cantar 
 Barrilete cósmico ¿de qué planeta viniste para dejar en el camino a tanto inglés, para que el país sea un puño apretado gritando por Argentina?
 
 _Argentina 2 – Inglaterra 0. Diegol, Diegol, Diego Armando Maradona… Gracias, Dios, por el fútbol, por Maradona, por estas lágrimas, por este Argentina 2-Inglaterra 0._
-
-Homenaje a Maradona. Homenaje a Maradona. Homenaje a Maradona. Homenaje a Maradona
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    [Sender Escobar](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/sender-escobar/)
-    
-    Ingeniero industrial y famous stalker

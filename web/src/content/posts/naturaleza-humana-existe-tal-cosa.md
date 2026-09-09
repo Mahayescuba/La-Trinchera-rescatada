@@ -103,13 +103,3 @@ Hasta que no se rediseñe la sociedad, se alcance un desarrollo cultural y educa
 _Ninguna propensión humana es tan poderosa que no pueda ser vencida por los hábitos, la educación y la disciplina._
 
 -   SÉNECA ·
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

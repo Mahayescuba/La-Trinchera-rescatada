@@ -1,9 +1,9 @@
 ---
-title: "Relación de Marx y Proudhon"
+title: "Marx+Proudhon(IV)"
 date: "2018-10-12T18:03:07+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2018/09/proudhon.jpg"
+image: ""
 ---
 Relación de Marx y Proudhon.
 
@@ -22,15 +22,3 @@ Marx al dar vuelta el estado absoluto de Hegel, que este imaginaba para el atras
 Proudhon, de origen orgullosamente campesino, luego de un gran esfuerzo de su familia para ingresar al bachillerato, donde descubrió la escritura, como un medio, donde depositar las contradicciones, que lo atravesaban como un cuchillo, para tener que abandonarlo porque ‘la necesidad’ desbordó la economía de su casa y como muchos, tuvo que ir a trabajar, llevando su vocación literaria y filosófica a pura biblioteca y a como podía. Le toco atravesar algunos años, como aprendiz de tipógrafo y corrector, hasta que por fin, puede trabajar en una verdadera imprenta, la de los hermanos Gauthier. Proudhon se educa en las discusiones de barricada, más la biblioteca y los filósofos revolucionarios caros a su terruño, nunca salió de Francia, salvo el exilio, por persecución en Bélgica. Pensó universalmente, pero en francés, para sus aldeas. Su mundo espiritual estuvo ligado al de las asociaciones masónicas, que constituyeron grandes núcleos de debate y centralizador de la acción gremial y revolucionaria. Con los Gauthier mismos tenía, no solo una relación laboral, sino también ideológica, a tal punto, que esta prevalece sobre la primera. En un momento dado Proudhon renuncia a trabajar con los Gauthier, para establecer su propia imprenta para editar según su criterio, más tarde se funde, y vuelve a trabajar con los Gauthier. Todo esto, sin dejar nunca de estudiar ni de escribir textos, muchos de los cuales, tienen el carácter de tratados, es para destacar que teniendo el anarquismo tanto predicamento durante décadas, en el universo hispano, apenas una cuarta parte ha sido traducido al español. Se puede decir, que en la propia biografía de Proudhon está su obra. Fue la síntesis del socialismo que él predicó, a diferencia de la propuesta marxista, Proudhon pone el acento en la subjetividad de la clase obrera, en la subjetividad existente, no en la que hay que construir, se trata de potenciar en todo caso, pero independiente de las condiciones materiales. El socialismo es algo que puede desarrollarse por negativa al capitalismo, en cualquier estadio de industrialización. El socialismo basado en la organización de la simple y llana bondad de las personas. También puede considerarse a Proudhón como el máximo exponente teórico del socialismo espontaneo, del socialismo autonomista, del socialismo libertario e incluso del moderno comunitarismo. En este sentido, puede decirse, que Proudhon proviene de las contradicciones de la Francia profunda.
 
 Relación de Marx y Proudhon. Relación de Marx y Proudhon. Relación de Marx y Proudhon. Relación de Marx y Proudhon. Relación de Marx y Proudhon.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

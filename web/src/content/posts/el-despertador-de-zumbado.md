@@ -1,9 +1,9 @@
 ---
-title: "sesiones de la Asamblea Nacional en Cuba"
+title: "El despertador de Zumbado"
 date: "2020-11-02T10:30:46+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/11/Gerard-Cambon-Camera.jpg"
+image: ""
 ---
 Uno de los geniales textos de [Héctor Zumbado](https://www.ecured.cu/Héctor_Zumbado) cuenta que en una Asamblea de Méritos y Deméritos —aquellas de los años setenta donde llevábamos a vías de hecho el principio de distribución de _a cada cual según su trabajo_— estuvo optando por un reloj despertador, y que el criterio manejado en dicho escenario sindical era que no lo merecía porque llegaba tarde al trabajo… ¡y claro que llegaba tarde porque no tenía reloj despertador!
 
@@ -20,15 +20,3 @@ No, aprobar es otra cosa. La aprobación no puede por naturaleza estar divorciad
 La unanimidad es una mentira que no la creen ni los que la aplauden. Y esa mentira hay que tragársela cada vez que se reúne una Asamblea Nacional que supuestamente representa a los ciudadanos que tienen cosas que decir y las dicen, lo mismo en la bodega que en el parque, que en la guagua, que en las vilipendiadas redes sociales…
 
 Perdóname, Zumbado, si levanto la mano y doy mi voto para que el despertador que anhelas suene en otras partes donde pretenden seguir durmiendo la mañana.
-
-sesiones de la Asamblea Nacional en Cuba, sesiones de la Asamblea Nacional en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

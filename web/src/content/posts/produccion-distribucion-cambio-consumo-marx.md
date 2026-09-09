@@ -3,7 +3,7 @@ title: "Producción, distribución, cambio y consumo"
 date: "2019-07-29T09:09:19+00:00"
 author: ""
 category: "Economía Política"
-image: "/wp-content/uploads/2019/07/IMG_20190729_050837.jpg"
+image: ""
 ---
 #### Unas primeras líneas sobre los Grundrisse
 
@@ -17,15 +17,3 @@ También en la producción hay una distribución. Lo es, de los factores de prod
 Por último, queda el cambio. El cambio, visto como totalidad es la circulación. Este cambio -también mediador- es por tanto, parte de la producción. En la producción hay cambio entre los diferentes factores de la producción –los mismos que estaban distribuidos de una manera determinada-, y del consumo, el momento previo está determinado por un cambio. Y el consumo propiamente, es cambio de la objetivación a la subjetivación. El cambio, ni producción ni consumo, pero sí los contiene a ambos.  
 Hasta aquí, se pueden tomar algunas conclusiones implícitas en este movimiento de la producción, distribución, cambio y consumo. Lo primero, es que ellas no son lo mismo, pero tampoco constituyen identidades formal abstracta o puntos por los cuales van transitando los resultados de la actividad humana, sino procesos como polos, y que en cada uno de ellos están ocurriendo los otros y sus mediadores.  
 Cada uno de los momentos presupone el otro. Por lo que en cada uno de ellos, está presente el otro; cada uno es parte del ciclo de realización de los otros; cada uno solo puede realizarse si se realizan los otros. La interdependencia se hace inevitable, puesto que cada momento diferenciado solo puede concretarse si lo hacen los demás. Su auto-movimiento, es ya un movimiento no condicionado por factores naturales, sino por sí mismo, es decir, por el entrelazamiento interno de sus momentos. Donde eso se logre, estamos ante una totalidad orgánica.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

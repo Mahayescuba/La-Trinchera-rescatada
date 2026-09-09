@@ -1,5 +1,5 @@
 ---
-title: "SNET"
+title: "Una carrera iniciada"
 date: "2019-08-19T07:34:54+00:00"
 author: ""
 category: "Política en Cuba"
@@ -44,15 +44,3 @@ Y no lo es, en la medida se comprenda lo importante que ha sido el 17-A para ir 
 
 Pudo el 17-A ser más, pero se puso un grano de arena. Se razonó en la unión y en manifestarse. ¿No es eso grande? Contribuye a la conformación de una cultura en pro de los derechos civiles. Lo impensable, ahora ya se piensa. ¿Qué impide, aunque fracase, que se repita la idea de la agrupación y de plantar en un espacio físico?  
 Los muchachos de SNET no eran tal vez los más preparados para enfrentar directamente una medida con la que no se está de acuerdo y de la forma en que se quiso hacer, pero iniciaron un proceder. No se les pida lo que no podían dar, y menos, que hagan lo que otros no tienen el valor de hacer. Ellos, comenzaron una carrera de relevo. Su tramo culminó. ¿Se sigue?
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

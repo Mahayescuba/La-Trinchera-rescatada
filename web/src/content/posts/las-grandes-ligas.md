@@ -3,7 +3,7 @@ title: "Las grandes ligas"
 date: "2020-01-02T06:51:58+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/01/4002725969019.jpg"
+image: ""
 ---
 2020 economía.
 
@@ -21,15 +21,3 @@ riqueza, sino que ahoga las iniciativas público-privadas.
 **Johan Moya**: De cara al 2020, tomando en cuenta los tiempos de crisis económicas y políticas que se avecinan, el sector religioso en Cuba tendrá una gran responsabilidad espiritual con sus hermanos dentro y fuera de la Isla. En las crisis, la búsqueda de Dios no es opio ni escapismo, sino luz y esperanza. El campo religioso cubano debe ser protagonista de una mayor experiencia de fe transformadora, aunque cuidando de no convertir su acción en pose social o esteticismo ceremonioso. Ha de ser testimonio y ejemplo de la justicia social, sin conformarse con actuar pasivamente como mero espectador ante los problemas. Las fricciones tras las diferencias de criterios son inevitables, pero un verdadero religioso o religiosa siempre hará prevalecer el derecho que tiene la fuerza de sus convicciones en cualquier frontera de la Isla que viva.
 
 2020 economía. 2020 economía.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

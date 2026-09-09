@@ -3,7 +3,7 @@ title: "O refrescamos el aparato ideológico o nos va a hundir"
 date: "2020-01-04T21:19:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/01/IMG_20200104_113931_559.jpg"
+image: ""
 ---
 Una reflexión sobre la censura en el humor en Cuba.
 
@@ -28,15 +28,3 @@ Esteban Morales
 **Este mensaje fue publicado originalmente por Silvio Rodríguez en el blog Segunda Cita. El título con el que se publica en La Trinchera ha sido seleccionado por sus editores.**
 
 censura humor censura humor
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

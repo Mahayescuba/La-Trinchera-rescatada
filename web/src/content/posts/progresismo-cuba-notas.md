@@ -1,5 +1,5 @@
 ---
-title: "Nota sobre los acuñadores del \"progresismo\""
+title: "Nota sobre los acuñadores del “progresismo”"
 date: "2019-11-07T12:00:55+00:00"
 author: ""
 category: "Economía en Cuba"
@@ -16,15 +16,3 @@ Habrá que otra vez enfrentarlos decididamente en su cualidad dogmática, en su 
 Progresismo. Progresismo. 
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/constitucion-2019/
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

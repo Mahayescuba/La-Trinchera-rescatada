@@ -1,9 +1,9 @@
 ---
-title: "mike porcel debate"
+title: "Yo soy un hombre honrado"
 date: "2020-03-12T09:30:18+00:00"
 author: "Tony Pinelli"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/03/PRT00-Pinelli-News-rk-1.jpeg"
+image: ""
 ---
 Hay un señor, que pone en una promoción de “Un Café con Pinelli” que anuncia el contenido de relatos que llevó ese programa que considero útil, ni más allá, ni más acá, hágalo quien lo haga, un comentario acerca del hecho de admitir que estuve en el acto de repudio de Mikel Porcel,  
 algo así como “… que nos cuente también cuando participaba en mítines de repudio”.  
@@ -20,15 +20,3 @@ Aunque ya a mí no me dé tiempo de verlo.
 Yo soy un hombre honrado.
 
 **[Tomado del Facebook de Giordan Rodríguez Milanés](https://m.facebook.com/story.php?story_fbid=3217017444993564&id=100000560191110)**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

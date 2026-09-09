@@ -1,5 +1,5 @@
 ---
-title: "Quizás, quizás, quizás..."
+title: "Quizás, quizás, quizás…"
 date: "2019-01-10T06:27:31+00:00"
 author: ""
 category: "Política en Cuba"
@@ -48,15 +48,3 @@ La prudencia y la concentración se hacen indispensables, de cara a aislar voces
 \[2\]http://www.rebelion.org/noticia.php?id=250980&titular=cuba-hoy-en-la-encrucijada-constitucional-
 
 proyecto de constitución. proyecto de constitución. proyecto de constitución.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

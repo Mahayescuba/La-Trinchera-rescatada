@@ -1,9 +1,9 @@
 ---
-title: "Relación de Marx y Proudhon"
+title: "Marx+Proudhon(III)"
 date: "2018-10-05T11:05:52+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2018/09/proudhon.jpg"
+image: ""
 ---
 Relación de Marx y Proudhon.
 
@@ -33,15 +33,3 @@ La gesta Kurda abre un nuevo capítulo en la lucha mundial de clases. Aunque en 
 Aquí también, el programa del zapatismo tiene rasgos muy ambiguos. Construir las Juntas del Buen Gobierno, y tener como programa los acuerdos de San Andrés, a mucha gente no le dice nada, pero sus adherentes saben muy bien de que se trata. No tiene la universalidad abstracta del marxismo, pero es concreto para las regiones campesinas de México, con población condenada a abandonar sus tierras para entregarlas a los mono-cultivadores, donde el campesino zapatista resiste abandonar su terruño, que también defiende una calidad de vida. Una mirada pequeñamente marxista diría: ‘defienden el feudalismo, impidiendo el desarrollo de las relaciones productivas, pero el desarrollo rural de las fuerzas productivas se puede desarrollar después de la toma del poder, como ya lo desarrolló la experiencia China. Lo lógico es que pasen a la actividad industrial, el día que posean una industria concreta, no ahora que tienen que ir a parar, como changueros, en villas miserias suburbanas. Por qué no mirarlo al revés, como las comunas agrarias. o agro-industriales que anticipan la futura organización socialista. El EZLN tiene también una gran tarea urbana, con un programa idem. En las ciudades los activistas ayudan, armando a la población para echar de las barriadas a ‘los dilers’ como eslabones de las bandas narcos, como una manera de proteger a los niños/as de toda la trama delincuencial que los asola, entonces la auto-organización vecinal, crece con un programa adhoc. Programa típicamente proudhoniano. Esto además les permite desalojar del territorio, tanto en el campo, como en la ciudad al enemigo concreto: los narco-parapoliciales. Nadie se explica porque crecen exponencialmente los narco-parapoliciales, el motor de este crecimiento es entre otros el desarrollo del zapatismo, que es lo único que no aparece en la noticia, O, a los estudiantes de Ayoscinapa no los hacen desaparecer, porque no aprobaron las materias. Por poner solo un ejemplo notorio. Claro, en la prensa burguesa, ni pio del Zapatismo, recontra-mal-ejemplo, periodista que los nombra y que los nombra, no en las páginas policiales, sino su existencia misma, es boleta. Si esto no es lucha de clases, de nuevo ¿Qué es?, en que casillero de traidores los ponemos. Aquí vemos otra ley. Dime con que cuerpo represivo cuentas y te diré cual es volumen de tu agitación en la lucha de clases y otra subsidiaria: cuanto más subterránea, más clandestina sea tu inserción, más visible serán los elementos lumpen-parapoliciales.
 
 Relación de Marx y Proudhon. Relación de Marx y Proudhon. Relación de Marx y Proudhon. Relación de Marx y Proudhon. Relación de Marx y Proudhon. Relación de Marx y Proudhon. Relación de Marx y Proudhon. Relación de Marx y Proudhon. Relación de Marx y Proudhon. Relación de Marx y Proudhon.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

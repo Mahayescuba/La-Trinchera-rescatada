@@ -1,9 +1,9 @@
 ---
-title: "El Estado y los derechos"
+title: "Nota de clase"
 date: "2020-12-15T01:22:17+00:00"
 author: "René Fidel González García"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/12/Barbara-Licha-.jpg"
+image: ""
 ---
 El Socialismo no tiene que ver con subsidiar los derechos, ni la justicia, ni la igualdad, ni la equidad, ni las condiciones para la felicidad, la libertad y la plenitud de las personas; menos con condicionar todo esto a un criterio general de sostenibilidad económica, de rentabilidad, o de lucro. Trata, en todo caso, de hacerlos reales, plenos y universales, como metas inherentes e imprescindibles a su realización.
 
@@ -19,16 +19,4 @@ Es por eso que se tiene que impedir a toda costa el nacimiento del [Estado de De
 
 Afirma una periodista cubana que «tontos útiles» llama a algunos el Presidente de la República. Es difícil entender tal cosa cuando se piensa en qué significa ser un servidor público. Hay que pensar, seguir pensando, publicar, u opinar, es, en última instancia, no más que una consecuencia.
 
-![](/wp-content/uploads/2020/12/130513096_1879742145498641_2707121325504557716_n.jpg)
-
-![](/wp-content/uploads/2020/12/130513096_1879742145498641_2707121325504557716_n.jpg)
-
 _Versión reeditada por el autor_
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/88268534_1616839981788860_4337614805125824512_n.jpg)
-    
-    ![](/wp-content/uploads/2020/12/88268534_1616839981788860_4337614805125824512_n.jpg)
-    
-    [René Fidel González García](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/rene-fidel-gonzalez-garcia/)

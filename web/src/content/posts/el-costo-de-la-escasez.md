@@ -1,5 +1,5 @@
 ---
-title: "Costo de la escasez en Cuba"
+title: "El costo de la escasez"
 date: "2021-04-04T09:30:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
@@ -62,15 +62,3 @@ Se trata de un precio que no está sujeto a la relación de oferta y demanda.
 [\[3\]](applewebdata://E898A7AB-CA93-4FCB-9A3D-53DF72E4705B#_ftnref3) El costo de adquisición oficial de un bien es el costo de adquisición sin los efectos de la escasez y la multiplicidad monetaria, etc. Puede verse como lo que costaría un bien de no haber escasez, multiplicidad monetaria u otros efectos.
 
 Puede ser entendido como el precio oficial de un bien.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

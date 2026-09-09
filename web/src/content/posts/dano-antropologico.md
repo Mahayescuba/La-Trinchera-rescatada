@@ -3,7 +3,7 @@ title: "Daño antropológico"
 date: "2020-09-02T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/09/Tommy-Ingberg.jpg"
+image: ""
 ---
 orinar en lugares públicos.
 
@@ -21,16 +21,4 @@ En conversación con el director de una institución católica, veíamos que uno
 
 Aún estamos a tiempo de revertir esta situación. Creo que además de construir o poner baños públicos en lugares estratégicos, también debemos comenzar a atacar el fenómeno con campañas comunicativas que muestren las posibles enfermedades subyacentes a estas malas prácticas. En la formación escolar se puede ser más incisivo con una pedagogía orientada al cuidado del entorno durante la asignatura Educación Cívica. También se puede aumentar el monto de las multas, pues si arreciamos esta campaña higiénica con medidas ejemplares casi nadie andará orinando por las esquinas y evitaremos la ampliación de nuestro daño antropológico.
 
-orinar en lugares públicos orinar en lugares públicos 
-
-## Autor
-
--   ![](/avatar/dc9431b56448e197d9daf598c729f9ec?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/dc9431b56448e197d9daf598c729f9ec?s=80&r=g&d=mm)
-    
-    [elsolarpodcast](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/elsolarpodcast/)
-    
-    Un podcast cubano para debatir y reflexionar sobre economía, política, filosofía, y hasta poesía
-    
-    [](mailto:radiolatrinchera@gmail.com)
+orinar en lugares públicos orinar en lugares públicos

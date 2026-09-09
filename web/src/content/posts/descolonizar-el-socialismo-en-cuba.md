@@ -1,9 +1,9 @@
 ---
-title: "Análisis de las protestas en Cuba La Trinchera Por: Alexander Hall Lujardo"
+title: "Descolonizar el socialismo en Cuba"
 date: "2021-07-30T16:00:00+00:00"
 author: "Alexander Hall Lujardo"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/07/Andelim.jpg"
+image: ""
 ---
 Las protestas sociales acontecidas en Cuba el domingo 11 de julio de 2021 significaron el estallido de movilizaciones de desaprobación popular sin precedentes en su dimensión desde el triunfo del proceso revolucionario el 1ro de enero de 1959. En horas tempranas de la mañana varias ciudades del país se habían lanzado a las calles para mostrar su descontento hacia la máxima dirección del gobierno, encabezado por el presidente de la República Miguel Mario Díaz-Canel Bermúdez, quien ostenta la más alta jerarquía del Partido Comunista de Cuba en su función de Primer Secretario. Se trató de un hecho inédito que, aunque no tuvo carácter nacional debido a la falta de articulación entre las distintas poblaciones, así como a la temporalidad limitada de los hechos, abarcó las tres regiones en las que se encuentra dividida la Isla (occidental, central y oriental), por lo que su eco se hizo sentir en toda la geografía insular.
 
@@ -20,14 +20,6 @@ De este modo, a la altura de la tercera década del siglo XXI, es posible visibi
 Resulta indiscutible el reconocimiento a la emancipación humana que significó para los humildes del territorio el triunfo revolucionario de 1959, así como el impacto internacional que adquirió la Revolución Cubana en la descolonización de los pueblos del Tercer Mundo. A lo anterior se añaden sus estrategias populares, con altos niveles de participación, dirigidas a la dignificación de sectores subalternos (pobres, negros, mestizos, mujeres, obreros, campesinos) históricamente excluidos del pacto social por el sistema capitalista subdesarrollado existente en la nación.
 
 Ante ese legado histórico de dignificación y restitución de la justicia social ¿Cómo entender entonces las manifestaciones de desagravio ocurridas contra el gobierno presidido por el Primer Secretario del PCC Miguel Mario Díaz-Canel Bermúdez? Precisamente, las protestas son el resultado de insatisfacciones acumuladas, fracasos políticos, deudas históricas, carencias socioeconómicas y errores sistemáticos que aún pesan sobre los hombros de la ciudadanía. Y ello a pesar de no poseer pleno reconocimiento por gran parte de la izquierda internacional que considera al régimen imperante en Cuba como un bastión representativo de las fuerzas revolucionarias a nivel mundial, cuyo alineamiento le dificulta analizar objetivamente las contradicciones, limitantes y malogros que tipifican este proceso a su interior.
-
-![](/wp-content/uploads/2021/07/AlexImagen-1.png)
-
-![](/wp-content/uploads/2021/07/AlexImagen-1.png)
-
-![](/wp-content/uploads/2021/07/2AlexImagen-1.png)
-
-![](/wp-content/uploads/2021/07/2AlexImagen-1.png)
 
 Imágenes del carácter pacífico de la manifestación ocurrida el 11 de julio de 2021 en la intersección de las avenidas Prado y Malecón. **Fotos del Autor.**
 
@@ -63,10 +55,6 @@ En cambio, hace recaer sobre ellos la censura, la represión e ilegalización de
 
 La emancipación del sistema político cubano reclama la democratización en sus variadas formas de participación. Esto pasa por un enriquecimiento en la cultura del debate y la discusión pública de temáticas sociales, basadas en el reconocimiento a la diversidad en las formas de pensamiento existentes con la intención de viabilizar las históricas demandas de la sociedad civil. La supervivencia del sistema económico exige una pronta liberación de las fuerzas productivas, para no seguir incrementando el cúmulo de obstáculos e insatisfacciones en los sectores que más aportan a la sostenibilidad de rubros estratégicos, debido a las afectaciones que produce una burocracia corruptora que ha extendido sus prácticas parasitarias hacia todos los ámbitos de la propiedad estatal.
 
-![](/wp-content/uploads/2021/07/3AlexImagen-1.png)
-
-![](/wp-content/uploads/2021/07/3AlexImagen-1.png)
-
 La caricatura demuestra el carácter simplista de la izquierda tradicional en el análisis de la situación cubana, en la que deslegitima la voluntad popular en la movilización, al subordinar los reclamos de la sociedad a la agenda antinacional de grupos pro-estadounidenses que no resultaron ser protagonistas en los hechos del 11-J. Este reduccionismo analítico desconoce la heterogeneidad de los manifestantes, así como la gravedad que denota la fractura del consenso en la Isla ante un agotamiento del modelo y un desgaste en sus formas democráticas. A la mirada acuciante del observador, es posible visibilizar además, una intencionalidad racista, en tanto reproduce la supuesta incapacidad de los negros(as) para ejercer de forma cívica sus derechos constitucionales, al ser portavoces de sus propias demandas. Imagen tomada del blog en Facebook del intelectual argentino Atilio Borón, [https://atilioboron.com.ar/la-revolucion-cubana-victima-de-su-exito](https://atilioboron.com.ar/la-revolucion-cubana-victima-de-su-exito).
 
 Así como resulta apremiante reducir el papel del estado ante el predominio de una concepción verticalista en la administración, caracterizada por una centralización exagerada que no contribuye a obtener satisfactorios rendimientos en las más diversas esferas, de igual modo se torna inaplazable el establecimiento de nuevas formas autonómicas de expresión. Estas no deben estar mediadas por el sesgo que, desde cómodas instancias de poder, establecen los parámetros, decretos y regulaciones de la cultura, a través de la implementación de una política tendiente a la homogenización de las formas creativas. Con ello se pretende el control por parte de funcionarios revestidos de autoridad institucional, cuya concepción lesiona la riqueza de la diversidad creadora existente en el país. De igual forma, resulta impostergable la creación de una ley de asociaciones que permita el reconocimiento de las numerosas formas de activismo que, en las actuales circunstancias, se desarrollan al margen de la legalidad, a pesar de que dicho vacío no imposibilita el normal ejercicio de sus actividades.
@@ -98,15 +86,3 @@ ARTÍCULO 56. Los derechos de reunión, manifestación y asociación, con fines 
 7 Desde el rigor de la economía política no es posible afirmar la existencia práctica de socialismo en Cuba, ya que desde el triunfo revolucionario en 1959 la mayor parte de los medios de producción transitaron de ser propiedad privada a propiedad estatal, en lugar de implementarse una plena socialización de los mismos. A esta realidad, se sumó al carácter hegemónico del PCC, la eliminación de las tendencias en el gobierno, la unanimidad predominante en la Asamblea Nacional, el monopolio del estado sobre los medios de comunicación, el excesivo centralismo en las decisiones político-económicas, acompañado en las últimas décadas por una expansión abrumadora del sector privado y el capital transnacional extranjero, entre otros elementos.
 
 8 A raíz del «Período Especial» se inició un proceso de privatización gradual, en detrimento de la propiedad cooperativa y la socialización real en los procesos de producción. El cambio en la política económica provocó el ascenso de elites conocidas popularmente como «nuevos ricos», lo que evidencia un aumento de la desigualdad y la concentración del consumo en determinados grupos sociales; hechos que confirman la reconfiguración del sistema hacia un modelo neo-capitalista promovido desde las esferas del gobierno, acompañado por el sostenimiento de prácticas autoritarias como resultado de su esencia unipartidista estadocéntrica.
-
-análisis de las protestas en Cuba, análisis de las protestas en Cuba, análisis de las protestas en Cuba, análisis de las protestas en Cuba, análisis de las protestas en Cuba, análisis de las protestas en Cuba, análisis de las protestas en Cuba, análisis de las protestas en Cuba, análisis de las protestas en Cuba, análisis de las protestas en Cuba, análisis de las protestas en Cuba, análisis de las protestas en Cuba, análisis de las protestas en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2021/07/Alex2021-07-30-15.43.31.jpg)
-    
-    ![](/wp-content/uploads/2021/07/Alex2021-07-30-15.43.31.jpg)
-    
-    [Alexander Hall](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/alexander-hall/)
-    
-    Estudiante de Historia y activista afrodescendiente de ideas socialistas.

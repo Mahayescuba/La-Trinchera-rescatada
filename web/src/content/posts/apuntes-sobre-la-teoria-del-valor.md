@@ -1,9 +1,9 @@
 ---
-title: "apuntes sobre la teoria del valor La Trinchera Miguel Alejandro Hayes"
+title: "El valor, apuntes para su enseñanza"
 date: "2018-01-16T20:20:44+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Economía Política"
-image: "/wp-content/uploads/2018/01/01.jpg"
+image: ""
 ---
 El valor, sin dudas, es una de las categorías más importantes del sistema teórico de Marx en [_El Capital_.](http://www.ataun.eus/bibliotecagratuita/Clásicos%20en%20Español/Karl%20Marx/El%20capital%20I.pdf) En realidad, es mucho más: es el eje central de toda su crítica a la economía política. Su papel en la obra,  la forma en que lo expone Marx, las teorías precedentes y que le siguen, sumado de sus numerosas interpretaciones posteriores, lo convierten en una especie de leyenda, de cosa oscura para el amplio espectro del marxismo. Ha sido interpretado de diversas maneras, haciendo que entre economistas y filósofos  existan todo tipo de teorías del valor. Lo que hace que definirlo correctamente, es empezar a entender otra economía política marxiana y fijar una postura ante la gama teórica que lo rodea.
 
@@ -50,15 +50,3 @@ Marx, C. 1962 ._El Capital_, Editorial Nacional de Cuba_,_ La Habana.
 [\[2\]](#_ftnref2) Marx se refería en los Manuniscritos del 44 al poder social del dinero, de las mercancías, etc.
 
 [Versión actualizada](/economia-politica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

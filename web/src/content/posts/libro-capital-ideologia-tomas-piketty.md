@@ -1,9 +1,9 @@
 ---
-title: "\"Capital e ideología\", nuevo libro de Thomas Piketty"
+title: "“Capital e ideología”, nuevo libro de Thomas Piketty"
 date: "2019-09-15T23:23:02+00:00"
 author: ""
 category: "Economía Política"
-image: "/wp-content/uploads/2019/09/IMG_20190804_000827.jpg"
+image: ""
 ---
 _Capital e ideología: Para Thomas Piketty la desigualdad es ideológica y política._
 
@@ -41,15 +41,3 @@ Piketty proclama que _el progreso humano existe, pero es frágil porque, a todo 
 El ensayo se propone precisamente esa meta: _convencer al lector de que podemos apoyarnos en las lecciones de la historia para definir una norma de justicia y de igualdad exigentes en materia de regulación y reparto de la propiedad más allá de la simple sacralización del pasado_. Como en _El Capital en el Siglo XXI_, Piketty no formula rupturas revolucionarias, sino que plantea una forma radical de reorganización. No es un libro para reforzar convicciones, ni un enésimo e indigesto adoquín pseudo progresista rebosante de diagnósticos acertados y vacío de alientos futuros. _Capital e_ _Ideología_ es un libro para respirar, como una ventana abierta hacia un mundo donde, de pronto, no hay un sólo modelo posible sino un infinito de posibilidades.
 
 **Tomado de Página 12**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

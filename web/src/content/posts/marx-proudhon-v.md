@@ -1,9 +1,9 @@
 ---
-title: "Marx y Proudhon"
+title: "Marx + Proudhon (V)"
 date: "2018-11-03T15:16:29+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2018/09/proudhon.jpg"
+image: ""
 ---
 Marx y Proudhon.
 
@@ -18,15 +18,3 @@ Otra cosa, era la experiencia social, e intelectual que modelaba el trayecto te�
 El pueblo podía producir un Mozart, un Beethoven, un Goethe, un Schiller, un Kant, un Hegel, pero de ninguna manera acceder a un capital, que le permitiera un proceso de industrialización, requería expropiar a los junkers, imposible para la débil burguesía alemana, lo cual le impedía pertenecer al club de las potencias marítimas, que la acerque a sus vecinos: ingleses, holandeses y ahora, también franceses. La intelectualidad alemana, tenía clara la ‘idea’ de liberación, pero era complicada su concreción, porque el poder de los Junkers lo abarcaba todo, la libertad, podía imaginarse, sublimarse hasta la perfección teorética, pero de ninguna manera concretarse. Ese es el sustrato de donde proviene Marx. El universo Guttemberiano le dio esa fisonomía al pueblo alemán, que los emperadores supieron capitalizar en sus disputas dentro de los reinos católicos y el propio papado. A este respecto, Hegel se refería con admiración respecto del pueblo francés, refiriéndose a la ilustración, que con escaso poder teórico, hicieron una revolución basada en una audacia y una valentía, que los alemanes con todo su gran capital filosófico, carecían. Esto no es menor, quiere decir, que el mejor programa, nada significa frente a la audacia, física o concreta para elevar el movimiento, más vale lo contrario, agrego yo, a menudo, el programa actúa, como un freno justificatorio, para detener la audacia. El propio Marx, dice en la Crítica al programa de Gotha, que la elevación del movimiento, es superior a mil programas. Cabe aclarar, que la reforma, en términos anarquistas, está referida a la reforma que se consigue a través de la acción directa, considerando a la acción directa, como método permanente de lucha, distinta de la reforma socialdemócrata, encausada dentro de la legalidad. Por otro lado, los marxistas conciben la revolución como de una vez y para siempre.
 
 Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

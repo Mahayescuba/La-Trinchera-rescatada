@@ -1,5 +1,5 @@
 ---
-title: "El fetichismo mercantil y las decisiones económicas en Cuba —"
+title: "El fetichismo mercantil y las decisiones económicas en Cuba"
 date: "2019-11-25T05:42:56+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
@@ -19,15 +19,3 @@ Hoy, la presencia de la moneda norteamericana en determinadas transacciones vien
 Sin embargo, seamos optimistas y supongamos por un momento que la política dé resultado, y que se logra abastecer al gobierno del USD suficiente para lo que lo requiera. La parte referida a lo económico-y obviando el pago de deudas-, se utilizará para importar y equilibrar la escasez de productos que la factura nacional no suple –cervezas, puré de tomate, refrescos, perritos, etc-, y otros que ni hacemos para luego volverlos a vender en divisa -y en sus reflejos. Un nuevo círculo vicioso será.  
 En medio de un momento donde el devenir histórico, la hostilidad de la actual administración norteamericana y el desgaste ideo-político que vive el modelo de socialismo estatista, la propuesta de la dirección del país, lejos de acompañar a su llamado de pensar como país saliéndose de esquemas enajenados, se acuartela en estos con una propuesta/parche.  
 La crisis de la economía cubana, exige visiones que agrupen su totalidad y estructura, para que se piensen soluciones y generar puestas en práctica del mismo alcance. El problema no es cómo encontrar mecanismos para desde oficinas de banco obtener divisas, sino cómo mover la estructura económica de modo tal que el reflejo que genere, sea fuerte; y si es necesario, obtener divisas.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

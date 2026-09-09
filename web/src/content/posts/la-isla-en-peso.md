@@ -3,7 +3,7 @@ title: "La Isla en Peso"
 date: "2021-05-26T09:30:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/05/Eleonore-de-Moffarts-.jpg"
+image: ""
 ---
 ## Apuntes sobre cómo encarar al miedo desde la fe
 
@@ -26,19 +26,3 @@ El padre Chema, un jesuita vasco que suele mandar a varios amigos contenidos de 
 Antes de teclear la primera letra, deseaba darles –y darme- un buen consejo a los lectores de este texto sobre cómo encarar el miedo. En realidad, no sé. Solo les pediría que, como Iglesia, no se deje de abogar por que el pensar distinto  no sea convertido en un castigo capaz de encerrarnos a “salvo” en un hospital dentro del infierno. El miedo es un tema recurrente en la vida de las personas, [Jesús también lo sintió y en Getsemaní](https://www.gotquestions.org/Espanol/huerto-de-getsemani.html) nos hizo ver que, vivido a su manera, nos hace humanos.
 
 La Iglesia, compuesta por hombres y mujeres, en no pocas ocasiones se siente asaltada por ese miedo real, capaz de paralizar, pero en otras lo enfrenta, como estos muchachos que a pesar de todo sueñan y actúan por un horizonte distinto. Algunos podrán decir: _eso no es valentía, sino temeridad, puro instinto de supervivencia_. Las personas de fe saben de la fuerza del Espíritu y el poder tangible de la oración. Con ellos como guía en los propios modos de proceder, se podrá descolocar al miedo al intentar darle un abrazo.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-la isla en peso. la isla en peso
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)

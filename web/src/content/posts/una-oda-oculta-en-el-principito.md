@@ -3,7 +3,7 @@ title: "Una oda oculta en El Principito"
 date: "2018-03-15T11:15:49+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Opinión"
-image: "/wp-content/uploads/2018/03/images-1.jpg"
+image: ""
 ---
 Sin miedo a ser cursi o infantil, me atrevo a afirmar que mi libro preferido es _El Principito_. Conozco la prosa del Gabo, la punta del iceberg de Hemingway, a Marc Twain, a London, pero _El Principito_ tiene algo especial: fue el primer libro que leí.
 
@@ -20,15 +20,3 @@ Recuerda cuando el principito hizo su recorrido por todos los planetas. ¿Cuál 
 Antoine, el autor, había conocido la poderosa nación de desempleo 0, analfabetismo 0 y electrificada de la nada, que  había inspirado a Keynes (aunque no lo reconoció) a elaborar sus políticas económicas. Esa nación ya no existe.
 
 Quizá por ahí venga la simpatía del pequeño protagonista, y lo que eso representa, por ese hombre de bufanda roja que trabaja porque “_esa es la consigna”._
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Investigador independiente
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

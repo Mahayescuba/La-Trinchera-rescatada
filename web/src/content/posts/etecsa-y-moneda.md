@@ -3,7 +3,7 @@ title: "ETECSA y moneda"
 date: "2019-11-22T17:59:36+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2019/11/IMG_20191122_134511_757.jpg"
+image: ""
 ---
 Notas para un debate en las redes ETECSA.
 
@@ -23,15 +23,3 @@ La hostilidad de EUA obligó a al gobierno a sacar de circulación al dólar. La
 Se decidió, no sé si temporal, un espejo del dólar: el CUC. Haría a lo interno la misma función del dólar. La cuestión es, que esos CUC no son dólares. Si el país tiene 40 millones de CUC, y 30 millones de dólares, hay una parte de esos CUC que no se pueden usar como divisa. Es decir, el país necesitó divisas, y para obtener más, le dio circulación interna. Luego, hubo que retirarlas. Se mantuvo como moneda para el exterior, y en el interior deja al CUC hacer sus funciones.  
 Al no ajustarse la cantidad de CUC que hay con la de los dólares, hace que parte de esos CUC en determinado período de tiempo sean dinero que no sirve para importar nada. Entonces, si una parte de ese CUC no sirve para importar, no es divisa, ¿por qué se le pone un precio al consumidor (a nombre de recaudar divisa) en cuya estructura tiene una parte que no es divisa? Esa diferencia, es dinero para empresas, es contabilidad optimista, pero no tiene un impacto real. De hecho, puede devenir en exceso de circulante.  
 Eso conduce a pensar, ¿qué justifica que un producto hecho 100 por ciento en Cuba, con todo su insumo cubano y tecnología cubana, cueste en CUC a altos precios? Después de todo, no está recaudando divisas. La política del CUC no es un error del todo, el problema está cuando este empieza a tomar dinámicas propias y su a-sincronía respecto al dólar con el que cuenta el país se olvida.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

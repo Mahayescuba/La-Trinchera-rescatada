@@ -3,7 +3,7 @@ title: "Discriminación ortográfica"
 date: "2020-07-06T09:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/07/Sylvain-Templer.jpg"
+image: ""
 ---
 Muchos no tienen buena ortografía, no como la de mis aportes (que si me pongo insoportable los justifico como accidentes), sino aportes que van más allá; unos que más que risa, (me)producen pena.
 
@@ -32,15 +32,3 @@ La ortografía no es señal de clase social, ni de geografía, ni de tipo de per
 No hablamos acá de una acción constructiva, ni de un chiste que expresa la picardía de quien lo hace, sino de todo lo contrario. Lo mejor es ayudar, y para hacerlo, se señala con respeto, de manera directa y en un intercambio privado.
 
 [Tomado de _En silencio_](/discriminacion-ortografica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

@@ -1,9 +1,9 @@
 ---
-title: "Iglesia y Movimiento San Isidro"
+title: "La Iglesia estará siempre junto a la verdad y la justicia"
 date: "2020-11-24T17:00:59+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/11/Soheyl-on-DeviantArt.jpg"
+image: ""
 ---
 ##   
 Breves apuntes sobre lo que acontece con el Movimiento de San Isidro
@@ -33,19 +33,4 @@ https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/opinion
 
 Hay que dar a los obispos un voto de confianza, pues su sabiduría bebe mucho de la pastoral de la experiencia. La Iglesia, visualizada sinodalmente, sí se ha hecho presente el complejo entorno que vive la sede del MSI, pues ha sido una riqueza poder leer el criterio sólido de las religiosas, sacerdotes y laicos que han pedido respeto y comprensión hacia la vida con dignidad de los que disientan del pensamiento en el poder, algunos han realizado acciones tangibles de acercamiento, enfrentando el fantasma del miedo que recorre aquel lugar.  
   
-La verdadera _Amistad Social_ que el [Papa Francisco](/opinion/) pidió construir a la juventud cubana, solo se logra si se borda un tejido social con la capacidad de generar respeto y diálogo entre las distintas cosmovisiones de país que existen en la nación. La peor represión que puede existir en cualquier sociedad es la que te obliga, a través de la represión con violencia física o sicológica, a vivir alineado con una sola forma de pensamiento, matando la riqueza de la _otredad_. Sé que pedir comprensión y valorización de las posiciones discretas de la jerarquía eclesial cubana, no debe hacerse soslayando la realidad; pero puedo asegurar a los que lean esta nota, por testimonios tangibles de sacerdotes, que los obispos están también atentos (no solo en oración) a lo que sucede en la sede del MSI y que la Iglesia estará siempre de parte de la verdad y la justicia.  
-
-Iglesia y Movimiento San Isidro. Iglesia y Movimiento San Isidro  
-  
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)
+La verdadera _Amistad Social_ que el [Papa Francisco](/opinion/) pidió construir a la juventud cubana, solo se logra si se borda un tejido social con la capacidad de generar respeto y diálogo entre las distintas cosmovisiones de país que existen en la nación. La peor represión que puede existir en cualquier sociedad es la que te obliga, a través de la represión con violencia física o sicológica, a vivir alineado con una sola forma de pensamiento, matando la riqueza de la _otredad_. Sé que pedir comprensión y valorización de las posiciones discretas de la jerarquía eclesial cubana, no debe hacerse soslayando la realidad; pero puedo asegurar a los que lean esta nota, por testimonios tangibles de sacerdotes, que los obispos están también atentos (no solo en oración) a lo que sucede en la sede del MSI y que la Iglesia estará siempre de parte de la verdad y la justicia.

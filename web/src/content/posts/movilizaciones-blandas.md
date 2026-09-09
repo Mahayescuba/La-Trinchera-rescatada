@@ -18,5 +18,3 @@ Hace unas semanas vivimos la huelga feminista. Es verdad que había un documento
 Es curioso, los politólogos hablan de golpes de Estado blandos pero en los que se llegan a derrocar a gobiernos legítimos. En cambio nosotros nos creemos que estamos haciendo revoluciones fuertes pero dejamos intacto el sistema. Creo que el enemigo nunca actúa de forma blanda y nosotros nunca actuamos suficientemente fuerte.
 
 Tomado de [Pascual Serrano](http://pascualserrano.net/es/noticias/movilizaciones-blandas/)
-
-## Autor

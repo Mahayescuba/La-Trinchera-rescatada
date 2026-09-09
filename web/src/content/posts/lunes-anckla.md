@@ -3,7 +3,7 @@ title: "Lunes"
 date: "2019-03-25T07:03:02+00:00"
 author: "Anckla"
 category: "Onírica"
-image: "/wp-content/uploads/2019/03/PicsArt_03-25-02.59.03.jpg"
+image: ""
 ---
 El dilema de todos los días, ver la parada repleta y los taxis llenos, pero más probable que montarse en la guagua.  
 Si llegas tarde o faltas, das la excusa para no perder la poquita divisa, de que con estos precios de ahora si me gasto para ser puntual, pierde sentido tener este empleo.  
@@ -22,13 +22,3 @@ Igual de molesto, el solecito no hace el trayecto más fácil. Ahí está la caf
 Sus besos no se detienen ante el sudor y la cara me delata. Estoy encantado de verla. Después del agua fría y café, por la casa me iré recuperando. ¡Miento!, ella me calienta más, y me refresca la vista mejor que todo lo demás. Me comenta coqueta que huelo mejor sin el humo del cigarro, aun sudado. Y que cierran hoy para reparar los baños y pintar las paredes. Eso explica el short corto de mezclilla y la camiseta blanca. Eso de pintar y reparar no pasa sino en empresas particulares como esta.  
 El baño donde trabajo es [unisex](https://es.wikipedia.org/wiki/Moda_unisex), a ratos no se limpia por falta de vountarios y personal de limpieza. Y los ladrillos y cabillas de los techos y paredes están manchadas de lechada desde la inspección del año antespasado.  
 Ya voy tarde. Las palabras me sobresaltan y dicen de aprovechar el día y bajar a la playa de 16. Pero: no cobro hasta fin de mes, y moviéndome con las cositas extras recojo más que la divisa. Sin acordarme del hambre le suelto mirando esos ojitos pillos que no paran de mirarme: si no te molesta que me bañe en calzoncillos, me uno a tí. Ella sonríe y pregunta si los llevo puestos, y después de asegurarme le respondo alegremente que sí, por suerte estamos a lunes.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    [Anckla](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/anckla/)
-    
-    [](https://www.amazon.com/s?i=digital-text&rh=p_27%3AAnckla+Almirante+&s=relevancerank&language=es&text=Anckla+Almirante+&ref=dp_byline_sr_ebooks_1)

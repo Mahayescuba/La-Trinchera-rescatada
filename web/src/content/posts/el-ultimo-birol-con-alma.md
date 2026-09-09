@@ -3,7 +3,7 @@ title: "El último Bírol con alma"
 date: "2020-08-23T09:30:00+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/08/Marcus-Deleo.jpg"
+image: ""
 ---
 Bírol con alma.
 
@@ -94,15 +94,3 @@ Mi canción en la pregunta, mi respuesta en tu erección.
 Bírol con alma, todas querrán escucharte cuando tu corazón de partitura navegue y se aleje del puerto. ¿Nos abrazamos y nos conformamos con que sea platónico?
 
 Mi Bírol con arte y látigo en la lengua, abuso del posesivo con la misma intensidad con que nos abusamos en la madrugada, pero sé que no se mantiene cauta a una canción.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    [La Trinchera Editor](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/la-trinchera-editor/)
-    
-    La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser una plataforma de debate.
-    
-    [](/la-trinchera/)

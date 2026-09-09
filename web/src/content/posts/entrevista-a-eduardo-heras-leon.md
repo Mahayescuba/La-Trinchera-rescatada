@@ -3,7 +3,7 @@ title: "Amar la literatura y apostar por los jóvenes"
 date: "2019-03-01T08:41:55+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2019/03/PicsArt_03-01-03.36.20.jpg"
+image: ""
 ---
 ### Entrevista a Eduardo Heras León
 
@@ -28,15 +28,3 @@ Bueno, eso fue prácticamente una sorpresa. El año pasado cuando se clausuró l
 _Ya conocemos que este será su último año como director del centro Onelio, taller que ha ayudado a crecer a tantos jóvenes narradores, ¿experimenta sentimientos encontrados al finalizar esta etapa como director?_
 
 Sí, por supuesto que sí, me va a quedar un sentimiento de nostalgia muy grande, porque son veinte años de mi vida dedicados a esta labor. La suerte es que todavía existen los jóvenes y van a seguir existiendo, y yo que siempre he apostado por ellos, no los voy a abandonar, porque voy a seguir dando clases para ayudar al nuevo director y servirle de asesor. O sea, mantenerme en lo de siempre: amar la literatura y apostar por los jóvenes.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

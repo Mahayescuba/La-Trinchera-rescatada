@@ -3,7 +3,7 @@ title: "Rockanrollear"
 date: "2019-05-10T19:33:58+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/05/PicsArt_05-10-03.25.08-1.jpg"
+image: ""
 ---
 rockanrollear.
 
@@ -19,13 +19,3 @@ _¿Pa’ dónde van?_ Saco los 10 con calma y me suelta: _esto es libre,_ hasta 
 La próxima, sí la hay, que salgamos, si no es al _Submarino_ _amarillo_, al _Sauce_, o al _Antiguo_ _Cine_ _Miramar_ , ¿quién sabe, San Alejandro?, donde los conocí.  
 Por un milagro el _Aljibe_. Si no es a donde encuentre a _Habalama_ o me avisa _Magín_ cuando estén en el _Maxim_, le vamos a gritar _me_ _voyyyyyyyyy_.. para allí. Si logro quitarle el mic a Yadira declararé en público donde este : que deseo a mi territorio libre de [reguetón](https://es.wikipedia.org/wiki/Reguet%C3%B3n), y al que proteste, a lo Hendrix con el bajo del Luis. Somos fuertes y muchos. La generación del _rock n’ roll_ es una. Nuestra música es inmortal, perseguida y maltratada. Pero viva sin igual. Tenemos lo que carecen -oído musical- cerebro y un par de botas que hasta nuestras mujeres calzan.  
 Sí me apoyan gritemos _Me voyyyyyyyyy…_ a rockanrollear.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    [Anckla](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/anckla/)
-    
-    [](https://www.amazon.com/s?i=digital-text&rh=p_27%3AAnckla+Almirante+&s=relevancerank&language=es&text=Anckla+Almirante+&ref=dp_byline_sr_ebooks_1)

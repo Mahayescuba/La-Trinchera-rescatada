@@ -1,9 +1,9 @@
 ---
-title: "participación social de la Iglesia en Cuba"
+title: "La mentira no tiene quien la escriba"
 date: "2021-04-22T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/04/Antoine-Josse.jpg"
+image: ""
 ---
 ## **Breve reflexión sobre la actuación de dos obispos cubanos**  
 
@@ -17,18 +17,4 @@ La semana pasada Mons. Dionisio García Ibáñez y Mons. Wilfredo Pino Estévez,
 
 Como parte del cambio de época eclesiológica que vive la Iglesia cubana, comienza a desestructurarse un modelo de participación social orientado principalmente desde instancias jerárquicas y se construye lo que algunos teólogos, como la colombiana Consuelo Vélez, llaman una “Iglesia circular”, donde se hace carne la _[sinodalidad](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj6oOeomZLwAhXBKaYKHWRLBXgQFjAAegQIAxAD&url=https%3A%2F%2Feclesia.info%2Fweb%2Fnoticias-dioc%2F19-diocesana%2F781-que-es-la-sinodalidad-a-la-que-llama-la-iglesia.html&usg=AOvVaw1xNQ9LME2U0JgqpD6sZB3S)_. Es decir: obispos, religiosas, sacerdotes y laicos son coprotagonistas en la construcción del presente y del futuro de la Iglesia; para eso unen esfuerzos como iguales buscando transformar el mal que los oprime. Se trata de un modo de proceder que anuncia e impulsa el nacimiento de una Iglesia en salida.
 
-Los católicos cubanos que han decidido participar de forma activa en la construcción del tejido social de la Cuba del futuro, sobre todo desde el mundo digital, deben evitar ser presa de la _cultura de la representación_. En ella, todo se fundamenta en lo que aparentas, en los privilegios que ganas dentro de una comunidad por _alzar_ la voz, aunque eso implique radicalizar tus posturas y cerrar el camino al diálogo; en los _likes_ que obtienes en redes sociales, aunque para eso debas publicar una acusación imaginaria; el asunto es estar “activos” a diario.  La filosofía de la representación edifica narrativas donde solo prevalece la oscuridad, pues lo samaritano no suele acaparar titulares. Para superarla es necesario una verdadera cultura de servicio al prójimo. Solo un abajamiento voluntario de nuestros egos puede romper con el imperio del _clickbait_ (anzuelo para lograr clics). Si logramos dar ese paso, esa coherencia entre nuestra espiritualidad  y nuestra vida, siempre podremos hablar y escribir desde la verdad, pues la mentira,  no tendrá quien la escriba.        
-
-participación social de la Iglesia en Cuba, participación social de la Iglesia en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)
+Los católicos cubanos que han decidido participar de forma activa en la construcción del tejido social de la Cuba del futuro, sobre todo desde el mundo digital, deben evitar ser presa de la _cultura de la representación_. En ella, todo se fundamenta en lo que aparentas, en los privilegios que ganas dentro de una comunidad por _alzar_ la voz, aunque eso implique radicalizar tus posturas y cerrar el camino al diálogo; en los _likes_ que obtienes en redes sociales, aunque para eso debas publicar una acusación imaginaria; el asunto es estar “activos” a diario.  La filosofía de la representación edifica narrativas donde solo prevalece la oscuridad, pues lo samaritano no suele acaparar titulares. Para superarla es necesario una verdadera cultura de servicio al prójimo. Solo un abajamiento voluntario de nuestros egos puede romper con el imperio del _clickbait_ (anzuelo para lograr clics). Si logramos dar ese paso, esa coherencia entre nuestra espiritualidad  y nuestra vida, siempre podremos hablar y escribir desde la verdad, pues la mentira,  no tendrá quien la escriba.

@@ -1,9 +1,9 @@
 ---
-title: "Eusebio Leal"
+title: "El Caballero de La Habana"
 date: "2020-08-02T16:00:00+00:00"
 author: ""
 category: "Cultura"
-image: "/wp-content/uploads/2020/08/Luis-Enrique-Camejo.jpg"
+image: ""
 ---
 Muerte de Eusebio Leal.
 
@@ -12,10 +12,6 @@ Muerte de Eusebio Leal.
 Desde hacía un tiempo, la adversidad había privado las calles de la gran urbe del gentío que a diario las recorría. De todas las ausencias, producto de la reclusión general, había una que dejaba un vacío particularmente grande, la de su más insigne hidalgo. Este personaje no era un caballero de París, ni de Viena o Estocolmo, era el Caballero de La Habana, ¿acaso destacaba por ser el más refinado? ¿por poseer un verbo encendido y apasionado, sobre todo cuando hablaba de _su novia?_ Absolutamente… pero más resaltaba porque de todos, era el más _Leal_….
 
 Desde hacía años este criollo se había consagrado en cuerpo y alma a esta hermosa mujer, un tanto abatida por el infortunio, que corría el más grave de los peligros: el de olvidar su propia grandeza. Ni corto ni perezoso puso manos a la obra, donde había escombros levantó edificios, a las ruinas le devolvió su antigua silueta de grandeza, ya sea en modo de columna o estatua. Recordó al mármol su olvidada blancura, y a sus habitantes, dio más que el fresco verdor de la esperanza: les devolvió el color….
-
-![](/wp-content/uploads/2020/08/qwqwq.jpg)
-
-![](/wp-content/uploads/2020/08/qwqwq.jpg)
 
 Fotografía: Miguel Alejandro Hayes
 
@@ -36,13 +32,3 @@ Muerte de Eusebio Leal Muerte de Eusebio Leal
 ⭐⭐⭐⭐⭐
 
 Puntuación: 5 de 5.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

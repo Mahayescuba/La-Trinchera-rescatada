@@ -1,5 +1,5 @@
 ---
-title: "Consigna y espontaneidad"
+title: "Para decir la consigna, uno, dos y tres"
 date: "2021-10-22T16:00:00+00:00"
 author: "Alexander Hall Lujardo"
 category: "Política en Cuba"
@@ -16,13 +16,3 @@ Su reiteración desganada se transfigura en artefacto ofensivo de los actores qu
 La consigna adopta una expresión enérgica en la voz de seres conscientes, quienes con irreductible valor salen a las calles para expresar su inconformidad contra toda manifestación que merezca el repudio de grupos comprometidos en la defensa de derechos usurpados o ideales justos. Allí, el [espontaneísmo](https://es.wikipedia.org/wiki/Espontaneidad_revolucionaria), acompañado por la conciencia organizativa, forman un todo indisoluble que imposibilita cualquier encasillamiento en la forma de actuar de sus miembros, convirtiéndose en poderosa arma filo-cortante que pone en peligro los fundamentos sistémicos. En semejante contexto, el desgano pusilánime no es viable a los fines de reclamos populares que conviven bajo modelos exigentes de movilizaciones recurrentes para alcanzar los objetivos trazados por sus componentes sociales. Por ende, tiene en sí misma un fuerte contenido que tiende a la disrupción, al constituirse en herramienta de cambio.
 
 La idea carente de contenido insistentemente repetida en sociedades imbuidas por una conceptualidad enajenante a los fines propuestos por los más encumbrados teóricos de semejante alternativa, constituye una estrategia efectiva en las manos de sujetos desprovistos de posibilidades de ascenso en el plano socioeconómico, en cuanto ésta contribuye a la inestabilidad, al ser capaz de sembrar el escepticismo y la apatía generalizada cercenando los cimientos de una sociedad fantasmagórica de la opresión, cuyo principal sostenimiento es la manifestación formalmente aprobatoria de inciertas mayorías, a la vez que instrumento endeble de perpetuación ideológica mediante la manipulación política, amparada por las innúmeras simbologías hegemónicas del poder para legitimar su dominación, sentando las garantías de su indiscutible exabrupto. En tales casos, el poder revolucionario de la consigna se torna doblemente indiscutible.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/07/Alex2021-07-30-15.43.31.jpg)
-    
-    ![](/wp-content/uploads/2021/07/Alex2021-07-30-15.43.31.jpg)
-    
-    [Alexander Hall](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/alexander-hall/)
-    
-    Estudiante de Historia y activista afrodescendiente de ideas socialistas.

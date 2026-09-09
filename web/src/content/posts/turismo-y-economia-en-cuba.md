@@ -1,9 +1,9 @@
 ---
-title: "Turismo y economía en Cuba La Trinchera Rene Portuondo"
+title: "El turismo y el desarrollo de la economía cubana"
 date: "2018-10-19T13:02:49+00:00"
 author: "Rene Portuondo"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2018/10/turismo-0_4487044039.jpg"
+image: ""
 ---
 Desde la década del 80s del siglo pasado se ha venido desarrollando con gran fuerza en nuestro país el sector turístico como uno de los principales ejes de la economía nacional. Desde su modesto desarrollo en aquellos primeros años, pasando por el vertiginoso crecimiento que ha presentado desde los años 90s hasta la actualidad, el mismo ha significado una fuente inestimable de divisas al país, así como ha permitido el desarrollo de otras ramas de la economía que se han beneficiado de su crecimiento. En la actualidad genera un volumen nada despreciable de puestos de trabajos en la economía, tanto formales como informales, y ha potenciado en gran medida el desarrollo del sector privado en áreas, como la gastronomía, la hostelería y el trasporte.  
 Pero más allá de los beneficios innegables del turismo al desarrollo de la economía nacional, el énfasis puesto en una acelerada expansión en los últimos años, así como el nuevo contexto internacional en que nos encontramos plantea nuevas cuestiones a valorar en vista a su desenvolvimiento futuro.  
@@ -17,17 +17,3 @@ Es válido señalar aquí, que, en los primeros años de su desarrollo, los insu
 Por un lado, la persistencia de la multiplicidad cambiaria que desincentiva la compra de productos nacionales en detrimento de las importaciones, que aun cambio empresarial 1 por 1, resultan en términos contables más atractivas que las producciones nacionales. Esto se une al deficiente marco institucional de nuestra economía que ha conllevado a la ineficiencia de nuestra industria y agricultura, que **en la actualidad no podrían responder desde sus niveles de producción y crecimiento** **a las demandas del turismo aun cuando se diera total resolución al primero de los problemas planteados**.  
 El crecimiento de la industria turística sin respaldo en el crecimiento de otros sectores, podría llevar a un sobredimensionamiento contraproducente de dicho sector, que sangrará en importaciones la mayor parte de los ingresos del mismo. **Lograr que el turismo se encadene con el resto de la economía**, es sin lugar a duda el mayor reto de dicho sector en la actualidad. Sin duda mucho más importante y apremiante que la construcción de nuevos hoteles, que solo contribuirán al desbalance en el crecimiento económico del país y abundarán en un modelo extensivo que dejará de lado grandes reservas de eficiencia que aún tenemos en pos de la “locura” del crecimiento por el crecimiento. Es tal vez esta coyuntura, donde el arribo de turistas baja su crecimiento, donde se abren las condiciones para dar un impulso decisivo a otros renglones de la economía, que permitan en un futuro volver a una senda de desarrollo del sector, pero desde posiciones más favorables para un desenvolvimiento armónico de nuestra economía.  
 **La pelea de la economía cubana sigue siendo la misma que hace doscientos años, lograr la diversificación y la eficiencia del sector primario (agricultura)**, que nos permita luego llevar adelante planes de desarrollo industrial y de servicios, como el turismo, que a la larga permitirán un desarrollo estable de nuestra economía. Apostar por una expansión industrial o de servicios sin la base económica y el marco institucional que permitirá su desarrollo, significará condenar a la economía cubana a la dependencia de las importaciones para desarrollar estos sectores. Seguir por ese camino solo pondrá de manifiesto lo malo que hemos sido al aprender de nuestro pasado.
-
-[Otro texto del autor](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

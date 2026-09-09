@@ -3,7 +3,7 @@ title: "Che y el intelectual revolucionario"
 date: "2019-06-14T15:26:03+00:00"
 author: "René Portuondo"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/06/515024192-bearded-cuban-economic-minister-ernesto-gettyimage-2.jpg"
+image: ""
 ---
 La izquierda revolucionaria y las clases trabajadoras han contado desde casi sus mismos inicios con un fuerte movimiento intelectual que ha acompañado sus procesos revolucionarios. Desde el surgimiento de los primeros movimientos que abogaban por la superación del orden capitalista, muchos han sido los que han contribuido desde la teoría al fortalecimiento de estos. Incluso antes, en el tiempo de las revoluciones burguesas -como la paradigmática Revolución Francesa-, fueron los intelectuales revolucionarios los que se posicionaron al frente de dichas revoluciones.
 
@@ -37,16 +37,4 @@ El intelectual revolucionario muere como tal cuando sus teorías dejan de tener 
 
 Lo progresista de un hombre y de una clase como generalidad puede medirse por su relación y posición ante el poder dominante. Es siempre más importante el pensamiento crítico que nos permite avanzar superando nuestros errores, que la defensa a ultranza de una orden social, posición que tiende a caer en posturas fanáticas que pierden contacto con la realidad que desean trasformar. Es en este dilema de posturas donde quedan en medio nuestros intelectuales. Será su elección la que decante -a favor o en contra- el juicio inapelable que sobre ellos hará la historia. El Che como intelectual, decidió ser también un revolucionario **¿qué harán los intelectuales de izquierda hoy?**
 
-[También le puede inreresar](/politica-en-cuba/) 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+[También le puede inreresar](/politica-en-cuba/)

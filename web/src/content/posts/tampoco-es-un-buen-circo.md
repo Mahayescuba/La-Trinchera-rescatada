@@ -1,9 +1,9 @@
 ---
-title: "Clandestinos"
+title: "Tampoco es un buen circo"
 date: "2020-01-12T05:16:06+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/01/yousuf-karsh-fidel-castro-portrait.jpg"
+image: ""
 ---
 clandestinos.
 
@@ -16,15 +16,3 @@ Importante es recordar que ese grupito no tenía nombre, tan solo era “el movi
 Si esa gente, si es que hay gente, fueran algo de lo que dicen, harían una acción armada, enfrentarían al gobierno directamente, y estarían dispuestos a morir.  
 Aunque siempre habrá valientes del día después, cuando una causa no es capaz de movilizar al menos cuatro locos o locas con pantalones y sayas dispuestos a dar la vida, todavía no es ni tan grande, ni tan justa. Y no veo a estos “Clandestinos” dispuestos a nada, y menos como para merecerse el nombre.  
 Paren ya, que mucho pan no hay, y tampoco es un buen circo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

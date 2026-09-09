@@ -1,9 +1,9 @@
 ---
-title: "Cobardía política en Cuba"
+title: "Depredador"
 date: "2021-01-18T10:30:00+00:00"
 author: "Giordan Rodríguez Milanés"
 category: "Onírica"
-image: "/wp-content/uploads/2021/01/Martin-Le-Roy.jpg"
+image: ""
 ---
 Quien ve voltearse en el último instante a una rata que huye despavorida, cree que el roedor es valiente. Y no: es precisamente el terror lo que la compulsa a enfrentar el destino, y a tratar de hacer daño al presentir que se acabó su tiempo de engullir sobras. Chilla, se desespera, salta, chilla…
 
@@ -20,17 +20,3 @@ Hay quien cree que una vida de vómitos panfletarios sobre la hoja en blanco pue
 ¡Esperar al enemigo mientras se pregunta quién habrá visto por fin al unicornio!  ¡No como la rata acorralada, no! Sino como el espíritu bravío detrás de, cuyo rostro y nombre, se esconde el cobarde, que jamás lo pudo ni lo podrá emular. 
 
 Hay ratas que creen que, porque aprendieron a medrar hasta cierta altura, jamás encontrarán el gato que las va a sumir, para siempre, en un olvido que ni sus propios hijos la recordarán.
-
-cobardía política en Cuba, cobardía política en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-13.24.39.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-13.24.39.jpg)
-    
-    [Giordan Rodríguez Milanés](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/giordan-rodriguez-milanes/)
-    
-    Realizador de radio y televisión. Estudioso de la Comunicación Social
-    
-    [](https://jovencuba.com/author/giordan/)

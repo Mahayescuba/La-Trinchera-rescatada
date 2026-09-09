@@ -1,5 +1,5 @@
 ---
-title: "Huelga de hambre de San Isidro No hay más tela"
+title: "No hay más tela"
 date: "2020-11-22T17:00:58+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
@@ -46,17 +46,3 @@ Da pena todo esto, y cómo lo hemos asumido. Una prensa oficial que calla, y una
 Este país necesita espacios civiles de diálogo, lo sabemos todos, pero el MSI tiene una guerra con el estado cubano, y son consecuentes con que todo vale. Por eso llegamos hasta este punto.
 
 Volvamos atrás: lo más importante son las vidas, no hay más tela. Este circo sin pan no da para más.
-
-Huelga de hambre de San Isidro. Huelga de hambre de San Isidro. Huelga de hambre de San Isidro
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

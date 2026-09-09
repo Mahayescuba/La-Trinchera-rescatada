@@ -3,7 +3,7 @@ title: "Espero respuesta pronto de Marta"
 date: "2019-06-29T19:24:03+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/06/marta-harnecker.jpg"
+image: ""
 ---
 Marta Harnecker respuesta.
 
@@ -20,15 +20,3 @@ La noticia es incierta. ¡Cómo no volver a esperar un mensaje suyo! Quizás pud
 La sala blanca, paredes tejiendo el silencio de una voz inteligente, platos de berenjena servidos. Imitar la buena cocina. Repasar la vista a los libros diversos en sujetados estantes blancos, la noche oscura de La Habana en cristales limpios.  
 Toqué el timbre. Identifiqué el piso y abrimos las puertas. Así Marta nos pide que sean inciertas las solicitudes del desacuerdo. Quiero escuchar para aportar caminos, hacer distintas las visiones. Me guardo su número, las pocas fotografías, los libros entregados, su tallada personalidad. Así es Marta Harnecker.  
 No es cierto su rechazo a la vida. Fue batalla, regresos y duras veces. Lo que queda al amigo Michael con tu partida física, lo que fuiste compañía fiel de Barba Roja y madre de inquietud intelectual, difícil y tierna, esperanzadora. Cultivadora de nacimientos. Si al siglo XXI aún no han terminado sus calendarios, tu nombre seguirá convocando. Descansa un rato, llegarás en tu espera. Paciencia en esos nuevos caminos. Acá estamos.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

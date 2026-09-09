@@ -1,9 +1,9 @@
 ---
-title: "muere joven cubano en Guanabacoa-Silencio-Por Maikel Pons Gilart"
+title: "Silencio"
 date: "2020-06-28T00:42:56+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/06/Tommy-Ingberg-Puno.jpg"
+image: ""
 ---
 muere joven cubano en Guanabacoa… La Trinchera comparte un texto a propósito.
 
@@ -36,13 +36,3 @@ La diferencia más notable es que en Cuba hicimos una Revolución para que la no
 ¿Cómo es posible aplaudir por los médicos nuestros a las 9pm y no llorar cuando una vida se pierde inútilmente? ¿Cómo es posible ser tolerantes y permisivos con cualquier ilegalidad que nos permita “luchar” y “sobrevivir” y asumir la muerte, la discriminación, el extremismo, la indiferencia por el otro/a cotidiano como algo justificado o justificable? ¿Cómo es posible ser solidarios con los excesos hacia los que sufren en el Mundo, y no convertirnos en educadores sociales cotidianos en las realidades más sufridas de nuestro país? El extremismo y el conservadurismo avanzan en Cuba y tienen causas y consecuencias estructurales, educativas, institucionales, económicas, sociales, cívicas, éticas que tienen que ser atendidas de forma urgente.
 
 Lo único que espero de la Revolución Cubana por la cual he luchado durante mis 40 años de vida, soportando todo y a todos, no es salud y educación gratuita, espero además respeto, justicia, ética, humanismo para todas y todos, sin distinción de origen social, familiar. Que luego de la imponente realidad de la MUERTE nadie se atreva a emitir juicios, y como trofeo vencedor muestre “historiales criminales”, sin guardar un profundo silencio ante la MUERTE. Sin dejar a un lado los subterfugios oportunistas para no permitirnos indignarnos ante la MUERTE.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/k9351wLB_400x400.jpg)
-    
-    ![](/wp-content/uploads/2020/12/k9351wLB_400x400.jpg)
-    
-    [Maikel Pons Giralt](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/maikel-pons-giralt/)
-    
-    Cubano negro, militante antirracista y educador

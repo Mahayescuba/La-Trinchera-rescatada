@@ -1,5 +1,5 @@
 ---
-title: "el derecho a la información"
+title: "Libertades y derechos: expresión e información"
 date: "2020-10-27T13:01:33+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
@@ -8,8 +8,6 @@ image: "/wp-content/uploads/2020/10/Tell-Deep-Stories-with-Faces.jpg"
 En agosto de 2017, una publicación del diario _14 y medio_[_**\[1\]**_](applewebdata://66F171A8-330D-49B1-954B-0258F96314E1#_ftn1) anunciaba una pelea entre comunistas causada por un “cartel irrespetuoso” que convocaba a una jornada de limpieza del malecón habanero. Según este medio, un grupo de dirigentes partidistas había mandado a retirar dicho cartel. 
 
 Pero la idea original de esa jornada cancelada había sido mía, y viví tan de cerca como nadie la evolución de aquellos acontecimientos. Era la primera vez que me enfrentaba a una _fake news_, siendo además el sujeto implícito en ella. 
-
-![](/wp-content/uploads/2020/10/fidel.jpeg)
 
 ![](/wp-content/uploads/2020/10/fidel.jpeg)
 
@@ -25,10 +23,6 @@ Esa carencia de espacios, con el tiempo, ha generado un conjunto de medios, que 
 A lo que se le suma las no pocas ocasiones en que los medios partidistas usan técnicas similares. (Carece de sentido en estas líneas comparar qué tipo de medios incurre más en esas prácticas).
 
 Como resultado, el lector, entre los que hay también redactores, tiene que recibir material que lo desinforma y manipula. Esto, potenciado y prolongado, _redirecciona_ el pacto social, sobre todo si se tiene en cuenta que los medios de comunicación tienen una clara función política y social, ya que son una red de poderes en interacción[\[2\]](applewebdata://66F171A8-330D-49B1-954B-0258F96314E1#_ftn2).
-
-> [El delito de atentar contra la verdad](/derecho-a-la-informacion-veraz/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«El delito de atentar contra la verdad» — La Trinchera" src="../derecho-a-la-informacion-veraz/embed/index.html#" data-secret="MdHff08Ir1" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 Como acompañante de la libertad de expresión, el discurso jurídico occidental introduce el derecho a la información veraz[\[3\]](applewebdata://66F171A8-330D-49B1-954B-0258F96314E1#_ftn3), algo así como la otra cara de la moneda. Al igual que el derecho a la libertad de expresión, este es propio de los estados de derecho.
 
@@ -55,15 +49,3 @@ El Estado de Derecho cubano [declarado](http://www.cubadebate.cu/cuba/2020/02/24
 [\[5\]](applewebdata://66F171A8-330D-49B1-954B-0258F96314E1#_ftnref5) Azurmendi Adarraga, Ana: _Derecho a la información: guía jurídica para profesionales de la comunicación_, Ceunsa, Navarra 2001, p. 81.
 
 [\[6\]](applewebdata://66F171A8-330D-49B1-954B-0258F96314E1#_ftnref6) Habermas, Jürgen: _Historia y crítica de la opinión pública. La transformación estructural de la vida pública_, Gustavo Gili, Barcelona, 1981, p. 210.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

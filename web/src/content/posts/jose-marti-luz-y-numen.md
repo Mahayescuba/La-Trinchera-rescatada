@@ -1,5 +1,5 @@
 ---
-title: "Martí y la bondad"
+title: "José Martí, luz y numen"
 date: "2021-04-26T09:30:00+00:00"
 author: "Raymar A. H."
 category: "Política en Cuba"
@@ -31,15 +31,3 @@ _“Entre los profetas de los nuevos tiempos, de ese porvenir sintetizador de la
 4.  Cintio Vitier, Martí Futuro, 1964, en Temas Martianos, en colaboración con Fina García Marruz, Biblioteca Nacional José Martí, 1989, pág. 139. 
 
 \*Cintio Vitier, _Martí en la hora actual de Cuba_, Resistencia y Libertad, Ediciones Unión, 1999, pág. 147.
-
-Martí y la bondad, Martí y la bondad, Martí y la bondad
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/ray.jpg)
-    
-    ![](/wp-content/uploads/2021/02/ray.jpg)
-    
-    [Raymar A. Aguado Hernández](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/raymar-a-aguado-hernandez/)
-    
-    Futuro psicólogo

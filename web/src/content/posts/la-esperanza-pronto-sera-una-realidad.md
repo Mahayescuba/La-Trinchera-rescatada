@@ -1,5 +1,5 @@
 ---
-title: "Violencia institucional el 27 de enero La Trinchera Por: Julio Pernús"
+title: "La esperanza pronto será una realidad"
 date: "2021-02-01T17:00:00+00:00"
 author: "Julio Pernús"
 category: "Política en Cuba"
@@ -15,18 +15,4 @@ Escribo porque es la mejor manera que tengo de comunicar, y la verdad, en la Igl
 
 Uno de nuestros obispos ha comenzado a promover en su diócesis una reflexión sobre la vida de San José, una de las características del esposo de María es que siempre creyó en un Cristo pobre, pues sabía que la pobreza elegida por el bien de Jesús y a su servicio, también reconoce nuestra interdependencia de la figura en el poder político. Ser una Iglesia que por la opción samaritana de defender al prójimo se hace aún más pobre, nos hará  ser también más libres  para ser más generosos con ese que hace hoy una sola comida al día si acaso, o aquellas personas que pasan el día en una cola para vender su compra a otros; pero, especialmente a esos cubanos que están necesitados de tantas maneras de sentir un aliento en su esfuerzo por defender una narrativa distinta para su futuro. 
 
-La violencia no es casualidad, más bien es nace en el corazón del hombre sujeto a estructuras aprisionadoras. Alguna vez le escuché decir al P. Benjamín sj que la mística de los ojos abiertos: “no es solo mirar tú al pobre- al repudiado- sino dejarte mirar por él también y saber que desde ahí también Dios actúa, transforma, cambia los corazones.” La Iglesia es de las pocas instituciones civiles que aún tiene un grado de credibilidad en los cubanos, y si esa fe que el pueblo le tiene a Dios (al bien para los no creyentes) se transformara en obras, en alianzas, sería más fácil ver que la esperanza pronto será una realidad.      
-
-violencia institucional el 27 de enero
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)
+La violencia no es casualidad, más bien es nace en el corazón del hombre sujeto a estructuras aprisionadoras. Alguna vez le escuché decir al P. Benjamín sj que la mística de los ojos abiertos: “no es solo mirar tú al pobre- al repudiado- sino dejarte mirar por él también y saber que desde ahí también Dios actúa, transforma, cambia los corazones.” La Iglesia es de las pocas instituciones civiles que aún tiene un grado de credibilidad en los cubanos, y si esa fe que el pueblo le tiene a Dios (al bien para los no creyentes) se transformara en obras, en alianzas, sería más fácil ver que la esperanza pronto será una realidad.

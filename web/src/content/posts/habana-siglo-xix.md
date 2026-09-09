@@ -1,5 +1,5 @@
 ---
-title: "Habana siglo XIX. Regionalizar la ciudad (1860-1886). La Trinchera"
+title: "Regionalizar la ciudad"
 date: "2022-01-14T15:20:34+00:00"
 author: ""
 category: "Historia"
@@ -115,14 +115,4 @@ Barcia Zequeira, María del Carmen: Una sociedad en crisis. La Habana a finales 
 
 [\[17\]](#_ftnref17) Ob. cit., p. 10.
 
-Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX
-
 Tienes que añadir un widget, una fila o un diseño preconstruido antes de que puedas ver algo aquí. 🙂
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Jesús Javier Mejias Díaz](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jesus-javier-mejias-diaz/)

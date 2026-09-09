@@ -3,7 +3,7 @@ title: "Inicio - Proyecto\"La Trinchera\". Un medio independiente hecho en Cuba"
 date: ""
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/01/Logo--e1533234718419.png"
+image: ""
 ---
 La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser una plataforma de debate. Su actividad se centra en generar escenarios digitales y físicos de intercambio de ideas a partir de la publicación de artículos, ensayos, poesías, cuentos, testimonios, relatos, entre otros formatos.
 

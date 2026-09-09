@@ -3,7 +3,7 @@ title: "El Marxismo en Cuba hoy"
 date: "2020-09-04T09:53:38+00:00"
 author: ""
 category: "Marxismo en Cuba"
-image: "/wp-content/uploads/2020/09/Episodio-25.png"
+image: ""
 ---
 Marxismo en Cuba.
 
@@ -26,15 +26,3 @@ Links
 **GOOGLE PODCAST:** https://podcasts.google.com?feed=aHR0cHM6Ly93d3cuaXZvb3guY29tL3NvbGFyX2ZnX2YxODYwNzI5X2ZpbHRyb18xLnhtbA%3D%3D&episode=aHR0cHM6Ly93d3cuaXZvb3guY29tLzU1MjcwNTkz
 
 Miguel Alejandro Hayes en El Solar conversa sobre . Este comentario parte de la publicación de un breve artículo en La Trinchera, una plataforma independiente para el debate en la isla. ¿Qué versión del sobrevive en las instituciones de la Cuba actual? ¿Cuál en la academia? Miguel Alejandro Hayes en El Solar conversa sobre . Este comentario parte de la publicación de un breve artículo en La Trinchera, una plataforma independiente para el debate en la isla. ¿Qué versión del sobrevive en las instituciones de la Cuba actual? ¿Cuál en la academia? Miguel Alejandro Hayes en El Solar conversa sobre . Este comentario parte de la publicación de un breve artículo en La Trinchera, una plataforma independiente para el debate en la isla. ¿Qué versión del sobrevive en las instituciones de la Cuba actual? ¿Cuál en la academia?
-
-## Autor
-
--   ![](/avatar/dc9431b56448e197d9daf598c729f9ec?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/dc9431b56448e197d9daf598c729f9ec?s=80&r=g&d=mm)
-    
-    [elsolarpodcast](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/elsolarpodcast/)
-    
-    Un podcast cubano para debatir y reflexionar sobre economía, política, filosofía, y hasta poesía
-    
-    [](mailto:radiolatrinchera@gmail.com)

@@ -3,7 +3,7 @@ title: "La Cuba de los próximos Años"
 date: "2019-03-04T16:43:11+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/03/PicsArt_03-04-12.58.31.jpg"
+image: ""
 ---
 constitución Cuba.
 
@@ -66,15 +66,3 @@ El primer reto que se advierte, en menos de dos años, es el del cambio del cód
 Para contactar con el autor: jnpernus@gmail.com
 
 constitución Cuba constitución Cuba constitución Cuba constitución Cuba constitución Cuba constitución Cuba constitución Cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

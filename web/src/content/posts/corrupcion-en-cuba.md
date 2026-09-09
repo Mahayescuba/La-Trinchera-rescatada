@@ -3,7 +3,7 @@ title: "La corrupción y algunas de sus aristas (I)"
 date: "2018-07-02T12:00:31+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2018/06/Corrupcion-portada-580x280.jpg"
+image: ""
 ---
 Corrupción en Cuba.
 
@@ -37,18 +37,4 @@ Ahora ese monto de 300 millones que es solo la parte superficial de este gran ne
 
 [\[1\]](#_ftnref1) Estudiamos la demanda pues en un modelo agregado, oferta = demada. Esto ocurre puesto que todo acto de compra es a la misma vez un acto de venta. Como es imposible estimar cuanto se sustrae realmente del sector estatal, se estima entonces cuanto compran los taxis privados en base a sus necesidades y luego se extrapola esta cifra partiendo del supuesto que estos combustibles en el mercado negro tienen origen en el sector público de la economía. No es una estimación perfecta pero sirve de un referente aproximado.
 
-[Otro texto del autor](/politica/)
-
 Corrupción en Cuba. Corrupción en Cuba. Corrupción en Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

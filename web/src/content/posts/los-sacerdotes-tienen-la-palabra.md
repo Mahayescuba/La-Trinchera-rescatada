@@ -1,9 +1,9 @@
 ---
-title: "Actitud crítica de sacerdotes cubanos"
+title: "Los Sacerdotes tienen la palabra"
 date: "2021-01-09T10:30:00+00:00"
 author: "Julio Pernús"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/01/Claude-Ohresser-Escultura-en-acero.jpg"
+image: ""
 ---
 _Apuntes sobre la repercusión mediática de algunos sacerdotes tras sus críticas públicas a la situación que vive el país_
 
@@ -24,17 +24,3 @@ La Iglesia en Cuba no puede ser dibujada en forma de monolito. Su diseño es má
 Si algo lamenté de la última elección de la Confederación Cubana de Religiosos (CONCUR) es que, al salir como presidente un religioso sacerdote, quizás no nos sea tan frecuente leer la mente brillante de una religiosa tan valiente y coherente como su anterior presidenta, sor Nadieska, hc. La Iglesia también necesita de la voz profética y maternal de las mujeres. Aunque sean minoría entre los que han alzado su voz por estos días, sé que han logrado con sus mensajes hacer ver algo de luz en la oscuridad. 
 
 Hoy quiero decir a los sacerdotes que lean este texto: ustedes tienen la oportunidad de mostrar aquello de “sapere aude”, es decir “el valor de servirse de su propia razón y fe”. Si hablan desde la coherencia, tengan la certeza de que, con esperanza, serán escuchados.
-
-actitud crítica de sacerdotes cubanos, actitud crítica de sacerdotes cubanos, actitud crítica de sacerdotes cubanos
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)

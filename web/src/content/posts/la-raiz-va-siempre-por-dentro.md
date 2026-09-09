@@ -1,9 +1,9 @@
 ---
-title: "Entrevista a Ovidio González"
+title: "La raíz va siempre por dentro"
 date: "2020-12-07T17:00:29+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2020/12/JL-Lacroix.jpg"
+image: ""
 ---
 **Entrevista de Sender Escobar al cantante y actor cubano Ovidio González.**
 
@@ -78,13 +78,3 @@ Efectivamente, la situación sanitaria me ha impedido estar presente físicament
 **San Antonio de los Baños posee una extraña magia cinematográfica para cualquier visitante foráneo, villa donde nacieron seres humanos que han trascendido entendimientos y sensibilidades gracias al arte. ¿Cuánto de San Antonio llevas dentro?** 
 
 San Antonio es raíz y la raíz va siempre por dentro. Está en mi esencia.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    [Sender Escobar](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/sender-escobar/)
-    
-    Ingeniero industrial y famous stalker

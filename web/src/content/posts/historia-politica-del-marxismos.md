@@ -1,9 +1,9 @@
 ---
-title: "historia politica del marxismo"
+title: "La Historia Política del marxismo desde la Trinchera"
 date: "2018-03-02T20:03:06+00:00"
 author: "Fernando Almeyda Rodríguez"
 category: "Trinchera Abierta"
-image: "/wp-content/uploads/2018/03/ok.jpg"
+image: ""
 ---
 _La Trinchera_ se abre, crece se fortalece. Desde su nueva sede en [MEPLA](http://www.archivochile.com/Ideas_Autores/harneckerm/1sobr/harneobre0002.pdf) cita en calle 13 entre D y E, Vedado, se realizó el pasado martes 27 de febrero la tercera y muy exitosa salida mensual del espacio de debates sobre marxismo, _Trinchera Abierta._
 
@@ -17,18 +17,4 @@ La próxima salida estará dedicada a una polémica figura de importancia medula
 
 ¡La Trinchera está Abierta!
 
-[Otro texto del autor](/politica-en-cuba/)
-
 [Trinchera Abierta](/trinchera-abierta/) es un espacio de debate organizado y protagonizado por jóvenes, que surgió a la luz del proyecto  La Trinchera.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

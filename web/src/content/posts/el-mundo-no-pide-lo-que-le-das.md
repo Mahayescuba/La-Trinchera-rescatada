@@ -1,5 +1,5 @@
 ---
-title: "Criterios de valoración"
+title: "El mundo no pide lo que le das"
 date: "2021-03-08T10:30:00+00:00"
 author: "José Repiso Moyano"
 category: "Opinión"
@@ -24,11 +24,3 @@ En sensatez, para saber valorar bien las cosas es muy imprescindible que no siga
 Sí, es cierto, los seres humanos son más tercos de lo que se pensaba; hasta el punto en que hace apenas unos días millones de ellos seguían insistiendo en que los hombres eran superiores en algo con respecto a las mujeres. O demasiados seguían pensando que la Tierra es muy plana o que el clima solo cambia por factores del terreno y no por factores humanos que manipulan imparablemente el terreno. Tales sinrazones a porrillo nunca permitirán un mundo mejor ni permitirán que respire la razón, ni permitirán que el bien tenga ya al fin una práctica.
 
 En fin, por insistir que no quede por mi parte, y les insisto sensatamente una y otra vez que los criterios de valoración son las referencias mentales para pensar, si a ética o a responsabilidad quieren ya saberlo; ¡oh sí!, ¡oh sí!, si tienen criterios de estercolero, pues solo porquería dan al mundo, ¡exacto!, ¡a ver si se enteran de una vez!
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [José Repiso Moyano](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-repiso-moyano/)

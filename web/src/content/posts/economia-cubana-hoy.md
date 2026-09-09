@@ -1,9 +1,9 @@
 ---
-title: "economía cubana hoy"
+title: "Un selfie al modelo económico (II)"
 date: "2020-02-14T15:30:30+00:00"
 author: "Julio Pernús"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/02/hongkong-in-miniature.jpeg"
+image: ""
 ---
 Estamos ya en el 2020 y todavía no sabemos cuáles son las variables tangibles que el modelo económico necesita para su buen funcionamiento. El hecho de que predomine una forma de propiedad por encima de otra, cercena las capacidades del gobierno para dar riendas sueltas a un sector como el privado, porque la Constitución pone en el centro del proceso a la propiedad social como núcleo del sistema.  
 No creo que todas las empresas estatales sean improductivas, pero en cualquier lógica primaria, pensar que las excepciones hacen las reglas es un silogismo, pues para obtener resultados reales, debemos ir a la generalidad. Hay un sobredimensionamiento de los beneficios que traería una unificación monetaria, tal parece que está al doblar la esquina. Como buen cubano, no me asombraría si después de haber oídos que vamos a esperar las mejores condiciones para realizar ese proceso, al parecer, lo vamos a realizar, en las peores condiciones.  
@@ -29,15 +29,3 @@ En los medios nacionales no se discuten los temas de la economía, tal parece qu
 (2) Nota del resumen que aparece en: http://www.radiorebelde.cu/discursos-raul-castro/raul-castro-prevemos-economia-cubana-retome-senda- visitado el 20 de enero de 2020.
 
 [**Leer primera parte**](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

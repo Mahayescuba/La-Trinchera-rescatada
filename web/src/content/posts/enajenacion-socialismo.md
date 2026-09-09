@@ -55,15 +55,3 @@ Entiendo entonces que aceptar la enajenación, además de los grandes problemas 
 [\[3\]](#_ftnref3) Digo esto, porque a mi entender la explicación de la causa queda un poco pobre.
 
 [\[4\]](#_ftnref4) antiguo régimen. Forma usada para hacer referencia al feudalismo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

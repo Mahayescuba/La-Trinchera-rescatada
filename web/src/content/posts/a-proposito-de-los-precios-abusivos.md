@@ -1,9 +1,9 @@
 ---
-title: "Precios y nivel de ingresos en Cuba"
+title: "A propósito de los precios “abusivos”"
 date: "2020-12-22T17:00:00+00:00"
 author: "Mauricio de Miranda Parrondo"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/12/Alexander-Calder.jpg"
+image: ""
 ---
 El gobierno cubano ha apelado, de forma sostenida, a los topes de precios para evitar que éstos aumenten en los mercados no estatales acusando a los trabajadores por cuenta propia de egoísmo, de falta de solidaridad, a tono con aquella caracterización despectiva que les dio Fidel Castro, cuando les llamó “merolicos” hace muchos años. Los funcionarios cubanos no se quieren dar por enterados de que en los mercados los precios son el resultado de un equilibrio entre la oferta y la demanda y que cuando ese equilibrio se rompe porque la oferta supera a la demanda, los precios bajan y cuando ocurre lo contrario, suben. En los cursos básicos de Economía se enseña que cuando el Estado interviene los mercados, fijando precios por debajo del punto que refleja el equilibrio entre la oferta y la demanda, el resultado es la escasez.
 
@@ -32,13 +32,3 @@ Adicionalmente, la resolución que establece los precios de los productos que an
 ¿Son éstas medidas “revolucionarias” o se trata, una vez más, de exprimir a las personas que necesitan legalizar documentos para que surtan efecto en el exterior o a aquellos que ya viven en el exterior y no por ello se volvieron millonarios o a aquellos que necesitaban de remesas para acceder a las inaccesibles TRD con los ingresos del trabajo? ¿Qué pasará con quienes no puedan pagar semejantes tarifas que no guardan relación alguna con sus niveles de ingreso o con quienes siguen sin tener acceso a los precios multiplicados por 24 o 25 cuando sus ingresos solo crecieron como promedio 4,9 veces? Por otra parte, ¿Se sigue marcando la diferencia entre los cubanos de “aquí” y los de “allá”? ¿Esa es la forma de “incluir” que tiene el gobierno cubano respecto a la comunidad cubana?
 
 _Tomado del blog del autor_
-
-precios y nivel de ingresos en Cuba, precios y nivel de ingresos en Cuba, precios y nivel de ingresos en Cuba, precios y nivel de ingresos en Cuba
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Mauricio de Miranda Parrondo](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/mauricio-de-miranda-parrondo/)

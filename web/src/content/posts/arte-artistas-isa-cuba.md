@@ -3,7 +3,7 @@ title: "Del arte y los artistas"
 date: "2019-08-01T07:18:54+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/08/IMG-20190731-WA0003.jpg"
+image: ""
 ---
 Arte y artistas. 
 
@@ -18,15 +18,3 @@ El arte es el vocero del alma humana. Es el mundo todo en un instante. Es lo irr
 
 Que no se crea que el arte es puro impulso empírico que nace solo de las experiencias vividas y que no puede ser cuando estamos viviendo la monotonía diaria. Que no se crea que el arte necesita experiencias trascendentales cada vez que sea necesario crear. El arte debe ser un motor de energía infinita que siempre está en marcha. Llenémonos de conocimiento a la par de la experiencia y trabajemos sin descanso depurando nuestras voces creadoras. No esperemos sentados por la oportunidad de trabajar. Estemos siempre trabajando y que la oportunidad llegue mientras eso pasa. No paremos por absurdos burocráticos o la estupidez humana. No hay barrera alguna para impedir la creación. Incluso artistas han creado privados de la libertad. Que este título nos abra puertas para crear y servirle al mundo.  
 Para nosotros hoy es día de agradecer. Agradecer a nuestras familias, nuestros amigos, nuestros profesores, nuestra universidad, nuestro país. Hoy es día de sentirse satisfecho, hoy es día de alegrarse. Mañana es día de trabajar. Trabajemos para que un mundo mejor sea posible. Estudiemos el pasado y analicemos el presente desde sus lógicas. No se nos puede escapar nada, ni un solo detalle de nuestro alrededor. Seamos conscientes de nuestros actos y de nuestras obras. Conciencia es lo que esta humanidad necesita, démosela.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

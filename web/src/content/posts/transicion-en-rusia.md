@@ -1,9 +1,9 @@
 ---
-title: "transición en Rusia La Trinchera Ernesto Gutiérrez"
+title: "Solar rojo II"
 date: "2020-04-19T02:00:00+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2020/05/IMG_20200504_195016.jpg"
+image: ""
 ---
 Regresa a El Solar [Ernesto Gutiérrez](/izquierdista-de-derecha/) para dar continuidad a un tema pendiente: Rusia. ¿Qué sucedió con la [URSS](https://es.wikipedia.org/wiki/Unión_Soviética)? ¿Cómo fue el proceso de desintegración? ¿Quiénes estuvieron implicados? ¿Cuál ha sido el papel de V. Putin en los últimos años? ¿Qué le depara a Rusia en el futuro? Esas y otras preguntas se hará el abogado de nuestro Solar para adentrarnos en la complejidad de esta potencia.
 
@@ -18,15 +18,3 @@ En la entrevista con la cadena estadounidense CBS se le preguntó a Trump si ped
 A pesar de la simpatía que ha mostrado hacia el presidente ruso, el mandatario estadounidense no se mostró muy optimista frente a la cumbre. “Voy con pocas expectativas. No voy con expectativas altas”, dijo Trump en la entrevista emitida ayer por CBS. “Pero creo en tener reuniones con Rusia, China o Corea del Norte. No va a salir nada malo de ello, y quizás salga algo bueno”, agregó el mandatario.
 
 En la misma línea, el inquilino de la Casa Blanca dijo que Rusia sólo era un enemigo en ciertos aspectos, mientras que la Unión Europea (UE) era un enemigo por su política comercial. “Pienso que la Unión Europea es un enemigo por lo que nos hace en el comercio (…)  Rusia es un enemigo en ciertos aspectos. China es un enemigo económico, sin duda son un enemigo. Pero eso no quiere decir que sean malos, no significa nada. Significa que son rivales”, apuntó, y agregó que la UE era muy difícil.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

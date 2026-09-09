@@ -1,9 +1,9 @@
 ---
-title: "socialismo real en Cuba La Trinchera Mario Valdés Navia"
+title: "El socialismo real y la realidad cubana"
 date: "2018-03-09T20:40:50+00:00"
 author: "Mario Valdés Navia"
 category: "Marxismo en Cuba"
-image: "/wp-content/uploads/2018/03/realidad-cubana.jpg"
+image: ""
 ---
 El viejo concepto de _Socialismo Real_ -o  _realmente existente_\-, usado en la época de oro del campo socialista europeo como su equivalente, me recuerda, por su pretencioso carácter de exclusividad, los versos de una pegajosa canción cubana de salsa que dicen: “Somos lo que hay (…) Somos lo máximo”. Definir un modelo de socialismo como REAL porque haya sido el único tipo existente en un momento determinado y considerar a todos los demás como falsos, o utópicos, por no haberse podido concretar en una revolución triunfante fue una sagaz iniciativa de los teóricos del socialismo burocrático desde la época de Stalin para intentar justificar y eternizar su _status quo_.
 
@@ -26,17 +26,3 @@ Los exorcistas de estos elementos falsamente atribuidos a la _realidad cubana_ s
 Tomado de [La Joven Cuba](https://jovencuba.com/2018/03/01/el-socialismo-real-y-la-realidad-cubana/)
 
 Para contactar al autor: [mariojuanvaldes@gmail.com](https://mail.google.com/mail/u/0/h/flip564yposr/?&cs=wh&v=b&to=mariojuanvaldes@gmail.com)
-
-[Otro texto del autor](/marxismo-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

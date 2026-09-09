@@ -1,9 +1,9 @@
 ---
-title: "pensiones en cubaLos que más sufren"
+title: "Los que más sufren"
 date: "2018-12-10T16:19:39+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/12/images-6.jpeg"
+image: ""
 ---
 Una reflexión sobre las pensiones en Cuba…
 
@@ -38,15 +38,3 @@ Aunque sí existen algunas medidas que si se puede hacer en el corto plazo, y au
 – Mesa Lago, Carmelo. (2012) Sistemas de protección social en América Latina y el Caribe: Cuba.
 
 – ONEI: Anuario Estadístico de Cuba 2017
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

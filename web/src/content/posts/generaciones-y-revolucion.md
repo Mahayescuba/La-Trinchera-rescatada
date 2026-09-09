@@ -3,7 +3,7 @@ title: "Generaciones y revolución"
 date: "2020-02-15T00:34:33+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/02/6666663-R1-E004.jpg"
+image: ""
 ---
 # A modo de Introducción
 
@@ -157,15 +157,3 @@ En Cuba las distintas generaciones que participan en el proceso revolucionario h
 Esta profunda alianza generacional ha sido realizada plenamente por los dirigentes de la Revolución en cuya vanguardia se agrupan hombres de diversas generaciones.
 
 Como se ve, el tema es demasiado complejo y ofrece múltiples facetas. Aquí sólo hemos destacado las que consideramos esenciales. Las restantes quedan por razones de espacio, quizá, para otra ocasión.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

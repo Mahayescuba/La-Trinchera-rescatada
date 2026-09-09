@@ -3,7 +3,7 @@ title: "La ancianidad de la cola"
 date: "2020-08-20T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/08/Anders-Krisar.jpg"
+image: ""
 ---
 _Sé que hay de todo en esas colas; seguro que algunos ancianos hasta le aseguran el turno a personas con divisas._
 
@@ -24,15 +24,3 @@ Mientras me alejaba de la farmacia, me detuve por un momento: me llamó la atenc
 Sé que hay de todo en esas colas; seguro que algunos ancianos hasta le aseguran el turno a personas con divisas. Quizás, además de las campañas comunicativas contra los coleros, podamos hacer otra, sensibilizando a la población para que los ancianos no tengan que hacer esas colas. No es justo que gente con tantos años de lucha deba seguir “peleando” con sus achaques y la vida para obtener un simple aparato contra el asma.
 
 ancianos en colas ancianos en colas ancianos en colas
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg#038;ssl=1)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg#038;ssl=1)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)

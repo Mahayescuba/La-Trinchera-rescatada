@@ -3,7 +3,7 @@ title: "El liderazgo de la Cuba actual ¿Quién lo asume?"
 date: "2019-02-24T22:12:30+00:00"
 author: "Ernesto Nuñez"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/02/The-unexplored-2.jpeg"
+image: ""
 ---
 En la psicología de grupos se estudian los diferentes roles que asume cada individuo que conforma una comunidad o asociación cualquiera. Esta puede ser desde una familia, un colectivo de trabajo, o incluso toda una sociedad.
 
@@ -45,16 +45,4 @@ Pero ahora el nuevo presidente nos trae la esperanza otra vez: **la formulación
 Pero las redes mostraron su cara positiva. Nunca se había visto en Cuba el nivel de masividad de voluntarios que decidieron dar su mano, sus juguetes (con nota de apoyo incluida), su ropa y comida, a los que sufrieron tan terrible incidente. Esta masividad de ayuda no gubernamental acarreó algunos problemas con las autoridades, pues en cierto momento algunos, más que ayudar, entorpecían el trabajo. Claro que fue una minoría, pero esto llevó al Gobierno a tomar medidas que pusieron la situación tensa. Pero el nuevo líder decidió hacer una marcha de las antorchas al día siguiente del siniestr. Esta movilización puede considerarse como un error desde el punto de vista político, con el cual la oficialidad se agregó una carga que se podía evitar. Así lo demuestran las redes sociales y la opinión pública que generan a su alrededor.  
 Todo esto ha llevado a que el proceso de ratificación de la nueva Constitución y la enorme campaña que se ha creado para inducir una opción tengan un trasfondo más… no sé ¿siniestro? No encuentro la palabra adecuada. Pero lo que hay que entender es que este proceso, que culmina el 24F, más que para ratificar una nueva ley de leyes, es para ratificar el mandato del nuevo líder. Al ser este el dirigente del proceso y la #Continuidad de Fidel ¿Lo es? Entonces, caen dos cuestiones fundamentales a modo de conclusión ¿Lo representa la nueva Constitución? ¿Es este el líder que desea? Piénselo detenidamente antes de votar, tómese su tiempo. El lugar donde ponga la cruz contestará esas preguntas.
 
-Liderazgo en Cuba. Liderazgo en Cuba. Liderazgo en Cuba. Liderazgo en Cuba. Liderazgo en Cuba. 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+Liderazgo en Cuba. Liderazgo en Cuba. Liderazgo en Cuba. Liderazgo en Cuba. Liderazgo en Cuba.

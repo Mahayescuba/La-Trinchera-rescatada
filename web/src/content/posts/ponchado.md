@@ -3,7 +3,7 @@ title: "Ponchado"
 date: "2020-09-04T19:07:40+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/09/Aquel-que-camina-con-uno.jpg"
+image: ""
 ---
 el que camina con uno. 
 
@@ -59,16 +59,4 @@ Tiene 74 años. Mide 1 metro 55 centímetros. Los trozos de madera son para saca
 
 Ni he sentido el tramo con su compañía. Y ahora yo, tan blandito, me quejo del sol y mi calambres, y mis dolores, que nunca han producido ni una berenjena para brindarle a aquel que camina con uno…
 
-el que camina con uno el que camina con uno 
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-13.24.39.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-13.24.39.jpg)
-    
-    [Giordan Rodríguez Milanés](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/giordan-rodriguez-milanes/)
-    
-    Realizador de radio y televisión. Estudioso de la Comunicación Social
-    
-    [](https://jovencuba.com/author/giordan/)
+el que camina con uno el que camina con uno

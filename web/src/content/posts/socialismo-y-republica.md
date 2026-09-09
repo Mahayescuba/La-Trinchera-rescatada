@@ -3,7 +3,7 @@ title: "Socialismo y república en Cuba (transmisión en vivo)"
 date: "2020-01-29T21:21:26+00:00"
 author: ""
 category: "Trinchera Abierta"
-image: "/wp-content/uploads/2020/01/IMG_20200128_124448_599.jpg"
+image: ""
 ---
 Socialismo y república en Cuba. 
 
@@ -20,15 +20,3 @@ Surge a partir de una iniciativa presentada en el 1er Curso para Dirigentes en l
 Su pretensión directa es difundir las ideas de Marx, librándolas de las distancias y exorcizándolas de todos aquellos que pretenden (y de los que no) destruirla. Esto evidentemente, tiene un efecto positivo sobre la conciencia y la formación política, ya que el marxismo es una de las bases de nuestras doctrinas políticas y científicas, como país.
 
 Es el resultado de la inquietud de jóvenes cubanos, revolucionarios, y con grandes aspiraciones marxistas, que advierten la necesidad de que este sea rescatado. Es una forma de defernderlo, de reivindicar esa ciencia que tanto hace falta en el proceso construcción social que llevamos.  Proponemos hacerlo así, en la Trinchera Abierta.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

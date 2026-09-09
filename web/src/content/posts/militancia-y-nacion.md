@@ -3,7 +3,7 @@ title: "Militancia y nación"
 date: "2020-07-24T09:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/07/Colectivo-de-artistas.jpg"
+image: ""
 ---
 Consenso y democracia. 
 
@@ -43,14 +43,4 @@ Mientras escribo esto, no puedo evitar pensar en mi querida Cuba. Supuestamente 
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/democracia-en-cuba/
 
-Consenso y democracia. Consenso y democracia. Consenso y democracia. Consenso y democracia. 
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)
+Consenso y democracia. Consenso y democracia. Consenso y democracia. Consenso y democracia.

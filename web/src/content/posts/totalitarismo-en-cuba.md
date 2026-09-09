@@ -1,5 +1,5 @@
 ---
-title: "Totalitarismo en Cuba. Las PASO del 11J"
+title: "Las PASO del 11J"
 date: "2021-11-12T04:47:21+00:00"
 author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
@@ -62,11 +62,3 @@ En el caso cubano no pasa de manera distinta. Es sabido que el 16 de noviembre C
 Me llevo de positivo el hecho de que en ambos casos son las élites quienes están más asustadas de sus propios gobernados, y sienten con más fuerza el tic tac del reloj que marca el conteo regresivo que al finalizar habrá dictaminado su defunción política.
 
 [También puede interesar](/introduccion-al-gobierno/)
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/ernesto-g.jpg)
-    
-    ![](/wp-content/uploads/2021/02/ernesto-g.jpg)
-    
-    [Ernesto Gutiérrez Leyva](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/ernesto-gutierrez-leyva/)

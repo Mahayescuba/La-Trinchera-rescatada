@@ -1,9 +1,9 @@
 ---
-title: "matrimonio igualitario en Cuba La Trinchera Por Alexei Padilla"
+title: "La salida del matrimonio igualitario"
 date: "2018-12-28T06:44:07+00:00"
 author: "Alexei Padilla"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/05/LGBT_flag_map_of_Cuba.svg_.png"
+image: ""
 ---
 ¿El 68 va? No cabe duda de que la decisión de retirar o alterar del proyecto de constitución la definición de matrimonio, como la unión entre personas con capacidad legal para ello, es un balde de agua fría para todas y todos los que apoyamos los derechos de las minorías. Según las primeras declaraciones de [Mariela Castro](https://es.wikipedia.org/wiki/Mariela_Castro), tal parece que algo de lo que el artículo 68 propuso orginalmente pudiera salvarse.
 
@@ -21,15 +21,3 @@ En 2013 el Consejo Nacional de Justicia (CNJ) de Brasil, por medio de una resolu
 Y tiene sentido porque un derecho solo será reconocido a ese nivel cuando sea ejercido. Claro que en Cuba el Tribunal Supremo no pintaría nada porque “casualmente” no tiene potestad (como sí la tiene en la mayoría de los países democráticos y en Cuba en otras épocas) de determinar la constitucionalidad de las leyes y demás normas jurídicas. Sin embargo, el Ministerio de Justicia podría dictar una norma similar (resolución) – tal como hizo Brasil – sin necesidad de esperar dos años, ni llevar el tema a referéndum. ¿Por qué no han optado por una salida más simplificada?
 
 [También puede interesar](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

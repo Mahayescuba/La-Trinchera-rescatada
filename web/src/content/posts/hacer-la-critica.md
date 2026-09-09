@@ -3,7 +3,7 @@ title: "Hacer la crítica"
 date: "2018-08-15T12:27:16+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/08/e371e2515636d68213d7e0a58d9536a4dd0751bf_hq.jpg"
+image: ""
 ---
 Hace algún tiempo, un discurso proveniente de la cima de la dirección del país hablaba de ser crítico. Luego se puso de moda, y semejante condición era bien vista entre revolucionarios. Parecía ser el advenimiento de una nueva forma de asumir la política.
 
@@ -20,5 +20,3 @@ Es por eso, que ante el surgimiento de la crítica-actividad del ejercicio de cr
 Por otro lado, cierta falta de tolerancia lanza la acusación de opositor a todos los no autorizados a criticar. Sin embargo, la delgada línea debe delimitarse muy bien. La oposición sin duda alguna, aboga por cambio de gobierno; la crítica, por una mejora de este. Sé que pueden confundirse y por eso aclaro. Quienes hacemos crítica revolucionaria sabemos que no hay nación fuera del proyecto revolucionario, pero también sabemos que dirigen hombres que cometen errores, y justo por salvaguardar la obra de esta revolución es que debe señalarse cada uno de ellos.
 
 Suelen oponerse a esto, élites burocráticas, que ven reflejada su ineficiencia y amenazado su puesto con tal ejercicio del criterio.
-
-## Autor

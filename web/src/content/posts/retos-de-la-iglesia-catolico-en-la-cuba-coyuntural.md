@@ -3,7 +3,7 @@ title: "Retos de la iglesia católica en la Cuba coyuntural"
 date: "2019-11-14T22:46:35+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/11/IMG_20191114_174229_889.jpg"
+image: ""
 ---
 Iglesia católica en Cuba.
 
@@ -53,15 +53,3 @@ Monseñor Juan García deberá lidiar con los hilos de la política nacional. Po
 Para los cubanos ha sido una gran alegría el nombramiento de Juan de la Caridad García como nuestro nuevo cardenal, en sus manos ponemos las tristezas y alegrías del pueblo de Dios. En una ocasión, un amigo que tenemos en común el cardenal y yo, me contó que fue a verlo al arzobispado preocupado porque este no había dado nunca un juicio ni positivo ni negativo 0sobre su servicio a la Iglesia. Al recibirlo le contestó, “cada uno de nosotros tiene una responsabilidad concreta que cumplir, usted como laico y yo como arzobispo, si hacemos bien nuestro trabajo, puedes estar seguro que estaremos prestando un buen servicio a la Iglesia.” Entonces, quizás hoy, ese sea el llamado que nos pida a toda la Iglesia cubana nuestro nuevo cardenal, el poder cada uno de nosotros prestar nuestro servicio a la sociedad, al máximo de nuestras posibilidades . Y luchar cada día con coraje, por hacer mejor nuestro medio ambiente cotidiano; de seguro a él, lo seguiremos viendo en esos espacios invisibles junto a los descartados, animando con su ejemplo, a gastar la vida en eso que algunos llaman, la mística de los ojos abiertos.
 
 Iglesia católica en Cuba. Iglesia católica en Cuba. Iglesia católica en Cuba. Iglesia católica en Cuba. Iglesia católica en Cuba. Iglesia católica en Cuba. Iglesia católica en Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

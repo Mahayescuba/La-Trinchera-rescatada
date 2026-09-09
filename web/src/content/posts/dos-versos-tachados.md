@@ -3,13 +3,9 @@ title: "Dos versos tachados"
 date: ""
 author: ""
 category: ""
-image: "/wp-content/uploads/2020/05/IMG-20200503-WA0008-576x1024.jpg"
+image: ""
 ---
 #### La columna de Elaine Roca Aguiar
-
-![](/wp-content/uploads/2020/05/IMG-20200503-WA0008.jpg)
-
-![](/wp-content/uploads/2020/05/IMG-20200503-WA0008.jpg)
 
 _“La tradición de todas las generaciones muertas oprime como una pesadilla el cerebro de los vivos.”_
 

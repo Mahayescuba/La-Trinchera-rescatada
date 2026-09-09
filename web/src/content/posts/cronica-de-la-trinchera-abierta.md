@@ -3,7 +3,7 @@ title: "Crónica de la Trinchera Abierta"
 date: "2018-07-03T12:18:22+00:00"
 author: "Marcos Paz Sablon"
 category: "Trinchera Abierta"
-image: "/wp-content/uploads/2018/06/Cartel.png"
+image: ""
 ---
 El cielo tiene ojos de pez ahumado, que se van esbozando en tonos ciegos rarísimos en este martes denso donde solo han tocado un sol y un calor tremendo. Son las cinco y cuarto. Al menos estamos en el Vedado, con sus árboles y sus casitas esmeriladas y sus _niños pijos_ trasteando móviles y carteras en casi todas las esquinas. Calle 13 es otra más, con lo que creo que son algarrobos destrozando con las raíces el asfalto de la acera. El MEPLA está vacío. Tienes que entrar por la reja de hierro oscuro, atravesar el pasillo externo, pasar por el hueco viejo de una escalera semi-construida, seguir hasta que veas otra, limpia; entonces, si subes, empujas la puerta y vuelves a subir por otra escalera, interna y estrecha, quizás llegues al lugar adecuado: un recinto pequeño con sillas de plástico y aire acondicionado que preside una mesa en la cual Miguel A. Hayes encarama los pies. Los zapatos son de corte bajo, de salir a bares, con el pantalón arremangado lo suficiente para que contemples las medias grises en todo el esplendor de su confección- tal vez no sean nuevas y compradas en la shopping pero él solo quiera enseñártelas-, o tal vez los marxistas piensen que las medias son algo muy importante, a enseñarse siempre,  e incluso quizás no quiera mancharse de fango o de tierra los bajos del pantalón.
 
@@ -36,15 +36,3 @@ Daína cuenta que una vez fue a la Fragua y le enseñó a los martianos una fras
 El debate gira ahora acerca de sí la manipulación del Che es parte de una política más amplia  y hacia qué puntos ramifica esto. Miguel hace un gesto con los dedos como si estuviera pensando algo muy importante.
 
 Afuera, está lloviendo aún.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

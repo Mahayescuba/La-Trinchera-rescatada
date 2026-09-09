@@ -3,7 +3,7 @@ title: "¿Quién soy yo para juzgar?"
 date: "2020-05-27T16:30:50+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/05/Screenshot_20200527-163326-1.jpg"
+image: ""
 ---
 …una frase samaritana que dio la vuelta al mundo: _**¿Quién soy yo para juzgar?**_
 
@@ -21,15 +21,3 @@ Es fecha de Jornada Nacional de la Familia. Estas son realidades pastorales que 
 La humillación y la sorda cólera ante la injusticia se hacen tolerables a través de las imágenes entrañables de las personas amadas y de la religión. Víctor Frankl, El hombre en busca de Sentido
 
 [Otros textos del autor](/una-luz-en-la-oscuridad/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

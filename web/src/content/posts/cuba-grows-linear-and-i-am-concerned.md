@@ -1,9 +1,9 @@
 ---
-title: "Covid 19"
+title: "Cuba grows linear and I am concerned"
 date: "2020-04-10T20:47:32+00:00"
 author: ""
 category: "Politics in Cuba"
-image: "/wp-content/uploads/2020/04/Fotografía.jpeg"
+image: ""
 ---
 Covid 19. 
 
@@ -30,15 +30,3 @@ Another important fact: Even when the number of tests in Cuba has been increasin
 I have received a message from a friend, telling me that his father had just been tasted positive for the Covid 19. He was neither in the contagion groups nor under surveillance. All these numbers are nothing but an absurd, if they are a lie, the only ones that can detect that are parallel information systems. You have to be ready for making more accurate and acute questions at press conferences, on twitter, etc.
 
 Tanslated by: Miguel González Pérez.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

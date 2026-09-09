@@ -3,7 +3,7 @@ title: "Reguetón, ¿vanguardia?"
 date: "2019-05-21T06:54:36+00:00"
 author: "Ernesto Nuñez"
 category: "Opinión"
-image: "/wp-content/uploads/2019/05/PicsArt_05-21-02.40.05.jpg"
+image: ""
 ---
 ¿Es el reggaetón arte? Creo que es esta la cuestión. Me parece arrogante la negación de algunos a aceptarlo como música. Eso, teniendo en cuenta que todo sonido rítmico creado por el ser humano es considerado musical -incluso unas simples palmadas-. Pero que sea considerado como música no define su calidad, ni lo convierte en arte.  
 Lo que pudiera definir al reggaetón como arte es la búsqueda de un sentido, de un concepto. Imaginémonos ver a los exponentes del género como artistas que defienden una idea, y crean en función de esta -esa es la razón que me arrastra a redactar estas líneas-.  
@@ -18,15 +18,3 @@ Imagino a los grandes exponentes sentados en una mesa redonda decidiendo cómo s
 > Los imagino planeando en secreto la más inmensa broma que el arte haya conocido en su historia.
 
 Y ha sido grande su logro, pues hoy la academia y los medios, a fuerza, han tenido que ir reconociendo el reguetón, sacándole de las oscuras sombras de la música _underground_, donde se originó. Hecho el cual debe causar más risas aún entre los artistas de la naciente vanguardia, pues ya no solo las masas lo aclaman, sino que la -al parecer- imponente academia lo acepta, e incluso les colabora. Lo que lleva a preguntar si estas colaboraciones de las grandes leyendas de la música tradicional con los reguetoneros son conscientes de los ideales de estos o no. En cuyo caso debería declarar el triunfo del reguetón como movimiento vanguardista, pues han logrado aceptación en círculos de muy difícil acceso, cambiando de esta forma las nociones sobre el deber ser de la música y el arte en general.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

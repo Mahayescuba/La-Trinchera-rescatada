@@ -1,9 +1,9 @@
 ---
-title: "LT en Classroom"
+title: "La Trinchera en el aula"
 date: "2020-10-30T04:48:36+00:00"
 author: "Ana Barnes"
 category: "Cultura"
-image: "/wp-content/uploads/2020/10/Whimsey.jpg"
+image: ""
 ---
 La Trinchera se estrena en Classroom. Lo supimos cuando hace algunos días las estadísticas de vistas del sitio remitían repetidamente a esa plataforma. Y como desde entonces no han cesado las consultas, decidimos investigar un poco. Descubrimos que algunos textos publicados en LT habían sido insertados como bibliografía por algún profesor en alguna de sus aulas virtuales. 
 
@@ -15,14 +15,4 @@ La tecnología que está detrás de esta plataforma acelera la utilización de f
 
 Sin embargo, con la llegada de la pandemia por coronavirus y el aislamiento social impuesto a medio mundo, se ha acelerado el uso de todas estas herramientas para la educación a distancia. A pesar de sus puntos oscuros, esta provee una solución técnica a un problema inesperado.  Por supuesto, una _solución_ en la medida en que cada alumno y cada profesor disponga de una conexión internet suficiente y rentable. O posea el tipo de instrumentos tecnológicos necesarios, o el espacio apropiado en el hogar para poder estudiar. Nada evidente, según no pocos docentes que han tenido que revisar acelerada, crítica, comunitaria y creativamente las prácticas pedagógicas en el aula de la escuela pública, para continuar haciendo realidad el derecho a la educación. 
 
-Sin dudas, los tiempos del internet, la virtualidad y los espacios colaborativos forcejean con realidades que se mueven a otros ritmos. Mientras tanto, los editores de LT seguimos atentos a estos nuevos terrenos en los que se nos ha abierto un pequeño sendero. 
-
-LT en Classroom, LT en Classroom
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Ana Barnes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/ana-barnes/)
+Sin dudas, los tiempos del internet, la virtualidad y los espacios colaborativos forcejean con realidades que se mueven a otros ritmos. Mientras tanto, los editores de LT seguimos atentos a estos nuevos terrenos en los que se nos ha abierto un pequeño sendero.

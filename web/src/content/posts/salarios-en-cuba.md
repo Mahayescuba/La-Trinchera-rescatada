@@ -1,9 +1,9 @@
 ---
-title: "Salario mínimo"
+title: "Salario Mínimo o mínimos salarios"
 date: "2020-01-11T20:02:03+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/01/IMG_20200109_235543_384.jpg"
+image: ""
 ---
 salario minimo.
 
@@ -33,15 +33,3 @@ En fin, por lo menos ya hay por dónde empezar para reflotar nuestros salarios. 
 **[Tomado de Progreso Semanal](http://progresosemanal.us/20181129/cuba-salario-minimo-o-minimos-salarios/)**
 
 salario minimo. salario minimo. salario minimo. salario minimo. salario minimo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

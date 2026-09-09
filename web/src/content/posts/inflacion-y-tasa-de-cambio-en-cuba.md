@@ -3,7 +3,7 @@ title: "El contexto importa"
 date: "2020-09-10T16:00:00+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/09/Chema-Madoz.jpg"
+image: ""
 ---
 Inflación y tasa de cambio en Cuba.
 
@@ -81,15 +81,3 @@ Lo que lleva a concluir que se debe pensar la política monetaria y sus límites
 [http:/https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/tasas-de-cambio-en-cuba/](/economia-en-cuba/)
 
 inflación y tasa de cambio en Cuba inflación y tasa de cambio en Cuba inflación y tasa de cambio en Cuba inflación y tasa de cambio en Cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

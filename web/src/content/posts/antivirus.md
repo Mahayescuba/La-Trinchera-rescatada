@@ -1,9 +1,9 @@
 ---
-title: "Covid en Cuba Antivirus"
+title: "Antivirus"
 date: "2021-02-09T10:30:00+00:00"
 author: "Jorge Fernández Era"
 category: "Onírica"
-image: "/wp-content/uploads/2021/02/Karin-Kuik.jpg"
+image: ""
 ---
 Conservar el humor en tiempos tan angustiosos es una hazaña que solo me la tolero yo mismo, pues el año ha comenzado a tope de contratiempos. Suena egoísta decir eso cuando hay gente que la ha pasado peor, mas pecaría de falsa modestia si no asevero que desde que comenzó el ordenamiento he estado salao.
 
@@ -22,15 +22,3 @@ A mi hijo le dieron el alta ayer, tras no dar positiva la prueba hecha al quinto
 PCR (paciencia, confianza o resignación) con lo que venga. Nunca he deseado tanto que aquellos a quienes no les gusta ni un poquito lo que escribo me remitan a anteriores párrafos —nada complacientes con la maquinaria de relojería— y blasfemen: “¡Tú siempre tan negativo!”
 
 …
-
-covid en Cuba, covid en Cuba, covid en Cuba, covid en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

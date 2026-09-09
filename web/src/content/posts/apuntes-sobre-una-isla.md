@@ -1,9 +1,9 @@
 ---
-title: "Medidas económicas, 27N y Estado en Cuba"
+title: "Apuntes sobre una isla"
 date: "2020-12-27T17:00:00+00:00"
 author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/12/Pitsit-Sekaisin-Three-Rusty-Nuts.jpg"
+image: ""
 ---
 Son las 12:54 de la noche del 19 de diciembre de 2020 y recién termino de escribir este algo. No sé cómo llamarle a esta necesidad de enlazar las ideas que tengo rondándome. Lo confieso: lo más difícil ha sido darle una secuencia lógica a la vorágine de pensamientos y emociones que genera el actual escenario nacional y que los sucesos posteriores a _cierta violación de domicilio_ no han hecho más que exacerbar.
 
@@ -164,13 +164,3 @@ Creo igualmente saludable reivindicar el espíritu nacional originario del proce
 Falta aún para que la Cuba que necesitamos reinicie su reconstrucción. Esta década que se nos viene será, en el mejor de los casos, gris. No obstante, ello no debe verse de modo desalentador: los mejores amaneceres son siempre precedidos por la más absoluta oscuridad, dicen por ahí. Es tiempo de encender la antorcha.
 
 _Nota: el autor quiso compartir estos apuntes al cumplirse el primer mes de los sucesos del 27N._
-
-Medidas económicas y 27N en Cuba, Medidas económicas y 27N en Cuba, Medidas económicas y 27N en Cuba, Medidas económicas y 27N en Cuba, Medidas económicas y 27N en Cuba, Medidas económicas y 27N en Cuba, Medidas económicas y 27N en Cuba, Medidas económicas y 27N en Cuba, Medidas económicas y 27N en Cuba, Medidas económicas y 27N en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/ernesto-g.jpg)
-    
-    ![](/wp-content/uploads/2021/02/ernesto-g.jpg)
-    
-    [Ernesto Gutiérrez Leyva](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/ernesto-gutierrez-leyva/)

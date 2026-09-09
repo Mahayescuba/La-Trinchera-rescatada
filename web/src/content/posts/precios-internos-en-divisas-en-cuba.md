@@ -3,7 +3,7 @@ title: "Ventas internas en divisas en Cuba"
 date: "2019-11-06T13:24:03+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2019/11/IMG_20191105_071815_551.jpg"
+image: ""
 ---
 #### Unas breves anotaciones
 
@@ -21,15 +21,3 @@ Por último, y volviendo a la idea de la creatividad de ese _sui géneris_ secto
 Lo que si queda claro, después de ver todo, es que el sector estatal puede acabar con un dedo, a un conjunto que ha venido desarrollándose a lo largo de años, para afianzarse como indiscutible monopolio.
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-pregunton/
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

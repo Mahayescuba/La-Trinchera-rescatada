@@ -1,5 +1,5 @@
 ---
-title: "descontextualización martiana"
+title: "Para comprender a un Martí sin citas"
 date: "2021-04-06T09:30:00+00:00"
 author: "Raymar A. H. y Marcia Hernández Ramírez"
 category: "Política en Cuba"
@@ -31,19 +31,3 @@ Leer a Martí debe disfrutarse en toda su extensión, pues sus críticas, su poe
 2.  Cintio Vitier, Fina García Marruz, Guía Para El Maestro de las Aulas Martianas, La Habana, 1994.
 3.  José Lezama Lima, La Casa del Alibi, Cintio Vitier, “La Casa del Alibi”, 1986, Para llegar a Orígenes, Editorial Letras Cubanas, 1994, pág. 35.
 4.  Cintio Vitier, Resistencia y Libertad, junio de 1992, Resistencia y Libertad, Ediciones Unión, 1999, pág. 101.
-
-descontextualización martiana, descontextualización martiana, descontextualización martiana
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/ray.jpg) [Raymar A. Aguado Hernández](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/raymar-a-aguado-hernandez/)
-    
-    Futuro psicólogo
-    
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Marcia Hernández Ramírez](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/marcia-hernandez-ramirez/)
-    
-    Profesora del ISDi. Madre de Ray.

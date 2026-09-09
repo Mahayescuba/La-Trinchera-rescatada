@@ -1,9 +1,9 @@
 ---
-title: "La unificación monetaria y la \"percepción\""
+title: "La unificación monetaria y la “percepción”"
 date: "2019-01-04T06:48:13+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2019/01/IMG_20190104_014739.jpg"
+image: ""
 ---
 Dualidad monetaria Cuba.
 
@@ -28,15 +28,3 @@ En adición a eso, me pregunto: ¿se mantendrán precios diferenciados para turi
 Yo apoyo la unificación monetaria, pero mi punto es que debe venir con un ajuste de la política de precios, o lo que es lo mismo, con el establecimiento de una verdadera política de precios. Lo de fijar un margen único que funciona lo mismo para la leche en polvo que para un jean desafía la lógica económica y financiera. Pero de precios ya hemos hablado. Y muy en serio.
 
 Dualidad monetaria Cuba. Dualidad monetaria Cuba. Dualidad monetaria Cuba. Dualidad monetaria Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

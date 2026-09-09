@@ -1,9 +1,9 @@
 ---
-title: "Relación entre marximo y religión"
+title: "Marxismo y religión"
 date: "2018-12-07T02:19:02+00:00"
 author: ""
 category: "Trinchera Abierta"
-image: "/wp-content/uploads/2018/12/images-5.jpeg"
+image: ""
 ---
 relación entre marximo y religión.
 
@@ -70,15 +70,3 @@ Todo esto al tiempo que vemos que algunas prácticas, tanto cristianas como paga
 Toda esta complejidad hay que observarla antes de hablar de religión en Cuba. Yo no pretendo desentrañar toda esta complejidad, eso se lo dejo al debate. Solo intenté aquí contribuir con cuestiones de método que considero cardinales. Y para terminar insisto en la pregunta clave: ¿cómo funciona la forma en el modo concreto? No se pierda esto de vista. 
 
 relación entre marximo y religión. relación entre marximo y religión. relación entre marximo y religión. relación entre marximo y religión. relación entre marximo y religión. relación entre marximo y religión.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

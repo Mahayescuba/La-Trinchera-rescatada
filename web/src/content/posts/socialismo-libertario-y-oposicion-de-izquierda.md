@@ -1,9 +1,9 @@
 ---
-title: "Oposición de izquierda"
+title: "Socialismo libertario y oposición de izquierda"
 date: "2020-05-11T18:33:46+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/05/El-lado-invisible-de-Tepito.jpeg"
+image: ""
 ---
 Un texto que nos trae un término que resulta novedoso en el escenario político cubano actual: oposición de izquierda.
 
@@ -73,17 +73,3 @@ Carlos Luque no halla otro argumento que apelar a lo más infame del Estado cuba
 Entiéndase que la crítica que hace la oposición de izquierdas es a la gestión del Gobierno, no al sistema de redistribución de la renta nacional. Debemos asumir que nadie en Cuba le debe un centavo al Estado; más bien es este último el que debe decirnos qué hace con el dinero del pueblo. Pienso que la política de embargo (bloqueo) de Estados Unidos contra Cuba en casi seis décadas es un crimen de lesa humanidad. También ha sido la mejor excusa que ha tenido crear entornos favorables a la alta corrupción que se basa en el usufructo del poder, el nepotismo y el tráfico de influencias.  
 Porque, ¿sabrá este señor cuánto nos ha costado el pago de una deuda externa, ilegal e ilegítima, que contrajo un grupito de elegidos a inicio de los 70s? ¿Cuánto nos costó el proceso de acumulación originaria de la Nueva Clase en Cuba de 1978 a 1997? ¿Podrá este señor imaginar cuál ha sido el costo de la Batalla de Ideas que abrió la era del CUC? ¿Cuál ha sido el costo de decenas de políticas fallidas en seis décadas? Pienso en la planta industrial que se instaló en la era soviética. ¿Cómo se podría calcular el costo social, económico y político de cada crisis migratoria o de mercado negro en Cuba? Hablo de vidas perdidas, familias fracturadas, abusos de poder, autoestimas dañadas…  
 Hemos de rescatar esa memoria, no para un ajuste de cuentas, sino para decir _Basta ya_, _Punto final_, _Nunca_ _más_. Debemos tomar las riendas del país, advierto, antes de que las torpezas de los (marxistas)-leninistas de Carlos Luque creen una situación en donde decida la inercia de la historia y vayamos a parar al otro extremo. Construyamos el sujeto político popular de la revolución.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

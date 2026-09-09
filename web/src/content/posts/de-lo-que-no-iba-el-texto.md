@@ -1,9 +1,9 @@
 ---
-title: "Feminismos y Granma"
+title: "De lo que no iba el texto"
 date: "2020-08-23T16:30:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/08/cyprus_ayia_napa_sculpture_park_woman_window_frame_art_outdoor-625314.jpgd_.jpg"
+image: ""
 ---
 feminismos y Granma.
 
@@ -36,15 +36,3 @@ Pero lo más importante: el texto no iba de feminismos, sino de lo que es polít
 Esperar no es el verbo, sino que habrá que ser activos para que ese discurso cuyo uso divide, no pase a regir las interioridades de las luchas feministas, que es de ahí de dónde deben mirarse las diferencias entre sus distintas tendencias, y no en cómo se relacionan (o desde afuera las relacionan) con el gobierno.
 
 feminismos y Granma feminismos y Granma feminismos y Granma feminismos y Granma feminismos y Granma
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

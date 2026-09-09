@@ -3,7 +3,7 @@ title: "Comer es crecer"
 date: "2020-02-16T21:22:13+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/02/a830be725cb0a19d4e1b98ab621bf937-1.jpg"
+image: ""
 ---
 Feria del libro.
 
@@ -13,13 +13,9 @@ _La Feria del Libro_ culmina para mí. Me queda la angustia de no hallar lo busc
 La preocupación mayor es sobre qué presupuestos se logra todavía movilizar a tanta gente hacia el este de la ciudad. Si se mira bien, la mayoría de las personas salen de La Cabaña cargadas de pacotilla, de producciones seudoculturales que entre otros despropósitos no hacen más que incitar a niños y jóvenes a no tomar en sus manos un libro.  
 En la _Feria Internacional de La Habana_ usted adquiere desde afiches de ciertos personajillos de la música internacional, hasta —por cinco ceucé— un libro titulado _Atrévete a ser ganador. El secreto de hacer realidad tu sueño_, o por dos, para su hijo, un sello metálico que adherirá a su ropa y que reza: _I love porn_.
 
-![](/wp-content/uploads/2020/02/552219_14973054165390314658.jpg)
-
 Luego censuramos libros que despotrican contra fenómenos semejantes y hablan de la nación que debíamos ser y definitivamente no somos.  
 Qué pena que el muro de ser el país más culto del planeta nos quede más alto que el que este año se colocó en los jardines del Complejo Morro-Cabaña y retó a escalarlo con guantes, cuerdas, casco protector y un nada módico precio en una moneda que ya no sirve para mucho.  
 El texto que sigue habla un poco de eso. Escrito hace cinco años, lo incluí en el libro _Cruentos de humor_ y posee —cervezas y potrancas menos— una no deseada actualidad.
-
-![](/wp-content/uploads/2020/02/cruentos8170606059176490648.jpg)
 
 # Comer es crecer
 
@@ -29,15 +25,3 @@ El texto que sigue habla un poco de eso. Escrito hace cinco años, lo incluí en
 \-¿Tú crees con lo que te he contado que me iban a quedar presupuesto y aspiraciones de desgraciar el único par de sandalias caminando sobre los seborucos de esa [fortaleza](https://es.wikipedia.org/wiki/Fortaleza_de_San_Carlos_de_La_Caba%C3%B1a) para zumbarme otras cinco colas e invertir en un texto literario? Total, para lo que leen: se pasan más de la mitad del día frente a la computadora tratando de conquistar la capital en un juego que les trajo el padre desde Londres sobre la toma de La Habana por los ingleses. En él te enteras de que Pepe Antonio fue un corsario yemenita que secundado por una pandilla de piratas sirios pretendió colonizar Cojímar… ¡No jodas, chica, a la próxima Feria Internacional del Libro tendrá que llevarlos el padre!
 
 Feria del libro. Feria del libro. Feria del libro. Feria del libro. Feria del libro.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

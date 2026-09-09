@@ -1,9 +1,9 @@
 ---
-title: "Cine coreano. Tres colosos coreanos"
+title: "Tres colosos coreanos"
 date: "2021-08-05T09:30:00+00:00"
 author: "Arian Rubio"
 category: "Cultura"
-image: "/wp-content/uploads/2021/08/isamu-noguchi.jpg"
+image: ""
 ---
 En 2019 el mundo occidental hizo reverencias sin precedentes a la película de Bong Joon-ho ‘‘_[Parasite](https://es.wikipedia.org/wiki/Parásitos_\(película\))_’’, que se llevó la Palma de Oro en Cannes y otro montón de _BAFTA_ y _Oscars_ importantes. La alegría de los premios fue redondeada por una generosísima taquilla que alcanzó los nueve dígitos.
 
@@ -24,17 +24,3 @@ Con el filme _Oldboy_ (2003) Park desarrolló su segunda tesis sobre todo lo ref
 <iframe loading="lazy" class="youtube-player" width="960" height="540" src="https://www.youtube.com/embed/-W8cPij0HgA?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=es-ES&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
 
 Mencionado ya el _magnum opus_ de Bong Joon-ho llama la atención que un logro fílmico de la dimensión de _Parasite_ no derive de obras precedentes que dibujasen un gradual ciclo de madurez temática. En todo caso, el filme lanza una parábola hasta el cambio de siglo y eleva a su máxima expresión la forma de hacer iniciada con _Barking dogs never bite_ (2000), la primera que escribió y dirigió. Ambas comparten, en calidad de trasfondo, ese universo realista y colmado de personajes patéticos de corazón más o menos limpio que incurren en malas acciones cuya crueldad a menudo es acto ante todo risible y luego lamentable. Su thriller policiaco _Memories of murder_ (2003) tampoco se desmarca del ‘‘Efecto Bong’’, característico por dibujar una gran carcajada en el espectador con el disimulado fin de irla transformando en una mueca de preocupación conforme la historia avanza hacia el desenlace. _The Host_ (2006), _Snowpiercer_ (2013) y _Okja_ (2017) pueden entenderse como una escuela necesaria, en tanto la versatilidad demostrada en los géneros fantástico y Ciencia Ficción quedó fuera de toda duda. En su caso específico, explorar la creación por el camino de las superproducciones y los elencos caros _the Hollywood way_ no supone pecado alguno siempre que se regrese con algo de la talla de _Parasite_, templo que debió envejecer inmaculado un tiempo más, y del que ya se avizora una miniserie, para bien o para mal.
-
-[Otro texto del autor](/el-ultimo-samurai-en-su-centenario/)
-
-Cine coreano. Cine coreano. Cine coreano. Cine coreano. Cine coreano. Cine coreano.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/03/Arian-Rubio2021-03-30-21.05.23.jpg)
-    
-    ![](/wp-content/uploads/2021/03/Arian-Rubio2021-03-30-21.05.23.jpg)
-    
-    [Arian Rubio](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/arian-rubio/)
-    
-    Red Label, el café con su justa dosis de chícharo, cigarro suave o fuerte según el día. Descubrí que aun puedo hacer diez planchas la semana pasada.

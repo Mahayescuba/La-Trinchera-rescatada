@@ -1,9 +1,9 @@
 ---
-title: "impuestos a tierras ociosas en cuba"
+title: "La reforma del agro cubano y el impuesto por tierras ociosas: ¿una buena idea?"
 date: "2018-05-11T12:15:00+00:00"
 author: "Pedro Monreal"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2018/05/nace-trigal-mercado-mayorista-cuba.jpg"
+image: ""
 ---
 Pregunta: ¿Qué sucede si un impuesto se aplica por una razón equivocada? Respuesta: Pudiera ser una pérdida de tiempo y de recursos, y también una fuente de desgaste del capital político de quien aplique el impuesto.La prensa nacional ha anunciado hoy que a partir del mes de julio de 2018 las personas naturales y jurídicas que posean áreas deficientemente aprovechadas –sean de su propiedad o estatales- comenzarán a pagar un impuesto por tierras ociosas. (1)
 
@@ -110,7 +110,7 @@ Un impuesto a las tierras ociosas pudiera ser un ruidoso rodeo para no llegar a 
 
 4 “Taxation on ‘idle’ land probably will not work”, _Star_, 14 de abril de 2018, [https://www.the-star.co.ke/news/2018/04/14/taxation-on-idle-land-probably-will-not-work\_c1743365](https://www.the-star.co.ke/news/2018/04/14/taxation-on-idle-land-probably-will-not-work_c1743365) ; “Proposal to tax idle land smirks of neocolonialism”, _Standard Digital_, 19 de diciembre de 2017,  [https://www.standardmedia.co.ke/business/article/2001263578/proposal-to-tax-idle-land-smirks-of-neocolonialism](https://www.standardmedia.co.ke/business/article/2001263578/proposal-to-tax-idle-land-smirks-of-neocolonialism) ; “Government slows plan to impose taxes for idle land”. 17 de marzo de 2017, _The Jakarta Post_, [http://www.thejakartapost.com/news/2017/03/17/government-slows-plan-to-impose-taxes-for-idle-land.html](http://www.thejakartapost.com/news/2017/03/17/government-slows-plan-to-impose-taxes-for-idle-land.html)
 
-5 Richard M. Bird and Enid Slack. Taxing Land and Property in Emerging Economies: Raising Revenue . . . and More?, en Gregory K. Ingram and Yu-Hung Hong (compiladores), _Land Policies and Their Outcomes_. Lincoln Institute of Land Policy.  2007 [https://www.lincolninst.edu/sites/default/files/pubfiles/2123\_1445\_LP2006-ch09-Taxing-Land-and-Property-in-Emerging-Economies-Raising-Revenue-and-More\_0.pdf](https://www.lincolninst.edu/sites/default/files/pubfiles/2123_1445_LP2006-ch09-Taxing-Land-and-Property-in-Emerging-Economies-Raising-Revenue-and-More_0.pdf)  ;y Slack, E. and R. Bird (2014), “The Political Economy of Property Tax Reform”, OECD Working Papers on Fiscal Federalism. , No. 18, OECD Publishing. 2014. [http://www.ipti.org/wp-content/uploads/2017/06/OECD-Political-Economy-of-Property-Tax-Reform-Slack-Bird-Jan-2014.pdf](/wp-content/uploads/2017/06/OECD-Political-Economy-of-Property-Tax-Reform-Slack-Bird-Jan-2014.pdf)
+5 Richard M. Bird and Enid Slack. Taxing Land and Property in Emerging Economies: Raising Revenue . . . and More?, en Gregory K. Ingram and Yu-Hung Hong (compiladores), _Land Policies and Their Outcomes_. Lincoln Institute of Land Policy.  2007 [https://www.lincolninst.edu/sites/default/files/pubfiles/2123\_1445\_LP2006-ch09-Taxing-Land-and-Property-in-Emerging-Economies-Raising-Revenue-and-More\_0.pdf](https://www.lincolninst.edu/sites/default/files/pubfiles/2123_1445_LP2006-ch09-Taxing-Land-and-Property-in-Emerging-Economies-Raising-Revenue-and-More_0.pdf)  ;y Slack, E. and R. Bird (2014), “The Political Economy of Property Tax Reform”, OECD Working Papers on Fiscal Federalism. , No. 18, OECD Publishing. 2014. [http://www.ipti.org/wp-content/uploads/2017/06/OECD-Political-Economy-of-Property-Tax-Reform-Slack-Bird-Jan-2014.pdf](http://www.ipti.org/wp-content/uploads/2017/06/OECD-Political-Economy-of-Property-Tax-Reform-Slack-Bird-Jan-2014.pdf)
 
 6 ONEI. _Panorama uso de la tierra. Cuba 2016_. Fecha de publicación: junio de 2017. [http://www.one.cu/publicaciones/05agropecuario/balanceusoytenencia/Panorama%20Uso%20de%20la%20Tierra%202016.pdf](http://www.one.cu/publicaciones/05agropecuario/balanceusoytenencia/Panorama%20Uso%20de%20la%20Tierra%202016.pdf)
 
@@ -129,17 +129,3 @@ Un impuesto a las tierras ociosas pudiera ser un ruidoso rodeo para no llegar a 
 13 Ver tabla 2.11, ONEI. _Panorama uso de la tierra. Cuba 2016_.
 
 Tomado de [El estado como tal](https://elestadocomotal.com/2018/05/09/la-reforma-del-agro-cubano-y-el-impuesto-por-tierras-ociosas-una-buena-idea/)
-
-[Otro texto del autor](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

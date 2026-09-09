@@ -1,9 +1,9 @@
 ---
-title: "forma y dialéctica La Trinchera Por: Miguel Alejandro Hayes"
+title: "Forma y movimiento"
 date: "2018-12-27T18:56:48+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2018/12/vegie-bicycle-2560x1440-wallpaper-18173.jpg"
+image: ""
 ---
 Un texto sobre forma y dialéctica.
 
@@ -50,15 +50,3 @@ Pero como el objeto se entiende en movimiento, este está sujeto a interacciones
 Algo tremendamente difícil para la abstracción, por cómo se nos presenta el objeto y como los sentidos nos representan el mundo.  
 Todo ello, ocupó la mente de Hegel por años, y a Marx le costó muchos más poder aplicarlo a su objeto de estudio: el capitalismo, y legar el marxismo.  
 Ser marxista, es por tanto, pensar el mundo más allá de esas formas en que se nos da, y deber del marxista conocer y dominar todas esas cuestiones del pensamiento, antes de abalanzarse a estudiar un fenómeno o establecer conclusiones sobre este. Ser marxista, es hablar el mismo idioma que Marx, la [dialéctica](/marxismo/). Y para ella, las cuestiones aquí expuestas, son esenciales. Sobre su estudio, está nuestro carácter marxista, o mejor dicha, nuestra cercanía a Marx.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

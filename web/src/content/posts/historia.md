@@ -3,7 +3,7 @@ title: "Historia"
 date: "2020-01-04T06:11:59+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/01/FB_IMG_15777346707629707.jpg"
+image: ""
 ---
 Kmilo Noa poema. 
 
@@ -52,15 +52,3 @@ Pero me río en la cara del vecino y le saco la lengua y le grito aura
 Para no quitar la espoleta Para no accionar el mecanismo  
 Para no soñar con Freud Para no complicarme tanto  
 Para no pensar.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

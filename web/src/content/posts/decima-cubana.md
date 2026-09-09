@@ -1,9 +1,9 @@
 ---
-title: "décima cubana"
+title: "Se comienza a derrumbar el techo, el piso, la hora…"
 date: "2020-02-07T04:42:37+00:00"
 author: "César Álvarez Fraga"
 category: "Cultura"
-image: "/wp-content/uploads/2020/02/IMG_20200206_233450_060.jpg"
+image: ""
 ---
 En la historia literaria de nuestra isla, se han repetido diversos procesos que han enriquecido y conllevado a diferentes vertientes estéticas, en las que tributaran nuestros textos de mayor impacto por su ordenada y precoz posición en dicha historia. Uno de estos procesos los trata con certera posición y voz, el gran poeta, periodista e historietista [Pedro Plégez González](https://es.wikipedia.org/wiki/Pedro_Péglez_González) quien es autor de un importante artículo que se acercará a lo que el definió como la revitalización de la décima escrita cubana, en el texto nombrado como ¨El Drama del Iceberg¨ se estima de este fenómeno lo siguiente:  
 ¨El actual proceso de revitalización de la décima escrita cubana, iniciado hacia fines de los ochenta del pasado siglo y extendido hasta nuestros días, es un fenómeno sin precedentes en la trayectoria de la estrofa, como parte de la historia de la nación.¨  
@@ -79,15 +79,3 @@ que somos el sueño extinto?
 sus caries accidentales?
 
 [También puede interesar](/onirica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

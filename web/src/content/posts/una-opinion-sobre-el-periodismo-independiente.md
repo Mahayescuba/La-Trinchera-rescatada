@@ -1,9 +1,9 @@
 ---
-title: "Medios independientes en Cuba La Trinchera Por: Miguel Fergoz"
+title: "Una opinión sobre el periodismo independiente"
 date: "2021-01-04T10:30:00+00:00"
 author: "Miguel Fergoz"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/01/Dale-Copeland.jpg"
+image: ""
 ---
 Siento que el mayor conflicto entre Papá Estado y sus hijos, es que Papá Estado no quiere, o no sabe, entender a sus hijos. Perdón, he dicho “sus hijos” y he pecado de absolutista, diré mejor algunos de sus hijos, porque Papá Estado no tiene ningún problema con esos hijos dóciles y obedientes que dicen y actúan exactamente como él espera. Nótese que digo “dicen y actúan”, y no digo piensan, porque el pensamiento de los otros es algo mucho más difícil de controlar, y sabemos bien que, en casa de Papá Estado, algunos piensan una cosa y dicen otra.
 
@@ -30,13 +30,3 @@ Los medios independientes del Estado han venido a ocupar el espacio que los medi
 Papá Estado vuelve a irse por las ramas y se niega a asumir la responsabilidad que le toca por tantos años de prensa mediocre.
 
 Siempre será más fácil ver la paja en el ojo ajeno, no obstante, este cubano que no puede vivir tranquilo sin “portarse mal”, y que no cuenta con más presupuesto para escribir que el tiempo que le roba al sueño, al descanso, al calor de la familia, a las labores compartidas en el hogar con mi esposa… no quisiera cerrar este tema sin decirle algo a Papá Estado: Los “hijos descarriados”, los que no se “portan bien”, no son siempre un producto del Imperialismo, a veces somos un producto genuino de la Revolución.
-
-medios independientes en Cuba, medios independientes en Cuba, medios independientes en Cuba, medios independientes en Cuba, medios independientes en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/MF2020-12-23-15.36.43.jpg)
-    
-    ![](/wp-content/uploads/2020/12/MF2020-12-23-15.36.43.jpg)
-    
-    [Miguel Fergoz](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/miguel-fergoz/)

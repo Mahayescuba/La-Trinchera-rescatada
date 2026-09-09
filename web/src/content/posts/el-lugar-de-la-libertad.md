@@ -1,9 +1,9 @@
 ---
-title: "Arminta \"Minty\" Ross y Harriet Tubman La Trinchera"
+title: "El lugar de la libertad"
 date: "2021-03-09T10:30:00+00:00"
 author: "Alberto Miguel de la Paz Suárez"
 category: "Cultura"
-image: "/wp-content/uploads/2021/03/Colette-Colladant.jpg"
+image: ""
 ---
 Cuando mi niño preguntó: “¿…si en la escuela me dicen que Martí es un hombre grande,  por qué está en el billete de $1.00 peso que vale tan poco…?”, nos viró el mundo al revés, no teníamos respuesta. Él tenía entonces apenas seis años. En el banco nos explicaron a los tres, —su mamá, él y yo— que tal decisión responde a que, siendo el de “menor valor” es el de mayor circulación, así la figura del Apóstol quedaba de alguna manera en el imaginario de los ciudadanos.
 
@@ -26,15 +26,3 @@ Necesario, sí, no solo por la denuncia —nunca suficiente sobre los desmanes c
 ¿Alguna vez se ha imaginado como sería ver que le arrebaten un hijo y lo vendan como ganado? ¿O podrá imaginar el dolor, el horror y el olor de la carne quemada por el hierro candente? ¿O el sufrimiento de las niñas violadas antes de su primera menstruación para evitar el nacimiento de mulatos? ¿Sospechará usted el efecto de ser sencillamente ignorado? Eso es ser esclavos y aunque no lo crea aún hace falta que Harriet Tubman vuelva a tomar el Sol naciente, naranja como una promesa de renovación, entre sus manos y vista la piel de Moisés, mientras prepara un lugar para la libertad, para la dignidad; esa que a veces escuece como una bofetada, otras es suave como un sueño, pero siempre nos erige dioses.
 
 Más que en el billete americano de $20.00 dólares, Arminta “Minty” Ross, o mejor Harriet Tubman, merecen estar entre las personas, las mujeres que más respetemos.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-09-17.16.10.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-09-17.16.10.jpg)
-    
-    [Alberto Miguel de la Paz Suárez](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/alberto-miguel-de-la-paz-suarez/)
-    
-    Graduado de Dirección en Radio, Cine Y Televisión en FAMCA, ISA. MSc. Realización Audiovisual. Realizador, guionista y profesor Universitario.
-    
-    [](mailto:albertops70@gmail.com)

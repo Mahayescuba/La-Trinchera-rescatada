@@ -1,9 +1,9 @@
 ---
-title: "Antonio Gramsci"
+title: "Por qué Antonio Gramsci es el pensador marxista de nuestro tiempo"
 date: "2018-07-11T11:11:17+00:00"
 author: "George Eaton"
 category: "Marxismo"
-image: "/wp-content/uploads/2018/07/Victoria-Siemer.jpg"
+image: ""
 ---
 El concepto de hegemonía del difunto filosofo italiano era asombrosamente clarividente
 
@@ -42,15 +42,3 @@ En una era de medios sociales, vídeos virales y educación superior de masas \[
 Tomado de [La patria Grande](https://lapatriagrandeenelsigloxxi.wordpress.com/2018/07/08/por-que-antonio-gramsci-es-el-pensador-marxista-de-nuestro-tiempo/)
 
 Antonio Gramsci, Antonio Gramsci, Antonio Gramsci, Antonio Gramsci
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

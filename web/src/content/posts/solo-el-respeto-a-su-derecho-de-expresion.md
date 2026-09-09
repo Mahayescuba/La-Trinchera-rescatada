@@ -3,7 +3,7 @@ title: "Solo el respeto a su derecho de expresión"
 date: "2020-03-09T19:32:03+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/03/Journal_Magritte_Pipe.sm_1024x.jpg"
+image: ""
 ---
 Luis Manuel Otero Alcántara.
 
@@ -23,15 +23,3 @@ A mí percepción, Luis Manuel Otero Alcántara es un [testaferro de lo absurdo]
 Apoyo el libre vuelo artístico sin marginaciones o censura, pero de ahí a lo otro va un buen trecho. El concepto de artista, entre todo lo que pudiera englobar un concepto que no tiene fronteras, debe corresponder con la conciencia de quien lo manifiesta, y el compañero que es tema central de este comentario, la única conciencia que manifiesta es el mercantilismo mercenario y la instrucción llegada de noventa millas más allá, con un paquetito envuelto en fajos verdes.  
 Artista es el cubano de a pie que pone a toda capacidad su ingenio creador, no un ridículo que utiliza las redes sociales para en la inmediatez de una noticia controvertida hacer una mierda cualquiera y engancharle la etiqueta de arte y el ponerse el epíteto grandilocuente de artista. Creo que ese joven está a la misma altura del señor que pegó con una precinta un plátano en la pared y dijo que era arte…  
 No pido perdón si molesto a alguien. Al menos, así pienso yo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

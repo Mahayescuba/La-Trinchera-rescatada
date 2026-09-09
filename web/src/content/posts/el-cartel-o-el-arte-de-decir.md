@@ -1,9 +1,9 @@
 ---
-title: "cartel de promoción de vacunas en Cubadebate"
+title: "El cartel o el arte de decir"
 date: "2021-01-23T17:00:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/01/Artist-Timm-Ulrichs-Title-22Ins-eigene-Fleisch22-Year-1972..jpg"
+image: ""
 ---
 La hermenéutica intenta servir para estudiar qué quiso decir el autor (en mayúsculas) en una obra. Se trata de la ciencia del lector para conectar con el autor. Por eso es una ciencia antigua, olvidada, y modestamente enseñada en aulas universitarias.
 
@@ -42,19 +42,3 @@ Si el mensaje no conectó con todos, la interpretación personal ante cualquier 
 Es un acto de ignorancia horrible culpar al receptor de un cartel. Con financiamiento o no a la crítica, lo que está mal, está mal.
 
 _Nota: El debate no debe girar sobre la integridad o la capacidad del autor del cartel, sino sobre el papel del cartel._
-
-![](/wp-content/uploads/2021/01/139718559_1474765629399574_9051035949063077509_o.jpg)
-
-cartel de promoción de vacunas en Cubadebate, cartel de promoción de vacunas en Cubadebate, cartel de promoción de vacunas en Cubadebate
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

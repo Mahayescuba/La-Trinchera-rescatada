@@ -3,7 +3,7 @@ title: "Lo que piensan las niñas antes de dormir"
 date: "2020-08-08T09:30:47+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/08/Valérie-Hadida-Reve.jpg"
+image: ""
 ---
 sueño. 
 
@@ -112,15 +112,3 @@ Señorita 3 AM
 sueño sueño sueño sueño sueño sueño sueño
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/ahorcado/
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    [La Trinchera Editor](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/la-trinchera-editor/)
-    
-    La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser una plataforma de debate.
-    
-    [](/la-trinchera/)

@@ -42,5 +42,3 @@ Lo importante no es defender una ciencia aparte de la ideología, sino saber rec
 **El buen científico no es aquel que se separa de su ideología para hacer ciencia, sino el que es capaz de sobre sus propios prejuicios, entender qué es fruto de la lógica científica y qué es fruto de su propia fe, esta es sin duda uno de los retos más difícil de cualquier investigador social.**
 
 La ciencias sociales en el caso concreto de la Cuba autoproclamada marxista- haciendo abstracción del dogma- es el arma más afilada que tenemos los revolucionarios para combatir a los burócratas del pensamiento, esos “intelectuales altos y encumbrados” que dicen llevar en sí y solo en sí la clave de la luz y del conocimiento.
-
-## Autor

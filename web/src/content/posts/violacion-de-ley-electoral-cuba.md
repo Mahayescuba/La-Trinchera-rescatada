@@ -3,7 +3,7 @@ title: "¿Violaciones de la ley electoral?"
 date: "2019-02-12T06:20:35+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/02/PicsArt_02-12-01.18.03.jpg"
+image: ""
 ---
 Ley electoral. 
 
@@ -50,15 +50,3 @@ Que lo que se discute a fin de cuentas, es si los cubanos aceptamos seguir dejan
 > Esto es lo que verdaderamente se decidirá en el Referendo…
 
 más nótese que yo, respetuoso de la Ley, solo señalo, no promuevo ninguna de las opciones. Eso, amigo lector, es asunto tuyo, en la soledad de la cabina electoral.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

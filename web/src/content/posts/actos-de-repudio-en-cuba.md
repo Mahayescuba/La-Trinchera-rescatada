@@ -1,9 +1,9 @@
 ---
-title: "Actos de repudio en Cuba. A un teatro, ¿otro?"
+title: "A un teatro, ¿otro?"
 date: "2020-12-11T10:30:30+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/12/Nipomen-.jpg"
+image: ""
 ---
 Si algo ha demostrado todo lo ocurrido en estos días, es que la sociedad cubana, como un todo, no tiene herramientas de gran calibre ciudadano para enfrentarse a la posible injerencia extranjera y a sus respuestas, y que el rechazo a ambas acciones no ha sido el esperado (al menos por mí).
 
@@ -30,10 +30,6 @@ Pero hay que ponerle algún nombre a que te nieguen la salida o te siga un sujet
 Si fuera un novio o una novia, se le llamaría _acosador_, pero como es política, puede ser llamado _represión blanda_ (contradictorio el nombre, pero son las paradojas del socialismo cubano, y de la _cubanidad_ misma). Aunque cabe hacer la distinción de que ante el acoso hay algún recurso legal, ante la _represión blanda_, no.
 
 A eso se le suma lo que se conoce como actos de repudio, los cuales han tenido un resurgir (en menor escala, supongo). Ambos (los actos de repudio y _la represión blanda_ ¿y paternalista?) son la respuesta oficial a los que colaboran con la injerencia extranjera (también esa respuesta puede aplicarse erróneamente a otros, pero es otro tema).
-
-> [Duro y bajo](/politica-en-cuba/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Duro y bajo» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/politica-en-cuba/duro-y-bajo/embed/#?secret=7GrnkSDJo0" data-secret="7GrnkSDJo0" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 Dichos actos son algo no espontáneo, en los que un grupo de personas son convocadas y responden a la convocatoria, seguro no obligados, porque entusiastas y convencidos hay para todo.
 
@@ -66,15 +62,3 @@ A una de ellas la he defendido en otras ocasiones. La transparencia como valor c
 Ello sería una vía para que la manipulación (que es una de las cartas preferidas del activismo pro-_injerencis_ta), cuando se ejerza desde Cuba, sea juzgada por violar el derecho ciudadano a la información veraz. Lo cual representaría también un mecanismo real de perfeccionamiento a un empoderamiento ciudadano responsable. Es decir, a una sociedad capaz de generar transformaciones necesarias para el bien común, sin temor a que factores externos o el caos social se imponga.
 
 Resulta claro que los actos de repudio no se convertirán en una sanción legal, como tampoco, en la práctica, atentar contra la soberanía nacional en un delito. Sin embargo, no puede encontrar las mismas réplicas el trabajar en la búsqueda de la protección al derecho ciudadano a la información veraz, forma que, por demás, permite cuidar la nación desde la propia defensa a derechos ciudadanos.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.desdetutrinchera.com)

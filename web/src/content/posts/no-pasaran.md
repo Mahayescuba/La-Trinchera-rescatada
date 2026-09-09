@@ -1,5 +1,5 @@
 ---
-title: "Manifestaciones en Cuba"
+title: "¡No pasarán!"
 date: "2021-07-14T16:00:55+00:00"
 author: "Fernando Almeyda"
 category: "Política en Cuba"
@@ -28,17 +28,3 @@ Cubanos que me leen, firmes contra el fascismo, ¡¡¡No pasarán!!!
 Abajo el Fascismo
 
 ¡¡Patria, Vida y Libertad!!
-
-![](/wp-content/uploads/2021/07/IMG-20210711-WA0021.jpeg)
-
-![](/wp-content/uploads/2021/07/IMG-20210711-WA0021.jpeg)
-
-manifestaciones en Cuba, manifestaciones en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2021/07/FA2021-07-14-11.57.31.jpg)
-    
-    ![](/wp-content/uploads/2021/07/FA2021-07-14-11.57.31.jpg)
-    
-    [Fernando Almeyda](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/fernando-almeyda/)

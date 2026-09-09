@@ -1,5 +1,5 @@
 ---
-title: "Inflación en Cuba"
+title: "CubaRebate 4"
 date: "2022-01-21T10:30:00+00:00"
 author: "Arturo Mesa"
 category: "Política en Cuba"
@@ -18,13 +18,3 @@ Mire, contrario a lo que usted plantea, todos absolutamente todos los precios en
 Pero muy intencionadamente no se menciona la moneda, ni por usted ni por ningún medio oficial, lo cual nos dice que los economistas, del lado cómodo, nunca van a dar con la respuesta correcta porque no observan todos los elementos de la ecuación y ahí sí tiene usted razón al decir que “El funcionamiento de cualquier sistema tiene que ser coherente y completo. Si una pieza clave falta, puede ser decisiva e impedir su cometido”. Pues tampoco han visto ustedes la pieza clave (o no la han querido ver, porque es duro admitir que en el socialismo pos-Murillo se siguen adquiriendo alimentos con dólares).
 
 La inflación es el aumento de los precios de un determinado grupo de productos de un año a otro y la tal inflación fue intencionadamente concebida a un 60% (Gil et.al [ANPP](https://www.mep.gob.cu/es/node/575)) Es decir, fuimos deliberadamente expuestos a una inflación del 60%, lo que nos coloca entre los cinco primeros países en materia de inflación (inducida la nuestra) y ¿esperaba usted que no la hubiera o que la culpa fuera del inescrupuloso? Esto, lógicamente trajo sus resultados. Usted tampoco lo menciona. Vaya que lo del bloqueo le quedó bien, como queda bien todo lo del bloqueo, pero todo lo demás me parece inexacto y visto desde una posición segura y compatible con el discurso oficial. Si nuestros intelectuales mantienen esta postura y no ven la ecuación completa o no aceptan los errores tal y como no los aceptan nuestros dirigentes, entonces las soluciones desde las esferas imprescindibles brillan y brillaran por su ausencia. Yo no la puedo tener, o no creo tenerla pero en mi análisis ni dejo de mirar al bloqueo ni al [desastroso ordenamiento](/los-olvidos-del-ordenamiento/) “acrítico” legado a nuestros días. De lo contrario parcializaría igualmente mis análisis y confundiría (con buenas, o malas intenciones) a quien me pueda leer. Saludos. Por cierto el ejemplo del auto fue fatal. ¿En Cuba? ¿En serio?
-
-[Otro texto del autor](/urbanismo-en-cuba/) 
-
-## Autor
-
--   ![](/wp-content/uploads/2021/06/2021-06-26-12.28.50.jpg)
-    
-    ![](/wp-content/uploads/2021/06/2021-06-26-12.28.50.jpg)
-    
-    [Arturo Mesa](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/arturo-mesa/)

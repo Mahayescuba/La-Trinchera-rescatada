@@ -1,9 +1,9 @@
 ---
-title: "noticiero y sucesos del Mincult Duro y bajo"
+title: "Duro y bajo"
 date: "2020-12-28T17:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/12/Sami-Mohammad.jpg"
+image: ""
 ---
 _Nota a los lectores: Para este final de año, a los editores de La Trinchera nos complace presentarles una selección de los textos más leídos de cada uno de los colaboradores de este espacio. A todos les agradecemos su confianza._ 
 
@@ -26,15 +26,3 @@ Respiro tranquilo de haberme salvado de estar cerca de esos dos de la TV. Buenos
 Termino de escribir y oigo de nuevo a Silvio (“Ahora quiero hablar de poetas, de poetas muertos y poetas vivos, de tantos muchachos hijos de esta fiesta, y de la tortura de ser ellos mismos, porque hay que decir que hay quien muere sobre su papel, pues vivirle a la vida su talla tiene que doler”).
 
 Me acostaré después de decir al mundo que el [diálogo](https://www.ministeriodecultura.gob.cu/es/actualidad/noticias/nota-del-ministerio-de-cultura-rompen-el-dialogo-quienes-pidieron-dialogo) de sordos que nos proponen es una mentira de las grandes, una bota sobre nuestras cabezas, una confirmación del miedo que le tienen a la verdad y a los que la defendemos. Que lo visto en la televisión cubana sobre el golpe suave fue un golpe duro más cercano al fascismo que a las ideas que se dice defender, un golpe bajo para que mis sueños se alarguen y no vuelva a levantarme.
-
-noticiero y sucesos del Mincult, noticiero y sucesos del Mincult, noticiero y sucesos del Mincult
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

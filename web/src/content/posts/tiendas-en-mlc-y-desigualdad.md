@@ -1,9 +1,9 @@
 ---
-title: "tiendas en MLC y desigualdad"
+title: "El problema del tipo de desigualdad"
 date: "2020-11-09T17:00:22+00:00"
 author: "José Angel García Veloso"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/11/Max-Leiva.jpg"
+image: ""
 ---
 > En las ventas y servicios en MLC, el problema no es la desigualdad, sino el tipo de desigualdad que ocasiona. 
 
@@ -46,15 +46,3 @@ No se puede ver al sector privado como un grupo de personas privilegiadas que pe
 No se puede ver al emprendedor como un mero y simple sujeto tributario, en última instancia como un empleador más. Hay que verlo, en primer lugar, como generador de ofertas necesarias en nuestro mercado que contribuirían a mantener el equilibrio que se necesita, para romper el círculo vicioso en el que llevamos tantos años.
 
 Entonces, la existencia de ventas y servicios en una moneda que no se puede ganar en Cuba, provoca una terrible desigualdad que no se puede vencer. A la vez, desestimula el trabajo y estimula la emigración.
-
-tiendas en MLC y desigualdad, tiendas en MLC y desigualdad, tiendas en MLC y desigualdad, tiendas en MLC y desigualdad
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/josé-angel.jpg)
-    
-    ![](/wp-content/uploads/2021/02/josé-angel.jpg)
-    
-    [José A. García Veloso](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-a-garcia-veloso/)
-    
-    Abogado

@@ -3,7 +3,7 @@ title: "La pupila y la molestia"
 date: "2020-09-01T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/09/lee_miller-retrato_del_espacio_0-705x900-1.jpg"
+image: ""
 ---
 _En la Cuba de hoy, o de ayer, nos encontramos con el programa televisivo La Pupila asombrada y la presentación de Celia Cruz. Magnífico._
 
@@ -40,15 +40,3 @@ En resumen, si de comunicación se trata, el ejercicio debe ser comprender la di
 No fue ilegal lo ocurrido en LPA, pero sí fue algo condenado, moralmente, por algunos. Tal vez se pueda pensar en cuán éticos son algunos de los cuestionamientos, pero de lo que va este texto es de que es más que válida, moralmente hablando, la molestia generada por el programa de este jueves de LPA.
 
 La Pupila Insomne y Celia Cruz
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

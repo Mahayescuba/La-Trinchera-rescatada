@@ -3,7 +3,7 @@ title: "La teoría monetaria (podcast)"
 date: "2020-10-03T17:18:50+00:00"
 author: ""
 category: "Economía Política"
-image: "/wp-content/uploads/2020/09/okkk2020-09-04-00.12.55.jpg"
+image: ""
 ---
 La concreción de una teoría monetaria, cual la verdad del ser, su esencia, solo se alcanza al comprender el sistema económico del cual el dinero es dinero. Un podcast sobre el tema
 
@@ -42,15 +42,3 @@ El dinero es forma, y como forma, es [forma de algo](/comprender-la-continuidad
 [Player FM](https://es.player.fm/series/el-solar/episodio-29-tema-monetario-i-6SsnKOyOjqcGD8zJ)
 
 * * *
-
-## Autor
-
--   ![](/avatar/dc9431b56448e197d9daf598c729f9ec?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/dc9431b56448e197d9daf598c729f9ec?s=80&r=g&d=mm)
-    
-    [elsolarpodcast](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/elsolarpodcast/)
-    
-    Un podcast cubano para debatir y reflexionar sobre economía, política, filosofía, y hasta poesía
-    
-    [](mailto:radiolatrinchera@gmail.com)

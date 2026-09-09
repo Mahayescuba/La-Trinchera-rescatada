@@ -3,7 +3,7 @@ title: "Crónica de una vergüenza nacional"
 date: "2020-06-25T17:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/06/Choco-Empujando-el-muro.jpg"
+image: ""
 ---
 En 1912, el ejército reprimió la sublevación del partido de los Independientes de Color. Como debe hacerse siempre, lo único serio y honrado es hurgar en las fuentes y reconstruir los acontecimientos con objetividad.
 
@@ -165,13 +165,3 @@ Para contactar al autor: mariojuanvaldes@gmail.com
 Tomado de [La Joven Cuba](https://jovencuba.com/2020/06/25/verguenza-nacional/)
 
 [Sobre el mismo tema](/historia/)
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

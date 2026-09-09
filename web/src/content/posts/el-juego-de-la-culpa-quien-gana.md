@@ -3,7 +3,7 @@ title: "El juego de la culpa. ¿Quién gana?"
 date: "2020-05-18T17:09:37+00:00"
 author: "Danilo Euser"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/05/105294567.jpeg"
+image: ""
 ---
 _El ignorante de la filosofía culpa a los demás por su situación. El estudiante de filosofía se culpa a sí mismo. El sabio no culpa a nadie._
 
@@ -74,15 +74,3 @@ Es posible convertir toda relación en una oportunidad para conocernos a nosotro
 _“No hay ganador en el juego de la culpabilidad”._
 
 D. R. HAWKINS ·
-
-[Otro texto del autor](/ciencia/)
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

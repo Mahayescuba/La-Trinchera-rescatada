@@ -1,17 +1,15 @@
 ---
-title: "La Trinchera blog"
+title: "Pisamos el 2021"
 date: "2021-01-01T10:30:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/12/Myocenunsideme.jpg"
+image: ""
 ---
 El 2020 fue el tercer año de vida de La Trinchera (LT). También, hasta ahora, el de mejores resultados, con algunos saltos importantes. 
 
 Desde su creación se han publicado en LT más de mil entradas, de las cuales 800 son originales; casi la mitad de ellas, en este último año.
 
 Si de cifras se trata, LT tuvo en 2020 más de 125000 lecturas, casi el doble de las de 2019, para un total histórico de más de 200000.
-
-![](/wp-content/uploads/2021/01/vistas-LT-20202021-01-01-13.15.20.jpg)
 
 Esto se refleja en el posicionamiento del sitio web al lado (o entre) de otros medios independientes cubanos, con o sin comillas, tales como Tremenda Nota, Periodismo de Barrio, o El Estornudo. Es un resultado cuantitativo altamente gratificante, al menos para mí como editor.
 
@@ -34,17 +32,3 @@ Esta es una de las realidades más difíciles que se puede enfrentar al intentar
 Así pisamos el 2021.
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/libertades-y-derechos-expresion-e-informacion/
-
-La Trinchera blog, La Trinchera blog, La Trinchera blog
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

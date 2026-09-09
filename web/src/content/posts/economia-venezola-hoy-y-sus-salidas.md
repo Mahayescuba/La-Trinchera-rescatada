@@ -1,9 +1,9 @@
 ---
-title: "Propuestas a la economía venezolana"
+title: "Debate con amigos"
 date: "2019-05-03T17:09:23+00:00"
 author: ""
 category: "Economía Política"
-image: "/wp-content/uploads/2019/05/IMG-20190503-WA0001.jpg"
+image: ""
 ---
 Sobre las “Medidas Socialistas revolucionarias para salir de la crisis e igualar salario con canasta básica en el corto o mediano plazo.”
 
@@ -32,15 +32,3 @@ Con un capital mucho más chico, los salarios reales no pudieran crecer porque n
 ¿Ejemplos? Cuba, Viet Nam, China (antes de su apertura) y un largo etc. Ahora, con esta base, si se propone esto, hay que hablarles claro a los obreros, y decirles que jamás llegarían a un salario de 600 dólares mensuales, más o menos la canasta Básica, y que la revolución exige más sacrificio de su parte, una vida más o menos igual al actual, con algunas restricciones adicionales y con un aumento represivo importante, ya que si la población será pobre, se alzará, lo cual el gobierno dirá: “son unos burgueses que anhelan comodidades y lujos burgueses”, eso aumentará gastos estatales y hará la situación peor.
 
 La verdad que considero que ese camino no es el idóneo. Aunque claro, si ustedes me explican cómo hacer lo contrario, los aplaudo y les cargo la bandera roja que pondrían en la plaza Bolívar.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

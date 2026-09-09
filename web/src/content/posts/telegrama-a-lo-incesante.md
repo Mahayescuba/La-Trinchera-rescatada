@@ -1,9 +1,9 @@
 ---
-title: "Artículo de Néstor Kohan"
+title: "Telegrama a lo incesante"
 date: "2020-12-24T01:00:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/12/JF-Glabick.jpg"
+image: ""
 ---
 Si te parece bueno el artículo “[Revolución cultural es lucidez y es socialismo](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiFj_Kap-XtAhUGG80KHaWPDvAQFjAAegQIAxAC&url=http%3A%2F%2Fwww.cubadebate.cu%2Fespeciales%2F2020%2F12%2F21%2Frevolucion-cultural-lucidez-y-socialismo%2F&usg=AOvVaw1ksCmww5Kesi5Ji7tkWKWT)”,
 
@@ -36,17 +36,3 @@ Si te identificas como anticapitalista, y estás seguro que el capitalismo en Cu
 Bróder, la mía…
 
 continúa.
-
-artículo de Néstor Kohan, artículo de Néstor Kohan
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

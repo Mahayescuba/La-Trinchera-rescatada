@@ -3,7 +3,7 @@ title: "Caso clínico #1: Nubia"
 date: "2019-05-23T06:33:49+00:00"
 author: "Ernesto Núñez"
 category: "Onírica"
-image: "/wp-content/uploads/2019/05/img-20190523-wa00051129344159.jpg"
+image: ""
 ---
 Nombre del paciente: Nubia  
 Diagnóstico: Trastorno de identidad disociativo (TID)  
@@ -19,20 +19,6 @@ Disidente no está de acuerdo con que Continuidad sea la personalidad regente e 
 Indiferente no se expresa mucho, y casi todos los intentos de hacerle hablar terminan frustrados por la intervención de las otras tres personalidades, principalmente de Continuidad. Cuando asume el control permanece callado y tembloroso, aunque a veces se ríe estrepitosamente. Se muestra confundido cuando se le pregunta por Revolucionario, alarmado al mencionarle a Disidente incluso pide que no se le mencione más y mira a todos lados asustado – , y al preguntarle por Continuidad siempre repite un discurso cargado de elogios con la mirada perdida en el vacío.  
 Revolucionario se presenta con mucha formalidad, paciencia y educación. Recalca que no tiene mucho tiempo para hablar y reflexiona cada frase que sale de su boca. Demuestra una lástima profunda por la situación de Nubia, entiende que es solo un fragmento de ella e identifica a Indiferente como la personalidad original, pero revela que no sufría ninguno de los trastornos que padece hoy, aunque expresa que nunca fue feliz. Explica que ciertas circunstancias, como violencia física y violaciones repetidas fueron las causas que llevaron a Nubia a sufrir el TID. No critica directamente a ninguna de las otras personalidades pero sí sus acciones, pues asegura que todas están conscientes del problema que supone el TID, pero prefieren o ignorarlo o luchar por destruir al resto de las personalidades, lo que asegura solo llevará a Nubia al suicidio.
 
-![](/wp-content/uploads/2019/05/img-20190523-wa00271391251844.jpg "Esquema de relación entre las distintas personalidades")
-
 Esquema de relación entre las distintas personalidades
 
 **Conclusiones del caso:** En la cabeza de la paciente existe una lucha cada vez más agitada por el control del cuerpo, al punto que en ciertos momentos dos personalidades toman el control al mismo tiempo y Nubia comienza a golpearse frenéticamente a sí misma. La influencia de Continuidad y Disidente son extremadamente dañinas para Nubia. Hay que enfocarse en el fortalecimiento de Indiferente y explicarle de la existencia de Revolucionario, para intentar que juntas asuman el control y entonces trabajar por la unificación de todas las personalidades en una sola.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

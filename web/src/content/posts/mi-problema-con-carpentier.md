@@ -1,5 +1,5 @@
 ---
-title: "Carpentier"
+title: "Mi problema con Carpentier"
 date: "2021-01-06T10:30:00+00:00"
 author: "Yoel Rodríguez"
 category: "Cultura"
@@ -12,13 +12,3 @@ En Carpentier todo gira, casi invariablemente, alrededor de los mismos temas: la
 Ya lo dije, se trata de una cuestión de preferencias. A mí me fascina, pero no me gusta. Habrá quien se deleite con un inventario de alhajas y la detallada descripción de una columna dórica, pero en lo personal, cuando agarro una novela o un cuento me interesa más la trama que el entorno. Por eso, si deseo leer algo con conflictos humanos verdaderos, personajes profundos y complejos, si quiero emocionarme, llorar, reír… busco a otros autores y, siempre que puedo, me alejo de Carpentier.
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/cultura/paco-my-friend/
-
-## Autor
-
--   ![](/wp-content/uploads/2021/01/2021-01-06-09.12.30.jpg)
-    
-    ![](/wp-content/uploads/2021/01/2021-01-06-09.12.30.jpg)
-    
-    [Yoel Rodríguez](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/yoel-rodriguez/)
-    
-    Cronista al rescate del periodismo literario.

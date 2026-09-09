@@ -1,5 +1,5 @@
 ---
-title: "Interrogatorio en Cuba. En medio de la oscuridad"
+title: "En medio de la oscuridad"
 date: "2021-11-01T20:15:30+00:00"
 author: ": Julio Pernús"
 category: "Política en Cuba"
@@ -30,15 +30,3 @@ No deseo terminar estas líneas sin agradecer a las dos religiosas Sanchinas que
 He publicado mucho sobre el acompañamiento de la CONCUR, y me atrevería a decir de la Iglesia en Cuba de forma general, luego de los sucesos del 11J, pero solo hasta que uno vive estas experiencias, es que una lágrima de agradecimiento a Dios por su Compañía te salta, materializada en personas concretas. Nadie debería ir solo a un espacio tan difícil. Si algún lector de este texto no tiene con quién ir a un interrogatorio, puede preguntar en la Iglesia más cercana, es lo mínimo que podemos hacer por los demás. Lo siento mucho por la preocupación que este texto causará en mis familiares y amigos, pero un obispo que me ha visto crecer, cuando le comenté de este nuevo interrogatorio, me dijo: “Julio ten fe, el Espíritu actúa – escribe- en la debilidad”. Solo pido a los que lean este texto no se olviden de rezar por mí, por las personas que me interrogaron, por cada persona que es víctima de una injusticia en Cuba, porque como escribió Teilhard de Chardin: “los cristianos debemos recordar, cuando algo nos cause miedo, el conservar en nuestro rostro una dulce sonrisa, señal de que es Dios quien nos dirige”.
 
 PD: Al terminar esta segundo interrogatorio le propuse al oficial, con mucho temor, hacer juntos una oración . Para mi sorpresa, aceptó, y mientras él hacía un silencio respetuoso, pedimos juntos por la paz de Cuba, la Reconciliación entre los cubanos, el fin del Bloqueo y que cada uno de nosotros pudiese encontrar tranquilidad en su hogar al llegar. Terminamos con un Padre Nuestro. Siempre lo he creído, y hoy lo viví : aún en la peor oscuridad, Dios puede traernos la luz.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)

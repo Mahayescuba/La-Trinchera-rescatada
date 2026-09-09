@@ -1,5 +1,5 @@
 ---
-title: "Impacto del Ordenamiento Monetario"
+title: "Los olvidos del ordenamiento"
 date: "2022-01-19T17:00:33+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
@@ -44,15 +44,3 @@ Nota: Para profundizar en los aspectos mencionados en este artículo, así como 
 Texto publicado el 09/06/2021 en [Cubaeconomic](https://cubaeconomic.com/)
 
 [](/lenguaje-de-la-economia/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

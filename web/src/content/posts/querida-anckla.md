@@ -3,7 +3,7 @@ title: "Querida"
 date: "2019-02-14T08:05:02+00:00"
 author: "Anckla"
 category: "Onírica"
-image: "/wp-content/uploads/2019/02/PicsArt_02-14-03.02.58.jpg"
+image: ""
 ---
 Dirán en algún momento que todo lo que fue bueno y verdadero murió en los ochenta. La música, la cortesía, los gestos _de mano en mano_ para con las personas. Que el momento nos cambió del todo cuando llegó el _noventa_. Y sí , llegó el _noventa_.  
 Algunas pocas bandas de música hicieron buenas cosas, aunque efímeras. Pero la necesidad de sustento, lo dejó todo de lado… para entonar las notas de nuestra nueva realidad. _1,2 y 3_… Lo lamento, no me pude resistir.  
@@ -25,13 +25,3 @@ El vecino la mira con saña, la humilla y desprestigia. Sufre la propia impotenc
 > ¿Será que se ha vuelto loca? ¿Le faltará la razón?
 
 Sigue buscando en otras partes por una curación. Necesita de diálisis, quizás de otra medicación, que le extirpen la mente, o transplante de corazón. El organismo adecuado lleva más que la razón. Un pensamiento cerrado, es letal para el corazón.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    [Anckla](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/anckla/)
-    
-    [](https://www.amazon.com/s?i=digital-text&rh=p_27%3AAnckla+Almirante+&s=relevancerank&language=es&text=Anckla+Almirante+&ref=dp_byline_sr_ebooks_1)

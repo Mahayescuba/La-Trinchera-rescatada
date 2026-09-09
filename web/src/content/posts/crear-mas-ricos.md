@@ -1,9 +1,9 @@
 ---
-title: "Mercado mayorista en Cuba"
+title: "¿Crear más ricos?"
 date: "2018-12-19T03:03:35+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2018/12/M.-Renoir-.jpg"
+image: ""
 ---
 La mercado mayorista en Cuba.
 
@@ -29,15 +29,3 @@ Por otro lado, no considero que la política sea crear ricos cada vez más ricos
 No quiere decir que esta lógica de monopolio se dé en todo lo privado, y mucho menos que por eso haya que renunciar al mercado mayorista, sino hay que mirar con atención a su creación para no aplicarlo mecánicamente y no renunciar a concepciones teóricas como la economía política a favor de una microeconomía a-histórica (descontextualizada), no vaya a ser que en vez de ayudar a la población, al ciudadano de a pie, solo se potencie la existencia de hombres más ricos. Y es necesario generar riqueza, lo que no quiere decir torpemente generar hombres muy ricos, que aunque sean necesarios, no son los abanderados de un proceso revolucionario, al menos, en contextos de países subdesarrollados.
 
 mercado mayorista en cuba mercado mayorista en cuba mercado mayorista en cuba mercado mayorista en cuba mercado mayorista en cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

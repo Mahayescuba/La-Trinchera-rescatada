@@ -1,9 +1,9 @@
 ---
-title: "Multiplicidad cambiaria"
+title: "De la tasa y el margen"
 date: "2021-04-08T18:30:57+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/04/Dan-Grayber-.jpg"
+image: ""
 ---
 La dualidad monetaria es un problema siempre y cuando exista la multiplicidad cambiaria, que no es otra cosa que la ausencia de una misma relación (tasa) de cambio entre dos o más monedas, en cada proceso de compraventa. 
 
@@ -106,15 +106,3 @@ Es decir, el crecimiento y el movimiento económico utilizando el espejo del dó
 Por lo que, la rentabilidad empresarial a partir de la multiplicidad cambiaria, se trata, en realidad, de una ilusión el ciclo económico. Y un ciclo económico que no puede reponer sus condiciones de repetición, no es un ciclo favorable, es otra deformación.
 
 Esta es la racionalidad sistémica de la economía como un todo, que presiona para la inevitable unificación, es decir, el efecto de subsidiar con tasas de cambio al sector estatal, crea ilusiones de crecimiento en la medida que se afecta la reanudación de ciclos productivos, siendo una causa más de la restricción de la oferta de bienes en el país.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

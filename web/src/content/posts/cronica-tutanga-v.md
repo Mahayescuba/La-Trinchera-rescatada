@@ -3,7 +3,7 @@ title: "Crónicas de Tutanga (V)"
 date: "2019-09-17T14:14:48+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/09/IMG_20190917_101518.jpg"
+image: ""
 ---
 _Tutanga en la nueva coyuntura especial._
 
@@ -18,15 +18,3 @@ La alta dirección tutana, también ha mostrado interés en evitar el temido inv
 Entre los primeros resultados esperados, se espera una drástica reducción de la emisión de CO2 a la atmósfera, así como un palpable descenso en los accidentes automovilísticos y ferroviarios… Dicho y hecho: la implementación de las políticas proambientalistas ya empiezan a implementarse y a arrojar resultados: el derroche de electricidad en los hogares comienza a descender, el calor humano se siente como nunca en el transporte público y hasta al célebre empresario que dirige la finca, Richard Gere, se le ha visto repartiendo botellas de aire limpio por toda la capital. El impacto en la opinión pública es evidente: las personas conversan sobre las medidas tomadas larga y tendidamente -durante horas incluso- en las paradas de los ómnibus urbanos.
 
 Dado que se espera una continuidad de la coyuntura presente, el mencionado líder ha hecho claras referencias de saber qué están haciendo, él y su equipo de trabajo. Afirman tener un plan metódicamente estudiado ante la previsible evolución de los acontecimientos, los cuales no por ello dejan de ser menos coyunturales…
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

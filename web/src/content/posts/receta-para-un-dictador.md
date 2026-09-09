@@ -3,7 +3,7 @@ title: "Receta para un dictador"
 date: "2020-09-12T09:30:07+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/09/Max-Ernst.jpg"
+image: ""
 ---
 receta para un dictador.
 
@@ -52,11 +52,3 @@ Y para terminar, mezcle todo con una horda de seguidores fanatizados y vocingler
 Se agitan bien los ingredientes, se dejan macerar en su jugo y más temprano que tarde, cuando menos lo imaginan, tendrán un perfecto dictadorzuelo.
 
 Alcanza para tantas raciones como habitantes tenga el país en cuestión.
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Armando Pazos](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/armando-pazos/)

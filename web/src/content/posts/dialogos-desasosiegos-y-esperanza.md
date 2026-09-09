@@ -1,5 +1,5 @@
 ---
-title: "Totalitarismo y cultura política cubana"
+title: "Diálogos, desasosiegos y esperanza"
 date: "2020-12-16T17:00:07+00:00"
 author: "Arturo López Levy"
 category: "Política en Cuba"
@@ -72,15 +72,3 @@ Entre los partidarios de esa oposición en el exterior, que han firmado varias c
 Existe en la Isla y en la emigración, una Cuba para la cual la «_moderación_», como decía Martí, es su espíritu. Es posible demandar a la vez mayor pluralidad política que la permitida por el monopolio comunista mientras se defiende desde el corazón la bandera de la estrella solitaria y desde el conocimiento el pensamiento independentista y democrático de José Martí, que es «_el Delegado_» que ya Cuba escogió, para citar a Cintio Vitier en polémica con Rafael Rojas. La disposición de los congregados ante el MINCULT a cantar el Himno de Bayamo es un buen comienzo para pensar un rumbo propio entre la _Escila_ de la soberbia totalitaria y la _Caribdis_ del plattismo sumiso. Allí va la esperanza.
 
 Tomado de [La Joven Cuba](https://jovencuba.com/dialogos-desasosiegos-esperanza/)
-
-totalitarismo y cultura política cubana, totalitarismo y cultura política cubana, totalitarismo y cultura política cubana, totalitarismo y cultura política cubana, totalitarismo y cultura política cubana, totalitarismo y cultura política cubana, totalitarismo y cultura política cubana
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/12c70fe8a71cc40f589fc3cd2f0b6220.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/12c70fe8a71cc40f589fc3cd2f0b6220.jpeg)
-    
-    [Arturo López-Levy](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/arturo-lopez-levy/)
-    
-    Profesor de Relaciones Internacionales. Experto en Estados Unidos y América Latina.

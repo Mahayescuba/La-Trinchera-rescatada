@@ -3,7 +3,7 @@ title: "Diplomacia buena y diplomacia mala"
 date: "2018-07-25T14:32:55+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/07/Marc-Michel-Gabali.jpg"
+image: ""
 ---
 ### **Por: Miguel Alejandro Hayes Martínez**
 
@@ -30,13 +30,3 @@ Entre las primeras tareas-actividades- que generan ese acomodamiento en el socia
 La diplomacia socialista, nació no muy distante de la burguesa. Creó un rol que daba espacio a aquellos del arte de la palabra, de tendencia a la demagogia. **Mientras todo un pueblo se esfuerza por construir el socialismo, esa clase diplomática disfruta del encuentro burgués**. Creo que debería reconceptualizarse como debe ser ese diplomático socialista.
 
 Hasta ahora, esos acomodados  que mencionábamos al inicio hacen lo mismo que un  diplomático socialista(o burgués): intentar mejorar sirviéndose de un discurso, sin embargo solo estos son atacados o acusados por tal actividad. Creo que solo los diferencia- a los socialistas-, que unos están autorizados a ejercer la diplomacia y los otros no.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

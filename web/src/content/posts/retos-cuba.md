@@ -3,7 +3,7 @@ title: "El mismo reto"
 date: "2019-07-25T12:08:57+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/07/PicsArt_07-25-08.06.29.jpg"
+image: ""
 ---
 En el país que aparecían cadáveres en las calles, no fueron pocos los retos a enfrentar.
 
@@ -29,15 +29,3 @@ Arrastramos varios años donde lo que logró hacerse normal, fue ese conjunto de
 Ante los llamados desde la máxima dirección del país, ahora no a eliminar el ausentismo –pero sí a una mayor responsabilidad ante el trabajo—, el reto sigue siendo el mismo de la joven Revolución de la que se afirma heredera: la transformación de la cotidianidad, de forma tal que esta devenga en una normalidad orgánica al proyecto planteado.
 
 **Tomado de La Joven Cuba**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

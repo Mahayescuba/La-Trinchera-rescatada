@@ -1,9 +1,9 @@
 ---
-title: "Soñar Cuba La Trinchera Julio Pernus Reflexión sobre Cuba"
+title: "¿Cómo soñamos nuestra Nación?"
 date: "2018-11-12T19:44:34+00:00"
 author: "Julio Pernús"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/11/pic_mexcuba-habana-1.jpg"
+image: ""
 ---
 La nación para varios pensadores se puede identificar con las élites que controlan el poder. Aunque también prevalece el criterio de que una nación existe si existe la voluntad de crearla. Había un filósofo que decía, “si usted tiene problemas, cree un estado nación, eso le traerá más problemas, pero al menos tendrá una nación.” (1) Todos estos son conceptos que se discuten desde hace muchos años y que aún no tienen una respuesta definitiva.  
 Si a cada uno de los lectores le preguntaran- ¿qué es la nación? – de seguro formularían tesis bien elaboradas con criterios válidos, y eso es una riqueza, porque da muestras felices de ser un tema que nos impela en diversos momentos de nuestra vida. Lo que intentamos con este artículo es dar algunas pistas, para esa pregunta que a veces nos hacemos en nuestros barrios debate.  
@@ -41,17 +41,3 @@ Cuevas Torres Eduardo; Espada y escudo de la nación cubana; http://www.lajiribi
 En la alborada de la nación cubana; http://www.josemarti.cu/en-la-alborada-de-la-nacion-cubana; consultado por el autor el 29 de septiembre.  
 Marrón Karina; La Nación y su imaginario. 150 años después; en http://www.temas.cult.cu/catalejo/la-naci-n-y-sus-imaginarios150; consultado por el autor el 3 de octubre.  
 Palabras a los intelectuales; www.uneac.org.cu/noticias/palabras-los-intelectuales; consultado por el autor el 3 de octubre.
-
-[Otro texto del autor](/una-luz-en-la-oscuridad/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

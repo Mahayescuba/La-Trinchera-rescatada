@@ -17,15 +17,3 @@ La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser un
 Actualmente LT es un medio independiente, sostenido con ingresos personales y sin el acompañamiento, alianza o ayuda de medios de comunicación, organizaciones o institución alguna. El trabajo editorial se realiza en tiempos libres y restando a otras actividades de la vida cotidiana, laboral y personal. La política editorial consiste en visibilizar diferentes posturas, siempre que se escriba con respeto, tanto al otro como al antagónico, así como con el uso de información, y se sea riguroso con la emisión de afirmaciones. El proyecto no es una plataforma afiliada a ningún signo político, entendida la política como la postura respecto al signo político de un gobierno. LT posee una estructura descentralizada, abierta y colaborativa. Se recepcionan trabajos (siempre que se ajusten la política editorial). Sus colaboradores y equipo no tienen ningún compromiso de exclusividad de sus publicaciones o de su trabajo en general que no sea otro que atender a dudas, quejas, sugerencias y comentarios de los lectores. 
 
 Política de comentarios Política de comentarios.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    [La Trinchera Editor](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/la-trinchera-editor/)
-    
-    La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser una plataforma de debate.
-    
-    [](/la-trinchera/)

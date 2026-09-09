@@ -3,7 +3,7 @@ title: "La responsabilidad de los intelectuales"
 date: "2020-11-26T10:30:00+00:00"
 author: "Noam Chomsky"
 category: "Política"
-image: "/wp-content/uploads/2020/11/Antpine-Josse-Pont.jpg"
+image: ""
 ---
 > Extracto del nuevo libro de Noam Chomsky _La responsabilidad de los intelectuales_ (Sexto Piso, 2020). Traducción de Albino Santos Mosquera
 
@@ -70,15 +70,3 @@ Chomsky alude aquí a la expresión que Kellyanne Conway, asesora del presidente
 **Fuente:** [https://www.lamarea.com/](https://www.lamarea.com/)
 
 [También puede interesar](/politica-en-cuba/)
-
-responsabilidad de los intelectuales, responsabilidad de los intelectuales, responsabilidad de los intelectuales, responsabilidad de los intelectuales, responsabilidad de los intelectuales
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/220px-Noam_Chomsky_portrait_2017.jpg)
-    
-    ![](/wp-content/uploads/2020/12/220px-Noam_Chomsky_portrait_2017.jpg)
-    
-    [Noam Chomsky](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/noam-chomsky/)
-    
-    Lingüista, filósofo, politólogo y activista estadounidense.

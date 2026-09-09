@@ -3,7 +3,7 @@ title: "Lo universal y lo regional"
 date: "2019-12-20T14:08:33+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2019/12/IMG_20191220_093226_754.jpg"
+image: ""
 ---
 universal y regional. 
 
@@ -30,15 +30,3 @@ Para adoptar y apostar por paradigmas de cotidianidad y de organización social,
 Todo se trata, de una batalla entre culturas llevada a cabo a través de sus defensores, atrapados en la enajenación que se produce desde cualquier esquema “cosmovisivo”. Para quien defienda valores occidentales, su acercamiento a la objetividad viene por saber cuánto hay de ellos en la sociedad. Se trata, después de todo, de la defensa de una particularidad.
 
 No se trata de que determinados valores sean universales, se lucha porque se cree en ellos.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

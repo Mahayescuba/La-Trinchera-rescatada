@@ -1,9 +1,9 @@
 ---
-title: "Crítica a la burocracia estatal"
+title: "El marxismo y la burocracia de Estado"
 date: "2020-11-25T10:30:00+00:00"
 author: "Rolando Astarita"
 category: "Marxismo"
-image: "/wp-content/uploads/2020/11/86d256a0a1a30df9c176b9bf92f37047.jpg"
+image: ""
 ---
 Días atrás, en una charla para alumnos de la Universidad Nacional de La Pampa, hice referencia a una crítica de Marx al gasto fiscal, a fin de mostrar que los socialistas criticamos el gasto improductivo y, más en general, cuestionamos a la burocracia del Estado. En esta nota amplío el tema. Me mueve a hacerlo el hecho de que la mayoría de la izquierda ha abandonado esta crítica. Una posible razón de ello es la influencia de la ideología del nacionalismo burgués. Es que, según este, la contradicción central de la sociedad hoy está planteada en términos Estado y mercado, de manera que todo lo que engorde al Estado favorecería la lucha por _domar a los mercados_.
 
@@ -51,14 +51,4 @@ Pero a poco de andar el nuevo régimen hubo de constatarse que la burocracia res
 
 Es necesario restablecer la centralidad de la crítica a la burocracia, sea capitalista, u _obrera_ (o socialista). Forma parte de la lucha del socialismo con las ideologías burguesas y burocrático-stalinistas.
 
-_Tomado del blog del autor_ 
-
-crítica a la burocracia estatal, crítica a la burocracia estatal, crítica a la burocracia estatal, crítica a la burocracia estatal
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Rolando Astarita](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/rolando-astarita/)
+_Tomado del blog del autor_

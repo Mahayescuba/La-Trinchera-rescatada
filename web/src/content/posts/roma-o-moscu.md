@@ -1,9 +1,9 @@
 ---
-title: "Conflicto Iglesia–Revolución en Cuba"
+title: "Roma o Moscú"
 date: "2020-11-23T10:30:13+00:00"
 author: "Julio Pernús"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/11/Nicole-Esterolle.jpg"
+image: ""
 ---
 ## Algunos apuntes para dialogar con la profesora y filósofa cubana María del Pilar Díaz Castañón
 
@@ -19,18 +19,4 @@ Lo que sucede con posterioridad al rechazo de Estados Unidos a dialogar sobre la
 
 Para la Iglesia católica era un duro golpe -y en eso concuerdo con María del Pilar- la pérdida de la influencia sobre el sistema educativo cubano; pero el núcleo de la carta _Roma o Moscú –_y en esto entro en debate con ella y concuerdo con el historiador cubano Alexis Pestano- radicaba en que _se condenaba al comunismo, ciertamente,  sin buscar representar el papel de quinta columna del imperialismo yanqui en la Isla, ni para impedir un supuesto camino de reivindicaciones para los sectores más humildes de la Nación, sino que combatía una realidad que en su concepción era intrínsecamente perversa y contraria a la historia, anhelos y esperanzas del pueblo cubano_.   
 
-La carta _Roma o Moscú_ de Mons. Pérez Serantes es un texto valioso para comprender la epistemología del conflicto Iglesia–Revolución en Cuba. Transcurridos 60 años de la constitutiva epístola pastoral, sería bueno revisitarla y ver cuánto de error o de verdad traía en su interior y así, luchar contra la construcción del concepto de _historia tardía_ que se aplica a esos momentos históricos que se hunden en el vacío del pasado nacional.   
-
-conflicto Iglesia–Revolución en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)
+La carta _Roma o Moscú_ de Mons. Pérez Serantes es un texto valioso para comprender la epistemología del conflicto Iglesia–Revolución en Cuba. Transcurridos 60 años de la constitutiva epístola pastoral, sería bueno revisitarla y ver cuánto de error o de verdad traía en su interior y así, luchar contra la construcción del concepto de _historia tardía_ que se aplica a esos momentos históricos que se hunden en el vacío del pasado nacional.

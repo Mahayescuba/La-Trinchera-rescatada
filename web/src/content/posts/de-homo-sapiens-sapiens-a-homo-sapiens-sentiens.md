@@ -1,9 +1,9 @@
 ---
-title: "homo sapiens sentiens"
+title: "De Homo sapiens sapiens a Homo sapiens sentiens"
 date: "2020-05-08T23:15:50+00:00"
 author: ""
 category: "Ciencia"
-image: "/wp-content/uploads/2020/05/IMG-20200504-WA0019.jpg"
+image: ""
 ---
 Hay que vigilar con frecuencia el inicio de las emociones, notando además los cambios físicos o sensaciones que las acompañan.
 
@@ -65,8 +65,6 @@ Los filósofos estoicos, por ejemplo, entendían que se reacciona directamente a
 
 Muchos creen que las emociones son respuestas directas a lo que les ocurre, pero no es cierto. Entre el evento y la emoción hay una interpretación automática, un filtro inconsciente que condiciona la respuesta.
 
-![](/wp-content/uploads/2020/05/img-20200504-wa00167541524735259610364.jpg)
-
 [(I)](https://www.fitnessrevolucionario.com/programas/invicto/)
 
 Este filtro es en parte innato, pero se va modificando a lo largo de la vida según las experiencias, creencias y reglas internas.
@@ -76,8 +74,6 @@ Este filtro es en parte innato, pero se va modificando a lo largo de la vida seg
 Muchos asumen también que la emoción ocasiona siempre una reacción pero tampoco es necesariamente cierto. Entre la emoción y la respuesta se puede incorporar un espacio. Este, da la oportunidad de cuestionar la emoción y regularla, logrando mayor control sobre la respuesta.
 
 Aquí es donde se aprende a distanciarse un poco de las respuestas automáticas y de las reacciones primitivas. De esta manera, se pasa de reaccionar emocionalmente a responder racionalmente. El impacto en la vida y estado mental será enorme.
-
-![](/wp-content/uploads/2020/05/img-20200504-wa00157935121492536406159.jpg)
 
 [(II)](https://www.fitnessrevolucionario.com/programas/invicto/)
 
@@ -101,18 +97,5 @@ En resumen, todas las acciones vienen ligadas a una emoción, pero que no toda e
 
 > _La calidad de tu vida depende en gran medida de la calidad de tus pensamientos._  
 > · Marco Aurelio ·
-
-[Otro texto del autor](/ciencia/)
-
-## Autor
-
--   ![](/avatar/fe7135b0e7e96af7c19b6e47e701063a?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/fe7135b0e7e96af7c19b6e47e701063a?s=80&r=g&d=mm)
-    
-    [daniloeuser](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/daniloeuser/)
-    
-    [](mailto:daniloeuser7@gmail.com)
-    
 
 23.1135925\-82.3665956

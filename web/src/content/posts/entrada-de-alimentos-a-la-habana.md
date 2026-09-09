@@ -1,9 +1,9 @@
 ---
-title: "Entrada de alimentos a La Habana"
+title: "Esperando al camión"
 date: "2020-09-14T16:52:06+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Onírica"
-image: "/wp-content/uploads/2020/09/Sophie-Favre-.jpg"
+image: ""
 ---
 Entrada de alimentos a La Habana.
 
@@ -50,15 +50,3 @@ En fin, ¿quién hace que el camión venga?
 entrada de alimentos a La Habana entrada de alimentos a La Habana
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/cebolla-dios-y-los-reyes-de-la/
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

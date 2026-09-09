@@ -1,9 +1,9 @@
 ---
-title: "Constitución"
+title: "Un Sí contra la Revolución Socialista (Rectificado)"
 date: "2019-03-01T08:00:07+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/03/yves-klein-la-victoire-de-samothrace-800x800-1.jpg"
+image: ""
 ---
 Constitución.
 
@@ -101,15 +101,3 @@ RCA, “Cuba. Constitución Socialista o Contrarrevolución Capitalista.
 [Cuba. Constitución Socialista o Contrarrevolución Capitalista.](https://robertocobasavivar.wordpress.com/2018/08/11/cuba-constitucion-socialista-o-contrarrevolucion-capitalista/)
 
 “ New Cuban Constitution”: Interview with Marxist Cuban Thinker ROBERTO COBAS AVIVAR -Epoch.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

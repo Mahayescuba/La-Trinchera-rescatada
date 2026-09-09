@@ -3,7 +3,7 @@ title: "Teoría del valor y costos, notas para pensar su relación"
 date: "2018-06-15T11:15:11+00:00"
 author: "Miguel Alejando Hayes Martínez"
 category: "Teoría"
-image: "/wp-content/uploads/2018/06/Aaron-Tilley.jpg"
+image: ""
 ---
 **Planteando la cuestión**
 
@@ -73,15 +73,3 @@ Si bien, quien afirme que el valor es el precio y los costos de capital, comete 
 Cada cual en el intercambio puede ser representante de lo que le costó adquirir o crear lo que compra, pero el valor es el reconocimiento social dado-no a esos gastos expresados en cualquier unidad- sino a los resultados de ese trabajo.
 
 Del reconocimiento ese, -de ese valor atribuido-, dependerá la realización o no de los costos, entiéndase estos en la unidad de medida que sea ¿o es que acaso la sociedad acepta precios simplemente porque quien(es) produce(n) le(s) costó muchísimo hacerlo? Esto solo ocurriría de ser el producto imprescindible en la reproducción de esa sociedad. El productor intentará que se reconozcan sus gastos, pero del resultado de su interacción con los que comprarán, de esa interacción, que depende de cuánto necesite la sociedad el producto, dirá el valor, y no precisamente el contenido de sus costos.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

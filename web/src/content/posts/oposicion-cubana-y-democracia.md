@@ -22,15 +22,3 @@ No se puede temer al diálogo, recuérdese aquella verdad que dice: solo la verd
 Una oposición que se autocuestiona es, por ende creíble, ya que ella misma señala sus propios problemas y defectos, los discute y los supera. Sin darle al autoritarismo la posibilidad de usar esos problemas y defectos para descalificar éticamente a dicha oposición.
 
 Es imprescindible el autocuestionamiento en la oposición democrática, y su estímulo, siempre que se haga respetuosamente, al usar de argumentos racionales y no descalificaciones o manipulaciones al sentimentalismo barato. A fin de cuentas, así se prepara a la sociedad para vivir en una verdadera democracia.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    [José Gabriel Barrenechea](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-gabriel-barrenechea/)
-    
-    Científico, escritor y activista

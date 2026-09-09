@@ -1,9 +1,9 @@
 ---
-title: "La leyenda de \"Pepe Ginebra\""
+title: "La leyenda de “Pepe Ginebra”"
 date: "2019-08-29T04:53:50+00:00"
 author: ""
 category: "Cultura"
-image: "/wp-content/uploads/2019/08/ytrrtye.jpg"
+image: ""
 ---
 Pepe Ginebra.
 
@@ -26,15 +26,3 @@ Así que es fácil adivinar que aquellos que veían imposible detener la prepara
 Entonces qué es lo más doloroso, además de que en la escuelas se hable de un Martí rígido en un busto -muchas veces con rasgos faciales desproporcionados-, además de los versos aprendidos de memoria casi como dogma, que no se inculquen -inculquen, no que se impongan- los valores de un hombre que renunció a ver crecer a su hijo, el distanciamiento familiar y los dolores físicos más diversos por hacer un país donde se rinda culto a la dignidad plena del hombre.  
 Creo que si de este modo no se hiciera, solo provocaría animadversión hacia su persona -como es el caso de un amigo que cuestiona muchas veces sus pensamientos y citas utilizados en los más amplios contextos. Tampoco esto significa que se tenga que ser martiano por obligación, quienes se encargan de la pedagogía tienen este deber.  
 Que se asuma con una naturalidad que roza lo absurdo, que el Héroe Nacional de Cuba sea llamado de la manera que se titulan estas líneas, es un signo evidente de enajenación como cubano. Aquellos que tengan o hayan tenido un familiar mayor por el que sientan un afecto desbordado que traspasa cualquier plano, entiéndase padres o abuelos, no permitirían que la memoria de ellos fuera burlada despectivamente. Quienes nos sentimos martianos hasta la médula, sin caer en un fanatismo barato o utilizarlo para un fin político cuestionable, debemos ante todo hacer ver a los ojos de los que se dejan llevar por la corriente de la casi omnipresente tergiversación, el legado de una verdad y el ejemplo de una vida multiplicada siendo arte entre las artes y monte entre los montes o simplemente como quien va _Haciendo Fe_ para …para _mover ciudades bajo la piel_.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

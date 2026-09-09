@@ -1,9 +1,9 @@
 ---
-title: "elecciones 2020 en EEUU"
+title: "El Papa Francisco no votaría por Donald Trump"
 date: "2020-10-25T09:00:00+00:00"
 author: "Julio Pernús"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/10/Kishio-Suga.jpg"
+image: ""
 ---
 Muchos coinciden en que el Papa Francisco tiene una gran sensibilidad política e histórica. Para no pocos, fue una _diosidencia_ la publicación de su tercera encíclica, titulada _Fratelli Tutti_ –_Hermanos todos_\-, justo un mes antes de las elecciones presidenciales en Estados Unidos. Para el obispo de Roma es crucial intuir cómo la Iglesia se mueve en el contexto histórico actual, los signos de los tiempos. La tesis propuesta en este pequeño artículo bebe mucho de las lecturas y clases recibidas en La Habana del profesor y filósofo italiano, Massimo Borghesi**,** autor del libro _Jorge Mario Bergoglio, una Biografía Intelectual, Dialéctica y Mística._ 
 
@@ -18,15 +18,3 @@ El Papa Francisco ha notado los cambios negativos que viene dando la escena mund
 Sé que desde Cuba, con la filosofía de ver al comunismo como el adversario principal de la Iglesia, intentar reflexionar sobre las elecciones de otro país, puede parecer surrealista. Pero conozco la importancia del voto católico en Estados Unidos y el peso de la comunidad católica cubano-americana en la Florida. De ahí la necesidad de reflexionar sobre lo mejor para la Iglesia, más allá del componente nacional. La antinomia entre el Papa Francisco y Donald Trump se sitúa sobre todo en la cosmovisión mundial de cada uno de estos líderes mundiales. Pues se sabe que el Papa Francisco ha rezado por Trump y que lo hace seguido por toda la humanidad, y también ha pedido al magnate que rece por él. Pero no tengo dudas de que, si en un macondiano universo, Bergoglio tuviese que depositar su voto, no lo haría por Donald Trump.     
 
 elecciones 2020 en EEUU, elecciones 2020 en EEUU
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)

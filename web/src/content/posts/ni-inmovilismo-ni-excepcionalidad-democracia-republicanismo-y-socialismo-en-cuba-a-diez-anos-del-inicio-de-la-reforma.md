@@ -1,9 +1,9 @@
 ---
-title: "Reforma económica en Cuba"
+title: "Ni inmovilismo ni excepcionalidad. Democracia, republicanismo y socialismo en Cuba a diez años del inicio de la reforma"
 date: "2021-03-19T16:00:00+00:00"
 author: ": Ailynn Torres Santana y Julio César Guanche"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/03/n-A-Boat-Abstract-Rowers-In-Boat-sculpture-Yladimir-Slobodchikov.jpg"
+image: ""
 ---
 Desde aproximadamente 2010 Cuba está inmersa en procesos de cambios profundos. No se emplea la palabra «reforma», pero lo es, y ocurre en múltiples dimensiones. Todas estas transformaciones poseen legitimidades y problemas de cara a las necesidades y condiciones de posibilidad de la sociedad y el Estado socialista.
 
@@ -23,7 +23,7 @@ Aquí miramos la reforma cubana a través de cuatro lentes: 1) la reorganizació
 
 **Reforma del sistema socioeconómico: acceso a la propiedad y (des)control sobre las condiciones de existencia** 
 
-La estructura de la propiedad, el aparato productivo y los mercados laborales han cambiado y ganado complejidad en Cuba. Cuatro documentos principales son sus bases: los [Lineamientos para la Actualización de la Política Económica y Social](/wp-content/uploads/2017/07/PDF-321.pdf) (2011), la [Conceptualización del modelo económico y social cubano de desarrollo socialista](/wp-content/uploads/2017/07/PDF-510-kb.pdf) (2017), la [Constitución de la República](http://www.cubadebate.cu/noticias/2019/02/26/descargue-aqui-la-nueva-constitucion-de-la-republica-de-cuba-pdf/) (2019) y los que especifican la [Tarea de Ordenamiento](https://www.tsp.gob.cu/noticias/descargue-aqui-todas-las-normas-juridicas-que-rigen-la-tarea-ordenamiento-gacetas) (2021).
+La estructura de la propiedad, el aparato productivo y los mercados laborales han cambiado y ganado complejidad en Cuba. Cuatro documentos principales son sus bases: los [Lineamientos para la Actualización de la Política Económica y Social](http://media.cubadebate.cu/wp-content/uploads/2017/07/PDF-321.pdf) (2011), la [Conceptualización del modelo económico y social cubano de desarrollo socialista](http://media.cubadebate.cu/wp-content/uploads/2017/07/PDF-510-kb.pdf) (2017), la [Constitución de la República](http://www.cubadebate.cu/noticias/2019/02/26/descargue-aqui-la-nueva-constitucion-de-la-republica-de-cuba-pdf/) (2019) y los que especifican la [Tarea de Ordenamiento](https://www.tsp.gob.cu/noticias/descargue-aqui-todas-las-normas-juridicas-que-rigen-la-tarea-ordenamiento-gacetas) (2021).
 
 Un papel clave lo ha tenido la ampliación del sector no estatal de la economía, y muy especialmente del llamado Trabajo por Cuenta Propia (TCP). Entre 2010 y 2018, el TCP creció 375%. La forma en que ello ha sucedido es quebradiza y aún [incompleta](http://www.cubadebate.cu/opinion/2016/04/14/los-lineamientos-para-la-politica-economica-y-social-y-su-evolucion-2011-2016/). Han existido [decisiones arbitrarias o anacrónicas](https://elestadocomotal.com/2021/01/04/productividad-y-politica-economica-cubana-en-2021-resolver-un-error-de-secuencia/), ineficiencia y corrupción estructurales, y [disputas ideológicas](http://library.fes.de/pdf-files/bueros/fescaribe/16568.pdf) entre actores internos de poder que interrumpen y/o ralentizan medidas necesarias en ese campo.
 
@@ -143,26 +143,4 @@ Desde esa comprensión, el análisis de la República, la democracia y el social
 
 En su lugar, se pueden especificar programas prácticos de libertad política y justicia social para Cuba, a la vez que proponer una renovada reflexión sobre el socialismo que necesita el siglo XXI. Se trata de identificar las oportunidades que presenta el proceso cubano junto a sus impedimentos, para proponer un modelo de República socialista que tenga como horizonte el concepto revolucionario de fraternidad: reciprocidad en la libertad a partir de la interdependencia entre libertad e igualdad, y pensarlo sobre un escenario social real, por medio del análisis político en todo lo que este implica.
 
-_[Tomado del blog del autor](https://jcguanche.wordpress.com/)_  
-
-reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba, reforma económica en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/1839bd8873f705471c440016bcc41911.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/1839bd8873f705471c440016bcc41911.jpeg)
-    
-    [Julio César Guanche](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/julio-cesar-guanche/)
-    
-    Jurista e Historiador. Ha impartido clases, cursos, seminarios y conferencias en universidades de más de una decena de países. Dirigió varias publicaciones y editoriales nacionales en Cuba y trabajó por varios años en la Casa del Festival Internacional del Nuevo Cine Latinoamericano, del que fue asesor y director. Son de su autoría, entre otros libros, La verdad no se ensaya. Cuba: el socialismo y la democracia (Editorial Caminos, La Habana, 2012) y Estado, participación y representación políticas en Cuba (CLACSO, Buenos Aires, 2011).
-    
-    [](https://jcguanche.wordpress.com)
-    
--   ![](/wp-content/uploads/2021/03/Foto-Ailynn-300x300-1.jpg)
-    
-    ![](/wp-content/uploads/2021/03/Foto-Ailynn-300x300-1.jpg)
-    
-    [Ailynn Torres Santana](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/ailynn-torres-santana/)
-    
-    Académica y militante feminista. Es investigadora del International Research Group on Authoritarianism and Counter-Strategies (IRGAC) de la Fundación Rosa Luxemburgo e investigadora asociada de FLACSO Ecuador. Forma parte del Consejo Editorial de la revista Cuban Studies (Universidad de Harvard) y del Consejo de Redacción de la Revista Sin Permiso (Barcelona).
+_[Tomado del blog del autor](https://jcguanche.wordpress.com/)_

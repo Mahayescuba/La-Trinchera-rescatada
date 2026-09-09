@@ -3,7 +3,7 @@ title: "Primera instancia"
 date: "2020-06-30T00:28:05+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/06/Greet-Katelaers.jpg"
+image: ""
 ---
 Primera instancia.
 
@@ -51,11 +51,3 @@ En el final de la tierra La lluvia en los cristales La mano en el sexo
 De santificar la casa Con los ladrillos expuestos De los troncos torcidos  
 De traicionar los sueños De balear los abismos Y solventar los miedos  
 Desgajar los inconformes Recomponer el precio Hoy puede ser ese día El del viejo himno huérfano El que cantamos los frustrados Antes de ofrecer el pecho
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Ana Barnes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/ana-barnes/)

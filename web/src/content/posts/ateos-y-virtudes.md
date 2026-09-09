@@ -1,9 +1,9 @@
 ---
-title: "Los ateos también pueden ser virtuosos"
+title: "De cómo un filósofo hugonote comprendió que los ateos pueden ser virtuosos"
 date: "2019-05-09T06:09:11+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/05/van-Eick-canon_dtl2-1.jpg"
+image: ""
 ---
 ateos y moral.
 
@@ -41,15 +41,3 @@ En un final, esas visiones cristianas no difieren de lo que los ateos creen acer
 De acuerdo al filósofo canadiense [Charles Taylor](https://es.wikipedia.org/wiki/Charles_Taylor_\(fil%C3%B3sofo\)), nuestra época se volvió secular cuando la creencia en Dios se convirtió en una opción entre muchas, y cuando se vio que la opción teísta no era la más fácil para desposar cuando teorizamos acerca de la moral o la política. A través de su reflexiones por tres décadas sobre el ateísmo, Bayle demostró que hacer descansar la moral en la teología no era ni necesario, ni ventajoso. Por esa razón, Bayle merece mucho del crédito por la secularización de la ética.
 
 **Tomado de AEO**N
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

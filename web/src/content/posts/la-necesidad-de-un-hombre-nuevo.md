@@ -3,7 +3,7 @@ title: "La necesidad de un “hombre nuevo”"
 date: "2018-06-25T14:09:17+00:00"
 author: "René Portuondo"
 category: "Marxismo en Cuba"
-image: "/wp-content/uploads/2018/06/foto78.jpeg"
+image: ""
 ---
 _“Y ha sido por no comprender la necesidad de la creación del hombre nuevo, que no sea el que represente las ideas del siglo XIX, pero tampoco las de nuestro siglo decadente y morboso. El hombre del siglo XXI es el que debemos crear, aunque todavía es una aspiración subjetiva y no sistematizada.”_
 
@@ -32,15 +32,3 @@ El hombre que es producido por sus circunstancias solo es consciente de la trasf
 El Che era firme defensor de ese hombre nuevo, de ese hombre socialista del siglo XXI. A ese hombre no lo encontró en sus viajes por la Unión Soviética, ni por la deslumbrante RDA, ni la disidente Yugoslavia. Era el hombre que esperaba que surgiera en una Cuba socialista, no viciada por el veneno que ya comenzaba a infestar a aquellas revoluciones por los resultados de una incorrecta aplicación de la lógica de la vanguardia.
 
 Pensar en el hombre nuevo sigue siendo pensar en crear las condiciones que permitan su reproducción.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

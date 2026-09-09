@@ -3,7 +3,7 @@ title: "Kubilete"
 date: "2019-05-16T20:25:25+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/05/IMG_20190516_142407.jpg"
+image: ""
 ---
 kubilete. 
 
@@ -21,13 +21,3 @@ Las jevitas que se quieren, tienen derecho al matrimonio. Los negros son patrimo
 La carabina se puede, siempre que puedas jugar, pero el punto en este juego todo lo quiere controlar. Cuba debe gritar, no al [full de puntos](http://cubilete.pbworks.com/w/page/7712379/Las%20Reglas#:~:text=Las%20Reglas%20del%20Cubilete&text=El%20jugador%20que%20%22pone%20tiro,m%C3%A1s%20dif%C3%ADcil%20de%20%22matar%22.&text=Si%20no%20se%20logra%20Carabina,la%20tirada%20de%20m%C3%A1s%20valor.), para ganar.
 
 kubilete kubilete
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    [Anckla](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/anckla/)
-    
-    [](https://www.amazon.com/s?i=digital-text&rh=p_27%3AAnckla+Almirante+&s=relevancerank&language=es&text=Anckla+Almirante+&ref=dp_byline_sr_ebooks_1)

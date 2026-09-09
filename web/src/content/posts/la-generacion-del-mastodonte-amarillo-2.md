@@ -3,7 +3,7 @@ title: "La generación del Mastodonte Amarillo"
 date: "2018-11-29T15:44:05+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/11/images.jpg"
+image: ""
 ---
 la generación del mastodonte amarillo.
 
@@ -32,15 +32,3 @@ no existimos en este tiempo, y somos, más que útopicos, ridículos.
 Somos una generación sin luces que le teme a su  
 Somos la generación nada, la generación oveja, la generación vacía.  
 Somos la generacíón, del Mastodonte Amarillo…
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

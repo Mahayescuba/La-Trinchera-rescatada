@@ -1,5 +1,5 @@
 ---
-title: "iglesia y tolerancia"
+title: "La iglesia es de todos"
 date: "2020-03-04T04:55:30+00:00"
 author: "Julio Pernús"
 category: "Política en Cuba"
@@ -14,15 +14,3 @@ Habana. A pesar de sus diferencias ideológicas, ambos trataban de aportar lo me
 tenían en común el deseo de hacer el bien. El cardenal Jaime los saludaba y conversaba con los dos por igual, aunque quizás esas amistades le pudieran costar ciertas miradas incómodas. Con esa disposición al diálogo, refrendaba el criterio de que la Iglesia es de todos.
 
 [Otros textos del autor](/una-luz-en-la-oscuridad/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Heredero"
 date: "2019-12-01T00:18:06+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/12/IMG_20191204_011239_161.jpg"
+image: ""
 ---
 VIH. 
 
@@ -23,16 +23,4 @@ Por unos instantes el silencio pareció cortar el aliento de todos los que está
 Luego supe que la discusión, cada vez más subida de tono, siguió por varios días en los pasillos. A Tomás llegaron a bautizarlo con apellidos de tan siniestra recordación como Hitler, Stalin, Truman, o Torquemada. Asumía ribetes dramáticos cuando lo apodaban Tomás Maltús, castellanización liberal del nombre del célebre economista. Era obvio que aquel muchacho, quien hasta entonces se había mostrado sensible y sensato, encontró en la retrógrada teoría una justificación a su real modelo de pensamiento. Defendía a ultranza el criterio de que el sida había surgido por una necesidad de reordenamiento poblacional. Decía que era inútil, por tanto, usar protección en las prácticas sexuales: cual guadaña de la contemporaneidad, el sida estaba llamado a escoger a los más débiles, en una suerte de limpieza demográfica de donde emergerían saludables los individuos más fuertes.  
 Tomás había devenido una caricatura postmoderna y tropicalizada de su tocayo británico nacido en el siglo XVIII. Y aun cuando nuestra relación alumno-profesora continuó de manera afable, según correspondía, no niego que en el orden personal los méritos del otrora querido discípulo se depreciaron ante mis ojos y me cuestionaba la razón de su insólita conducta. Por eso, la solicitud de Tomás me tomó por sorpresa aquella fría tarde de febrero, en medio de la paz de la biblioteca. Dispuesta a escucharlo, le pedí que se sentara a mi lado. Con la cabeza baja, me susurró apenas: -Mi novia está embarazada… dio positiva al VIH… ¿usted cree que el bebé pueda salvarse, profesora?
 
-VIH. . VIH. 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+VIH. . VIH.

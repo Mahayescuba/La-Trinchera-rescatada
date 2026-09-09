@@ -3,7 +3,7 @@ title: "Plan de la calle"
 date: "2019-12-03T06:22:33+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/12/IMG_20191204_011407_003.jpg#038;ssl=1"
+image: ""
 ---
 sociedad cubana. 
 
@@ -20,15 +20,3 @@ En pocos días comienza el conteo regresivo de diez años para llegar en el 2030
 El problema, compañero Canel, no estriba en que esté de moda dar recetas, sino en que estas solo puedan facilitarlas quienes posean firma autorizada.
 
 sociedad cubana sociedad cubana sociedad cubana
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

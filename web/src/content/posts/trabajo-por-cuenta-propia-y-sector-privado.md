@@ -1,9 +1,9 @@
 ---
-title: "trabajo por cuenta propia y sector privado La Trinchera"
+title: "Cuenta propia o privado"
 date: "2018-05-03T17:20:39+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Economía Política"
-image: "/wp-content/uploads/2018/05/Bob-Rauschenberg-.jpg"
+image: ""
 ---
 Relato García Márquez, que los [Buendía](https://es.wikipedia.org/wiki/Cien_años_de_soledad) cuando perdieron la memoria pusieron a las cosas un papel con su nombre para recordarlo. En la Cuba de hoy todavía hay cosas que no llamamos por su nombre. ¿Será necesario que nos acerquemos a Macondo y tengamos que pegarle a cada una también un papel?
 
@@ -22,17 +22,3 @@ Es necesaria hacer una distinción: la del cuentapropista del privado. Para sorp
 ¿No es el dueño de un bar, restaurante u otros negocios un dueño de medios de producción que contrata a otro hombre que no los posee? Yo lo veo claro, y ese dueño, no escapa de la lógica de Marx y es también, un privado. Él es diferente de ese pequeño productor que saco su licencia y ejerce (quizá junto a su familia) un pequeño negocio sin contratar fuerza de trabajo. El cuentapropismo está sirviendo de disfraz al florecimiento de la empresa privada capitalista.
 
 No digo que sea mala la propiedad privada, eso es un debate estéril. Lo que hay que tener en cuenta es esa diferenciación, y reconocer sin miedo alguno, la existencia de esa propiedad privada en nuestra sociedad. He podido apreciar en muchos, incluso colaboradores de LJC, la confusión mencionada. Si no conocemos lo que realmente tenemos, no sabremos actuar en coherencia con la realidad. Si es privada, dejémonos de eufemismos y llamémosle así sin más. Tal vez no nos haga falta tener que pegar papeles a las cosas con sus nombres.
-
-[Otro texto del autor](/economia-politica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

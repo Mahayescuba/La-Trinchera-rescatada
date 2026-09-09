@@ -3,7 +3,7 @@ title: "Inversión y créditos bancarios en el sector privado"
 date: "2019-03-15T05:31:38+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2019/03/PicsArt_03-15-01.28.27.jpg"
+image: ""
 ---
 sector privado en Cuba. 
 
@@ -21,15 +21,3 @@ En estos momentos queda claro entonces que una de las cuestiones fundamental que
 Pero la existencia de dichos ahorros por sí sola no constituye un elemento definitivo, más allá de los mismos sería necesario la creación un entorno institucional adecuado en donde los agentes de la economía privada logren crear vínculos reales con dicho sector bancario. En la creación de dicho entorno institucional entraría entre otros aspectos la promulgación de una “[ley de empresas](http://scielo.sld.cu/pdf/cofin/v13n1/2073-6061-cofin-13-01-e02.pdf)”, así como un reglamento o decreto-ley que regule los procedimientos específicos que condicionarán dicho vínculo entre empresas del sector privado y el sector bancario. Dando la posibilidad de convertir ya no a un sujeto natural, sino a una organización empresarial (una empresa pequeña que puede ir desde un restaurante familiar hasta un hostal de varias habitaciones), un sujeto jurídico, en receptora de un crédito bancario, en donde deberá quedar bien especificado los destinos y la naturaleza del mismo (si es para realizar inversiones o como créditos de corto plazo para su actividad comercial). Otro de los aspectos importantes de este proceso pasa por aumentar la cultura crediticia de los agentes privados de la economía, que logren ver a la banca nacional como un aliado capaz de potenciar sus esfuerzos.  
 Convertir al sector bancario nacional en la fuente fundamental de financiamiento del sector privado nacional y enlazar al mismo de una manera coherente dentro de la matriz productiva nacional, encaminando y potenciando (con estímulos tanto fiscales como bancarios) a aquellas inversiones que se inserten en el esquema productivo del país en una visión a largo plazo. Un ejemplo podría ser el establecimiento de un crédito especial para la remodelación de viviendas con destino a casas de renta u hostales, el mismo estaría otorgado a menores tasas de interés dado que podría ser una estrategia del país potenciar el desarrollo de dicho sector. En estas condiciones se estimula la inversión, el crecimiento de los negocios y del tejido productivo nacional, así como se logra el objetivo fundamental, en mi opinión, de desvincular de préstamos externos el crecimiento de un sector que cada vez toma más peso en la producción nacional.  
 Si la apuesta fue por el sector privado, con la que cada cual puede coincidir o no, pero en definitiva es lo que hay, entonces al menos tratemos de hacerlo bien, y no convertir a dicho sector en un lastre más para la economía.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "Los tristes científicos soviéticos - Una valoración desde la nostalgia"
+title: "Los tristes científicos soviéticos"
 date: "2018-09-26T11:13:42+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2018/09/18lrxbbuhd32tjpg.jpg"
+image: ""
 ---
 Los tristes científicos soviéticos, los de las ciencias sociales, tuvieron que escribir para validar un discurso político.
 
@@ -25,15 +25,3 @@ Hubo cazería de brujas. Lo sufrió psicoanálisis, porque su postura respecto a
 
 ¡El marxismo cómo sufrió! Tanto que aun no se recupera del manualismo que se le enquistó.  
 Imagino a unos tristes científicos soviéticos, porque la teoría no hacía teoría.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

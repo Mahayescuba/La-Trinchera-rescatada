@@ -3,7 +3,7 @@ title: "No doblo la rodilla ante ningún mortal"
 date: "2019-04-21T20:42:22+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/04/PicsArt_04-22-02.16.23-1.jpg"
+image: ""
 ---
 Hacerme esta pregunta requirió una respuesta de lecturas variadas y el José María Vargas Vila que descubría no era el que había formado en mi conciencia a lo largo de los años.
 
@@ -19,17 +19,3 @@ Volví a interrogarme cómo sería posible que José Martí, un ser que rozaba l
 Nacido en la Confederación Granadina en 1860, desde joven, la defensa por la libertad individual fue una de sus causas beli a lo largo de su vida. Ejerció el magisterio en varias ciudades de Colombia, labor que abandonó para combatir del lado liberal durante la guerra civil de la época. Exiliado en Venezuela debido a los enfrentamientos declarados con el gobierno conservador de Rafael Núñez, su labor periodística comenzó a despuntar al fundar y dirigir las revistas _Eco Andino_ y _Los Refractarios_. Expulsado también de Venezuela parte hacia Nueva York en 1891 donde conoce a Martí y continúa su labor política e intelectual redactando artículos periodísticos además de fundar la _Revista Ilustrada Hispanoamericana._  
 Nombrado por el presidente ecuatoriano Eloy Alfaro embajador en Roma, su postura anticlerical fue una de sus más fervientes posiciones, cuando expresa al Papa mismo que él no se arrodillaba ante ningún mortal, y menos alguien que representaba una hegemonía tan autocrática como el clero de entonces. Excomulgado en el año inaugural del siglo XX por su novela “Ibis”, noticia recibió con sumo agrado. Declarado persona no grata en Estados Unidos por su libro “Ante los bárbaros” en 1903, el destierro de tierra ajena volvía a ser su compañero. Terminó residiendo definitivamente en Barcelona, donde continúo su obra literaria y política. Anarquista declarado, pero sobre todo latinoamericano, Vargas Vilas fue un hombre de polémicas continuas, pagando el precio de su pensamiento con constantes exilios.  
 ¿Puede un hombre así ser inmortal en la historia de un continente? ¿El mito popular ha superado la realidad histórica? Al final somos los seres humanos quienes construimos la historia a nuestra conveniencia, pero el pasado continúa siendo el portador de la verdad.Sea como fuere, ha llegado hasta nuestros días un hombre que se mantiene de pie con la rodilla indoblegable defendiendo su verdad.
-
-[Otro texto del autor](/onirica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

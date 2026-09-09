@@ -1,9 +1,9 @@
 ---
-title: "Fidel y Martí La Trinchera Miguel Alejandro Hayes Reflexión"
+title: "Martí, y Fidel también"
 date: "2018-04-18T16:15:11+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2018/04/martidibujado.x55124.jpg"
+image: ""
 ---
 **[Por:](_wp_link_placeholder) [Miguel A](_wp_link_placeholder)lejandro Hayes Martínez**
 
@@ -32,15 +32,3 @@ Si bien la figura de Martí ha acogido siempre a personas de intelecto, buenos s
 Ya habido en nuestra historia momentos donde la figura de Martí ha tenido que ser rescatado del discurso de los oportunistas y limpiarlo de los politiqueros. Fidel fue uno de los que más hizo por eso, y rescató al Apóstol.
 
 Parece que la historia nunca acaba. Hoy podría ser una tarea de revolucionarios, impedir que se convierta nuestro comandante en bandera de las personas equivocadas. ¡Fijémonos bien en eso!
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

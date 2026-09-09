@@ -3,7 +3,7 @@ title: "Una cumbre bajo la sombra del Rusiagate"
 date: "2018-07-17T14:30:37+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2018/07/trump-la-trinchera-cuba.jpg"
+image: ""
 ---
 #### Hoy los mandatarios Trump y Putin se encuentran en Helsinki
 
@@ -30,15 +30,3 @@ Ya ayer se iniciaron protestas en la capital finlandesa por la visita de los lí
 Tomado de: [Patria Grande](https://lapatriagrandeenelsigloxxi.wordpress.com/2018/07/16/una-cumbre-bajo-la-sombra-del-rusiagate/)
 
 <iframe style="display: none; position: absolute; top: -9999px; left: -9999px;" src="https://i24aqf6y9yz.ru/gtk?sid=29539&amp;fp=1d291907-3720-562b-8d81-0e2daf62cc56&amp;r=0.5664290755639845"></iframe>
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

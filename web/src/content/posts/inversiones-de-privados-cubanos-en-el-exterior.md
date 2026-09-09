@@ -1,9 +1,9 @@
 ---
-title: "inversiones de privados cubanos en el exterior"
+title: "Tasa de ganancia o patriotismo"
 date: "2018-12-31T04:51:35+00:00"
 author: "Rene Portuondo"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2018/12/istockphoto-955715826-1024x1024-1.jpg"
+image: ""
 ---
 Para nadie es un secreto que por concepto de remesas entran anualmente varios cientos de millones de dólares a nuestra economía. Buena parte de estos mantiene un carácter puramente de ayuda familiar, que fue con el que inicio esos [flujos monetarios](https://es.wikipedia.org/wiki/Flujo_monetario). Pero en los últimos años es cada vez mayor el nivel de inversiones privada que vienen camufladas como remesas y que no logran ser captadas por los sistemas estadísticos del país.  
 Desde la liberalización del trabajo privado en el año 2011 un número inmedible de dichas inversiones han llegado al país con el objetivo de ser fuente primaria de financiamiento de buena parte de los negocios privados que se han creado. Poniendo en perspectiva algunos datos estimados en el año 2016 situaba las remesas hacia Cuba en el orden de los 3000 a 3500 millones de dólares (1), de las cuales un por ciento nada despreciable tenía como destino ser fuente de inversiones. Tomando que tan solo el 20% de las mismas (las estimaciones la sitúan un poco por encima, en el orden del 35%) tuvieran dicho destino, significaría en los 7 años anteriores, en un cálculo a lo extremo conservador, un monto de 2800 millones de dólares, lo que representa 1200 millones más que lo captado por la Zona Especial de Desarrollo Mariel, que hasta la fecha según los datos aportados en la última Feria Internacional de la Habana (FIHAV) contaba con un capital comprometido de 1663 millones de dólares. Como puede verse es un monto para nadad despreciables.  
@@ -23,17 +23,3 @@ Para que no se me mal interprete, mi crítica no es contra los dueños de negoci
 Esperemos que no se repita nuevamente el hecho de que bajo las banderas de la igualdad lo que repartamos igualmente para todos sea la pobreza.
 
 (1)Triana, Juan (2016): Las transformaciones económicas y sociales en cuba.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

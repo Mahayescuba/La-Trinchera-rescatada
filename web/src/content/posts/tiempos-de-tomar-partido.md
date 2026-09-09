@@ -1,9 +1,9 @@
 ---
-title: "Revolución dentro de la Revolución"
+title: "Tiempos de tomar partido"
 date: "2021-02-04T17:00:00+00:00"
 author: "José Carlos"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/02/Graziano-Locatelli-.jpg"
+image: ""
 ---
 No me gusta opinar demasiado acerca de política en redes y medios de comunicación, sin embargo, estos no son momentos de inmovilismos, son tiempos de tomar partido por la causa que se defiende. Aquí mi opinión, la opinión de un joven cubano, como cualquier otro de esta isla. 
 
@@ -54,13 +54,3 @@ Quedan muchas cosas por hacer, queda un largo camino por recorrer, pero este, po
 No soy muy amante de las consignas, pero no lo podía dejar de escribir, pero es necesario decir que viva Cuba (no la que me dictan desde la derecha resentida desde Miami), que viva esta Cuba que construimos y perfeccionamos nosotros mismos.
 
 ¡Viva la Cuba en Revolución!
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [José Carlos](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-carlos/)
-    
-    Profesor de Historia

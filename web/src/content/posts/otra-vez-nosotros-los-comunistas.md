@@ -3,7 +3,7 @@ title: "Otra vez nosotros: los comunistas"
 date: "2018-03-13T16:15:35+00:00"
 author: "Frank García Hernández"
 category: "Marxismo"
-image: "/wp-content/uploads/2018/03/índice.jpg"
+image: ""
 ---
 Acabo de leer un artículo necesario en LJC: Ser comunista en Cuba. Me nacieron otros apuntes y me parecen urgentes. Por ello decido escribir, otra vez, acerca de nosotros: los comunistas.
 
@@ -32,15 +32,3 @@ Lo absurdo es que algunos comunistas aun hoy, incluso ciertos cubanos, quieran s
 Nosotros, los comunistas que hemos nacido con esa historia detrás de nosotros, antes de lamentarnos por ella, avergonzarnos u ocultarla debemos mostrarla, estudiarla, explicar por qué estos no fueron comunistas, que no entendieron ni a Marx ni a Lenin, que solo querían detentar el poder, o en el mejor de los casos, construir el socialismo, pero con las muy melladas armas del capitalismo.
 
 Tomado de [La Joven Cuba](https://jovencuba.com/2018/03/02/otra-vez-nosotros-los-comunistas/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

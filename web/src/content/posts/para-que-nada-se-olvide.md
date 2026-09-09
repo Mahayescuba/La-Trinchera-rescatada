@@ -3,7 +3,7 @@ title: "Para que nada se olvide"
 date: "2020-08-06T16:00:00+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2020/08/memorial-hiroshima-anniversaire.jpg"
+image: ""
 ---
 Y ahí quedan, frente a nuestra conciencia, las palabras inscritas en el _Memorial de la Paz_ en Hiroshima, para que nada se olvide. 
 
@@ -16,10 +16,6 @@ Cuentan los que la han visitado, que cuando uno se pasea por Hiroshima, las huel
 Como, por ejemplo, la sencilla placa colocada en el hospital _Shima_, reconstruido hoy después de recibir en pleno la primera bomba, lanzada por un bombardero americano B-29, que habían bautizado _Enola Gay_ (por el nombre de la madre del piloto, _Paul Tibbets_). Se cuenta que esta primera bomba explotó casi 600 metros encima de la zona y arrasó con todo lo que había en kilómetros a la redonda, bajo temperaturas imposibles, que oscilaban entre 3000 y 4000 grados Celsius.
 
 O como otra edificación, que aparentemente es solo una ruina, pero tiene el mérito de haber sido la más cercana al epicentro que pudo aguantar en pie, después de que todo el cobre que recubría su armazón en acero se derritiera casi instantáneamente. Los japoneses dudaron mucho tiempo sobre lo que harían con este edificio, para algunos un vestigio demasiado doloroso, pero para otros el símbolo de una supervivencia. Finalmente se impuso la necesidad de recordar que Hiroshima sigue en pie, y el edificio en ruinas es hoy Patrimonio Mundial de la UNESCO.
-
-![](/wp-content/uploads/2020/08/Hiroshima-6-de-agosto-de-1945.jpg)
-
-![](/wp-content/uploads/2020/08/Hiroshima-6-de-agosto-de-1945.jpg)
 
 Hiroshima 6 de agosto de 1945
 
@@ -36,13 +32,3 @@ _“(…) Por la presente, lloramos a todos los fallecidos en el bombardeo atóm
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/primera-instancia/
 
 <iframe class="wpview-sandbox" style="width: 100%; display: block;" frameborder="0" scrolling="no"></iframe>
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

@@ -3,7 +3,7 @@ title: "El turismo jamás va a salvar la economía cubana"
 date: "2019-01-08T06:23:41+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2019/01/OldTownFabrication.jpg"
+image: ""
 ---
 turismo en la economía cubana.
 
@@ -23,15 +23,3 @@ La Habana y Varadero se llenan de luces y de música y abren sus puertas al mund
 Tomado de [Carlos Ávila Villamar](https://medium.com/@neverland89/el-turismo-jam%C3%A1s-va-salvar-la-econom%C3%ADa-cubana-fff5f26bb18f)
 
 turismo en la economía cubana. turismo en la economía cubana. turismo en la economía cubana. turismo en la economía cubana.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "La corrupción en Cuba y algunas de sus aristas (II)"
 date: "2018-08-06T12:35:35+00:00"
 author: "René Portuondo"
 category: "Opinión"
-image: "/wp-content/uploads/2018/08/19622219_10155357031586768_1813015024_n-960x500.jpg"
+image: ""
 ---
 _Algunos robos servían a los obreros como un medio para completar sus ingresos oficiales mediante el desvío de materiales con el fin de intercambiarlos o para segundos trabajo que a menudo incluía el uso privado de medios de producción (…)_
 
@@ -38,13 +38,3 @@ Mientras nos sigamos concentrando en acabar con la corrupción, solo condenando 
 **La corrupción sistémica y socialmente aceptada es el síntoma más claro de la descomposición de un cuerpo político.** Es el primer signo de que las vías institucionales se han desgastado y que la realidad impone nuevos caminos. Cambiar esa realidad es la tarea que debemos trazarnos, antes de cualquier otra, si queremos desterrar algún día de nuestra tierra el dañino fenómeno de la corrupción.
 
 Para ver la [primera parte.](/2018/)
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

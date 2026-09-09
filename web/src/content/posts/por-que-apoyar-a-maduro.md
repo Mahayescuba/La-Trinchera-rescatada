@@ -1,9 +1,9 @@
 ---
-title: "Venezuela y Maduro"
+title: "Por qué apoyo a Maduro"
 date: "2019-02-06T07:24:15+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2019/02/IMG_20190206_021809.jpg"
+image: ""
 ---
 Venezuela Maduro.
 
@@ -52,15 +52,3 @@ Maduro representa las tres cuestiones, la nación, la América nuestra y la auto
 **No importa**
 
 Venezuela Maduro. Venezuela Maduro. Venezuela Maduro.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

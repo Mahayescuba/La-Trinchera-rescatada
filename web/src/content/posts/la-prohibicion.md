@@ -3,7 +3,7 @@ title: "La prohibición"
 date: "2020-03-30T09:30:07+00:00"
 author: "René Fidel González García"
 category: "Onírica"
-image: "/wp-content/uploads/2020/03/Screenshot_20200329-163605-1.jpg"
+image: ""
 ---
 La prohibición era como una fiebre que recorría minuciosamente el país desde la isla grande hasta el último de los cayos desde hacía muchos años. Su aparicion era súbita. Nadie la decretaba oficialmente pero de acuerdo a la sabiduría popular parecía ser pulsada de frases sacadas de contexto de los dos, o tres, discursos públicos que se pronunciaban para el país todos los días a excepción de algunos fines de semana, y que luego eran retrasmitidos, diseccionados y estudiados prolijamente a lo largo de los meses en una especie de plan infinito minuciosamente organizado para que fueran coherentes entre todos cada uno de ellos.
 
@@ -48,15 +48,3 @@ Podía, en efecto, dañar a todos y respetar a algunos sin ninguna racionalidad 
 No era de extrañar por eso que muy pocos se enteraran que en aquellos años un brote de la prohibición largamente incubado había afectado a los intelectuales del país, salpicandolos como un esputo descomunal e implacable por fábricas, almacenes y empleos que reunían la doble condición de anónimos y anodinos, o sumiendo, a los casos más graves e intratables, en la locura del incivil extrañamiento en sus casas atestadas de libros y muebles viejos, la muerte prematura e infantil por enfermedades curables como el hastío, o el cinismo de creerse más grandes que el país, sin darse cuenta, o desdeñando por pura desesperación, que su condición de afectados por la prohibición en una tierra que confiaba de los intelectuales sólo después de muertos, era una especie de lotería cantada a la fama y el enaltecimiento público que unos pocos de ellos alcanzarían por turnos imprevisibles, si tenían la paciencia de envejecer domesticados e inermes, oficialmente felices e incondicionales.
 
 ( La prohibición. Fragmento. )
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "Marcha orgullo gay Cuba 2019"
+title: "Lo irrenunciable"
 date: "2019-05-20T06:42:17+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/05/IMG-20190519-WA0000.jpg"
+image: ""
 ---
 marcha orgullo gay cuba 2019.
 
@@ -74,16 +74,4 @@ La Conga de la Diversidad fue una conquista, y suspenderla este año, un retroce
 
 Espero que la próxima vez que alguien decida suspender la Conga/marcha, y otros insistan en hacerla por sí mismos, aparezcan de inmediato los permisos. Porque si estas anécdotas que aquí les narro reflejan la mentalidad de un director de Vocacional, de unos teóricos jurídicos de la Universidad Insigne de Cuba, y de unos estudiantes letrados ¿que quedará entonces para esos coroneles que se pararon en Prado, intransigentes, a decir no, no, no, como siempre? No me lo imagino: sé cómo piensan. En Derecho también estudiaron sus hijos homosexuales, abiertos o no. No me lo contaron: dormí con ellos y escuché sus amargas lágrimas, los terrores y heridas de sus crueles crianzas. Exhibir con orgullo la sexualidad diversa en Cuba tiene que ser ya un derecho irrenunciable. Si alguien no encuentra otra razón de más peso, piensen entonces que con el único fin de que nunca más, ninguna seño de Círculo Infantil vuelva a forzar a unos padres a llevar a su hijo al psicólogo bigotudo a pintar mamás y papás, por preferir hablar con niñas.
 
-marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019 marcha orgullo gay cuba 2019

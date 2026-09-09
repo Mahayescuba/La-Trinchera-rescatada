@@ -3,7 +3,7 @@ title: "Líneas sobre un activista"
 date: "2019-06-06T22:58:43+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/06/IMG-20190606-WA0011-1.jpg"
+image: ""
 ---
 Comenzando con la transparencia, aclaro que me refiero a Luis Manuel Otero Alcántara. Sí, a ese mismo.
 
@@ -38,15 +38,3 @@ Puntualizo que esto no es una crítica a la oposición, en la cual se encuentran
 No quería que fuera de esta manera, y sé que solo así cobra vida la persona en cuestión, pero era inevitable un tono personal. No violo otra ética que la de los partidismos, la de las transgresiones que violan los pactos silenciosos que se tejen en lo político por juego de interés. Pero mi apuesta no es por un _status_.
 
 En cualquier caso, en esta Cuba de hoy, debatir es un ejercicio revolucionario. No necesariamente espero respuesta a la altura.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

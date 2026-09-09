@@ -3,7 +3,7 @@ title: "Frases antivirales"
 date: "2020-07-08T09:00:29+00:00"
 author: "Jorge Fernández Era"
 category: "Onírica"
-image: "/wp-content/uploads/2020/07/Yenny-Cocq.jpg"
+image: ""
 ---
 Se me ocurrió una y de ahí partió todo. Lo de inventar frases en Facebook no ha sido mi fuerte desde que ando en estos trajines, pero el ejercicio era interesante y fueron surgiendo otras. Creí oportuno aplazar temas urgentes en pos(t) del bien común de vencer la pandemia, y di un descanso a mis artículos de opinión para dedicarme a enunciar, en pocas palabras, el día a día de la cuarentena, colocadas disciplinadamente a las siete de la mañana. Solo me embullé a escribir un poco más cuando mi hijo estuvo ingresado veinte días como sospechoso de la enfermedad, e hice tregua el Día de los Padres.
 
@@ -110,15 +110,3 @@ Mientras caliento motores para algún que otro comentario, les presento, por ord
 \-La cosa no es solo que salgamos de esta, sino por dónde.
 
 \-En ensayo clínico vacuna cubana contra las colas. Vaya pidiendo el último.
-
-[Otro texto del autor](/onirica/)
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

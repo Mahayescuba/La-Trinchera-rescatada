@@ -1,5 +1,5 @@
 ---
-title: "Nuevo proteccionismo de Donald Trump"
+title: "El falso espantapájaros del proteccionismo"
 date: "2018-07-06T11:15:36+00:00"
 author: ""
 category: "Opinión"
@@ -20,15 +20,3 @@ Los neoliberales han aprovechado la ocasión con argumentaciones del tipo: Trump
 Al erigir la palabra “proteccionismo” al estatus de enemigo público número uno y al limitarla a las medidas unilaterales de tasación del acero y del aluminio implementadas por Trump, que más tarde se extendieron a otros frentes, los neoliberales tienen un objetivo adicional: disimular la posibilidad de formas de protección muy diversas, pero que subordinan todas ellas los intercambios comerciales al respeto de normas sociales y medioambientales. No faltan propuestas de formas de proteccionismo solidario o altruista, ya sea a nivel mundial, regional o nacional. Son estas las que deberían movilizar las mentes, y no solo la crítica –demasiado reductora para ser intelectualmente honesta– del _America First_ .
 
 Tomado de [Rebelión](http://www.rebelion.org/noticia.php?id=243697&titular=el-falso-espantap%E1jaros-del-proteccionismo-)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

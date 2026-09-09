@@ -1,9 +1,9 @@
 ---
-title: "El centrismo político en Cuba y la realidad que oculta"
+title: "A propósito del centrismo"
 date: "2018-02-13T16:15:24+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/02/centrismo.jpg"
+image: ""
 ---
 Cuando ocurrió el _boom_ del debate acerca del centrismo, aún no me encontraba inmerso en escribir y colaborar en un blog. Prefería mantenerme al margen de ese asunto y solo compartir el tema con algunos amigos y compañeros a nivel de pasillo. Sin embargo hoy, no puede evitar exponer parte  de las ideas surgidas en esos días.
 
@@ -22,15 +22,3 @@ Lo anterior quiere decir que hay determinadas condiciones sociales (sostenidas o
 Sé que hasta aquí los resultados  no son las más alentadoras, pero ¿qué se pretende que pase con el centrismo y que se oculta al no llegar a explicar las condiciones de nuestra sociedad que lo generan? ¿Acaso explicarlo así sería aceptar determinadas formas de realidad social  que determinados grupos no les conviene aceptar su existencia? ¿Realmente se quiere combatir al centrismo o solo crear una imagen de desprestigio alrededor de este?
 
 Reconozco que son muchas preguntas, pero no puedo dejar de hacérmelas al ver la manera en que ha sido tratado el tema. Si de verdad preocupa, hay que pensar hasta encontrar la raíz del problema.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

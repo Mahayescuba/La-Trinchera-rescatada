@@ -1,9 +1,9 @@
 ---
-title: "Roberto Estereotipos y feminismo"
+title: "Roberto"
 date: "2020-09-06T09:30:45+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/09/maria-rita-paper-sculpture8.jpg"
+image: ""
 ---
 estereotipos caseros y feminismo.
 
@@ -27,14 +27,4 @@ Podría quedarme con las peores imágenes y nada más, pero mi árbol de navidad
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/violacion-en-santiago-de-cuba/
 
-estereotipos caseros y feminismo estereotipos caseros y feminismo 
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    [Elaine Roca](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/elaine-roca/)
-    
-    Graduada de Filosofía y Ciencias de la Religión. Trabaja en Instituto de Filosofía de Cuba. En La Trinchera no escribe de teoría.
+estereotipos caseros y feminismo estereotipos caseros y feminismo

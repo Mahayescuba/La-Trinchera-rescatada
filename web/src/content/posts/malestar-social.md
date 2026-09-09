@@ -3,7 +3,7 @@ title: "M a l e s t a r s o c i a l"
 date: "2019-07-06T18:39:16+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2019/07/IMG_20190629_172724.jpg"
+image: ""
 ---
 Pero desde ese momento fundador, ha quedado rugiendo bajo la civilización aquella utopía arrebata, la cual emerge cada tanto como fuerza social que desbarata el falso universalismo ahistórico oculto en los fundamentos de nuestras sociedades modernas; es el malestar social que aparece como fantasma que recorre el mundo, luego de cada crisis global del sistema económico.
 
@@ -47,15 +47,3 @@ La sociedad de mercado actual ha reemplazado todas nuestras relaciones, instalan
 La desigualdad es otro factor predominante en la gestación del malestar ya que, al desintegrar las relaciones sociales en un escenario de desigualdad, produce proyectos de sociedad diferenciados al interior de una misma sociedad, por el distanciamiento radical entre clases. Para decirlo en términos sencillos, el país se parte en dos, desintegrando el consenso mínimo requerido para el funcionamiento orgánico de una sociedad.
 
 **Edición de La Trinchera. Versión original publicada en** **[Materia Oscura](https://materiaoscura479575237.wordpress.com/2019/05/24/m-a-l-e-s-t-a-r-s-o-c-i-a-l/#more-684)**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

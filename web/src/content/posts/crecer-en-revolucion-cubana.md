@@ -3,7 +3,7 @@ title: "Crecer con la revolución"
 date: "2019-05-07T06:02:50+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/05/PicsArt_05-07-01.47.21.jpg"
+image: ""
 ---
 Crecer con la revolución cubana es una bella experiencia.
 
@@ -56,15 +56,3 @@ Si se pregunta por qué hablo de la escuela, pregúntese cuál es el espacio soc
 El mundo se nos complicó realmente en la Universidad. Y claro que antes se había puesto interesante en las Escuelas al Campo. Así que “suite au prochaine numéro”, como decían los folletines, o vea el próximo capítulo, como dicen los novelones. Que nos tocó protagonizar tremenda novela.
 
 [Siga la historia](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

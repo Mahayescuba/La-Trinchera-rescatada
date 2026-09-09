@@ -3,7 +3,7 @@ title: "La generación desheredada"
 date: "2020-05-13T09:30:15+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/05/Evolve-Ascend-on-Twitter.jpeg"
+image: ""
 ---
 Es una generación vacía, comentan, la generación desheredada.
 
@@ -15,17 +15,3 @@ Es una generación a la que hay que corregirle los problemas ideológicos porque
 No se entiende por qué no comprende con tantos afiches, tantas pancartas, tantos discursos enardecidos, tanto trabajo serio y tanto esfuerzo de los padres preocupados.  
 ¡Ay Dios mío!, dice el padre cansado, ¿qué he hecho yo para merecer esto? si le di una educación y lo llevaba al médico cuando se enfermaba, y le contaba historias de las batallas de los gigantes en el cielo antes de irse a dormir para que supiera batirse con el enemigo. Y ahora, dice el padre entre lágrimas, ¡mira lo que me ha salido! ¿Qué mala influencia, qué vecino retorcido me está llevando a mi hijo por el mal camino?  
 Pareciera que para esta generación los gigantes son como Papá Noel. Está duro el sustento en el país de las hadas, y ahora mismo podemos hacer muy poco con la educación que nos dieron y con una consulta gratis en el psicólogo. Pero les prometemos que nos leeremos todos los libros que nos regalan, cuando tengamos tiempo para sentarnos a recordar historias, luego de que le ganemos la batalla a la incertidumbre del día a día, a las colas, al sol, al miedo, a la dependencia, a lo poco sustentables que somos, nosotros y ustedes. Porque a pesar de que puedan renegar de los hijos que tienen, sobre nuestras cabezas siempre pesarán las batallas que ustedes ganaron. Y también las que perdieron.
-
-[Otro texto del autor](/onirica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Golpe de Estado"
 date: "2019-05-16T02:36:48+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/05/PicsArt_05-15-10.32.35.jpg"
+image: ""
 ---
 golpe de estado.
 
@@ -55,15 +55,3 @@ y en nuestra libertad.
 entonces has de esperar.  
 \-Y yo quiero entregarme toda,  
 Solos tú y yo, sin nadie más.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

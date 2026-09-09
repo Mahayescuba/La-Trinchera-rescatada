@@ -3,7 +3,7 @@ title: "Sobre el intento de asesinato de Marx"
 date: "2018-05-24T12:15:23+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2018/05/la-cuestic3b3n-de-la-c3a9tica-en-marx1.jpg"
+image: ""
 ---
 Reseña _Karl Marx. Ilusión y grandeza_, de Gareth Stedman Jones
 
@@ -84,15 +84,3 @@ El lector de esta biografía aprenderá sobre muchas de las ilusiones de Marx: s
 \[8\] Stedman Jones, “Determinist Fix,” 32-33. \[9\]. Gareth Stedman Jones, “History and Theory: An English Story,” _Historein_ 3 (2001): 103-24, quotations on 117, 119,122.
 
 Tomado de [Rebelión](http://www.rebelion.org/noticia.php?id=240067)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

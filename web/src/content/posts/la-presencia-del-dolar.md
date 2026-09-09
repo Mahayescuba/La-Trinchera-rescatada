@@ -19,15 +19,3 @@ Lo cierto, es que en la misma medida que se van creando proporciones de cambio a
 Aceptar la realidad que tenemos, sería el primer paso para dar con las soluciones más certeras. Nos dolarizamos en cierta medida. Hay que saberlo.
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-pregunton/
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

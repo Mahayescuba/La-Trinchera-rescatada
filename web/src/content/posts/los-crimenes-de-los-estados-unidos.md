@@ -1,9 +1,9 @@
 ---
-title: "Crímenes Estadounidenses"
+title: "Los crímenes de Estados Unidos"
 date: "2018-08-07T12:00:19+00:00"
 author: ""
 category: "Noticias"
-image: "/wp-content/uploads/2018/08/descarga-1.jpeg"
+image: ""
 ---
 Juntos también redactamos una Declaración Mundial Contra los Crímenes Estadounidenses a la Humanidad, en donde expresamos una condena colectiva…
 
@@ -30,15 +30,3 @@ La efemérides ya cuenta con adhesiones internacionales de las más diversas pro
 **Se ha abierto un camino**. Debemos internacionalizar en todos los continentes esta fecha para crear una herramienta mundial de concientización y acción práctica para combatir la sistemática violación del derecho internacional y los derechos humanos que el gobierno de Estados Unidos perpetra en todo el mundo. También hay que romper el cerco mediático que la prensa oligopólica alza cuando se expresan verdades incómodas para el imperio. Gracias a las redes sociales y a la prensa comprometida e independiente sabemos que será posible realizar esta labor, que pretendemos sea no sólo conmemorativa sino también educativa y organizativa en la búsqueda de una conciencia crítica ante el flagelo que, con sus más de mil bases militares diseminadas por todo el planeta y su gigantesco presupuesto militar, el imperialismo norteamericano produce en todo el mundo. **Este 9 de Agosto en Santa Cruz de la Sierra, con la presencia del presidente Evo Morales, se producirá el lanzamiento internacional de la campaña.**
 
 Tomado de [Página 12](https://www.pagina12.com.ar/132911-los-crimenes-de-estados-unidos)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

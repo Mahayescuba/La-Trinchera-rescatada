@@ -32,15 +32,3 @@ Sin duda en un planeta en que se han alcanzado los límites, se impone no solo l
 Pero de lo dicho se desprende que, a los liberales progresistas, en contraste con los socialistas democráticos, nos cabe aceptar esa necesaria planificación que imponen las circunstancias con otros fines que a aquellos. Debemos proponernos usar la planificación centralizada, no para encerrarnos en este planeta y preparar nuestra convivencia eterna en él, lo cual es un absoluto disparate, sino para concentrar los recursos que nos serían necesarios para repetir la hazaña de Colón, para reabrirnos frente a nosotros los espacios ilimitados que nos habrán de permitir volver a vivir en libertad. Solo que esta vez en aquellos espacios tridimensionales que rodean a nuestro superpoblado apartamento cósmico: la Tierra.  
 Sin duda el Green New Deal, despojado de mucha de la retórica de izquierdas, en específico su propuesta de pasar nuestra economía de la dependencia energética en el petróleo a las energías limpias (una correcta interpretación del Segundo Principio de la Termodinámica nos deja bien claro que toda transformación de energía siempre alterará el equilibrio de nuestro medio, y que por tanto solo hay energías un poco más limpias), es un trato al que inapelablemente deberemos llegar, mientras más rápido, mejor. Pero una más completa solución al problema medioambiental es la de Jeff Bezos: como un primer paso de la conquista espacial, mandar nuestras industrias más allá de nuestra atmósfera, lo más lejos posible.  
 Pero repetimos, es ello solo un primer paso, porque como ya hemos aclarado desde un inicio, no es solucionar el problema ambiental creado por el mismo hombre nuestro principal interés, y ni tan siquiera lo es el crear copias de seguridad de la Humanidad, a lo Elon Musk, ante la casi segura aparición de un evento cataclísmico que la ponga en peligro aquí, en la Tierra. Sino que, primero que nada, lo que nos debe de interesar a los progresistas es recuperar la libertad humana, que es imposible de conservar en las condiciones de una humanidad encerrada en un planeta en el que ya no se pueda crecer en todos los sentidos y modos habidos, y por haber.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

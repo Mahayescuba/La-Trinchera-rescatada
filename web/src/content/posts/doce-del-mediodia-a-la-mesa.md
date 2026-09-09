@@ -3,7 +3,7 @@ title: "Doce del mediodía a la mesa"
 date: "2020-05-30T18:18:35+00:00"
 author: "Silvia Oliva"
 category: "Onírica"
-image: "/wp-content/uploads/2020/05/IMG_20200530_141732.jpg"
+image: ""
 ---
 Puedo sentarme a la mesa  
 y sin probar bocado  
@@ -57,15 +57,3 @@ y comenzar mi discurso en el punto de inicio.
 [Pinar del Río](https://es.wikipedia.org/wiki/Pinar_del_R%C3%ADo), 2010
 
 Pinar del Río es la capital del municipio y de [la provincia con igual nombre](https://es.wikipedia.org/wiki/Provincia_de_Pinar_del_R%C3%ADo "Provincia de Pinar del Río"). Situada en la llanura sur de la [provincia de Pinar del Río](https://es.wikipedia.org/wiki/Provincia_de_Pinar_del_R%C3%ADo "Provincia de Pinar del Río"), a orillas del río Guamá. Su nombre se atribuye a la existencia de un pinar junto a las márgenes del río Guamá, en el sitio donde se asentó. Antiguamente se le conoció como Nueva Filipinas.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

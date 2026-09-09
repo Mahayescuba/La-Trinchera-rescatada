@@ -88,13 +88,3 @@ Aspiramos a la mejor comunicación con nuestra emigración en Estados Unidos y a
 \*Texto publicado en La pupila insomne el 23 de junio de 2020
 
 emigración cubana emigración cubana emigración cubana emigración cubana emigración cubana emigración cubana emigración cubana emigración cubana
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

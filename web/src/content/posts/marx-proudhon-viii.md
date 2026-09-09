@@ -1,9 +1,9 @@
 ---
-title: "Marx y Proudhon"
+title: "Marx+Proudhon (VIII)"
 date: "2018-12-02T20:16:57+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2018/09/proudhon.jpg"
+image: ""
 ---
 Marx y Proudhon.
 
@@ -15,15 +15,3 @@ Lo reaccionario en la ideología de Proudhon está en su defensa de la familia t
 Incluso, este sectarismo que verificamos en Proudhon, circunscripto a la tradición francesa de la [ilustración](https://es.wikipedia.org/wiki/Ilustraci%C3%B3n), también podemos verlo en Marx, que a pesar de su esfuerzo por ‘objetivar’ sus postulados, anclándolos en una concepción ‘universal’ de la historia, peco de una concepción euro-céntrica de la revolución. Esto está relacionado con la información con que se nutre la percepción, tanto la información histórica, en sí misma, como del soporte técnico con que se sustenta esa información. El diario del lunes siempre contribuye a la mejora del análisis.  
 Lo que expresa la posición de Proudhon es el apego a la tradición revolucionaria exitosa. Conservar la manera en que se consiguieron los grandes logros y centrar la lucha contra las desviaciones, que apartan a los pueblos de la senda virtuosa. Por eso, Proudhon ve a la revoluciones, no como bisagras de la historia, sino, apenas como reformas dentro del devenir social, que responde a una concepción en las ciencias sociales que incluye a los recientes estructuralistas, de que cambia lo exterior, pero la persona siempre es la misma, una concepción que hunde sus raíces en lo más rancio de la teología medieval, es lamentable, que hasta modernos, como Lacan, las asuman. Contrasta con la concepción hegeliana, que si bien la historia avanza desde lo superficial hacia lo profundo, pero que en algún momento modifica la sustancia. Claro, que afirmar esto, en una época donde el terror goza de la máxima presencia, para sostener la estructura de dominación se da de patadas con lo que realmente ocurre. El actual triunfo de la propiedad privada que intensifica la crueldad hasta límites insospechados, introyectándola por todos los intersticios descuidados de la psiquis, llenando hasta los más pequeños resquicios de despolitización. Ocurre también que este impasse que atravesamos está relacionado, con la particularidad de esta época, donde la agresión bélica, solo puede ser derrotada por decididas movilizaciones políticas, que se posicionen desde una perspectiva, socialista, internacionalista y de base trabajadora.  
 Los proudhonianos, como férreos defensores de la igualdad, defienden la igualdad, en términos de sociedad de mercado, a expensas de la libertad y la fraternidad. La pura lucha contra el privilegio, inmersos en la libertad de empresa, donde el crecimiento está fundado en la explotación social de los recursos constituye un ideal reaccionario. Aunque con menos carnadura, la liberación en todos los órdenes avanza con rupturas de las tradiciones y las convenciones en términos utópicos. No obstante, los apegados a viejos privilegios cumplen una función decisiva en la conquista revolucionaria. Por eso, con Marx solo, no alcanza, Proudhon pone el sentimiento cansado de la mayoría de la población, que no lucha por el socialismo, como tal, sino tan solo por recuperar sus viejas satisfacciones. El éxito revolucionario se encargará de catapultarlo hacía un horizonte del cual no podrá volver. Cuando se haya extinguido la propiedad privada, recién estarán dadas las condiciones para eliminar el terror del vínculo social, por lo tanto, del miedo fundante del sentido conservador. Mientras tanto, la creatividad y el desarrollo de personalidad, serán apenas destellos, cuando no, rasgos de privilegio. En definitiva, hoy, el socialismo puede definirse como principio y el fin de la libertad humana. Proudhon encarna los principios y Marx el fin último de la libertad humana. Hay que pensar que todos nuestro esfuerzos está destinados a construir poder político, como un medio conducente a la conquista de la libertad humana. Una libertad humana que además de sus razones históricas, tiene razones ‘vitales’, de supervivencia y de salud.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,5 +1,5 @@
 ---
-title: "Detención arbitraria La Trinchera Por: Smerdiakov"
+title: "Un secreto a voces"
 date: "2021-05-01T21:02:37+00:00"
 author: "Smerdiakov"
 category: "Política en Cuba"
@@ -18,11 +18,3 @@ He visto algunos defensores del gobierno utilizar el argumento de “la oposici�
 Pero la situación social de Cuba hace que sea prácticamente imposible no preocuparse a diario. Enajenarse de la metedura de pata pantagruélica de la inversión hotelera, enajenarse de la gran estafa de los pesos convertibles y de las tiendas en dólares sin que sea legal comprar dólares, enajenarse del desastre agrícola, enajenarse de las personas que se han quedado sin medicamentos, enajenarse de los edificios que literalmente sea caen, enajenarse de las colas, enajenarse de la voz insoportable y omnipresente que dice mentiras en la televisión, enajenarse de la corrupción, enajenarse de un servicio militar innecesario (que propusieron que se extendiera a las mujeres), enajenarse de la falta de trabajo, enajenarse de la mediocridad, enajenarse de la vejez y la muerte, ya no son opciones disponibles, incluso si uno las deseara. El gobierno está desesperado porque se encuentra en una situación inédita: sabe cómo intimidar a personas aisladas, cómo manipular la vista pública, cómo jugar con los intereses personales. Pero no sabe cómo intimidar a multitudes, ni sabe cómo intimidar a personas sin nada que perder. El gobierno carece de carisma, de inteligencia y de recursos. Tengo miedo de que, viéndose acorralado, se atreva a usar la violencia que no ha usado nunca, y eso solo provoque una violencia y un caos mucho mayor.
 
 Yo _sé_ muy bien que hay intereses en los Estados Unidos que saldrían ganando con la violencia y el caos, y también intereses dentro de Cuba, pero en última instancia, la responsabilidad por esa violencia seguirá siendo del gobierno. Es una situación semejante a lo que sucede con los derechos humanos: está claro que se usan como una excusa para mantener el bloqueo, pero el gobierno es el que decide cada año seguirlos pisoteando, aún si eso significa volver más difícil el levantamiento del bloqueo. El gobierno es el que prefiere cada año conservar su autoridad antes que hacer todo lo posible por mejorar la vida de la gente. Nada que disminuya su autoridad se negocia. Todo se negocia, incluso las medidas que antes habrían sido consideradas desleales: el uso de semillas genéticamente modificadas, la dolarización, la apertura a la propiedad privada y al capital extranjero, lo que no se negocia es la autoridad política, disfrazada de soberanía. Es un secreto a voces. Todos lo saben. Los gobernantes lo saben. Aquí, cobardemente, sin usar mi nombre siquiera, pido al gobierno cubano prevenir un baño de sangre.
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Smerdiakov](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/smerdiakov/)

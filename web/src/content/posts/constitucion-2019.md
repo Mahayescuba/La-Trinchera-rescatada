@@ -20,13 +20,3 @@ Se puede tener la tentación de intentar burlar mediante una matriz comunicacion
 Los derechos van a ser defendidos frente a su conculcación y la impunidad, frente a la arbitrariedad y las relaciones endogámicas de élites administrativas, o de cualquier otro tipo, y con ellos lo será también la Constitución en su calidad de límite al poder, pero también como plataforma de la adquisición de nuevos derechos, espacios y recursos de realización de los proyectos de vida a partir del fortalecimiento de la autonomía y la autodeterminación personal.
 
 Esa defensa, no hay que subestimarlo, aunque es posible sea en un principio un acto individual y quizás frustrante, será fundamentalmente para sus protagonistas un acto de consecuencia política, pero también un ejercicio de valores que detonará y dará sentido y vigencia a las prácticas propias de la identidad ciudadana, también a una cultura política nueva.
-
-[Otro texto del autor](/onirica/)
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/88268534_1616839981788860_4337614805125824512_n.jpg)
-    
-    ![](/wp-content/uploads/2020/12/88268534_1616839981788860_4337614805125824512_n.jpg)
-    
-    [René Fidel González García](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/rene-fidel-gonzalez-garcia/)

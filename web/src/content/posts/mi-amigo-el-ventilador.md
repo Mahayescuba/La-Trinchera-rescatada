@@ -3,7 +3,7 @@ title: "Mi amigo el ventilador"
 date: "2020-08-31T09:30:00+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/08/VALÉRIE-HADIDA-–-RENAISSANCE.jpg"
+image: ""
 ---
 De ventiladores e intimidad. 
 
@@ -67,16 +67,4 @@ Los ventiladores refrescan el sur y de ellos nacen ideas como estas. Ellos son l
 
 Aquí estoy, sin muso, delante de mi ventilador, pensando todo esto para luego irremediablemente escribirlo.
 
-ventiladores e intimidad ventiladores e intimidad ventiladores e intimidad ventiladores e intimidad 
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    [La Trinchera Editor](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/la-trinchera-editor/)
-    
-    La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser una plataforma de debate.
-    
-    [](/la-trinchera/)
+ventiladores e intimidad ventiladores e intimidad ventiladores e intimidad ventiladores e intimidad

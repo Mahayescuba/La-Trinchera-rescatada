@@ -1,5 +1,5 @@
 ---
-title: "Tasas de cambio en Cuba"
+title: "Resetear"
 date: "2020-09-09T09:30:00+00:00"
 author: ""
 category: "Economía en Cuba"
@@ -66,15 +66,3 @@ Incluso, si desde el punto de vista práctico (histórico concreto) se debe busc
 tasas de cambio en Cuba tasas de cambio en Cuba tasas de cambio en Cuba tasas de cambio en Cuba
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/doble-moneda-problema/
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

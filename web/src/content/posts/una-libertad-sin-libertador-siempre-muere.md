@@ -1,9 +1,9 @@
 ---
-title: "La libertad La Trinchera Por: José Repiso Moyano"
+title: "Una libertad sin libertador siempre muere"
 date: "2021-05-21T16:00:00+00:00"
 author: "José Repiso Moyano"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/05/Momo-e-cose.jpg"
+image: ""
 ---
 Cualquier libertad morirá en manos de quien no la sabe siempre liberar o no la sabe siempre proteger. Porque la libertad es, viviendo, algo orgánico, que solo permanece si únicamente vive de verdad por una autodecisión de la vida de cada cual, si lucha de verdad contra las cadenas.
 
@@ -22,11 +22,3 @@ Sin duda es evidente, _lo que más debe valorar un pueblo o una sociedad es qui
 No me cansaré de decir en cualquier momento con una máxima repugnancia que, mientras la libertad se conquista y se trabaja por unos, al lado o cerca se mueven ya otros la van utilizando para vulnerarla, confundirla o falsearla; ¡para venderla!
 
 Pero, ¡”no pasa nada”!, en amor no enturbiado con mentiras, siempre existirán personas buenas o seres humanos con equilibrados principios que a la calle salgan rompiendo cadenas, sí, hablando de la libertad a todos, gritando la brillante o la resplandeciente libertad a todos. Y, así, sin miedo, mirándoles las caras a todos _les gritará libertad_, humildemente, no más, con la grandeza invencible que contiene la dulce y esperanzadora palabra libertad.
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [José Repiso Moyano](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-repiso-moyano/)

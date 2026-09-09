@@ -3,7 +3,7 @@ title: "El voto"
 date: "2019-05-31T18:38:42+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/05/PicsArt_05-31-02.34.39-2.jpg"
+image: ""
 ---
 En Cuba, la democracia también ha sido un referente.
 
@@ -33,15 +33,3 @@ Mirar el presente, nos obliga a someternos al ejercicio comparativo, no con el m
 2\. Jorge Mañach. “El Drama de Cuba”, en: Revista Bohemia. Año 51, no. 2, 11 de enero de 1959 (De la Libertad, 1) Pp, 6-9: 163; 168: 172-175. P. 6.
 
 [Tambien le puede interesar](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "Precios en Cuba"
+title: "¿Controles de precio? Mal camino…"
 date: "2019-08-02T09:32:07+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2019/08/IMG_20190802_052536.jpg"
+image: ""
 ---
 Precios en Cuba.
 
@@ -52,15 +52,3 @@ cualquier opción de desarrollo y prosperidad sostenibles. ¡Mal camino!
 **Tomado del Facebook del autor**
 
 Precios en Cuba Precios en Cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

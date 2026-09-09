@@ -56,15 +56,3 @@ Prieto, A. J. (2008). _Necesitamos dar una batalla contra los modelos coloniales
 **Antonio Gutiérrez Laborit. Licenciado en Filosofía Marxista Leninista por la Universidad de la Habana, profesor de Filosofía en la Universidad de las Ciencias Informáticas. Entre sus publicaciones destacan _David Palmer, Barack_ _Obama y 24 horas__. Realidad o ficción, vidas paralelas_ publicada en la Revista _La Calle del Medio_.**
 
 Tomado de Rebelión
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

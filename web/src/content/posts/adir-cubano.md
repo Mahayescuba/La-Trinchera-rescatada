@@ -1,9 +1,9 @@
 ---
-title: "Adir cubano"
+title: "Adir"
 date: "2020-10-06T09:30:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/10/Jephan-de-Villiers-Nature.jpg"
+image: ""
 ---
 Ese es nuestro adir (cubano). Pero hay que pelear, incluso con cada palabra, con cada gesto y no cejar. De eso se trata hacerlo.
 
@@ -42,15 +42,3 @@ Da igual. La pregunta es otra ¿Cómo será explicarnos sin ellos?
 Ese es nuestro [adir](https://dle.rae.es/adir). Pero hay que pelear, incluso con cada palabra, con cada gesto y no cejar. De eso se trata hacerlo, en Holguín, en Manzanillo, o en cualquier lugar de Cuba.
 
 [Tomado de La Joven Cuba](https://jovencuba.com/2020/10/01/adir/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

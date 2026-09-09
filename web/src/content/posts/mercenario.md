@@ -3,7 +3,7 @@ title: "Mercenario"
 date: "2020-07-12T09:00:00+00:00"
 author: "René Fidel González García"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/07/alberto-giacometti-l-homme-qui-marche-photographies-sculptures-tableaux-oeuvres-art-images-prix-de-vente-record-plus-chers-cheres-millions-classement-top-liste-prix-eleves.jpg"
+image: ""
 ---
 _Mercenario_ me llamó ante un grupo de representantes de los estudiantes de la carrera de Derecho hace cuatro años un ex Secretario de la UJC de la Universidad de Oriente, para inducirles a firmar una carta prefabricada que allí mismo les leyeron y secretamente enviaron luego a nombre de la FEU al Ministro de la Educación Superior. _Mercenario_ insistió en llamarme cuando algunos de aquellos estudiantes se negaron a firmar la carta espuria.
 
@@ -54,11 +54,3 @@ Esa defensa, no hay que subestimarla, aunque es posible sea en un principio un a
 Es cierto que creer que el enemigo del enemigo es un amigo no tiene que ver con un dilema sino con una contradicción ética esencial cuando se defienden valores e ideas diferentes a los del probable aliado de oportunidad, pero es también cierto que no se puede convivir con la injusticia y pretender ignorar sus causas, acaso porque cuando ello ocurre todo espectador es un cómplice.
 
 Tomado de [La Joven Cuba](https://jovencuba.com/2020/07/07/mercenario/?fbclid=IwAR0y2xCw8-VUn5JOqQfsQ2-6xOuPzbqkjzJKtk_9W6_pRnUV9B65J9-JS_g)
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/88268534_1616839981788860_4337614805125824512_n.jpg)
-    
-    ![](/wp-content/uploads/2020/12/88268534_1616839981788860_4337614805125824512_n.jpg)
-    
-    [René Fidel González García](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/rene-fidel-gonzalez-garcia/)

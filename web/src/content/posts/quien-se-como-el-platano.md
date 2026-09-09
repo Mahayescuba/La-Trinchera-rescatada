@@ -3,7 +3,7 @@ title: "¿Quién se está comiendo el plátano?"
 date: "2019-12-16T15:42:42+00:00"
 author: "Jaco"
 category: "Opinión"
-image: "/wp-content/uploads/2019/12/artwork-art-digitalart-art.jpeg"
+image: ""
 ---
 Algo anda mal cuando se critica la venta de un plátano con cinta y se defiende el [_Registro del Creador_](https://www.gacetaoficial.gob.cu/es/registro-del-creador-audiovisual-y-cinematografico).
 
@@ -17,15 +17,3 @@ Si no encuentras tu lugar, créalo!
 
 ¿El dinero define o no la calidad de la obra?¿Si el dinero no define, por qué todos los artistas no pueden vender?¿Es el valor de la obra la que define su precio? ¿Cómo se condena una obra antes de ser creada? ¿Es la obra, el artista o el poder? ¿La falsedad, el control o la especulación del arte?  
 La sociedad contemporánea está llena de muchos plátanos atados, decisiones sin sentido que se patentizan y se hacen virales sin importar la opinión ni el criterio de otros artistas.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

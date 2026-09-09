@@ -1,5 +1,5 @@
 ---
-title: "El dinero. Algunas consideraciones a partir de la teoría de Marx (II) —"
+title: "El dinero. Algunas consideraciones a partir de la teoría de Marx (II)"
 date: "2018-04-10T12:00:49+00:00"
 author: ""
 category: "Economía Política"
@@ -50,13 +50,3 @@ La teoría de Marx del dinero, permitía exponer cómo esa función se inició e
 1\. Marx, Carlos. El Capital I. México : Siglo XXI, 2002.
 
 2\. Acanda, Jorge Luis. Modernidad y Capitalismo
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

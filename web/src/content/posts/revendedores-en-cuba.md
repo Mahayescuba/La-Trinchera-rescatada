@@ -1,5 +1,5 @@
 ---
-title: "revendedores en Cuba Su versión del problema La Trinchera"
+title: "Su versión del problema"
 date: "2020-07-30T19:17:12+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
@@ -28,15 +28,3 @@ Mientras tanto, el noticiero no nos da la noticia de quiénes son los delincuent
 * * *
 
 [\[1\]](#_ftnref1) De manera informal y a modo chiste, le llamo Tras la huella a la sección del noticiero donde hacen un reportaje sobre delitos.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

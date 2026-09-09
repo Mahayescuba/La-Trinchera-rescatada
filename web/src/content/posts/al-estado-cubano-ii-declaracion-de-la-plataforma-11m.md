@@ -3,7 +3,7 @@ title: "Al Estado cubano: II Declaración de la Plataforma 11M"
 date: "2020-10-05T11:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/10/Jean-Luois-Corby-Encuentro-5.jpg"
+image: ""
 ---
 En días recientes, seis denominaciones cristianas (Convención Bautista de Cuba Occidental, Convención Bautista de Cuba Oriental, Iglesia de la Biblia Abierta en Cuba, Iglesia Evangélica Pentecostal de Cuba Asambleas de Dios, Iglesia Metodista en Cuba y Liga Evangélica de Cuba), la mayoría de ellas pertenecientes a la Alianza de Iglesias Evangélicas Cubanas (AIEC), han publicado en sus perfiles de redes sociales declaraciones oficiales. 
 
@@ -18,10 +18,6 @@ Estos documentos han tenido cuatro objetivos fundamentales: 
     • Oponerse a los derechos de la comunidad LGBTIQ+ cubana.
 
 Las expresiones de odio manifestadas en diversas plataformas sociales por miembros de grupos cristianos fundamentalistas, contra la pastora de la Iglesia de la Comunidad Metropolitana (ICM) Elaine Saralegui y el activista Adiel González, evidencian la urgencia de una ley de culto que regule estas manifestaciones de violencia en el espacio público; en concordancia, además, con las garantías que la Constitución promete a toda la ciudadanía, incluyendo a las personas LGBTIQ+.
-
-![](/wp-content/uploads/2020/10/11M.jpg)
-
-![](/wp-content/uploads/2020/10/11M.jpg)
 
 No es la primera vez que estos grupos cristianos arremeten contra las luchas de activistas por los derechos sexuales; del mismo modo en que disienten de la voluntad política del Estado por la ampliación y reconocimiento de los derechos de las personas LGBTIQ+, mientras descartan los principios de igualdad y no discriminación de la Constitución cubana.
 
@@ -64,15 +60,3 @@ Email:
 [11demayocuba@gmail.com](mailto:11demayocuba@gmail.com)
 
 declaración de la Plataforma 11M declaración de la Plataforma 11M, declaración de la Plataforma 11M
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    [La Trinchera Editor](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/la-trinchera-editor/)
-    
-    La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser una plataforma de debate.
-    
-    [](/la-trinchera/)

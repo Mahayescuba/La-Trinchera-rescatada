@@ -21,15 +21,3 @@ Lo primero que habría que decir es que Venezuela no es socialista, es un país 
 > El llamado “socialismo real” en realidad no fue sino “estalinismo
 
 Por su parte en la URSS lo que ocurrió fue un proceso de degeneración de la revolución al mando de Stalin al que se opusieron miles como [Trotsky](https://es.wikipedia.org/wiki/Le%C3%B3n_Trotski). El llamado “socialismo real” en realidad no fue sino “estalinismo”, un régimen con propiedad nacionalizada de los medios de producción, pero donde una burocracia privilegiada se apoderó del poder sin permitir el desarrollo de la democracia directa. Entonces… ¿qué es y cómo funciona el socialismo?
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

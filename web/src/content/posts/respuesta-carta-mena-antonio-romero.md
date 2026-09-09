@@ -1,5 +1,5 @@
 ---
-title: "Socialismo"
+title: "La importancia de la tautología"
 date: "2019-09-23T04:28:13+00:00"
 author: ""
 category: "Economía Política"
@@ -35,15 +35,3 @@ Por desgracia, esto no es un intercambio teórico. Sin embargo, es peligroso des
 La tautología es bienvenida siempre se que sea útil como punto de partida. Ya eso es algo, pero se necesita ir más allá. El “liberar”, sigue necesitando un _cómo_.
 
 Socialismo socialismo socialismo socialismo socialismo
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Investigador independiente
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

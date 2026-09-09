@@ -1,5 +1,5 @@
 ---
-title: "Lenguaje de la economía. Para quién miras"
+title: "Para quién miras"
 date: "2022-01-11T20:14:59+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Economía Política"
@@ -32,17 +32,3 @@ En cambio, se podría cambiar la concepción cuantitativa de los ciclos de valor
 En ese mundo de la nueva economía, la contabilidad sería solo un medidor de cuánta riqueza social adquirió en el periodo registrado contable una entidad económica, por lo que serviría para valorar o planear, no para jerarquizar. Eso solo sería posible usando el potencial de valorización de las sociedades actuales para reformarse a sí mismas. Para ello, la fuerza política y los consensos podrían apuntar al mecanismo específico de limitación de la expansión cuantitativa del capital, dejando así como único espacio su propia transformación, a la que solo le quedaría una descentralización paulatina.
 
 El _quién_ de una nueva economía somos nosotros. Se trata de construir nuevos rumbos a la valorización de la producción, nuevas formas de pensarlas, pero siempre _valorizando_, porque el bienestar, la armonía con la naturaleza, la capacidad del ser humano de ser libre, no solo debe conquistarse, sino también debe valorizarse, dígase, perfeccionarse. Así, la nueva sociedad debe ser aquella de la economía que valoriza la dignidad de la vida humana y su armonía con la naturaleza.
-
-Lenguaje de la economía. Lenguaje de la economía. Lenguaje de la economía. Lenguaje de la economía. Lenguaje de la economía.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

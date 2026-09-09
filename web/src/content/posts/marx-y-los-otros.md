@@ -1,9 +1,9 @@
 ---
-title: "interpretar a Marx"
+title: "Marx y los otros"
 date: "2021-05-05T16:00:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/05/Ponto-sullarte-.jpg"
+image: ""
 ---
 Confieso que, de los Grundisse, solo he leído la primera mitad; y el tomo segundo del Capital, solo una vez. Aunque he estudiado casi todo lo que me ha caído en las manos sobre Marx; aunque me enfoqué con ajuste a uno de los modos más fieles de interpretar su obra; aunque conozco bien la ironía al más puro estilo del alemán, no puedo citar frases.
 
@@ -34,17 +34,3 @@ Hayes, M. A. (s.f.). Marxismo como totalidad. Recuperado el 12 de 03 de 2020, de
 Ubieta Gómez, E. (14 de 03 de 20). A Marx nadie nunca podrá enterrarlo. Recuperado el 16 de 03 de 2020, de Granma: [granma.cu/cuba/2020-03-14/a-marx-nadie-nunca-podra-enterrarlo](http://granma.cu/cuba/2020-03-14/a-marx-nadie-nunca-podra-enterrarlo)
 
 _Publicado originalmente en Rebelión el 04/04/2020_
-
-interpretar a Marx, interpretar a Marx, interpretar a Marx, interpretar a Marx
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

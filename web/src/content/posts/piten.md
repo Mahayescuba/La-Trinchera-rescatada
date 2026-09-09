@@ -1,5 +1,5 @@
 ---
-title: "Unificación monetaria en Cuba"
+title: "Pitén"
 date: "2020-12-18T17:00:59+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
@@ -26,15 +26,3 @@ Y cuando hablo de rendir cuentas pienso en la Asamblea Nacional que no existe. P
 Tendremos la economía más financiera y menos administrativa que promete el jefe de los lineamientos cuando deje de dirigirse a nosotros con esa manía de ordeno y mando que nos reduce a meros espectadores de un escenario pensado y decidido a costa nuestra. Si hay que rectificar, rectifiquen el error de no tenernos en cuenta, dennos otra opción que no sea la del aplauso unánime.
 
 El pitén está reñido, Alejandro. Hay jóvenes sentados en el contén y pidiendo.
-
-unificación monetaria en Cuba, unificación monetaria en Cuba, unificación monetaria en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

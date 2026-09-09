@@ -3,7 +3,7 @@ title: "Para nuestros amigos blancos que quieren contribuir"
 date: "2020-06-02T01:06:05+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/06/Art-de-rue.jpg"
+image: ""
 ---
 Ser un aliado requiere que te eduques sobre el racismo sistémico en este país.
 
@@ -39,13 +39,3 @@ A veces, vivir con privilegios puede desilusionarnos y hacernos pensar que vivir
 Creo que el esfuerzo por la justicia y su búsqueda es sagrado. No necesita público y no siempre lo tendrá. Ocurrirá la mayoría de los días de formas no visibles. Puede ser proveer una comida o un refugio. Escuchar, usar tu área de experiencia particular para ayudar a alguien que la necesita y que de otra manera no tendría acceso a ella, pagar la fianza de un manifestante o pagar el alquiler de una familia durante un mes (si tienes los recursos para hacerlo), o marchar junto a las personas marginadas. Puede que no siempre haya una forma práctica y tangible de llevar a cabo este esfuerzo, pero creo que lo sabrás cuando aparezca la oportunidad.
 
 Traducción: Maia Roca
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

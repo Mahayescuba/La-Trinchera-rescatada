@@ -1,9 +1,9 @@
 ---
-title: "Sindicatos y huelgas en Cuba La Trinchera Por Alexandra Torres"
+title: "Otra vez sobre los sindicatos y las huelgas en Cuba: a propósito del proyecto constitucional"
 date: "2018-11-14T12:46:34+00:00"
 author: "Alexandra Torres"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/11/Jephan-De-Villiers.jpg"
+image: ""
 ---
 Es una realidad la pérdida del papel de los sindicatos en la Cuba actual. Sin embargo, han logrado sobrevivir tal y como mencionara René Portuondo en su post [Los sindicatos y las huelgas en el Nuevo Proyecto de Constitución](/politica-en-cuba/).  
 La razón para esta sobrevivencia no ha sido impuesta, sino que deriva de una larga tradición del movimiento sindical en Cuba que atesora memorables jornadas de lucha que le significaron sus mayores conquistas. Desde las pugnas por la abolición de la esclavitud a mediados del siglo XIX, hasta las primeras manifestaciones huelguísticas de los trabajadores reclamando mejor trato económico; pasando por la celebración del Primer Congreso Obrero en una fecha tan temprana como1892, donde se acordó reclamar mediante huelga la implantación de una jornada de trabajo de 8 horas. También la constitución del Partido Popular y del Partido Obrero en 1900 y 1904 respectivamente, representantes de los intereses de los trabajadores. No se pueden dejar de mencionar los acontecimientos ocurridos en 1925 y 1933, entre los que se pueden citar el Segundo y Tercer Congreso Obrero Nacional, ambos en 1925, la fundación de la Confederación Nacional de Obreros de Cuba el 6 de agosto del propio año y la influencia del Gobierno de los Cien Días en 1933 en estas cuestiones. Estos años resultaron esenciales para el fortalecimiento de la clase trabajadora y para la consolidación del movimiento obrero. Y qué decir del reconocimiento constitucional a los sindicatos y del derecho a huelga en 1940.  
@@ -15,15 +15,3 @@ La vigente constitución, en varias ocasiones reformada (1978, 1991 y 2002), no 
 Ahora el texto ha sido despojado de la palabra trabajador, sustituyéndola por la de empleado, los cuales no son sinónimos -al menos jurídicamente hablando- y por tanto el sindicato, quien debería tener la voz cantante, pasa a subordinarse a los designios de un partido-fuerza dirigente superior de la sociedad y el Estado- y a participar su máximo representante, por derecho propio, en las sesiones del Consejo de Ministros (artículo 129, segundo párrafo), sin mayores referencias. De alguna manera quieren insertar al sindicato en la lógica de la disciplina partidista que puede convertirse en un doble racero.  
 Así, el texto nos deja con una ausencia total de referencias a la negociación colectiva y a la huelga mas, cuando la realidad cubana dicta la necesidad de tener en cuenta tales cuestiones; e impide que, desde la constitución se le otorgue al sindicato el papel que tiene que tener, de modo que rescate su funcionalidad y genere nuevamente una conciencia de clase, porque hasta algunos trabajadores se muestran apáticos frente a él.  
 En mi opinión, la constitución se olvidó de que en el socialismo es la clase trabajadora la que tiene el poder, por la que erige el poder y a quien se debe el poder. Si aquí también la pirámide se invierte a mal recaudo queda nuestra nación. Esperemos que esto no sea lo que ocurra.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Salario y corona"
 date: "2019-08-09T05:12:00+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2019/08/IMG-20190807-WA0003.jpg"
+image: ""
 ---
 _Salario en Cuba._
 
@@ -20,15 +20,3 @@ Ahora tenemos más burócratas, es verdad, ¡pero antes teníamos rancheadores! 
 ¿Un aumento salarial es una gran señal? ¿Todo podrá resolverse con un aumento? Pensemos en una idea simple. Durante siglos, las asimetrías resultantes de la manera en que asimilamos nuestra relación con el resto del mundo solo se han perfeccionado. Han cambiando las épocas, las formas de gobierno, incluso los tiempos efectivos de nuestros gobernantes; pero sigue la esencia de los males y las deformaciones que nos impiden ser una economía contenta consigo misma.  
 Nuestra economía y su círculo vicioso no reconfigurarán su fuerza centrípeta por una mera modificación en el monto salarial, más aún cuando esto no abarca las tres cuartas partes de la población laboral activa, y sin todavía situar al salario medio cerca del precio de una canasta básica.  
 Celebro -por lo pronto- por los beneficiados. ¡Se lo merecen! Solo que eso no nos redirecciona el rumbo. La estructura económica, de la que el salario como poder de compra del trabajador va a ser resultado no se ha subvertido, pero eso ya es otra historia.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

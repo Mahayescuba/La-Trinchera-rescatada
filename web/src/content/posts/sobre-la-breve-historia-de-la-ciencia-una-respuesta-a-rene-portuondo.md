@@ -1,9 +1,9 @@
 ---
-title: "Sobre la breve historia de la ciencia —"
+title: "Sobre la breve historia de la ciencia"
 date: "2018-08-27T13:48:24+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2018/08/simbolos-de-la-ciencia-y-recipiente-de-vidrio_1308-4744.jpg"
+image: ""
 ---
 ## En respuesta al artículo “Una breve historia sobre la Ciencia”
 
@@ -24,15 +24,3 @@ El análisis del comportamiento de la ciencia durante el período del capitalism
 Todas estas imperdonables omisiones cobran sentido en los últimos dos párrafos en los que se evidencia que la verdadera tesis del autor no es sobre la ciencia, sino sobre su relación con la ideología. Antes de ir definitivamente a por esta tesis. Me permito hacer un rodeo sobre una consecuencia de la mencionada profesionalización que le hubiera aclarado mucho al autor. Desde que los científicos dejaron de ser aristócratas autodidactas que realizaban sus experimentos en los salones de sus palacios para divertimento suyo y se convirtieron en obreros asalariados más —independientemente del ropaje sedoso que vistan, y de su autopercepción como alguien superior al obrero fabril—, no son realmente libres en su materia de investigación o, incluso, en la naturaleza de sus resultados. En ciencias naturales se manifiesta en el que nadie investiga lo que desea como aquel investigador utópico que se hace preguntas y desnuda el mundo a su antojo; quien financia la ciencia decide de qué esta se ocupa. Esa es la verdadera y única subordinación que ejerce el capital sobre la ciencia: económica. En el mundo de las jóvenes ciencias sociales —nacidas en el siglo XIX—, el poder del capitalismo no solo se manifiesta sobre la región de estudio sino incluso sobre los resultados del estudio. Nadie olvide que la socialización del conocimiento es un momento fundamental del proceso científico, y ese no está en manos de los investigadores, sino del capital. Lo que ocurrió en la URSS es, a su manera, una forma de esto, donde la ciencia no se subordina al capital, pero sí al poder, adoptando la forma de ideología política —con apellido.  
 En cuanto a la relación de la ciencia con las demás formas de la conciencia social ideológicas o no, hablemos un tanto. La idea de supuesta liberación de la ciencia, etc., etc., que se insinúa en el texto no es sino una manifestación del enfoque que en filosofía de la ciencia se conoce como internalismo, el cual posee una imagen de la ciencia como cuerpo que puede y debe mantenerse puro de las influencias sociales. Lo que desconocen siempre los internalistas es la ciencia la hacen científicos —y científicas— que son hombres —y mujeres— concretos que existen en un momento histórico determinado y que en el acto de hacer ciencia no pueden despojar de su mente todas sus otras dimensiones espirituales. El caso paradigmático es el de aquel historiador natural inglés que tuvo antes que Darwin frente a sí todos los datos empíricos que luego a Darwin lo llevarían a enunciar la teoría de la evolución por selección natural; sin embargo, el señor era un ferviente cristiano y ni siquiera consideró tal hipótesis. Otros tantos son los teóricos de la superioridad racial, o los primeros criminólogos que pretendían con la forma del cráneo asociar conductas delictivas. En todos estos casos estamos realmente en presencia de hombres serios, hombres de ciencia, y no rufianes; pero sencilla y llanamente no son solo hombres de ciencia, sino también todo lo demás: religiosos, sujetos morales, racistas, etc. Incluso el infame Lysenko amigo de Stalin cuando enunciaba sus ridículas teorías sobre mejoramiento vegetal contrarias a la genética de Mendel, creía que estaba haciéndole un favor al marxismo. Además, debo agregar que esta permeabilidad de la ciencia por otras esferas de lo social no es siempre perniciosa: montones de investigaciones exitosas han comenzado por sueños y corazonadas que más tienen que ver con la religión que con la ciencia, o producto de una toma de conciencia de un problema social concreto como una enfermedad. Te recuerdo a célebre Oparin o a Pávlov o a Vygotsky, a quienes su militancia filosófica en el marxismo orientó sus esfuerzos investigativos, reconocidos en el mundo entero.  
 La ciencia no puede existir en una torre de marfil por el simple hecho de que la hacen hombres sociales que responden en su actividad, no a un deseo innato de comprender el mundo, sino a una necesidad social de hacerlo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

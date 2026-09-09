@@ -3,7 +3,7 @@ title: "De copas y calendarios"
 date: "2020-07-22T00:00:00+00:00"
 author: ""
 category: "Cultura"
-image: "/wp-content/uploads/2020/07/Qatar-2022-Mundial.jpg"
+image: ""
 ---
 copa mundial de futbol.
 
@@ -15,17 +15,9 @@ Los organizadores han tratado de programar todos los partidos en ese calendario 
 
 Ya para los octavos de final, el calendario se reduce a dos juegos por día, uno en la tarde y otro en la noche. La final está programada para el domingo 18 de diciembre, para terminar con un poco de “normalidad”. Esta fecha, que es además día de fiesta nacional, cierra el mundial en el Lusail Stadium, en el que se esperan ochenta mil asistentes. Este estadio, construido en el centro de una nueva ciudad, imita las formas de las lámparas _fanar_, en homenaje a la más antigua tradición artesanal del Medio Oriente.
 
-![](/wp-content/uploads/2020/07/Lusail-Stadium.jpg)
-
-![](/wp-content/uploads/2020/07/Lusail-Stadium.jpg)
-
 Lusail Stadium
 
 Ahí se entregará el trofeo de la más esperada competencia mundial, cuyo emblema tiene “las formas suaves y ondulantes” de los desiertos de arena de la región en su cifra 8, que además de considerarse el símbolo del infinito, subraya “las innombrables interconexiones” que implica un acontecimiento de esta magnitud, según explican sus diseñadores.
-
-![](/wp-content/uploads/2020/07/qatar-2022-730x410-1.png)
-
-![](/wp-content/uploads/2020/07/qatar-2022-730x410-1.png)
 
 Emblema Qatar 2022
 
@@ -36,13 +28,3 @@ Por supuesto, todo esto queda bien alejado de quienes construyen las ciudades e 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/beisbol-serie/
 
 copa mundial de futbol copa mundial de futbol
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

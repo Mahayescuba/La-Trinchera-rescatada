@@ -1,5 +1,5 @@
 ---
-title: "Libertad individual en Cuba"
+title: "Atisbos al tema de la libertad en el siglo XXI"
 date: "2021-03-14T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
@@ -36,13 +36,3 @@ Y me gustaría cerrar citando -para dirigirme a _mi pueblo_– a un poeta que nu
 1.  Ser bueno es el único modo de ser dichoso. / Ser culto es el único modo de ser libre. / Pero, dentro de lo común de la naturaleza humana, se necesita ser próspero para ser bueno. José Martí, Maestros Ambulantes, La América de New York, mayo de 1884, Obras escogidas en tres tomos, Centro de Estudios Martianos/ Editorial Ciencias sociales, 2000, pág. 456.
 2.  Muy recomendados para este tema el documental _The Social Dilema_, Neflitx, Jeff Orlowski, 2020 y el libro _El Imperio de la vigilancia_, Ignacio Ramonet, 2016.
 3.  Cintio Vitier, Resistencia y Libertad, Apuntes para Martí y el desafío de los noventa, junio de 1992, Resistencia y Libertad, Ediciones Unión 1999, pág. 101.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/ray.jpg)
-    
-    ![](/wp-content/uploads/2021/02/ray.jpg)
-    
-    [Raymar A. Aguado Hernández](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/raymar-a-aguado-hernandez/)
-    
-    Futuro psicólogo

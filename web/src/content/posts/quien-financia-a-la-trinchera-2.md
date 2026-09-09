@@ -3,7 +3,7 @@ title: "¿Quién financia a La Trinchera?"
 date: "2020-12-31T10:30:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/03/Violet-Wang.jpg"
+image: ""
 ---
 _Nota a los lectores: Para este final de año, a los editores de La Trinchera nos complace presentarles una selección de los textos más leídos de cada uno de los colaboradores de este espacio. A todos les agradecemos su confianza._ 
 
@@ -49,15 +49,3 @@ Siempre estoy _fajao_. Con los marxistas cubanos, con economistas, con juristas,
 No. LT es un proyecto que no recibe ningún dinero de nadie. Es un espacio virtual que se ha ido construyendo poco a poco, y con el mismo mecanismo con el que muchos cubanos sobrevivimos: los favores.
 
 No es un hecho aislado que me pregunten con qué dinero se sostiene La Trinchera; como tampoco lo es el que le ocurra lo mismo a los colaboradores.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

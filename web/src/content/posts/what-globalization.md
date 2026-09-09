@@ -3,7 +3,7 @@ title: "What globalization?"
 date: "2020-04-04T22:30:47+00:00"
 author: ""
 category: "Marxism"
-image: "/wp-content/uploads/2020/04/Las-mejores-vistas-son-en-las-que-estamos-juntos.jpeg"
+image: ""
 ---
 Globalization and regionalization.
 
@@ -37,15 +37,3 @@ Finally, it is necessary to clarify that talking about this process outside the 
 [You may also be interested](/politics-in-cuba/) 
 
 Globalization and regionalization Globalization and regionalization
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

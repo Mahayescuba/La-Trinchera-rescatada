@@ -1,9 +1,9 @@
 ---
-title: "Hombres que no se olvidan nunca - Jóvenes Marxistas en Cuba"
+title: "Hombres que no se olvidan nunca"
 date: "2018-08-13T16:15:06+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2018/08/fidel-castro-580x330.png"
+image: ""
 ---
 En Cuba no pasa por alto el natalicio de Fidel Castro, comandante de la revolución cubana.
 
@@ -22,13 +22,3 @@ Los revolucionarios que hoy nos comprometemos con su ejemplo, asumimos el más g
 La patria hoy tiene delante grandes desafíos, los pinos nuevos tienen el alto compromiso de ser cambio y continuidad al mismo tiempo, de mantener y desarrollar la obra dignificadora de Fidel en nuevas y difíciles condiciones. El pueblo tiene delante la tarea de codificar en ley los sueños de justicia y redención del comandante, de hacer nuestra Carta Magna la más alta expresión del humanismo socialista que el trató de inculcarnos.
 
 Dos años han demostrado a los escépticos y detractores que vaticinaban el fin de nuestro sistema, que la [revolución cubana](https://es.wikipedia.org/wiki/Revoluci%C3%B3n_cubana), no era la locura de una elite y un caudillo, sino la voluntad más genuina de un pueblo libre y rebelde, que está dispuesto a pagar con sangre esa libertad, un pueblo que ha asumido el inmenso reto de ser hoy su propio **Comandante en Jefe.**
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

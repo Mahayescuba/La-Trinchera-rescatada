@@ -1,9 +1,9 @@
 ---
-title: "constitución y derechos en Cuba"
+title: "Cuba: Constitución, represión y ciudadanía"
 date: "2020-11-03T10:30:05+00:00"
 author: "Alina Bárbara López Hernández"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/11/Maneges-de-Gerard-Cambon.jpg"
+image: ""
 ---
 ## I
 
@@ -20,10 +20,6 @@ En aquel momento dediqué al tema un artículo, «El talón de Aquiles», donde 
 El imperio de la ley solo puede existir en el caso de que todos los ciudadanos e instituciones tengan las mismas posibilidades de ser protegidos por las leyes que de ser castigados por ellas si las incumplen. Al dejar entonces a una institución como el Partido Comunista fuera de esta posibilidad, creamos una especie de _demiurgo_ político que escapa al imperio de la ley, ya que se sitúa por encima de ella.
 
 Aquella preocupación demostró muy pronto tener fundamentos. El 16 de diciembre de 2019, el ministro de Educación Superior, José Ramón Saborido Loidi, que intervenía en una emisión de la Mesa Redonda, levantó un ejemplar de bolsillo de la Constitución que se había aprobado apenas unos meses atrás e invocó el artículo 5 para apoyar las [declaraciones de su viceministra primera](https://www.mes.gob.cu/es/noticias/ser-profesor-universitario), que había desatado una ola de críticas y una carta pública -firmada inicialmente por catorce intelectuales y luego por miles de personas-, motivadas por un texto en el que dicha funcionaria justificaba la discriminación por razones ideológicas en los claustros universitarios. La actitud de ambos dirigentes era anticonstitucional, pues desconocían el carácter público y no discriminatorio por ley de la enseñanza en Cuba a todos los niveles.
-
-![](/wp-content/uploads/2020/11/2019-09-15-15_02_57-Windows-Media-Player.png)
-
-![](/wp-content/uploads/2020/11/2019-09-15-15_02_57-Windows-Media-Player.png)
 
 El ministro de Educación Superior invoca la Constitución de 2019 en apoyo a la actitud discriminatoria enunciada por su viceministra (Foto: TVC) 
 
@@ -124,17 +120,3 @@ Esa situación, vinculada con el escenario actual, propicio para que se produzca
 [\[2\]](https://jovencuba.com/constitucion-represion-ciudadania/?fbclid=IwAR1xge9-aKjglxyt0wrQMlFEY-v5usj8aacnFaPE8QahG3nsfjMyisMJk2s#_ednref2) _Constitucionales_, vol. 13, no. 2, Santiago, 2015 , disponible en [https://scielo.php](https://scielo.php/)
 
 _Tomado de [La Joven Cuba](https://jovencuba.com)_
-
-constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba,
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/alina-barbara-lopez-hernandez.jpg)
-    
-    ![](/wp-content/uploads/2021/02/alina-barbara-lopez-hernandez.jpg)
-    
-    [Alina Bárbara López Hernández](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/alina-barbara-lopez-hernandez/)
-    
-    Coordinadora de La Joven Cuba. Profesora, ensayista e investigadora.
-    
-    [](https://jovencuba.com/amp/author/alinalopez/)

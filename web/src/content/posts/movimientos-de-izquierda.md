@@ -1,9 +1,9 @@
 ---
-title: "movimientos de izquierda"
+title: "Movimientos de izquierda"
 date: "2020-01-25T23:57:50+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2020/01/IMG_20200125_185011_332.jpg"
+image: ""
 ---
 #### Frente a la colonización económica en el continente americano
 
@@ -16,15 +16,3 @@ Ahora bien, el incumplimiento del Plan leninista, la falta de continuadores de _
 No obstante, la hiperinflación, los procesos internos que afectan la unificación de partidos políticos y movimientos sociales y las luchas de los pueblos por su emancipación, generaron los triunfos electorales de las tendencias políticas neoliberales.  
 A partir de entonces se generó un clima de inseguridad ciudadana que franqueó la victoria política de partidos de derecha, comenzando a denotarse nuevamente los índices de pobreza, desigualdad y privatizaciones que dificultan el acceso a la educación de estudiantes carentes de ingresos económicos.  
 Por tanto los movimientos izquierdistas como tendencias diametralmente opuestas están compelidos a convertirse en movimientos que generen emprendimiento económico, revaloración en la interpretación de los postulados enarbolados por el [marxismo-leninismo](/politica-en-cuba/), en tanto que constituyen sus referentes esenciales, replantear sus posiciones en el ejercicio de las facultades lesgisferantes, franquear la educación gratuita y de calidad en función del reconocimiento de los derechos fundamentales, re direccionar su actividad por medio del trabajo científico-técnico, afianzar el trabajo de capacitación con los líderes de subordinación provincial y local según el caso, partiendo de la territorialidad como rasgo esencial del mecanismo estatal, para garantizar el funcionamiento de las estructuras de subordinación nacional, desarrollar acciones concretas en función de afianzar el papel activo de la ciudadanía en los procesos democráticos ejercidos en los procesos pre y poselectorales.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

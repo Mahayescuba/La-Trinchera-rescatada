@@ -1,9 +1,9 @@
 ---
-title: "Cebollas y justicia Dios y los Reyes de la Cebolla"
+title: "Dios y los Reyes de la Cebolla"
 date: "2020-06-15T12:13:03+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/06/oviloo-tunnillie-in-hospital-contextual.jpg"
+image: ""
 ---
 Amanece en mi barrio y muchos vecinos corren para marcar en el agro, pues ha nacido la bola de la llegada de cebolla a precio estatal, un producto casi impagable en los últimos tiempos.
 
@@ -22,13 +22,3 @@ Antes de proceder a condenar al prójimo, producto de algún juicio ejemplarizan
 Dios acostumbra hacerse sentir cuando nos encontramos en las fronteras de nuestras vidas, en aquellos momentos en que sentimos tambalear nuestras seguridades humanas. Ahí y entonces aparece su presencia infinita y nos acompaña en medio de ese desierto existencial de la desolación, que Lezama dibujó con sus letras diciendo: “que crece indetenidamente, sin libertad, sin posibilidad, sin imagen, sin poesía”. Pues ahí en medio de ese insilio nuestro, lleno de límites que marcan nuestros pasos, ahí delante de esa cámara, también está Jesús.
 
 [Más textos de este autor](/una-luz-en-la-oscuridad/)
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

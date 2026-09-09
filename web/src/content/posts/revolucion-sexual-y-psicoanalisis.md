@@ -3,7 +3,7 @@ title: "Psicoanálisis y la revolución sexual"
 date: "2019-10-10T01:26:15+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2019/10/richter_staircase.jpg"
+image: ""
 ---
 Psicoanálisis y revolución sexual. 
 
@@ -27,15 +27,3 @@ Las personas pueden estar en su derecho de decir lo que deseen, pero al vivir en
 Einer/Lily tiene una certeza, y sufre por ello. Pero el buen doctor tiene otra, se cree Dios, se siente capaz de enmendar el error, de responder unívocamente al deseo de su paciente. Y porque el buen doctor encarna el poder hacer, sobre él recae la responsabilidad. Las operaciones de reasignación de sexo se han vuelto parte del aparataje del consumo. Y eso es lo condenable. Se viste de las ropas de la revolución, un nuevo saber que se aplica a todos por igual mediante las nuevas tecnologías y avances médicos. Pero deja en el desamparo a los más vulnerables.
 
 Psicoanálisis y revolución sexual Psicoanálisis y revolución sexual Psicoanálisis y revolución sexual Psicoanálisis y revolución sexual
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

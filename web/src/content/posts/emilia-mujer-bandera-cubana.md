@@ -3,7 +3,7 @@ title: "Emilia, la mujer que bordó la primera bandera cubana"
 date: "2019-07-03T13:52:40+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2019/07/IMG-20190523-WA0020.jpg"
+image: ""
 ---
 Sirvió de muestra a las jóvenes de Nueva Orleans para confeccionar la bandera que encabezó la expedición de Narciso López y que ondeó por veinticuatro horas en la ciudad de Cárdenas el 19 de mayo de 1850.  
 Emilia Teurbe Tolón volvió a Cuba en 1856.
@@ -25,15 +25,3 @@ Falleció en Madrid el 22 de agosto de 1902.
 En 1950, Año del Centenario de la Bandera, el Congreso de la República la proclamó oficialmente Encarnación de la Mujer Cubana, y el Ministerio de Comunicaciones emitió en su honor una serie filatélica  
 La bandera que bordó, guardada y custodiada por manos patriotas a través del tiempo, se exhibe en el Museo de la Revolución.  
 Desde el 23 de agosto de 2010 los restos de Emilia Teurbe Tolón, traídos desde España, descansan en la Necrópolis de Colón, en La Habana. Sobre su tumba ondea la bandera de la estrella solitaria.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

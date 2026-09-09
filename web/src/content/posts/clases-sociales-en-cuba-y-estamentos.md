@@ -1,9 +1,9 @@
 ---
-title: "clases sociales en cuba y estamentos"
+title: "Cuba, entre clases sociales y estamentos"
 date: "2020-06-10T15:58:56+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/06/quintana-piramide.jpg"
+image: ""
 ---
 Un texto de Ernesto Gutiérrez Leyva sobre clases sociales en Cuba. En tiempos en que el Covid-19 copa los titulares de los medios nacionales y extranjeros
 
@@ -96,13 +96,3 @@ _Cf._ Espina Prieto Mayra P. “Transformaciones recientes de la estructura soci
 [\[5\]](#_ftnref5) Arés Muzio Patricia, La familia cubana en el contexto latinoamericano actual, disponible en [http://www.monografias.com/trabajos40/familia-cubana-hoy/familia-cubana-hoy2.shtml](http://www.monografias.com/trabajos40/familia-cubana-hoy/familia-cubana-hoy2.shtml)
 
 [\[6\]](#_ftnref6)  Póngase como ejemplo el hecho de que no es pasible de ser auditado por la Contraloría General de la República, máximo ente contralor de la Nación.
-
-## Autor
-
--   ![](/wp-content/uploads/avatars/9/5f99ed91318cb-bpfull.jpg)
-    
-    ![](/wp-content/uploads/avatars/9/5f99ed91318cb-bpfull.jpg)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

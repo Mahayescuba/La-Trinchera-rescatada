@@ -3,12 +3,8 @@ title: "Podcast cubano El Solar Página Oficial Presentación"
 date: ""
 author: ""
 category: ""
-image: "/wp-content/uploads/2020/11/solar-1.jpeg"
+image: ""
 ---
-![](/wp-content/uploads/2020/11/solar.jpeg)
-
-![](/wp-content/uploads/2020/11/solar.jpeg)
-
 _El Solar es mi podcast de la Metatranca. Soy Miguel Alejandro Hayes, me especializo en Economía Política y Lógica Hegeliana, coordinador del proyecto [La Trinchera](/la-trinchera/) . A El Solar pretendo invitar especialistas con los cuales comparto o no criterios sobre política, economía, cultura, filosofía. Es un espacio donde también podré disertar sobre un tema de interés para la opinión pública o para mí. Es un proyecto colaborativo, porque solo en colectivo los proyectos cobran vida._
 
 * * *
@@ -81,12 +77,6 @@ Estas edificaciones suelen identificarse unilateralmente con mansiones venidas a
 Sin embargo, amplias zonas de El Vedado, La Víbora y otros territorios donde alzaron sus residencias familias adineradas desde finales del siglo XIX y en la primera mitad del XX, con el tiempo se convirtieron en sitios plagados de solares, por razones semejantes a las ya mencionadas. La novela _100 botellas en una pared_, de Ena Lucía Portela, da fe de ello al mencionar que existen cientos de ciudadelas en El Vedado y caracterizar una de ellas, sita en un punto muy céntrico de este barrio, llamada por sus inquilinos “La Esquina del Martillo Caliente”
 
 También muy añejos solares fueron construidos siguiendo la tipología análoga de casas de vecindad madrileñas, como La Siguanea en El Cerro y La California en Centro Habana…[(seguir leyendo)](https://www.isliada.org/de-vuelta-a-mi-solar/)
-
-podcast cubano El Solar podcast cubano El Solar
-
-![](/wp-content/uploads/2020/11/miguel-edited.jpeg)
-
-![](/wp-content/uploads/2020/11/miguel-edited.jpeg)
 
 Miguel Alejandro Hayes. Realizador
 

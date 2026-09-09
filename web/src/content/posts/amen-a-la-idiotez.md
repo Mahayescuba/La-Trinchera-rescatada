@@ -1,9 +1,9 @@
 ---
-title: "Moral y sociedad"
+title: "Amén a la idiotez"
 date: "2021-01-11T10:30:00+00:00"
 author: "José Repiso Moyano"
 category: "Opinión"
-image: "/wp-content/uploads/2021/01/Greg-Brotherton-.jpg"
+image: ""
 ---
 Las sandeces tienen premio porque siempre tienen detrás a una simpática moral que las custodia.
 
@@ -24,13 +24,3 @@ Lo peor es que, cada moralina, excluye o tapa o impide a algo serio en razón o 
 Analicemos una moralina en concreto, la de “yo no he matado a nadie”:  Lo primero que impone es que, sean los errores que haya cometido, sean las sinrazones que haya defendido, sean las indecencias que haya producido, él sostiene un “yo no he matado a nadie” imponente para que todo se excuse o haya ya una tabla rasa para todas sus acciones (y ¡viva la Pepa!; ¡sí!, que mienta y robe con tal truco). Es como un liberarse de la conciencia y ya así facilitarle una barra libre para todas sus ocurrencias en adelante. ¡Qué listez!
 
 Pues la moralina lo que, en el fondo, quiere es salvarle el pellejo a cualquier rollo-motivación interior, **por encima del bien y del mal** incluso. La moralina es impresionante en un confundirlo todo, en un pillearlo todo, es como una dictadura personalísima, es como un populismo para propio consumo o, en cada cual, para realizarse en sí mismo. Siempre en los medios de comunicación todos inventan una moralina y después otra y después otra…, sin continencia ética (que convence ya a casi todos los tontos).  ¡Eso hay!, eso es lo que hay, ¡amén a la idiotez!
-
-moral y sociedad, moral y sociedad
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [José Repiso Moyano](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-repiso-moyano/)

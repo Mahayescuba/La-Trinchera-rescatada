@@ -1,9 +1,9 @@
 ---
-title: "Tiendas en MLC en Cuba"
+title: "El momento de escasez le quitó el velo"
 date: "2020-07-21T17:30:26+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/07/2020-07-21-17.05.11.jpg"
+image: ""
 ---
 Ya se puede, en tiendas cubanas, comprar en [MLC](https://enciclopedia.banrepcultural.org/index.php?title=Agregados_económicos) determinados bienes (alimentos y aseo). Con ello, se dan las condiciones para la propagación de un estado de opinión que, más allá de sus implicaciones políticas, tiene cierto sesgo desde el punto de vista económico. Dado que existe la clara división, quizá con cierto carácter clasista, entre poseedores y no poseedores de MLC, algunos consideran que los primeros son aquellos que reciben remesas del exterior. Sobre esta segunda idea me detengo.
 
@@ -26,15 +26,3 @@ Los que sí están cambiando de manera informal sus dólares por CUC, son person
 Sí, a las tiendas en USD pueden ir los mismos que no dejaron de vivir bien durante la cuarentena, los que han mantenido los ingresos de los bares y restaurantes de las zonas de alto _standing_ de la Habana, los que pueden comprar con cierta tranquilidad. A ellos se les suma el que recibe su ayuda a través de las remesas, y va a hacer su modesta compra con su MLC, luego de sumar y restar a ver qué puede comprar para que le alcance.
 
 La segmentación social no la generó la MLC, simplemente, el momento de escasez le quitó el velo delante de los ojos a los que aun no la querían ver. Hay cubanos con dólares y cubanos sin dólares, pero para comprender quiénes llegan a fin de mes a regañadientes y quiénes no tienen ese problema, hay que mirar la desigualdad estructural y sistemática que se hace innegable ahora. El problema no está en quiénes pueden acceder directamente o no a la divisa, porque el mercado negro está al alcance de todos, sino en los montos que se poseen para ir a este a cambiar en divisas. Eso es lo que está marcando las grandes diferencias ahora mismo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

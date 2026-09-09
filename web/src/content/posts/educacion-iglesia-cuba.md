@@ -30,7 +30,7 @@ Esta nueva constitución incrementa con acierto, la laicidad de la educación, u
 
 Algunas reflexiones que uno extrae con respecto al tema educativo dentro de la constitución son: el estado y el gobierno cubano mantienen una preocupación importante con respecto al tema educativo, derecho fundamental de toda persona y de toda nación. Sobre todo, porque hablamos de un elemento decisivo en la formación de la conciencia ciudadana. Y en cuanto tal, el estado y gobierno cubano, dejan explicita su decisión de poder ejercer de forma indefinida su rol de gestor y garante de la educación en el país.  
 A pesar de que no se haga de manera explícita, se hace ver, en algunos congresos vinculados a la pedagogía, un conocimiento sincero por parte de las autoridades gubernamentales, de la crisis imperante al interior del proceso educativo en Cuba. Entonces, estamos ante la admisión de la existencia de una estructura pedagógica de creciente insuficiencia económica, humana y espiritual, en diálogo permanente con la depresión económica que atraviesa el país.  
-Quizás, desde los puntos abordados anteriormente, podemos establecer que se avizora una tímida aceptación, de la complementariedad ejercida por actores de la sociedad civil, como los maestros repasadores y los espacios educativos de la Iglesia. Cómo se legislará, eso aún está por debatirse, uno intuye que pronto se abrirá alguna hendija legal, para poder patentizar nuestros proyectos de educación complementaria. Aunque lo que salió con el [proyecto de constitución](/wp-content/uploads/Tabloide-Constituci%C3%B3n.pdf), luego se cerró con el texto final, este es un elemento que debe ser mirado y comprendido desde diversas aristas.  
+Quizás, desde los puntos abordados anteriormente, podemos establecer que se avizora una tímida aceptación, de la complementariedad ejercida por actores de la sociedad civil, como los maestros repasadores y los espacios educativos de la Iglesia. Cómo se legislará, eso aún está por debatirse, uno intuye que pronto se abrirá alguna hendija legal, para poder patentizar nuestros proyectos de educación complementaria. Aunque lo que salió con el [proyecto de constitución](http://www.parlamentocubano.cu/wp-content/uploads/Tabloide-Constituci%C3%B3n.pdf), luego se cerró con el texto final, este es un elemento que debe ser mirado y comprendido desde diversas aristas.  
 La percepción desde un mi asiento ciudadano es que el criterio dentro de los decisores con respecto a estos temas, no es monolítico; por lo tanto, hablamos de un debate social discutido entre nuestros máximos dirigentes, con diversos matices.  
 Es probable que dentro de algún tiempo, sea necesario valorar con mayor profundidad estas luces que ahora vimos parpadear, dentro de una autopista hegemonizada por muchos años, por una sola autovía. El hecho de que la educación sea laica puede ser una puerta donde podamos militar igualmente, instituciones de la sociedad civil y el estado, porque una de las premisas es la no discriminación por cuestiones de religión o credo. Aunque parezca como un ámbito traído por los pelos, el hecho de vivir un proceso educativo laico, no necesariamente debe proponer alguna clase de ateísmo subterráneo, y no restringe de forma explícita, una cultura religiosa.  
 Podemos hablar de una educación laica en cuanto a su contenido, pero este hecho político, no tiene porqué limitar necesariamente que sus gestores, puedan ser actores diversos,guiados incluso por un programa estatal, el movimiento educativo Fe y Alegría, tiene mucha experiencia en este ámbito. No hablamos de una utopía, estos casos se han dado y están registrados en ejemplos concretos del derecho comparado, donde se ha gestado una especie de ser educativo híbrido, administrado por la Iglesia, con programa y ayuda económica del gobierno.  
@@ -57,15 +57,3 @@ Como conclusión, quisiera felicitar a las personas que han hecho posible la par
 (6) Ibídem 2
 
 educación e iglesia en Cuba educación e iglesia en Cuba educación e iglesia en Cuba educación e iglesia en Cuba educación e iglesia en Cuba  educación e iglesia en Cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

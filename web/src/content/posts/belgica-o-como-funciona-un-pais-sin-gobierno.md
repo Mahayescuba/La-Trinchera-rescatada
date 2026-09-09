@@ -3,7 +3,7 @@ title: "Bélgica, o cómo funciona un país sin gobierno"
 date: "2020-09-05T09:30:00+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2020/09/René-Magritte-La-lámpara-del-filósofo.jpg"
+image: ""
 ---
 Bélgica sin gobierno.
 
@@ -36,11 +36,3 @@ Pero el coronavirus podría precipitar las cosas. Se ha calculado que el défici
 ¿Cómo se pagará la factura? ¿Cuáles son esas nuevas políticas fiscales de las que hablan, ese impuesto “corona”, ese sobre el valor agregado y aquel sobre el patrimonio? ¿Qué pasará con el empleo, la competitividad de las empresas, las pensiones?
 
 El surrealismo belga tendrá que aportar respuestas reales, o casi. Mas allá de lo anecdótico de su funcionamiento _sui generis_ y de los [chistes](https://voxeurop.eu/es/surrealismo-y-zwanze-la-receta-belga/), el ciudadano belga tendrá que poner atención a lo que sucederá en las próximas semanas, que ya se agitan con los nuevos intentos de formación de un gobierno como dios manda. Porque, aunque a él no le importe si hay o no gobierno, el gobierno, o lo que haya, sí contará con él para pagar las facturas.
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Ana Barnes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/ana-barnes/)

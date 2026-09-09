@@ -3,7 +3,7 @@ title: "En nombre de qué Revolución habla"
 date: "2020-01-17T18:17:08+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/01/LastLightGarage-1.jpg"
+image: ""
 ---
 Revolución cultura.
 
@@ -14,15 +14,3 @@ Pero fundamentalmente, en algún lugar, después de 60 años de educación gratu
 En algún lugar hay un tipo que por su ignorancia y soberbia nos hace un daño horrible a todos los que nos creemos revolucionarios porque, dizque, la está defendiendo. Deja, gracias, no hace falta. Un revolucionario que defiende la Revolución con ideas contrarrevolucionarias es igual a un soldado que se emborracha y se va de lengua con un espía enemigo.  
 Yo no sé en nombre de qué Revolución habla, pero no es la que yo conozco ni la que quiero. Para defender la Revolución hay, ante todo, conocer de qué se trata.  
 Si semejante tipo existe en algún lugar, créanme, ese lugar no lo comparte conmigo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Investigador independiente
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

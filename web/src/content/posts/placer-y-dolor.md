@@ -1,9 +1,9 @@
 ---
-title: "placer y dolor"
+title: "Adicción al placer y aversión al dolor"
 date: "2020-02-08T23:34:04+00:00"
 author: "Danilo Euser"
 category: "Teoría"
-image: "/wp-content/uploads/2020/02/IMG_20200208_183050_718-1.jpg"
+image: ""
 ---
 > _\[Hedonismo ilustrado\]_  
 > _En la sociedad moderna pocos tienen una filosofía personal, y adoptan por tanto la oficial, lo que algunos llaman hedonismo ilustrado. Ilustrado porque incluye cierto razonamiento (hay controles sociales y normas que restringen impulsos básicos), pero el objetivo final parece ser buscar comodidad y estimulación sensorial_
@@ -56,17 +56,3 @@ Pero de esto hablaremos en otra entrada…
 > _Mientras sigas con vida, sigue aprendiendo a vivirla._
 
 Séneca.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

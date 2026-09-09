@@ -23,20 +23,4 @@ En una sociedad como la nuestra en la que todo el mundo opina lo mismo y, lo que
 
 Lo que no acabo de entender es… ¿personal de quién?
 
-> [Opiniones personales](https://rebelion.org/opiniones-personales/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Opiniones personales» — Rebelion" src="https://rebelion.org/opiniones-personales/embed/#?secret=7usO5c2k4P" data-secret="7usO5c2k4P" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
 Tomado de Rebelión
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    [La Trinchera Editor](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/la-trinchera-editor/)
-    
-    La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser una plataforma de debate.
-    
-    [](/la-trinchera/)

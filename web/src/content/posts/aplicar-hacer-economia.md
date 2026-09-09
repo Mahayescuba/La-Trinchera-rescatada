@@ -3,7 +3,7 @@ title: "Aplicar o hacer economía"
 date: "2019-04-09T05:33:18+00:00"
 author: ""
 category: "Economía Política"
-image: "/wp-content/uploads/2019/04/Marc-Pérez.jpg"
+image: ""
 ---
 Economía. 
 
@@ -23,15 +23,3 @@ La sociedad es la abstracción que agrupa a un conjunto de personas en relación
 Pero allá, donde las condiciones eran otras, y las necesidades de reproducción de un todo social orgánico no eran las mismas a allá donde si funcionó, comienzan los fallos. Porque los miembros de esa sociedad se relacionan de manera diferentes, y la abstracción -que es el modelo- no se corresponde con las relaciones que se dan en esta, los resultados de aplicación de políticas, cuando menos, no serán los esperados.  
 Entonces aparece un problema: seleccionar el modelo correcto a la hora de explicar las relaciones de una sociedad. Resulta que el modelo, para saber a qué circunstancias responde, implica saber el marco cultural en que se desenvolvían los hombres que en él se reflejan, es decir, implica conocer, explicar, las tendencias generales del modo en que se producía la realidad en un contexto. El conocimiento requerido para saber si es aplicable un modelo en una sociedad, conlleva, poder desentrañan la lógica de dicha sociedad, en la que, la circulación monetaria, es apenas, uno de los reflejos que se puede tomar de su movimiento. Al buscar dicho conocimiento, ya se elaborará una concepción propia de la sociedad en cuestión, se tendrán explicadas las relaciones en esta, es decir, se tendrá ya un modelo de esta, por lo que no hará falta aplicar otro. Pero pensar la propia lógica de una sociedad, implica trascender el esquema de la economía convencional: se trata, de explicar toda la sociedad, y de ahí obtener la dimensión económica de esta, por tanto, hacer economía, incluye cuestionar el propio método lógico formal de la economía para poder pensar el movimiento social como sistema. (No se olvide que la lógica formal no salió del estudio de la economía, por lo que es un resultado, un modelo de pensamiento, no resultante de ella. De ahí la necesidad de cuestionarse incluso el método de pensar la sociedad –y la economía de esta-).  
 Así, el ejercicio de la ciencia económica, puede hacer a ciegas la aplicación de modelos económicos surgidos del estudio de otra sociedad y con la aplicación de sus métodos que no devienen del estudio de la sociedad, que puede darse o no la correspondencia; o puede, estudiar la sociedad que desea explicar, hallar su lógica, y por tanto, el esquema relacional para explicar sus tendencias –su modelo-. Se deberá decidir, entre aplicar o hacer economía.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

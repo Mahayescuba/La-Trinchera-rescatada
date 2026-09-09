@@ -1,9 +1,9 @@
 ---
-title: "ataques contra prensa popular y medios de comunicación en Colombia"
+title: "Carta pública"
 date: "2021-05-11T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/05/Francoise-Bellard.jpg"
+image: ""
 ---
 ## Carta pública desde los medios comunitarios, populares y alternativos de Ecuador sobre vulneraciones a la libertad de expresión e información en Colombia
 
@@ -31,22 +31,4 @@ Instamos a los organismos de derechos humanos internacionales como la [Relatorí
 
 **Los comunicadores y comunicadoras comunitarios, en solidaridad firmamos:**
 
-![](/wp-content/uploads/2021/05/Imagen-1.png)
-
-![](/wp-content/uploads/2021/05/Imagen-1.png)
-
 _Tomado de Red Kapari_
-
-ataques en contra de la prensa popular y medios de comunicación en Colombia, ataques en contra de la prensa popular y medios de comunicación en Colombia
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/descargar.jpeg)
-    
-    [La Trinchera Editor](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/la-trinchera-editor/)
-    
-    La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser una plataforma de debate.
-    
-    [](/la-trinchera/)

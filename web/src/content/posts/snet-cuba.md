@@ -3,7 +3,7 @@ title: "SNET_CUBA ¿Qué es y qué quiere?"
 date: "2019-07-08T04:31:51+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/07/By-Chema-Madoz-104.jpg"
+image: ""
 ---
 **LAS SNET EN TODA CUBA**
 
@@ -15,13 +15,3 @@ Ya no es solo jugar: la variedad de demandas e ideas de los usuarios y administr
 A estas alturas la cosa es más seria. Más que redes en los barrios se ha convertido en un fenómeno social que hace bien, un espacio de respeto y diversión 24 horas. En las redes sociales hoy en día existen varios testimonios de personas que a través de estas redes formaron sus familias, los más pequeños están tranquilos entretenidos en sus casas, personas que estaban en la calle cometiendo indisciplinas se han tranquilizado lo mismo por ser usuarios de las redes de la calle como administrándolas obteniendo valores y responsabilidad, en una escuela digital que un día empezó por 5 o 10 personas.
 
 [Contactar con el autor](https://twitter.com/snet_cuba?s=17)
-
-## Autor
-
--   ![](/avatar/1010b575bf391bce9a2284b98c9b4c4e?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/1010b575bf391bce9a2284b98c9b4c4e?s=80&r=g&d=mm)
-    
-    [oscaracso28944](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/oscaracso28944/)
-    
-    [](mailto:oscaracsocuba95@gmail.com)

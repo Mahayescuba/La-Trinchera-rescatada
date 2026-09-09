@@ -1,5 +1,5 @@
 ---
-title: "Libertad y espacio El retroceso de la libertad — José Gabriel Barrenechea"
+title: "El retroceso de la libertad"
 date: "2021-01-12T10:30:00+00:00"
 author: "José Gabriel Barrenechea"
 category: "Teoría"
@@ -38,13 +38,3 @@ La Tierra será para entones como las regiones superpobladas de Europa en el sig
 Un último punto: el que los humanos se desplacen a colonizar, a humanizar, nuevos medios, es quizás también la solución a los desafíos que para el empleo trae la revolución tecnológica de la Inteligencia Artificial. En una humanidad en expansión hacia nuevas circunstancias ambientales, cada vez más y más distantes de la experiencia humana sobre la que se ha construido nuestra cultura, la creatividad humana, que nunca las máquinas construidas sobre esa cultura y por más “inteligentes” que llegue a ser reemplazarán, estará en su nivel de demanda más alto nunca visto.
 
 Expandíos, multiplicaos, enfrentad siempre nuevos desafíos. He ahí la naturaleza material de la libertad humana.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    [José Gabriel Barrenechea](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-gabriel-barrenechea/)
-    
-    Científico, escritor y activista

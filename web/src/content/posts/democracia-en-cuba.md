@@ -1,5 +1,5 @@
 ---
-title: "Democracia en Cuba"
+title: "Nuestro sistema: ¿democracia sin partidos o partidos sin democracia?"
 date: "2018-01-22T17:05:33+00:00"
 author: ""
 category: "Política en Cuba"
@@ -45,15 +45,3 @@ Ahora bien, miremos el escenario cubano, ¿algo semejante se aprecia? Podemos em
 Si a una persona no le importa el sistema, es decisión de ese individuo, pero si a los individuos no les importa el sistema, este debe ser repensado. Miremos hacia fuera pero también hacia dentro en busca de una respuesta. A cualquier intento de calcar un sistema foráneo e insertarlo tal cual en nuestra sociedad, sin tomar en cuenta nuestras particularidades, no le auguro el mejor de los desenlaces. Cualquier solución que adoptemos debe concebir un modelo que se parezca a nosotros.
 
 [\[1\]](https://laluznocturna.wordpress.com/2018/01/08/nuestro-sistema-democracia-sin-partidos-o-partidos-sin-democracia-i/#_ftnref1) En torno a lo político. (2007) Madrid: Fondo de Cultura Económica.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

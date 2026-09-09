@@ -1,9 +1,9 @@
 ---
-title: "filmografía de Michael Haneke"
+title: "Babalawo frustrado, infanticida experto, creador feliz"
 date: "2021-04-28T09:30:00+00:00"
 author: "Arian Rubio"
 category: "Cultura"
-image: "/wp-content/uploads/2021/04/Christophe-Charbonnel-.jpg"
+image: ""
 ---
 Autocomplacencia, sello de autor, provocación, guerra sin cuartel contra el público afiliado a la onda _Green Peace_, acentuación de la circunstancia dramática, ganas de joder… son solo algunos de los posibles móviles que pudieran excusar el casi obligatorio sacrificio animal presente en la filmografía de Michael Haneke. Divierte imaginarlo vagando por estos parajes, próximo a asistir en calidad de observador participante (pinta de antropólogo no le falta) a una ceremonia de santería en el más pintoresco solar de Guanabacoa. Habría que violar, por singular excepción, cuanta regla exista en el universo Yoruba con la finalidad de darle un gustazo a este raro espécimen, mezcla de José Martí y Saruman el blanco. Total… ¿Qué no se ha hecho aquí para complacer a un _yuma_? Sentado en un rincón, aturdido por cánticos nigerianos que se repiten en boca de mujeres rollizas llenas de collares y sudores ácidos, degustaría un incesante ritual de decapitaciones, atracción hasta entonces imposible de reservar como experiencia de _Airbnb_. La sangre salpicándole los zapatos, el olor a plumas y cagadas de chivo le van robando el apetito. Una docena de cabezas sangrientas al pie de ídolos de madera embarrados de miel, vasijas con voraces piedras sagradas, cabezas de chivos, pollos, jicoteas, gallos… Algo apendejado, se va a tomar una siesta y piensa que, en efecto, a veces se puede ir demasiado lejos, incluso para satisfacer la sed de los dioses propios.
 
@@ -25,22 +25,6 @@ En 2005 llega uno de sus más aclamados filmes, y puede vislumbrarse un momento 
 
 Año 2009, le da por el monocromatismo. La va a echar en blanco y negro, profunda, y será su película más intelectualmente elaborada. Filme en que retumba el eco del signo yoruba Iwori Bofún, signo de sangre y de muerte, donde los niños no hacen lo que los padres dicen, porque los padres a veces son hipócritas y no predican con el ejemplo, lo que genera a menudo esa predisposición que hace temer al niño y subvalorar al adulto. El niño es la cosecha malograda y culpable de lo que ocurrirá en el futuro. Llena de intríngulis semiótica en torno a la religión y la moral, no escatima esta cinta en crueldad contra los infantes, ni qué decir de los animales porque no ha transcurrido el minuto 1’ y ya hay un corcel desbocado comiendo polvo, y se crucifican periquitos a domicilio, y se perturban niños con _Down_…Y no es que al director le molestase seguramente, con una [Palma de Oro](https://es.wikipedia.org/wiki/Palma_de_Oro) en mano, pero a un servidor le hace cierta gracia saber que su mayor producción perdiera en los Oscars a mejor extranjera contra _El secreto de sus ojos_.
 
-![](/wp-content/uploads/2021/04/Happy_End_2017_film.png)
-
-![](/wp-content/uploads/2021/04/Happy_End_2017_film.png)
-
 Hace cuatro años salió _Happy End_, que en su ambigüedad sugestiona al espectador y le crea esperanzas de ver una historia al menos medianamente cruel, o acaso una historia donde el animal tenga su venganza contra el hombre, y no hemos llegado al minuto diez cuando envenenan al hámster con pastillas antidepresivas. Por otro lado, gracia tiene el juego de espejos y sombras que se cierne sobre la trama, porque acuden personajes arquetípicos tan familiares y parecidos a los de otros trabajos anteriores que parecen estar viviendo una segunda vida o lo que pasó después de los créditos. Ahí está el adulto inmaduro obsesionado con el sexo, la niñita deprimida que piensa en suicidio, ahí está el viejito que confiesa haber matado a su mujer postrada en un acto de compasión y amor, ahí está la macro-lectura posible al estilo del gran Krzystof Kieslowski, problematizando esta vez sobre refugiados vs. ricos y el enorme abismo entre ambos, y ahí también está el guiño a la obra propia, como si se estuviera despidiendo de sus personajes favoritos en íntima celebración. 
 
-En los predios del séptimo arte, Haneke campea entre cadáveres y premios, sonriente, sarcástico, dando malos ratos a sus entrevistadores, aduciendo una felicidad que mucho contrasta con la oscuridad de su cine, luciendo ese halo de intocable ganado a golpe de porrazos visuales. 
-
-filmografía de Michael Haneke, filmografía de Michael Haneke, filmografía de Michael Haneke, filmografía de Michael Haneke, filmografía de Michael Haneke, filmografía de Michael Haneke
-
-## Autor
-
--   ![](/wp-content/uploads/2021/03/Arian-Rubio2021-03-30-21.05.23.jpg)
-    
-    ![](/wp-content/uploads/2021/03/Arian-Rubio2021-03-30-21.05.23.jpg)
-    
-    [Arian Rubio](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/arian-rubio/)
-    
-    Red Label, el café con su justa dosis de chícharo, cigarro suave o fuerte según el día. Descubrí que aun puedo hacer diez planchas la semana pasada.
+En los predios del séptimo arte, Haneke campea entre cadáveres y premios, sonriente, sarcástico, dando malos ratos a sus entrevistadores, aduciendo una felicidad que mucho contrasta con la oscuridad de su cine, luciendo ese halo de intocable ganado a golpe de porrazos visuales.

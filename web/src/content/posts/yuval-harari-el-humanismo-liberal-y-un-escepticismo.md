@@ -3,7 +3,7 @@ title: "Yuval Harari, el humanismo liberal y un escepticismo"
 date: "2020-05-12T15:53:15+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2020/05/c4a13c698765fc8efbac515c7afa6976.jpg"
+image: ""
 ---
 Casualmente algunas de las creencias sobre las que Yuval Harari se trepa para extender al viento los gonfalones de un escepticismo por tanto muy mal ubicado.
 
@@ -31,17 +31,3 @@ El humanismo liberal no es por tanto una religión, a lo que lo rebaja Yuval Har
 En última instancia no es más que el resultado lógico de la única constancia absoluta que tenemos: la de nuestra propia existencia como un ser que es capaz de plantearse la duda sobre su propia existencia.  
 Si algo de religión tiene el humanismo liberal, en todo caso, solo podría encontrarse en el hecho de que acepte creer sin más en qué ideas como cerebro tienen un objeto real más allá de mí, que la pienso, y en la consecuente de aceptar sin más la existencia de seres que me son semejantes.  
 Casualmente algunas de las creencias sobre las que Yuval Harari se trepa para extender al viento los gonfalones de un escepticismo por tanto muy mal ubicado. Porque desde una supuesta razón supra-subjetiva no puede haber nunca verdadero escepticismo; el escepticismo es solo posible cuando miramos el mundo desde nosotros, que sabemos existir por pensar en ello, y a la vez buscamos sin cesar modos de encontrar un grado de evidencia parecido en la existencia de todo lo demás.
-
-[Otro texto del autor](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

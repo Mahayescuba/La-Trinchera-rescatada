@@ -1,9 +1,9 @@
 ---
-title: "Periodismo"
+title: "Apuntes de pose y postura"
 date: "2018-05-15T12:30:49+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2018/05/sin_titulo-1.jpg"
+image: ""
 ---
 En definitiva, cada tres largos reportajes vendidos dentro del empaque del periodismo narrativo, muy popular en estos días (no entiendo por qué, si en la mayoría de los casos resulta demasiado difuso como para ser periodismo, y demasiado aburrido como para ser literatura), había alguna opinión violenta, agresiva y francamente interesante.
 
@@ -28,17 +28,3 @@ _La Joven Cuba_, el blog de Harold Cárdenas, no se encuentra movido por las raz
 A _La Pupila Insomne_ me acerqué por primera vez porque no tenía dónde publicar [cierto artículo de la nostalgia soviética](https://lapupilainsomne.wordpress.com/2017/11/11/la-urss-y-la-nostalgia-por-carlos-avila-villamar/). Desde entonces seguí mandando cosas y seguí comunicándome con Iroel Sánchez, vía Facebook (no nos conocimos en persona hasta varios meses más tarde), y encontré en él muchísima más tolerancia de la que me habían referido prácticamente nueve de cada diez personas a las que había preguntado. _La pupila insomne_ surgió en medio de una atmósfera terriblemente monocorde y agresiva en internet contra el socialismo cubano, una etapa donde el acceso de los cubanos a las redes era muy minoritario. Humanitaria e impunemente no pocos medios internacionales se encargaban de imaginarse cómo se pensaba en la “isla bajo el castrismo”, y de publicar esas literarias imaginaciones como si fueran verdades absolutas. Por suerte esos tiempos han ido pasando, al menos es más difícil la impunidad. Hace poco Iroel me preguntó cómo pensaba que podría mejorar su blog hoy día, le dije que para empezar haciendo una actualización radical a su diseño. Tú sabes de lo que te estoy hablando, me dijo entre risas. Bueno, contesté, quizás deba abrir sus propósitos iniciales, ser _más_ que una respuesta a algo externo, ampliar el debate en su interior, [como hicimos con el tema de la escuela Lenin](https://lapupilainsomne.wordpress.com/2017/12/26/la-lenin-y-un-tren-llamado-dialectica-por-javier-gomez-sanchez/) (ver además del texto enlazado antes ([https://lapupilainsomne.wordpress.com/2017/12/13/dos-tercios-mas-dos-tercios-menos-por-carlos-avila-villamar/](https://lapupilainsomne.wordpress.com/2017/12/13/dos-tercios-mas-dos-tercios-menos-por-carlos-avila-villamar/)). Él afirmó con la cabeza. El blog _La pupila insomne_ no paga colaboraciones, no tiene dominio propio, lo tiene que administrar Iroel alternándolo con el trabajo. No he encontrado pistas de que él sea [como dicen ciertos personajes](https://lapupilainsomne.wordpress.com/2017/09/08/los-desmanes-del-regimen-y-el-archipielago-farber-por-iroel-sanchez/), un agente de la seguridad cubana. Será muy eficiente, supongo.
 
 Tomado de [La Pupila Insomne](https://lapupilainsomne.wordpress.com/2018/05/07/apuntes-de-pose-y-postura-carlos-avila-villamar/)
-
-[Otro texto del autor](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "tiendas en MLC en Cuba"
+title: "Ay, dólares…"
 date: "2020-10-17T09:30:00+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/10/Ans-Vink.jpg"
+image: ""
 ---
 Solo en los minutos finales de la Mesa Redonda vino a tratarse el tema, a pesar de (o quizás por) ser uno de los más polémicos: si se va a ir hacia una sola moneda, ¿por qué se siguen creando tiendas en MLC? La respuesta:
 
@@ -26,13 +26,3 @@ Nuestra economía pecará de mercenaria si no depende en exclusivo del sudor de 
 De momento, sumémonos al coro: _¡Ay, dólares, lolitos, lolos, conmigo van a acabar!._
 
 tiendas en MLC en Cuba, tiendas en MLC en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

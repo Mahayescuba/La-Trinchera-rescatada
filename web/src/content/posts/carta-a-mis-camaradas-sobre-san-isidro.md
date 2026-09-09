@@ -1,9 +1,9 @@
 ---
-title: "Huelga de hambre en San Isidro La Trinchera Por: Carlos Avila Villamar"
+title: "Carta a mis camaradas sobre San Isidro"
 date: "2020-11-25T10:30:17+00:00"
 author: "Carlos Ávila Villamar"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/11/Costantino-Posa.jpg"
+image: ""
 ---
 El primer problema con San Isidro es que uno no tiene una fuente fiable de información. El acoso es real, de eso no hay dudas, y tampoco creo que haya nada que lo justifique, no creo que sea un motivo de bromas, ni un incidente menor _que no merezca ser magnificado en la prensa nacional_. No sé la magnitud real del acoso, no obstante, y me parece irresponsable repetir la versión más melodramática de los hechos (_no es dictadura, sino genocidio_ y demás). La huelga de hambre es al menos parcialmente real, y puesto que ya dura cuatro días, y dado que existe la posibilidad de que sea por completo real, no merece ser minimizada o invisibilizada. Uno no puede dejar de impresionarse, sin embargo, por la salud que parecían mantener todavía los huelguistas en su segundo día y por la estadística que dice que con dos días sin tomar agua un ser humano ya debe estar al borde de la muerte. No digo que sea necesariamente un fraude, solo creo que al menos provoca que uno se cuestione las cosas. Repito que incluso una huelga falsa no justifica el acoso (la campaña de descrédito es de pésimo gusto, por cierto, como la mayoría de la propaganda de ese tipo que vemos en las redes sociales, cuya visibilidad se multiplica artificialmente mediante una vergonzosa red de usuarios falsos, creados de manera premeditada para incidentes semejantes). Lo que quiero analizar, y lo que me gustaría que las personas autopercibidas como _revolucionarias_ analizaran, es lo único medible y transparentemente real que ha habido en este triste episodio todavía en curso: la reacción de la _gente_. La reacción de los estudiantes universitarios, de los profesores universitarios, de los escritores, de los artistas, de lo que se podría considerar un sector letrado, más o menos letrado, en la ruina económica, política y social en la que vivimos. Lo que nadie puede negar ha sido el aplastante e inmediato apoyo que han tenido los huelguistas (reales o no) en un sector que no hay forma de presentar como fácilmente _manipulable_.
 
@@ -22,17 +22,3 @@ Mi generación ha estudiado más carreras médicas, técnicas y científicas que
 El sistema ha sido tan estúpido que solo se ha movido, ha cambiado o ha cedido a demandas populares cuando no ha tenido más remedio, cuando ha visto en riesgo su propia seguridad a mediano o a corto plazo. De esta forma ha educado a la gente con la noción de que solo actitudes radicales o situaciones críticas le permiten mejorarse. Ha educado a quienes se le oponen, como si fuera un bravucón, con la idea de que _no basta que me aconsejes, solo hago algo si me obligas a hacerlo_, con el consecuente _ahora oblígame si quieres_. Me molesta mucho el argumento de que _si a la oposición no le gusta esto, que coja las armas y vaya para la Sierra_, puesto que si en verdad la oposición lo hiciera, el discurso del gobierno cambiaría radicalmente a _la oposición es violenta y quiere dividir al país_. He comprobado personalmente que nada de lo que _diga_ la gente va a provocar algún cambio en el país que no estuviera previamente acordado dentro del gobierno, por tanto las protestas en redes sociales y los artículos (como este que estoy escribiendo) tienen poco o nulo efecto real, solo queda la violencia (que nadie con dos dedos de frente quiere para un país al borde del colapso) y la protesta pacífica. Comparto muy pocas ideas con los huelguistas de San Isidro, pero simpatizo con el método de la protesta pacífica. Recomiendo a mis camaradas comunistas pensarlo dos veces antes de burlarse de la protesta pacífica. Si quieren preservar y mejorar el socialismo, más les vale no dejar a la gente sin la opción de esta.
 
 Tomado del [blog](https://cavilavillamar.medium.com/) del autor
-
-huelga de hambre en San Isidro, huelga de hambre en San Isidro, huelga de hambre en San Isidro, huelga de hambre en San Isidro, huelga de hambre en San Isidro
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/ca.jpg)
-    
-    ![](/wp-content/uploads/2020/12/ca.jpg)
-    
-    [Carlos Ávila Villamar](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/carlos-avila-villamar/)
-    
-    Filólogo, narrador y editor.
-    
-    [](https://cavilavillamar.medium.com)

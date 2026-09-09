@@ -3,7 +3,7 @@ title: "El trabajo por cuenta propia en Cuba (I)"
 date: "2018-11-26T05:05:55+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/11/fefi.jpg"
+image: ""
 ---
 ### El futuro después del 7 de diciembre de 2018
 
@@ -47,15 +47,3 @@ Una cuestión bien controvertida es el reconocimiento nuevamente, de que las per
 Para diferenciar se utilizó la frase «por cuenta propia» en pos de aludir a la realización de actividades en un ámbito distinto al estatal. Esto último tiene cierta lógica, no obstante, el eufemismo debe ser desterrado de la técnica jurídica. Y precisamente, radica aquí otra sombra, en tanto se continúa sin reconocer a los sujetos que contratan a trabajadores por cuenta propia como empleadores y menos como empresarios. De hecho, estos «contratados» también dejan de ser trabajadores por cuenta propia para convertirse en trabajadores subordinados.
 
 Para ver la segunda parte del artículo [Trabajo por Cuenta Propia en Cuba](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

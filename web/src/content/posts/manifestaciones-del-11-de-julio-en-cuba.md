@@ -1,5 +1,5 @@
 ---
-title: "Manifestaciones del 11 de julio en Cuba"
+title: "Hace tiempo que no sueño"
 date: "2021-07-16T16:00:00+00:00"
 author: "Miguel Angel Maeda Torres"
 category: "Opinión"
@@ -16,17 +16,3 @@ No importa el ruido que haga el coro de siempre, creador de silencios que asumen
 Mientras espero que la cola termine, solo deseo que llegue la noche de nuevo para dormir, sin sueños, pero con esa sensación de tocar el vacío, la nada, que es donde único encuentro la paz. Y al volver a despertar me siento de nuevo mal, me siento una mierda por tratar de evadir esta realidad, que necesita que la transformen para que TODOS volvamos a soñar.
 
 Estoy en contra del bloqueo, de la [intervención militar](/invasion-de-eua-a-cuba/). Pero también del inmovilismo, del triunfalismo, de la corrupción, de la ineficiencia, de la intolerancia, de la violencia de todo tipo, del nepotismo, y de que todos mis amigos y colegas se marchen a otros lugares, no paradisíacos, pero donde al menos pueden volver a soñar.
-
-> [Las calles son de los Laboristas](/las-calles-son-de-los-laboristas/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Las calles son de los Laboristas» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/las-calles-son-de-los-laboristas/embed/#?secret=O0SfNH2hiI" data-secret="O0SfNH2hiI" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-## Autor
-
--   ![](/wp-content/uploads/2021/07/MAM2021-07-16-14.03.37.jpg)
-    
-    ![](/wp-content/uploads/2021/07/MAM2021-07-16-14.03.37.jpg)
-    
-    [Miguel Ángel Maeda Torres](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/miguel-angel-maeda-torres/)
-    
-    Profesor de Historia, historiador y escritor.

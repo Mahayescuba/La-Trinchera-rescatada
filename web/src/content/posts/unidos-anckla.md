@@ -3,7 +3,7 @@ title: "Unidos"
 date: "2019-04-25T06:27:11+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/04/PicsArt_04-25-02.21.07.jpg"
+image: ""
 ---
 unidos.
 
@@ -23,10 +23,6 @@ Ella levanta los brazos y las cejas sin comprender bien, moviendo los pechos jov
 
 \-¿Qué hacemos con esto?-, pregunta dándole una caricia fuerte en los huevos con los tacones.  
 \-Déjamelo, tú quédate con su dinero y si quieres el espray, pero piérdete-, digo sin mirarla.
-
-![](/wp-content/uploads/2019/04/picsart_04-25-021043540256.jpg)
-
-![](/wp-content/uploads/2019/04/picsart_04-25-021043540256.jpg)
 
 ##### Fotografía: Óscar Pérez
 
@@ -55,13 +51,3 @@ Me quité el uniforme en la bóxer. Todo lindo en una javita menos la tonfa. La 
 El chofer y yo la vimos arder, mientras se acomoda la tonfa bajo el asiento. La comodidad de las cosas bien planeadas y la cooperación de los vecinos es fundamental. Ya les diré más tarde qué une más a las personas que las consignas. Y por cierto, ese HP copia de poli hecha en Oriente se lo tenía ganado. Por muy psicópata que yo sea, se lo buscó. Y salió rápido y sin dolor, cortesía de la falta de tiempo.
 
 ##### unidos. unidos. unidos unidos unidos unidos
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    [Anckla](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/anckla/)
-    
-    [](https://www.amazon.com/s?i=digital-text&rh=p_27%3AAnckla+Almirante+&s=relevancerank&language=es&text=Anckla+Almirante+&ref=dp_byline_sr_ebooks_1)

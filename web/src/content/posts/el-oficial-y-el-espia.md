@@ -1,9 +1,9 @@
 ---
-title: "El oficial y el espía Román Polanski y el Affaire Picquart"
+title: "Román Polanski y el Affaire Picquart"
 date: "2020-08-01T23:35:36+00:00"
 author: "José Gabriel Barrenechea"
 category: "Cultura"
-image: "/wp-content/uploads/2020/08/1572439333859.jpg"
+image: ""
 ---
 Este pasado sábado 25 de julio la TV cubana exhibió el último filme de Roman Polanski, _[El oficial y el espía](https://es.wikipedia.org/wiki/El_oficial_y_el_espía)_, estrenada en Europa a fines del 2019.
 
@@ -34,15 +34,3 @@ Esta idea es también, por supuesto, un recurso que le permite al autor defender
 Una declaración muy necesaria de Roman Polanski, en estos tiempos en que más que los argumentos en sí, lo que parece importar son las intenciones de quienes los emiten.
 
 [También puede interesar](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

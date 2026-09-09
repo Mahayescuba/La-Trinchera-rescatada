@@ -3,7 +3,7 @@ title: "La Armadura de Dios"
 date: "2019-08-05T13:47:18+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/08/My-Fotolog.jpeg"
+image: ""
 ---
 Dios. 
 
@@ -26,15 +26,3 @@ Otro cubano más, tragado por esa enmarañada selva colombiana.
 La realidad no es absoluta; aquí tenemos cosas buenas, lo sé, pero hay una pregunta importante dentro de nuestro contexto. ¿Qué nos pasó, cuando hace 60 años veíamos el futuro con vestigios de esperanza? Una amiga psicóloga me dijo una vez: “Julio, es por falta de oportunidad.” El futuro es concreto, y parece insuperable esa depresión económica, sembrada en nuestro patio desde los noventa. Por las noches, cuando rezo, termino pidiendo para los jóvenes lo mismo que el [Papa Francisco](https://es.wikipedia.org/wiki/Francisco_\(papa\)): coraje  
 Mi amigo, en una de mis visitas, dibujó un traje en la pared; me dijo que quería compartirlo con todos los cubanos. Su esbozo representaba la armadura de Dios.  
 Y no un elefante.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "27N y manotazo en el mincult"
+title: "Resolución 27 / 2021"
 date: "2021-02-04T10:30:00+00:00"
 author: "Jorge Fernández Era"
 category: "Onírica"
-image: "/wp-content/uploads/2021/02/oriel-myrddin-gallery.jpg"
+image: ""
 ---
 Por cuanto: El pasado 27 de noviembre, un grupúsculo de jóvenes y no tan jóvenes, con el insano propósito de joder los jardines del Ministerio de Cultura y no dejar que los funcionarios de esa institución regresaran a casa a atender los suyos, se plantaron y de qué manera en la calle 2 del habanero Vedado.
 
@@ -30,15 +30,3 @@ Resuelvo: Fundar, en el edificio que hasta ayer ofició como Embajada del Imperi
 Resuelvo: Que a partir de la fecha en que se publique esta resolución en el Papel Gaceta Oficial de la República, el año en Cuba estará compuesto por catorce meses de 26 días cada uno. Como siempre será 26, no tendrán los provocadores ni un 27 donde armar lo suyo, y se verán obligados a disolver el movimiento. El acumulado de jornadas por año (26 por 14) permitirá un total de 364 días y la creación, además de los meses de triciembre y cuatrociembre, de un día de repuesto que nombraremos “día cero” y colocaremos a conveniencia cada vez que se necesite poner en práctica la actualización del concepto de Revolución que implica ordenar todo lo que deba ser ordenado, o lo que es igual: ordenar el ordenamiento.
 
 Resuelvo: Revolucionar la Revolución, resolver todo lo que deba ser resuelto en aras de no seguir involucionando hacia lo irresoluble.
-
-27N y manotazo en el mincult, 27N y manotazo en el mincult
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

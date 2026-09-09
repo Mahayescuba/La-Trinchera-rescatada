@@ -1,5 +1,5 @@
 ---
-title: "Precios y oferta en Cuba"
+title: "La lata de refresco"
 date: "2021-04-05T16:00:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
@@ -65,8 +65,6 @@ Hecho que no solo es contrastable en la observación del mercado oficial cubano,
 
 Esa relación de la cantidad ofertada y su precio, donde el precio no varía pero la cantidad ofertada sí, se puede graficar de la siguiente manera:
 
-![](/wp-content/uploads/2021/04/refresco2021-04-05-15.57.46.jpg)
-
 Sabemos que en dicho gráfico, la función aunque no esté declarada su definición, la tiene (en determinado dominio). Por ejemplo, la oferta no puede ser de 62 mil millones de latas de refresco. Esa cantidad es impensable, y de hecho exigiría una rebaja de precios. Por lo que está implícito que el intervalo de definición de la función se corresponde con cantidades más o menos reales y coherentes con la realidad del mercado cubano, las producibles, las importables, las consumibles. También sabemos que en sobreoferta la cosa debería cambiar, pero ese no es el escenario cubano actual, ni es cercano. Que nadie olvide que, si de refresco de cola se trata, estamos en escasez. Y no es ni remotamente lo único. 
 
 Al menos, según recuerdo, esta forma monoprecio de la oferta ha sido perceptible en los últimos 10 años.
@@ -74,17 +72,3 @@ Al menos, según recuerdo, esta forma monoprecio de la oferta ha sido perceptibl
 Y no hablo del _[posordenamiento](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjmwovh8ufvAhURXM0KHRCfBiAQFjAAegQIAhAD&url=http%3A%2F%2Fwww.cubadebate.cu%2Fespeciales%2F2021%2F03%2F05%2Fla-tarea-ordenamiento-es-necesaria-y-el-gobierno-ha-actuado-escuchando-el-pueblo%2F&usg=AOvVaw08YOV2_7m3TT_i318iloba)_ porque nunca más he visto una lata de refresco.
 
 [Artículo anterior](/politica-en-cuba/)
-
-precios y oferta en Cuba, precios y oferta en Cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

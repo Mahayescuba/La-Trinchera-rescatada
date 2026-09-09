@@ -3,7 +3,7 @@ title: "Gramsci: el sencillo arte de pensar"
 date: "2019-03-05T06:28:24+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2019/03/PicsArt_03-03-05.48.24.jpg"
+image: ""
 ---
 Gramsci.
 
@@ -150,15 +150,3 @@ Cf. Gramsci, A. El Materialismo Histórico y la filosofía de Benedetto Croce. E
 **Publicado originalmente en la revista Debates Americanos, La Habana, No.1, enero-junio, 1995, pp. 52-61. Esta versión ha sido reproducida con autorización de su autora.**
 
 Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci Gramsci
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

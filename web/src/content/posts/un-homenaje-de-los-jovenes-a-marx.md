@@ -3,7 +3,7 @@ title: "Un homenaje de los jóvenes a Marx"
 date: "2018-05-16T16:30:16+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2018/05/31_01_marx.jpg"
+image: ""
 ---
 Éramos pocos, es verdad. Apenas un grupo de jóvenes-que contando los que estaban pero que no aparecen en la foto-, igual era menos que aquellos locos de los 7 fusiles. ¿Pero cuándo los revolucionarios hemos sido tantos?
 
@@ -20,15 +20,3 @@ Hubo algo que me llamó mucho la atención: la composición del grupo. Es iróni
 La tertulia se extendió por casi 5 horas, y al parecer, la ontología no se veía agotada. No se trata de crear círculos de _intelectuales por la intelectualidad_, pero sí se sabe, que la transformación radical del mundo, implica construir un reflejo correcto (no el sentido de Husserl) de esta.
 
 Esa fue la forma en que consideramos mejor homenajear a Marx.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

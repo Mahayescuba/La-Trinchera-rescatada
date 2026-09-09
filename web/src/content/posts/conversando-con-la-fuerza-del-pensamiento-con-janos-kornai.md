@@ -1,19 +1,15 @@
 ---
-title: "Entrevista a Janos Kornai por Sergio Acosta"
+title: "Conversando (con la fuerza del pensamiento) con János Kornai"
 date: "2021-10-22T09:30:47+00:00"
 author: "Sergio Acosta Peña"
 category: "Entrevista"
-image: "/wp-content/uploads/2020/01/img-20200127-wa000776404693773719453.jpg"
+image: ""
 ---
 > Para Sergio Acosta, agradeciendo la interesante conversación, János Kornai, 19.1.2020. (Sergio Acostának , köszönettel az érdekes beszélgetését, Kornai János, 2020.1.19 )
 
 Así dice textualmente la dedicatoria del profesor Kornai en su libro autobiográfico [_Con la fuerza del pensamiento_](https://es.wikipedia.org/wiki/János_Kornai) (2005, Osiris Kiadó), un regalo de mi hija Sara Diana después de una larga búsqueda y exitosa compra en un anticuario, pues estaba agotado.
 
 Lo tengo desde enero de 2019. Es un libro denso, que va contando su vida y profundizando en los temas de investigación, profesionales, sin dejar de lado los familiares. Les confieso que sigo leyéndolo por partes, como un postre exquisito, pues aunque todavía domino bastante el húngaro (sólo existe una versión en húngaro e inglés) he querido usarlo para practicarlo.
-
-![](/wp-content/uploads/2020/01/img-20200127-wa00086087330942601067128.jpg)
-
-![](/wp-content/uploads/2020/01/img-20200127-wa00086087330942601067128.jpg)
 
 Gracias al mismo he podido conocer mejor el periodo de la revolución del 56 que lideró Imre Nagy y que fue aplastada por los soviéticos; que previamente Kornai trabajaba en el programa económico del Gobierno revolucionario. También sobre su expulsión de instituciones por oponerse al sistema comunista y escribir en diferentes medios de la época; sobre la negativa de las autoridades a sus pedidos de salida del país. Me resultó muy interesante leer cómo Kornai nunca quiso ningún puesto gubernamental para no perder su independencia en sus análisis críticos. Una joya en el libro son sus consejos de economía de mercado ofrecidos y aceptados por los chinos, y muchos otros temas para mí desconocidos. Lástima que el libro no exista en español.  
 Aquí, a continuación, nuestra charla.
@@ -40,10 +36,6 @@ Cuando yo hablo de China lo hago porque mis amigos chinos están allí, viven al
 **Sergio**: Existen muy buenos análisis, artículos, tanto desde Cuba como en el exterior. Pensé previamente a nuestro encuentro enviarle algunos en inglés, pero no quería presionarlo con lecturas, porque nuestro encuentro iba a ser una visita de cortesía, para conocernos, y preguntarle si podíamos conversar sobre otros temas, preguntarle…  
 **Kornai**: No puedo prometerle que los podré leer. Comencé nuestra conversación contándole sobre mi pésimo estado de salud. Apenas salgo de casa. Mi esposa murió el año pasado y esto cambió completamente mi vida. Muchas de las cosas que ella hacía ahora yo las hago. No me quejo, pero estoy satisfecho si puedo tratar un tema a la vez, si tengo que hacer más, es muy difícil para mí.  
 **Sergio**: Leí su último artículo en el Financial Times sobre China. De julio del 2019. ¿Le ocupa alguno más?
-
-![](/wp-content/uploads/2020/01/img-20200127-wa00061870747354315035725.jpg)
-
-![](/wp-content/uploads/2020/01/img-20200127-wa00061870747354315035725.jpg)
 
 **Kornai**: Esa es una versión corta, hay una versión más larga. Escribí dos artículos. Ellos lo editaron. Si le interesa ese tema, el segundo artículo corresponde al eco que recibí después del primero. Aclara muchas cosas. No solo se refiere a China, sino también a la ética política, a la ética pública. Me gustaría que lo leyera. Si puede acceder al Acta Económica. Van a ser publicados ambos, y en su totalidad, no abreviados. Quiero escribir otro artículo sobre 1956.  
 **Sergio**: Sobre 1956, leyendo su autobiografía me resultó muy interesante la parte en que escribe sobre las reformas económicas que estaba preparando para el programa de Gobierno de Imre Nagy.  
@@ -97,10 +89,6 @@ Kornai: ¿Y los cubanos no son buenos en las tecnologías de la información e i
 **Sergio**: Durante 60 años la política de Estados Unidos con Cuba no logró sus objetivos. Obama intentó cambiar. Obama hizo prácticamente todo lo que estaba a su alcance en relación con Cuba para suavizar la presión. Pero ahora Trump hace exactamente lo contrario. Quizás su estrategia es pensar en que el pueblo ante la penuria económica se va a rebelar. Parte de la estrategia de Washington está relacionada con que no es bien vista la alianza que La Habana tiene con Venezuela. Yo creo que todo esto es contraproducente. ¿Coincide usted conmigo?  
 **Kornai**: Sí, es contraproducente, pero hay situaciones cuando la historia crea una situación tan mala y además sin salida. La política estadounidense es muy volátil en esto. Los cubanos, en particular, no se atreven a rebelarse. Para que surja una revolución, depende de muchos factores. Estalla cuando realmente se sienten mal en carne propia los líderes. O sea, el propio partido comunista no está satisfecho, pero no creo que este sea el caso, por el contrario, se alaban a sí mismos.
 
-![](/wp-content/uploads/2020/01/img-20200127-wa000776404693773719453.jpg)
-
-![](/wp-content/uploads/2020/01/img-20200127-wa000776404693773719453.jpg)
-
 #### Hasta aquí nuestra conversación. Ahora les cuento sobre mi relación con Hungría y con Kornai.
 
 Terminé la Universidad de Ciencias Económicas Carlos Marx de Budapest en 1987. En los últimos años empezaban a enseñarnos la economía de dos niveles socialista y capitalista, y también empecé a escuchar sobre Kornai. Quizás su trabajo más influyente es el libro de 1980, _Economía de la escasez_. En él argumentó que la escasez crónica vista a finales de la década de 1970 en la Europa comunista y que continuó durante la década de los 1980 no fue consecuencia de errores de planificación o de precios incorrectos, sino más bien se debió a fallas del sistema socialista unipartidista y centralizado. Después supe, aunque nunca lo leí, de su libro de 1988 (año en el que regresé a vivir a Hungría) _El sistema socialista, la economía política del comunismo,_ en el que argumenta que la economía de control de un partido comunista marxista-leninista lleva a un predominio de una administración burocrática de empresas estatales, con una planificación centralizada y la fijación de precios para eliminar los efectos del mercado, dando lugar a la economía de la escasez. En sus artículos que leí posteriormente Kornai se declara muy escéptico en los esfuerzos para crear un socialismo de mercado. Y después de una larga pausa de casi dos décadas, empecé nuevamente a seguirle las pistas al profesor emérito de la Universidad Corvinus de Budapest, y también emérito de Harvard donde enseñó por casi 15 años. Hoy ya tiene recién cumplidos 92 años.  
@@ -117,13 +105,3 @@ Su vida, contada gran parte en _Con la fuerza del pensamiento_ es un relato hone
 **Tomado del Facebook del autor con su autorización**
 
 [También puede interesar](/opinion/)
-
-## Autor
-
--   ![](/wp-content/uploads/2021/10/50517202_751771075187614_3203654795151802368_n.jpg)
-    
-    ![](/wp-content/uploads/2021/10/50517202_751771075187614_3203654795151802368_n.jpg)
-    
-    [Sergio Acosta](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/sergio-acosta/)
-    
-    Soy un periodista cubano de nacimiento y aprendiz de la vida

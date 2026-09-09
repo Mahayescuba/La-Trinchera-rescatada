@@ -1,5 +1,5 @@
 ---
-title: "Yo zanganeo, tú zanganeas...todos zanganeamos"
+title: "Yo zanganeo, tú zanganeas…todos zanganeamos"
 date: "2019-10-09T13:48:13+00:00"
 author: ""
 category: "Opinión"
@@ -24,16 +24,4 @@ Lo bueno es que la gente comprendió que ya no hay cómo hacerles caso. Que habl
 
 **No**
 
-Ecuador Ecuador 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+Ecuador Ecuador

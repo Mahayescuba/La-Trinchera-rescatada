@@ -3,7 +3,7 @@ title: "Teoría del valor y dialéctica"
 date: "2018-02-02T20:05:04+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Economía Política"
-image: "/wp-content/uploads/2018/02/valor-y-dialectica.jpg"
+image: ""
 ---
 (…) ¿Creen que Marx se apropió de la dialéctica, para terminar hallando el valor con lógica formal? Me parece un poco irónico, que el mejor libro jamás escrito de dialéctica aplicada (El Capital), defina su categoría base (el valor) a partir de la matemática. Asumir esto, implica poseer una visión irreal y limitada de lo que son la lógica formal y la dialéctica (…)  
 1-Introducción a la cuestión:  
@@ -41,15 +41,3 @@ Marx, Carlos. 2002. El Capital. s.l. : Siglo XXI, 2002.
 Rubin, Isaak Illich. 1974. Ensayos sobre la teoría del valo. Córdova : Ediciones pasado y presente, 1974.
 
 Tomado del blog “La Luz Nocturna” y “Rebelión”
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

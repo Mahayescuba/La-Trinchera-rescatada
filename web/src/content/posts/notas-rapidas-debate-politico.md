@@ -1,9 +1,9 @@
 ---
-title: "Revolución"
+title: "Unas notas rápidas en medio del debate político"
 date: "2019-02-22T18:54:55+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/02/PicsArt_02-22-12.26.54.jpg"
+image: ""
 ---
 Revolución.
 
@@ -40,15 +40,3 @@ Lo revolucionario no es el gobierno, tampoco fuera de este se es lo contra-revol
 
 El veredicto sobre eso, a base de un mal uso de teoría de conjuntos, no arrojará un resultado correcto.  
 Descalificar a la actividad independiente que ha alcanzado a la vida política-ideológica, no es nada apropiado. Es cuestión de asumir su presencia y sus causas los espacios vacios de la actividad oficial en esos aspectos-. Tal parece que lo que molesta es la pérdida de la hegemonía ideológica absoluta. Basta de acusaciones y de atacar al mensajero. Es solo una sugerencia.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

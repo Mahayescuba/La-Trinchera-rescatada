@@ -1,9 +1,9 @@
 ---
-title: "El Garaje con C, yo lo soñé... literal"
+title: "El Garaje con C, yo lo soñé… literal"
 date: "2019-07-01T02:14:12+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2019/06/IMG_20190623_175533-1024x768.jpg"
+image: ""
 ---
 Pues sucede que aquél día conocí el proyecto «Garaje con C» y a una de sus fundadoras Celia Pérez. Una muchacha encantadora que parece no saber cómo dejar de sonreir, casi como una niña.
 
@@ -76,13 +76,3 @@ Hay también un taller de artes plásticas, por acá por el Vedado, que allí se
 O: ¿Qué consideras que mantiene vivo a un proyecto tan altruista?
 
 C: El apoyo y la entrega de todas las personas involucradas. Eso se demuestra, no solo en cada actuación, sino desde el propio montaje. El Garaje lo hacemos nosotros y todo el que quiera sumarse con las manos. Hasta el momento no hemos tenido apoyo tangible de alguna institución – no estamos diciendo que no estemos abiertos a eso en algún momento – , todo lo que sucede allí abajo es obra y esfuerzo de la gente, que como te dije ahorita no todos son artistas. Casi siempre son entusiastas y amigos que con mucha disposición vienen a ayudarnos: limpiar, cargar instrumentos, pintar o lo que sea.
-
-## Autor
-
--   ![](/avatar/1010b575bf391bce9a2284b98c9b4c4e?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/1010b575bf391bce9a2284b98c9b4c4e?s=80&r=g&d=mm)
-    
-    [oscaracso28944](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/oscaracso28944/)
-    
-    [](mailto:oscaracsocuba95@gmail.com)

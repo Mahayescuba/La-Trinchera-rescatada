@@ -1,5 +1,5 @@
 ---
-title: "Medidas económicas"
+title: "El preguntón"
 date: "2020-07-20T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
@@ -25,16 +25,4 @@ Si la estrategia se aprobó por el [Buró Político](http://www.cubadebate.cu/et
 
 ¿Será que esta es la Revolución de los USmildes, por los USmildes y para los USmildes?
 
-[Otro texto del autor](/onirica/)
-
-medidas económicas medidas económicas medidas económicas 
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)
+medidas económicas medidas económicas medidas económicas

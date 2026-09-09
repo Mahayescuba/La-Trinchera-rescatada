@@ -1,9 +1,9 @@
 ---
-title: "Pérdida del poder adquisitivo en Cuba ¿Beneficios?"
+title: "¿Beneficios?"
 date: "2021-02-06T17:00:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/02/Jane-Balsgaard.jpg"
+image: ""
 ---
 Una mediación no es lo que está en el medio, sino a través de lo cuál puede realizarse algo, me enseñó María del Pilar Díaz Castañón. En la jerga de la economía clásica eso es válido también.
 
@@ -28,17 +28,3 @@ De ahí que quede un ordenamiento que ha sido, por definición, una contracción
 ¿Puede la pérdida del poder adquisitivo ser algo favorable para la economía? Sí, pero no para la de las mayorías. Se le suma el imaginario negativo alrededor del “hacer negocios”, la afectación a la cultura (ya deformada) de emprender. 
 
 Quizá se perdió de vista lo que sirvió acá de punto de partida: las mediaciones no son el medio, ni tienen vida propia, ni son algo separado. En ellas se expresa algo. La compra es la mediación esencial de la producción y el consumo; el comportamiento de la compra determina el comportamiento del consumo y la producción. A lo simple: poder comprar menos es consumir menos, es que otros consuman menos de lo que necesitan para producir y produzcan menos. ¿Beneficios?
-
-pérdida del poder adquisitivo en Cuba, pérdida del poder adquisitivo en Cuba
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

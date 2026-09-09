@@ -26,15 +26,3 @@ Los personajes de la serie son magnéticos y complejos, capaces de una gran sabi
 El video donde un policía encaja su rodilla durante ocho minutos en el cuello de George Floyd, y las protestas que ha desencadenado este suceso, me remitieron con rapidez a _The Wire_. Después de todo, Floyd creció en unos _projects_ de Houston, en un escenario similar al que se muestra en la serie_._ Estos _housing projects_ son vecindarios donde vive una gran parte de la comunidad afroamericana de los Estados Unidos, construidos a partir del mismo modelo urbanístico. Y que no son más que una forma moderna de segregación. Por lo que se puede deducir que estudió en las mismas escuelas y vivió experiencias parecidas a estos personajes ficticios. Tuvo las mismas oportunidades o, mejor dicho, la misma carencia de oportunidades. Los Floyds de este mundo, donde quiera que se encuentren, experimentan la desilusión y la violencia del sistema a diario.
 
 Este texto no pretende ser una crítica a la serie, tampoco un análisis de las protestas que ocurren ahora mismo. Es una invitación al lector a utilizar _The Wire_ como herramienta para interpretar la realidad. Como bien nos sugiere Žižek en la frase que menciono, hay que aceptar que no hay futuro en el sistema actual, y dirigir nuestras protestas hacia los cimientos de un capitalismo que se tambalea. Protestar contra Trump, Derek Chauvin, o la brutalidad policial, está muy bien, pero eso es atacar los síntomas, no la enfermedad. Entonces volvemos a estar ante un movimiento cuyo objetivo está más cercano a mitigar los excesos de un sistema, que a erradicar el mal de raíz.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

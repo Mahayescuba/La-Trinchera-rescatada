@@ -1,9 +1,9 @@
 ---
-title: "5 claves para mejorar el sueño y recuperar el equilibrio circadiano —"
+title: "5 claves para mejorar el sueño y recuperar el equilibrio circadiano"
 date: "2020-05-02T19:21:15+00:00"
 author: ""
 category: "Ciencia"
-image: "/wp-content/uploads/2020/05/IMG-20200501-WA0004.jpg"
+image: ""
 ---
 > [Texto anterior](/ciencia/)
 
@@ -71,13 +71,3 @@ Al respecto, Séneca dijo:
 _“Ninguna propensión humana es tan poderosa que no pueda ser vencida por el poder de la disciplina y la determinación”._
 
 Se necesita escucha al cuerpo, entender la mente y se coherente con las [Necesidades Biológicas](/teoria/).
-
-## Autor
-
--   ![](/avatar/fe7135b0e7e96af7c19b6e47e701063a?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/fe7135b0e7e96af7c19b6e47e701063a?s=80&r=g&d=mm)
-    
-    [daniloeuser](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/daniloeuser/)
-    
-    [](mailto:daniloeuser7@gmail.com)

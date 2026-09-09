@@ -3,7 +3,7 @@ title: "Te toca ser ingeniera y madre nuevamente"
 date: "2019-12-31T17:17:07+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/12/IMG_20191231_121727_809.jpg"
+image: ""
 ---
 madre. 
 
@@ -12,15 +12,3 @@ Las circunstancias precisamente no son las más ideales en estos días cuando to
 Un beso múltiple de esperanza, tus amigos  
 Posadata:  
 Ya eres ingeniera y madre, te toca ser ingeniera y madre nuevamente pero esta vez de vida, pare una vida para ti ingeniando una tesis para hacernos felices de nuevo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

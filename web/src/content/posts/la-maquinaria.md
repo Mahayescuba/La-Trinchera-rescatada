@@ -1,9 +1,9 @@
 ---
-title: "Miedo — La maquinaria La Trinchera Un texto de: Julián"
+title: "La maquinaria"
 date: "2021-04-15T16:00:00+00:00"
 author: "Julián"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/04/Johnson-Thang.jpg"
+image: ""
 ---
 “Prepárate, que aquí te vas a volver un cínico o te van a hacer mierda”
 
@@ -41,12 +41,4 @@ Lo peor de todo es que la frase que cito al inicio es totalmente cierta, o te vu
 
 Por miedo a no poder mirar a mi papá a la cara, por miedo a perder mi trabajo, a tener la mancha imborrable de la contrarrevolución a cuestas, por miedo a volver a vivir las noches de desvelo y las otras en las que soñaba no haber escrito nada, en las que soñaba que mi madre nunca había llorado de miedo, por todo ese miedo que infunde la maquinaria paranoica del Estado, es que me he vuelto un cínico. Un cínico que reniega de su educación, de sus convicciones, un cínico que se vuelve peligrosamente un autómata complaciente, otro más, en este amplio coro de los que callan, en esta gran isla de cínicos. 
 
-En algún lugar de Cuba, Julián. 
-
-## Autor
-
--   ![](/wp-content/uploads/2021/04/alfano.jpg)
-    
-    ![](/wp-content/uploads/2021/04/alfano.jpg)
-    
-    [Julián](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/julian/)
+En algún lugar de Cuba, Julián.

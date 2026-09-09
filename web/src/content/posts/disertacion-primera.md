@@ -3,7 +3,7 @@ title: "Disertación primera"
 date: "2020-04-27T16:24:19+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/04/SummerDreamz.jpeg"
+image: ""
 ---
 Hablar de filosofía con amigos puede ser como esta Disertación primera.
 
@@ -21,17 +21,3 @@ Y allá voy yo ¡Oh, la desfachatez! ¡la incoherencia! ¡la doble moral! ¿Recu
 Pero tengo que aguantarte porque en el vórtice del mundo lo único que importa es la amistad ¿Era así, no? ¿la frase de Marx? Habría que ver esa amistad de Marx y Engels. Saúl, ¿me compras cervezas y yo trabajo? ¡Oh, la crueldad de este mundo opresor! ¡la falta de respeto!  
 Es que tengo que reírme, porque tú te crees que en las colas del pollo ¿a alguien se le ocurren estás genialidades? Saúl, ¡qué crisis! ¡No hay pollo! ¡Oh, oh, los placeres concupiscibles! Si Platón me ve, me manda directo para Slytherin. Yo lo que tengo son unas ganas de tomarme una cerveza, medio galón de vino como Cersei Lannister.  
 Saúl, ¿tu crees que de verdad los piratas abrían los galones de un puntapié y se empinaban del barril como borrachos perdidos? Y luego dicen que en el siglo XXI se vive mejor. Mira, ¡si me vuelves a hablar de filosofía! ¡si me vuelves a hablar de filosofía!… seguro, seguro, te respondo.
-
-[Otro texto del autor](/onirica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

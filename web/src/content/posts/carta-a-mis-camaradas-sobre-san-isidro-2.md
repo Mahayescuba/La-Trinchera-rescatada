@@ -1,9 +1,9 @@
 ---
-title: "huelga de hambre en San Isidro"
+title: "Carta a mis camaradas sobre San Isidro"
 date: "2020-12-26T17:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/11/Costantino-Posa.jpg"
+image: ""
 ---
 _Nota a los lectores: Para este final de año, a los editores de La Trinchera nos complace presentarles una selección de los textos más leídos de cada uno de los colaboradores de este espacio. A todos les agradecemos su confianza._ 
 
@@ -26,17 +26,3 @@ Mi generación ha estudiado más carreras médicas, técnicas y científicas que
 El sistema ha sido tan estúpido que solo se ha movido, ha cambiado o ha cedido a demandas populares cuando no ha tenido más remedio, cuando ha visto en riesgo su propia seguridad a mediano o a corto plazo. De esta forma ha educado a la gente con la noción de que solo actitudes radicales o situaciones críticas le permiten mejorarse. Ha educado a quienes se le oponen, como si fuera un bravucón, con la idea de que _no basta que me aconsejes, solo hago algo si me obligas a hacerlo_, con el consecuente _ahora oblígame si quieres_. Me molesta mucho el argumento de que _si a la oposición no le gusta esto, que coja las armas y vaya para la Sierra_, puesto que si en verdad la oposición lo hiciera, el discurso del gobierno cambiaría radicalmente a _la oposición es violenta y quiere dividir al país_. He comprobado personalmente que nada de lo que _diga_ la gente va a provocar algún cambio en el país que no estuviera previamente acordado dentro del gobierno, por tanto las protestas en redes sociales y los artículos (como este que estoy escribiendo) tienen poco o nulo efecto real, solo queda la violencia (que nadie con dos dedos de frente quiere para un país al borde del colapso) y la protesta pacífica. Comparto muy pocas ideas con los huelguistas de San Isidro, pero simpatizo con el método de la protesta pacífica. Recomiendo a mis camaradas comunistas pensarlo dos veces antes de burlarse de la protesta pacífica. Si quieren preservar y mejorar el socialismo, más les vale no dejar a la gente sin la opción de esta.
 
 Tomado del [blog](https://cavilavillamar.medium.com/) del autor
-
-huelga de hambre en San Isidro, huelga de hambre en San Isidro, huelga de hambre en San Isidro, huelga de hambre en San Isidro, huelga de hambre en San Isidro
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/ca.jpg)
-    
-    ![](/wp-content/uploads/2020/12/ca.jpg)
-    
-    [Carlos Ávila Villamar](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/carlos-avila-villamar/)
-    
-    Filólogo, narrador y editor.
-    
-    [](https://cavilavillamar.medium.com)

@@ -3,7 +3,7 @@ title: "Crónicas de Tutanga (III)"
 date: "2019-04-12T05:19:10+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/04/PicsArt_04-12-01.03.01.jpg"
+image: ""
 ---
 crónicas tutanga.
 
@@ -32,15 +32,3 @@ No sé si le llegarán a imponer la sanción de 4 años que pedía la Fiscalía 
 [Leer parte II](/onirica/)
 
 crónicas tutanga. crónicas tutanga. crónicas tutanga.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

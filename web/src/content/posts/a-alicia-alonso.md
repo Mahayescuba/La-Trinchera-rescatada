@@ -1,9 +1,9 @@
 ---
-title: "Para ella..."
+title: "Para ella…"
 date: "2019-10-20T13:39:41+00:00"
 author: ""
 category: "Cultura"
-image: "/wp-content/uploads/2019/10/1d6f972b-b1af-475a-9f6c-69bdd184b1e3.jpeg"
+image: ""
 ---
 Alicia Alonso. 
 
@@ -22,15 +22,3 @@ El jueves repentinamente voló, aunque todos sabíamos que ocurriría tarde o te
 Aunque la gente esto lo sabe, aún sigue escudriñando el cielo, aún es muy pronto para rendirse, aún es muy pronto para conformarse solamente con el dulce recuerdo de ese cisne a quien todos llamaban Alicia…
 
 De Ernesto.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

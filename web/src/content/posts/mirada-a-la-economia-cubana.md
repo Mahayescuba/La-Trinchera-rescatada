@@ -1,9 +1,9 @@
 ---
-title: "mirada a la economia cubana"
+title: "El año que finaliza"
 date: "2020-01-02T01:12:13+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/01/calendario-2019-dias-festivos-puentes-en-colombia.jpg"
+image: ""
 ---
 # Una mirada a la economía cubana
 
@@ -18,15 +18,3 @@ Difícil la tarea de marras, tan ardua como la tarea de Marrero. Le cambiaron la
 Ahora que se sobrecumple el plan de la vivienda y vamos firmes en el objetivo de que sea esta la que espere llave en mano por nuestros nietos, solo me queda pedir a Raúl, Canel y Marrero —haciéndoles extensivos mis deseos de un 2020 próspero… y sostenible— una reservita de materiales a ver si definitivamente destrabamos lo que haya que destrabar y, en aras de predicar con el ejemplo, terminemos de construir el socialismo.
 
 [También puede interesar](/onirica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

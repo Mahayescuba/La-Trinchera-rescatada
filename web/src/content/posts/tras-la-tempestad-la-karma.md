@@ -1,9 +1,9 @@
 ---
-title: "sesiones de la Asamblea Nacional"
+title: "Tras la tempestad la karma"
 date: "2020-10-29T09:30:23+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/10/Ice-melting-art-by-Nele-Azevedo.jpg"
+image: ""
 ---
 —Ay, mi amiga, vengo a pedirte que me hagas un cocimiento de los tuyos, a ver si se me baja el susto que me salta en el pecho.
 
@@ -34,15 +34,3 @@ https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica
 —¡Que si sí…! Eso sucedió en medio de la presentación de la Estrategia Económico-Social para salir de la pandemia. ¿A quién se le ocurre hacerlo en vivo, en momentos en que hay escasez hasta del tabloide que vendieron explicándola? Pero el caso es que la presentaron. Y lo de los precios topados no fue nada al lado de lo que dijo el ministro sin que le temblara la voz, casi retando al auditorio: _Tenemos problemas_. Ahí me subió la presión, no quise mirar, creí se lo comerían vivo, sería lo último en el cargo del más joven de nuestros dirigentes… Y ná, su osadía pasó por alto, porque al final to el mundo sabe que Cuba va bien…
 
 —Ya está el cocimiento. ¿Te gusta con azúcar prieta?
-
-sesiones de la Asamblea Nacional, sesiones de la Asamblea Nacional
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

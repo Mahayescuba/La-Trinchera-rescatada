@@ -1,9 +1,9 @@
 ---
-title: "pacto Molotov-Ribbentrop granma-y-la-historia"
+title: "Granma y la historia alrededor del Tratado Molotov-Ribbentrop"
 date: "2020-06-15T00:15:51+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2020/06/ParisUpdate-guernica-MuseePicasso-horse-1024x727-1.jpg"
+image: ""
 ---
 La realidad es que el pacto Molotov-Ribbentrop, pactado solo 8 días antes del ataque alemán a Polonia, provocó que la respuesta franco-británica se enlenteciera tras declarar la guerra, más allá de los naturales retrasos que implicaba la movilización general de ambos países
 
@@ -64,13 +64,3 @@ Sin embargo, en 1938 Churchill era un político que proponía lo opuesto de lo q
 En fin, que en Granma parecen creer seguir en otra época.
 
 [Otros textos del autor](_wp_link_placeholder)
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

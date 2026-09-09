@@ -3,7 +3,7 @@ title: "Otra vez discriminan a joven discapacitado"
 date: "2020-03-02T17:31:45+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/03/FB_IMG_1583170047911.jpg"
+image: ""
 ---
 discapacitado.
 
@@ -14,18 +14,4 @@ Todo parece indicar que el caso del joven invidente manzanillero Cesar Reynerio 
 Aunque la denuncia de Carlos Yordanis en facebook ya se acerca a las 2 mil interacciones, ningún medio de prensa provincial se ha hecho eco del asunto, y ninguno de los implicados en la decisión de negarle la matrícula en la Universidad Médica, ni sus supervisores, han dado una explicación pública.  
 El poeta y trovador Silvio Rodríguez, en el fórum de su blog Segunda Cita, se pronunció porque haya una rectificación y calificó de “triste lo que ha pasado”.
 
-![](/wp-content/uploads/2020/03/fb_img_15831700433106229916465660540437.jpg)
-
 Hace unos años, el periodista de Juventud Rebelde José Alejandro Rodríguez, publicó un caso similar ocurrido también en Granma, en su sección Acuse de Recibo, y ya la muchacha es doctora.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

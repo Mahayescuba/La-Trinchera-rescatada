@@ -1,5 +1,5 @@
 ---
-title: "El papel del valor en \"El Capital\""
+title: "El papel del valor en “El Capital”"
 date: "2018-02-19T16:15:10+00:00"
 author: ""
 category: "Economía Política"
@@ -78,13 +78,3 @@ Solo espero que en algún momento todos los marxistas logremos entender verdader
 3\. Lefebvre, Henri. Lógica formal Lógica dialéctica. Madrid : Siglo XXI, 1970.
 
 La categoría valor en el Capital, debe comprenderse como la herramienta explicativa que permite mostrar el papel social de los principales mecanismos
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

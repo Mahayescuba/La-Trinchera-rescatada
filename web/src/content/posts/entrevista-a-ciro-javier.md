@@ -1,9 +1,9 @@
 ---
-title: "Entrevista a Ciro Javier"
+title: "Me da lo mismo probar un teorema, que escribir una canción"
 date: "2020-07-28T09:30:00+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2020/07/2020-07-28-01.53.55.jpg"
+image: ""
 ---
 **Un estilo original definen el arte de Ciro Javier Diaz Penedo. Guitarrista y matemático, en las notas musicales de su instrumento confluyen la ciencia y el ingenio, lo irónico y mordaz. Exponente del punk caribeño, Ciro continúa desde los números; buscando el infinito en la música.**
 
@@ -15,15 +15,11 @@ Yo tenía 20 años cuando entré en _[Porno para Ricardo](https://es.wikipedia.o
 
 **Además de ser el guitarra líder de _Porno_… también cantaste algunas de las canciones más icónicas del grupo. ¿Los arreglos musicales también eran de tu autoría?**
 
-![](/wp-content/uploads/2020/07/2020-07-28-01.58.51.jpg)
-
 Porno para Ricardo
 
 Gorki ya tenía algunas canciones compuestas cuando empezamos, todas ellas aparecen en el disco _Rock para las Masas Cárnicas_ con arreglos hechos entre los cuatro. A partir del segundo disco comenzamos a componer Gorki y yo. Cada uno hacia sus canciones individualmente, pero las firmábamos entre los dos, al estilo Lennon-McCartney. Es fácil reconocer de quién es cada canción porque cada cual canta las suyas, excepto _El Comandante,_ que es una canción de mi autoría pero que cantamos entre los dos.
 
 Cuando Gorki sale de la prisión, las letras se vuelven muchísimo más contestatarias y políticas. Nosotros abrazamos una temática social, usamos un lenguaje híper directo, un estilo que ha sido muy común en el Punk. Nosotros seguimos nombrándonos un grupo punk, aunque nuestra música es bastante eclética. En lo referente a los arreglos, vale mencionar los aportes de Hebert Domínguez, que estuvo con nosotros durante buena parte de esta segunda etapa, donde grabamos los discos _A mí no me gusta la Política, pero yo le gusto a ella, Compañeros_, _Soy Porno Soy Popular y El álbum Rojo Desteñido (un auto titulado Porno para Ricardo)._ Por esa época también Luis Davis emigró para Canadá y Renay Kairús entró en la banda, y estuvo en ella durante varios años. También podemos destacar la participación de Renay en los arreglos, sobre todo en lo referido a la percusión.
-
-![](/wp-content/uploads/2020/07/2020-07-28-01.56.26.jpg)
 
 Gorki y Ciro
 
@@ -67,8 +63,6 @@ Yo me gano la vida como matemático, actualmente hago un postdoctorado en la Uni
 
 **¿Sigues formando parte del grupo _Porno para Ricardo_?**
 
-![](/wp-content/uploads/2020/07/2020-07-28-02.14.33.jpg)
-
 Sí, en los últimos años hemos tenido varias presentaciones internacionales (creo que más que conciertos en Cuba, en toda la historia) y yo viajo con Gorki y los muchachos para los conciertos. Desde el 2014 hasta hoy, hemos tocado en Polonia (2), España (3), Estados Unidos (2), Alemania (1) , Colombia (2), Argentina (3) y República Checa (5). Incluso grabamos un disco por el 20 aniversario de la banda en Argentina, bajo el patrocinio de CADAL y el amigo Gabriel Salvia en el 2018… _2[0 años de carrera delante de la policía](https://pornopararicardo.bandcamp.com/album/20-anos-de-carrera-delante-de-la-policia.)_.
 
 **En la actualidad ¿qué estás preparando con _La Babosa Azul_?**
@@ -76,15 +70,3 @@ Sí, en los últimos años hemos tenido varias presentaciones internacionales (c
 Me he mudado para el inglés, porque ahora vivo en Canadá, así se puede escuchar en nuestro último disco _My Chances_. He hecho algunas nuevas canciones, ahora que estoy armando el grupo de nuevo y…  una curiosidad: adivina quién es el baterista… nada más y nada menos que Luis David, que también vive en Toronto. Mira tú las vueltas que da el mundo y las agradables sorpresas, aunque siguiendo con las cosas que nunca cambian… ¡no tenemos bajista!
 
 [También puede interesar](/entrevista/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

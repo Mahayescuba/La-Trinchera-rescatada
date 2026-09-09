@@ -3,7 +3,7 @@ title: "Las dos caras de Brasil"
 date: "2018-04-14T16:15:06+00:00"
 author: "Mario Valdés Navia"
 category: "Política"
-image: "/wp-content/uploads/2018/04/lula.jpg"
+image: ""
 ---
 En 1999 salí de Cuba por primera vez y estuve casi dos meses trabajando en la Universidad Federal de Pernambuco (UFPE), en Recife, Brasil, donde fundé la Cátedra José Martí (CJM) e impartí docencia. Después estuve una semana en Sao Paulo, en la casa de una pareja cubana. Fue tan grata e impactante la experiencia que al regresar me dije: “Si tuviera que escoger solo un país extranjero para visitar volvería siempre a este”. Hoy, cuando conozco otros cuatro países latinoamericanos sigo pensando igual, pero prefiero el Brasil al que retorné en 2008, el de Lula presidente, lleno de esperanzas y realizaciones.
 
@@ -22,15 +22,3 @@ Estar allí y compartir con el incansable Rodriggo y su colectivo de entusiastas
 Pero sus éxitos mayores estaban en la política social. El plan _Hambre Cero_ liquidó la desnutrición, y la _Bolsa Familia_ ayudó a sacar de la pobreza a más de 30 millones de habitantes. Este es el hombre que hoy pretenden condenar, encarcelar y borrar de la política para que el nuevo frente oligárquico continental se consolide aún más. Ojalá, cuando regrese a Brasil, sea al de Lula, no al de la burguesía trasnacional y el FMI.
 
 Tomado de [La Joven Cuba](https://jovencuba.com/2018/04/09/las-dos-caras-de-brasil/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

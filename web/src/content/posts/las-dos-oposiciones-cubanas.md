@@ -3,7 +3,7 @@ title: "Las dos oposiciones cubanas"
 date: "2020-05-06T18:14:56+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/05/Top-10-des-images-que-vous-avez-peut-être-ratées-cette-semaine-la-deuxième-chance-2.jpeg"
+image: ""
 ---
 ¿Son irreconciliables estas dos oposiciones cubanas, igual de legítimas?
 
@@ -19,15 +19,3 @@ Sin duda este sector es la oposición mayoritaria. Sin embargo, al carecer de ap
 ¿Son irreconciliables estas dos oposiciones cubanas, igual de legítimas?  
 No necesariamente desde la racionalidad política estricta, aunque recordemos que la cubana no es una cultura muy inclusiva que digamos.  
 En todo caso, el acuerdo necesariamente deberá centrarse en el embargo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

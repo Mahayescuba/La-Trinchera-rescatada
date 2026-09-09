@@ -3,7 +3,7 @@ title: "Cervantes y el reguetón"
 date: "2019-04-23T14:49:09+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/04/PicsArt_04-23-10.45.12.jpg"
+image: ""
 ---
 23 de abril de 1616: Muere Miguel de Cervantes. Día mundial de la lengua española.
 
@@ -28,17 +28,3 @@ De mi entrañable [Cienfuegos](https://es.wikipedia.org/wiki/Cienfuegos) nunca o
 No estoy aprovechando este espacio para hacerle campaña publicitaria al reguetón, no lo necesita.
 
 Tampoco defiendo las obscenidades ni las guaperías de algunas canciones; pero sabemos lo que sucede cuando a una generación le prohíben algo, recordemos a _Los Aldeanos_. Solo les propondría que al menos antes de criticarlo lo pensaran bien _Despacito_.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "El avance hacia Occidente: la Batalla de Mal Tiempo"
 date: "2019-06-11T06:58:50+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2019/06/IMG_20190611_025429.jpg"
+image: ""
 ---
 Invasión a occidente.
 
@@ -27,8 +27,6 @@ Las tropas cubanas, formadas casi en un solo cuerpo, por la mínima distancia ex
 
 Los primeros disparos provinieron de un grupo de patriotas locales que desde la madrugada efectuaban un velorio cerca del camino de _Mal_ _Tiempo_ y que divisaron al escuadrón de caballería que protegía la columna española. Maceo oyó estos disparos y mandó imperiosamente “a la carga”. Él, sus ayudantes y escoltas ocupaban –como siempre- el lugar más delantero de la vanguardia y fueron los primeros en lanzarse a galope hacia esa dirección. A poco se les unieron Máximo Gómez y Serafín Sánchez, que marchaban al centro, y el Brigadier Luis de Feria, quien defendía la retaguardia. Según algunos diarios de campaña, alrededor de las once de la mañana tuvo lugar la parte esencial del combate, quince minutos cruciales en los que cayeron secciones españolas completas frente a una de las cargas al machete más trascendentales y heroicas protagonizadas por las tropas cubanas en todo el transcurso de la guerra.
 
-![](/wp-content/uploads/2019/06/450px-batallamal_tiempo11839907576.jpg)
-
 En el enfrentamiento se destacaron varios momentos sustanciales: el choque de extrema vanguardia ocurrió sobre las dos de la tarde, cuando una columna enemiga que seguía el rastro de los invasores se batió infructuosamente con su retaguardia sin poder abrirse paso, pues dicha posición fue valientemente defendida por Serafín Sánchez.
 
 > Solo un escuadrón ofreció resistencia
@@ -51,15 +49,3 @@ Hace pocos días, en ocasión de recordar el Combate de Peralejo, un amigo muy q
 Cerca del cumpleaños 174 del Titán de Bronce, sirva este humilde trabajo de ofrenda, homenaje y agradecimiento a su sagrada memoria.
 
 Invasión a occidente Invasión a o ccidente Invasión a occidente Invasión a occidente Invasión a occidente
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

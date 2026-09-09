@@ -3,7 +3,7 @@ title: "¿Feminicidio?"
 date: "2020-05-31T03:23:07+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2020/05/photo_2020-05-31_21-22-43.jpg"
+image: ""
 ---
 ¿se justifica la existencia en algunos países de la figura penal del feminicidio?
 
@@ -30,15 +30,3 @@ Los feminicidios siempre responden al odio o desprecio por el sexo femenino, al 
 Por ello, el feminicidio es el resultado de un **proceso precedido por otras formas de maltrato hacia la mujer**, sean eventuales o recurrentes, y sean perpetradas por un desconocido o un conocido. Entre las formas de maltrato se cuentan: violación, violencia psicológica, obstrucción del libre desarrollo y de la autonomía de la mujer, esclavitud sexual, maltrato físico, violencia doméstica, tortura, mutilación, desfiguración, persecución, privación de la comunicación y privación de libertad.  [(seguir leyendo)](https://www.significados.com/feminicidio/)
 
 [Otros textos del autor](/izquierdista-de-derecha/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

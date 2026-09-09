@@ -3,7 +3,7 @@ title: "Cuba hoy, en la encrucijada constitucional (III)"
 date: "2018-12-11T08:12:48+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/12/Yalonda-Gorshteyn.jpg"
+image: ""
 ---
 reforma constitucional en Cuba.
 
@@ -11,7 +11,7 @@ reforma constitucional en Cuba.
 
 A lo largo de las últimas décadas, los cubanos nos hemos resignado a aceptar la burocracia y la inercia administrativa como males endógenos, y hasta normales, del funcionamiento de la maquinaria estatal. Al amparo del actual proceso constituyente que vive el país, podríamos plantearnos estas y otras cuestiones más, de cara a la configuración de una estructura estatal mucho más ágil y eficaz. E
 
-El anteproyecto de [constitución](/wp-content/uploads/Tabloide-Constituci%C3%B3n.pdf) que pretende aprobarse el próximo año, introduce cambios a nuestro criterio moderados, pero que no han pasado desapercibidos al ojo crítico de la población. Siendo fieles a la sistemática del anteproyecto, nos corresponde en esta oportunidad hacer algunos comentarios sobre el mencionado documento en lo referente al tema.  
+El anteproyecto de [constitución](http://www.parlamentocubano.cu/wp-content/uploads/Tabloide-Constituci%C3%B3n.pdf) que pretende aprobarse el próximo año, introduce cambios a nuestro criterio moderados, pero que no han pasado desapercibidos al ojo crítico de la población. Siendo fieles a la sistemática del anteproyecto, nos corresponde en esta oportunidad hacer algunos comentarios sobre el mencionado documento en lo referente al tema.  
   
 
 La estructura estatal que prolifera en la comunidad internacional, es resultado del debate que tuvo lugar en los albores de la modernidad, y especialmente durante la Revolución francesa. Una primera tendencia auspiciada por Jean-Jacques Rousseau, miraba a la Antigüa Roma y se inspiraba en su dinámica, esgrimiendo postulados neurálgicos como la unidad de poderes y la soberanía popular. Su contraparte intelectual, fue Charles Louis de Secondat, Barón de Montesquieu, quien inspirado en la estructura que ya se apreciaba en Inglaterra, esgrimió la teoría de la separación de poderes y del sistema de equilibrios y contrapesos.
@@ -45,15 +45,3 @@ Si hasta hoy las autoridades provinciales eran electas -con un sistema al que se
 Siguiendo una loable intención, el artículo 110 del anteproyecto veta cualquier beneficio personal o económico para los diputados. Dicha fórmula, también establece que nuestros mandatarios han de mantener el vínculo laboral con su centro de trabajo. La solución empleada tuvo en su momento histórico, el cometido de evitar el surgimiento de una casta política privilegiada desligada de su electorado. Tomando en cuenta el actuar habitual de las distintas legislaturas, no creo que el último mal se haya logrado evitar completamente. Por demás, existe otro inconveniente: si el diputado en cuestión debe mantenerse vinculado a su centro de trabajo ¿cuándo se supone que actúe como diputado? 
 
 reforma constitucional en Cuba. reforma constitucional en Cuba. reforma constitucional en Cuba. reforma constitucional en Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

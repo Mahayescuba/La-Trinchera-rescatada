@@ -3,7 +3,7 @@ title: "La ley del embudo"
 date: "2020-07-24T18:00:00+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/07/Gérard-Lami-Guardián-de-la-tierra.jpg"
+image: ""
 ---
 PYMEs y comercio exterior.
 
@@ -22,13 +22,3 @@ Una cosa es que las empresas estatales compitan con otras no estatales para la p
 Tomado del Facebook del autor
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/tiendas-en-mlc-en-cuba/
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "Papel de la Iglesia en la sociedad"
+title: "La Iglesia en medio de la sociedad del cansancio"
 date: "2020-09-15T09:30:00+00:00"
 author: "Julio Pernús"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/09/Antoine-Josse.jpg"
+image: ""
 ---
 Papel de la Iglesia en la sociedad.
 
@@ -20,15 +20,3 @@ Una clave importante es la búsqueda de colaboración desde la coherencia. Una v
 papel de la Iglesia en la sociedad, papel de la Iglesia en la sociedad
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/sociedad-civil-en-cuba/
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)

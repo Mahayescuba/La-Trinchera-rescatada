@@ -1,9 +1,9 @@
 ---
-title: "errores y responsabilidad en la economía cubana"
+title: "Los caballeros y la vergüenza"
 date: "2020-10-14T16:00:00+00:00"
 author: "Vivian Montané"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/10/Arturo-y-la-mesa-redonda.jpg"
+image: ""
 ---
 Ayer Murillo salió a escena y desbarató la economía cubana. Parecía un caballero del Rey Arturo sentado en la silla prohibida de la gran [mesa redonda](http://www.escambray.cu/2020/eliminacion-de-la-dualidad-monetaria-y-cambiaria-en-la-mesa-redonda/). El gran sabio dando consejos y los demás boquiabiertos.
 
@@ -22,11 +22,3 @@ Lo mínimo que se puede hacer, es ser honestos y disculparse. Y ocuparse de dese
 No tenemos al Mago Merlín, pero esto es cosa de caballeros. Galahad tenía 15 años cuando se sentó en la silla prohibida de la mesa redonda del Rey Arturo. Deberíamos hacer lo mismo y dar paso a la nueva generación con ideas nuevas. Jóvenes que asuman la responsabilidad de ser parte de la transformación de la nueva Cuba. Una Cuba que quiere ser buena, que quiere ser próspera sin que se le tilde de ladrona. Una Cuba que lleva más de 60 años esperando al Santo Grial que no llega por su propia culpa y ceguera política.
 
 errores y responsabilidad en la economía cubana, errores y responsabilidad en la economía cubana
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Vivian Montané](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/vivian-montane/)

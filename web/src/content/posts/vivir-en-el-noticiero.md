@@ -3,7 +3,7 @@ title: "Vivir en el noticiero"
 date: "2020-05-22T03:47:11+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/05/Screenshot_20200521-232942-1.jpg"
+image: ""
 ---
 (De una canción de [Carlos Varela](https://es.wikipedia.org/wiki/Carlos_Varela))  
 _¿Por qué miro el cambio de rueda_  
@@ -102,15 +102,3 @@ ya no buscamos
 vivir en el noticiero.
 
 Miguel Alejandro Hayes
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

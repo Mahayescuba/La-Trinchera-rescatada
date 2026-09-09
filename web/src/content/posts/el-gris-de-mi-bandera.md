@@ -1,5 +1,5 @@
 ---
-title: "Tángana en el parque Trillo"
+title: "¿El gris de mi bandera?"
 date: "2020-12-01T17:00:46+00:00"
 author: "Elaine Roca"
 category: "Política en Cuba"
@@ -33,16 +33,4 @@ Pensé en refranes populares: _Nada es blanco o negro, en la vida hay tonos gri
 
 El cielo gris nos causa tristeza, añoranza, melancolía. Gris es el color de las canas, por ende, se asocia a la sabiduría pero también a la decrepitud. La vejez que inspira el gris está llena de contrastes porque es a la vez experiencia y decadencia. El gris puede representar el pasado. Sus extremos son otros colores: blanco y negro, por lo cual se considera un color falto de personalidad, que pasa desapercibido, que se usa en diseño y artes plásticas para que otros tonos establezcan jerarquías. 
 
-Color desprovisto de pasiones, el de las sombras, el de los fantasmas, el del mármol de las tumbas y de las estatuas, el de las cenizas; lo que queda cuando pasa el fuego. Color conservador y serio, ¿como nuestra juventud? Tal vez como este texto que pretende archivar el recuerdo de un suceso. En el futuro ha de funcionarme como funcionó a Harry la biblioteca de recuerdos líquidos de Dumbledore que, arrojados a su pensadero, devolvían al momento. Tengo fe en que existan otros recuerdos que contradigan al gris de aquel cartel y fe en que mi recuerdo no sea como el primer recuerdo, parcializado por la vergüenza, que entregó el profesor Slughorn a Harry, dónde Tom Riddle aparecía como un adolescente curioso y no como aquel monstruo que no debe ser nombrado: Lord Voldemort. 
-
-tángana en el parque Trillo, tángana en el parque Trillo, tángana en el parque Trillo, tángana en el parque Trillo, tángana en el parque Trillo
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.40.11.jpg)
-    
-    [Elaine Roca](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/elaine-roca/)
-    
-    Graduada de Filosofía y Ciencias de la Religión. Trabaja en Instituto de Filosofía de Cuba. En La Trinchera no escribe de teoría.
+Color desprovisto de pasiones, el de las sombras, el de los fantasmas, el del mármol de las tumbas y de las estatuas, el de las cenizas; lo que queda cuando pasa el fuego. Color conservador y serio, ¿como nuestra juventud? Tal vez como este texto que pretende archivar el recuerdo de un suceso. En el futuro ha de funcionarme como funcionó a Harry la biblioteca de recuerdos líquidos de Dumbledore que, arrojados a su pensadero, devolvían al momento. Tengo fe en que existan otros recuerdos que contradigan al gris de aquel cartel y fe en que mi recuerdo no sea como el primer recuerdo, parcializado por la vergüenza, que entregó el profesor Slughorn a Harry, dónde Tom Riddle aparecía como un adolescente curioso y no como aquel monstruo que no debe ser nombrado: Lord Voldemort.

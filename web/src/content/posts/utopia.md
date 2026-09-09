@@ -3,7 +3,7 @@ title: "Redefiniendo la utopía"
 date: "2020-01-09T04:28:16+00:00"
 author: "Danilo Euser"
 category: "Teoría"
-image: "/wp-content/uploads/2020/01/IMG_20200108_004123_429.jpg"
+image: ""
 ---
 Comenzamos este artículo de opinión citando a un grande de nuestras tierras, Eduardo Galeano:
 
@@ -52,15 +52,3 @@ Cómo y con quién empezamos, terminamos…
 > “La utopía está en el horizonte. Camino dos pasos, ella se aleja dos pasos y el horizonte se corre diez pasos más allá. ¿Entonces para qué sirve la utopía? Para eso sirve: para caminar.” ―
 
 Eduardo Galeano
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

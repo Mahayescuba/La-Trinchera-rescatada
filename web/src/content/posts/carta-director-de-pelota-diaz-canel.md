@@ -1,9 +1,9 @@
 ---
-title: "Béisbol"
+title: "Borroto y cuenta nueva"
 date: "2019-11-09T15:39:22+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/11/Piernas.jpg#038;ssl=1"
+image: ""
 ---
 Béisbol. 
 
@@ -23,15 +23,3 @@ Disculpe el valioso tiempo que le he sustraído en mi afán de sacar las mejores
 Tenga la absoluta seguridad de que, para la pelota cubana, ya vendrán días… Canel.
 
 Béisbol béisbol
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "Discurso de Díaz Canel"
+title: "No hay vencedores"
 date: "2020-10-29T08:00:44+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Onírica"
-image: "/wp-content/uploads/2020/10/Ata-Mohammadi.jpg"
+image: ""
 ---
 Alguien se emocionó desde el atril mientras daba su discurso. Yo también, y es que es imposible no vibrar cuando se piensa en la épica historia patria. Pero no.  
 Los discursos no deben emocionar cuando no hay resultados. Una intervención emotiva que llame al sentimiento nacional, sin una realidad que transmita lo mismo, no es correcta, no es buena. Es retórica, un producto de mercado, como lo es una canción, una película, un Nobel de literatura. La realidad cubana no alienta emociones similares a lo escuchado.  
@@ -16,15 +16,3 @@ De estas dos guerras no hay vencedores, sino sobrevivientes.
 Dentro de ambas, como causa y consecuencia, tenemos otra peor: la de la cotidianidad. Esa de [los salarios](/economia-en-cuba/) por debajo del salario medio (pobreza se le llamaría en otros escenarios), sin remesas. La de saber dónde hay (cuando _hay con qué_), y hacer las colas. Esa es otra que tampoco tiene vencedores, sino sobrevivientes, al menos dentro del pueblo.
 
 Solo estamos envejeciendo dentro las circunstancias. No resistimos y vencemos, rectifico. Sobrevivimos, señor presidente.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.desdetutrinchera.com)

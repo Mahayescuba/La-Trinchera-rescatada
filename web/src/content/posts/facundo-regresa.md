@@ -1,9 +1,9 @@
 ---
-title: "Sobre Facundo"
+title: "Facundo Regresa"
 date: "2020-01-05T09:26:20+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/01/8556639883_e07202a6f2_b.jpg"
+image: ""
 ---
 Facundo.
 
@@ -28,15 +28,3 @@ Insúa insinúa que está ahí para _potenciar contenidos interesantes que contr
 Facundo no ha desaparecido de la pequeña pantalla, mucho menos sancionado. Castiga todos los días. Es varios a la vez. Nos hace la vida difícil, se ríe de nuestra paciencia y goza con la suya. Se apresta a entrar al ICRT por la puerta de M. Para la farsa cualquier programa sirve.
 
 Facundo. Facundo. Facundo. Facundo. Facundo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

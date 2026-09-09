@@ -1,9 +1,9 @@
 ---
-title: "Protestas en Cuba hoy. No hay más que explicar"
+title: "No hay más que explicar"
 date: "2021-07-21T16:00:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/07/Gehard-Demetz-.jpg"
+image: ""
 ---
 Llevo días intentando escribir sobre las protestas en Cuba. Cada vez que empezaba lo dejaba a medias, porque sentía que no valía la pena decir.
 
@@ -21,10 +21,6 @@ Los cubanos no elegimos al presidente, ni a los gobernadores de las provincias, 
 
 Los ciudadanos cubanos no decidimos los destinos del país. No decidimos que la economía esté volcada al turismo, los gastos en defensa y equipamiento militar, la reducción de sectores claves, etc.
 
-> [El voto](/voto-democracia-cuba/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«El voto» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/voto-democracia-cuba/embed/#?secret=ZrBQC2xq9b" data-secret="ZrBQC2xq9b" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
 Protestar contra el gobierno sigue siendo un ejercicio de riesgo. Aunque se puede matizar (porque la ineficiencia también es para censurar y callar al que habla demasiado) cuestionar al gobierno, cuando se trabaja en una institución estatal, es un riesgo. Nadie dirige una empresa en Cuba si se pronuncia abiertamente contra el gobierno. De hecho, nadie dirige nada si lo hace.
 
 Los dirigentes son soberbios, y cuando son cuestionados, pueden responder movilizando el aparato estatal y del Minint contra quienes lo hacen. Pueden, aunque no siempre lo hagan, pero pueden.
@@ -38,17 +34,3 @@ Sin rumbo, sin capacidad de generar un cambio, ¿qué esperar de la gente, que s
 Creo que hay muchas formas de decir esto, pero es eso. El Socialismo va para un lado, y la gente para otro. Y es que el [Socialismo](/le-llaman-socialismo/) cubano no es derecho de todos, sino privilegio de algunos. Es socialismo asintomático, y la gente se da cuenta.
 
 Comida, medicamentos, libertad, se gritaba en las calles en 11 de julio. No hay más que explicar. El cubano está pasando mucho trabajo, para andar buscando en la _recontratanca_ una explicación.
-
-Protestas en Cuba hoy. Protestas en Cuba hoy.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

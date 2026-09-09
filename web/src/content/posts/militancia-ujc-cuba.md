@@ -1,9 +1,9 @@
 ---
-title: "¿Militantes, números, o la pastilla del placebo ideológico? La Trinchera"
+title: "¿Militantes, números, o la pastilla del placebo ideológico?"
 date: "2019-05-13T06:10:35+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/05/PicsArt_05-13-01.41.39-1.jpg"
+image: ""
 ---
 UJC y militancia.
 
@@ -18,15 +18,3 @@ Los militantes de mi generación son peculiares:
 No están al tanto del acontecer internacional, porque sencillamente les resulta indiferente. No saben quién fue Rosa Luxemburgo, ni Trotsky, ni Mao. Los nombres de Marx, Engels y Lenin se les hacen conocidos, pero esto es fácilmente atribuible al poder de la repetición. Una gran parte no ha leído a Martí sin un profesor delante, y muchos otros ven los símbolos patrios como un conjunto de notas y colores. Pero, sobre todo, detestan las reuniones, y gritan “¡Viva Fidel!” por la fuerza de la costumbre en una marcha a la que van más a divertirse que a “defender las conquistas” de su giratoria Revolución. Como en todo, hay excepciones, pero ¿qué pueden hacer los mudos cuando los sordos se niegan a escuchar?  
 ¿Habrán pensado bien los dirigentes de la UJC y el PCC en cada vez que han dicho que esos militantes son “el relevo de la Revolución”? ¿Qué vale más? ¿El militante o el número?  
 Estas preguntas muy probablemente hallen respuesta por sí solas, con el paso del tiempo, cuando esta generación “pastilla” de militantes por embullo sea la continuidad tan referida de los que hoy cometen el error de valorar más el número a enseñar que las ideas en sí, a riesgo de extinguir el significado real de la militancia ante la gran enfermedad que es la pérdida de conciencia e interés que afecta nuestra sociedad cubana de hoy. ¿Sucederá? Pues ya veremos, pero recuerden siempre que el placebo ideológico es como los demás: alivia, sí, pero no cura.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

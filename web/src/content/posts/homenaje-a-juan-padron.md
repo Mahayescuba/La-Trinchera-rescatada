@@ -1,9 +1,9 @@
 ---
-title: "Homenaje a Juan Padrón- El Solar podcast- Sender Escobar"
+title: "¡Tan tan! podcast dedicado a Juan Padrón"
 date: "2020-08-03T09:40:00+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2020/08/2020-08-04-02.45.11.jpg"
+image: ""
 ---
 En este episodio especial, Ian Padrón es invitado por Sender Escobar a _[El Solar](/podcast-cubano-el-solar/)_. La entrevista es un motivo para homenajear a nuestro Juan Padrón, el primero de los manigüeros, cineasta, animador por excelencia y pilar de la cultura cubana.
 
@@ -20,15 +20,3 @@ Leonardo Padura: Bueno, creo que no concibo las novelas para nadie en específic
 
 Mi estrategia es representarme a algún lector concreto y muy exigente al cual procurar vencer, convencer. Durante años muchos de mis libros han estado pensados en una lectora como Beatriz de Moura, la mítica fundadora de Tusquets, toda una personalidad en el mundo editorial en español. Mientras, cuando escribía _La novela de mi vida_ pensaba en las reacciones de Ambrosio Fornet y Enríque Saínz, conocedores de la época y los recovecos en que se mueven los personajes. Y siempre, para empezar y terminar, debo pensar en una lectora implacable, que es mi mujer, Lucía, porque ella es EL LECTOR. A Lucía lo único que le interesa es la calidad del texto, que el libro alcance su mayor calidad de acuerdo a mis capacidades y ambiciones, y me lo exige de una forma radical, pues al fin y al cabo, lo que escribo es también su obra. Yo, en buena medida, soy su obra.  
 Así que no me sorprende si un libro es leído por una u otra categoría de lectores. Lo que sí me intrigó es que una obra como _El hombre que amaba a los perros_ haya sido celebrada por gentes de la izquierda internacional y no le haya agradado algunos de la doméstica. Aunque me imagino las razones, claro.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

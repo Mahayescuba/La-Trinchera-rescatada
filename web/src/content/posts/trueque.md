@@ -24,13 +24,3 @@ Así, el consumo impuesto, no determinado con anterioridad por quien hará el ac
 Pensar en la entrada de _combos_, en paquetes de productos como forma de compra, nos remite a la supresión de ese momento de individualidad que es el cambio. También permite valorar sus consecuencias.
 
 Para el caso cubano solo habría que agregar otra determinación, que exige su propio ejercicio reflexivo, aunque sea una problemática sistémica y crónica. Tal determinación es omitida en los discursos de medios partidistas y de funcionarios, lo que demuestra la falta de ética de quienes deciden omitir que la cesta más cara casi duplica un salario medio.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "Marx salario y capital"
+title: "Marx, salario y capital"
 date: "2020-04-22T09:30:59+00:00"
 author: ""
 category: "Economía Política"
-image: "/wp-content/uploads/2020/05/IMG_20200507_030129.jpg"
+image: ""
 ---
 [Miguel Alejandro Hayes](https://rebelion.org/autor/miguel-alejandro-hayes/) acompañado por la editora de El Solar reflexiona sobre artículo “Marx y la abolición del trabajo asalariado”, del economista argentino Fernando Hugo Azcurra publicado en [La Joven Cuba](http://jovencuba.com) el 14 de abril de 2020. Capital, Marx, [dialéctica](/marxismo/) y salario son los temas esenciales de este podcast.
 
@@ -26,15 +26,3 @@ Nosotros, hoy, seguimos dependiendo del sector externo, nuestra nomenklatura sig
 [Castbox](https://castbox.fm/vd/253509363)
 
 [Telegram (compromido)](https://t.me/LaTrincheraRadio/64)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

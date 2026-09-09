@@ -3,7 +3,7 @@ title: "Un pez peleador"
 date: "2019-11-29T07:00:50+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/12/IMG_20191204_011423_252.jpg"
+image: ""
 ---
 estado y sociedad. 
 
@@ -13,16 +13,4 @@ Zamira nació en Cuba. Podría ser un absurdo pero no lo es. Aunque sus padres s
 A pesar de la espléndida llamarada sobre su cabeza nadie le llama la pelirroja, ni otras cosas. Para las personas que le conocen hay algo en ella infalible, inexorable, como si destilase una feromona contra la admiración con rabia que tan elocuentemente han practicado desde el origen de los tiempos sus connacionales. A la edad de 18 años, tiene, en ese orden: la frente insultante, los dientes precisos de un delfín, la nariz breve, los ojos teñidos de azul oscuro y rasgados milimétricamente hacia las orejas, las manos firmes de una tejedora, diminutas, una espalda torcida como un alambre que entra rabiosamente en sus caderas y nalgas, un vientre como una puñalada feroz entre ambos muslos, los pies de una niña. Su andar por las calles es una metáfora parsimoniosa del azul oleaje del caribe. Ella lo sabe.  
 A esa edad, conoce también, en ese orden, cinco cosas que son para ella fundamentales. Su pensamiento es, por así decirlo, objetivo pero no imparcial. Sabe que: 1) un metro cuadrado equivale a: 1.000.000 milímetros cuadrados, a 10.000 centímetros cuadrados, a 100 decímetros cuadrados, a 0,01 decámetros cuadrados, a 0,0001 hectáreas cuadrados, a 0,000001 kilómetros cuadrados, y que por tanto, una habitación de un metro cuadrado, como la que ella tiene dentro de un apartamento de cinco metros cuadrados sirve para leer, dormir y mirar el techo pero no crece, ni lo hará nunca; 2) que su padre y su madre morirán en su escaso propio metro cuadrado del apartamento de cáncer de colon, de ictus calamitoso, o de un infarto del miocardio, por azar estadístico inevitable; 3) que dispone de una sola vida; 4) que el Estado en que ha crecido es como una antigua maquina tabuladora de Herman Hollerith, y por eso: omnisciente, omnímodo, omnipresente y absolutamente omnívoro; 5) una cosa de la que no escribió nunca en el artículo que le mandó de tarea su profesor de Filosofía sobre la pérdida de la de intimidad en la era global, porque sabe es la quinta cosa fundamental que conoce, y la más importante: la libertad.
 
-estado y sociedad. estado y sociedad. 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+estado y sociedad. estado y sociedad.

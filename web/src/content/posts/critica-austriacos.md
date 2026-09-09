@@ -1,5 +1,5 @@
 ---
-title: "Teoría austriaca del valor"
+title: "Los austriacos y la “reducción a sustancia común”"
 date: "2018-05-08T12:15:54+00:00"
 author: ""
 category: "Teoría"
@@ -39,16 +39,4 @@ Rothbard, M. N. (2009): _Man, Economy and State. A Treatise on Economic Principl
 
 Tomado de [Rolando Astarita](https://rolandoastarita.blog/2018/05/03/los-austriacos-y-la-reduccion-a-sustancia-comun/)
 
-Una reflexión sobre la teoría austriaca del valor. Una reflexión sobre la teoría austriaca del valor. Una reflexión sobre la teoría austriaca del valor. Una reflexión sobre la teoría austriaca del valor. 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+Una reflexión sobre la teoría austriaca del valor. Una reflexión sobre la teoría austriaca del valor. Una reflexión sobre la teoría austriaca del valor. Una reflexión sobre la teoría austriaca del valor.

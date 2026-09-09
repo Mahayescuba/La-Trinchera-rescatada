@@ -1,9 +1,9 @@
 ---
-title: "Funcionario idóneo en el contexto cubano"
+title: "De idoneidad y de idóneos"
 date: "2021-02-11T17:00:00+00:00"
 author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/02/Peter-Kiss.jpg"
+image: ""
 ---
 El calor, las colas interminables, la abundancia de casi nada y la escasez de casi todo, y esa idea que peligrosamente se instala en el imaginario popular: en Cuba lo que sí vale la pena hacer es irse.
 
@@ -72,13 +72,3 @@ Ese divorcio entre ciudadano y Estado, con el consecuente perjuicio que para la 
 [\[4\]](applewebdata://B31C40CE-848E-4E7E-BF83-1C0134868E0C#_ftnref4) Me refiero al nombramiento de los ciudadanos Alberto García, Melissa Alayo y Xian Fong, egresados en la graduación de 2020, como presidentes de los tribunales municipales de Guanabacoa, Cerro y Regla respectivamente. Todos ubicados en la capital
 
 [\[5\]](applewebdata://B31C40CE-848E-4E7E-BF83-1C0134868E0C#_ftnref5) Ley No. 82, “Ley de los Tribunales Populares”, de 11 de junio de 1998
-
-funcionario idóneo en el contexto cubano, funcionario idóneo en el contexto cubano, funcionario idóneo en el contexto cubano, funcionario idóneo en el contexto cubano, funcionario idóneo en el contexto cubano
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/ernesto-g.jpg)
-    
-    ![](/wp-content/uploads/2021/02/ernesto-g.jpg)
-    
-    [Ernesto Gutiérrez Leyva](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/ernesto-gutierrez-leyva/)

@@ -3,7 +3,7 @@ title: "Jesús no entra en mi oficina"
 date: "2019-10-29T13:01:58+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/10/263717621_348807.jpg"
+image: ""
 ---
 Jesús. 
 
@@ -21,15 +21,3 @@ Según me comentó, si lo hubieran visto con él en la sala de su casa podían h
 En ocasiones me pregunto -y ojalá que lo podamos hacer sin poner odio en nuestras mentes-, ¿cuándo podremos hacer una Comisión de la Verdad? Parece increíble, pero en una época no tan lejana aquellos cuadros del Sagrado Corazón fueron puestos en lugares poco visibles del hogar, por temor a ser descubiertos por centinelas que en nombre de cierta ideología fustigaban con miedo cualquier pensamiento alejado del materialismo. Gracias a muchas abuelas y otros que afrontaron su fe con valor, el país no fue descristianizado.
 
 Pero siento que ahora, cuando Dios no aparece en los discursos de nuestros decisores, recogemos la cosecha del materialismo deformado sembrado años atrás; ese materialismo que niega una espiritualidad -la misma que media el amor-, y que afirma que ella no entra en su oficina.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

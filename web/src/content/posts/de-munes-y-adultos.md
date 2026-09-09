@@ -3,7 +3,7 @@ title: "De muñes y adultos"
 date: "2019-12-17T07:06:29+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/12/c8ffa3494a89b81d06bc30b26e4b4a04.jpg"
+image: ""
 ---
 dibujos animados. 
 
@@ -19,15 +19,3 @@ En este caso, díganme quién de nosotros no quiso ser uno de los planetarios o 
 
 Cuando el mundo vive constantes revoluciones digitales, un sector que ha incrementado su calidad estilística son los dibujos animados. La facilidad de que sea degustada por adultos y pequeños donde existen guiños para ambas generaciones en películas como _Shrek_ o animados que mueven las fibras más sensibles del alma como _Coco_, son muestras innegables que los muñequitos no son exclusivos de una edad.  
 Fueron creados para hacer historia, para con ellos incrementar nuestra imaginación, incluso imitándolos nos convertimos en mejores seres humanos. Observar películas como _Vampiros en la Habana_ o decir de memoria los diálogos de [_Elpidio Valdés_](https://es.wikipedia.org/wiki/Elpidio_Vald%C3%A9s) entre risas con una vis de nostalgia, constituyen un viaje al pasado desde un presente lleno de coyunturas, pero a su vez permite mantener la ilusión en un futuro junto con esos otros que disfrutan el viaje de vivir _la edad de oro_ a la que Martí depositó la esperanza del mundo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

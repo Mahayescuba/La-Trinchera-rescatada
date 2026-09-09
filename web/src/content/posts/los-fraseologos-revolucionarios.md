@@ -1,9 +1,9 @@
 ---
-title: "fraseologos revolucionarios. Una reflexión sobre lo dañinos que son"
+title: "Los fraseólogos revolucionarios"
 date: "2018-04-04T19:02:01+00:00"
 author: "Alina B. López Hernández"
 category: "Opinión"
-image: "/wp-content/uploads/2018/04/demagogia-cuba.jpg"
+image: ""
 ---
 Según varios diccionarios consultados, fraseología es: 1. Conjunto de modos de expresión peculiares de una lengua, grupo, época, actividad o individuo.||2. Conjunto de expresiones intrincadas, pretenciosas o falaces.||3. palabrería.||4. Conjunto de frases hechas, locuciones figuradas, metáforas y comparaciones fijadas, modismos y refranes, existentes en una lengua, en el uso individual o en el de algún grupo.
 
@@ -37,15 +37,3 @@ En tiempos de tensiones y crisis aumenta la cosecha de fraseólogos revolucionar
 Tomado de [La Joven Cuba](https://jovencuba.com/2018/04/03/los-fraseologos-revolucionarios/)
 
 [Otro texto de la autora](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

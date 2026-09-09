@@ -1,5 +1,5 @@
 ---
-title: "Notas sobre el anexionismo en Cuba La Trinchera René Fidel"
+title: "Nota de clase: sobre el anexionismo, los anexionistas y los ciudadanos en Cuba"
 date: "2020-04-09T16:13:08+00:00"
 author: ""
 category: "Política en Cuba"
@@ -16,17 +16,3 @@ El anexionismo en Cuba como opción política autóctona, fue absolutamente derr
 3\. Décadas más tarde, cuando los resortes económicos, culturales e ideológicos neocoloniales operaban estables y aparentemente eficaces sobre la población cubana, una insurrección de ciudadanos, hecha contra la dictadura que conculcó leyes y derechos en Cuba, devino en la primera revolución anti neocolonialista del orbe que, en el fango y las arenas de un sector de las costas del occidente de Cuba, supo disputar y ganar, bélica e inobjetablemente al gobierno de los Estados Unidos de Norteamérica por primera vez, la plena soberanía nacional.
 
 4\. Casi sesenta años después de ese momento, la identidad y las prácticas ciudadanas, el orgullo por sus generaciones anteriores, el compromiso con la democracia, los derechos, la República y la soberanía de Cuba son inconfundibles en cualquier escenario: se participa por la Cuba que se sueña, se ama y construye en la realidad o la posibilidad de ser; el anexionismo, en cambio, es hoy un triste y pueril sambenito político, y los anexionistas ya no son ciudadanos cubanos. Entenderlo es esencial, vilipendiar no es dialogar, mucho menos respetar…
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

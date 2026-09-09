@@ -1,9 +1,9 @@
 ---
-title: "Propiedad privada en Cuba"
+title: "El sector privado, ¿enemigo?"
 date: "2018-06-22T11:08:37+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/06/images.jpg"
+image: ""
 ---
 Si queremos sacar a Cuba del hoyo económico en el que está, tendremos que aprender a dominar las fuerzas del mercado y pensar en propiedad privada.
 
@@ -60,15 +60,3 @@ No se trata de entregar el país a las leyes del mercado, sino de usarlas. Si To
 Si queremos sacar a Cuba del hoyo económico en el que está, tendremos que aprender a dominar las fuerzas del mercado de la misma manera en que los humanos aprendieron a dominar el fuego hace millones de años.
 
 Tomado de Rebelión
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

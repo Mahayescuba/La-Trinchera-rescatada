@@ -1,9 +1,9 @@
 ---
-title: "Marxismo y derecho"
+title: "Contribución a la teoría marxista del derecho (PARTE I)"
 date: "2018-09-12T16:04:04+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2018/09/arton103804.jpg"
+image: ""
 ---
 marxismo y derecho.
 
@@ -90,13 +90,3 @@ la clase que ejerce el poder material dominante en la sociedad es, al mismo tiem
 dominante.”: Marx, Carlos; Engels Federico, La Ideología Alemana, Ob. Cit., p. 50.
 
 marxismo y derecho. marxismo y derecho. marxismo y derecho. marxismo y derecho. marxismo y derecho. marxismo y derecho. marxismo y derecho.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

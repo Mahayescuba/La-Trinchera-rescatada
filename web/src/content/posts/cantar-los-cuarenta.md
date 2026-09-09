@@ -1,5 +1,5 @@
 ---
-title: "estatus de residencia y derechos en Cuba"
+title: "Cantar los cuarenta"
 date: "2020-10-21T09:30:36+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
@@ -26,13 +26,3 @@ Hay un fragmento —_Depositar en otro toda la responsabilidad de lo que creemos
 Que su resentimiento no pase inadvertido. Y que su _crítica_ nos coja confesados.
 
 estatus de residencia y derechos en Cuba, estatus de residencia y derechos en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

@@ -1,9 +1,9 @@
 ---
-title: "¿Merece una película, la historia del Partido Independientes de Color? —"
+title: "¿Merece una película, la historia del Partido Independientes de Color?"
 date: "2019-06-26T04:51:08+00:00"
 author: ""
 category: "Historia"
-image: "/wp-content/uploads/2019/06/photo_2020-03-02_22-34-56.jpg"
+image: ""
 ---
 #### Una mirada católica sobre el movimiento racial de mayor relevancia ocurrido en la historia de Cuba
 
@@ -68,15 +68,3 @@ En el año 2012 con motivo del centenario de esta masacre se hicieron algunos en
 (7) Frase descriptiva de la sociedad cubana de aquellos años de la República, utilizada por el historiador y profesor del Instituto superior de Arte (ISA) Mario Castillo, que ha sido promotor de volver a llevar a la historiografía cubana el tema del movimiento Independiente de Color y ver su vigencia en nuestra actualidad.
 
 (8) Nota tomada por el autor de la intervención del historiador y profesor del Instituto superior de Arte (ISA), Mario Castillo en el Fórum Loyola Reina cuando se debatió sobre los pormenores del movimiento Independiente de Color.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

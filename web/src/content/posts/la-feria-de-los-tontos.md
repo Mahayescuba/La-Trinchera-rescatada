@@ -1,5 +1,5 @@
 ---
-title: "La feria de los tontos: Himno para una tercera opción"
+title: "Himno para una tercera opción"
 date: "2021-12-24T10:30:00+00:00"
 author: "Raymar Aguado Hernández"
 category: "Cultura"
@@ -39,74 +39,30 @@ La batalla es ardua. Nos desangramos por la sien de tanto sobrepensar, por tanto
 
 ![](/wp-content/uploads/2021/12/01.jpg)
 
-![](/wp-content/uploads/2021/12/01.jpg)
-
 ![](/wp-content/uploads/2021/12/02.jpg)
-
-![](/wp-content/uploads/2021/12/02.jpg)
-
-![](/wp-content/uploads/2021/12/03.jpg)
 
 ![](/wp-content/uploads/2021/12/03.jpg)
 
 ![](/wp-content/uploads/2021/12/04.jpg)
 
-![](/wp-content/uploads/2021/12/04.jpg)
-
 ![](/wp-content/uploads/2021/12/05.jpg)
-
-![](/wp-content/uploads/2021/12/05.jpg)
-
-![](/wp-content/uploads/2021/12/06.jpg)
 
 ![](/wp-content/uploads/2021/12/06.jpg)
 
 ![](/wp-content/uploads/2021/12/07.jpg)
 
-![](/wp-content/uploads/2021/12/07.jpg)
-
 ![](/wp-content/uploads/2021/12/08.jpg)
-
-![](/wp-content/uploads/2021/12/08.jpg)
-
-![](/wp-content/uploads/2021/12/09.jpg)
 
 ![](/wp-content/uploads/2021/12/09.jpg)
 
 ![](/wp-content/uploads/2021/12/10.jpg)
 
-![](/wp-content/uploads/2021/12/10.jpg)
-
 ![](/wp-content/uploads/2021/12/11.jpg)
-
-![](/wp-content/uploads/2021/12/11.jpg)
-
-![](/wp-content/uploads/2021/12/12.jpg)
 
 ![](/wp-content/uploads/2021/12/12.jpg)
 
 ![](/wp-content/uploads/2021/12/13.jpg)
 
-![](/wp-content/uploads/2021/12/13.jpg)
-
-![](/wp-content/uploads/2021/12/14.jpg)
-
 ![](/wp-content/uploads/2021/12/14.jpg)
 
 ![](/wp-content/uploads/2021/12/15.jpg)
-
-![](/wp-content/uploads/2021/12/15.jpg)
-
-[Otro texto del autor](/buscar-la-estrella/)
-
-La feria de los tontos. La feria de los tontos. La feria de los tontos. La feria de los tontos
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/ray.jpg)
-    
-    ![](/wp-content/uploads/2021/02/ray.jpg)
-    
-    [Raymar A. Aguado Hernández](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/raymar-a-aguado-hernandez/)
-    
-    Futuro psicólogo

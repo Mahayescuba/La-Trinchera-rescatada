@@ -1,9 +1,9 @@
 ---
-title: "Operativo contra ilegalidades"
+title: "Desmantelan cosmódromo en Pogolotti"
 date: "2020-07-30T16:00:00+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/07/Lost-and-Alone-Brett-McDanel.jpg"
+image: ""
 ---
 Operativo contra ilegalidades en Pogolotti. operativo contra ilegalidades. 
 
@@ -22,13 +22,3 @@ En la cadena de fechorías hay un total de veinticuatro encartados, quienes no c
 Los malhechores fueron sorprendidos in fraganti mientras se realizaba la cuenta regresiva para el lanzamiento al espacio de la primera nave tripulada del proyecto científico-espacial conjunto Lisa-Marianao, que tenía como fin la construcción de un almacén en la cara oculta de la luna.
 
 Las fuerzas del orden tuvieron conocimiento de los hechos gracias a una llamada telefónica.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

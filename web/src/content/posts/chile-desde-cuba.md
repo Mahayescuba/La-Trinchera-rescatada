@@ -3,7 +3,7 @@ title: "Lo que pasa en Chile no es solo culpa de Cuba"
 date: "2019-11-04T16:07:35+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2019/11/IMG_20191105_073812_276.jpg"
+image: ""
 ---
 Chile y Cuba. 
 
@@ -39,15 +39,3 @@ No hay un giro al comunismo en los grupos que están envueltos en la confrontaci
 La fase neoliberal del capitalismo en Chile ha provocado una serie de contradicciones en su instalación que han sido el motor de la conflictividad. Quizás en ese hermano país sea donde mejor se evidencie un antagonismo material de los pueblos contra el sistema neoliberal, que utiliza el bloque piñerista en el poder, para mantener su hegemonía ideológica. Igual, por supuesto, habrá siempre algunos revolucionarios que vean en Cuba su fuente de inspiración, pero les aseguro que no es aquí donde está el principal detonante de lo que pasa en Chile.
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/historia/che-amor-subversion-cuba/
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

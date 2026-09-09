@@ -3,7 +3,7 @@ title: "No creo"
 date: "2019-06-28T04:05:56+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/06/IMG-20190612-WA0000-1.jpg"
+image: ""
 ---
 Silencio contra silencio, como fuego contra fuego.
 
@@ -28,15 +28,3 @@ Estoy profundamente molesto. Molesto conmigo, molesto con el mundo, queriendo sa
 Estoy profundamente aturdido por tanto sonido. Quiero silencio, Salgamos ya y pidamos silencio. Seamos los primeros huelguistas silenciosos. No digamos consignas, ni siquiera las escribamos, solo pidamos silencio con nuestro silencio. Silencio contra silencio, como fuego contra fuego. Vamos, salgamos ya, pero en silencio por favor, no se perturben los susurros, no los conviertan en gritos. Pongámosle fin al subdesarrollo con silencio, esa es la clave queridos ideólogos, críticos, artistas, políticos, obreros, burócratas, cretinos, ignorantes, religiosos, rosados, verdes, negros, blancos. Destruyamos el subdesarrollo, destruyamos las esperanzas, démosle memoria a través del silencio.
 
 [También le puede inreresar](/onirica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

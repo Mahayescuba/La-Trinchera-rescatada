@@ -3,7 +3,7 @@ title: "¿Existe una política lingüística en Cuba?"
 date: "2019-07-22T10:11:49+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/07/IMG-20190722-WA0003.jpg"
+image: ""
 ---
 Los problemas que tenemos en Cuba con la política lingüística, nos urge resolverlos por nosotros mismos.
 
@@ -31,17 +31,3 @@ Ya no es solo la pobreza del lenguaje: los celulares han acortado las palabras a
 Conclusión  
 En Cuba debemos abogar por una política lingüística y actores que velen porque esto se ponga en práctica. De lo contrario, seguiremos arrastrando los problemas que hoy presenta nuestro idioma. Por ejemplo, en la planificación física de La Habana, hay una serie de normas que indican el uso correcto del idioma; sólo que falta el mecanismo que haga velar porque esto se cumpla y así evitar carteles con faltas de ortografía en el espacio público.  
 Esto de rescatar las buenas prácticas de nuestro idioma, se puede ver como un absolutismo de académicos empecinados en querer promover un uso estético del idioma; pero más bien debe verse como una forma de salvar nuestra identidad nacional. Lo más importante es llevar conciencia a los involucrados en nuestro ecosistema educativo; en ellos recae una de las fuentes primarias para el buen empleo hablado de nuestro idioma. La política que se promueva tiene que ser, sobre todo, cultural y estar afincada por campañas comunicativas que la solidifiquen. Es importante que defendamos la lengua como elemento creador de cubanidad.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

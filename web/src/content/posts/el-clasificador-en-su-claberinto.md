@@ -1,5 +1,5 @@
 ---
-title: "El-clasificador-"
+title: "El clasificador en su laberinto"
 date: "2020-06-05T13:34:11+00:00"
 author: ""
 category: "Política en Cuba"
@@ -40,15 +40,3 @@ Para contactar con la autora: alinabarbara65@gmail.com
 \[1\] José Martí: Pensamiento político. Prólogo y compilación Emilio Roig de Leuchsenring, La Habana, Oficina del Historiador de la Ciudad, 1953, p. 200.
 
 [Tomado de La Joven Cuba](https://jovencuba.com/2020/06/05/clasificador-laberinto/)
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/alina-barbara-lopez-hernandez.jpg)
-    
-    ![](/wp-content/uploads/2021/02/alina-barbara-lopez-hernandez.jpg)
-    
-    [Alina Bárbara López Hernández](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/alina-barbara-lopez-hernandez/)
-    
-    Coordinadora de La Joven Cuba. Profesora, ensayista e investigadora.
-    
-    [](https://jovencuba.com/amp/author/alinalopez/)

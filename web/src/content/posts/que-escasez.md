@@ -1,9 +1,9 @@
 ---
-title: "Término escasez"
+title: "¿Qué escasez?"
 date: "2021-03-15T16:00:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/03/Love-Stories.jpg"
+image: ""
 ---
 La escasez para la [economía neoclásica](https://economipedia.com/definiciones/economia-neoclasica.html) es la escasez de recursos.  Se trata de una relación entre las necesidades, de consumo o productivas, y la disponibilidad de objetos y recursos para satisfacer dichas necesidades.
 
@@ -24,15 +24,3 @@ También puede hablarse de escasez si ocurren determinados movimientos en el mer
 Visto esto, se da alguna muestra de cómo es necesario que, dentro de la ciencia económica, el término escasez sea empleado de una manera más flexible, tal y como pueden exigirlo algunos fenómenos a explicar. Pues, como se muestra, se puede usar en varios contextos y cobrar en estos, sentido teórico, ya sea explicativo, descriptivo, o previsivo.
 
 Lo que sí queda claro es que, al hablar de escasez, se trata de falta de oferta, entendida no como la acción de un vendedor (los recursos naturales puede que sea solo descubrirlos y tomarlos), sino como disponibilidad. Es decir, como la reducción (real o referencial) de algo necesitado demandado, tomando como referencia un punto.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

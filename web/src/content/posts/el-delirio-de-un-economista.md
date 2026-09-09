@@ -1,9 +1,9 @@
 ---
-title: "Tarea ordenamiento y unificación monetaria"
+title: "El delirio de un economista"
 date: "2021-05-22T09:30:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/05/le-jardin-de-lile-delle-.jpg"
+image: ""
 ---
 La Economía difiere de las ciencias de la administración. La segunda, estudia procesos productivos lineales, con puntos de inicio y final. Ordinalidades y donde cada punto se puede explicar por el anterior.
 
@@ -83,18 +83,4 @@ Sin esa respuesta productiva, el escenario es desfavorable ya, y puede ser peor.
 
 De mantenerse las reglas de juego como ahora, la situación será esta. Ojalá y cuando lea el presente texto ya todo haya cambiado y este sea solo el delirio de un economista aferrado a lo que resulta imprescindible para el progreso de una sociedad: producir bienes y servicios que dignifiquen el poder adquisitivo real del salario.
 
-_Publicado originalmente en la revista Vida Cristiana. _Escrito entre diciembre 2020 y enero 2021.__ 
-
-tarea ordenamiento y unificación monetaria, tarea ordenamiento y unificación monetaria, tarea ordenamiento y unificación monetaria, tarea ordenamiento y unificación monetaria, tarea ordenamiento y unificación monetaria, tarea ordenamiento y unificación monetaria
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)
+_Publicado originalmente en la revista Vida Cristiana. _Escrito entre diciembre 2020 y enero 2021.__

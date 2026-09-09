@@ -1,5 +1,5 @@
 ---
-title: "continuidad política en Cuba La Trinchera Ricardo Torres"
+title: "¿Continuidad o continuismo?"
 date: "2018-05-29T16:30:14+00:00"
 author: "Ricardo Torres"
 category: "Política en Cuba"
@@ -40,15 +40,3 @@ Pero ya el genio lo advirtió… no se pueden esperar resultados diferentes haci
 Tomado de [Rebelión](http://www.rebelion.org/noticia.php?id=241294&titular=%BFcontinuidad-o-continuismo?-)
 
 [También puede interesar](/historia/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

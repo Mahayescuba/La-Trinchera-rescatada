@@ -3,7 +3,7 @@ title: "Marx + Proudhon (II)"
 date: "2018-09-28T11:25:45+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2018/09/proudhon.jpg"
+image: ""
 ---
 Marx y Proudhon.
 
@@ -44,15 +44,3 @@ En este mismo sentido van las palabras del historiador _Issac Deutscher_ en _Rus
 Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon.
 
 Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

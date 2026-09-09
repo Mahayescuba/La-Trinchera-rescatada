@@ -1,9 +1,9 @@
 ---
-title: "Colas en Cuba"
+title: "La cola y los idiotas"
 date: "2020-09-12T16:00:00+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/09/JPJ-on-Etsy.jpg"
+image: ""
 ---
 _Una cola de picadillo, Aristóteles y muchos, muchos idiotas. Estrategia_ e_timológica para alcanzar un turno._
 
@@ -25,14 +25,4 @@ Aristóteles, que fue en parte el inventor de esa palabra de moda llamada democr
 
 Así que va y le doy la razón, señora, todos somos idiotas, al menos todos en esta cola y en la del frente, la de mañana y el día después. El asunto sigue siendo cuándo, de una vez, acabamos con [Aristóteles](<http://Así que va y le doy la razón, señora, todos somos idiotas, al menos todos en esta cola y en la del frente, la de mañana y el día después. El asunto sigue siendo cuándo, de una vez, acabamos con Aristóteles.>).
 
-Colas en Cuba, Colas en Cuba.
-
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/coleros-y-acaparadores/
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Alex Correa Iglesias](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/alex-correa-iglesias/)

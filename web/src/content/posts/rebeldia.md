@@ -3,7 +3,7 @@ title: "Rebeldía"
 date: "2020-07-27T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/07/Chema-Madoz.jpg"
+image: ""
 ---
 Leo que las otras medidas —aparición de pequeñas y medianas empresas, mayor autonomía de las estatales, unificación de la moneda…— significarán un aporte significativo a las divisas que necesita el país.
 
@@ -34,13 +34,3 @@ Lo digo y ya, porque la rebeldía es cualidad de inconformes. No puedo callar cu
 Meddas Medidas Medidas Medidas Medidas 
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/incentivos-produccion/
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

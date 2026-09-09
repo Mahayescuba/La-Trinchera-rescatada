@@ -3,7 +3,7 @@ title: "¿Martiano?"
 date: "2019-01-29T05:31:27+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/01/IMG_20190129_000548.jpg"
+image: ""
 ---
 #### A propósito de la Marcha de las antorchas en condiciones de un desastre natural, mi catarsis limitada.
 
@@ -24,17 +24,3 @@ Aprendemos que patria es humanidad, aquella porción de la humanidad que más ce
 Se está dispuesto a ir a Venezuela y ayudar por allá, pero se ignoran a los de aquí en los momentos cruciales.  
 Estoy seguro de que eso no es nada martiano, de que esa indolencia demostrada no es la sensibilidad humana que el _Maestro_ nos legó. Ser martiano es saber que _“…debe hacerse en cada momento lo que en cada momento es necesario”._ Tocaba ayudar, guardar la calma, pero no se hizo.  
 Siento vergüenza de esa [Marcha de las antorchas](http://www.cubadebate.cu/etiqueta/marcha-de-las-antorchas/), y de sus responsables.
-
-[Otro texto del autor](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

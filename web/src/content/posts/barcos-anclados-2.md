@@ -3,7 +3,7 @@ title: "Ancklado"
 date: "2018-12-25T05:05:49+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2018/12/images-3.jpg"
+image: ""
 ---
 Ancklado.
 
@@ -18,13 +18,3 @@ Quien  la vio y quien la ve solo recuerda de su capitán la [Santa Bárbara](ht
 El anckla en el fondo oxidada, y el desespero en acción. No fue una revolución que lo escoró en la orilla, fue otra la sombrilla que le tapó el sol ﬂotando entre las costillas de un ex poder superior.  La hoz y el viejo martillo pasaron a la extinción, y el barco sin movimiento canta la misma canción, se pudre en la decadencia sin otra locomoción;
 
 >  en medio del golfo se pudre, ancklado en la depresión.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    ![](/wp-content/uploads/2021/02/anckla.jpg)
-    
-    [Anckla](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/anckla/)
-    
-    [](https://www.amazon.com/s?i=digital-text&rh=p_27%3AAnckla+Almirante+&s=relevancerank&language=es&text=Anckla+Almirante+&ref=dp_byline_sr_ebooks_1)

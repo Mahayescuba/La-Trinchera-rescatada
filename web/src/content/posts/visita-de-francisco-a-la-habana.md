@@ -1,9 +1,9 @@
 ---
-title: "visita de Francisco a La Habana"
+title: "Una Cruz, un Papa, unos jóvenes"
 date: "2020-09-23T01:50:53+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2020/09/julio-1.jpg"
+image: ""
 ---
 ## A 5 años de la visita del Papa Francisco a nuestro país
 
@@ -31,16 +31,4 @@ El P. Eloy, cuando pase por la Nunciatura, debe sentirse emocionado, pues logró
 
 El encuentro del Papa con los jóvenes en el Centro Cultural P. Félix Varela, de la Habana Vieja es, sin lugar a dudas, uno de los lugares donde he percibido una mayor libertad. Aún recuerdo cuando pedí a Leonardo Fernández Otaño que fuera la voz de todos los jóvenes del país: su discurso fue valiente e histórico. Por esos días había muerto mi abuelo, pero sentía que desde el cielo acompañó mis pasos para entregar la cruz al Papa; él, un católico contra viento y marea, se hubiese sentido orgulloso de ver al nieto tan cerca del sucesor de Pedro. Yo apenas recuerdo detalles del momento; son de esas cosas que la mente no termina de creerlas; el tiempo a veces lento, ahí pasó volando.
 
-Sé que en esos tres jóvenes imperfectos, que llevamos la cruz, iba también representado el esfuerzo de una Iglesia que apostaba y apuesta por la juventud. Hoy, doy gracias al Papa por su cariño a Cuba y a todos los artífices, a veces silenciosos, de aquella narrativa de amor que vivió nuestra Isla hace 5 años.                 
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)
+Sé que en esos tres jóvenes imperfectos, que llevamos la cruz, iba también representado el esfuerzo de una Iglesia que apostaba y apuesta por la juventud. Hoy, doy gracias al Papa por su cariño a Cuba y a todos los artífices, a veces silenciosos, de aquella narrativa de amor que vivió nuestra Isla hace 5 años.

@@ -1,9 +1,9 @@
 ---
-title: "Marx y Proudhon"
+title: "Marx + Proudhon (VI)"
 date: "2018-11-15T13:48:15+00:00"
 author: ""
 category: "Marxismo"
-image: "/wp-content/uploads/2018/09/proudhon.jpg"
+image: ""
 ---
 Marx y Proudhon.
 
@@ -19,15 +19,3 @@ La reciprocidad en la creación, es el principio de la existencia. En el orden s
 El pensamiento de Proudhón, se centró en la autarquía de los productores, una utopía reaccionaria, diríamos hoy, en perspectiva, también puede agregarse, que el centro de su lucha fue, contra la división del trabajo. El trabajo entendido como la fundamental realización de las personas, en la producción de bienes de uso. La revolución convirtió a los súbditos en ciudadanos, se trataba, ahora de eliminar los desequilibrantes abusos de los nuevos y viejos privilegios económicos, para arribar a una justicia, que garantice ‘reciprocidad’ en los intercambios libres, donde el capital-dinero circule sin interés. La importancia de este sucesor de Rousseau, en tiempos republicanos, radica en puso los fundamentos para la tradición de las distintas corrientes anarquistas dentro del movimiento obrero mundial y de distintas maneras, compitió con el marxismo por la dirección insurreccional durante los últimos ciento ochenta años estableciendo la controversia entre militante profesional y militante vocacional, o entre base y dirección o entre trabajo voluntario y trabajo obligatorio. También sentó las bases para el comunitarismo del siglo XX, próximo al ideario del americano [Henry Thoreau](https://es.wikipedia.org/wiki/Henry_David_Thoreau).
 
 Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

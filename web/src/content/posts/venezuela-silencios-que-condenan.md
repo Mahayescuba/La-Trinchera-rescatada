@@ -3,7 +3,7 @@ title: "Venezuela: los silencios que condenan"
 date: "2019-02-13T19:45:54+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2019/02/PicsArt_02-13-02.37.59.jpg"
+image: ""
 ---
 Venezuela.
 
@@ -74,15 +74,3 @@ Nos venimos preguntado sobre qué es lo mejor para Venezuela. El marco de actuac
 Tomado de [La Jiribilla](http://lajiribilla.cu/articulo/venezuela-los-silencios-que-condenan)
 
 Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela.Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela. Venezuela.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

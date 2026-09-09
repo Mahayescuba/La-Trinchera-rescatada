@@ -3,7 +3,7 @@ title: "La terrible circunstancia del agua por ninguna parte"
 date: "2019-12-19T04:26:33+00:00"
 author: ""
 category: "Noticias"
-image: "/wp-content/uploads/2019/12/internacional-humor-agua-saln-lima-delAgua-Salón-Internacional-del-Humor-Lima-2010-1.jpg"
+image: ""
 ---
 > Abandonados por las autoridades de la Habana, la terrible circunstancia del agua por ninguna parte.
 
@@ -11,23 +11,9 @@ image: "/wp-content/uploads/2019/12/internacional-humor-agua-saln-lima-delAgua-S
 
 Volviendo al tema del agua en el edificio Reina 109. En medio de ilegalidades y la ausencia total de agua por fin se convocó hace un par de semanas a una reunión con los vecinos del edificio. Fijada para las 8 de la noche en el sector de la [P.N.R.](https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_Revolucionaria) ante la delegada de la circunscripción, donde se convocó a directivos de la empresa _Aguas de la Habana_ y del _Jefe del Sector_ de la localidad de _Los Sitios,_ con buena asistencia de los afectados. Salieron a la luz situaciones verdaderamente lamentables como la adjudicación del local donde se encuentra la cisterna del edificio de un individuo que la ocupa de manera ilegal en una vivienda improvisada. Este ciudadano, conocido como Lezcay (por su apellido) extrae de manera ilegal agua de la cisterna por un agujero en su costado y una manguera.
 
-![](/wp-content/uploads/2019/12/fb_img_157672968386521907309194009106944492.jpg)
-
 Sospechosamente en el lugar existe un parqueo de autos, motos y _bicitaxis_ que se han visto frecuentemente en labores de limpieza. Este señor es quien se adjudica el derecho a administrar el agua al edificio y se mantuvo todo el tiempo mirando la reunión desde el exterior desde una ventana (lo escuché decir claramente: _estoy mirando las caras de quienes vinieron a hablar_, en clara actitud amenazante).  
 Lo más relevante de la reunión, donde los vecinos hicieron las denuncias correspondientes, es que **nunca** aparecieron los directivos de _Aguas de la Habana_ y, por extraño que parezca, tampoco el _Jefe de_ _Sector_, ni representante alguno de la P.N.R. a pesar de realizarse la reunión en el recinto que ocupa dicho sector. Se tomó nota por escrito y la delegada juró que lo elevaría a las instancias correspondientes. Más de dos semanas después nada ha sido resuelto. Sigue el control del local de la cisterna en manos del tal Lezcay, quien la mantiene bajo candado para que los vecinos no puedan acceder y en todo este tiempo se ha puesto el agua solo tres o cuatro veces sin la fuerza debida para que llegue a los apartamentos del tercer piso. Algunos vecinos inescrupulosos han destruido alguna de las llaves de paso para que el agua llegue sólo a los primeros apartamentos en bajos. El edificio se encuentra en medio del caos y de las manifestaciones de violencia e intimidación de algunos, sin que esto reciba la sanción correspondiente. Mujeres con niños pequeños y ancianos enfermos solos haciendo sus necesidades en bolsas de nylon, las pipas que presuntamente envía _Aguas_ _de la Habana_ o no llegan, compradas por quienes tienen el poder del dinero o resultan insuficientes para llenar el nivel requerido de la cisterna de un edificio que tiene 70 apartamentos.  
 A pocas cuadras del lugar relucen los nuevos hoteles Cinco estrellas de la capital con agua las 24 horas. En los bajos del edificio la maltrecha tienda **Ultra** vende galones de agua a 1,90 c.u.c. Los famosos sitios de internet del _Gobierno_ _Electrónico_ están fuera de servicio. ¿Hasta cuándo vamos a tolerar el abandono de las autoridades a la población? ¿Por qué la mentira cacareada en los medios de difusión de que “el Estado no abandona a nadie”? ¿Tienen los vecinos de Reina 109 que manifestarse en la vía pública respecto a este problema, como ya ocurrió recientemente en la misma zona? Si esto pasara de manera espontánea seguramente sí aparecerían al instante las _autoridades_ _pertinentes_ que no tienen que ver con el problema hidráulico.  
 Ahora mismo los vecinos de este y otros muchos lugares de Cuba están en total desamparo, solucionando los problemas con acciones individuales, ilegalidades y desvíos, obligados por la situación. ¿Dónde está la P.N.R. que no ha ido a averiguar por el _status_ del ciudadano Lezcay? ¿Dónde están _Aguas de la Habana_, el _Partido_ y el _Poder Popular_?  
 Abandono y desprotección total. No hay otras palabras para definir esta terrible e inhumana circunstancia. El sentir colectivo es que la _Habana 500_ fue un maquillaje por la ruta donde suelen pasar las autoridades en un día engalanado para la ocasión.  
 La gente de abajo está cansada de tanta palabra sin acción. Como reza el negrísimo humor popular: _Cuba dice…pero no hace_.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

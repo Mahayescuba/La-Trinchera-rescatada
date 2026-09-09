@@ -1,9 +1,9 @@
 ---
-title: "Sobre la reforma constitucional (I) - Una reflexión desde un joven Fidel Castro"
+title: "Sobre la reforma constitucional (I)"
 date: "2018-09-24T11:05:06+00:00"
 author: "René Portuondo"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2018/09/629-cosntitucion-cuba.jpg"
+image: ""
 ---
 _Ciudadano de un estado libre y miembro de poder soberano, por débil que sea la influencia que mi voz ejerza en los negocios públicos, el derecho que tengo de emitir mi voto me impone el deber de ilustrarme acerca de ellos. ¡Feliz me consideraré todas las veces que, al meditar sobre las diferentes formas de gobierno, encuentre siempre en mis investigaciones nuevas razones para amar el de mi patria!_
 
@@ -29,15 +29,3 @@ El poder soberano, el pueblo, tendría aquí no solo la oportunidad de ser parte
 
 Muchos pueden cuestionarse por qué crear temporalmente un mecanismo paralelo al ya existente( una asamblea constituyente) para dar forma a una nueva constitución y este es un cuestionamiento válido, más aún si al finalizar todo tiene que terminar en la misma Asamblea Nacional, ¿no es más eficiente el mecanismo adoptado en la actualidad?  Puede, pero **más eficiente no significa más democrático y trasparente**. Y aunque existen en el debate actual explicaciones de destacados intelectuales  sobre por qué el poder constituido (el legislativo, la ANPP) no debería ser al mismo tiempo poder constituyente, yo prefiero acogerme a ese revolucionario, que acusó a Batista y que dijo: _“**Es un principio elemental de derecho público que no existe la constitucionalidad allí donde el Poder Constituyente y el Poder Legislativo reside en el mismo órgano”. (Fidel Castro Ruz. La Historia me Absolverá)  
 **_
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

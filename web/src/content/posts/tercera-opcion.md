@@ -1,9 +1,9 @@
 ---
-title: "Tercera opción. ¿Van a por todos?"
+title: "¿Van a por todos?"
 date: "2020-12-10T02:15:23+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/12/Cercle-Giacometti.jpg"
+image: ""
 ---
 _Van a por todos_, me dicen por la mañana en un mensaje. Pensé que era algo referido a la unificación monetaria (no quedará un CUC vivo, pensé. Y qué bien, una buena frase que recoge el espíritu de la unificación). Pero qué absurdo yo, el comentario tenía un enlace a un [artículo](http://www.granma.cu/mundo/2020-12-09/tercera-opcion-o-la-emboscada-en-el-camino-09-12-2020-01-12-01) de Granma.
 
@@ -40,17 +40,3 @@ Pero nada de esto es nuevo. Desde posiciones de poder se utilizan sus tecnologí
 Y poco importa lo que piense yo. Al lector apurado, que anda en mil dilemas cotidianos, se le vuelve a machacar en la cabeza: _ni un solo paso al lado_; es mejor estar lejos de los de la foto, y de los que son como ellos. ¿Cuántos serán, o seremos, los todos a por los que (ellos) van? ¿Quiénes y cuántos serán (ellos)?
 
 Tal vez, es solo la opinión de un autor, me digo. ¿Y si el autor no está solo, y es la voz de muchos (algunos, incluso, de más arriba)?
-
-Tercera opción. Tercera opción. Tercera opción. Tercera opción. Tercera opción
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

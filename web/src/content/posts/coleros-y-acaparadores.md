@@ -3,7 +3,7 @@ title: "El último"
 date: "2020-08-07T09:30:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/08/Jean-Luis-Corby.jpg"
+image: ""
 ---
 coleros y acaparadores.
 
@@ -44,13 +44,3 @@ coleros y acaparadores.
 —Esta batalla es trascendental, mami. Tenemos que acabar con las consecuencias si pretendemos suprimir las causas. Recuerda lo que dijo el Granma el otro día: las colas existen porque existen los coleros.
 
 —¿De verdad crees eso: que existo como madre porque existes como hijo? ¿O es que no te llenas con la pechuga que te serví? Aprovecha, que no todos los días hay dinero para comprársela a la vecina… Dinero… ¿Llevas dinero?
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

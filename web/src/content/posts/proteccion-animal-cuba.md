@@ -3,7 +3,7 @@ title: "El estado cubano necesita asimilar con urgencia el activismo por los der
 date: "2019-06-11T18:54:15+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/06/IMG-20190611-WA0011.jpg"
+image: ""
 ---
 La inmovilidad en la red de organizaciones de masas cubanas ha sido tal que no ha podido asimilar un proceso espontáneo, legítimo y cada vez más visible como el movimiento por los derechos de los animales.
 
@@ -30,15 +30,3 @@ Creo que no solo el estado debe asimilar el movimiento por los derechos de los a
 Una buena acción no necesita ser politizada, porque en sí ya es política. Si la CTC consiguiera un aumento salarial en el sector educativo, no tendría que agradecer al proceso revolucionario, porque ella misma sería el proceso revolucionario. Agradecer a la Revolución significa o excluirse de la Revolución o caer en un autoelogio vanidoso y ridículo. La FMC no debe ser el instrumento para que las mujeres cubanas se vuelvan comunistas, sino la fuerza autónoma que, luchando por los derechos de sus miembros, haga mejor un mejor socialismo para Cuba. La FEU no tiene que representar a los estudiantes y defender el socialismo, porque representar a los estudiantes es su forma de defender el socialismo. Cuantas más organizaciones tenga el socialismo trabajando para mejorar la sociedad cubana, más fuerte va a hacerse. Pido disculpas al lector por mi optimismo. Le aseguro que es retórico.
 
 [Tomado de Medium](http://medium.com/@neverland89/el-estado-cubano-necesita-asimilar-con-urgencia-el-activismo-por-los-derechos-de-los-animales)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

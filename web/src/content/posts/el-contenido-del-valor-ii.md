@@ -3,7 +3,7 @@ title: "El contenido del valor (II)"
 date: "2018-09-07T11:00:29+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2018/09/mesa_redonda2.jpg"
+image: ""
 ---
 **En respuesta a Rolando Astarita**
 
@@ -51,5 +51,3 @@ Por eso, el valor, como determinación esencial, en primer lugar, se debe record
 Por otro lado, queda también que el valor, ya que es la determinación que se busca en la investigación de Marx para poder explicar las demás, asumiendo cual es el principio de la dialéctica(las relaciones asumidas como comienzo del pensar), entonces tal valor debe entenderse como tal, como relaciones(determinaciones) alrededor de la mercancía (el objeto), que no tienen más contenido que las mismas relaciones, quedando solo como tales y que su única implicación inicial es que llevan implícito reconocimiento(social), ya que son relaciones entre hombres las que se establecen alrededor de la mercancía.
 
 Prueba de ello, es por ejemplo, es que al definir el valor, a pesar de saber Marx que en dicho proceso está sujeto a la hegemonía de clases, excluye esto, evitándose dar más ponderación a algunas determinaciones que a otras. Sabiendo de seguro, que debían definirse al valor, como ese elemento que contenía inicialmente todas esas determinaciones, ya que como toda categoría dialéctica, se inicia siendo tautológica, transparente, vacía, sin otras cualidades.
-
-## Autor

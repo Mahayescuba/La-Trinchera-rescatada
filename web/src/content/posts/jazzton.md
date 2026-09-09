@@ -1,9 +1,9 @@
 ---
-title: "Jazzton"
+title: "Divinos demonios"
 date: "2020-07-17T09:30:29+00:00"
 author: "Sender Escobar"
 category: "Cultura"
-image: "/wp-content/uploads/2020/07/jazzton-VISTAR.jpg"
+image: ""
 ---
 Sobre el gusto musical en la actualidad y los géneros más consumidos por el público, se ha extendido la  polémica del reggaetón. El desdén expresado en  varios espacios culturales a los que he asistido  me han llamado la atención sobre dos aspectos: en estos lugares he sido muchas veces el único joven de los asistentes; la animadversión declarada y ofensiva hacia el género  urbano  llamado reggaetón.  En uno de estos espacios, específicamente en el Centro Dulce María Loynaz los segundos miércoles de cada mes, antes de la llegada del  COVID a Cuba, el historiador  y  periodista [Ciro Bianchi Ross](https://www.ecured.cu/Ciro_Bianchi) desarrolla una peña   llamada _Gentes y Lugares de La Habana_ donde  invita a personalidades de la cultura cubana  a  un intercambio  ameno con el público.  La última vez que asistí, Ciro invitó a la musicóloga  Elsida González Portal, quien expuso las estrategias de la industria musical cubana y sus enfoques en la actualidad en el mercado digital y la búsqueda de nuevos públicos.  En medio del intercambio con los asistentes, uno de ellos expresó  su opinión nada alabanciosa sobre el reggaetón, además de una propuesta para su erradicación:
 
@@ -13,7 +13,7 @@ Por supuesto, el reggaetón es un _agente invasor_ y _una_ _contra ofensiva_ es 
 
 La invitada hizo gala de sus conocimientos  y experiencia  argumentado sobre  otros matices expresivos del público que en su mayoría escucha, baila y disfruta de este género. Temas que a la  hora de satanizar al reggaetón no son tomados en cuenta, como el grupo etario, ni la expresividad iconoclasta o simplemente poco habitual, para quienes clasifican a esta música como desechos en el mejor de los casos.
 
-![](/www.uneac.org.cu/sites/default/files/imagen/noticias/1213171625b.jpg?w=960)
+![](https://www.uneac.org.cu/sites/default/files/imagen/noticias/1213171625b.jpg)
 
 Jorge Fornet y Ciro Bianchi en el espacio Gentes y lugares de La Habana. Fuente: UNEAC
 
@@ -35,18 +35,4 @@ https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/opinion
 
 También puede interesar
 
-Pienso que la subestimación hacia lo popular muchas veces crea estigmas culturales que se asientan y sirven de base para expresiones segregacionistas que, en la foribundez de un desacierto, no tienen en cuenta esa otra parte de la sociedad que se identifica con un género  urbano o la simple omisión de un reguetonero  en una reseña crítica en televisión se transforma en un modo de invisibilizar a quienes lo defienden.        
-
-[Otro texto del autor](/cultura/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+Pienso que la subestimación hacia lo popular muchas veces crea estigmas culturales que se asientan y sirven de base para expresiones segregacionistas que, en la foribundez de un desacierto, no tienen en cuenta esa otra parte de la sociedad que se identifica con un género  urbano o la simple omisión de un reguetonero  en una reseña crítica en televisión se transforma en un modo de invisibilizar a quienes lo defienden.

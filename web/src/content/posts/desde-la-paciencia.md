@@ -1,9 +1,9 @@
 ---
-title: "agricultura y alimentación en Cuba"
+title: "Desde la paciencia"
 date: "2020-10-13T09:30:43+00:00"
 author: "Jorge Fernández Era"
 category: "Onírica"
-image: "/wp-content/uploads/2020/10/Oriol-Cabrero-Art-on-Wood.jpg"
+image: ""
 ---
 A pocas horas de celebrarse el aniversario 528 del arribo al Nuevo Mundo del despistado almirante que nos creyó tierra de Indias, acaba de hacerse en La Habana un descubrimiento trascendental: para producir y garantizar durante todo el año el alimento necesario y de calidad que propicie el desarrollo de nuestra deprimida ganadería bovina son tres las _alternativas integrales: recuperar las áreas de pastos y forrajes, solucionar el déficit de alimento para el periodo seco y potenciar el empleo de recursos naturales, de productos y subproductos agroindustriales que puedan servir como suplemento_. Debe ser que hasta la fecha nuestras vacas comían pizzas.
 
@@ -18,13 +18,3 @@ En un país rodeado de mar y cundido de marabú que solo consume cuatro kilogram
 Si Cristóbal Colón hubiera vivido lo que tarda el país con más científicos por rabo encendido del mundo en convertir en resultado el contenido de sus investigaciones, tendría la posibilidad que tuvimos todos de oír en el noticiero el reporte del nuevo encuentro sobre el _Programa de Soberanía Alimentaria y Nutricional_. Hubiera cambiado su discurso al desembarcar en nuestras costas. Señalaría a las vacas de marras y exclamaría conmovido ante los incrédulos y anonadados nativos, los de ayer y los de hoy: _Llegaron vivitas y coleando gracias a alternativas económicas integrales, flexibles, con capacidad de adaptación a los diferentes escenarios productivos que nos permiten incrementar la producción de alimento animal y avanzar hacia la intensificación sostenible de la actividad ganadera_.
 
 agricultura y alimentación en Cuba, agricultura y alimentación en Cuba, agricultura y alimentación en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

@@ -38,15 +38,3 @@ Y ahí esta la diferencia, que los positivistas pretenden enterrar, entre la his
 
 Igualmente pasa en la vulgarización de otras ciencias sociales, especialmente en la propia economía que pasó de analizar relaciones reales de los hombres al análisis de las formas ideales y vacías de los modelos perfectos que hoy pululan en el ideario de la escuela neoclásica, y que poco a poco ha calado e infestado hasta la médula casi todo lo que como heterodoxo podía entenderse en las ciencias económicas. Solo una parte de los marxistas y postkeynesianos constituyen la última línea de defensa ante las embestidas del “pensamiento único”.  
 No le pidamos peras al olmo, más que todo porque los principales representantes de dicho campo han sido lo suficientemente cautos de entender que es un olmo. La econometría que estudia y crea métodos y procedimientos externos al objeto social que pretendidamente dice analizar, y luego le impone esos esquemas fijos para su análisis, no puede ser por ninguna razón elevada al alto grado de ciencia social. Debe ser posicionada como lo que es, una herramienta más en el instrumental analítico de las ciencias positivistas.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

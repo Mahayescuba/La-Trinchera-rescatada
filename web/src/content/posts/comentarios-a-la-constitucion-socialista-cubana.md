@@ -3,7 +3,7 @@ title: "Comentarios a la Constitución ¿socialista? I"
 date: "2019-02-08T07:29:01+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/02/PicsArt_02-08-02.19.35-1.jpg"
+image: ""
 ---
 constitución socialista.
 
@@ -58,15 +58,3 @@ Es cierto, aclara que la Constitución prevalece por encima de estos tratados, p
 En un quimérico artículo 14, el proyecto de constitución termina innovando en la tradicional postura oficial al respecto, al reconocer el desempeño de las demás formas asociativas. Este precepto, implementado de buena fe, podría coadyuvar a una positiva ventilación y retroalimentación entre la sociedad civil nacional, la real quiero decir -esa que no es subvencionada por nadie, que no existe por la fuerza de un decreto ley, y cuya cobertura mediática no comprende ni a la Mesa Redonda ni al Canal 41- y cualquier otro interlocutor que pretenda apostar por el bienestar nacional.
 
 constitución socialista. constitución socialista. constitución socialista. constitución socialista. constitución socialista. constitución socialista.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "Sobre el contenido de la categoría valor o un viejo debate La Trinchera"
+title: "Sobre el contenido de la categoría valor o un viejo debate"
 date: "2019-02-05T07:33:36+00:00"
 author: "Iramís Rosique"
 category: "Marxismo"
-image: "/wp-content/uploads/2019/02/PicsArt_02-05-02.28.06.jpg"
+image: ""
 ---
 Las lecturas más economicistas del _Capital_ de Marx han llevado a no pocos marxistas los últimos 150 años a creer que puede atraparse de una vez físicamente el valor de una mercancía como se atrapa una mariposa en una floresta con un jamo y una mano precisa. Claro que en este caso los marxistas sueltan rápidamente el jamo para agarrar un manojo de cronómetros y relojes que se erigen nueva red para atrapar en el vuelo a la fugaz mariposa del valor. Rápidamente si alguno de estos cazadores está leyendo estas líneas dirá que solo siguen las instrucciones de cacería del maestro cazador que indica en _El_ _Capital_ claramente que la magnitud del valor viene dada por la cantidad de _tiempo de trabajo socialmente necesario para producir tal o más cuál mercancía_. Y con esto no dicen más que una verdad a medias.  
 En tanto el valor de uso comprende una dimensión del valor puramente cualitativa, por estar relacionado con la capacidad de las mercancías para satisfacer determinadas necesidades, nada nos dice sobre él la magnitud del valor, que siendo como es, una categoría cuantitativa y sumamente abstracta, nada indica sobre las propiedades particulares de esta o aquella mercancía, así como tampoco nada tiene que ver el tiempo de trabajo socialmente necesario con las características, cualidades particulares de los diversos trabajos concretos. Entonces imaginamos que existe consenso en el foro, sobre que estas categorías solo están relacionadas con la dimensión del valor con que las mercancías pueden hacer, y en efecto hacen, abstracción de sus propiedades materiales, naturales, aportadas por los trabajos específicos del artesano, el campesino o el cineasta, para identificarse en el mercado y ser cambiadas unas por otras; es decir: el valor de cambio.  
@@ -22,15 +22,3 @@ No obstante, como de ironías está salpicada la escena de la vida, también la 
 > las formas historias concretas de producción social en sentido completo, lo que no solo implica asuntos puramente económicos, sino también los usos y costumbres, la cultura;
 
 en fin, producción espiritual. Es en sociedades concretas, en formaciones económico-sociales dadas donde, en virtud de la necesidad objetiva -jamás arbitraria aunque sin dudas no solo material- se fija lo socialmente necesario, que es, recalcamos, objetivamente necesario -y esperamos que se entienda aquí necesidad no en el sentido vulgar sino como categoría. El contenido (magnitud) del valor (de cambio) sí es, en efecto, como dijera Marx, la cantidad (tiempo) de trabajo socialmente necesario aunque en la práctica no puedan reducirse estas categorías a simples e impías determinaciones materiales de la mercancía susceptibles a ser aprisionadas con rosas cronométricas y fórmulas estadísticas.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

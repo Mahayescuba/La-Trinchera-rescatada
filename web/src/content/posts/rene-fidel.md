@@ -3,7 +3,7 @@ title: "Supongamos que no se trata un caso aislado"
 date: "2019-08-21T05:34:20+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/08/IMG_20190804_001216.jpg"
+image: ""
 ---
 René Fidel.
 
@@ -24,15 +24,3 @@ Vivimos en la sociedad pensada para las primeras suposiciones y que olvida las s
 Supongamos que no se trata un caso aislado.
 
 René Fidel René Fidel René Fidel
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

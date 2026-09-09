@@ -1,9 +1,9 @@
 ---
-title: "distinguir entre agradecidos y aprovechados"
+title: "Los agradecidos y los aprovechados"
 date: "2020-10-09T16:00:00+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/10/Richard-MacDonald.jpg"
+image: ""
 ---
 Hay personas agradecidas, pero también muchas maneras de ser agradecido. Por ejemplo, validar y respaldar [acríticamente](https://definicion.de/acritico/) lo que dice o a hace quien o quienes reciben el agradecimiento. 
 
@@ -20,15 +20,3 @@ Hay personas agradecidas, sí. Pero entre los agradecidos, están los agradecido
 Se es agradecido cuando se defienden ideas de espíritu justas, pero sobre todo, la buena puesta en práctica de estas. Eso también es ser agradecido, y caben menos aprovechados.
 
 distinguir entre agradecidos y aprovechados, distinguir entre agradecidos y aprovechados
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

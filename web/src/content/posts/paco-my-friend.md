@@ -1,5 +1,5 @@
 ---
-title: "Paco My friend-El Solar-podcast"
+title: "Paco My Friend"
 date: "2020-08-09T16:00:00+00:00"
 author: ""
 category: "Cultura"
@@ -38,15 +38,3 @@ Hablar de _Septiembre me ha desheredado_ es toda una proeza. Es de esos poemas q
 [PlayerFM](https://es.player.fm/series/2649724/269113427)
 
 [Podparadise](https://www.podparadise.com/Podcast/1500698275/Listen/1596789208/0)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

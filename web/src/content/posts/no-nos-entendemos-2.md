@@ -3,7 +3,7 @@ title: "No, no nos entendemos"
 date: "2019-07-12T21:49:15+00:00"
 author: "René Fidel González García"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/07/IMG-20190712-WA0022.jpg"
+image: ""
 ---
 Si. Es cierto. No nos entendemos con los que quiso conjurar José Martí con la independencia de Cuba y Puerto Rico, con los que volvieron amarga en su propia tierra la dignidad de nuestros abuelos y el sueño de la [República](https://es.wikipedia.org/wiki/Rep%C3%BAblica), con los que hicieron pagar cada derecho del ciudadano, de la mujer y el negro, del niño y el pobre con proporciones exactas de lágrimas y sangre, con los que usurpan aún un pedazo de la isla grande, con los que nos han bloqueado minuciosamente, con los que nos impusieron la agresión, el dolor y el hambre a cambio de nuestros sueños.
 
@@ -42,17 +42,3 @@ No, no nos entendemos, porque tenemos una sola vida y no queremos en ella sentir
 Para contactar con el autor: renefidel1973@gmail.com
 
 **Tomado de La Joven Cuba**
-
-[Otro texto del autor](/onirica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,5 +1,5 @@
 ---
-title: "Financiamiento la Trinchera Robando tiempo al tiempo"
+title: "Robando tiempo al tiempo"
 date: "2020-06-06T14:57:27+00:00"
 author: ""
 category: "Política en Cuba"
@@ -29,15 +29,3 @@ Aquellos cuya mente va más allá del fetiche institucional, comprenden con esta
 Solo me queda por decir que LT se sigue haciendo, robando tiempo al tiempo\*.
 
 \*r_obando tiempo al tiempo_ es expresión que se utilizó para cerrar la nota en Telegram que anunciaba el uso de Ko-fi. Pertenece a la canción _Propuesta_, del dúo Buena Fe.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

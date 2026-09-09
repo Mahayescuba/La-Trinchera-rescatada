@@ -3,7 +3,7 @@ title: "El del mastodonte"
 date: "2020-05-19T18:29:52+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/05/Cardboard-Head-Sculptures-1.gif"
+image: ""
 ---
 A la espera, busco información sobre Raúl, el del mastodonte.
 
@@ -24,17 +24,3 @@ Entre la ira y la rabia, también me siento de ese mastodonte amarillo.
 (2) Lázaro Benítez Díaz. Crítico e investigador de la danza.
 
 (3) Eilyn Lombard. Poeta y editora.
-
-[Otro texto del autor](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

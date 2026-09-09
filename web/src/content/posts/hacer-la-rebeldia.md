@@ -3,7 +3,7 @@ title: "Hacer la rebeldía"
 date: "2020-07-29T16:00:00+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/07/Osvaldo-Guayasamin-Lagrimas-de-sangre.jpg"
+image: ""
 ---
 Generación del Centenario.
 
@@ -29,10 +29,6 @@ El defecto físico que lo atormentó, la herida infrigida por la mujer amada, la
 
 Quedan las imágenes, es cierto, alguna que otra vez las imágenes nos devuelven los gestos, risas, el calor de sus voces, sus miradas. Como ésta en la que aparece José Luis.
 
-![](/wp-content/uploads/2020/07/jose_luis_tasende.jpg)
-
-![](/wp-content/uploads/2020/07/jose_luis_tasende.jpg)
-
 José Luis Tassende
 
 Es cierto. En ella el hombre está ya sumergido en el cataclismo de los hechos que aún no alcanzan a devorar su vida, a convertirla en fragmentos imposibles de volver a unir como el todo magnífico y al mismo tiempo común que ha sido hasta hace muy poco.
@@ -50,13 +46,3 @@ Nos falta la rebeldía, nos hace tanta falta hacer la rebeldía, que deberíamos
 [Tomado de La Joven Cuba](https://jovencuba.com/2020/07/29/hacer-rebeldia/)
 
 Generación del Centenario.
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)

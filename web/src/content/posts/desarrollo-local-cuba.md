@@ -1,9 +1,9 @@
 ---
-title: "Desarrollo local Cuba"
+title: "Desarrollo local"
 date: "2020-04-16T19:14:42+00:00"
 author: ""
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2020/04/IMG_20200405_012406.jpg"
+image: ""
 ---
 # Conversando con Yarbredy Vázquez
 
@@ -20,15 +20,3 @@ Todos juntos, suman un total de 2 482 068 que de una forma u otra expresan algú
 ¿Promover reformas constitucionales? Sí, en la nueva Constitución dice:
 
 ARTÍCULO 226. Esta Constitución solo puede ser reformada por la Asamblea Nacional del Poder Popular mediante acuerdo adoptado, en votación nominal, por una mayoría no inferior a las dos terceras partes del número total de sus integrantes.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Un socialismo más participativo"
 date: "2019-06-17T04:42:22+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/06/FB_IMG_15606411022199459.jpg"
+image: ""
 ---
 El socialismo participativo del siglo XXI, la planificación participativa, la educación popular, pasaron a ser cuestiones incorporadas a mi manera de pensar.
 
@@ -18,15 +18,3 @@ No quiere decir eso que era “la pureza” de la diplomacia que linda con la in
 Tenía mucha confianza en los jóvenes. Y en este mundo que reproduce criterios de autoridad, verticalidad, tecnocracia, populismos autoritarios, eso es extraño. Hace un año me pidió que fuera el presentador de su último libro, acá en La Habana. ¿Qué iba a decir yo? No sé si ella sabía si yo podía hacerlo bien o no, pero me dio la oportunidad.  
 Hoy no creo que sea consecuente dedicarse extensamente a hablar de ella, de su obra teórica y política como quien no trasciende los marcos de los formalismos de los rituales artísticos que devienen en homenajes. Marta era praxis, era lucha. No se trata del acto abstracto de que la subjetividad muestre imágenes de su figura, de sus ideas.  
 Se trata de continuar la lucha. Y no por algo intangible, sino por lo que nos enseñó: intentar conquistar un socialismo más participativo, menos enajenante.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

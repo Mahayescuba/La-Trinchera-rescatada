@@ -3,7 +3,7 @@ title: "Crisis"
 date: "2019-01-22T06:47:03+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/01/61d2febe67dbce2f4e5b84838c9f9240.jpg"
+image: ""
 ---
 Y es el tema de la “crisis”. Y es que de lo único que se ha estado hablando es de este mal.
 
@@ -35,15 +35,3 @@ La Unión Soviética ya no existe, su proyecto económico, político y social fu
 No podemos seguir mirando sus errores para construir nuestro modelo socialista. Y esta es una idea que habrá que incorporar en la mentalidad de los decisores.  
 Confiemos más en los jóvenes, a veces tienen ideas alocadas, pero bien direccionadas pueden significar un paso de desarrollo en nuestra sociedad. Hay que incentivarlos, atraerlos hacia la cubanía, sin discursos ni lemas.  
 Solo en querer hacer y hacer bien está el futuro de Cuba, una Cuba sin crisis.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

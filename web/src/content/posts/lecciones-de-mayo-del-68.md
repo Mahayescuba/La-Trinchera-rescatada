@@ -1,9 +1,9 @@
 ---
-title: "Mayo de 1968"
+title: "Lecciones de mayo del 68"
 date: "2018-05-18T13:30:54+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2018/05/contacto-rh010589-c.jpg"
+image: ""
 ---
 El ascenso revolucionario de mayo de 1968 constituye una enorme cantera de experiencias sociales.
 
@@ -268,15 +268,3 @@ El objetivo no es crear nuevas instituciones en el marco del régimen capitalist
 \[29\] Nos falta espacio para tratar las implicaciones y consecuencias de la explosión de mayo de 1968 en el plano internacional europeo y extraeuropeo. Señalemos, sin embargo, el modo unánime con que el capital internacional voló en ayuda de de Gaulle durante los días decisivos, pese a todas sus diferencias con los anglosajones; y, en contrapartida, el lamentable espectáculo de la total impotencia del movimiento sindical y obrero oficial para organizar ni una sola acción de solidaridad con la huelga general más amplia que Occidente haya conocido en varios decenios.
 
 [Sobre el mismo tema](/historia/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

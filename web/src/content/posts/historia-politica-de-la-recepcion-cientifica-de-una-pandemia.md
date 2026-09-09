@@ -1,5 +1,5 @@
 ---
-title: "Covid y política"
+title: "Historia política de la recepción científica de una Pandemia"
 date: "2021-04-14T16:00:00+00:00"
 author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
@@ -110,15 +110,3 @@ Mas esos intereses no responden a una bien planeada conspiración para manipular
 Es así como la administración Trump pasa de la postura apocalíptica inicial de ordenar el cierre de vuelos con Wuhan, antes que nadie, a calificar en febrero de “catarrito” a la enfermedad. O como ocurre exactamente lo contrario con China.
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/noticias/testimonios-de-coronavirus/
-
-Covid y política, Covid y política, Covid y política, Covid y política, Covid y política, Covid y política, Covid y política, Covid y política, Covid y política, Covid y política, Covid y política, Covid y política, Covid y política, Covid y política, Covid y política, Covid y política
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    [José Gabriel Barrenechea](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-gabriel-barrenechea/)
-    
-    Científico, escritor y activista

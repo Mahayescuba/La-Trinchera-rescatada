@@ -1,5 +1,5 @@
 ---
-title: "trabajo en cuba"
+title: "Empleo o trabajo digno: ¿qué término utilizar?"
 date: "2018-12-15T16:38:34+00:00"
 author: ""
 category: "Política en Cuba"
@@ -10,7 +10,7 @@ trabajo en Cuba.
 **Por: Alexandra Torres**
 
 No puedo dejar de iniciar expresando que lo que a continuación escribo ha sido formulado en otros espacios. Pero como un amigo siempre me recuerda el poder de las redes sociales me he aventurado a escribir -mi primera contribución- sobre este tema. Entiéndase que es una reflexión personal basada en el sentido común.  
-Por estos días el pueblo cubano se encuentra inmerso en un proceso de consulta popular de un [proyecto de constitución](/wp-content/uploads/Tabloide-Constituci%C3%B3n.pdf) -novedoso y necesario-. Mucho se ha debatido respecto a diversos artículos de dicho texto, haciéndose mayor énfasis en algunos temas que en otros. Pero en esta ocasión quiero hacer alusión a uno en particular, que se erige como fundamento político y económico de nuestro estado. (Artículos 1 y 31 del Proyecto).  
+Por estos días el pueblo cubano se encuentra inmerso en un proceso de consulta popular de un [proyecto de constitución](http://www.parlamentocubano.cu/wp-content/uploads/Tabloide-Constituci%C3%B3n.pdf) -novedoso y necesario-. Mucho se ha debatido respecto a diversos artículos de dicho texto, haciéndose mayor énfasis en algunos temas que en otros. Pero en esta ocasión quiero hacer alusión a uno en particular, que se erige como fundamento político y económico de nuestro estado. (Artículos 1 y 31 del Proyecto).  
 Me estoy refiriendo a uno de los artículos más importantes y trascendentes de la historia de la revolución cubana. Un artículo que otrora fuera el número 60 de la constitución de 1940, de la ley fundamental del ´59 y que en este minuto es el 45 constitucional. Ese que reconoce y apertura la gama de derechos fundamentales reconocidos en el constitucionalismo revolucionario cubano. Me estoy refiriendo al derecho al trabajo.  
 Empero, la anterior redacción de ese artículo 45 fue conservada en el proyecto, pero trasladada al artículo 31 que se incluye como uno de los fundamentos económicos de la nación. Y sin querer abordar con mayor profundidad tal cuestión, solo dejaré al imaginario del lector, la interrogante de si el trabajo en Cuba continúa siendo un deber y un motivo de honor. Sobre todo, cómo contrasta esto con la realidad social cubana actual y con el nuevo reconocimiento del derecho en cuestión.  
 Mas, como derecho -fundamental- incorpora el proyecto una redacción diferente y más coherente con la realidad jurídica y social actual. El ahora artículo 75 establece que las personas en condición de trabajar tienen el derecho a obtener un empleo digno, en correspondencia con su elección, calificación, aptitud y exigencias de la economía nacional.  
@@ -22,15 +22,3 @@ Y si me piden una propuesta concreta la elaboraría teniendo en cuenta los instr
 Esto no es un reproche al uso del término por parte de nuestros redactores, sino que me permito contribuir al perfeccionamiento del articulado de nuestro proyecto constitucional, cuando todavía corresponde.
 
 trabajo en Cuba. trabajo en Cuba. trabajo en Cuba. trabajo en Cuba.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

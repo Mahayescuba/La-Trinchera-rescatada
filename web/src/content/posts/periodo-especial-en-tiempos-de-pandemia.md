@@ -26,15 +26,3 @@ En los años 90, ante las carestías, las iglesias se llenaron. Surgieron organi
 Además del hecho de que el problema real no puede resolverlo una sola institución. Qué alegría si pudiésemos poner en práctica el concepto de Amistad Social del Papa Francisco, en el que se requiere una unión visceral de cada uno de los actores de la sociedad civil dejando atrás cualquier ideología excluyente. Como escribió Lichy: _(…) todo lo que el cubano toca de corazón lo convierte en Isla_. Ojalá los decisores puedan tocar de corazón esta disecada situación ambiental y dar algún golpe de trasformación económica en la mesa. Lo necesitamos, para no seguir poniendo a combatir perennemente nuestra Fe social vs. la Entropía Ambiental.  
 
 período especial en tiempos de pandemia período especial en tiempos de pandemia
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)

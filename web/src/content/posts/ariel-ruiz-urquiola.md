@@ -1,9 +1,9 @@
 ---
-title: "Ariel Ruiz Urquiola"
+title: "La mala conciencia"
 date: "2018-07-12T16:31:30+00:00"
 author: "Boris"
 category: "Opinión"
-image: "/wp-content/uploads/2018/07/bien-y-mal.jpg"
+image: ""
 ---
 **Un proceso penal arbitrario en Cuba -con casi una presunción de culpabilidad por parte de las autoridades competentes – es algo tan común que se asume con normalidad. Por eso es de extrañar que el caso de Ariel Ruíz Urquiola haya desatado una campaña mediática de tales proporciones.**
 
@@ -15,20 +15,6 @@ Todo parece indicar que en [Cuba](https://en.wikipedia.org/wiki/Cuba) el problem
 Pero **la peor muestra de mala conciencia se ha dado por parte de los ideólogos del Estado que, ni siquiera, han tomado posición al respecto**,  aunque pretendan arrancarse las vestiduras ante cualquier desviación o, incluso, arrancárselas a otros para mostrar su indignación. **Para ellos fue otro acto circense** que, por su carácter lúdico, no debe llegar a ningún lado; otra escena del juego político.  
 **Sinceramente, me alegro por Ruíz Urquiola y sus familiares. Pudiera tratar de sacar una enseñanza de esto pero temo que el cinismo me gane. Tan sólo puedo desear que si hay otras  vidas que se están perdiendo en prisión de manera tan irracional, hallen un camino de salida hacia la libertad y que sus familias tengan apoyo de alguien, porque ellos también importan.**
 
-[Otro texto del autor](/politica-en-cuba/)
-
 <iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
 
 <iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

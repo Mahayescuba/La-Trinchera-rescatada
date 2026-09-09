@@ -1,9 +1,9 @@
 ---
-title: "Defensa de Julio Antonio Fernández Estrada"
+title: "Sobre la historia de Julio Antonio Fernández Estrada, o la historia de nosotros mismos"
 date: "2020-12-06T17:00:11+00:00"
 author: "Julio César Guanche"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/12/Marc-Perez-.jpg"
+image: ""
 ---
 Hace unos años, en medio de una de tantas situaciones “problemáticas” con los cineastas cubanos, Fernando Pérez, presentó la [revista Cine Cubano](http://www.cubacine.cult.cu/es/node/9073). Allí Fernando dijo: “ya Alfredo (Guevara) ni Titón (Gutiérrez Alea) están con nosotros. Pero estamos nosotros.”
 
@@ -19,11 +19,7 @@ Digo esto no por ganas de hablarme frente al espejo, sino porque otra vez, como 
 
 Pero lo digo sobre todo porque todas esas relaciones se mantuvieron, o mantienen, habiendo yo atravesado ya la gran mayoría de todos los proyectos político intelectuales de los que he participado, creo que todos ellos junto a Julio Antonio Fernández Estrada.
 
-[![](/2020/12/con-julio-antonio-1.jpg?w=960)
-
-![](https://jcguanche.files.wordpress.com/2020/12/con-julio-antonio-1.jpg?w=960)
-
-](https://jcguanche.wordpress.com/con-julio-antonio-2/)
+[![](https://jcguanche.files.wordpress.com/2020/12/con-julio-antonio-1.jpg)](https://jcguanche.wordpress.com/con-julio-antonio-2/)
 
 Julio Antonio Fernández Estrada y Julio Cesar Guanche, alrededor de 2010. 
 
@@ -63,22 +59,4 @@ Julio Antonio, al momento de ser privado de su puesto de trabajo:
 
 Ahora, por igual acaba de escribir sobre los más recientes sucesos:
 
-> [Yo tampoco sé odiar](https://eltoque.com/yo-tampoco-se-odiar/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“Yo tampoco sé odiar” — elTOQUE" src="https://eltoque.com/yo-tampoco-se-odiar/embed/#?secret=KmYIgUrorz" data-secret="KmYIgUrorz" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
 Tomado de [La Cosa](https://jcguanche.wordpress.com/2020/12/06/sobre-la-historia-de-julio-antonio-fernandez-estrada-o-la-historia-de-nosotros-mismos/?fbclid=IwAR3HtLKk0P6fKy8sR3DTTAef2H9Z05zJRQaLEBS5JrX9Ubo1avGCczxMvqs)
-
-Defensa de Julio Antonio Fernández Estrada. Defensa de Julio Antonio Fernández Estrada. Defensa de Julio Antonio Fernández Estrada
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/1839bd8873f705471c440016bcc41911.jpeg)
-    
-    ![](/wp-content/uploads/2020/12/1839bd8873f705471c440016bcc41911.jpeg)
-    
-    [Julio César Guanche](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/julio-cesar-guanche/)
-    
-    Jurista e Historiador. Ha impartido clases, cursos, seminarios y conferencias en universidades de más de una decena de países. Dirigió varias publicaciones y editoriales nacionales en Cuba y trabajó por varios años en la Casa del Festival Internacional del Nuevo Cine Latinoamericano, del que fue asesor y director. Son de su autoría, entre otros libros, La verdad no se ensaya. Cuba: el socialismo y la democracia (Editorial Caminos, La Habana, 2012) y Estado, participación y representación políticas en Cuba (CLACSO, Buenos Aires, 2011).
-    
-    [](https://jcguanche.wordpress.com)

@@ -3,7 +3,7 @@ title: "Gramsci y la navidad"
 date: "2019-12-26T19:49:50+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2019/12/Jinichi-Kuramae.jpg"
+image: ""
 ---
 Gramsci Navidad.
 
@@ -12,9 +12,3 @@ Queridísima mamá, ésta será la quinta Navidad que paso privado de mi liberta
 Antonio Gramsci, diciembre de 1930, [cárcel de Turi](https://es.wikipedia.org/wiki/Turi).
 
 Gramsci Navidad.Gramsci Navidad.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/220px-Gramsci.png) [Antonio Gramsci](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/antonio-gramsci/)
-    
-    (1831-1937) Pensador y teórico italiano

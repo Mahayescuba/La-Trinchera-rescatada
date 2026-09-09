@@ -3,7 +3,7 @@ title: "El estructuralismo, el lenguaje y la torre Eiffel"
 date: "2018-12-04T12:15:17+00:00"
 author: ""
 category: "Teoría"
-image: "/wp-content/uploads/2018/12/Torre-Eiffel-Paris-740x431.jpg"
+image: ""
 ---
 Sobre el lenguaje de la ciencia.
 
@@ -76,15 +76,3 @@ Hegel, F. (1982). La ciencia de la Lógica. Ediciones Solar.
 (8) Según la idea hegeliana, el contenido atribuido al pensamiento, va a delimitar los marcos en los cuales se va a realizar este. De ahí, que atribuirle a priori un contenido a este, es asumir en un inicio sus límites, y por tanto, eliminar ciertas dimensiones del análisis.
 
 Sobre el lenguaje de la ciencia. Sobre el lenguaje de la ciencia. Sobre el lenguaje de la ciencia. Sobre el lenguaje de la ciencia. Sobre el lenguaje de la ciencia. Sobre el lenguaje de la ciencia.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

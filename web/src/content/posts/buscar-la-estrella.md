@@ -1,5 +1,5 @@
 ---
-title: "La nación cubana — Buscar la estrella La Trinchera La Trinchera"
+title: "Buscar la estrella"
 date: "2021-03-02T10:30:00+00:00"
 author: "Diego A. Marrero Leyva y Raymar A. Aguado Hernánde"
 category: "Política en Cuba"
@@ -20,23 +20,3 @@ Por muy en ruinas que se encuentren la ética y la moralidad, la economía y la 
 1.  José Martí, Carta a la madre, mayo 15 de 1894. Obras escogidas, Editorial Ciencias Sociales, 2007, pág. 365.
 2.  José Martí, Patria, 21 de mayo de 1892.
 3.  José Martí, Yugo y Estrella, Versos libres, José Martí poesía completa, Letras Cubanas 2008, pág. 84
-
-la nación cubana, la nación cubana, la nación cubana
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/diego.jpg)
-    
-    ![](/wp-content/uploads/2021/02/diego.jpg)
-    
-    [Diego A. Marrero Leyva](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/diego-a-marrero-leyva/)
-    
-    Estudiante de Economía
-    
--   ![](/wp-content/uploads/2021/02/ray.jpg)
-    
-    ![](/wp-content/uploads/2021/02/ray.jpg)
-    
-    [Raymar A. Aguado Hernández](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/raymar-a-aguado-hernandez/)
-    
-    Futuro psicólogo

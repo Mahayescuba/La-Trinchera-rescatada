@@ -1,9 +1,9 @@
 ---
-title: "Venezuela"
+title: "La destrucción también viene de adentro"
 date: "2019-03-03T06:47:00+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2019/03/PicsArt_03-03-01.50.28-1.jpg"
+image: ""
 ---
 Venezuela. 
 
@@ -28,17 +28,3 @@ Tal vez, hoy solo queda abogar por la no intervención de los Estados Unidos, y 
 **Bibliografía**  
 1\. Katz, Claudio. Venezuela define el futuro de toda la región. Rebelión. \[En línea\] 06 de 02 de 2019. \[Citado el: 06 de 02 de 2019.\] rebelion.org/noticia.php?id=252200&titular=venezuela-define-el-futuro-de-toda-la-regi%F3n-.  
 2\. Sutherland, Manuel. Estoy en contra de una invasión militar pero no puedo aplaudir a este gobierno. Sin Permiso. \[En línea\] \[Citado el: 06 de 02 de 2019.\] sinpermiso.info/textos/venezuela-estoy-en-contra-de-una-invasion-militar-pero-no-puedo-aplaudir-a-este-gobierno-entrevista.
-
-Relacionado: [Lo mejor para Venezuela](/politica/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -15,15 +15,3 @@ En una de las galerías de la Fábrica, hay una foto de Rottenberg donde salen u
 Otra de las fotos que me llamó la atención, hace alusión a una cochiquera donde el propio Rottenberg, sale desnudo dentro de un corral en una posición animalesca, tratando de imitar a una serie de puercos que lo rodean, buscando un poco de sancocho. No dudo que existan seres humanos que sean unos cerdos y se comparten como unos verdaderos animales, pero siendo honestos, no es la norma dentro de nuestra sociedad. Y vernos así, al menos a mí, me significa que como humanidad hemos perdido la esperanza. El propio artista advirtió que su rol protagónico dentro de la imagen, se debía en este caso en específico, a que no se atrevía a solicitarle a otra persona ese papel tan degradante – anti-humano- diría yo. Una pregunta interesante sería, qué gana un fotógrafo de su calibre, haciendo ver tan involucionadas nuestras vidas cubanas.  
 Para finalizar me gustaría reflexionar sobre la obra _Confesión_, por ella me aventure a escribir este texto sobre Rottenberg. La imagen juega con un sacramento íntimo de la Iglesia católica como es la _Confesión_ y de forma clara, trata de cambiar el rol del sacerdote dentro del imaginario colectivo del público receptor. Pues ahora, en la subjetividad del fotógrafo, es el cura quien debe confesarse por sus “pecados”, ante un sujeto, – el propio Rottenberg- vestido de pájaro, forma peyorativa con la que se ha nombrado históricamente a los homosexuales en Cuba. Yo no solo veo en la obra una frma peyorativa de ridiculizar a la Iglesia, sino que percibo un mensaje entre líneas de denuncia a una filosofía católica de interpretar la sociedad y me parece, como mínimo, algo exagerado.  
 El mismo Rottenberg ha dicho en un taller que impartió recientemente de fotografía en nuestra Isla, que lo nuclear de una foto es su idea, por eso en ocasiones, él mismo no es el que dispara la cámara, pero su mente fue la que diseñó el contenido. Sé que no somos pocos los católicos que asistimos a la ([FAC](http://www.fac.cu/)), en lo personal me parece un buen centro nocturno, de ahí que sea interesante aportar a sus dueños algunos elementos éticos que ayuden a potenciar los productos artísticos que allí se fabrican y desentrañar como seres racionales, ¿si el arte debe tener límites?
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

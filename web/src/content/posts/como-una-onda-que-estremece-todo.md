@@ -1,9 +1,9 @@
 ---
-title: "Filme Expansivas"
+title: "Como una onda que estremece todo"
 date: "2020-12-12T17:00:21+00:00"
 author: "Alberto Miguel de la Paz Suárez"
 category: "Festival de cine de La Habana"
-image: "/wp-content/uploads/2020/12/Expansivas.jpg"
+image: ""
 ---
 Que los rencores esterilizan vidas es una certeza. Como también lo es la idea que ronda a Flavia desde hace años. Sabe que hay algo oscuro, un lado no bien contado en la muerte de su madre. 
 
@@ -17,24 +17,8 @@ _Expansivas_ está construida sobre la base de un guion lleno de ritmo, muy efi
 
 Por el otro lado está el trabajo de sus tres protagonistas Sara Hebe (Flavia), cantante y compositora de hip hop, y Martina Juncadella (Ana), escoltadas por la siempre eficiente Assumpta Serna (la chica Almodóvar que rueda otra vez en Argentina —_Yo la peor de todas_, María Luisa Bemberg, 1992). Todas en carácter de antiheroínas.
 
-![](/wp-content/uploads/2020/12/Expansivas-2.jpg)
-
-![](/wp-content/uploads/2020/12/Expansivas-2.jpg)
-
 Otra vez (y que bien que se reitera) el tema de la lucha contra la Violencia sobre la Mujer, la trata para el mercado sexual…, aludiendo incluso a la sororidad y donde la mujer lleva la voz cantante sin que como es habitual sea un adorno sensual al héroe masculino. Por cierto, la imagen de los hombres está bastante deteriorada, por lo que el filme se me antoja casi _hembrista._ Y no feminista. Y es que la película cae en una trampa de género. Las mujeres que representa (incluso tal vez lo que comúnmente ocurre) han asumido una postura masculinizada ante la vida y la emplean como medio para solucionará sus conflictos. 
 
 Para nada estoy cuestionando orientaciones sexuales de los personajes, pero sí sus representaciones. Flavia encarna una violencia _necesaria para hacerse respetar_, violencia de la que hay que proteger a Ana, para que su imagen candorosa no se pierda.
 
 ¿Cómo resultará la vida a partir de estar ante las cosas que duelen de su pasado?
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-09-17.16.10.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-09-17.16.10.jpg)
-    
-    [Alberto Miguel de la Paz Suárez](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/alberto-miguel-de-la-paz-suarez/)
-    
-    Graduado de Dirección en Radio, Cine Y Televisión en FAMCA, ISA. MSc. Realización Audiovisual. Realizador, guionista y profesor Universitario.
-    
-    [](mailto:albertops70@gmail.com)

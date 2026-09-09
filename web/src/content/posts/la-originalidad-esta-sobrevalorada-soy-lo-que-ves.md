@@ -1,9 +1,9 @@
 ---
-title: "Entrevista a Miguel Alejandro Hayes"
+title: "La originalidad está sobrevalorada: Soy lo que ves"
 date: "2020-11-21T20:57:56+00:00"
 author: "Roberto Chile"
 category: "Entrevista"
-image: "/wp-content/uploads/2020/11/img_1414.jpg"
+image: ""
 ---
 #### Entrevista realizada por Roberto Chile a Miguel Alejandro Hayes
 
@@ -22,10 +22,6 @@ Por otro lado, imagínate, mi segundo libro fue El Principito, creo que con 7 a�
 Me queda el no tener prejuicio contra las manifestaciones directas de afecto a los familiares. Vi la adolescencia de mis amigos llena de asperezas, de cierto complejo de expresar cariño a la familia en público, como si fuera una manera juvenil de expresar autoridad. Hasta el sol de hoy, el beso a mis padres es en todo momento, y el abrazo apretado es una de las cosas que llevo con orgullo de ese niño. Eso es y será, siempre, un regalo de mi madre.
 
 Por otro lado, está… bueno, lleva una anécdota. Yo tuve mi propio Varela en casa, que me enseñó primero a pensar. Recuerdo que estuve muy triste, si mal no recuerdo, lloré sin parar cuando mi padre, en vez de explicarme una tarea, me dio un libro y me dijo _lee_. No lo entendí, no podía entenderlo. Me sentí solo, aun más cuando vi que mi madre siguió esa actitud. No sería como soy si no hubiese sido por ese día. De aquel niño no me separo, a casi cualquier precio.
-
-![](/wp-content/uploads/2020/11/img_1416.jpg)
-
-![](/wp-content/uploads/2020/11/img_1416.jpg)
 
 Entonces, Chile, yo te digo estas dos cosas porque giran alrededor de los aspectos que para mí son esenciales en la vida y me marcaron desde niño: la familia y el pensamiento, es decir, el amor y la razón. Y estoy casi seguro de que sigo siendo el mismo niño, como diría Marx de los griegos en otro contexto, niño grande.
 
@@ -108,11 +104,3 @@ La Cuba a la que es aspiro no lleva muchos elementos, pero puedo resumirla de ma
 **Después de este intercambio, que podría ser más extenso aún, te hago una última pregunta que pudiera haber sido la primera: ¿Quién es Miguel Alejandro Hayes?**
 
 Chile, una amiga me hace un chiste cada vez que digo esta frase, pero siempre respondo lo mismo. La originalidad está sobrevalorada: _soy lo que ves_.
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/chile.jpg)
-    
-    ![](/wp-content/uploads/2021/02/chile.jpg)
-    
-    [Roberto Chile](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/roberto-chile/)

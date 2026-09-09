@@ -1,9 +1,9 @@
 ---
-title: "Carta sobre ayuda humanitaria"
+title: "Los 70 contra Tebas"
 date: "2020-10-03T09:30:00+00:00"
 author: "Julio Pernús"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/10/Leslie-Avon-Miller.jpg"
+image: ""
 ---
 > **Dedicado a mis amigos de la Pastoral Juvenil**
 
@@ -24,15 +24,3 @@ Alguna vez todos nos hemos puesto un traje de cobarde para andar por la vida. S�
 Esto puede parecer una locura a los jóvenes católicos firmantes, pero su acierto más notable, en mi opinión, ha sido atreverse a cruzar con fe, en plena luz roja, todos sus miedos. Ustedes son una nueva generación eclesial. Les agradezco por ser artesanos de alas reciclables que, pese a no poder volar hoy, al menos, en medio de tanto miedo a despegar, intentan hacerlo. 
 
 carta sobre ayuda humanitaria, carta sobre ayuda humanitaria, carta sobre ayuda humanitaria
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
-    
-    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
-    
-    Comunicador de la iglesia católica.
-    
-    [](../tag/autor-julio-pernus/index.html)

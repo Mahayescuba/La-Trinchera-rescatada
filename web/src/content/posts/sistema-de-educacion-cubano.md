@@ -1,9 +1,9 @@
 ---
-title: "sistema de educación cubano Por Miguel Alejandro Hayes"
+title: "La medición efectiva"
 date: "2019-12-24T04:50:37+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/12/IMG_20191223_234156_437.jpg"
+image: ""
 ---
 > _“Habiendo abandonado la realidad en favor de la idea, la idea en favor de la ideología, el hombre ha resbalado hacia un universo desviado, hacia un mundo de subproductos donde la ficción adquiere las virtudes de un dato primordial.”_
 > 
@@ -18,15 +18,3 @@ Lo más importante del sistema social cubano, no es la estructura reflejada en u
 La verdadera victoria de los sistemas de educación y salud cubanos no está solo en que formen y salven a muchos, sino en que los mejores, los regulares, y hasta los peores, deseen aprender, salvarse y trabajar en ellos. Para eso, más que cifras, se necesita una credibilidad mediada por la experiencia personal. La meta final, no puede ser el número, sino la subjetivación de esa realidad.
 
 [También puede interesar](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

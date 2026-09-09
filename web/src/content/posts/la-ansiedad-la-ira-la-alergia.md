@@ -3,7 +3,7 @@ title: "La ansiedad, la ira, la alergia…"
 date: "2020-03-27T19:30:36+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/03/DSC_0305-scaled.jpg"
+image: ""
 ---
 El autor reflexiona sobre el miedo al coronavirus que recorre hoy el mundo y habla sobre verdades ocultas, teorías y otras pandemias.
 
@@ -19,15 +19,3 @@ Hoy no me sale un texto de aliento. El maldito virus, las teorías de la conspir
 27 de marzo de 2020. 02 y 10 am.
 
 El autor reflexiona sobre el miedo al coronavirus que recorre hoy el mundo y habla sobre verdades ocultas, teorías y otras pandemias.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

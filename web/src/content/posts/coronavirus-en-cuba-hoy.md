@@ -1,9 +1,9 @@
 ---
-title: "Coronavirus en cuba hoy"
+title: "Hablar del coronavirus"
 date: "2020-03-20T20:09:53+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Cultura"
-image: "/wp-content/uploads/2020/03/titel-corvir260220-1.jpg"
+image: ""
 ---
 No me quedó más opción que hablar del dichoso virus. Así que decidí hacer este Episodio Especial de _[El Solar](/el-solar/)_.  
 Creía que El Solar tenía que unirse de manera responsable, a los esfuerzos de otros medios de comunicación para, partiendo desde la ciencia, aportar elementos que ayudaran a preparar a los cubanos para enfrentar la pandemia del COVID-19. Siempre he creído que las personas informadas y educadas en temas sanitarios tienen mayores posibilidades de preservar su salud.  
@@ -13,15 +13,3 @@ Finalmente decidí acudir a mi amigo Pírez (_el dóctor_), que ese sí sabe. Y 
 
 No me quedó más opción que hablar del dichoso virus. Así que decidí hacer este Episodio Especial de _[El Solar](/el-solar/)_.  
 Creía que El Solar tenía que unirse de manera responsable, a los esfuerzos de otros medios de comunicación para, partiendo desde la ciencia, aportar elementos que ayudaran a preparar a los cubanos para enfrentar la pandemia del COVID-19. Siempre he creído que las personas informadas y educadas
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Investigador independiente
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

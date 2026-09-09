@@ -1,5 +1,5 @@
 ---
-title: "Marcha del 15N El día después"
+title: "El día después"
 date: "2021-11-16T23:00:29+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
@@ -26,13 +26,3 @@ El [mitin de repudio](https://www.zocalo.com.mx/video-arremeten-contra-activista
 Siento pena por mis colegas de la prensa. Que Arleen Rodríguez Derivet, Premio Nacional de Periodismo José Martí, se desgaste en la Mesa Redonda defendiendo esos actos detestables (perdone, Apóstol); que Humberto López, “Premio de la Dignidad” de la Upec, sea interpelado por la policía en plena Esquina de Toyo por hacer lo suyo desde un celular, o declare en La Coronela que los repudiables repartidores de repudio “la están pasando bien”; y que Randy Alonso Falcón acuda al recurso de llamar “marchante en jefe” a Yunior, sin calibrar que de quien se está burlando es de Fidel, dice mucho de los límites que se han traspasado y hasta dónde podremos llegar todavía.
 
 La del 15 de noviembre fue la “[paz](https://elpais.com/internacional/2021-11-15/la-marcha-por-el-cambio-en-cuba-en-directo-las-protestas-del-15-n-en-vivo.html)” que Díaz Canel define para la patria. Ojalá ayer la ceiba del Templete le haya respondido, mientras le daba tres vueltas, que en esos trescientos sesenta grados hay espacio para todos los ángulos de la sociedad diversa, inclusiva y plural que merecemos todos los cubanos.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

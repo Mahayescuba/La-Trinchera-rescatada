@@ -1,5 +1,5 @@
 ---
-title: "Creación artística en Cuba"
+title: "Contra la sombra de las palabras y los hechos"
 date: "2021-02-08T10:30:00+00:00"
 author: "Diego A. Marrero Leyva y Raymar A. Aguado Hernánde"
 category: "Política en Cuba"
@@ -36,23 +36,3 @@ Es preciso y oportuno hacer hincapié en la necesidad del aflore de la concepci�
 1- Jorge Mañach, Crisis de la alta cultura en Cuba, IMP. y Papelería La Universal, La Habana, 1925
 
 2- Guy Pérez Cisneros, Presencia de 8 pintores, Verbum, #1, junio de 1937, PP. 66-67.
-
-creación artística en Cuba, creación artística en Cuba, creación artística en Cuba, creación artística en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/diego.jpg)
-    
-    ![](/wp-content/uploads/2021/02/diego.jpg)
-    
-    [Diego A. Marrero Leyva](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/diego-a-marrero-leyva/)
-    
-    Estudiante de Economía
-    
--   ![](/wp-content/uploads/2021/02/ray.jpg)
-    
-    ![](/wp-content/uploads/2021/02/ray.jpg)
-    
-    [Raymar A. Aguado Hernández](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/raymar-a-aguado-hernandez/)
-    
-    Futuro psicólogo

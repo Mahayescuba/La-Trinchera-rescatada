@@ -26,15 +26,3 @@ Los que no se cansan, molestan a quienes sí se agotan. O no les importa, o les 
 Para darle las gracias, Jimenito. Por lo que hizo por nosotros. Por Cuba.  
 La Habana, aún 12 de mayo de 2020.  
 Porque me enteré tarde.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

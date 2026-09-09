@@ -1,9 +1,9 @@
 ---
-title: "Iglesia y covid en Cuba"
+title: "La Iglesia que no podemos ser"
 date: "2020-03-23T23:43:30+00:00"
 author: "Primera Vez en su Historia, la Iglesia Católica en"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/03/alas6029325728751750113-1.jpg"
+image: ""
 ---
 > \*\*\*
 
@@ -15,15 +15,3 @@ La Iglesia que no podemos ser es aquella a-histórica, incapaz de reconocer el v
 Cuando este artículo salga, nuestros obispos estarán reunidos y sería bueno podernos unir en oración de apoyo a su encuentro, pues la Iglesia que no podemos ser es aquella indiferente ante el amor cercano de sus pastores, encarnados en gestos concretos de cercanía, como ese cardenal que ama tanto a sus hijos rotos de [_La Edad de Oro_](https://es.wikipedia.org/wiki/Edad_de_oro).
 
 [Otros textos del autor](/una-luz-en-la-oscuridad/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

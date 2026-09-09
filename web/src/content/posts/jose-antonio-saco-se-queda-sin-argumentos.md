@@ -1,5 +1,5 @@
 ---
-title: "Corriente anexionista en Cuba"
+title: "José Antonio Saco se queda sin argumentos"
 date: "2021-01-23T10:30:00+00:00"
 author: "José Gabriel Barrenechea"
 category: "Política en Cuba"
@@ -46,15 +46,3 @@ El nuevo anexionismo será un movimiento comprometido con los principios y valor
 De darse, el neo-anexionismo cubano tendrá un papel protagónico de primer orden en este siglo XXI. En el que los cubanos señalaremos el camino, ayudaremos a afinar los modos, acostumbraremos a las conciencias, en el proceso hacia la constitución de un proyecto político unificado de las Américas, África Subsahariana, Europa y Oceanía. 
 
 Para los cubanos será quizás la única vía factible hacia vivir en una sociedad socialista democrática y desarrollada. Que como ya lo advertía Blas Roca en los años cuarenta del pasado siglo, en Cuba nunca podrá establecerse el socialismo a menos que antes lo haya hecho en los Estados Unidos. El que el “socialismo” de este estatista tuviera poco que ver con el verdadero Socialismo no le quita sentido a la idea, no obstante.
-
-corriente anexionista en Cuba, corriente anexionista en Cuba, corriente anexionista en Cuba, corriente anexionista en Cuba, corriente anexionista en Cuba, corriente anexionista en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    ![](/wp-content/uploads/2021/02/barrenechea.jpg)
-    
-    [José Gabriel Barrenechea](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-gabriel-barrenechea/)
-    
-    Científico, escritor y activista

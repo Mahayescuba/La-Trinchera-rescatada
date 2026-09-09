@@ -1,9 +1,9 @@
 ---
-title: "Muerte de Eusebio Leal"
+title: "El camino de la lealtad"
 date: "2020-07-31T16:00:00+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/07/Eusebio-Leal-Spengler.jpg"
+image: ""
 ---
 Muerte de Eusebio Leal. 
 
@@ -19,14 +19,4 @@ Mientras, sirva esta imagen para honrarlo: En su pecho la medalla, en sus manos 
 
 Publicado en el libro Nuestro amigo Leal 
 
-Muerte de Eusebio Leal Muerte de Eusebio Leal 
-
-## Autor
-
--   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
-    
-    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
-    
-    [](mailto:lis.dds1@gmail.com)
+Muerte de Eusebio Leal Muerte de Eusebio Leal

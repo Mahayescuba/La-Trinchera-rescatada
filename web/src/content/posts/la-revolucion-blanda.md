@@ -1,5 +1,5 @@
 ---
-title: "Golpe blando en Cuba"
+title: "La revolución blanda"
 date: "2021-01-14T17:00:00+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
@@ -26,15 +26,3 @@ Humberto López busca homologar las discrepancias, hacer ver que la crítica es 
 Mi periodismo es independiente desde que los medios oficiales no dan cabida a textos cuestionadores de la sociedad, ni siquiera aquellos escritos desde el humor. Los he enviado al Granma, ese periódico que solo publica colaboraciones de quienes aplauden y acatan todo lo que venga de arriba. El silencio me ha sido dado por respuesta. He dicho que si mis artículos —y los de otros colegas que únicamente tienen cabida en medios alternativos como las redes sociales y las revistas independientes— coquetean con quienes buscan “revertir el proceso revolucionario”, qué mejor que desacreditarnos con la publicación de nuestros trabajos junto a los de “especialistas” que los rebatan.
 
 Abogo no por la Revolución que humilla Humberto López en cada una de sus comparecencias, sino por la que me inculcaron mis padres: la de la honestidad, la del decoro, la de la ética, la de defender verdades por incómodas que sean, la de aprender a escuchar y estar dispuesto a discutir con quienes no las compartan. Y regreso siempre a Silvio: “Mi compromiso es sencillo, solo hay dos formas de estar: o bien cogiendo el martillo, o bien dejándose dar”.
-
-golpe blando en Cuba, golpe blando en Cuba, golpe blando en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

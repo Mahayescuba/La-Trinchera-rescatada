@@ -3,7 +3,7 @@ title: "Descargo de responsabilidad"
 date: "2019-02-12T07:54:35+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/02/PicsArt_02-19-02.52.32.jpg"
+image: ""
 ---
 Las opiniones expresadas en este portal y en cualquiera de las publicaciones accesorias realizadas a través del mismo, son responsabilidad exclusiva de los autores y no representan la opinión personal de los editores del blog. En el mismo se publicarán materiales de diferentes corrientes de pensamiento, en aras de contribuir al debate y en función de la libertad de pensamiento, conciencia y expresión.
 
@@ -15,16 +15,4 @@ https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politic
 
 [Quénes somos](/la-trinchera/)
 
-responsabilidad. responsabilidad. responsabilidad. responsabilidad. 
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
+responsabilidad. responsabilidad. responsabilidad. responsabilidad.

@@ -1,9 +1,9 @@
 ---
-title: "Linchamiento mediático en Cuba"
+title: "Los tiempos duros no son para poses"
 date: "2021-01-16T17:00:00+00:00"
 author: ": Hiram H. Castro"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2021/01/Brotron-Greg-Brotherton.jpg"
+image: ""
 ---
 Mucho se menciona al tal [Humberto](https://www.youtube.com/watch?v=t-vWnH0tR4k). Es la cara, por televisiva, más visible del linchamiento mediático contra periodistas e intelectuales vinculados a proyectos editoriales en la red. En lo personal, me indigna la disposición a englobarlo todo y a todos con las mismas etiquetas. No distinguir es no pensar, pero en este caso obedece menos a una incapacidad intelectual que a un acto deliberado de manipulación de la opinión pública.
 
@@ -22,15 +22,3 @@ Los que publicitan ideas conspirativas son un sector entre tantos y, en mi opini
 Cuba, sus ciudadanos, sus intelectuales no son una caricatura. Los tiempos duros no son para poses. Cuba es compleja y solo el que así la piense y dibuje será creíble.
 
 . . .
-
-linchamiento mediático en Cuba, linchamiento mediático en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2021/02/hiram.jpg)
-    
-    ![](/wp-content/uploads/2021/02/hiram.jpg)
-    
-    [Hiram H. Castro](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hiram-h-castro/)
-    
-    Profesor e investigador cubano

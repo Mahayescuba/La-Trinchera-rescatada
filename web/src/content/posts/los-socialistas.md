@@ -1,9 +1,9 @@
 ---
-title: "los socialistas Palabras"
+title: "Palabras"
 date: "2018-04-12T20:45:02+00:00"
 author: "Boris"
 category: "Marxismo"
-image: "/wp-content/uploads/2018/04/las-palabras.jpg"
+image: ""
 ---
 Asumamos, por un segundo, que la [Revolución Socialista de Octubre](https://es.wikipedia.org/wiki/Revolución_de_Octubre) no sucedió. Quizás Rusia y China hubieran sucumbido a las pretensiones de las potencias Occidentales y la configuración del mundo, tal y como lo conocemos, sería completamente distinta. La realidad geopolítica que hubiese sido entonces se nos abre como un enigma. Pero, al menos, la ideológica se nos puede poner en evidencia. Palabras cuyo significado se nos da por sentado hoy tendrían un cariz completamente distinto. El ejemplo más rampante es “Socialismo”. Pocas han sufrido tanto abuso por la acumulación de historicidades como esta.
 
@@ -14,17 +14,3 @@ Desde el momento en que la Planificación dejó de ser una cuestión social y pa
 Lo que pone de manifiesto las naturalezas intrínsecas seudo-socialistas han sido las virulentas carreras armamentísticas de la URSS, China y Corea del Norte. Para llegar a eso tuvieron que movilizarse a millones de personas por encima de las limitaciones que implicaba la Economía Planificada. Es la misma voracidad Capitalista volcada en autofagia. Pero, para no dejarlos sin méritos, pudiéramos decir, como se muestra en gran parte de los testimonios gráficos de la época, que la Sociedad Soviética era bastante parecida a su decadente rival histórico de la Casa Blanca. Eso quizás pueda explicar por qué, y a pesar de las décadas de discurso e ideologización, la apertura al mercado ha sido inapelable. El principal deseo de un náufrago es volver a  la Civilización.
 
 Para aquellos que desean ver en Marx su verdadero valor deberían, al menos, recordar que su principal descubrimiento no fue el estómago vacío sino la desconexión de los hombres con su propia naturaleza. Fuera de eso, es un aburrido náufrago en un mar de pensadores; palabras llenas de ruido y furia pero carentes de significado.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

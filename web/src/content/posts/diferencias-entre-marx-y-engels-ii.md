@@ -1,9 +1,9 @@
 ---
-title: "diferencias entre Marx y Engels II La Trinchera Miguel Alejandro Hayes"
+title: "Diferencias entre Marx y Engels (II)"
 date: "2018-03-06T16:17:59+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Teoría"
-image: "/wp-content/uploads/2018/03/eb9c00995677f25d7f719a850a950030.jpg"
+image: ""
 ---
 Se le da continuidad, a la idea de demostrar a partir de fragmentos breves, esa ‘’unidad’’ que existía entre los padres fundadores del marxismo.
 
@@ -25,15 +25,3 @@ No sé si el lector asuma eso como una mera interpretación, por lo que expongo 
 2.  **Marx, Carlos.** _El Capital._ Mexico : Siglo XXI, 2002.
 
 [Primera Parte](/teoria/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,9 +1,9 @@
 ---
-title: "Tarifas para el consumo eléctrico en Cuba"
+title: "Subsidio en masa"
 date: "2020-12-14T17:00:54+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/12/Keramika.jpg"
+image: ""
 ---
 Así titulé en el año 2006 un artículo que escribí para denunciar “que los equipos electrodomésticos que forman parte de la [Revolución Energética](https://www.ecured.cu/Revolución_Energética_en_Cuba) nos son ‘distribuidos’ o ‘entregados’, cuando no ‘regalados’, como si la población no los pagara con dinero contante y sonante. Uno tiene que oír que ese refrigerador Haier que adorna con su modernidad nuestra cocina se cobra a precio de costo. Una sencilla cuenta descubre que vale más de veinte veces el salario medio. Si pretendiéramos pagarlo de una vez y por todas, renunciando al endeudamiento a plazos por más de un lustro, tendríamos que dejar a un lado el comer, vestirnos y todas esas ‘pequeñas cosas’ que forman parte de las urgencias cotidianas”.
 
@@ -22,15 +22,3 @@ A la par que el jefe de implementación de los lineamientos declaraba: “No pod
 No debe escapar a cualquier análisis la estocada sutil que con las nuevas tarifas reciben los negocios privados. Se les hace la advertencia de que no deben introducir precios abusivos y especulativos a sus productos (nosotros sí), mientras se recarga la factura en los rangos de consumo de electricidad que necesariamente poseen.
 
 Lo que acaba de verse en este “recibo de la luz” televisivo es un abrazo paternalista a la cuarta parte de los cubanos, esa que consume menos de cien kilowatts, y un regaño acusador a quienes han logrado —no se aclaró en la TV si gracias a la Revolución o a la dependencia económica en MLC con el enemigo— un nivel de vida más alto. ¿Gana entonces la pobreza el forcejeo con la riqueza? ¿Son esos los presupuestos con que llegaremos al país próspero y sostenible del 2030? ¿Subsidio del consumo eléctrico supondrá subsidio en masa?
-
-tarifas para el consumo eléctrico en Cuba, tarifas para el consumo eléctrico en Cuba
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

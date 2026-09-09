@@ -3,7 +3,7 @@ title: "La atención de los jóvenes es el premio mayor"
 date: "2019-04-07T01:38:10+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2019/04/PicsArt_04-05-05.54.40.jpg"
+image: ""
 ---
 Entrevista a Silvio Rodríguez.
 
@@ -61,15 +61,3 @@ No estoy muy al tanto de lo que hacen ahora mismo, porque estoy concentrado en a
 _Muchas Gracias._
 
 Gracias a Ud_._
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

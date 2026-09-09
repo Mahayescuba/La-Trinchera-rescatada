@@ -1,9 +1,9 @@
 ---
-title: "reformas en Cuba China y Vietnam La Trinchera Pedro Monreal"
+title: "Las reformas del socialismo con características chinas, vietnamitas y cubanas en diez gráficos"
 date: "2018-04-27T13:44:41+00:00"
 author: "Pedro Monreal"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2018/04/revoluciones-socialistas-en-china-cuba-y-vietnam-1-638.jpg"
+image: ""
 ---
 El debate en Cuba sobre las reformas económicas en China y Vietnam debería enfocarse en el análisis basado en la evidencia disponible. El punto de partida pudieran ser los indicadores que, desde diferentes dimensiones, informasen acerca de resultados concretos, con independencia de los anhelos, de los discursos y de la fértil imaginación de muchos comentaristas.
 
@@ -25,7 +25,7 @@ De hecho, no fue hasta fecha muy reciente -el año 2013- cuando el Producto Inte
 
 Gráfico 1. Producto Interno Bruto (PIB) per cápita de China, Cuba y Vietnam (a precios corrientes)
 
-![Comparacion de GDP percapita China VN Cuba.png](/2018/04/comparacion-de-gdp-percapita-china-vn-cuba-png.jpg?w=885&h=414&resize=885%2C414)
+![Comparacion de GDP percapita China VN Cuba.png](https://elestadocomotal.files.wordpress.com/2018/04/comparacion-de-gdp-percapita-china-vn-cuba-png.jpg)
 
 Fuente: Indexmundi [https://www.indexmundi.com](https://www.indexmundi.com) (Base de datos online que contiene estadísticas detalladas que han sido compiladas de diversas fuentes. Incluye un generador de gráficos que refleja datos comparados de países).
 
@@ -33,7 +33,7 @@ La situación comenzó a cambiar significativamente desde mediados de la década
 
 Gráfico 2. Tasa de crecimiento anual del Producto Interno Bruto (PIB) de China, Cuba y Vietnam
 
-![Comparacion de GDP GROWTH China VN Cuba](/2018/04/comparacion-de-gdp-growth-china-vn-cuba.jpg?w=960)
+![Comparacion de GDP GROWTH China VN Cuba](https://elestadocomotal.files.wordpress.com/2018/04/comparacion-de-gdp-growth-china-vn-cuba.jpg)
 
 Fuente: Indexmundi [https://www.indexmundi.com](https://www.indexmundi.com)
 
@@ -45,13 +45,13 @@ La llamada tasa de ahorro nacional -medida como por ciento del ahorro en el PIB-
 
 Gráfico 3. Ahorro interno bruto como por ciento del PIB en China, Cuba y Vietnam
 
-![Comparacion de Savings como porciento GDP](/2018/04/comparacion-de-savings-como-porciento-gdp.jpg?w=960)
+![Comparacion de Savings como porciento GDP](https://elestadocomotal.files.wordpress.com/2018/04/comparacion-de-savings-como-porciento-gdp.jpg)
 
 Fuente: Indexmundi [https://www.indexmundi.com](https://www.indexmundi.com)
 
 Gráfico 4. Formación de capital bruto fijo como por ciento del PIB de China, Cuba y Vietnam
 
-![Grafico 8 Inversion](/2018/04/grafico-8-inversion.jpg?w=960)
+![Grafico 8 Inversion](https://elestadocomotal.files.wordpress.com/2018/04/grafico-8-inversion.jpg)
 
 Fuente: Indexmundi [https://www.indexmundi.com](https://www.indexmundi.com)
 
@@ -77,7 +77,7 @@ Esos tres aspectos son:
 
 Gráfico 5. Tasa de mortalidad infantil por cada 1000 nacidos vivos en China, Cuba y Vietnam
 
-![Comparacion mortalidad infantil China VN Cuba](/2018/04/comparacion-mortalidad-infantil-china-vn-cuba.jpg?w=960)
+![Comparacion mortalidad infantil China VN Cuba](https://elestadocomotal.files.wordpress.com/2018/04/comparacion-mortalidad-infantil-china-vn-cuba.jpg)
 
 Fuente: Indexmundi [https://www.indexmundi.com](https://www.indexmundi.com)
 
@@ -85,7 +85,7 @@ A diferencia de Cuba, que para sostener su reforma actual cuenta con uno de los 
 
 Gráfico 6. Tasa de alfabetización de China, Cuba y Vietnam (por ciento de alfabetizados en la población mayor de 15 años)
 
-![Comparacion Literacy China VN Cuba](/2018/04/comparacion-literacy-china-vn-cuba.jpg?w=960)
+![Comparacion Literacy China VN Cuba](https://elestadocomotal.files.wordpress.com/2018/04/comparacion-literacy-china-vn-cuba.jpg)
 
 Fuente: Indexmundi [https://www.indexmundi.com](https://www.indexmundi.com)
 
@@ -94,8 +94,6 @@ Fuente: Indexmundi [https://www.indexmundi.com](https://www.indexmundi.com)
 La reducción de las brechas en educación y salud pudiera estar asociada con otro resultado social impresionante de las experiencias de reforma en China y Vietnam: la notable reducción experimentada en los niveles de pobreza de esos dos países.
 
 Gráfico 7. Por ciento de la población viviendo por debajo de 1,90 USD diarios  (calculado a partir de la paridad de poder compra con base en 2011)
-
-![Comparacion Poverty Gap China VN](/wp-content/uploads/2019/01/PicsArt_01-16-12.45.58.jpg)
 
 Fuente: Indexmundi [https://www.indexmundi.com](https://www.indexmundi.com)
 
@@ -131,7 +129,7 @@ En China, el índice de Gini creció significativamente desde un valor de 0,3 -a
 
 Gráfico 8. Índice de Gini en China 1981-2014
 
-![Grafico 8 Gini China desde 1981](/2018/04/grafico-8-gini-china-desde-1981.jpg?w=960)
+![Grafico 8 Gini China desde 1981](https://elestadocomotal.files.wordpress.com/2018/04/grafico-8-gini-china-desde-1981.jpg)
 
 Fuente: Li Shi. “Recent changes in income inequality in China”. _World Social Science Report_. UNESCO-CICS. [http://unesdoc.unesco.org/images/0024/002459/245943e.pdf](http://unesdoc.unesco.org/images/0024/002459/245943e.pdf)
 
@@ -139,15 +137,13 @@ No obstante, desde el 2008 se ha registrado una tendencia hacia la reducción de
 
 Gráfico 9. Índice de Gini en China 2006-2016
 
-![Grafico 9 Gini China desde 2006](/wp-content/uploads/2019/01/PicsArt_01-16-11.20.55.jpg)
-
 Fuente: Statista (Base de datos online) [https://www.statista.com/statistics/250400/inequality-of-income-distribution-in-china-based-on-the-gini-index/](https://www.statista.com/statistics/250400/inequality-of-income-distribution-in-china-based-on-the-gini-index/)
 
 En el caso de Vietnam, el proceso de reforma también ha estado acompañado por una creciente desigualdad en la distribución del ingreso, aunque el nivel de la desigualdad -medido por el índice de Gini- ha siso considerablemente menor que el observado en China.
 
 Gráfico 10. Índice de Gini en Vietnam 1992-2014
 
-![Grafico 10 Gini Vietnam desde 1992](/2018/04/grafico-10-gini-vietnam-desde-1992.jpg?w=960)
+![Grafico 10 Gini Vietnam desde 1992](https://elestadocomotal.files.wordpress.com/2018/04/grafico-10-gini-vietnam-desde-1992.jpg)
 
 Fuente: Knoema (Base de datos online) [http://pt.knoema.com/atlas/Vietnam/%C3%ADndice-de-GINI](http://pt.knoema.com/atlas/Vietnam/%C3%ADndice-de-GINI)
 
@@ -200,15 +196,3 @@ Si deseamos contribuir -desde el pensamiento- a una reforma que haga prosperar l
 Tomado: [El Estado como tal](https://elestadocomotal.com/2018/04/23/seis-graficos-sobre-el-socialismo-con-caracteristicas-china-vietnamita-y-cubana/)
 
 [También puede interesar](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

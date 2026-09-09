@@ -1,9 +1,9 @@
 ---
-title: "redes sociales"
+title: "Nasobuco falible"
 date: "2020-03-17T23:43:14+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/03/tumblr_o6nzdoEBM11s1e5bso1_1280.jpg"
+image: ""
 ---
 Se ha hablado en estos días de los «intentos de quebrar la identidad nacional en las redes sociales y las nuevas plataformas digitales de comunicación». Nada de las acciones que se hacen para impedirlo. Dicen muy poco de la solidez de argumentos de sus ejecutores, que no hacen más que legitimar a los que, desde la única posibilidad de manifestarse en internet, expresan sus puntos de vista sobre una realidad contradictoria y necesariamente cambiante.  
 Lejos de promover espacios de discusión, el Estado monopoliza los medios y ofrece visiones sesgadas del día a día del acontecer nacional. Mientras en Facebook se discutía sobre la censura al documental «Sueños al pairo» y la suspensión de la Muestra Joven del Icaic, en el Granma al musicólogo Oni Acosta («Novela anticubana, ¿nuevos capítulos?») le preocupaba que se pusiera en «descontexto de todo tipo los acontecimientos previos al [éxodo de Mariel](https://es.wikipedia.org/wiki/%C3%89xodo_del_Mariel) de 1980», como si el «contexto» justificara los abominables hechos que el mediometraje denuncia. Lejos de diseccionar conceptualmente el material de marras, el articulista ni se toma el trabajo —en el principal y casi único órgano de prensa de circulación nacional— de mencionar a Mike Porcel, convertido, en aras de una minimización escandalosa, en un «trovador cubano residente en Miami». Vaya, que a los nueve años de destierro interior a que se obligó al músico —imposición criminal en cualquier «contexto»—, Oni agrega el de la invisibilidad total. Tampoco menciona por su nombre a Luis Manuel Otero Alcántara, a quien acusa de «realizar performances usando vergonzosamente como trapo —y no como atuendo— a la bandera nacional, acción penada según las leyes cubanas». Cualquiera que lea la página completa que le otorga el Granma al musicólogo puede pensar que a Alcántara se le ha criticado ese despropósito en una Asamblea de Méritos y Deméritos, pues tampoco Oni alude a que el joven estaba preso, en espera de un «proceso judicial» que terminó ayer con su excarcelación.  
@@ -12,15 +12,3 @@ Los fantasmas de 1980 están latentes. Lo demuestra el que algunos intelectuales
 A ver si los adalides de la «limpieza ideológica» son consecuentes y salen a combatir en las redes al gobierno. Combatirlo por la chapucería de hacer viral un documental que en la Muestra Joven no hubiera pasado de algunos centenares de espectadores. Combatirlo por no castigar ejemplarmente esas acciones «penadas según las leyes cubanas» de Luis Manuel Otero Alcántara.  
 A ver qué han dicho de la utilización de la bandera en campañas oficiales, como aquella de los noventa en que la UJC salió del ostracismo para declararse cubana ciento por ciento con banderas en los más disímiles diseños y sobre los más variados artículos utilitarios; de colocar decenas —restándole valor en su multiplicidad— como «cortina rompeviento» frente a lo Oficina de Intereses norteamericana; de imprimir miles en papel para los desfiles del Primero de Mayo que luego son pisoteadas por los mismos que las enarbolan; de trastocarlas de símbolo a mercancía con precios en moneda convertible inaccesibles para los que la defienden.  
 El nasobuco que se le impone al debate, a la urgencia de cambiar todo lo que no quieren que sea cambiado, lleva implícito el virus de la inmovilidad, de la inercia, del estancamiento, y hace más ostentoso el absurdo de convocar a una «guerra digital» cuando no se tienen cartuchos ni para ganar la analógica.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

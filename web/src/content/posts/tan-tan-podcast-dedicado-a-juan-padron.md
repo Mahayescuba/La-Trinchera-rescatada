@@ -3,7 +3,7 @@ title: "¡Tan tan! podcast dedicado a Juan Padrón"
 date: "2020-08-13T09:30:33+00:00"
 author: ""
 category: "Cultura"
-image: "/wp-content/uploads/2020/08/2020-08-04-02.45.11.jpg"
+image: ""
 ---
 _Sender Escobar entrevista a Ian Padrón en una suerte de homenaje a Juán Padrón, el primero de los manigüeros, cineasta, animador por excelencia y pilar de la cultura cubana._ 
 
@@ -36,13 +36,3 @@ Pienso que no solo la de mi papá también la de mi hermana Silvia que es sicól
 **_¿Trabajaron de conjunto en algún proyecto o vídeo clip animado?_**
 
 Hicimos varios videoclips juntos  que me gustan mucho. Realizamos uno para una cantante cubana que vive en España llamada Elaine de Valero _La vie en rose_  que me parece muy bueno, mi papá se lució junto con su equipo en la animación. También otro que se vio poco _Los Elefantes_ de Liuba María Hevia donde ella va cantando la canción de los elefantes en diferentes géneros musicales, mi padre incluso se hizo una auto caricatura como director de orquesta. Otro realizado para un gran cantante, una estrella internacional: [Colin Hay](https://es.wikipedia.org/wiki/Colin_Hay)  del grupo Men at Wok, agrupación muy famosa en los años ochenta. Además de otro para la cantante peruana Cecilia Noel _The boys are back in town_  muy simpática la interactuación con Cecilia, gran artista que ha visitado Cuba donde realizo varios conciertos en los años noventa. Lo cual constituyó un honor haber  trabajado con mi papá tantas veces.
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    [Sender Escobar](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/sender-escobar/)
-    
-    Ingeniero industrial y famous stalker

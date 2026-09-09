@@ -1,9 +1,9 @@
 ---
-title: "\"Sueños al pairo\": censura y una nueva ética"
+title: "“Sueños al pairo”: censura y una nueva ética"
 date: "2020-03-06T04:20:00+00:00"
 author: "Ulises Padrón Suárez"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/03/suenos-al-pairo-critica-portada.jpg"
+image: ""
 ---
 Quería escribir un texto largo y razonado sobre el efecto de la censura y el fenómeno provocado a raíz de la prohibición de _Sueños al pairo, de_ José Luis Aparicio Ferrera y Fernando Fraguela Fosado, pero la brevedad me ahorrará decir otros elementos que elocuentemente han abordado Carlos Lechuga, Norge Espinosa y Dean Luis Reyes, entre otros.  
 _La Muestra de Joven Realizador_ es un campo de batalla ideológico. Hace dos años la opera prima _Quiero hacer una película_ (QHUP), de Yimmit Ramírez, jugaba similar suerte, a pesar de que su director la retirase ante el inconveniente de limitarse su proyección. El tratamiento a la figura de José Martí “vapuleada” por uno de los personajes contribuía a enardecer a los martianos ortodoxos contra aquellos que preferían otras interpretaciones más librescas del _Apóstol_. Lo interesante de la polémica era delimitar quiénes poseían el capital político e intelectual para hablar de Martí, y si las nuevas generaciones contendrían una imagen propia o heredada. Además de que se generó un cisma entre la dirección del ICAIC y el comité de la _Muestra_.  
@@ -23,15 +23,3 @@ Por otro lado, Porcel abre las compuertas a temas más complejos. El éxodo del 
 Como con _PM_, Sueños al pairo es lo menos importante del debate que se ha producido. En la superficie profunda lo que se encuentra es una agónica lidia por quienes son los que llevan las riendas del discurso y su legitimación. Desgraciadamente, ha sido de la manera más burda y _bravuconamente_ posible. Sin embargo y es incontestable que el ICAIC lleva las de perder sino dialoga con los jóvenes realizadores, sino contribuye a crear espacios de civilidad porque la historia nacional nos pertenece a todos. El abordaje de cada pasaje será con las luces y sombras pero también con las libertades y limitaciones de cada realizador.  
 La Muestra de Jóvenes Realizadores es una batalla ideológica, reitero. La censura es sin lugar a dudas la acción que más produce ideología en el sentido _althusseriano_. Es capaz de encantar el objeto de deseo con una pulsión peligrosa pero placentera. Penosa circunstancia la que vive nuestra cultura si vamos resucitando Torquemada, Pavón, Serguera o Buchaca. Lo paradójico es que aviva el fuego de la creación no por lo _dialógico_ sino por el dogma y la judicialización (último reducto del Poder) que suprime cualquier apropiación alejada de la ortodoxia. Cada generación de artistas tiene el deber de construir sus propios mitos y disentir, entablar una apuesta arriesgada y revivir ciertos fantasmas. Sueños al pairo ha trascendido ese diálogo y ha devuelto del silencio y de esos forzosos silencios a uno de los grandes compositores de la [Nueva Trova](https://es.wikipedia.org/wiki/Nueva_trova).  
 Finalmente, habrá que darles las gracias a los censores porque el efecto se revirtió con tal fuerza incalculable. La historia se repite como un (mal) chiste porque la paradoja de la censura es que se convierte en un secreto a voces. Galileo Galilei ante la Santa Inquisición musitó [_Eppure si muove_](https://es.wikipedia.org/wiki/Eppur_si_muove). Aparicio y Fraguera le dicen al ICAIC “se mueve y con qué fuerza.”
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

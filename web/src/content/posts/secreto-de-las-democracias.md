@@ -1,9 +1,9 @@
 ---
-title: "secreto de las democracias La Trinchera Carlos Ávila"
+title: "Un secreto de todas las democracias"
 date: "2018-02-26T16:15:21+00:00"
 author: "Carlos Ávila Villamar"
 category: "Opinión"
-image: "/wp-content/uploads/2018/02/Un-secreto-de-todas-las-democracias.gif"
+image: ""
 ---
 La esencia de la democracia es el [voto](/politica-en-cuba/), una sencilla operación aritmética. Todos los demás sentidos que ha adquirido la palabra constituyen metonimias de otras nociones con las que suele relacionarse el voto, tales como la libertad de expresión, el consenso, y en definitiva, la legitimidad. Quiero hablar del voto, la operación democrática en sí, desde una distancia que el fervor de las posiciones políticas suele impedir, además. Prácticamente todos los poderes en la actualidad se afirman democráticos en algún punto, y prácticamente todos utilizan la palabra antidemocráticos para desacreditar a sus adversarios. El lenguaje, desde hace siglos, se desdobla y ramifica hasta conformar bosques oscuros y levitantes, en los que nuestro pensamiento divaga, pero se siente a salvo. Trataré entonces de alejarme de ciertas categorías filosóficas, y descenderé a una hojarasca primitiva desde la que pueda observarse mejor la naturaleza del poder.
 
@@ -14,15 +14,3 @@ La democracia es una guerra en la que ambos bandos, antes del conteo, acuerdan q
 Entra entonces el otro término al juego, el consenso. Supuestamente la victoria de una mayoría no debería significar el desprecio de la minoría, cuya opinión debiera ser tomada en cuenta en algún punto. Lo que nunca se aclara es el significado práctico de ser tomado en cuenta: en el mejor de los casos, advierto, significa que el poder democrático tratará de hacer lo mejor por ella cuando tenga la oportunidad. En el fondo el poder democrático es similar al del rey, que según su nivel benevolencia aceptará hacer pequeños favores a los que no representan una amenaza para él. El poder cede por dos razones exclusivas: o por debilidad ante una amenaza creciente, o por un grado de fuerza tal, que pueda permitirse esos pequeños lujos que hagan olvidar al resto del mundo su condición de lujos, de favores. Los poderes más sofisticados son invisibles y no necesitan censurar la prensa o mandar a matar a sus más peligrosos adversarios. Estas intimidaciones primitivas corresponden a poderes frágiles en algún punto, pero no tan frágiles como para tener que ceder ante las demandas de sus adversarios, lo cual generalmente corresponde ya a una cuestión de simple supervivencia.
 
 En un grupo de animales, aquel que lleva el mando no ejerce su poder por la fuerza de manera diaria, al contrario, un cálculo de riesgos hace comprender a los más débiles que lo mejor es no retarlo, todo animal social lleva insertada la paradójica capacidad de ejercer el poder y de someterse a él. El hombre es capaz de disfrazar ese sometimiento de muchas maneras para mantenerse en paz consigo mismo, y el poder nunca ha dejado de ayudar a que ese disfraz sea eficiente. El lector tal vez asuma un nihilismo político del que escribe estas líneas, pero se equivocará en tal caso: creo que el poder es necesario, ha sido él quien ha permitido el desarrollo de la civilización, sin poder no hay sociedad, solo hay lucha incesante entre los individuos, y es real que una sociedad pueda ser más feliz, y es real que un poder pueda hacer que una sociedad sea más feliz, todo el debate dentro del recientemente mitificado poder democrático debiera centrarse en conseguirlo, pero sin tanta [palabrería](https://www.wordreference.com/definicion/palabrer%C3%ADa) hueca, sin tanto regodeo en arborescencias inútiles, de su parte y de sus adversarios. Las disputas de la sociedad contemporánea acerca de la democracia, y me disculpe el lector si exagero, me recuerdan a las disputas entre los reyes, cada uno de los cuales creía que Dios estaba de su parte.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

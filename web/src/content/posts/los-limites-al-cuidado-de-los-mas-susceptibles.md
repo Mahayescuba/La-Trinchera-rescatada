@@ -3,7 +3,7 @@ title: "Los límites al cuidado de los más susceptibles"
 date: "2020-05-24T09:30:16+00:00"
 author: "José Gabriel Barrenechea"
 category: "Opinión"
-image: "/wp-content/uploads/2020/05/Blade-Runner-Casa-Ennis-04.jpg"
+image: ""
 ---
 La tasa de mortalidad de la enfermedad en Cuba es comparativamente alta. Países como India o República Dominicana, sin un verdadero sistema de salud, tienen menos muertes que Cuba en relación con casos confirmados. Lo cual es significativo, teniendo en cuenta que en esos países hay un gran número de pacientes que cursan toda la enfermedad sin haber asistido al médico y, por lo tanto, sin haber sido sometidos a ninguna prueba confirmatoria, a diferencia de Cuba, en donde la vigilancia epidemiológica es mucho más efectiva.  
 SI bien es relativamente fácil ocultar a un enfermo no grave, es sin embargo más difícil no contar a un muerto, lo cual nos lleva a suponer entonces que la mortalidad real en los países citados es bastante inferior a la de las estadísticas oficiales, mientras en Cuba solo es una fracción menor. Esto solo aumenta el citado contraste.  
@@ -23,15 +23,3 @@ En general, ante cualquier epidemia futura, se pueden tomar medidas como las de 
 No demos un primer paso hacia esas distopias de _anime_, que ciertamente nos amenazan de tomar una decisión errada. Ya en muchas megaurbes chinas parece esa ser la realidad…
 
 [Otro texto de este](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

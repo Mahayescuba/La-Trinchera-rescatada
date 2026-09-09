@@ -1,9 +1,9 @@
 ---
-title: "entrevista exclusiva"
+title: "Apoyo la libertad de cada cual para escoger y disfrutar de su sabor de helado preferido"
 date: "2021-04-13T16:00:00+00:00"
 author: "Sender Escobar"
 category: "Onírica"
-image: "/wp-content/uploads/2021/04/Cheryl-Oliver.jpg"
+image: ""
 ---
 **_Entrevista a Cecín Galindo_**
 
@@ -48,15 +48,3 @@ Siempre me ha gustado Céline Dion, sobre todo la canción que hizo para la pel�
 **¿Apoya usted la bisexualidad monofásica?**
 
 Apoyo la libertad de cada cual para escoger y disfrutar de su sabor de helado preferido; creo que ese es un derecho humano inalienable, como el de protagonizar sus propias parodias de Sylvester Stallone o despotricar de los protagonistas a la hora de la novela cubana. Yo estoy más allá de eso.
-
-entrevista exclusiva, entrevista exclusiva, entrevista exclusiva, entrevista exclusiva, entrevista exclusiva, entrevista exclusiva
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
-    
-    [Sender Escobar](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/sender-escobar/)
-    
-    Ingeniero industrial y famous stalker

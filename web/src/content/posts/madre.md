@@ -3,7 +3,7 @@ title: "Madre"
 date: "2020-05-10T09:30:53+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2020/05/Preemie-Holding-Hands-Watercolor-Print-Preemie-and-Mother-Hand-NICU-Art-Neonatology-Art-NICU-Mom-Gift.jpeg"
+image: ""
 ---
 Tú, madre, sabes bien lo que significa permitir a un animal incontrolable como el _[periodo especial](/opinion/)_, morder tu propio estómago para evitar que fuera tras el de tus tres hijos.
 
@@ -18,15 +18,3 @@ Esta semana, un medio [_ignaciano_](https://es.wikipedia.org/wiki/Ignaciano) de 
 
 Tiempo atrás estuve molesto por algunos castigos que me habías puesto de niño o adolescente. En cambio hoy, al paso de los años, acepto que tenías razón: era mi culpa.  
 Bueno, en realidad, estas 400 palabras no son un gran regalo, mas es el mío, pues lo fundamental es dejarte claro lo importante que has sido y eres en mi vida.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

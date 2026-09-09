@@ -1,9 +1,9 @@
 ---
-title: "Fernando Pérez: en el cine como en el béisbol"
+title: "Fernando Pérez: en el cine como en el béisbol, a la hora de batear todos somos iguales"
 date: "2020-01-16T14:04:45+00:00"
 author: ""
 category: "Entrevista"
-image: "/wp-content/uploads/2020/01/fernando-perez-cine-cubano-foto-cubadebate.jpg"
+image: ""
 ---
 Fernando Pérez cine.
 
@@ -52,15 +52,3 @@ Creo que también determinó mucho la circunstancia. Fue _Suite Habana_ pero tam
 **FP.** Comienzo la prefilmación _Riquimbili o El mundo según Nelsit_o el 3 de febrero, aunque ya andamos adelantando por nuestra cuenta algunas facetas del casting, búsqueda de locaciones, conformación del equipo creativo. Un nuevo riesgo que juega con las estructuras narrativas y el humor negro: un camino por el que no he transitado y por eso me motiva.
 
 Fernando Pérez cine. Fernando Pérez cine. Fernando Pérez cine. Fernando Pérez cine. Fernando Pérez cine.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

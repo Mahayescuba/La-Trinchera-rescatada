@@ -1,17 +1,13 @@
 ---
-title: "elecciones en Estados Unidos y democracia cubana"
+title: "La paja en el ojo ajeno"
 date: "2020-11-10T10:30:02+00:00"
 author: "Jorge Fernández Era"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/11/Atelier-Karibu-Veneration-spontanee.jpg"
+image: ""
 ---
 Me sumo a la aprobación que ha despertado el tuit del presidente Díaz-Canel (_Reconocemos que, en sus elecciones presidenciales, el pueblo de EEUU ha optado por un nuevo rumbo. Creemos en la posibilidad de una relación bilateral constructiva y respetuosa de las diferencias_). Esperaba más, lo confieso, porque si se reconoce que el pueblo norteamericano eligió una opción mejor y que puede haber entre los dos países una relación diferente a la que impuso Trump en los últimos cuatro años, entonces puede irse un poco más allá y felicitar abiertamente al elegido, como dictan las más elementales normas entre dos países que poseen relaciones diplomáticas.
 
 ¡Horror!, exclamarán algunos. ¿Este qué quiere: que le besemos las botas al representante de un imperio que ha hecho lo indecible por aplastar al proceso revolucionario cubano? Les respondería que no fui yo el que le levantó el brazo a Obama tras su [discurso en el Gran Teatro](http://www.trabajadores.cu/20160322/repercusion-palabras-obama-gran-teatro-la-habana/) durante su visita a Cuba en el 2016, ni el que llamó _amigo_ a James Carter treinta años después de que le gritáramos improperios a ese presidente en actos de repudio a su política contra Cuba. Si eso es diplomacia…
-
-![](/wp-content/uploads/2020/11/Obama-Raul.jpg)
-
-![](/wp-content/uploads/2020/11/Obama-Raul.jpg)
 
 Al entusiasmo inicial por la derrota de Trump le ha seguido en los medios oficiales cubanos una ofensiva por minimizar el impacto de la victoria de Biden, por señalarle a Canel que anda equivocado si piensa en un nuevo rumbo para la política del enemigo del norte. Es obvio que nuestra prensa no osará cuestionarle nada al presidente, pero es lo que pudiera colegirse de los comentarios que le restan importancia al resultado de unas elecciones históricas seguidas como nunca antes por el mundo entero, acotaciones que no hacen sino reafirmar que es muy cómodo vivir con la agresión de Estados Unidos para seguir echándole la culpa de nuestras barrabasadas.
 
@@ -26,15 +22,3 @@ Curioso, ¿no? Se da por sentado que Canel cumplirá sus dos mandatos porque as�
 Una relación constructiva con el gobierno de Estados Unidos deberá partir desde la fuerza moral de construir una sociedad superior, y de demostrarlo siempre. Las consignas se harán cada vez más vacías si seguimos reproduciendo en nuestro _socialismo_ similares patrones de diferenciación social de los que existen allá, o acallando cualquier voz que difiera de conductas complacientes.
 
 Aplaudamos que los norteamericanos limpien un tanto su casa y concentrémonos en detectar la paja nuestra.
-
-elecciones en Estados Unidos y democracia cubana, elecciones en Estados Unidos y democracia cubana
-
-## Autor
-
--   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
-    
-    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
-    
-    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

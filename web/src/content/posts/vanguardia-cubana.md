@@ -3,7 +3,7 @@ title: "No miro el abismo"
 date: "2019-10-26T14:20:16+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/10/aa8a237a-00b7-471e-b8c3-7ea563bd6d32.jpeg"
+image: ""
 ---
 Vanguardia cubana.
 
@@ -47,15 +47,3 @@ Un abrazo fraternal.
 \* La Trinchera publica esta carta, no solo para compartir con los lectores un diálogo con los textos en ella mencionados, sino también porque aporta argumentos a la necesaria reflexión que como sociedad podemos hacer en torno a un proyecto país. Se hace con expresa autorización del autor.
 
 Vanguardia cubana. Vanguardia cubana. Vanguardia cubana. Vanguardia cubana.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "Lo mejor para Venezuela"
 date: "2019-02-01T14:17:22+00:00"
 author: ""
 category: "Política"
-image: "/wp-content/uploads/2019/02/b260316c6afc8007699d204c8816300b.jpg"
+image: ""
 ---
 Si se quiere hacer el socialismo en Venezuela, no puede ser a base de la escasez, de las necesidades insatisfechas, y sobre todo, en este clima que desmoraliza a las fuerzas progresistas que pagan con daños a su identidad política los errores del gobierno bolivariano.
 
@@ -20,15 +20,3 @@ El hambre, la cuestión de los que emigran, todo ello no puede pasar a un segund
 Si se quiere hacer el socialismo en Venezuela, no puede ser a base de la escasez, de las necesidades insatisfechas, y sobre todo, en este clima que desmoraliza a las fuerzas progresistas que pagan con daños a su identidad política los errores del gobierno bolivariano.  
 El socialismo resulta imposible de construir yendo junto con burócratas, castas militares, arribistas y oportunistas, que explotan al pueblo por la vía del capitalismo de estado.  
 Propongo estar claros. Condenemos la injerencia imperialista, tan despreciable como siempre; y defendamos el derecho venezolano a su autodereminación. Ello no quiere decir, que se deba apoyar a Maduro como la mejor opción para Venezuela, y menos para el socialismo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

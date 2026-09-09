@@ -1,9 +1,9 @@
 ---
-title: "revueltas de mayo de 68 La Trinchera Por: Kristin Ross"
+title: "Mayo del 68, la memoria y el olvido"
 date: "2018-05-31T12:30:18+00:00"
 author: "Kristin Ross"
 category: "Historia"
-image: "/wp-content/uploads/2018/05/mayo-frances-revolucion-protesta-1968-estudiantes-jovenes.jpg"
+image: ""
 ---
 _No conozco ningún episodio de la historia de Francia con semejante grado de sentimentalismo irracional»_ (Raymond Aron, 1968)
 
@@ -134,15 +134,3 @@ Pero hace poco el nuevo reparto político francés ha permitido mirar de otra ma
 Tomado de [Rebelión](http://www.rebelion.org/noticia.php?id=66880)
 
 [También puede interesar](/historia/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

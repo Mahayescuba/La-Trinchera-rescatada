@@ -1,9 +1,9 @@
 ---
-title: "liberalismo cristiano"
+title: "¿Liberalismo cristiano? Simplemente liberalismo"
 date: "2020-07-23T07:32:16+00:00"
 author: "José Gabriel Barrenechea"
 category: "Teoría"
-image: "/wp-content/uploads/2020/07/2020-07-08-10-37-05-1200x800-1.jpg"
+image: ""
 ---
 El liberalismo es en esencia el sobreentendido de que no deben de haber constricciones sociales irracionales a los individuos en la selección de los fines, propósitos y destinos que les parezcan mejores para dárselos a sus vidas, si es que sinceramente deseamos que estos puedan escoger de manera libre. Pueden y son imprescindibles las constricciones, sin duda, pero las mismas solo son legítimas, y por tanto de obligatoria aceptación, si en última instancia se las ha consensuado en base al libre intercambio de argumentos racionales.
 
@@ -76,15 +76,3 @@ Sólo se necesita hacerles ver a los hombres esa realidad para que comiencen a h
 No es por tanto ligarse a la religión, en este caso a la cristiana, lo que necesita el liberalismo para superar los dos problemas que le señalan sus críticos cristianos, y que nosotros admitimos existen. Lo que se necesita es acabar de hacer que los individuos contemporáneos seamos un poco más consecuentes con nuestro liberalismo y terminemos de librarnos de ciertos rezagos de la mentalidad cristiana. Solo así podremos construir comunidades en que cada cual pueda creer o asociarse para creer lo mismo en Cristo que en el poder salvador de la _Homeopatía_, en la _Mecánica Cuántica_ o en el _Gran Monstruo Espagueti Volador_, pero siempre que se admita que el milagro solo ocurrirá con nuestra participación y nuestro esfuerzo, no precisamente en el ejercicio de la oración y la plegaria, y que vivir siempre es y será un desafío a un medio cuya naturaleza es el cambio.
 
 [También puede interesar](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

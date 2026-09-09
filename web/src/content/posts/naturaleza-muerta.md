@@ -3,7 +3,7 @@ title: "Naturaleza muerta"
 date: "2020-05-10T03:30:27+00:00"
 author: ""
 category: "Onírica"
-image: "/wp-content/uploads/2020/05/Arte-para-Despertar-on-Instagram_-“Artista-_-FredrikRaddum-Obra_-Trans-ī-re-Hacienda-Paradise-Utopia-experiment_-2017-Fredrik-Raddum-es-educado-en-la-Academia-Nacional-de…”.jpeg"
+image: ""
 ---
 …preso en un lienzo maldito de naturaleza muerta.
 
@@ -49,15 +49,3 @@ Cuántas veces se ha escuchado que “los seres humanos somos así…” o “es
 A lo largo de la historia de la humanidad, muchos pensadores han intentado descifrar el comportamiento humano, preguntándose por qué somos como somos, pensamos como pensamos y, sobre todo, actuamos como actuamos.
 
 Diferentes ramas de la ciencia han intentado dar respuesta a estas y otras interrogantes relacionadas, y estas han sido variadas y a veces contrapuestas, según la interpretación y el enfoque de estudio. Especialmente dentro de la antropología, la psicología y las ciencias del comportamiento humano, ha existido gran debate sobre las cuestiones que son heredadas y las que son aprendidas, con relación a la conducta. Algunas se decantaban por un enfoque determinista de los genes y la naturaleza, mientras que por otro, se refutaba esta idea con que era el ambiente el que determinaba, en última instancia, nuestro comportamiento y lo que terminábamos siendo.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

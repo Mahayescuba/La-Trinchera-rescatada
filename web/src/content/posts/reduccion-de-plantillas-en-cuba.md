@@ -1,9 +1,9 @@
 ---
-title: "reducción de plantillas en Cuba"
+title: "Reducción de plantillas estatales en Cuba: ¿misión cumplida?"
 date: "2018-07-03T12:11:10+00:00"
 author: "Pedro Monreal"
 category: "Economía en Cuba"
-image: "/wp-content/uploads/2018/07/Les-cahiers-de-Josephine-.jpg"
+image: ""
 ---
 Hace unos pocos días, la prensa oficial de Cuba ofreció nuevos datos parciales acerca del importantísimo tema del empleo en el país. Se informó que “_hoy están ocupados en la economía 4 474 800 personas, entre ellos poco más de tres millones en el sector estatal y alrededor de 1 300 000 en el no estatal_”.
 
@@ -42,17 +42,3 @@ De hecho, en ese periodo, el sector privado no solamente fue capaz de crear un n
 5 “Conceptualización del modelo económico y social cubano de desarrollo socialista”, julio de 2017, [http://www.granma.cu/file/pdf/gaceta/Conceptualizaci%C3%B3n%20del%20modelo%20economico%20social%20Version%20Final.pdf](http://www.granma.cu/file/pdf/gaceta/Conceptualizaci%C3%B3n%20del%20modelo%20economico%20social%20Version%20Final.pdf)
 
 Tomado de [El Estado como tal](https://elestadocomotal.com/2018/06/29/reduccion-de-plantillas-estatales-en-cuba-mision-cumplida/)
-
-[Otro texto del autor](/economia-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

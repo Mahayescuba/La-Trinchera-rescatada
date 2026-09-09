@@ -1,9 +1,9 @@
 ---
-title: "El calificativo de \"marxismo\""
+title: "El calificativo de “marxismo”"
 date: "2019-09-05T16:24:34+00:00"
 author: ""
 category: "Opinión"
-image: "/wp-content/uploads/2019/09/FB_IMG_156631426054513141-1.jpg"
+image: ""
 ---
 ### Doce apuntes sobre marxismo (VI de XII)
 
@@ -38,15 +38,3 @@ La debacle de la II Internacional con la guerra de 1914 le lleva a Lenin a autoc
 Los Cuadernos fueron publicados en 1933 por lo que hasta ese año se ignoró esa verdad descubierta por Lenin. Aun peor, los Grundrisse, que según Rosdolsky ahorran la dura lectura de la Lógica de Hegel, sólo empezarán a ser estudiados con rigor a finales de la década de los ’50. Quiere decir esto, que hasta la mitad del siglo XX sólo se tenía una visión muy superficial y mecánica del marxismo porque sin la dialéctica se desconoce el potencial revolucionario de la crítica radical del valor, del valor de cambio y de la mercancía, la fuerza emancipadora de la teoría del valor-trabajo y de la plusvalía, también se desconoce aunque se sufra el inhumano poder del fetichismo de la mercancía y la urgencia de echar al basurero de la historia ese Moloch que es el trabajo-abstracto…, en suma, sin la dialéctica se cree que el capital es una «cosa» que tiene aspectos buenos y malos de modo que desarrollando los primeros y reduciendo los segundos podríamos llegar a la «sociedad justa». En realidad, el marxismo nos demuestra que el capital es una relación social de explotación que sobrevive como los vampiros, chupando a la humanidad su trabajo vivo para convertirlo en trabajo muerto, en cadenas.
 
 **Tomado de Rebelión**
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

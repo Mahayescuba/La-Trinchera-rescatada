@@ -1,9 +1,9 @@
 ---
-title: "el producto en las redes sociales"
+title: "El alimento conectado"
 date: "2020-09-28T09:30:00+00:00"
 author: "Armando Pazos"
 category: "Política"
-image: "/wp-content/uploads/2020/09/Marcel-Caram.jpg"
+image: ""
 ---
 Un click, otro click y uno más… un _me gusta_, una sugerencia, una notificación, un vídeo, un artículo, una recomendación. 
 
@@ -14,10 +14,6 @@ El resultado no se hace esperar: pululan las más festinadas teorías de la cons
 Y de un proyecto inicial de interconexión humana, llegamos a una fábrica de diferencias irreconciliables, sustentada por un modelo de negocio en la que el usuario es el producto ofrecido por los titanes de las redes sociales a los anunciantes que pagan por nuestra atención (tiempo de pantalla) para comercializar bienes y servicios. 
 
 Y mientras más miramos, menos vemos. No entendemos cómo puede haber dos versiones tan dispares de un mismo hecho o suceso. La respuesta es simple: basado en nuestro perfil construido, sólo veremos la información que se acomoda a nuestra propia visión e interpretación de la realidad. Al extremo de que el contenido disponible en la internet varía según la región y latitud donde vivimos. 
-
-> [En el interior de Amazon](https://rebelion.org/en-el-interior-de-amazon/)
-
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«En el interior de Amazon» — Rebelion" src="https://rebelion.org/en-el-interior-de-amazon/embed/#?secret=40t7lIMa7F" data-secret="40t7lIMa7F" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 Uno de los aspectos alarmantes de este fenómeno es que, si bien los programas y algoritmos que determinan nuestro perfil con base a nuestras preferencias fueron creados por ingenieros, comunicadores y psicólogos, funcionan cada vez más sin intervención humana. Estamos a merced de la [inteligencia artificial](https://es.wikipedia.org/wiki/Inteligencia_artificial) que se mejora a sí misma y en detrimento de nuestro bienestar emocional y nuestra capacidad de interactuar en sociedad.
 
@@ -30,11 +26,3 @@ Y de un click a un _me gusta,_ nos vamos instalando en ese rincón confortable
 el producto en las redes sociales, el producto en las redes sociales
 
 https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/la-virtud-de-existir/
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Armando Pazos](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/armando-pazos/)

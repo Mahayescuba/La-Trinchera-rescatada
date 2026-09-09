@@ -3,7 +3,7 @@ title: "Unas notas rápidas en medio del debate político"
 date: "2019-06-12T06:46:06+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/06/PicsArt_06-12-02.38.15.jpg"
+image: ""
 ---
 En un sentido de cambios constantes acelerados, un país en Revolución durante un tiempo superior a una década no aguantaría.
 
@@ -23,15 +23,3 @@ Lo revolucionario no es el gobierno, tampoco fuera de este se es lo contra-revol
 Basta de acusaciones y de atacar al mensajero. Es solo una sugerencia.
 
 [Versión original](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

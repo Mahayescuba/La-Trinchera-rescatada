@@ -1,5 +1,5 @@
 ---
-title: "detención de Leonardo Romero"
+title: "El trabajo sucio"
 date: "2021-05-27T16:00:00+00:00"
 author: "Smerdiakov"
 category: "Política en Cuba"
@@ -16,13 +16,3 @@ El artículo del “rojo desteñido” (por comodidad lo llamaré de este modo) 
 He escrito estas líneas porque tengo un mensaje para todas esas personas que han decidido hacer el trabajo sucio: no sean imbéciles. Están protegiendo la reputación de personas que no se quieren manchar las manos, y que no tienen ningún problema con manchar las de ustedes. Sus artículos y sus charlas a puertas cerradas o a puertas abiertas están meticulosamente dispuestos para que la gente vuelque su odio hacia ustedes, y no hacia quienes son verdaderamente responsables de los problemas. Nadie olvidará las cosas que han escrito o dicho, aunque por miedo a la represión (que ustedes defienden) pocos se atrevan a decírselos en sus caras. Quizás se pregunten por qué deberían hacerme caso. Deberían hacerme caso porque yo estuve cerca de convertirme en uno de ustedes. 
 
 _Nota: Este texto ha sido escrito con motivo del artículo [«Represiones», coqueteos y rojos que se destiñen](https://brujulasurblog.wordpress.com/2021/05/13/represiones-coqueteos-y-rojos-que-se-destinen/)_.
-
-detención de Leonardo Romero, detención de Leonardo Romero, detención de Leonardo Romero, detención de Leonardo Romero
-
-## Autor
-
--   ![](/avatar/?s=80&d=mm&r=g)
-    
-    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
-    
-    [Smerdiakov](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/smerdiakov/)

@@ -3,7 +3,7 @@ title: "¿Cuál globalización?"
 date: "2020-04-04T22:21:52+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Marxismo"
-image: "/wp-content/uploads/2020/04/Las-mejores-vistas-son-en-las-que-estamos-juntos.jpeg"
+image: ""
 ---
 Según [Umberco Eco](https://es.wikipedia.org/wiki/Umberto_Eco), la inseparabilidad de significado y significante hace que los sinónimos en realidad no existan, o al menos, no sean tales (tan solo es posible la referida escisión en el universo de la abstracción pura). Sin embargo, esas exigencias semióticas (que tienen validez en los acotados universos de lingüistas y científicos del pensamiento) no impiden que la discursividad empírica (en su más común acepción) haga uso de los sinónimos como herramienta capaz de generar imágenes teóricas.
 
@@ -28,17 +28,3 @@ Lo que está escondido a los ojos del observador, es la existencia de un univers
 Por otro lado, la tendencia creciente de dicha globalización en realidad suele ser utilizada como la magnitud creciente de la primera identidad abstracta (la globalización), la cual tiene sentido en determinada temporalidad. La prevalencia de una identidad sobre otra dependerá de las articulaciones que se generen entre los diferentes capitales, de los que resulten dominantes de ahí, y de las necesidades de acumulación de dicho capital.
 
 Por último, es necesario aclarar que hablar de ese proceso fuera de los marcos del capitalismo y su gestación, no solo es regresar a enfoques ahistóricos de la relaciones humanas, sino que carece de sentido debido a que no se puede hablar de tendencias mundiales de la economía en escenarios donde no existían ni un sistema mundial económico entendido como totalidad orgánica, ni menos, economías a menor escala que lo fueran.
-
-[Otro texto del autor](/opinion/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

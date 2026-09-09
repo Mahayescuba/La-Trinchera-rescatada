@@ -1,9 +1,9 @@
 ---
-title: "27N y carta al Mincult"
+title: "Tomarle el pulso"
 date: "2020-12-05T17:00:06+00:00"
 author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
-image: "/wp-content/uploads/2020/12/Bruno-Walpoth.jpg"
+image: ""
 ---
 Cuando veo el [correo enviado](http://www.lajiribilla.cu/articulo/rompen-el-dialogo-quienes-pidieron-dialogo) al viceministro de cultura Fernando Rojas, pienso que sus redactores dieron un golpe de estado a aquellos que estaban parados, protestando pacíficamente, frente al Mincult.
 
@@ -24,17 +24,3 @@ Los redactores de la carta al Mincult que contenía condiciones para continuar e
 Debió prevalecer el compromiso con un resultado, con los reclamos de los presentes el 27N, no con condiciones para ganar músculo político.
 
 _Nota: A René Fidel, por hacer de todos sus ideas, como la que da pie a este post._
-
-27N y carta al Mincult, 27N y carta al Mincult
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Escribo por inspiración. Coordinador de este proyecto
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

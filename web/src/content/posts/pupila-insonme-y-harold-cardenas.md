@@ -1,5 +1,5 @@
 ---
-title: "Pupila insonme y Harold CárdenasLas guerras fraticidas"
+title: "Las guerras fraticidas"
 date: "2018-07-26T12:52:35+00:00"
 author: ""
 category: "Política en Cuba"
@@ -15,17 +15,3 @@ Parece que hay muchos por aquí a los que les gusta tener los ojos vendados para
 El conflicto de La Pupila Insomne con Harold Cárdenas, que ya dura sobre los dos años, no le presta ningún servicio a la Revolución. Critican al joven que se fue a cursar una beca de maestría a los Estados Unidos, y que no dejó por ello de participar en la defensa del proyecto socialista cubano, mientras son insensibles para el fenómeno de la gran cantidad de jóvenes graduados de cualquier carrera que salen del país todos los años, con intenciones de no volver. Todos los interesados en que en Cuba haya socialismo deberían trabajar juntos en luchar contra el sinnúmero de circunstancias que alejan el cumplimiento de esa utopía. El verdadero enemigo está en la calle: es esa cultura consumista, banal, hedonista, posmoderna, reguetonera, que amenaza con adueñarse del alma del pueblo cubano.  
 Desde hace meses no puedo ver un programa de La Pupila Asombrada sin que se me quede un sabor amargo en el espíritu. Me pregunto: ¿Ésta es la misma gente, esa, a la que no le tiembla la mano para dividir a lo que queda de izquierda espontánea en Cuba? Es hora de parar esta guerra fratricida, que sigue escalando sin que nadie mida los daños que se causan en todas direcciones. Si seguimos por este camino, antes de que nos demos cuenta vamos a dejar un campo lleno de víctimas. ¿Para qué?  
 Les dejo algo de tarea. Piensen en qué diría Rubén Martínez Villena de todo esto.
-
-[Otro texto del autor](/politica-en-cuba/)
-
-## Autor
-
--   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
-    
-    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
-    
-    Editor principal de La Trinchera. Escribo por inspiración
-    
-    [](mailto:hayesmartinez.mrgh@gmail.com)
