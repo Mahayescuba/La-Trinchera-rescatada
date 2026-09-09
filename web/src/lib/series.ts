@@ -42,8 +42,21 @@ function keyOf(s: string): string {
   return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '');
 }
 
-export interface SeriesPart { slug: string; title: string; part: number; date: string; }
-export interface Series { key: string; base: string; author: string; parts: SeriesPart[]; }
+// Primera imagen dentro del cuerpo del texto (markdown o <img>), como respaldo
+// cuando el frontmatter no trae imagen destacada. Prioriza las locales.
+function firstBodyImage(body: string): string {
+  if (!body) return '';
+  const urls: string[] = [];
+  let m: RegExpExecArray | null;
+  const md = /!\[[^\]]*\]\(([^)\s]+)/g;
+  while ((m = md.exec(body)) !== null) urls.push(m[1]);
+  const html = /<img[^>]+src=["']([^"']+)["']/gi;
+  while ((m = html.exec(body)) !== null) urls.push(m[1]);
+  return urls.find(u => u.startsWith('/wp-content/')) || urls[0] || '';
+}
+
+export interface SeriesPart { slug: string; title: string; part: number; date: string; image: string; }
+export interface Series { key: string; base: string; author: string; parts: SeriesPart[]; cover: string; }
 
 // Construye todas las series (≥2 partes distintas) y un índice slug→serie.
 export function buildSeries(posts: any[]): { all: Series[]; bySlug: Map<string, Series> } {
@@ -53,8 +66,8 @@ export function buildSeries(posts: any[]): { all: Series[]; bySlug: Map<string, 
     if (!pp) continue;
     const author = p.data.author || '';
     const key = keyOf(pp.base) + '::' + keyOf(author);
-    if (!groups.has(key)) groups.set(key, { key, base: pp.base, author, parts: [] });
-    groups.get(key)!.parts.push({ slug: p.slug, title: p.data.title, part: pp.part, date: p.data.date || '' });
+    if (!groups.has(key)) groups.set(key, { key, base: pp.base, author, parts: [], cover: '' });
+    groups.get(key)!.parts.push({ slug: p.slug, title: p.data.title, part: pp.part, date: p.data.date || '', image: p.data.image || firstBodyImage(p.body || '') });
   }
   const all: Series[] = [];
   const bySlug = new Map<string, Series>();
@@ -66,6 +79,13 @@ export function buildSeries(posts: any[]): { all: Series[]; bySlug: Map<string, 
     g.parts.sort((a, b) => a.part - b.part || a.slug.localeCompare(b.slug));
     const seen = new Set<number>();
     g.parts = g.parts.filter(x => (seen.has(x.part) ? false : (seen.add(x.part), true)));
+    // portada de la serie: una imagen de sus propias entregas, elegida de forma
+    // estable pero distinta entre series (hash de la clave) para que no se repitan.
+    const withImg = g.parts.filter(x => x.image);
+    if (withImg.length) {
+      let h = 0; for (const c of g.key) h = (h * 31 + c.charCodeAt(0)) >>> 0;
+      g.cover = withImg[h % withImg.length].image;
+    }
     all.push(g);
     for (const part of g.parts) bySlug.set(part.slug, g);
   }
