@@ -1,0 +1,28 @@
+---
+title: "Recarga de saldo en Cuba-Jorge Fernadez Era"
+date: "2020-02-01T23:08:50+00:00"
+author: "Jorge Fernández Era"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/02/C0F52408-C371-41AB-BA0C-1F99C0613E86_w250_r0_s.jpg"
+---
+Me sucedió. El miércoles 29, a las 9:41 p.m., entró al celular el siguiente mensaje: _Su cuenta ha sido recargada en promoción con 20.00 CUC. Transacción \[número de nueve cifras\]. Recibiendo un bono promocional de 40.00 CUC a consumir hasta 18-02-20_. Consulté mi saldo y, efectivamente, estaban allí, se sumaban a los burlescos treinta centavos que blandía mi LG. Cuál no fue mi sorpresa: en mi puñetera «digitalez» nunca me habían recargado.  
+Me dirigí en la tarde del jueves 30 a la oficina de Etecsa de 17 entre B y C a averiguar la procedencia del [Robin Hood](https://es.wikipedia.org/wiki/Robin_Hood) que roba saldo a los ricos para regalar a los pobres. La empleada arguyó que su empresa nada tiene que ver en dichas operaciones comerciales, que ello solo se registra en la cuenta bancaria de quien las realiza.  
+No menos intranquilo me retiré a casa: si la transacción provenía de una organización o personalidad opositora con asiento en el exterior, o de algún tataranieto de Estrada Palma, ¿no sirve ello para demostrar que mi posición crítica no es tal, que soy ese mercenario de que me acusa quien no tiene respuestas a mis interrogantes? ¿Y si al revés el gobierno, en su llamado a la combatividad en las redes (ante la ausencia definitiva del personaje y por mi insistencia en denunciar su defenestración) ha decidido honrarme en ser el primer beneficiado con **FACUNDO** (Fondo de Apoyo a la Conexión Underground No Dada Oficialmente)?  
+Con esas disquisiciones estrené día ayer, viernes 31. Me puse a trabajar. A las 7:36 a.m. recibí un mensaje, otra vez de Cubacel, con el mismo texto y diferente número, haciendo constar que había sido beneficiado con otra recarga de igual monto: ¡me convertía en Alí Babá y los cuarenta ceucé en mi cuenta!  
+Como la oferta de recarga dura hasta hoy, me contuve de celebrar en grande mis ochenta cucos de bono (yo, que desde los ochenta no recibo un bono), no fuera a ser que me llamara(n) el(los) afectado(s). Nada ha sucedido. Si hubo víctimas, no han sido mis tiros los criminales. Rompo la tregua. Me doy el gusto de llamar a un amigo que reside en una remota isla del Índico, no oía su voz desde hace veinticinco años. Le cuento que de ese territorio de ultramar la prensa cubana ni habla, que por no hablar tampoco lo hace sobre este. Dentro de unas horas, cuando abran el Mercado de Cuatro Caminos (uno de los temas que ya no se tocan), preguntaré si puedo transferir 40.00 CUC a favor de un pavo. Lo reconocí al vuelo. No lo ingiero desde los noventa (época en que dejé de ver a mi amigo), cuando, tras dos días aciagos (ojalá se repitan) en que mi hermano Luis Felipe y yo nos espantamos una cola tarde-noche-madrugada-mañana-casi mediodía en la calle Paseo para adquirir en una feria de ocasión par de plumíferos de excelente porte, Nos y Otros organizó una cena pantagruélica.  
+Dejo margen a duda. Quizás dos personas me admiran por mi «oficio de isla» (perdona, Doime, no me canso de citar tu obra), por mi obsesión de ser yo y respetar a los que creen saber qué son, y decidieron recargarme en el anonimato para que no pare de parar a los que exigen que paremos.  
+Gracias a ambos. Para la próxima anúnciense en privado o en social, miren que mi circulación (en las redes) no está para emociones, y es menester que den ejemplo a los que sigan… el ejemplo.
+
+[Otro texto del autor](/onirica/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

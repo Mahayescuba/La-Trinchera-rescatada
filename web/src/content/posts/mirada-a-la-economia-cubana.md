@@ -1,0 +1,32 @@
+---
+title: "mirada a la economia cubana"
+date: "2020-01-02T01:12:13+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/01/calendario-2019-dias-festivos-puentes-en-colombia.jpg"
+---
+# Una mirada a la economía cubana
+
+**Por: Jorge Fernández Era**  
+Agradezco a esta asamblea de [_Facebook_](http://facebook.com) darme la palabra para poner un granito de arena, un seboruco de pedraplén, un meteorito de Pinar en un asunto tan peliagudo como al que nos convoca el compañero Raúl: analizar el discurso del 21 de diciembre en la Asamblea Nacional del no menos compañero Díaz-Canel.  
+Hoy es 31, vísceras de año nuevo, no un año cualquiera, sino un veinte veinte que invita a mirar con luz larga al futuro, ese que llegará en el 2030 sóspero y prostenible… por ahí la cosa. Menudo dilema el de la década que se avecina: de cada diez cubanos, casi la mitad habremos arribado a la edad tercera, la de la vencida. Y lo haremos en un estado… de obreros y campesinos.  
+Sesenta y uno y palante. Son tantos los sueños… que dan sueño. Despierten con este: _El ordenamiento monetario se encuentra en fase avanzada de estudio y aprobación_. Si nos atenemos al tiempo que llevamos en _fase avanzada_, el ordenamiento-ordenanza desaprueba la lógica, amenaza una vez más con repetir el año, repasa para la revalorización de nuestro disminuido y menesteroso CUP. Y el poder adquisitivo no llega al poder. Y las fuerzas productivas no se liberan ni por la fuerza.  
+Lo más trascendental que ha sentenciado el presidente es que _estamos asistiendo al fin de la historia del capitalismo_, o lo que es igual: a un ano que finaliza haciendo inútil su pernicioso esfínter. Ya había imaginado algo. Pasé como el que más por un mercado donde expendían para Navidad turrones y vinos de la madre patria, corrí a casa a buscar CUC —otra disminuida e indigente moneda— y, a mi regreso, ya no había ni lo uno ni lo otro. Los capitalistas —porque dichos productos son posteriores a la _Revolución Francesa_— no son capaces de cubrir nuestra creciente demanda.  
+La desaparición de esa sociedad explotadora no puede cogernos fuera de base, ahora todo el mundo pedirá consejos. No es para menos: somos la nación con más experiencia en llevar el marxismo y sus manuales a la práctica. Veo ojos rasgados ante mi aseveración, pero téngase en cuenta que los chinos fueron mandarines y títeres en alguna que otra época en la que se desviaron del camino correcto. El socialismo de ellos hay que tomarlo en cuenta de las Yutong hacia acá, cuando en la Isla ya habíamos tenido nuestra _Diana_ y nuestro Girón.  
+Siempre habrá algún pueblo despistado que intente volver al feudalismo, hay gente para todo. De ahí que necesiten de Cuba para actualizar su modelo económico. Si hasta el presente se nos ha llamado a pensar como país, ahora la meta será más ambiciosa: pensar como planeta Tierra. Eso no es nuevo, estamos hechos Tierra desde los noventa: si nos tiran agua nos volvemos fango, añadiría Ñico Saquito. La historia nos pone en la disyuntiva ya no solo de pensar Cuba, sino pensar Estados Unidos, pensar Burundi, pensar Indonesia, pensar España… para que retome la producción de turrones y vinos.  
+Difícil la tarea de marras, tan ardua como la tarea de Marrero. Le cambiaron la carpeta. Hoy se explica la carta que se sacó Miguel de la manga: se esperaba que el capitalismo cayera de un momento a otro, era de prever una drástica disminución del arribo de turistas, nada mejor que encauzar su talento en otro vuelo. Él habrá de compulsar al resto de los Estados a organizarse como nosotros en la cultura del detalle, el perfeccionamiento empresarial, la entrega de tierras en usufructo, el encadenamiento productivo, la guerra a las ilegalidades, el aumento de salario en el sector presupuestado y la distribución directa de leche en las bodegas si es que pretenden un año como el 2019 nuestro: _de excepcionalidad positiva_, y un 2080 con los lineamientos del 2060 a media máquina.  
+Ahora que se sobrecumple el plan de la vivienda y vamos firmes en el objetivo de que sea esta la que espere llave en mano por nuestros nietos, solo me queda pedir a Raúl, Canel y Marrero —haciéndoles extensivos mis deseos de un 2020 próspero… y sostenible— una reservita de materiales a ver si definitivamente destrabamos lo que haya que destrabar y, en aras de predicar con el ejemplo, terminemos de construir el socialismo.
+
+[También puede interesar](/onirica/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

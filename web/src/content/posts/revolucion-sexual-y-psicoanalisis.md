@@ -1,0 +1,41 @@
+---
+title: "Psicoanálisis y la revolución sexual"
+date: "2019-10-10T01:26:15+00:00"
+author: ""
+category: "Teoría"
+image: "/wp-content/uploads/2019/10/richter_staircase.jpg"
+---
+Psicoanálisis y revolución sexual. 
+
+#### Ponencia presentada en la mesa-debate Trinchera Abierta en su edición del mes de mayo
+
+**Por: Andy de Calzadilla Loureiro**
+
+Es ciertamente curioso que se me haya invitado acá como representante del psicoanálisis para hablar de un tema que, por las limitaciones prácticas del psicoanálisis, escapa al saber clínico. Como ustedes bien saben, el psicoanálisis soporta su saber fundamentalmente en la clínica individual. Y los intentos de hacer una teoría general de la sexualidad exceden los esfuerzos terapéuticos y clínicos, sobre todo porque el saber que se origina en la práctica psicoanalítica nace de la transferencia como saber del inconsciente que es indomable por los procesos de la voluntad.  
+El tema que nos ocupa hoy es la _revolución sexual_, cuya historia es seguramente mejor conocida por los teóricos que nos acompañan. Pero como he aceptado venir acá, seguramente por puro narcisismo, quizás pueda hablar desde el lugar de la pregunta, e ir, sin demasiados rodeos a mis propias inquietudes e ilustrar de manera simple el método psicoanalítico cuando se piensa sobre los procesos sociales.  
+Lo primero sería mostrar algunas consecuencias que se desprenden de la relación entre estas dos palabras: revolución y sexual; que a uno le parece que tiene todo el sentido del mundo, pero esta sensación bien puede ser una resistencia ante los procesos íntimos de cada persona.  
+Las revoluciones, en el ámbito de los procesos de masas, se entienden como un cambio brusco de saber. Pensemos, por ejemplo, en la _revolución_ _copernicana_, la _revolución_ _darwiniana_, la _Revolución_ _Francesa_, o la _Revolución_ _Industrial_. En todas ellas, un nuevo saber se ha impuesto por la fuerza de la nueva verdad, esta fuerza proviene de los nuevos medios de producción, entiéndase la tecnología, y del empuje pulsional entre el líder y la masa. Siendo este último factor el más importante, pues es la fuerza psíquica misma que hace posible tanto el uso de la nueva tecnología, como el compromiso con el nuevo saber. De este compromiso surge la certeza necesaria para que haya una revolución, y es su factor más peligroso en tanto que la masa se abandona en esta suerte de alienación que es lo cierto.  
+Pero en el caso de lo sexual, ¿cuál es el saber? ¿Qué es lo sexual? ¿Es lo que se refiere a lo genital? ¿Es la vida humana en general? ¿Es definible lo sexual? ¿Cuáles son sus límites? El psicoanálisis ha insistido en que el saber de lo sexual es inconsciente, en ese sentido opino que no es posible, en términos clínicos, hablar de una revolución sexual, siendo que la sexualidad es esa suerte de nada que nos constituye, la psiquis misma. Por supuesto, conozco de los intentos por un cambio de los sistemas patriarcales, hacer un lenguaje inclusivo, etc, pero creo que esto solo se relaciona con lo sexual como una contingencia, de la misma manera que decimos que todo es político, que a veces no dice nada, porque se diluye el sentido de lo que en verdad importa o pretende decir.  
+Habiendo mostrado mi descontento con el nombre que se ha sugerido para el tema, voy a hablar, muy brevemente sobre un caso clínico que por las limitaciones de esta charla, he escogido que fuese un personaje que ha sido llevado recientemente al cine: _La Chica_ _Danesa_.  
+[Einer Wagener](https://elpais.com/elpais/2016/01/15/tentaciones/1452879473_870793.html) es uno de los primeros casos documentados sobre reasignación de sexo, uno pudiera decir que fue un revolucionario. Hoy la práctica de reasignación de sexo es algo que cada vez gana mas terreno en nuestras sociedades, y con ello la satisfacción del deseo de los transexuales.  
+Conociendo que el caso que hoy traigo es una ficción, lo que sé de Einer Wagener es por un par de lecturas y la película, solo me referiré a uno pocos pasajes que para mí ilustran el peligro de la certeza, a la cual me refería mas arriba.  
+Einer se nombra Lily, dice que Dios la hizo mujer, y que el buen doctor corregirá el error de la naturaleza de cubrirla con un cuerpo de hombre, que podrá ser una mujer real. Einer tiene la certeza de ser una mujer, es Lily.  
+¿Cómo es posible tener la certeza de ser? ¿Qué es una mujer real?  
+El desenlace de la película es la muerte de Einer/Lily. Gracias a los avances de la medicina, hoy los resultados son otros. Algunos estudios estadísticos sugieren que las personas a las cuales se les ha reasignado el sexo cometen más suicidios que cualquier otro grupo de estudio, incluyendo los depresivos. Otros estudios muestran mismos resultados, pero esta vez la variable es el brote psicótico. Es curioso que en la película Einer haya sido diagnosticado de esquizofrénico.  
+Los estudios sobre los transexuales son demasiado incipientes, así como la práctica psicoanalítica, como para dar conclusiones apresuradas. Decir que los transexuales son psicóticos pasa por nuestra condición ética del diagnóstico. ¿Qué querríamos decir? Los diagnósticos, desde el saber médico, se vuelven estigmas sociales, impedimentos y motivos de reclusión, pero creo que esto es solo una contingencia. En principio, desde el psicoanálisis, el diagnóstico cae sobre la relación de una persona con su sexualidad, con su deseo. Para el psicoanalisis, todos estaríamos enfermos, y se nos debiera respetar por ello, por nuestra singularidad, por nuestra sexualidad. Esa posición de respeto parte desde el desconocimiento, porque nadie puede asegurar tener la razón sobre el sexo. Pero la institución médica, el buen doctor, sabe que lo que se acomoda a un transexual es la reasignación de su sexo. Una medida universal para todos: una certeza.  
+Las personas pueden estar en su derecho de decir lo que deseen, pero al vivir en sociedad, hay unos ciertos límites dados en la relación de poder que se establece, por ejemplo, entre el médico y un paciente.  
+Einer/Lily tiene una certeza, y sufre por ello. Pero el buen doctor tiene otra, se cree Dios, se siente capaz de enmendar el error, de responder unívocamente al deseo de su paciente. Y porque el buen doctor encarna el poder hacer, sobre él recae la responsabilidad. Las operaciones de reasignación de sexo se han vuelto parte del aparataje del consumo. Y eso es lo condenable. Se viste de las ropas de la revolución, un nuevo saber que se aplica a todos por igual mediante las nuevas tecnologías y avances médicos. Pero deja en el desamparo a los más vulnerables.
+
+Psicoanálisis y revolución sexual Psicoanálisis y revolución sexual Psicoanálisis y revolución sexual Psicoanálisis y revolución sexual
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,0 +1,47 @@
+---
+title: "Salario mínimo"
+date: "2020-01-11T20:02:03+00:00"
+author: ""
+category: "Economía en Cuba"
+image: "/wp-content/uploads/2020/01/IMG_20200109_235543_384.jpg"
+---
+salario minimo.
+
+**Por: Ernesto Pérez Castillo**
+
+Antes, a mí se me daban muy bien las matemáticas. Y tanto, que hasta hice como que estudiaba cibernética. Claro que entonces, a mitad de los ochenta, los cálculos eran básicos, elementales, y las cifras no eran temerarias.  
+Hoy no podría atreverme a tanto, ni a menos. Y las cuentas, ni grandes ni pequeñas, ya no me salen. Ni atrás ni adelante. No hay manera. Llevo un año tratando de saber y sin lograr calcularlo, por ejemplo, cuánto dinero necesito para vivir un mes, una semana, un día. Ni siquiera para vivirlo a todo tren, a cuerpo de rey, sino solo vivirlo, apenas vivirlo.  
+Por eso, cuando de pronto veo a Ulises Guilarte, secretario general de la Central de Trabajadores de Cuba, en la clausura de la Segunda Conferencia Nacional del Sindicato de los Trabajadores de la Hotelería y el Turismo, hablar sobre lo avanzado que están los estudios sobre el precio mínimo de la canasta básica de bienes y servicios, para entonces poder definir un salario mínimo en Cuba, se me ocurrió que pese a todo y a mis cortedades algebraicas, quizá yo podría ayudar en ello. Yo puedo aventurar, en cinco minutos, de cuánto estaríamos hablando para establecer un salario mínimo y suficiente en esta Isla.  
+Para ello solo debo retomar una vieja idea, una de esas ocurrencias recurrentes, a las que uno vuelve a cada rato: ¿y si en vez de contar, centavo a centavo, cada gasto en esto y en lo otro, para saber a fin de mes cuánto es lo gastado —modelo engañoso porque cada vez todo cambia, y lo que esta semana hay, lo más probable es que la semana que viene no lo haya—, sencillamente me acojo a las cifras que el gobierno aporta, que deben haber sido obtenidas, supongo, después de acuciosos análisis e investigaciones detalladas?
+
+Tengo una cifra más que oficial en mente: doce. O sea, doce pesos, como los apóstoles del Jesús, que eran doce. Bueno, sí, doce pesos convertibles, obviamente, de esos que cada uno vale veinticuatro veces (el doble de doce) más que los demás pesos cubanos.  
+¿Y por qué doce? Pues porque esa es la cantidad que las empresas estatales que cerraron sus comedores obreros, entregan mensualmente a los empleados, aparte del salario, exclusivamente para que se paguen el almuerzo. Doce pesos convertibles, o lo que es lo mismo, para hablar en moneda nacional: 288.00 pesos cubanos.  
+O sea, ya tenemos un número: con 288.00 pesos un trabajador se paga sus almuerzos. Es una cifra científicamente calculada por los economistas del gobierno.  
+Pero un mes tiene treinta días y, de ellos, ocho son sábados y domingos, días que no se trabajan. Por tanto, restando estos ocho días, quedan 22 días: esos son los que tienen el almuerzo pagado con los 288.00 pesos.  
+Si dividimos 288.00 pesos entre 22 días, obtendremos cuál es el costo diario de un almuerzo, según las cifras oficiales: 13.09 pesos por almuerzo, esa es la cosa. Pero no seré pesado ni me andaré con exquisiteces, voy a dejarlo en trece pesos… ¡qué pena que no fueron doce!  
+Entonces solo nos queda multiplicar esos trece pesos por treinta, para saber cuánto se necesita en Cuba para almorzar todos los días. Y eso son 390.00 pesos mensuales, según el gobierno.  
+Resuelto el problema del almuerzo, al menos en su lado matemático, queda resolver el de la comida. Simple y sencillo, y sin ponerme exigente para no complicar la aritmética, asumiré que la comida cuesta lo mismo que el almuerzo. Por tanto, como dos y dos son cuatro, 390.00 más 390.00 son 780.00. Esa es la cifra: con 780.00 pesos cubanos, se puede almorzar y comer en Cuba, todos los días.  
+Ah, caramba… falta desayunar… bueno, igual, si asumo que con la mitad de lo que cuesta un almuerzo se paga desayuno decente, eso serían otros 190.00 pesos cubanos. Sumamos todo y listo: 950.00.  
+Ahí ya tenemos algo: con 950.00 pesos, en moneda nacional, según el gobierno y sus economistas, un trabajador cubano puede desayunar, almorzar y comer. No lo digo yo, repito, no es algo que me invento, es una cifra calculada por los especialistas del estado.  
+Al parecer, con esa cifra ya habría resuelto el problema que al inicio me formulé: ¿cuánto dinero necesito para vivir un mes? Pero una mente defectuosa y obsesivamente matemática como la mía, nunca se detiene, y ahora me da por especular: ¿y si metiera un hijo en esa ecuación? La respuesta es obvia: un hijo necesitará lo mismo que yo, y mi salario debería alcanzar al menos para pagar mis desayunos, mis almuerzos, mis comidas… y también los de mi hijo.  
+Si lo que me pagan por trabajar debería alcanzarme para todo eso, entonces mi salario para cubrir en principio la alimentación de mi hijo y la mía, a razón de 950.00 pesos por cada uno, debiera ser de 1900.00 pesos.  
+La cifra, bien mirada, suena a puro sueño y los sueños, sueños son, cuando se conoce que hasta este noviembre son, al menos, 445 748 las personas jubiladas protegidas por el régimen general de seguridad social que perciben pensiones inferiores a los 242.00 pesos. Si ya se sabe que para almorzar al menos veintidós días al mes, el gobierno paga a los trabajadores 288.00 pesos, ¿cómo sobreviven, qué hacen para desayunar, comer, pagar sus medicinas y demás, esos jubilados que están bajo el amparo de la seguridad social?  
+Según las cifras de la Oficina Nacional de Estadísticas, el salario medio en Cuba es de 740.00 pesos, muy por debajo de lo que haría falta para alimentarse y alimentar a un hijo. Y hablando de hijos, el salario medio de los maestros que se encargan de la instrucción de los niños cubanos, es más bajo aun, alcanzando apenas los 533.00 pesos.  
+En todo caso, nótese que la cantidad que propongo, los 1900.00 pesos, sería un salario que apenas alcanzaría para cubrir los gastos de la alimentación de mi hijo y la mía propia. Porque lo que no se cuenta en esas cuentas es lo que necesitaré para pagar todo lo demás: la ropa, los zapatos, el transporte, la electricidad, el gas, el agua, ¿una salida alguna vez?, ¿una comida en un restaurante?, ¿una ida al teatro?, ¿unas vacaciones, aunque sean muy modestas?, y todas aquellas otras sutilezas semejantes que puedan ocurrírsele a cualquiera.  
+En fin, por lo menos ya hay por dónde empezar para reflotar nuestros salarios. Un salario mínimo en Cuba, aunque alcance para comer y para nada más, debería ser de 1900.00 pesos, calculado según las cuentas del gobierno. Sería un salario mínimo, demasiado mínimo para mi gusto. Pero ya sería algo.
+
+**[Tomado de Progreso Semanal](http://progresosemanal.us/20181129/cuba-salario-minimo-o-minimos-salarios/)**
+
+salario minimo. salario minimo. salario minimo. salario minimo. salario minimo.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,0 +1,48 @@
+---
+title: "Respuesta a críticas de la prensa oficial cubana"
+date: "2020-12-03T17:00:25+00:00"
+author: "Jorge Fernández Era"
+category: "Onírica"
+image: "/wp-content/uploads/2020/12/Valerie-Marco.jpg"
+---
+Un amigo me ha recordado, a propósito de unos pocos ataques que he recibido por mi artículo “Pequeña perorata diurna”, un divertido suceso en mi carrera de humorista. Transcurría el año 1987 y ya me había hecho asiduo de la sección La Bobería, fundada por el maestro Héctor Zumbado en la revista Bohemia. Entre él y yo se había creado una amistad profunda, que derivó en la propuesta de armar un libro (“Cincuenta cuentos de nuestro Era”) con mis textos iniciáticos. El que desencadenó aquel proyecto fue “Imaginación”, una crítica irónica a un espacio televisivo que hizo época por entonces y que se titulaba “Desde el satélite” o algo así, donde se analizaba el acontecer internacional a partir de las imágenes recibidas por esa vía.
+
+La publicación por la revista de dicho minicuento —una osadía para los años finales de la década de los ochenta— trajo por consecuencia una respuesta airada, carta a Bohemia mediante, de los aludidos. En ellas se acusaba abiertamente a Zumbado y a mí de ser agentes de la CIA, esclavos a sueldo del imperialismo y otras delicadezas. En contraofensiva redactamos entre ambos un texto más sarcástico aún, un mea culpa donde confesábamos nuestros vínculos con el enemigo. Allí citábamos, entre otras infamias, la explosión cuando chamas de bombitas armadas con cabecitas de fósforos y el relleno ex profeso de cientos de buzones de quejas y sugerencias.
+
+La sangre no llegó al río porque la directora de la publicación nos rogó que no cometiéramos la locura de enviar aquello al edificio de 23 y M. Entendimos que podíamos dañarla más de lo que ya lo habíamos hecho.
+
+“Imaginación” se convirtió con posterioridad en un excelente monólogo actuado para Nos y Otros por mi hermano Orlando Cruzata.
+
+Vaya si uno ha trabajado para el imperio que treinta y tantos años después me siguen acusando de lo mismo, me preguntan incluso cuánto cobro por escribir lo que escribo. Si no fuera porque ni café tengo para brindarles, invitaría a todos esos “presos de su propia cabeza acomodada” a revisar el contenido de mi despensa: constatarían cuánto se ha acentuado mi antimperialismo en los últimos meses. Quieren que cada crítica a mi realidad venga convoyada con una cita al injusto y cruel bloqueo o a lo logrado por el sistema de salud cubano en la lucha contra la covid-19, como si tuvieran que ver con los hechos sobre los que llamo la atención. No he visto a ninguno de ellos emprenderla contra el noticiero, la mesa redonda o los monocordes periódicos por la visión estereotipada, repleta de omisiones, de la Cuba en que vivimos, que de poco servirá a las generaciones que nos sucedan para tomarle el pulso a estos tiempos.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-gris-de-mi-bandera/
+
+Se hace un llamado a legitimar cierta palabra de la que se abusa para desacreditar las posiciones divergentes. Expone el Granma de ayer sin que le tiemble el paginado: “Decir ‘contrarrevolucionario’, decir ‘mercenario’ cuando corresponde, es dotar al discurso de un argumento imprescindible”. Vaya, vaya. No aclara Enrique Ubieta si esa correspondencia avala endilgar el calificativo sin que exista prueba alguna, o si los aludidos podremos alguna vez acusar a los difamadores. Porque si por mercenario definimos a aquel que traiciona a su pueblo por recibir dinero del enemigo, podríamos considerar como tal a las tiendas en moneda libremente convertible, ¿no? 
+
+En mi artículo “Peter, pan y peces entre dos aguas” dejé clara mi posición respecto a los sucesos de San Isidro. Ahora se me exige, luego de mi participación incondicional en la vigilia frente al Ministerio de Cultura, que me arrepienta de “hacerle el juego a aquellos”, como si la propia dinámica de estos días no esté poniendo en su justo lugar al actuar de cada quien en ambos casos. Digo más: el principal responsable del sobredimensionamiento del Movimiento San Isidro es el propio gobierno cubano, ya es hora de que le dedique tiempo a los reclamos que nos llevaron a calle 2.
+
+Me resbala (como la viejita de mi cuento) cualquier descalificación u ofensa gratuita. “Periodistas” como aquellos de las imágenes vía satélite los vimos en la piel de Lázaro Manuel Alonso y Humberto López en el infausto [programa especial](http://www.tvcubana.icrt.cu/videos) del sábado. Mientras más observo su manera de dirigirse a los televidentes, más me recuerdan el regaño histérico de un oficial de baja graduación a un cuartelero en una unidad militar. Lean mi cuentecillo (de increíble vigencia, actualizado con los años según el presidente norteamericano de turno) y díganme si no encaja para que por ellos sea dramatizado.
+
+## **Imaginación**
+
+Muy buenos días, estimados televidentes. De nuevo en este espacio para comentar las imágenes recibidas vía satélite.
+
+Lo primero que tenemos por acá es muy corto, pero quiero se fijen bien en lo que van a ver (¡pásalas ya!). Ese yate que observan en primer plano fue encontrado a la deriva en el Pacífico, cerca de las costas de Japón. Presten atención al nombre del yate (¡Ahora!). ¿Vieron? Se llama Donald, así de simple. Pero les voy a decir lo mejor, que logré traducir del japonés: fue hallado con nada menos que cien kilogramos de cocaína.
+
+Ustedes se preguntarán qué relación pueden tener ambos elementos, y yo les devuelvo la interrogante: ¿no es demasiada casualidad que ese sea el nombre del presidente de Estados Unidos y el yate haya sido descubierto cargado de estupefacientes? Les digo esto para que tengan elementos de juicio respecto a una noticia que puede parecer inocente. Nada más claro: estamos seguros de que detrás de este suceso está la Casa Blanca. ¿Que cómo llegó a Japón ese yate? Eso lo sabe el FBI y, por supuesto, el señor Trump.
+
+La segunda imagen es muy significativa. Están viendo un reportaje de la CBS en una de las calles más céntricas de Nueva York. Observen ahora cómo esa viejecita, que viene caminando muy tranquila, de buenas a primera resbala con una cáscara de plátano (¡ahí está!), cae de espaldas y se da un fuerte golpe en la cabeza. Momentos después muere a causa de una fractura craneana de gran magnitud.
+
+The New York Times, en una pequeña nota, atribuye el hecho a un descuido de la señora, quien, según ellos, no divisó la cáscara de plátano. ¡¿Hasta cuándo estos individuos pretenden engañar a la opinión pública?! ¿De dónde proviene esa cáscara de plátano? Para nadie es un secreto que los plátanos que consumen los yanquis son importados desde la región centroamericana. ¿Quiénes explotan las grandes cosechas bananeras? Ustedes y yo lo sabemos: las transnacionales norteamericanas. Ellas son las verdaderas culpables de que esta inocente anciana haya muerto en una céntrica calle de Nueva York. ¡Y detrás de ese resbalón está la mano de la CIA!
+
+respuesta a críticas de la prensa oficial cubana, respuesta a críticas de la prensa oficial cubana, respuesta a críticas de la prensa oficial cubana
+
+## Autor
+
+-   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
+    
+    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
+    
+    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
+    
+    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

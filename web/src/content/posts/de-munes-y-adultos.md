@@ -1,0 +1,33 @@
+---
+title: "De muñes y adultos"
+date: "2019-12-17T07:06:29+00:00"
+author: ""
+category: "Opinión"
+image: "/wp-content/uploads/2019/12/c8ffa3494a89b81d06bc30b26e4b4a04.jpg"
+---
+dibujos animados. 
+
+**Por: Sender Escobar**
+
+Parafraseando el título del libro del premio Nobel de Literatura John Steinbeck, _De ratones y Hombres_ es la historia de dos hombres: George y Lennie, que trabajan en granjas para sobrevivir durante la _Gran Depresión_. Como muchos jornaleros de esa época, los protagonistas vivían el día a día de lo poco que podían retribuir sus labores. George es un hombre serio y de gran sensibilidad que tiene a su cuidado a Lennie, un gigantón de una fuerza física increíble, pero con una percepción del mundo similar a la de un niño de ocho años y a su vez muchas veces contagia a George con esa alegría.  
+El libro concluye con la muerte de Lennie, ultimado por el propio George a raíz de que Lennie inconsciente de su fuerza física, asfixió a la hija del dueño de la granja donde laboraban y George para evitar mayores represalias contra su amigo decide él mismo matarlo cuando Lennie entretenido hablaba animadamente de espaldas a este.  
+Dicho libro es de referencia obligada en muchas escuelas norteamericanas, así como uno de los más polémicos escritos en el siglo XX. La muerte de Lennie puede interpretarse (en el contexto de este artículo, para algo se inventó la polisemia) en la medida que crecemos la manera en que vamos perdiendo la ilusión sobre las cosas que nos rodean, George da muerte a su amigo como manera de salvarlo, pero a su vez con una bala pone fin a su alegría. La ingenuidad de Lennie ante las circunstancias que lo rodeaban hacían que George no perdiera la esperanza en el mañana a pesar de todo. Dicha obra ha sido llevada a la gran pantalla, entre ellas una de las versiones más conocidas es la protagonizada por Gary Sinise como George y John Malkovich en el papel de Lennie.  
+Esa mismas circunstancias y vivencias biográficas son las que condicionan nuestra capacidad de reaccionar ante los diferentes eventos que los que somos partícipes. Y en ese camino hacia la adultez vamos perdiendo la capacidad de ver con alegría inocente cada día. Nunca estaré de acuerdo en que madurar sea sinónimo de comportarse con maneras imperantes acorde a la edad. En este caso una de las dicotomías a mi entender más inútilmente cuestionadas a los adultos es y ha sido el consumo de dibujos animados.  
+Cuando vivía con mis padres uno de los reproches constantes era mi gusto por ver dibujos animados, llamémosle muñequitos a partir de ahora, es más familiar. Recuerdo el comentario que le hizo mi papá a mi madre, uno de los días en que sentado en el suelo miraba el televisor del mismo modo que mis hermanos pequeños. En tono un tanto desaprobador le dijo en voz baja: _Mira la atención con que Alejandro ve los muñequitos._ O sea, por ser mayor estaba privado de disfrutar de la imaginación de otros que hacen felices a los niños.  
+Algo que quisiera hacer notar en este artículo, es que quienes realizan dibujos animados también son adultos. ¿Entonces, es una inmadurez mayúscula sentarse y reír como si de nuevo fueras un niño? Creo que privarse de una sensación así constituye un deterioro del alma y de la capacidad de creación porque la realidad en colores que vivimos muchas veces casi increíble. A diferencia de un mundo de golpes, descalabros y situaciones más que absurdas o surrealistas que a veces tiene mayor veracidad.  
+En este caso, díganme quién de nosotros no quiso ser uno de los planetarios o cargar al machete con _Elpidio Valdés_. O emocionarse con la formación en V por el inicio de la canción que anunciaba el ensamblaje de _Voltus V_ para convertirse en la esperanza salvadora de los seres humanos; o cantar _Viva_ _Fraggle Rock;_ incluso, los más veteranos, ¿quiénes de ustedes no tarareó _Me las_ _Pagarás_?
+
+Cuando el mundo vive constantes revoluciones digitales, un sector que ha incrementado su calidad estilística son los dibujos animados. La facilidad de que sea degustada por adultos y pequeños donde existen guiños para ambas generaciones en películas como _Shrek_ o animados que mueven las fibras más sensibles del alma como _Coco_, son muestras innegables que los muñequitos no son exclusivos de una edad.  
+Fueron creados para hacer historia, para con ellos incrementar nuestra imaginación, incluso imitándolos nos convertimos en mejores seres humanos. Observar películas como _Vampiros en la Habana_ o decir de memoria los diálogos de [_Elpidio Valdés_](https://es.wikipedia.org/wiki/Elpidio_Vald%C3%A9s) entre risas con una vis de nostalgia, constituyen un viaje al pasado desde un presente lleno de coyunturas, pero a su vez permite mantener la ilusión en un futuro junto con esos otros que disfrutan el viaje de vivir _la edad de oro_ a la que Martí depositó la esperanza del mundo.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

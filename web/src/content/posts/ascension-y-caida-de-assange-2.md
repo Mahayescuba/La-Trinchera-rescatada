@@ -1,0 +1,46 @@
+---
+title: "Ascensión y caída de Julian Assange"
+date: "2019-04-15T03:15:58+00:00"
+author: ""
+category: "Opinión"
+image: "/wp-content/uploads/2019/04/PicsArt_04-14-12.36.05.jpg"
+---
+Washington, y sobre todo el Pentágono, han sido muy diligentes en buscarle la ruina a Julian Assange, después de que WikiLeaks publicara materiales clasificados sobre una operación de guerra sucia a cargo de soldados norteamericanos
+
+**Por: Benedetto Vecchi**
+
+La imagen de la detención de Assange por agentes de [Scotland Yard](https://es.wikipedia.org/wiki/Scotland_Yard) señala el final de una era de activismo en la Red…mediante un acto de traición. Solo, cansado, tras años de actividad, se había convertido en una molestia para sus anfitriones ecuatorianos, una piedra en el zapato en las relaciones de Ecuador con los Estados Unidos.
+
+Washington, y sobre todo el Pentágono, han sido muy diligentes en buscarle la ruina a Assange, después de que WikiLeaks publicara materiales clasificados sobre una operación de guerra sucia a cargo de soldados norteamericanos que se les fue de las manos, matando a varios civiles y periodistas iraquíes. La detención de Assange señala el final de una historia que hundía sus raíces en el activismo de los medios de la Red. Había tejido sin escrúpulos una madeja de alianzas, tanto con medios convencionales de envergadura como con líderes políticos hostiles al libre flujo de información (Vladimir Putin, sobre todo), sacando en ese proceso secretos impronunciables a la luz pública.
+
+Durante muchos años, su organización, WikiLeaks, ha sido sinónimo de una forma de activismo digital que desfila bajo las banderas de la transparencia, elevada por su radical oposición contra el secreto militar e industrial y la manipulación de la realidad por parte de los medios. En sus misiones de guerrilla en territorio enemigo, tanto dentro como fuera del hiperespacio, Assange se alió con muchos extraños compañeros de cama, desde los “hackers” más politizados y radicales (Anonymous) a directores de cine radicales (Ken Loach) y los mejores periodistas de investigación (Glenn Greenwald), hasta reveladores de secretos en el ejército norteamericano (Chelsea Manning), y creó las condiciones para que gente como Edward Snowden tomara la decisión de poner al descubierto las felonías de la Agencia Nacional de Seguridad (NSA) norteamericana.
+
+Su imprudente comportamiento personal, junto a las alegaciones de violación en Suecia, le convirtieron en objeto de críticas, incluso por parte de quienes luchan en el mismo bando. Concentraba en su persona la dirección de WikiLeaks, no dudando en expulsar a quienes cuestionaban sus decisiones y mostrando signos de egocentrismo y desconsideración por las necesidades de su organización. Sus opciones tuvieron como resultado una caída en el apoyo a WikiLeaks, lo que le llevó a tomar otras decisiones con muy poca transparencia, como cuando se avino a trabajar para una televisión rusa financiada por Putin. O, ciertamente, cuando entró en contacto con gente vinculada a Donald Trump durante la campaña de 2016 para las elecciones presidenciales norteamericanas, dando a entender que podía proporcionar correos electrónicos y documentos que dejarían en mal lugar a Hillary Clinton.
+
+A cada paso, Assange ha tratado de justificar sus acciones como una forma de luchar contra la incesante campaña librada contra él por los servicios secretos norteamericanos, una pretensión que se ha vuelto cada vez menos plausible con el tiempo. Al final, se quedó solo y sin aliados. No podemos más que esperar que sea capaz de evitar la extradición a los EE.UU., donde se le acusa de conspiración para socavar la seguridad nacional, acusación que tendra sin duda como resultado un periodo de cárcel, con una elevada probabilidad de que sus captores le encierren y tiren la llave. Hay que luchar para que no suceda eso, porque la labor de WikiLeaks ha sido valiosa.
+
+A medida que Internet se iba convirtiendo en el medio que es hoy, Assange reconocía su auténtico potencial de contrainformación. Tras diligentes esfuerzos por verificar la información, publicado ingentes recopilaciones de información cuya autenticidad nunca se ha desmentido, sin poner en riesgo la vida de nadie. Así, por ejemplo, entre ellos se contaban documentos y correos electrónicos de empresas petrolíferas en los que se podía leer acerca de la corrupción de políticos africanos (por ejemplo, en Kenia o Nigeria); o documentos en los que gestores británicos de firmas financieras con oficinas en Asia hablaban con franqueza acerca de sus actividades especulativas, que probablemente empobrecían a regiones enteras del planeta para enriquecer al 1 % de la élite global.
+
+Pero la némesis número uno de WikiLeaks ha sido el Pentágono, pues ha publicado un material revelador acerca de las fechorías cometidas durante la guerra de Irak, o la guerra global contra el terrorismo islámico, en el que los militares norteamericanos no se distinguieron precisamente por su respeto por las vida de los civiles. Al mismo tiempo, Assange no dudó en llamar a las puertas de los medios principales, proponiendo colaboraciones con el objetivo de publicar los documentos que la página de WikiLeaks ponía a su disposición en medios de información regulares.
+
+En todo esto, Assange se ha mostrado flexible, pragmático, y poco propenso a un comportamiento partidista. Merece ser justamente elogiado por ello, junto al hecho de que ha elevado la reputación de la profesión de “hacker” de la mera busca del enriquecimiento personal a levantar la noble enseña de la defensa del libre flujo de la información, otorgando así legitimidad a las acciones de Anonymous. No obstante el éxito global de la película V for Vendetta, no se habría adoptado la máscara de Guy Fawkes como símbolo icónico de movimientos sociales si WikiLeaks no hubiera decidido apoyar y promover —sólo fuera por tiempo breve — el lema de Anonymous: “Somos legión”.
+
+Julian Assange ha recorrido desde luego un camino muy largo desde sus raíces como joven activista australiano, bajo la enseña del “cypherpunk”, impulsando la agitación y propaganda en favor del anonimato en la Red y contra el excesivo poder de gobiernos y empresas. En el cambio de milenio, acababa de llegar al foro social de Porto Alegre, donde distribuía materiales sobre su bisoña organización desde detrás de un mostrador. Más tarde, hubo de refugiarse durante siete años en la embajada de Ecuador, un país cuyo presidente afirmó en cierta ocasión que era populista, de izquierdas y antiimperialista, pero se convirtió más tarde en populista neoliberal y amigo de los EE.UU. Assange hubo de pasar muchos años solo, sin poder accede a fondos de WikiLeaks. Sin embargo, a lo largo de todo este tiempo, lo que más ha cambiado ha sido la Red misma.
+
+Hoy el manto de la transparencia radical lo ha recogido de modo perverso Facebook, Twitter e Instagram, mientras Whatsapp, en nombre de la privacidad, recurre al encriptado para evitar que puedan leerse los mensajes, prometiendo así anonimato. En resumen, las mismas corporaciones gigantescas contra las que siempre se batió Assange son las que ahora llevan la voz cantante. Es una ironía de la historia que su detención se transmitiera en vivo y en directo en “streaming”, en consonancia con el principio de transparencia radical que Internet le garantiza a todo el mundo, ya se trate de activistas radicales, o de vendedores sin escrúpulos de conexión social en forma de espacio para la publicidad.
+
+Benedetto Vecchi periodista del diario italiano ‘il manifesto’, cuyas páginas culturales dirige. Autor, entre otros libros, de ‘La rete dall´utopia al mercato’ (manifestolibri, 2015) e ‘Il capitalismo delle piattaforme’ (manifestó libri 2017). Fue impulsor además de un libro de Zygmunt Bauman, ‘Identidad: conversaciones con Benedetto Vecchi’. (Losadsa, 2018).
+
+**Tomado de Sinpermiso**
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

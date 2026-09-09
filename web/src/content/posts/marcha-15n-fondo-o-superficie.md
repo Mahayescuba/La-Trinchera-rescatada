@@ -1,0 +1,34 @@
+---
+title: "Marcha 15N. Fondo o superficie. Por: Arturo Mesa. La Trinchera"
+date: "2021-10-19T09:30:00+00:00"
+author: "Arturo Mesa"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2021/10/Deviant-Art.jpg"
+---
+En el actual forcejeo sobre el derecho o la constitucionalidad en torno a la manifestación del día 15 se dan dos espacios que luchan por la primacía; uno es la superficie o lo que plantean las partes del conflicto y el otro es el fondo o lo que queda encubierto y que reviste tanta o más fuerza que la superficie visible. Por un lado están los defensores del (mal) Estado de Cosas que alegan inconstitucional aludir a la Constitución para actuar en contra de la misma, como si se tratase de una rebelión en contra del orden imperante y no de una simple manifestación por la necesidad de un cambio en el modo de hacer, y que además se viene haciendo, pero aún lejos de siquiera acercarse a las carencias y sueños de las juventudes.
+
+Quienquiera que ostente el poder en una sociedad equis encontraría discursos para defender cualquiera de las dos posiciones hoy en debate, pues lejos está la ley de leyes de ofrecer claridad en este acápite. Sin embargo, mientras las consignas y los manipulativos actos de denuncia enturbian el entendimiento de los hechos, mientras la lógica intenta buscarle lógica a la lógica de la respuesta gubernamental, algo se oculta en el fondo.
+
+Los verdaderos motivos de las autoridades, no son otros que los de evitar mostrarle al mundo imágenes de una multitud que marche y se manifieste en contra de lo que en algún momento fuese utopías de muchos y que hoy se encuentra sesgado por la presencia de los bloqueos y las malas estrategias internas de mociones económicas, al parecer la asignatura pendiente en sociedades como la nuestra.
+
+El Estado intenta por todos los medios evitar esta imagen, y para ello, lanza a sus mejores cartas al texto y al análisis, en procura de una laguna constitucional por donde lanzar la campaña, a sabiendas de que, ostentando el poder sobre los medios, lograrán el objetivo de convencer a la gran audiencia. Pero ¿qué oculta la otra parte de la disputa? Igualmente la otra parte del debate muestra la cara de la inconstitucionalidad para hacer valer su tesis. El derecho a manifestarse está registrado en la ley de leyes y punto. [Explicado](https://www.facebook.com/watch/?v=370620721185010) al detalle por el presidente del Tribunal Supremo Rubén Remigio Ferro y punto. No hay oración adversativa ni acápite registrado que niegue lo anterior. Y por ahí lanzan sus contraataques.
+
+<iframe loading="lazy" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FCubaLlama%2Fvideos%2F370620721185010%2F&amp;show_text=false&amp;width=560&amp;t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+Sin embargo, las tesis que se manejan en el fondo son las mismas que manejaría cualquier tipo de oposición inteligente que haya vivido y sufrido los últimos años de medidas, ordenamientos, coyunturas y cuanto cambio haya concebido el Estado para sortear la crisis: el Estado necesita sentir una presión real que no parta desde las mismas filas de sus incondicionales. Una oposición que parta desde sus mismas posturas, sería nada más que una crítica — aceptada o no— y que ante la Ley Divina y Omnipotente de: “Es una instrucción del Partido” quedaría reducida a un comentario constructivo, y hasta ahí. Los cambios, o las sugerencias de cambios no pueden venir desde las filas de la autodenominada “Continuidad”.
+
+El Estado ha tenido en sus manos todo el tiempo posible sobre la faz de la tierra para hacer cumplir sus promesas y hoy, tras 62 años de sacrificios, re-arranques y reinicios nos han presentado una de las peores crisis vividas en tiempos de revolución y las nuevas generaciones no están, ni deben estar dispuestas a seguir escuchando “Teques” –término tomado del programa Palabra Precisa— que le conceda nuevos años de experimentos. Ninguna Propuesta ni Plataforma Programática en ninguna parte del mundo, tras diez años de estudio se puede aparecer con la “[Tarea Ordenamiento](https://cubaeconomic.com/impacto-del-ordenamiento-monetario/)” y tras sus desastrosos resultados, pretender salir ilesa. De hecho, en nuestro caso, ni merecedores fuimos de disculpas. ¿En dónde está entonces el límite del error? ¿Cuántos años más se puede seguir errando e improvisando sin resultados palpables y apuntando el índice acusador hacia otro lado? Esa es la presión que se hace necesaria y a la que el gobierno debe responder, pero no a sus adeptos, sino a una plataforma inconforme y cuestionadora (siempre que muestre autenticidad) y no dispuesta a dejar pasar un ordenamiento más sin que al menos se reconozca y acepte su existencia y la existencia del disenso y además se incluya entre los actores del maderamen social. Eso es dialéctica, renovación y comprensión de una responsabilidad colectiva.
+
+¿Aceptará el gobierno la presión? Pues ya dijo que no. ¿Aceptará la contraparte la respuesta? Aún está por ver. O quizás la respuesta sea el encontronazo y el mayor despliegue militar en el país. Eso sí, cualquiera sea el resultado, el mensaje va a pasar y quizás el único objetivo del Grupo sea eso: “emitir un mensaje”. Quiera Dios que la redacción del texto sea dócil y sincera. Pero de salirse el conflicto del margen del respeto, la tolerancia y la democracia, el texto de ese mensaje va a ser visual y pudiera ser de irreconciliación total, tanto a lo interno como hacia el sistema, y por ende malestar, desobediencia y pérdida de un importante nivel de prestigio en tiempos difíciles para el mundo.
+
+[También puede interesar](/protestas-en-cuba-hoy/)
+
+Marcha 15N. Marcha 15N. Marcha 15N. Marcha 15N
+
+## Autor
+
+-   ![](/wp-content/uploads/2021/06/2021-06-26-12.28.50.jpg)
+    
+    ![](/wp-content/uploads/2021/06/2021-06-26-12.28.50.jpg)
+    
+    [Arturo Mesa](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/arturo-mesa/)

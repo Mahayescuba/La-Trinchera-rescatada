@@ -1,0 +1,64 @@
+---
+title: "El Golpe de Estado de 1952 y nuestra Soberanía Nacional"
+date: "2020-07-02T16:00:08+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/07/The-Mergers-Moleiros-Gallery-05.jpg"
+---
+Que lo del periodo de soberanía habría sido una debilidad americana, y que consecuentemente solo mediante la movilización total de la Nación y su puesta incondicional a las órdenes de alguna voluntad superior era y es posible mantener la soberanía nacional frente a nuestro vecino del Norte.
+
+**Por: José Gabriel Barrenechea**
+
+No entraré en detalles, solo voy a admitir que entre el 2 de mayo de 1902 y el 9 de septiembre de 1933, la República de Cuba fue un protectorado americano. Lo definía el apéndice impuesto por el Congreso de los EE.UU. a nuestra primera constitución republicana: La Enmienda Platt.
+
+Pero desde que durante 127 días el primer gobierno de Ramón Grau San Martín se mantuvo en el poder, en contra de la voluntad americana, la realidad fue muy otra. Grau se negó entonces a jurar la Constitución de 1901 por contener el referido apéndice, e hizo más: trajo al imaginario colectivo cubano la idea de que porque en Washington cogieran catarro no había necesariamente que ponerse a estornudar en La Habana. Lo logró el referido 9 de septiembre con un gesto muy simple, casi pueril, pero efectivo no obstante. Daba su discurso de asunción presidencial desde la terraza norte del Palacio Presidencial, cuando alguien lo interrumpió con la noticia de que lo llamaban desde la Embajada Americana. Grau, con su desenfado habitual respondió:
+
+\-Dígale a Washington que espere, que estoy hablando con mi pueblo.
+
+Lo cierto es que algo antes de enero de 1959 la Revolución del 30 ya había hecho a Cuba independiente, por primera vez en toda su historia. Todo un mérito para la época, si se tiene en cuenta que en ese momento en el mundo imperaba el derecho de la fuerza, y que por sus dimensiones, población y recursos la República de Cuba era un país insignificante ante los enormes ejércitos de la época.
+
+Esta afirmación se puede demostrar con relativa facilidad: aun los gobiernos de Batista, o bajo su control, que siempre han sido acusados de entreguistas por la historiografía oficial, dictaron a partir de 1934 una legislación obrera, o de respaldo para el pequeño cultivador de caña: el colono, inusual para la época. La culminación de este proceso fue la [Constitución de 1940](https://es.wikipedia.org/wiki/Constituci%C3%B3n_cubana_de_1940), todo un antecedente del _Welfare_ _State_ europeo de postguerra, en que quedó consagrada la jornada laboral de ocho horas, y en que se declaró a la propiedad privada como condicionada a su utilidad social.
+
+Tales medidas y legislaciones se tomaban en un país en que, tras la abrupta caída del precio del azúcar en 1920 y el consiguiente _crack_ bancario que trajo _las vacas flacas_, los mayores intereses económicos del país habían pasado a manos americanas. Legislaciones y medidas atentatorias de tales intereses, por lo tanto, y que en consecuencia, por el solo hecho de haber sido adoptadas, demostraban de modo innegable el alto nivel de independencia política de que comenzamos a disfrutar a resultas de la Revolución de 1930.
+
+Pero donde por sobre todo se transparenta nuestro alto nivel de autodeterminación es en la política exterior del periodo auténtico-republicano. Bajo el segundo gobierno de Grau (1944-1948), y el de Carlos Prío Socarrás (1948-1952), nuestro pequeño país se comportó como toda una pequeña potencia regional. Cuba fue entonces el principal aliado de la Guatemala de Arévalo, tan mal vista por ciertos intereses monopolistas estadounidenses. La Habana se convirtió en el bastión de las fuerzas democráticas del Caribe, en su lucha contra las muchas dictaduras de la región, no pocas veces a contrapelo de los intereses norteamericanos, llegándose a preparar desde aquí expediciones importantes, como la enfilada contra Trujillo en Cayo Confites (es cierto que esta fue desmantelada por las presiones desde Washington, ¿pero, no tuvieron Paris y Londres, potencias incuestionablemente soberanas, que detener su incursión en Suez de 1956 bajo presiones semejantes…?).
+
+Se llegó incluso al extremo de que el Congreso Cubano, con pleno apoyo presidencial, se atreviera a intentar enviar una comisión destinada a investigar posibles violaciones a los derechos humanos a raíz de la represión norteamericana contra la sublevación boricua de 1950, encabezada por Pedro Albizu Campos, y que el propio presidente, Carlos Prío Socarrás, se preocupara por la situación de este último ante el presidente Truman.
+
+De hecho, y sin lugar a dudas, algunos de los más grandes logros de nuestra política exterior en el siglo XX se consiguieron precisamente entre 1944 y 1952. Fue la delegación cubana a las flamantes Naciones Unidas una de las que primero propuso la adopción de una Carta de Derechos Humanos. Ocurrió esto en 1946, y no puede decirse de ninguna manera que Cuba actuara como testaferra de Washington en la presentación de tal propuesta, porque esa vez los EE.UU. se negaron de plano a adoptar algo semejante. Par de años después, el 10 de diciembre de 1948 se terminaría por aprobar una Declaración Universal en la que el empuje de nuestra diplomacia fue determinante, y en que no pocos juristas internacionales reconocen la influencia de nuestra Constitución de 1940.
+
+El segundo logro es, a no dudarlo, la Doctrina Grau. La cual los cubanos logramos hacer adoptar como principio de las relaciones internacionales en 1948, cuando en la Carta de la Organización de Estados Americanos (OEA), en su artículo 16, quedó establecido:
+
+“Ningún Estado podrá aplicar o estimular medidas coercitivas de carácter económico y político para forzar la voluntad soberana de otro Estado y obtener ventajas de cualquier naturaleza”.
+
+La realidad es que la República de Cuba era una nación soberana antes de 1952. Tanto, que incluso supo conseguir los apoyos para aprobar un mecanismo legal que la habría salvaguardado de futuros embargos.
+
+Finalmente, no se puede dejar fuera de esta enumeración el que Cuba haya sido el único país occidental que se opuso a la Resolución 181 de la ONU, para la partición de Palestina, y que las razones que diera para su voto fueran un antecedente de las que solo vendrían a estar de moda con la Conferencia de Bandung y el proceso descolonizador de África, una década después.
+
+2.
+
+Como la historiografía oficial ha sostenido casi siempre, el Golpe de Estado del 10 de marzo fue impulsado desde los EE.UU, pues entonces no habría más que admitir que aunque habíamos sido independientes en el periodo 1933-1952, ya no lo fuimos entre este último año y el primero de enero de 1959; y sobre todo, que con los norteamericanos el único modo de mantenerse independiente era a la manera seguida a posteriori de esa última fecha. Que lo del periodo de soberanía habría sido una debilidad americana, y que consecuentemente solo mediante la movilización total de la Nación y su puesta incondicional a las órdenes de alguna voluntad superior era y es posible mantener la soberanía nacional frente a nuestro vecino del Norte.
+
+No voy a detenerme aquí en las abundantes razones que se dan en un tan documentado libro como _Batista, El Golpe_, editado por Ciencias Sociales, para demostrar  la no implicación norteamericana en los sucesos de la madrugada del 10 de marzo, sino incluso su abierto desagrado ante el mismo. En ese libro publicado en Cuba, se parte de admitir que no fueron los americanos los primeros en reconocer al régimen de facto batistiano, sino más bien casi los últimos, al menos en las Américas. Se detalla luego, en base a abundante documentación desclasificada del _State Department_, el tenso proceso de reconocimiento y la subsiguiente frialdad que por meses mantuvieron las autoridades diplomáticas americanas con el régimen. Se insiste sobre todo, como motivo para ello, los conocidos vínculos de Batista con los comunistas cubanos.
+
+Prefiero aquí referirme a otros argumentos, no usualmente presentados en el debate.
+
+Incluso, allá por los ochentas, un pro oficialidad, Mario Mencía, en el “El Grito del Moncada”, tomo I, al no encontrar el modo de sustentar en hechos y documentos la versión de una supuesta inspiración y dirección norteamericanas del cuartelazo, solo había podido echar mano de una “aprobación por omisión” de la Embajada, al no prevenir a Prío. Sin tomar en cuenta, no obstante, que según su mismo relato, no solo los miembros de la misión militar americana sabían de lo que se cocinaba entre Columbia y Kuquine, sino todo La Habana y hasta el país, y que si nadie tomaba en serio el guiso se debía a que todos compartían la misma ciega confianza en la fortaleza de nuestra democracia. No en balde a fines de febrero Raúl Roa, ante la advertencia del recién defenestrado Rómulo Gallegos de lo que se tramaba, solo atinó a responder, lleno de confianza, que algo así ya no tenía cabida en la Cuba de 1952.
+
+Se puede sostener la no inspiración o apoyo norteamericano al cuartelazo basándonos también en el más elemental sentido común político: aun en medio de la Guerra Fría y mediante operaciones encubiertas, el elemento rampante y tempestuoso de ese país, como lo llamaba Martí, solo ha podido arrastrar al de humanidad y justicia a intervenir allí donde era claro, o en todo caso altamente probable, la toma del poder por los comunistas. Situación que no se daba ni de lejos en la Cuba de finales de los cuarentas y comienzos de los cincuentas.
+
+El partido comunista (PSP) había visto como las masas le retiraban su ya escaso apoyo histórico durante el periodo auténtico-republicano. Si para las elecciones de 1948 había obtenido 142 972 votos, para aproximadamente un 6% del padrón electoral, en las reorganizaciones de partidos de noviembre de 1949 y 1951 obtuvo respectivamente 126 524 y 59 000. Esta última cifra lo situaba a solo unos pocos miles de seguidores del 2 % que exigía la Constitución para legalizar a un partido político, o lo que es lo mismo, que el partido comunista estaba a punto de ser ilegalizado gracias a un artículo de la Constitución por el que ellos mismos habían votado favorablemente en la Asamblea Constituyente de 1940.
+
+Por último, pretender que los norteamericanos promovieron el golpe para detener la segura victoria del Partido Ortodoxo, resulta ridículo. Preguntémonos: ¿Le temerían los “yanquis” al personalista partido de Chibás, el partido que estaba por completo en manos del más implacable y popular enemigo del comunismo en Cuba? Por demás el único de los políticos cubanos de primera fila que se había opuesto a la ayuda a la Guatemala de Arévalo, o al envío de la mencionada comisión parlamentaria a investigar lo ocurrido durante la sublevación de los independentistas puertorriqueños en 1950… Con lo que a las claras mostraba el “Adalid” una posición frente a Washington que más que de timorata más bien cabía clasificar que de pro-americana, y con la que de seguro estos habrían estado muy complacidos.
+
+Lo cierto es que los americanos no tuvieron nada que ver en el suceso que trastocó nuestra vida nacional hace pronto 70 años. Y que por tanto nuestra democracia no cayó entonces por haber sido demasiado independiente de los EE.UU., como lo era, en base a las formas demasiado plurales connaturales a este sistema político. Fueron fuerzas y contingencias internas las que dieron al traste con un periodo de nuestra historia en que la Nación Cubana ha sido soberana.
+
+## Autor
+
+-   ![](/wp-content/uploads/2021/02/barrenechea.jpg)
+    
+    ![](/wp-content/uploads/2021/02/barrenechea.jpg)
+    
+    [José Gabriel Barrenechea](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-gabriel-barrenechea/)
+    
+    Científico, escritor y activista

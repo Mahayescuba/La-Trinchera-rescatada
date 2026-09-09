@@ -1,0 +1,44 @@
+---
+title: "Lo universal y lo regional"
+date: "2019-12-20T14:08:33+00:00"
+author: ""
+category: "Marxismo"
+image: "/wp-content/uploads/2019/12/IMG_20191220_093226_754.jpg"
+---
+universal y regional. 
+
+**Por: Miguel Alejandro Hayes**
+
+Este post ya se escribió, pero el mal empleo de la tecnología hizo que se perdiera. Sin la memoria capaz de recordar cada línea, cada idea, no quedó de otra que volverlo a redactar. Nunca será lo mismo, pero es igual.
+
+> \*\*\*
+
+Para las corrientes existencialistas, las cuales se consideran a sí mismas _Filosofía_, toda relación con el mundo es mediada por el yo (por el sujeto que observa, produce y reproduce su mundo). Y en efecto, aunque no deje de ser un enfoque ontológico, es cierto que no se ve el mundo, en última instancia, desde otros ojos que no sean los propios.  
+Esa misma lógica es la que se aplica a partir de cierto punto de la historia reciente del pensamiento para reflexionar al hombre y su desenvolvimiento en sociedad. Así, se comenzó a hacer lo que Lévi-Strauss denominó _ontología regional_.  
+Con ello, ya no existía la ontología universal y trascendental que había caracterizado a toda la historia del pensamiento. Se daba un gran paso en el desmontaje de todo el etnocentrismo occidental para dar nacimiento a la etnología. Era, un salto muy importante para matar la metafísica.  
+Al menos desde ese intento de desarme de la idea del _origen_ se destruye la de un _centro_, del _principio_ _universal_, _trascendental_. Luego, aparecerían múltiples “sistemas” como esquema teórico. De ahí que el estudio de cada grupo humano se enfocara en comenzar a reconstruir las prácticas y culturas de estos, por separado.  
+Sin embargo, aunque por un lado, la lógica de la _ontología_ _regional_ constituía un fuerte avance respecto al racionalismo clásico y al meta-relato que lo acompañaba, por el otro, se ponía en juego la noción de sistema. Si bien hasta ahora el discurso totalizador llevaba implícito la unidad del mundo (aunque pudo ser más bien el olvido de una parte de este) la _ontología_ _regional_ y la _etnología_ eran vehículo de reproducción de pensamientos aislacionistas, que conducen al encierro que reafirma razonamientos formales. La idea del centro fue desmontada, sí, para poner la de numerosos subconjuntos independientes. Esto, es pecado capital en un contexto donde el mundo despuntaba como un sistema altamente interconectado.  
+Con lo anterior, quedan dos grandes esquemas para pensar la cultura: el de la universalidad de esta, donde su centro es Europa; o numerosos conjuntos particulares, que cada uno genera sus reglas. Lamentablemente, los extremos excluyentes, que son construcciones más lingüísticas que del pensamiento teórico, no ofrecen una respuesta. Tales extremos solo son portadores del _dilema de la razón_, donde quedan dos verdades aisladas, demostrables por separado, excluyentes, y donde, escoger, es más un acto de fe, de afinidad, que de reflexión intelectual.  
+Una solución implica reflexionar los grupos humanos con cierto aislamiento, como en el siglo XII, por ejemplo. O piénsese en 1492, donde el mundo se hallaba desconectado. La matemática viajó del medio oriente a Europa, pero en América se hacía la suya propia. Así, numerosos sistemas sociales separados en auto-movimiento, coexistían. Lo que respalda la idea de que en ciertos contextos lo de los sistemas aislados pudo ser útil plenamente.  
+Claro está que el estudio de una sociedad debe partir de la _ontología_ de ella, pero en la conformación de ese _ser_ a estudiar, no deben despreciarse la influencia de otras. Así, por ejemplo, en la explicación de una cultura de país colonizado, no puede obviarse los diferentes componentes que conformarán el nuevo todo social (con nuevos sujetos, partes, elementos).  
+En la interrelación que históricamente ha ocurrido, los valores y prácticas de un grupo pasan o se imponen a otros, en diferentes grados. De ese modo, se han venido mezclando unas particularidades con otras provenientes de otros escenarios.  
+A ello hay que agregar que la cultura más influyente sobre el resto, es la occidental. Su mayor victoria, es que los otros se piensen a sí mismos desde los valores generados por ella. Por lo que muchas de las prácticas, instituciones, son asumidas de occidente, siendo estas un motor disociador del ordenamiento social de la realidad local. Un caso así puede ser en parte del continente africano, donde el orden del estado, del mercado, poco tiene que ver con las organizaciones tribales y su distribución e interrelación, y sus intercambios. Para el caso de [China](https://es.wikipedia.org/wiki/Rep%C3%BAblica_Popular_China), la penetración ha sido mucho más lenta.  
+Por eso, la comprensión cultural de las sociedades, deben construir siempre esa _ontología regional_, la cual, en movimiento en un mundo interconectado, incluirá no pocas veces elementos que originalmente no le eran propios.  
+Con lo anterior, parece como si cupiese la etiqueta de artificial o de impuesta, a algunas de las determinaciones que no sean “particulares”. Pero esos juicios valor, son externos a la propia lógica de los objetos sociales. Ocurre en todo momento, en la medida de la interconexión, el desplazamiento de lo particular a la “universalización” y viceversa. Y nada es ajeno a una sociedad, en la medida que son asumidos modos de producción de realidad: estos son válidos y legítimos, y pasan a formar parte de la regionalidad de la ontología. Por ejemplo, si pueden ser incorporados los valores del liberalismo, su resultado final será el de su interacción con el espacio social que lo asuma.  
+Luego, en los escenarios donde se acoplan esos “valores universales”, estos serán reclamados como tal. Así, si bien es cuestionable que se considere la universalidad de algo cuando no tiene tal alcance y tal universalidad sea no más que un reclamo que intenta anular las particularidades regionales, eso no hace ilegítimo que un grupo haga suyo determinado esquema cultural.  
+Para adoptar y apostar por paradigmas de cotidianidad y de organización social, no hay que abogar por su universalidad, basta con creer en ellos. En dependencia de cuánto proliferen en un grupo humano, entonces serán socialmente legítimos, y constituirán un factor de cambio.  
+Todo se trata, de una batalla entre culturas llevada a cabo a través de sus defensores, atrapados en la enajenación que se produce desde cualquier esquema “cosmovisivo”. Para quien defienda valores occidentales, su acercamiento a la objetividad viene por saber cuánto hay de ellos en la sociedad. Se trata, después de todo, de la defensa de una particularidad.
+
+No se trata de que determinados valores sean universales, se lucha porque se cree en ellos.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,0 +1,62 @@
+---
+title: "Los medios de producción, entendidos desde la dialéctica"
+date: "2018-03-05T16:15:53+00:00"
+author: "Miguel Alejandro Hayes Martínez"
+category: "Teoría"
+image: "/wp-content/uploads/2018/03/Fabrica.jpg"
+---
+El modo de producción, es el concepto que recoge la forma específica en que el hombre produce su realidad (sentido muy amplio). Este tipo de lógica es aplicable a toda la naturaleza, pero solo se utilizó en Marx (a partir de Hegel) y se empleó a la sociedad. El modo de producción como concepto no es la totalidad _per se_, pero si se le aplica a la totalidad esa forma de entendimiento, se puede concebir la totalidad como un modo de producción.
+
+Esa superposición la hace Marx, creando una idea de sistema, aplicándola a la sociedad. En esta, el todo es el conjunto de partes (de la sociedad) combinadas que interactúan. Cambiando este, a la par que se van cambiando a sí mismas. De ellas, no es la cualidad física lo que aglomera el concepto de modo de producción, sino la capacidad de interactuar con otras partes del todo y cómo es esa interacción. Se hace abstracción (en un primer momento) de todas las estructuras legales que el hombre establece para validarlo. Sin embargo, en posteriores exposiciones, se pudiera presentar esto como parte del modo de producción (criterio personal).
+
+Lo que interactúa, esas capacidades, son las de producir la realidad, la praxis (en el hombre). Estas van a estar condicionadas, otorgadas a las formas físicas por la interacción con el medio. Esas capacidades, de producir realidad, se llaman (las llama Marx) fuerzas productivas de la sociedad. Entre todas las capacidades contenidas en el mundo físico de producir un tipo de realidad, se producen interacciones.
+
+Esas interacciones, esos nexos entre las capacidades productivas, se llaman (las llama Marx) relaciones de producción (evidentemente sociales). Esa existencia de capacidades, que se relacionan, con movimiento y formando un todo, es el modo de producción. Esta es la construcción teórica del Marx filósofo más importante. Sin dudas, lo toma de Hegel, pero lo aterriza en el mundo material. A partir de aquí se plantea una lógica totalizadora del mundo que rompe con la cosificación de este, y que pudiera dejar ciertos y determinados vacíos en el entendimiento de la realidad, pero que dio un gran salto de avance a la ciencia social.
+
+Desgraciadamente, Marx no escribió de forma sistemática los resultados de su investigación, haciendo que aparezcan a la vista una serie de discontinuidades entre el filósofo y el economista. Una ruptura que crea una especie de partidismo a la hora de pensar en sus teorías. Nada más alejado de la realidad, que las concepciones que generan estas separaciones. En sus textos de filósofo, plantea lo que sería la lógica que seguiría en su evolución teórica. Siguiendo esta línea, a la luz de la filosofía suya, se puede continuar el camino trazado hasta su economía política.
+
+Con la herramienta del modo de producción, y del énfasis en las relaciones sociales, se despliega su análisis del capitalismo. Es justo aquí, donde sin un dominio y estudio detallado de su sistema categorial se distorsiona la teoría. Por eso no se puede entender al Marx economista, sin antes, el filósofo (y al revés también).
+
+Él tenía la imperiosa necesidad de explicar el modo de producción capitalista. Debía romper con el uso de la religiosidad moral y del ataque a las cosificaciones del mundo, como armas de la clase obrera. Su misión era darle una explicación científica al sistema para poder lograr un dominio sobre este. Es por eso, que como revolucionario, se propuso saltar todos los debates de las abstracciones de aquellos filósofos alienados en su propio mundo, para ir al soporte de los desgastes sociales: las relaciones capitalistas de producción. Al estudiar el capitalismo, se centró en el modo de producción capitalista (a partir de las relaciones de producción). Va a buscar la manera en que se va a producir una realidad en particular: la realidad capitalista. Para ello tiene que saltar la abstracción de modo de producción como algo armónico, sin fuerzas determinantes, y contextualizar, es decir, incluirle las formas específicas. Así encuentra los principales elementos que juegan roles esenciales en la producción de una realidad capitalista.
+
+Lo primero, entonces, es entender que lo que explica en su obra [_El Capital_](http://www.ataun.eus/bibliotecagratuita/Clásicos%20en%20Español/Karl%20Marx/El%20capital%20I.pdf) no es una absolutización del mundo, sino una parte de la realidad, la capitalista. Por eso estudia cómo se produce esta. El capitalismo lo va a juzgar a la vista del modo de producción, y a ello se le hace necesario incluirle un nuevo elemento que no había adquirido en su formación como filósofo y que le permitiría entender cómo se realizaba la interacción entre hombres en el modo de producción. Necesitaba que este cobrara movimiento y sumarle los conceptos más concretos que incluyeran el medio y la forma a través de la cual este se da.
+
+Así, Marx encuentra y empieza una nueva etapa teórica definiendo el valor. Con él ya se puede lanzar a armar su teoría del modo de producción capitalista, entendiéndolo en la forma específica que interactúan los hombres en su interior: a través del reconocimiento de la actividad humana, es decir, del valor.
+
+Por eso en El Capital primero define el mecanismo de interacción de los grupos humanos, ese valor, como el mercado (el mercado definido por Marx, no el concepto positivista que casi todos aplican \[1\]), esa forma concreta en que se organiza la producción social, para después explicar cómo se da el movimiento del capitalismo al ver cómo ese mercado se transforma en mercado capitalista.
+
+Al estudiar el modo de producción capitalista, ya con el valor teorizado, determina que el resultado del trabajo humano con mayor capacidad productiva (el dominante), reconocido socialmente, es el capital. Es este, el que va a imponer un tipo de forma de generar la realidad del hombre. Por eso todo el estudio va a centrarse asumiendo como objetivo del sistema: satisfacer la reproducción del capital. El capital no será la totalidad, pero sí el que determine el movimiento de la totalidad.
+
+Visto esto, se puede concluir que cada una de las categorías del capitalismo (y excluyo valor y mercado), están entendidas en función de este. Ya puede verse lo que son realmente las fuerzas productivas (su especificidad en el capitalismo).
+
+Las fuerzas productivas para el capitalismo (que no es lo mismo que en el capitalismo\[2\]), es todo aquello que en interacción con el resto de las capacidades productivas produce bajo un modo capitalista, es decir, contribuye a producir una realidad capitalista. Las fuerzas productivas son las capacidades de producir realidad de la naturaleza, el hombre y lo que estas crean en su combinación. Siempre estas capacidades dependen del contexto. ¿Cómo se insertan estas en el funcionamiento del capitalismo? Todo lo que para el capital le es funcional, le constituye un medio de producción. Todas lo que usa el capitalismo para reproducir, le es un medio de producción. Este concepto pudo haber causado numerosas confusiones por las interpretaciones apresuradas que se hicieron a partir de El Capital.
+
+Cuando Marx hablaba del proletario (no el obrero\[3\]) y afirmaba que no poseía medios de producción, se refería a que no tenía esos valores de uso que producían el capitalismo. Hablaba de máquinas y dinero para iniciarse como cabeza de una realidad capitalista. Es decir, desde la lógica del capital, desde ese punto de vista, los proletarios no poseían esos medios de producción.
+
+¿Y qué era el proletario para el capitalista? No habrá que definir con rigurosidad la palabra medio, para entender que el obrero para el capitalista era un medio que utilizaba para reproducirse de forma ampliada como clase. En pocas palabras, un medio de producción. Como para mí o para cualquiera un medio es todo aquello que se usa para conseguir algo, el obrero es un medio para el capitalista en la búsqueda de su fin.
+
+Por otro lado, el obrero, dependiendo del lugar y época, posee casa, ropa, comida (llamémosle por un momento bienes), que son para él, medios que usa para producir una parte de su realidad. Pudiera concluirse como el concepto de medio de producción, no es más que una forma de comprender las capacidades productivas sociales (fuerzas productivas) respecto de un tipo de producción de determinada forma de la realidad. Así, lo que es medio de producción respecto a algunas formas de realidad no lo es respecto de otra.
+
+Entender esto serviría para dejar de repetir indiscriminadamente que se deben tomar los medios de producción, y que la posición respecto a los medios de producción determinan las relaciones sociales. Esto por supuesto que son tesis correctas del marxismo, pero para que en la práctica revolucionaria tengan efecto, debe dejar de entenderse a los medios de producción como las maquinas, fábricas e industrias y asumirse correctamente y con cientificidad, ya que su repercusión puede ser y ha sido muy grave, costando mucho a la construcción del socialismo. Para tomar los medios de producción, debe saberse qué son los medios de producción.
+
+**Notas**
+
+\[1\] Me gustaría aclarar que el mercado en Marx no es ese mercado donde con dinero se compra y vende. Es, la forma concreta donde se intercambian resultados del trabajo humano (cosificados o no). La complejización de este fenómeno lleva al mercado típico del capitalismo, donde ese intercambio del resultado del trabajo humano (cosificado o no) se hace mediado por el dinero. Marx en El Capital, habla del mercado como generalidad, solo como intercambio entre hombres. El dinero, y lo que conocemos como compra y venta, son resultados del mercado y no lo esencial del mercado.
+
+\[2\] Las fuerzas productivas en el capitalismo son todas aquellas capacidades insertadas en el sistema, le sean funcionales o no.
+
+\[3\] Hago la distinción porque obrero es el trabajador y el proletario es aquel que no posee nada. En la época histórica que vivió Marx los obreros de la Europa Industrial, eran proletarios. Hoy, el obrero europeo medio de esos países, dista mucho de ser proletario.
+
+[Otro texto del autor](/economia-politica/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

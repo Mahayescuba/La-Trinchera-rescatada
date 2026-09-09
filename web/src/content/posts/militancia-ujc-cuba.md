@@ -1,0 +1,32 @@
+---
+title: "¿Militantes, números, o la pastilla del placebo ideológico? La Trinchera"
+date: "2019-05-13T06:10:35+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/05/PicsArt_05-13-01.41.39-1.jpg"
+---
+UJC y militancia.
+
+**Por: Marcos A. Alemán**
+
+Aún recuerdo el día en el que, cursando mis estudios preuniversitarios, recibí la charla habitual del secretario del Comité de Base del centro con el objetivo de atraer jóvenes a las filas de la “cantera ideológica del Partido”. Era un martes caluroso, y como es habitual en ese tipo de conversatorios, la mayoría de mis compañeros deseaba con desesperación que aquel individuo terminase para, en rápida acción, salir al merecido receso tras un largo turno de Matemáticas.  
+Aún así yo, que había leído a Marx en la secundaria (o al menos lo había intentado), era uno de los pocos estudiantes que estaba prestando atención a aquel joven delgado y compacto, de unos 27 años, que con unas evidentes pocas ganas nos explicaba por qué debíamos ingresar a la Unión de Jóvenes Comunistas. No obstante, hubo un hecho que me dejó contrariado: en lugar de hablarnos de Marx, de Lenin, de la historia de la organización y sus ideas o al menos de compromiso, el muchacho comenzó a enumerar de forma persuasiva y sugerente los beneficios que nos traería aceptar la condición de militante. Y empezó que a decir que “a veces hacen campamentos”, que “las excursiones al parque Lenin”, que si “el carnet hace falta para entrar a las fiestas de la UJC”, que “los viajes”; luego que era un aval para la carrera, que en un futuro trabajo se tendría en cuenta, y que si deseábamos podíamos ingresar en un futuro al Partido.  
+Evidentemente, tras esta llamativa demostración de Marketing, no faltaron las manos alzadas de estudiantes que habían decidido adoptar la condición de jóvenes comunistas, desde el que no atendía en las clases de Cultura Política y no cantaba el himno en el matutino, hasta el que siempre hablaba con clara soberbia de lo que le trajeron “de afuera”. Esas manos alzadas se convirtieron en firmas, y luego éstas en carnets de militantes, ante la mirada atónita de uno de los pocos “locos” que se había leído (o en su defecto, como previamente se mencionó, intentado leerse) [El Capital](https://es.wikipedia.org/wiki/El_capital), la obra cumbre de Karl Marx. En esa ocasión no me hice militante, sino 2 años más tarde, por situaciones curiosas de la vida que escapan al alcance de este escrito.  
+Existe en medicina y psicología algo denominado Efecto Placebo, que no es más que lo que sucede cuando al aplicar un remedio para un malestar a un receptor que lo considera efectivo, se obtiene el resultado de alivio esperado por éste.  
+Entonces me pregunto: ¿No es acaso eso lo que está obteniendo la UJC con esa estrategia de captación? Pues sucede que, al analizar a muchos de mis compañeros militantes, se nota claramente que de comunistas sólo tienen el nombre, y de revolucionarios el deseo de dar vueltas, apegándome a la acepción giratoria de la palabra.  
+Los militantes de mi generación son peculiares:  
+No están al tanto del acontecer internacional, porque sencillamente les resulta indiferente. No saben quién fue Rosa Luxemburgo, ni Trotsky, ni Mao. Los nombres de Marx, Engels y Lenin se les hacen conocidos, pero esto es fácilmente atribuible al poder de la repetición. Una gran parte no ha leído a Martí sin un profesor delante, y muchos otros ven los símbolos patrios como un conjunto de notas y colores. Pero, sobre todo, detestan las reuniones, y gritan “¡Viva Fidel!” por la fuerza de la costumbre en una marcha a la que van más a divertirse que a “defender las conquistas” de su giratoria Revolución. Como en todo, hay excepciones, pero ¿qué pueden hacer los mudos cuando los sordos se niegan a escuchar?  
+¿Habrán pensado bien los dirigentes de la UJC y el PCC en cada vez que han dicho que esos militantes son “el relevo de la Revolución”? ¿Qué vale más? ¿El militante o el número?  
+Estas preguntas muy probablemente hallen respuesta por sí solas, con el paso del tiempo, cuando esta generación “pastilla” de militantes por embullo sea la continuidad tan referida de los que hoy cometen el error de valorar más el número a enseñar que las ideas en sí, a riesgo de extinguir el significado real de la militancia ante la gran enfermedad que es la pérdida de conciencia e interés que afecta nuestra sociedad cubana de hoy. ¿Sucederá? Pues ya veremos, pero recuerden siempre que el placebo ideológico es como los demás: alivia, sí, pero no cura.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

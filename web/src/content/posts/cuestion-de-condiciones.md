@@ -1,0 +1,38 @@
+---
+title: "Cuestión de condiciones"
+date: "2019-09-10T16:25:41+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/09/PicsArt_09-10-12.26.48.jpg"
+---
+Condiciones. 
+
+#### Algunas ideas sobre la participación en el debate político
+
+**Por: Miguel Alejandro Hayes**
+
+Un máster. Un doctorado. ¡Un diploma! Aquí no se pronuncia toda la dimensión de la inconformidad si no se cuenta con el aval de “persona apta para pensar”, y que varía según el área del saber. Primero, hay que tener el futuro seguro, luego, a criticar con la valentía de magnitud nunca conocida en otros tiempos.  
+No pocas de las figuras -dentro o fuera del país- que en el presente tienen sabias y doctas reflexiones críticas -e incluso radicales y opositoras-, en el pasado miraron para otro lado y callaron a conciencia ante una injusticia; o se pronunciaron en contra de lo mal hecho solo hasta que les fue permitido; o dieron charlas y repitieron sin creerlo el bodrio ideológico desfasado que tocaba decir; o luego de enseñar a sus alumnos dónde estaba el mal, dijeron en público que solo había bien –quizá antes hubo un regaño en una mesa con un oficial o funcionario-; o tomaron un carné a pesar de rechazar la carga de desprestigio reflexivo que le veían; o defendieron los más positivistas e indigeribles dogmas [marxistas-leninistas](https://es.wikipedia.org/wiki/Marxismo-leninismo).  
+Todo ello, en lo que esperaban a publicar sus libros; o a que les llegara el(los) viaje(s) que podían obtener; o a dictar magistrales conferencias; o a recibir reconocimientos institucionales; o a obtener sus títulos y grados. No es que yo estuviese ahí, es que tenían de otra.  
+Tampoco es raro ver además cómo cada año se gradúan jóvenes que no aguardan tanto y en cuanto pueden –en dependencia de sus metas y de cuando se sientan en condiciones-, dicen lo que realmente pensaban y que no lo hicieron antes porque querían terminar de estudiar y superarse “tranquilos”. Estos son de los que menos esperan, pero funcionan bajo la misma lógica.  
+No se habló, ni se habla, hasta no asegurar -por si acaso. Tal vez por eso, no es el mejor posible el empujar de muchos reclamos –aunque sea de numerosas voces. Tal vez por eso, el pedido democrático para el sistema político cubano –que no es oposición, sino que es algo asumido desde la misma izquierda en su absoluta mayoría-, es de poco impacto y visto como lo que su propio sostén muestra, una fantasía de la “intelectualidad que siempre está en las nubes”.  
+Y es que, ¿cómo creer en ideas cuyos defensores no la siguen hasta las últimas consecuencias, que luchan luego de tener asegurada la carta del maso que permita en caso de que salgan mal las cosas, ir a alguna universidad, centro o empleo “intelectualmente digno” fuera del país, o adentro pero auspiciado desde fuera?  
+Esperar a ser formalmente un intelectual, no parece ser una actitud de pureza revolucionaria, y pone en duda si aquello en lo que se deposita la energía es verdaderamente necesario, en la medida que solo se combate desde ciertos escenarios de resguardo profesional que se construye. Claro está que algunos ni con doctorados y honores se atreverán a decir, pero el silencio no convierte al murmullo en grito.  
+Ello no quita que sea importante desde el punto de vista de la correlación de fuerzas, el papel que ejercen esas voces desde su condición de intelectual con su crítica –y desde la oposición, algunos- al hacerle contrapeso a los excesos partidistas. Lo que señala que una parte no despreciable de la acción política se concentra en la intelectualidad. Por otro lado, que esta se nutre -no en su totalidad y a lo mejor ni siquiera en su mayoría- del sujeto que, esperó a tener su patente por si se complicaba, que no jugó todas sus cartas, que si ahora sale o lo sacan del juego, no será su fin. Así pudo verse en la reciente recogida de firmas digitales para apoyar el documento en el que se condenaba la discriminación por ideología política en las universidades cubanas. Ahí, salvo rarísimas excepciones, las personas sobre las que caía el peso principal de la misiva y que públicamente anunciaron el apoyo con su rúbrica, eran ya posicionadas y consagradas en sus campos, cuyo futuro ya es difícil tronchar porque son “alguien en la vida”.  
+Y no se trata de que en ese sector esté la mayor radicalidad y valentía para expresarse, sino que ahí se reunían los que poseen determinadas garantías profesionales -comparados con otros- para actuar.
+
+Firmaron estudiantes universitarios, claro. Pero no era conveniente según la auto-percepción de estos, hacerlo saber en la web. De la misma forma, a otros tantos pupilos les hubiese gustado colaborar, o participar críticamente en el debate actual a través de sus redes, pero ellos también esperan a obtener la patente que los certifica de profesionales para dar su grito al viento.  
+Así, la actividad –y no tiene que ser revolucionaria- cívica del criterio, de participar conscientemente en el debate público y en las dinámicas discursivas de mantener/modificar el pacto social y que es propia de los jóvenes –y que en nuestro país hay una larga tradición de ello- deberá conservarse para “cuando se pueda”.  
+La edad promedio de rebeldía la hemos desplazado hacia pasados los cuarenta. El joven cubano rebelde de hoy, ejercerá la suya cuando duplique su edad y ya tenga un máster, un doctorado, ¡un diploma!
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

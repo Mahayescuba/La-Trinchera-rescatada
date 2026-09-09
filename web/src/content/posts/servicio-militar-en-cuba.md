@@ -1,0 +1,46 @@
+---
+title: "Ventajas y desventajas de quitar el servicio militar obligatorio en Cuba —"
+date: "2018-12-21T05:04:02+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2018/12/IMG_20181218_130354.jpg"
+---
+servicio militar obligatorio en Cuba.
+
+**Por: Carlos Ávila Villamar**
+
+El riesgo de una invasión a la isla no se ha disipado. Durante una crisis interna, en una demostración de poder, Donald Trump puede atacar Cuba bajo cualquier excusa ridícula. En realidad ya es una tradición que cada presidente norteamericano comience al menos una guerra preventiva durante su mandato, y desde el principio Trump ha estado observando opciones. Corea del Norte tiene misiles nucleares intercontinentales y Siria cuenta con la alianza del ejército ruso, por tanto han quedado descartados como objetivos. Cuba y Venezuela, aunque sean difíciles de ocupar, son vulnerables a ataques aéreos masivos que dejen la infraestructura económica del país en ruinas. La única inconveniencia de este método (que les ha funcionado bien hasta ahora, puesto que evita las electoralmente complicadas bajas en el ejército) serían las consecuencias diplomáticas con el resto de los países latinoamericanos. Pero no creo que a Trump le quite el sueño la diplomacia con nuestra región. En resumen, corremos más peligro de lo que el cubano promedio sería capaz de admitir.  
+El ejército convencional cubano es incapaz de hacer frente durante mucho tiempo a una invasión norteamericana. Nuestra flota aérea, gigantesca en otros tiempos, ha quedado reducida y obsoleta. Nuestras pocas embarcaciones de guerra son blancos fáciles y solo sirven para patrullajes. Nuestros tanques y blindados pueden resistir más tiempo en refugios y escondites rurales, pero la escasez de combustible a la larga los volverá inútiles. Lo que queda es pura infantería, el combate cuerpo a cuerpo en el que el ejército norteamericano resulta más vulnerable. La forma más eficiente de prevenir una guerra (que traería consecuencias nefastas para la población cubana) es asegurar una masa armada y militarmente instruida lo bastante grande como para que la ocupación constituya un verdadero dolor de cabeza, tanto para los generales norteamericanos como para los políticos. En esencia esta es la doctrina de la guerra de todo el pueblo, que nos ha permitido sobrevivir sin tener que sacrificar toda nuestra economía en función del campo militar.  
+La doctrina de la guerra de todo el pueblo, no obstante, tiene poco que hacer frente a la estrategia favorita del ejército norteamericano en sus últimas aventuras: el ataque aéreo sin ocupación terrestre. Sembrar el caos, alentar fuerzas rebeldes y dejar que el enemigo se mate él solo. Pero ese no es el tema de este artículo.  
+Pese a todo, la doctrina de la guerra de todo el pueblo no podría implementarse con rigor en caso de una ocupación la semana próxima. La preparación bélica de la población cubana es cada vez menor, sobre todo entre los jóvenes. Se supone que la inmensa mayoría de los cubanos de sexo masculino ha recibido una preparación durante su servicio militar, que le sirve de por vida para saber qué hacer en caso de guerra. Sin embargo esto no es cierto:
+
+>  la mayoría de los jóvenes que atraviesan el servicio militar siente que ha desperdiciado su tiempo.
+
+No constituyen una fuerza militar decisiva o confiable en caso de invasión. En el mejor de los casos se les usa apenas para limpiar pisos y cortad el césped de las unidades militares, y en el peor de los casos se les manda a bases remotas con condiciones indignantes, cuyas jerarquías y dinámicas sociales recuerdan las de una prisión.
+
+ En caso de una guerra la mayoría no sabrá disparar y morirá inútilmente durante los primeros combates, y es muy probable que otra porción deserte y dé lugar a pandillas, que asaltarán y matarán a inocentes en un clima de caos y escasez. ¿Y qué pasará cuando un pelotón se niegue pacíficamente a combatir? ¿Fusilaremos a muchachos de dieciocho años de nuestro propio bando, como lo hacían los rusos?
+
+> La disciplina que separa a un soldado de un hombre común lleva tiempo y recursos.
+
+ Es por esto que tantos países han renunciado desde hace años al servicio militar obligatorio: no solo constituye una carga económica y social, sino un atraso militar. **Resulta más provechoso alimentar un ejército profesional de cincuenta mil hombres, bien entrenado, a alimentar uno de cien mil, inexperto**. En casos excepcionales como Cuba, sin embargo, se entiende que resulta insostenible mantener el ejército regular de quinientos mil hombres necesario para hace frente al adversario más probable, el poderoso ejército norteamericano. Lo que se puede hacer es cambiar el modo en el que nos preparamos para la guerra, en vez de sacrificar inútilmente un año crucial de la vida de la población masculina, entrenar de manera más general a toda la población dispuesta a integrar las milicias.  
+Un salario adicional considerable (sacado del presupuesto que hoy mantiene a los jóvenes en servicio militar activo) puede crearse para todos los trabajadores o estudiantes de ambos sexos que decidan integrar nuestras milicias de reserva. Cada cierto tiempo esto implicaría emprender expediciones de reconocimiento, prácticas de tiro, simulacros de evacuación. En papeles estas cosas deberían hacerse todavía en nuestra sociedad, pero a menudo el desinterés de la gente las detiene, o al menos dificulta mucho su cumplimiento. Esto cambia si se deja de entender la milicia como un protocolo y se crea una cultura bélica en la población.  
+Estados Unidos es el país más difícil de ocupar del mundo no por su ejército, sino por su población, buena parte de la cual entiende de armas y lucharía de manera individual hasta el final. Claro, nosotros no crearíamos un negocio de vender pistolas y rifles semiautomáticos, sino que recuperaríamos muchas zonas de tiro estatales hoy abandonadas e incentivaríamos la práctica con armas reales en aquellos que, por sus aptitudes físicas y psicológicas, hayan sido admitidos dentro de las milicias. Creo que esta será la forma más efectiva de implementar la doctrina de la guerra de todo el pueblo.  
+Dos últimos puntos:
+
+>  el estado prefirió quitar un año a las carreras universitarias (para graduar más rápidamente a sus profesionales) antes que quitar el año de servicio obligatorio de los varones.
+
+ Segundo, es probable que con el envejecimiento poblacional se tenga que alargar todavía más la edad de jubilación, en vez de usar la fuerza joven de los muchachos de dieciocho años.
+
+Tomado de: [Carlos Ávila Villamar](https://medium.com/@neverland89/ventajas-y-desventajas-de-quitar-el-servicio-militar-obligatorio-en-cuba-a95e9109c7ff)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

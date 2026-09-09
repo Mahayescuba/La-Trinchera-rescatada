@@ -1,0 +1,49 @@
+---
+title: "El debate enajenado"
+date: "2019-01-02T23:58:43+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/01/IMG_20190101_170326.jpg"
+---
+dialéctica continuidad ruptura.
+
+### A propósito del artículo “Dialéctica de continuidad y ruptura” de Yassel A. Padrón Kunakbaeva publicado en La Joven Cuba
+
+**Por: Rene Portuondo**
+
+Aunque en un primer momento solo pretendía un breve comentario a la publicación del camarada Yassel, las observaciones que tengo se convirtieron en un texto que considero oportuno publicar. Aún así, espero no perder el sentido de lo que originalmente pretendía hacer.  
+Yassel en su artículo hace referencia a dos posiciones que engloban dentro de sí las principales tendencias que contienden en el debate político sobre el desenvolvimiento futuro de nuestra nación: aquellos que defienden la continuidad del orden existente, y los que por el contrario abogan por su ruptura.  
+Si bien es cierto que, como resumen totalizador, dividir el debate entre defensores de la continuidad o de la ruptura es un ejercicio bastante común, es oportuno anotar un par de cuestiones sobre ello.  
+En primer lugar destacar el carácter oportunista de los puntos extremos en ambas posturas, pues la defensa de una extrema continuidad o una extrema ruptura, no pasa de un discurso vacío de dos grupos sociales que tratan de legitimar su posición en el enfrentamiento social en que están inmersos. Por un lado la campaña por la “continuidad” lanzado por la clase burocrática, enfocada sobre todo, en legitimar su posición de poder al frente de la sociedad cubana actual. Esto tiene un fuerte sentido para la legitimación de la nueva dirección política del país, así como en el intento de demostrar el apoyo de la juventud al proceso político.  
+Por el otro, el mensaje de “ruptura” que lanzan la oposición política, la cual no tiene otro interés que convertirse en la clase dirigente en Cuba, hecho que no puede realizarse sin una ruptura abrupta del orden institucional actualmente existe.  
+La política en su ejercicio constante es por desgracia tarea de un minúsculo grupo que intenta llevar a su campo a una masa mucho mayor que por sus propias necesidades de subsistencia no se ve envuelta en su vida cotidiana con los debates “trascendentales” que regirán su futuro.  
+El debate ruptura vs. continuidad es solo un debate entre dos clases políticas, y no un debate del hombre común, que tiene otros tantos problemas por los que preocuparse. Y si llega a ser un debate de la población, solo lo es por un proceso de imposición que no se queda en las altas esferas que lo originan, sino que por su propio objetivo necesita llegar a las grandes masas que le darán legitimidad a una u otra postura.  
+Entendiendo que todo el debate ronda en torno a la legitimación de dos grupos sociales contrapuestos, que buscan ganar seguidores que permitan legitimarse, se puede entender la falsedad intrínseca del debate.  
+Partiendo de las identidades ya formuladas aquí, continuidad o ruptura es un ejercicio vacío, es legitimar el debate de grupos de poder contrapuestos y que están velando por sus propios intereses.  
+Además, ¿qué significa continuidad o ruptura? En todo proceso político toda continuidad es en parte ruptura y toda ruptura es en parte continuidad.  
+No existe proceso social desde el inicio de la humanidad que no haya sido al mismo tiempo continuidad y ruptura de algo. No existe la ruptura pura, ni la continuidad pura, esas son solo abstracciones vacías que solo tienen lugar en el debate enajenado de las clases políticas.  
+Un ejemplo concreto, solo por citar: la Revolución Soviética de 1917 fue una ruptura radical de la institucionalidad zarista y de muchas costumbres de viejo orden, pero fue una continuidad de muchos de los paradigmas del orden social burgués entre ellos los ideales de la revolución francesa encaminados a la igualdad, la fraternidad y el derecho de los hombres.  
+La superación, que finalmente el artículo propone como equilibrio entre continuidad y ruptura no es una opción, simplemente es y ha sido el camino natural por el que han transitado todas las sociedades humanas desde sus inicios. Porque si algo está claro es que el debate enajenado que puedan tener dos grupos de poder, nunca se va a reflejar como la dinámica real de un cuerpo social orgánico en auto-movimiento y en constante superación de sí mismo. De ese automovimiento saldrán las contradicciones fenoménicas (de la sociedad), que dererminaran su desarrollo y no de los discursos orientados a la propaganda política.
+
+Una última nota que se aleja un tanto del tema ruptura vs. continuidad, pero que me parece importante señalar y es el papel de la clase dominante a lo interno del socialismo estatista, a la cual el autor hace alusión al respecto cuando expresa:  
+“El vibrante ideario de la revolución es achatado en la práctica hasta verse en el límite de convertirse en una ideología de la clase dominante. No están muy lejos nuestros dirigentes de convertirse en una de esas clases dominantes que han vivido imbuidas en su propia ideología rosadamente clásica, engañándose a sí misma de su verdadero papel explotador”  
+Concuerdo con el autor en cuanto a que igualmente creo que el ideario de la revolución es hoy solo un fantasma de lo que fue y de lo mucho que podría haber sido. Mas no puedo dejar de señalar que la culpa de ello no recae en una dirigencia malvada e inmoral que de pronto se ha olvidado de su compromiso con el pueblo, sino que es fruto de las mismas dinámicas reproductivas del sistema.  
+Nuestros dirigentes son esa clase dominante, no por el hecho exclusivo que ellos mismo quieran constituirse en clase dominante (aunque muchos están ahí solo por los beneficios que su posición pueda aportarles), sino porque la existencia de una clase de vanguardia, burocrática y erigida sobre el resto de la sociedad es una necesidad que el modelo estatista del socialismo ha construido.  
+Me parece que sería infructuoso y demasiado extenso abordar mucho más sobre este tema, más aún cuando existe sobre el mismo una extensa literatura, de la cual personalmente recomiendo el ensayo de Miguel Hayes “Dialéctica de contrarios, acumulación originaria y la pequeña burguesía en Cuba”, o el libro “La Contradicciones del Socialismo Real: El dirigente y los dirigidos” del profesor [Michael A. Lebowitz](https://es.wikipedia.org/wiki/Michael_A._Lebowitz). Solo apuntar una consideración:  
+Tal cual el capitalismo reproduce capitalistas y obreros, el socialismo estatista reproduce una relación clase dirigente – dirigidos, que es orgánica, natural y necesaria para la existencia del sistema. La burocracia y sus estamentos altos y los vicios que con ellos traen, no son un producto residual, ni una desviación del sistema que pueda ser extirpada, ellos son un producto necesario para un sistema que se reproduce bajo su propia lógica, en donde unos siguen estando arriba y otros siguen estando abajo.  
+Al igual que las condiciones de reproducción de la clase obrera en el capitalismo responden a las necesidades de reproducción de la clase capitalista (clase dominante) en el socialismo estatista, donde la burocracia y dentro de ella, sus altos estamentos, asumen la función de clase dominante, la reproducción espiritual (ejemplo, los falsos debates que le crean las elites de poder) y material de la clase obrera que sigue siendo parte de los estamentos bajos, sigue respondiendo a esas necesidades de reproducción de la clase dirigente.  
+Eso nos hacen pensar en la réplica de muchos anarquistas al socialismo estatista: “¿querer abolir la maquinaria de dominación burguesa, solo para sustituirla por otra maquinaria de dominación?”
+
+dialéctica continuidad ruptura. dialéctica continuidad ruptura. dialéctica continuidad ruptura. dialéctica continuidad ruptura.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

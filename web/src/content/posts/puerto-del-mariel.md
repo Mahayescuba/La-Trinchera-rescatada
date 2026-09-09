@@ -1,0 +1,30 @@
+---
+title: "puerto del mariel"
+date: "2020-03-15T15:28:19+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/03/IMG_20200314_185202_856-1.jpg"
+---
+Van a hacer cuarenta años de los hechos del puerto del Mariel que desencadenaron una tormenta en el estrecho de la Florida.
+
+**Por: Jorge Fernández Era**
+
+Van a ser cuarenta años. El hecho que desencadenó la tormenta en el [estrecho de la Florida](https://es.wikipedia.org/wiki/Estrecho_de_Florida) ha quedado relegado al olvido. La casa donde estuvo la Embajada de Perú, la que albergó en pocos días a más de diez mil cubanos, fue borrada del mapa por _urgencias turísticas_, y al joven soldado primera víctima ya ni se le menciona.  
+Pero la historia es terca, nuestros hijos y nietos nos preguntan. Al mío tendré que contarle que el joven de 17 años que fui en abril y mayo del 80 participó como el que más en aquella histeria colectiva que nos llevó a renegar de miles de compatriotas que optaron no seguir en la pelea por una sociedad de los humildes y para los humildes.  
+Humildemente tendré que confesarle que no hice nada por impedirlo. Los que desfilaban conmigo en las marchas del pueblo combatiente, y yo mismo, proferimos insultos a mi primo Toni y a todos los que como él se refugiaron en la casona de 5ta. Avenida y 72. No hice nada por miedo, y sobre todo porque abrigaba la convicción de que era lo correcto, así me habían formado.  
+En la Lenin se volvió una fiesta el que casi a diario hubiera un mitin de repudio. Nos librábamos así de algunas horas de clases. La infamia tuvo su clímax el día en que los padres de la primera secretaria de la Unión de Jóvenes Comunistas fueron a buscarla como paso previo a desembarcar en la «zona especial de desarrollo del Mariel». Me persiguen todavía los golpes que vi propinarle al padre de la muchacha frente a la Dirección Central, el terror con que ella, acorralada contra la cerca de madera de la empresa situada frente a la Vocacional, sostenía su desgarrada blusa para no quedar desnuda, mientras la muchedumbre pedía a gritos se declarara contrarrevolucionaria si quería librarse de aquello. Y tuvo que hacerlo. Similar instinto de sobrevivencia desde dos posiciones diametralmente opuestas: la víctima para poder contarlo, los victimarios para no convertirse en centro de seguras sospechas de _blandenguería_.  
+Todo hubiera podido pararse con una sola nota oficial del Granma, con una sola intervención de Fidel. He ahí la razón, según mi punto de vista, de la censura al documental «Sueños al pairo», que toma como botón de muestra lo sucedido al músico [Mike Porcel](/politica-en-cuba/), obligado contra su voluntad a permanecer en la Isla durante nueve años y separado de sus seres queridos: los realizadores exponen la complicidad, el aliento con que el gobierno cubano, las autoridades del orden y los órganos de prensa y de difusión masiva azuzaron los mítines de repudio y sus execrables manifestaciones: golpizas, lanzamientos de huevos, vejaciones, insultos a coro…, pretendido afán de defender principios pisoteándolos. Hasta un parte diario del tiempo se daba junto a la cifra de «escoria» de la que se libraba la nación.  
+Algo han logrado los «perseguidores de cualquier nacimiento»: que renazca la necesidad de debatir sobre el pasado reciente, si es que puede llamársele así a cuarenta años de silencio sobre hechos que marcaron a varias generaciones. Urge analizar lo pretérito para salvar al presente y al futuro de un odio que no cabe en un proyecto de país que reivindique al ser humano desde la libertad de elegir sin renunciar a esa libertad, con todos los derechos, sin miedo a ser reprimido por ejercerlos.  
+Que nadie alegue que los peligros del 80 no acechan. Esperan su oportunidad desde que en el Granma y en el NTV se insinúa fusilamiento para los que profanaron los bustos de Martí. Se esconden en los que desde el exilio —adonde han ido a parar algunos verdugos de aquel «pueblo combatiente»— piden ojo por ojo y afilan sus armas.  
+La contrarrevolución de ciertas manifestaciones artísticas es discutible, la de callar la boca por decreto es manifiesta: termina por demostrar que es mentira nuestra madurez ideológica y una burla castrar al toro para hacerlo más fuerte. Como mismo las bombas y las balas no matan ideas, la cárcel no puede encerrarlas ni la censura evitar que se propaguen, más bien todo lo contrario.  
+Discutamos, volvamos a discutir y no cerremos nunca la discusión. Admitamos y pidamos perdón por las atrocidades quienesquiera las hayan cometido. Son las únicas maneras de lograr no se marchite la nueva flor a la que cantó Porcel cuando clamamos por la paz y la amistad en el lejano verano del 78.
+
+## Autor
+
+-   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
+    
+    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
+    
+    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
+    
+    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

@@ -1,0 +1,38 @@
+---
+title: "Caso clínico #1: Nubia"
+date: "2019-05-23T06:33:49+00:00"
+author: "Ernesto Núñez"
+category: "Onírica"
+image: "/wp-content/uploads/2019/05/img-20190523-wa00051129344159.jpg"
+---
+Nombre del paciente: Nubia  
+Diagnóstico: Trastorno de identidad disociativo (TID)  
+Introducción: El trastorno de identidad disociativo es un diagnóstico controvertido descrito como la existencia de dos o más identidades o personalidades en un individuo, cada una con su propio patrón de percibir y actuar con el ambiente. Al menos dos de estas personalidades deben tomar control del comportamiento del individuo de forma rutinaria, y están asociadas también con un grado de pérdida de memoria más allá de la falta de memoria normal. A esta pérdida de memoria se le conoce con frecuencia como tiempo perdido o amnésico.  
+Análisis clínico de la paciente: Hasta el momento es posible identificar cuatro identidades o personalidades bien definidas en la mente de la paciente. A saber: Personalidad 1, responde al nombre de Continuidad. Personalidad 2, el resto la identifican como Disidente. Personalidad 3, será identificada como Indiferente pues no recuerda tener nombre. Personalidad 4, se refiere a sí misma como Revolucionario.  
+1 (Continuidad): Sentimientos de superioridad, hipersensibilidad y respuesta agresiva ante la evaluación negativa. Excesiva emotividad y búsqueda de atención. Grandiosidad, necesidad de admiración y falta de empatía. Patrón general de desprecio y violación de los derechos de los otros. Patrón hostil, agresivo, abusador y destructivo. Preocupación por el orden y el control, a expensas de la flexibilidad, la espontaneidad y la eficiencia.  
+2 (Disidente): Sentimientos de superioridad, [hipersensibilidad](https://es.wikipedia.org/wiki/Hipersensibilidad) y respuesta agresiva ante la evaluación negativa. Excesiva emotividad y búsqueda de atención. Presencia de un exacerbado trastorno victimista. Grandiosidad, necesidad de admiración y falta de empatía. Patrón general de desprecio y violación de los derechos de los otros. Patrón hostil, agresivo y destructivo. NOTA\*: Es evidente la semejanza entre estas dos personalidades. Tal vez sea esta la raíz de la relación de odio que existe entre ellas.  
+3 (Indiferente): Sentimientos de inferioridad, trastorno bipolar tipo I (presencia de episodios maníacos alternados con graves estados depresivos). Excesiva despreocupación por su bienestar, pérdida de memoria a largo plazo. Manipulable. Excesiva pasividad ante lo mal hecho. Sentimiento de culpa que lo lleva a autolesionarse.  
+4 (Revolucionario): Sumamente empático. Sentimientos de superioridad. Excesiva emotividad. Trastornos de ansiedad social y depresivo. Déficit de atención, inseguridad, desorden. Curiosidad exacerbada. Sobre-excitabilidad psicológica. Pereza y temor extremo a la equivocación
+
+Relación entre personalidades: Continuidad se presenta como la personalidad dominante en Nubia. No reconoce la existencia de Indiferente, a pesar de interactuar a diario con este. Con Disidente la relación es más compleja pues aunque acepta su presencia no parece entender que forma parte del mismo cuerpo. Y con Revolucionario parece existir una confusión pues cuando se refiere a él lo llama Disidente, como si fueran el mismo. Hacia estas dos personalidades la actitud es agresiva, pues se piensa como la única personalidad en Nubia y las ve como cuerpos extraños que desean su muerte.  
+Disidente no está de acuerdo con que Continuidad sea la personalidad regente e intenta sabotear y desprestigiar las acciones de este. Al manifestarse se expresa como una víctima, pero queda la cuestión de si se siente así o lo finge. Incluso ha llegado al punto de auto flagelarse para acusar a Continuidad del daño. Cuando se refiere a Indiferente expresa pena por su situación pero rara vez trata directamente con él, y acusa a Continuidad de los trastornos que sufre aquél. Confunde en ocasiones a Revolucionario con Continuidad y cuando se refiere a estos no es posible discernir cuando habla de uno o de otro.  
+Indiferente no se expresa mucho, y casi todos los intentos de hacerle hablar terminan frustrados por la intervención de las otras tres personalidades, principalmente de Continuidad. Cuando asume el control permanece callado y tembloroso, aunque a veces se ríe estrepitosamente. Se muestra confundido cuando se le pregunta por Revolucionario, alarmado al mencionarle a Disidente incluso pide que no se le mencione más y mira a todos lados asustado – , y al preguntarle por Continuidad siempre repite un discurso cargado de elogios con la mirada perdida en el vacío.  
+Revolucionario se presenta con mucha formalidad, paciencia y educación. Recalca que no tiene mucho tiempo para hablar y reflexiona cada frase que sale de su boca. Demuestra una lástima profunda por la situación de Nubia, entiende que es solo un fragmento de ella e identifica a Indiferente como la personalidad original, pero revela que no sufría ninguno de los trastornos que padece hoy, aunque expresa que nunca fue feliz. Explica que ciertas circunstancias, como violencia física y violaciones repetidas fueron las causas que llevaron a Nubia a sufrir el TID. No critica directamente a ninguna de las otras personalidades pero sí sus acciones, pues asegura que todas están conscientes del problema que supone el TID, pero prefieren o ignorarlo o luchar por destruir al resto de las personalidades, lo que asegura solo llevará a Nubia al suicidio.
+
+![](/wp-content/uploads/2019/05/img-20190523-wa00271391251844.jpg "Esquema de relación entre las distintas personalidades")
+
+Esquema de relación entre las distintas personalidades
+
+**Conclusiones del caso:** En la cabeza de la paciente existe una lucha cada vez más agitada por el control del cuerpo, al punto que en ciertos momentos dos personalidades toman el control al mismo tiempo y Nubia comienza a golpearse frenéticamente a sí misma. La influencia de Continuidad y Disidente son extremadamente dañinas para Nubia. Hay que enfocarse en el fortalecimiento de Indiferente y explicarle de la existencia de Revolucionario, para intentar que juntas asuman el control y entonces trabajar por la unificación de todas las personalidades en una sola.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

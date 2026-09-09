@@ -1,0 +1,24 @@
+---
+title: "Ahorcado cuadrado"
+date: "2020-06-18T09:30:49+00:00"
+author: "Sender Escobar"
+category: "Onírica"
+image: "/wp-content/uploads/2020/06/Jean-Louis-Corby.jpg"
+---
+El anuncio en la televisión era justo lo que necesita escuchar. Llamó para ordenar. Le enviaremos otra gratis. No, gracias, con una será suficiente. Sentado en el sillón del cuarto comenzó a mirar fijo la pared. Imaginó el resultado de su obra. Mi obra, dijo para sí. Era un detallista exquisito, no a niveles enfermizos, pero buscaba a su manera la perfección.
+
+Perfecto, quedará perfecto, volvió a repetirse. Con una cámara fotográfica realizó varias tomas para encontrar los mejores encuadres, para tener en cuenta la luz natural. Mi obra, repetía cada vez que apretaba el obturador, cuando acertaba con el plano perfecto. Perfecto, así queda perfecto, habló en voz alta. Soñaba con hacer una película a lo Kubrick, impresionar desde la primera toma como un Alex DeLarge, simplemente enmudecer con el hipnotismo de la imagen, con el silencio policromado. La banda sonora sería el sonido casual de la toma, era mejor prescindir de música. Sí mejor sin música, para acercarme a la perfección sonora del chasquido, solo ruidos leves cuando la claqueta indique el inicio. Un plano fijo, sin puntos de fugas, un poco inclinado a la izquierda y listo. Las sombras de la ventana indicarían la hora, a las cuatro y treinta sería el inicio. La cámara estaría programada para culminar a los seis minutos, su obra maestra. _A masterpiece_.
+
+Miró con orgullo lo que iba a ser el inicio de su obra. Por su mente pasó la mirada fría de Alex, la sonrisa macabra de Jack con el mazo para que Tony tomara su medicina. La escena de la ducha. Pero nada como el rostro sombríamente plácido de [Heath Ledger](https://es.wikipedia.org/wiki/Heath_Ledger) y su sonrisa ampliada. Oh, magnífico. Tenía que rendirle un pequeño homenaje a Heath. Al final decidió agregarle música a la escena, pero solo sonaría en su mente, sabía que iba a privar de este magnífico recurso a sus espectadores, pero la obra era suya. Mi obra, volvió a repetirse. Se maquilló con la minuciosidad típica de un perfeccionista. Perfecto, dijo al mirarse al espejo. Repasó una y otra vez el guion. No podía permitirse ni un solo lugar común, ni siquiera uno. Miró su reloj, en cinco segundos comenzaría a filmar y él estaba más que listo, tres, dos, uno, la luz roja indicó el inicio. Miró hacia un lado como quien no se sabe filmado, volvió el rostro hacia el lente. Con el ceño fruncido inclinó la cabeza a la derecha lentamente y a medida que bajaba nacía de su rostro la sonrisa de Heath, de Jack, de Alex, incluso el grito de Janet en la bañera. Alzó el rostro aún de lado, pero esta vez fue visible el elemento que denotaría la perfección de la escena, su collar. Un collar con varios nudos detrás de su cuello y otros más en la viga que había colocado expresamente para su obra maestra. Mi obra. Abrió los brazos y con la pierna retiró la silla invisible a la toma de cámara y quedó suspendido en el aire, agarrado solo por el collar perfecto anunciado en la televisión. Bailaba a su gusto, como había imaginado, con la música reproducida en su mente. Los ojos se nublaban tras cada acorde con el un dos tres, un dos tres que bailaba sin el mayor esfuerzo. El oxígeno se le hizo esquivo, todo salía a la perfección. No tuvo en cuenta cuánto había transcurrido, pero igual solo seis minutos le eran suficientes. Aguardó hasta donde creyó el final y con unos ojos imposibles de cerrar como los de Alex dijo el adiós sublime a la cámara, a sus espectadores, a sus ídolos homenajeados, Perfec…quiso concluir sin éxito.
+
+[Otro texto del autor](/politica-en-cuba/)
+
+## Autor
+
+-   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
+    
+    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
+    
+    [](mailto:lis.dds1@gmail.com)

@@ -1,0 +1,36 @@
+---
+title: "Las dos caras de Brasil"
+date: "2018-04-14T16:15:06+00:00"
+author: "Mario Valdés Navia"
+category: "Política"
+image: "/wp-content/uploads/2018/04/lula.jpg"
+---
+En 1999 salí de Cuba por primera vez y estuve casi dos meses trabajando en la Universidad Federal de Pernambuco (UFPE), en Recife, Brasil, donde fundé la Cátedra José Martí (CJM) e impartí docencia. Después estuve una semana en Sao Paulo, en la casa de una pareja cubana. Fue tan grata e impactante la experiencia que al regresar me dije: “Si tuviera que escoger solo un país extranjero para visitar volvería siempre a este”. Hoy, cuando conozco otros cuatro países latinoamericanos sigo pensando igual, pero prefiero el Brasil al que retorné en 2008, el de Lula presidente, lleno de esperanzas y realizaciones.
+
+En la primera visita mis amigos del sindicato de educadores de Recife me hablaron mucho de Lula, y al visitar el _sertão_, la gran planicie semiárida del interior, conocí el entorno en el que creció el pequeño Luis, pues llegué a estar cerca de su casa natal, en Caetés. Aquella tierra de gente recia y hospitalaria, con una historia de sempiterna violencia, ha convertido en leyenda a la figura del más famoso jefe de los bandidos _cangaceiros_, Lampião –siempre acompañado de su mujer María Bonita−, lo cual no dejaba de parecerme un ajiaco entre Macondo, Robin Hood y Bonny and Clyde.
+
+Desde que llegué a Recife disfruté de la hospitalidad y el afecto de las autoridades del Centro de Educación, de su rector, el inolvidable Joao Francisco de Souza, y conocí a un grupo de profesores, estudiantes, intelectuales y grupos de izquierda que hablaban de Cuba con respeto y cariño. En esas conversaciones siempre aparecía Lula, de un modo u otro, asociado a la expectativa de triunfo de un proyecto de Brasil libre de la tiranía neoliberal y capaz de satisfacer las necesidades básicas de millones de excluidos −hambre, desempleo, drogas, violencia urbana y rural− que convertían aquella tierra hermosa en un infierno para los pobres.
+
+Tanto en Recife como en Sao Paulo, la belleza de la ciudad no podía ocultar la proliferación de caras famélicas, el temor a los asaltos, secuestros y el triste espectáculo de las familias de mendigos que vivían debajo de las vidrieras y a la entrada de _lojas_ y restaurantes. En el campus del Centro de Educación pernoctaban miles de campesinos del Movimiento Sin Tierra apoyados por las autoridades universitarias y la mayoría de la población. En los noticieros de la mañana aparecían casi a diario decenas de jóvenes y adolescentes fusilados sin juicio por la Policía Militar en los barrios pobres, aunque no existía la pena de muerte.
+
+Me llamó mucho la atención que no hubiera discusión respecto a quién sería el candidato presidencial de la izquierda, aunque tres veces se había presentado Lula y había perdido con los aspirantes de la derecha. Primero, en 1989, con el _playboy_ Fernando Collor de Mello, ídolo de la oligarquía y los poderosos medios masivos y luego, en 1994 y 1998, con el entonces presidente, Fernando Henrique Cardoso, quien a pesar de su historial de revolucionario juvenil, enemigo de la dictadura y hombre de centro, aplicaba una severa política de ajuste neoliberal. A pesar de esas amargas derrotas, el pueblo seguía soñando con el triunfo de Lula y ya se preparaban para las elecciones de 2002, que lo convirtieron − ¡al fin!− en el primer presidente obrero de la historia brasileña. Como él mismo dijera en su toma de posesión, por primera vez obtenía un título, el de presidente de su país.
+
+Luego supe de los cambios positivos que ocurrían en Brasil y vi a Lula, junto a Fidel, Chávez, Kirchner, Correa y Evo, encararse al imperialismo global y conformar un frente de gobiernos progresistas que darían otra faz a Nuestra América, más martiana y bolivariana. Pero no es lo mismo leer y escuchar que ver y constatar, cosa que pude hacer en el 2008, cuando regresé a Recife, invitado a los festejos por el décimo aniversario de la CJM y el VI Encuentro Internacional de Cátedras Martianas.
+
+Estar allí y compartir con el incansable Rodriggo y su colectivo de entusiastas de la CJM me permitieron confirmar cuánto había cambiado el país. La cantidad de jóvenes y adultos que estudiaban en la universidad se había multiplicado, en las calles casi no se encontraban mendigos, y los niveles superiores de empleo y salud se apreciaban en los rostros de alegría de la mayoría de los ciudadanos. La política del PT y sus aliados de _virarse hacia adentro_: incrementar la producción industrial, los salarios y los créditos de consumo, habían disparado el mercado interno y atraído al capital extranjero como nunca antes, al tiempo que se pagaba la deuda con el BM-FMI.
+
+Pero sus éxitos mayores estaban en la política social. El plan _Hambre Cero_ liquidó la desnutrición, y la _Bolsa Familia_ ayudó a sacar de la pobreza a más de 30 millones de habitantes. Este es el hombre que hoy pretenden condenar, encarcelar y borrar de la política para que el nuevo frente oligárquico continental se consolide aún más. Ojalá, cuando regrese a Brasil, sea al de Lula, no al de la burguesía trasnacional y el FMI.
+
+Tomado de [La Joven Cuba](https://jovencuba.com/2018/04/09/las-dos-caras-de-brasil/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

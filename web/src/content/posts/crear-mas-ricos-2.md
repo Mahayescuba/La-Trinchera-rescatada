@@ -1,0 +1,55 @@
+---
+title: "mercado mayorista en Cuba"
+date: "2020-08-19T16:00:00+00:00"
+author: ""
+category: "Economía en Cuba"
+image: "/wp-content/uploads/2020/08/Sebastian-Freitag.jpg"
+---
+_Lo que conduce a una interrogante, ¿de qué sirve ese mercado mayorista en Cuba, si su presencia puede aumentar el desabastecimiento?_
+
+**Por: Miguel Alejandro Hayes**
+
+La llamada _actualización del modelo económico_ cubano trajo consigo la apertura a nuevas formas de propiedad, de las que destaca la privada. Esta, que nace en un rudimentario marco regulatorio, trae algunos reclamos para su mejoramiento. De ellos, uno de los más conocidos es el de la creación de un mercado mayorista, donde se puedan adquirir insumos a un menor precio.  
+Cabe destacar que la cuestión no radica en la existencia de un espacio físico-geográfico que brinde estas facilidades. Es decir, este mercado no es un lugar, sino que se refiere a las relaciones -y sus características- de intercambio, en la cual los privados compren lo necesario para su proceso productivo a menor cuantía. Por eso, la cuestión esencial es la de los precios y las cantidades de esas compras.  
+Como ya han señalado algunos expertos, solo habría que crear las regulaciones -casi sin requerimientos logísticos- para que, dentro de la misma red minorista, estos adquieran lo que necesiten a precio mayorista -o preferencial, no importa la terminología. Todo ello, apoyado en un proceso que utilice mecanismos de verificación como el uso de la licencia del (en ocasiones) mal llamado Trabajo por Cuenta Propia (TCP). Por ejemplo, para evitar corrupción u otras prácticas.  
+Este “necesario” cambio se ha convertido en una demanda que viene desde los propios interesados -los privados-, académicos, e incluso de una parte de la burocracia política y económica. La racionalidad que se utiliza en su defensa alega que todo será por el bien social, con un efecto directo positivo sobre el consumidor. Hoy, el mercado mayorista es, pudiéramos decir, una pequeña realidad.
+
+El hecho de la reducción de los costos, resultante de los precios favorables por compras mayoristas, hará que los privados reduzcan los precios de los bienes y servicios que ofrecen, en beneficio del consumidor, se dice.  
+Dentro de los marcos del esquema en el que tales ideas se plantean, parece todo verdadero. Pero como la verdad sólo es resultado de la coherencia dentro del sistema teórico en que es planteada, habría que recurrir a otro marco referencial para obtener otros resultados, y llevar la cuestión a otros términos.  
+Para ello, hay que incorporar a la modelación algunas determinaciones de la producción, como el volumen de la producción (ya sea de interna o de importación) de la que se nutrirán las facilidades mayoristas, y del cual deriva una relación con el resto de los agentes de la economía, sobre todo los consumidores. Lo que conduce a una interrogante, ¿de qué sirve ese mercado mayorista, si su presencia puede aumentar el desabastecimiento? Los negocios como cafeterías (en la aceptación cubana) podrán comprar a menor precio que, dependiendo del monto que adquieran, dejarán al consumidor sin ese producto (ejemplo, aceite, pollo). Así que, en condiciones de escasez -como la que tenemos actualmente- **la existencia de tal mercado mayorista, sin un crecimiento productivo de esos artículos que se podrían comprar al por mayor, pondrán a los decisores en un balance de cuánto destinar al consumo de la población, contra el consumo de las materias primas de los privados.**  
+Se deberá decidir si satisfacer las necesidades de la población, o del capital privado, o combinaciones de ambos. Por lo que, desde esta óptica, la medida _per se_ no sería algo favorable al consumidor, aunque ciertamente, sí al privado. Excluyo aquí el efecto sobre la empresa estatal.  
+Por otro lado, es sabido que el mercado no es libre, que sus reglas se fijan en sociedad, que este es un resultado de las condiciones resultantes de determinada cultura y su traducción en instituciones… En esa lucha, la figura -relaciones- de monopolio juega un papel clave. Por eso, no se puede hablar del comportamiento de los precios sin el monopolio, y esta es otra determinación. Este, en cualquiera de sus formas histórico concretas, se caracteriza por la imposición de precios -o por manipularlos.  
+De ahí que deba tenerse en cuenta la existencia de ciertas relaciones y comportamientos, de estructuras monopólicas (oligopólicas, cárteles, da igual el paradigma desde el que se entienda) de privados en algunas ramas, por ejemplo, los centros de recreación nocturnos. Estos, vistos en su conjunto, y algunos por separado, son un monopolio por la posición exclusiva que ejercen frente al consumidor, siempre entendido en una espacialidad geográfica.  
+Esos negocios sirven de caso para esbozar algunas ideas. Es un sector altamente lucrativo, que no hará descender sus precios por una reducción de sus costos. Su condición de monopolio se los permite. Piénsese en su porqué.  
+Hay que recordar que estos servicios no funcionan para el consumidor por una racionalidad de optimización económica-monetaria. Su público -el que ya poseen- no depende de los precios, sino cuán de moda esté el establecimiento y, en estos casos, el estatus de monopolio permitirá que los precios de sus servicios -incluso- asciendan. Es decir, para qué bajar los precios, si de todos modos irán a su negocio a consumir. Los bares puestos de moda ejercerán su condición privilegiada y exclusiva, y no estarán interesados en disminución de sus precios por mejorar sus costos, si pueden como mínimo mantenerlos.  
+También existen mercados monopolizados respecto al consumidor, donde toda la oferta se concentra en un reducido grupo de productores en determinada espacialidad, y el precio puede direccionar los clientes de un productor a otro. En estos, si ninguno puede por el volumen de su producción imponer condiciones, ninguno venderá más barato, ya que de todos modos (como todos juntos son un monopolio y por separado no tienen poder de mercado) le corresponde una cuota de este mercado (una demanda). Por lo que no tiene sentido bajar el precio, si de todos modos venderá. En otras palabras, como ningún otro productor puede vender a un precio menor y en cantidad como para que los competidores pierdan sus clientes y gane en nivel de ventas este, no tiene sentido alguno que disminuya sus precios. Este hecho de que los productores sean precio-aceptantes, hace que ninguno despunte en una guerra de precios contra los demás, y de manera inconsciente -aunque he llegado a pensar que son conscientes- cooperan para su preservación.  
+Ese ejemplo de los bares de La Habana es uno de los casos que ilustra que, con brindar menores costos, dadas las relaciones de monopolio respecto al consumidor, solo se beneficia al productor. Hay muchos otros sectores donde se da esta relación en que el productor (o un grupo de ellos) impone condiciones. Cuestión que debe entenderse siempre en una espacialidad y tiempo determinado.  
+Resumiendo, los monopolios se imponen, y de la misma manera que puede hacerlo Etecsa, lo hacen los privados, siempre que se piense en la relación de monopolio enmarcada en determinada temporalidad, espacialidad, y sobre determinado resultado de la actividad humana.
+
+Se ha pensado que los precios se deben a un criterio de costos, cuestión que oculta las condiciones sociales que lo sustentan. Después de todo, si una empresa fija precio, hay un segundo momento en donde la sociedad lo valida. Lo que quiere decir que se puede poner el precio que quiera, que a la sociedad no le importa cuánto costó, y no se compra por eso, sino por la necesidad del producto en interacción con su grado de escasez, y ahí el productor aprovecha para fijar sus términos (donde puede, se impone como monopolio). Nadie compra un producto traído de Panamá, Guyana, etc., al precio elevado que tiene, por clemencia con el importador, sino porque lo necesita, y dada su escasez  (cuánto se puede encontrar en otro precio     -regularmente- ese producto) está dispuesto a pagarlo. **Por eso, lo que está en última instancia detrás de todo precio elevado es la posibilidad de ser impuesto, por ser monopolio.**  
+Entonces, los mercados mayoristas no es garantía, en cuanto no es un mecanismo institucional, y menos económico, para estimular una reducción de precios en el sector privado. El efecto novedoso será un mayor enriquecimiento de los ya ricos, que continuarán con sus precios de venta, se reducirán sus costos; y se puede agregar que crezcan algunos que eran pequeños. Si ya los dueños de bares de La Habana son ricos, imagínese, lector, con una reducción significativa de sus costos de bebidas, etc. No dudo que haya quienes actúen con humanismo y reajusten sus precios, pero será un fenómeno que dependerá de las particularidades de la subjetividad, y no de una causalidad.  
+A todo ello, la política pudiera ser un sistema de impuestos asociado al nivel de precios del consumidor, o topar precios, pero la poca experiencia en manejo de este tipo de cuestiones en la economía interna, las relaciones de monopolio, y el contexto de escasez, pudieran generar el efecto contrario, como ha ocurrido ya en la agricultura, o con el tratamiento al transporte privado en la capital.  
+Por otro lado, no considero que la política sea crear ricos cada vez más ricos en espera de que un día eso se vierta sobre la sociedad, más en una sociedad donde es casi un ausente absoluto el discurso de responsabilidad empresarial.
+
+Se podría apostar por ir generando una proyección económica que se centre en el consumo de los ciudadanos (material y espiritual), en ir beneficiando a estos (nosotros) en el presente.  
+No quiere decir que esta lógica de [monopolio](https://es.wikipedia.org/wiki/Monopolio) se dé en todo lo privado, y mucho menos que por eso haya que renunciar al mercado mayorista, sino que hay que mirar con atención su creación sabiendo, al menos, qué representa realmente. No vaya a ser que, en vez de ayudar a la población, al ciudadano de a pie, solo se le mejore la vida no precisamente a los que más la necesitan.
+
+Y es necesario generar riqueza, pero riqueza social, no de unos pocos.
+
+Nota: Esta es la versión actualizada del post publicado en diciembre de 2018 con el mismo título.    
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/soltar-las-amarras/
+
+mercado mayorista en Cuba mercado mayorista en Cuba mercado mayorista en Cuba mercado mayorista en Cuba mercado mayorista en Cuba
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Escribo por inspiración. Coordinador de este proyecto
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)[](https://hayesmartinez.trincheracuba.com)

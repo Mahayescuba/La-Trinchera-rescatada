@@ -1,0 +1,29 @@
+---
+title: "Marcha alternativa por los derechos LGBTIQ en Cuba"
+date: "2019-05-14T06:31:59+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/05/IMG_20190514_022441.jpg"
+---
+Marcha alternativa por los derechos LGBTIQ en Cuba.
+
+##### Fotografía: Yolo
+
+**Por: Boris**
+
+Pudiera remontarme a Platón y su “[Politeia](https://es.wikipedia.org/wiki/Politeia)” para empezar una crítica a la tan llevada y traída “Democracia”. Ya desde entonces se puede apelar a los mismos puntos: una plebe estupidizada por demagogos y un Gobierno de casta superior que la sirve en la medida en que le es funcional mientras se nutre de ella. Y los resultados son siempre los mismos, colapsos político-económicos-sociales que terminan decantando en Dictaduras apoyadas en un restablecimiento de la moral…moral tradicional…moral fascista…moral socialista…¡Derechos Humanos! Esa es la pacto final que el Estado (democrático, liberal y postmoderno) le ofrece a sus ciudadanos. Es el camino del “progreso” renunciando a la “libertad”.  
+Lo pasado en Cuba el pasado sábado en la Marcha Alternativa por los Derechos de la Comunidad LGBTIQ en Cuba es increíblemente triste. Retrotrae la realidad política a la época un debilucho James Carter se dejó inundar Florida por lo que un Fidel Castro llamaba “escoria” (expresidiarios, enfermos mentales y homosexuales). Ha pasado casi cuarenta años pero los bisoños y gallardos represores de entonces hoy ostentan estrellas en sus uniformes y son los encargados de transmitir la moral “revolucionaria” a sus subalternos…o sea, ¡la homofobia está garantizada en FAR, MININT y PCC!  
+La actuación de Mariela Castro se presta a muchas interpretaciones. Algunos rumores hablan de que la cancelación de la Conga fue en contra de su voluntad. El hecho es que, visto desde la lógica del juego de poder, su nombre ha quedado severamente dañado entre sus seguidores. Pienso entonces que el actual Presidente, confeso heteroaliado, ha demostrado su incapacidad para manejar los verdaderos poderes en Cuba. Pero lo más dañado de todo ha sido la imagen de la “Democracia Cubana” pues el mismo proceso que parecía iba a aprobar el matrimonio igualitario de manera autoritaria -es evidente lo rentable que puede resultar para la economía cubana- aprobó el derecho a manifestarse. ¿Cuál es el mensaje? ¿Para qué se gastaron tantos recursos en propaganda de “Yo Voto Sí”? son preguntas que terminan engarzadas a una fundamental y es: ¿Dónde radica la legitimidad del Estado Cubano? Y la única respuesta es que se sustenta en un inmenso aparato represivo cuya eficiencia radica, precisamente, en su moderación. Comparemos la estadística de 0 muertos y ningún herido grave con las de bellas y flamantes Democracias como Argentina (permite el matrimonio igualitario) y Francia (donde les gustan todos los colores menos el amarillo)…  
+Mi respeto a todas las personas que fueron a esa marcha haciendo uso de su Libertad. Mi respeto para todos aquellos que fueron violentados por ello. Pero jamás voy a respetar que alguien reclame al Estado un derecho. Incluso cuando venzan será nada más que una concesión. Tengo muchas amistades LGBTIQ y los he visto compartir techo y comida cuando uno es expulsado de su casa. Los he visto ser más cristianos que muchos de los que los condenan al infierno y más empáticos. Entonces, ¿por qué reclamar ser parte de ese mundo que los aparta? Aclaro que quien habla es blanco, heterosexual y cisgénero. Lo único que puede darme cierta voz como excluido es el hecho de ser parapléjico. Como anarquista les recomiendo que no pacten. Quédense con la Libertad que tienen y háganla crecer.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

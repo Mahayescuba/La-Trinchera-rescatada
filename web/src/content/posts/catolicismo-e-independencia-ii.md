@@ -1,0 +1,57 @@
+---
+title: "Catolicismo y guerras de independencia en Cuba"
+date: "2018-10-29T18:09:38+00:00"
+author: ""
+category: "Historia"
+image: "/wp-content/uploads/2018/10/iglesia-cubana-1.jpg"
+---
+Catolicismo y guerras de independencia en Cuba.
+
+## A 150 años del histórico grito de Yara
+
+Para ver la primera parte de [Catolicismo e Independencia](/historia/)
+
+**Por: Julio Pernús**  
+En este momento de mi ensayo es necesario señalar que existía una plataforma ideológica con varios puntos en común entre la Iglesia católica y el gobierno español. No verlo así, puede ser un intento efímero de falsear la verdad. Esto se traduce también en campos tangibles de colaboración. Pero una parte importante de la historiografía cubana, entre los que me sumo, señala que: “… al menos entre 1868 y 1874 no puede hablarse de unidad incondicional entre la Iglesia católica y el dominio colonial (…)” (1)  
+Por consiguiente, podemos corroborar que durante la “Guerra de los Diez Años” no existía una cohesión monolítica entre ambos poderes frente al proceso de formación de la nacionalidad cubana, como sí sucederá después y marcará toda la Guerra del 95. Había en ese contexto una división notable del clero por razones políticas. Los sacerdotes de origen español eran incondicionales al poder colonial, los consagrados de origen cubano, en su mayoría eran partidarios de la independencia. Esto se puede legitimar a través de historias de vidas, en la que se relatan los desafíos morales, que tenía para cualquier sacerdote cubano, el hecho de asumir una conducta pro-española.  
+El clero criollo también se sumó a la lucha más cruda por alcanzar la independencia, incluso alguno llegó a optar por la opción de las armas. Lo cual no quiere decir que todos los sacerdotes nacidos en Cuba se fueran a la manigua, o que pudieran hacer explícito sus intereses como grupo político pro independentista; no podemos obviar que había sacerdotes cubanos subyugados a España, pero no eran mayoría. A muchos de los clérigos comprometidos con la gesta libertadora, se les abrió un proceso judicial y se les cerró el acceso al púlpito por esos motivos, lo que limitó notablemente la envergadura de su labor como una fuerza política desde la Iglesia. Todo esto bajo el paraguas del Patronato Regio que funcionaba como un chaleco de españolización al interior de la Iglesia criolla, logrando que todo el impacto del clero mambí fuera reducido a una mínima excepción.
+
+En algún momento los libros de enseñanza oficial de la Historia de Cuba harán referencia al coraje de varios sacerdotes que lo dieron todo por la gesta independentista como: Francisco Esquembre y Guzmán, párroco de la iglesia de Nuestra Señora del Rosario de Yaguaramas, actual diócesis de Cienfuegos; este hombre fue fusilado por los colonialistas españoles, solo por bendecir la bandera cubana y no renunciar a su patriotismo. Otro presbítero perseguido por insurgente fue, Jerónimo Izaguirre, que oficiaba en la parroquia de Barrancas, perteneciente a la actual provincia de Granma. En Bayamo, frente a la Iglesia Mayor, los padres Diego José Batista y Juan Luis Soleilacse atrevieron a bendecirla bandera y cantaron un “Te Deum” en honor a los insurgentes. Eusebio Bejarano y Ruiz, cura párroco de la iglesia de San Juan de los Remedios perteneciente a la diócesis de Santa Clara, fue obligado a exiliarse en el extranjero, debido a la persecución de las autoridades coloniales por su contribución a la causa de la libertad. El sacerdote Julio Villasana Mas, sirvió como subordinado de los generales Donato Mármol y Vicente García, quien por su labor llegó a considerarlo capellán del [Ejército Libertador](https://es.wikipedia.org/wiki/Ej%C3%A9rcito_Mamb%C3%AD).(2)  
+Aunque los hombres antes mencionados marcan una ruta diferente dentro del papel del clero criollo en la gesta independentista, había muchos otros consagrados que fueron utilizados como aliados incondicionales del poder español. “Esto generó en el emergente pensamiento criollo y en la práctica social un anticlericalismo que marcó a la sociedad cubana, aunque no se manifestó en niveles extremos como en otras regiones.”(3)
+
+“El clero católico que se sumó a las luchas gozó de entera libertad religiosa. Abundan los testimonios y las pruebas documentales sobre la celebración en el campo insurrecto de matrimonios y bautizos. El 14 de octubre de 1869 en ocasión del primer aniversario de la proclamación de la independencia se efectuó una misa oficiada por Emilio Izaguirre, en el acto se paseó la bandera y Céspedes pronunció un discurso. ” (4)  
+Céspedes era un hombre con un alto sentido común y a pesar de ser masón, siempre intentó dentro de su gobierno, una relación de cordialidad con los representantes de la Iglesia Católica. Él creía que un pueblo educado en el catolicismo como Cuba, no podía romper violentamente con el pasado. Consecuente con estas ideas, trató de influir en la imaginación popular, para rodear a la autoridad de mayor credibilidad. Concedió a la Iglesia las mismas prerrogativas que hasta entonces había tenido, apoyándose en ella para robustecer el respeto y el compromiso del criollo por una causa justa.(5)  
+Aunque de seguro sobre estas temáticas seguirán apareciendo múltiples puntos de vistas, se hace comprensible reconocer que los líderes independentistas le dieron a la estructura eclesial un papel significativo en el inicio y desarrollo de la justa independentista de 1868.Sobre todo, presidido por el afán de sumar las potencialidades de esta gran institución en la causa insurreccional. Esto también es una porción indestructible de la verdad. El liderazgo revolucionario procedía en su mayoría de la masonería, lo cual si bien no estaba reñido con cierta religiosidad católica más o menos presente en todos ellos, define la ausencia de compromisos confesionales con la Iglesia. La conducta de Céspedes y sus seguidores frente a la religión cristiana estaba influida también por consideraciones políticas, pero en ese ambiente belicista, ¿qué no lo estaba?  
+Al menos en varios apuntes históricos queda reflejado que, durante la Guerra de los 10 Años “convivieron masonería y catolicismo entretejidos en una colaboración de amplia libertad de conciencia, sin entrar a especular sobre la presencia de cultos africanos.”(6) Los mambises cubanos no pusieron en práctica la degollina de clérigos que la revolución española no pudo evitar. La República en Armas, no proyectó una política antirreligiosa ni alentó represión de ningún generó contra la Iglesia. El único caso de asesinato de un sacerdote fue protagonizado por el brigadier canario Juan Monzón y el mismo fue ejemplarmente castigado.  
+El clero católico que se sumó a las luchas fue bien recibido, porque entre muchos motivos, se jugaban la vida tanto como el más heroico mambí. Los sacerdotes cubanos que se fueron a la manigua lo hicieron con su condición religiosa y su actividad fundamental estuvo dirigida a cumplir las funciones de su ministerio sacerdotal.  
+Hubo muchos que llegaron a ostentar grados relevantes como: el presbítero Braulio Cástulo de los Dolores Odio Pécora, cura de la parroquia de Manatí, incorporado a la revolución desde 1868 vivió en la manigua los diez años que duró la guerra. Él logró alcanzar el grado de coronel en las filas mambisas, pero no porque se distinguieran con las armas en la mano, sino por su noble comportamiento al prestar auxilio a los heridos en combate. El padre Odio cultivaba relaciones con el más alto liderazgo revolucionario en particular con Céspedes.  
+Es indudable que muchas veces interpretamos el pasado como algo que solo puede ser examinado en blanco y negro; pero la realidad es mucho más plural. La Historia en mayúscula no tiene porque ser algo tedioso y aburrido. Las ciencias sociales tienen el reto de seguir profundizando en los laberintos del pasado. Es imperdonable que al celebrar los “150 años del Grito de Yara,” nosotros los católicos cubanos, no tratemos de indagar y profundizar en los hechos que unen al catolicismo con la gesta independentista de nuestra nación. Para terminar mi ensayo quisiera regalarles una breve reseña realizada por el periódico Diario Cubano en homenaje al injustamente fusilado padre Esquembre.  
+“…Era una de esas almas para quienes la vida tiene poesía y encanto en todas las edades; que saben sufrir un día un gran dolor, pero que jamás sienten secarse el manantial de ilusiones de que el destino las ha llenado; que se apasionan por todas las ideas grandes y elevadas; que creen en la virtud de los hombres y en la santidad de los principios, y que antes de sacrificar uno solo de estos, prefiere perderlo todo, empezando por su existencia…”(7)
+
+Notas y Bibliografía  
+(1)Nota del autor a partir de una conferencia ofrecida por el Dr. Edelberto Leiva Lajara en el Centro Loyola, para presentar el libro de José Luis Sáez sobre la historia de los Jesuitas en Cuba.  
+(2)Datos consultados por el autor del texto de: Barrios González René; La sagrada independencia; enhttp://www.granma.cu/cuba/2015-09-18/la-sagrada-independe. Consultado el 30 de mayo de 2018.  
+(3) Ramírez, J; Impactos de las guerras independentistas en el campo religioso cubano, en revista Temas, La Habana, no. 12 y 13.1998.  
+(4) Ricardo Segreo Rigoberto; Iglesia y Nación en Cuba (1868-1898); Editorial Oriente; Santiago de Cuba año 2012; página 198  
+(5)Idea elaborada por el autor a partir de la lectura del texto de, Eladio Aguilera Rojas: Francisco V. Aguilera y la revolución de 1868, Librería e imprenta de la moderna Poesía, La Habana, 1909, t I, pp 42-43.  
+(6) Juan J. Pastrana; Ignacio Agramonte. Documentos. Editorial de Ciencias Sociales, La Habana, 1974, pp 150  
+(7) Diario Cubano. Nueva York, 5 de mayo de 1870. Página 2.
+
+Cuevas Torres Eduardo: Obispo Espada, Ilustración, reforma y antiesclavismo, página 25; Editorial de Ciencias Sociales, La Habana, 1990.  
+Juan J. Pastrana; Ignacio Agramonte. Documentos. Editorial de Ciencias Sociales, La Habana, 1974  
+Monseñor. Polcari Suarez Ramón; Historia de la Iglesia Católica en Cuba; Tomo I, editado por Ediciones Universales de Miami año 2000. P. 436  
+Suárez Raúl (Coordinador); Fe por Cuba; Editorial Caminos, La Habana, 2016.Página 203.  
+Ramírez, J; Impactos de las guerras independentistas en el campo religioso cubano, en revista Temas, La Habana, no. 12 y 13.1998.  
+Ricardo Segreo Rigoberto; Iglesia y Nación en Cuba (1868-1898); Editorial Oriente; Santiago de Cuba año 2012
+
+Datos del Autor: Julio Norberto Pernús Santiago; 29 años, Licenciado en Comunicación Social por la Facultad de Comunicaciones de la Universidad de la Habana. Expone su Maestría en Historia Contempérame y Relaciones Internacionales el 15 de Junio de 2018. Redactor de Vida Cristiana.
+
+Catolicismo y guerras de independencia en Cuba. Catolicismo y guerras de independencia en Cuba. Catolicismo y guerras de independencia en Cuba. Catolicismo y guerras de independencia en Cuba.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm) [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

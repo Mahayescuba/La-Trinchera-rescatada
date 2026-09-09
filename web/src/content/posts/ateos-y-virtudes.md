@@ -1,0 +1,55 @@
+---
+title: "Los ateos también pueden ser virtuosos"
+date: "2019-05-09T06:09:11+00:00"
+author: ""
+category: "Opinión"
+image: "/wp-content/uploads/2019/05/van-Eick-canon_dtl2-1.jpg"
+---
+ateos y moral.
+
+**Por: Michael W Hickson**
+
+Por siglos en el Mundo Occidental la idea de un ateo moralmente bueno le resultaba contradictoria a la gente. La bondad moral era comprendida primariamente como resultado de tener una buena conciencia, y a su vez una buena conciencia era comprendida en términos de la Teología Cristiana. Ser una buena persona significaba escuchar y seguir intencionadamente la voz de Dios (consciencia). Mientras que un ateo, al no reconocer la voz de Dios, al estar sordo a los mandamientos morales divinos, no podía más que ser un hombre sin ley y un inmoral. Sin embargo hoy es bastante comprendido-sino completamente- que un ateo si puede ser moralmente bueno.
+
+> ¿Cómo esa asunción cambió? ¿Y quién ayudó a cambiarla?
+
+Una de las más importantes figuras en esta historia es el historiador y filósofo hugonote Pierre Bayle (1647-1706). Su Ideas diversas sobre el cometa de 1680, en apariencias dedicado a echar abajo errores y opiniones populares acerca de los cometas, fue un bestseller bastante controversial y uno de los trabajos fundacionales de la ilustración francesa. En este, Bayle lanza una batería de argumentos a favor de la posibilidad de un ateo virtuoso.  
+Bayle comenzó su apología de la causa de los ateos con una para entonces escandalosa observación:  
+No es más extraño para un ateo vivir de manera virtuosa que para un cristiano hacerlo de manera criminal. Vemos este último tipo de monstruos todo el tiempo, por lo tanto, ¿por qué debemos pensar que lo primero es imposible?  
+Bayle le presenta a sus lectores un grupo de ateos virtuosos, de todos los tiempos: Diagoras de Melos, Teodoro, Evémero, Nicanor, Epicuro. El hizo notar que la moral de esos hombres fue estimada tan alta que los cristianos posteriores se vieron forzados a negar que ellos hubieran sido ateos, en orden a mantener la superstición de que los ateos son siempre inmorales. De su propia época, Bayle introdujo al filósofo Lucilio Vanini (1585-1619), a quien se le cortara la lengua antes de ser estrangulado y quemado en la hoguera por negar la existencia de Dios. Por supuesto, aquellos que asesinaron a Vanini de tan refinada manera no eran ateos.
+
+> Lo que debemos preguntarnos, Bayle sugiere, es si los creyentes religiosos-y no los ateos- pueden alguna vez ser moralmente buenos.
+
+Bayle concede que los cristianos poseen principios verdaderos sobre la naturaleza de Dios y la moralidad (nunca sabremos si Bayle era el mismo un ateo). Pero, en nuestro mundo decadente, la gente no actúa en base a sus principios. La acción moral, la cual concierne al comportamiento exterior y no a las creencias internas, es motivada por pasiones, no por teorías. El orgullo, el amor propio, el deseo de ser honrado, la persecución de una buena reputación, el miedo al castigo, y mil costumbres adoptadas en la familia o el país de uno, son más efectivos resortes para la acción que cualesquiera creencias acerca de una existencia autocreada llamada Dios, o el argumento de una Primera Causa. Bayle escribe:  
+Así nosotros vemos que del hecho de que un hombre no tenga religión no se sigue necesariamente que este tenga que cometer toda clase de crímenes, o dedicarse a toda suerte de placeres. Se sigue solo que él se verá compulsado a aquello que por su temperamento, o por su disposición de ánimo, considere más importante.  
+Si se los deja actuar solo en base a sus pasiones y a sus costumbres habituales, ¿quién actuará mejor: un ateo o un cristiano? La opinión de Bayle es evidente dada la yuxtaposición en su obra citada de capítulos dedicados a los crímenes de los cristianos, y capítulos dedicados a las virtudes de los ateos. La causa de los peores crímenes de los cristianos es repetidamente identificada con el falso fervor religioso, una pasión que se enmascara como amor a Dios, pero que en realidad se equipara al partidismo político-religioso mezclado con el odio a todo el que es diferente. El recuerdo de las recientes guerras religiosas le demuestra a Bayle que las creencias religiosas inflaman nuestras más violentas tendencias:  
+Conocemos la impresión que causa en la mente de la gente el pelear por la preservación de sus templos y altares… cuan corajudos o atrevidos nos volvemos cuando nos obsesionamos con conquistar otros templos y altares por medio de la protección de Dios, y cuando somos animados por la natural aversión que sentimos por los enemigos de nuestras creencias.
+
+> Los ateos carecen de falso fervor religioso, por lo tanto podemos esperar que ellos vivan vidas más apacibles.
+
+No obstante, Bayle no establece exactamente la posibilidad de un ateo virtuoso. El tipo de comportamiento en el que él se concentra es el superficialmente bueno. En la época de Bayle, para ser verdaderamente bueno había que tener una conciencia y seguir sus indicaciones. En Ideas diversas…, él no declara que los ateos puedan tener una buena conciencia. De hecho, el pesimismo de Bayle alcanza su pináculo en el experimento mental basado en la visita de una especie inteligente alienígena. Bayle clama que a esos aliens les tomaría menos de 15 días para concluir que la gente no conduce su vida de acuerdo a los dictados de su conciencia. En otras palabras y al hablar propiamente, muy poca gente en el mundo es moralmente buena. Por lo tanto los ateos simplemente no son peores que los creyentes religiosos, y en la superficie de su comportamiento pueden incluso aparentar ser superiores. No obstante, aunque no es tan ambicioso para sostener que los ateos pueden ser completamente virtuosos, esta posición inicial suya es uno de los hitos fundacionales de la historia del secularismo.  
+Bayle retomó sus Ideas diversas… par de veces en su carrera, una primera vez con Adiciones a Ideas diversas sobre el cometa (1694), y una segunda con Continuación de Ideas diversas sobre el cometa (1705). En este último trabajo Bayle estableció las bases fundacionales de una moral completamente secular, de acuerdo con la cual los ateos podrían ser tan moralmente virtuosos como los creyentes religiosos. Él comienza su discurso sobre el ateísmo con la más poderosa objeción que pudo encontrar contra la posibilidad de un ateo virtuoso.  
+Debido a que los ateos no creen en que una sagrada e infinita inteligencia ordena y prohíbe ninguna cosa, ellos tienen que persuadirse de que, considerada en sí misma, ninguna acción es buena o mala, y que lo que llamamos bondad o falla moral depende solo de las opiniones de los hombres; de lo que se sigue que, por su naturaleza, la virtud no es preferible al vicio.  
+El desafío que Bayle acepta es explicar cómo los ateos, quienes no reconocen una causa moral del Universo, pueden sin embargo reconocer cualquier tipo de moral objetiva.  
+Él usó una analogía con las matemáticas.
+
+> Los ateos y los cristianos discrepan en los basamentos de la verdad matemática.
+
+Los cristianos creen que Dios es la fuente de toda verdad, mientras que los ateos no. No obstante, las discrepancias metafísicas sobre la fuente de la verdad de los teoremas de triángulos no hacen diferencia cuando simplemente intuimos su verdad. Cristianos y ateos todos vemos con claridad en nuestras mentes que la suma de los ángulos interiores de cualquier triángulo es igual a dos ángulos rectos. Para el propósito de las matemáticas, las visiones teológicas son irrelevantes. Lo mismo para la moral: si uno cree que la naturaleza de la justicia está sustentada en la naturaleza de Dios, o en la naturaleza de una Naturaleza sin Dios, no hace diferencia. Todos estamos de acuerdo en que la justicia requiere que mantengamos nuestras promesas y devolvamos lo que se nos ha prestado.  
+El más sorprendente argumento de Bayle consiste en que los cristianos y los ateos estamos de acuerdo acerca de la fuente de las verdades de la moral. La vasta mayoría de los cristianos creen que Dios es la fuente de las verdades morales, y que esa verdad moral está afincada en la naturaleza de Dios, no en la voluntad o elección de Dios. Dios no puede hacer de matar gente inocente una buena acción en términos morales. Respetar la vida inocente es una buena cosa que refleja parte de la profunda naturaleza divina. Por tanto, de acuerdo con los cristianos, Dios no crea su propia naturaleza: esta siempre ha sido y siempre será lo que es.  
+En un final, esas visiones cristianas no difieren de lo que los ateos creen acerca de las bases fundacionales de la moral. Ellos creen que la naturaleza de la justicia, la bondad, la generosidad, el coraje, la prudencia y de las otras virtudes se encuentra en la naturaleza del Universo. Ellos creen que son hechos objetivos en bruto que cualquiera reconoce por medio de la conciencia. La única diferencia entre los cristianos y los ateos está en el tipo de “naturaleza” al cual le son inherentes las verdades morales: los cristianos dicen que es la naturaleza divina, mientras los ateos que es la naturaleza física. Bayle imagina la objeción de sus críticos: ¿Cómo pueden las verdades morales elevarse de una mera naturaleza física? Esto es verdaderamente un gran misterio –pero los cristianos son los primeros en declarar que la naturaleza de Dios es infinitamente más misteriosa que cualquier naturaleza física, ¡por tanto no están en mejor posición para clarificar los orígenes de la moralidad!  
+De acuerdo al filósofo canadiense [Charles Taylor](https://es.wikipedia.org/wiki/Charles_Taylor_\(fil%C3%B3sofo\)), nuestra época se volvió secular cuando la creencia en Dios se convirtió en una opción entre muchas, y cuando se vio que la opción teísta no era la más fácil para desposar cuando teorizamos acerca de la moral o la política. A través de su reflexiones por tres décadas sobre el ateísmo, Bayle demostró que hacer descansar la moral en la teología no era ni necesario, ni ventajoso. Por esa razón, Bayle merece mucho del crédito por la secularización de la ética.
+
+**Tomado de AEO**N
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

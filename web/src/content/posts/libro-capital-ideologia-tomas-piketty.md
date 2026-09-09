@@ -1,0 +1,55 @@
+---
+title: "\"Capital e ideología\", nuevo libro de Thomas Piketty"
+date: "2019-09-15T23:23:02+00:00"
+author: ""
+category: "Economía Política"
+image: "/wp-content/uploads/2019/09/IMG_20190804_000827.jpg"
+---
+_Capital e ideología: Para Thomas Piketty la desigualdad es ideológica y política._
+
+**Por: Eduardo Febbro**
+
+> En «Capital e ideología», el economista francés derriba las narrativas del liberalismo.
+
+Las desigualdades jamás son “naturales” sino edificadas por una ideología que crea las categorías divisorias: mercado, salarios, capital, deuda, entre otras, sostiene el economista francés.  
+El liberalismo volverá a temblar sobre sus raíces teológicas y un ejército de evangelizadores liberal-populistas saldrá otra vez con capa y espada a demoler la impecable demostración sobre la semilla de las desigualdades que el economista francés [Thomas Piketty](https://es.wikipedia.org/wiki/Thomas_Piketty) publica en estos días en Francia. Se trata de _Capital e_ _Ideología_, el segundo libro que Piketty publica luego del monumental éxito que tuvo su primer trabajo, El Capital en el Siglo XXI, del cual circularon en el mundo más de dos millones y medio de ejemplares. Como el anterior, el nuevo libro del economista francés no preserva espacios, sino que los extiende. Son 1.200 páginas cuyo postulado central consiste en demostrar que _la desigualdad es ideológica y política y_ no _económica o_ _tecnológica_, que las desigualdades jamás son “naturales” sino edificadas por una ideología que crea las categorías divisorias: mercado, salarios, capital, deuda, trabajadores más o menos capacitados, cotizaciones bursátiles, paraísos fiscales, ricos, pobres, clérigo, nobleza, competencia nacional o internacional.
+
+_Se trata de construcciones sociales e históricas que dependen íntegramente del sistema legal, fiscal, educativo y político que se elige implementar y de las categorías que se crean._
+
+> Thomas Piketty ofrece en esta mastodóntica investigación una mirada nueva sobre el proceso de la desigualdad
+
+Piketty derriba dos de los mitos más arraigados de la derecha: el primero postula que las desigualdades se explican en muchos casos por causas “naturales”: el segundo recurre a la existencia histórica de supuestas “leyes fundamentales”. En ningún caso. Thomas Piketty ofrece en esta mastodóntica investigación una mirada nueva sobre el proceso de la desigualdad, así como una historia con perfil mundial de las desigualdades y las ideologías que las promueven.
+
+> No existe, alega el economista, ningún determinismo, menos aún una organización social con mandato “eterno”
+
+El credo tan famoso como publicitado en la Argentina sobre el carácter ineluctable del sistema económico liberal (“el mundo nos apoya”) se esfuma en las páginas de _Capital e ideología_ como arena entre los dedos. No es cierto. No existe, alega el economista, ningún determinismo, menos aún una organización social con mandato “eterno”. La permanencia o no de la cultura del capital depende de la movilización política e ideológica, de que se imaginen otras formas de gestión donde las desigualdades dejarían de existir y el capital, a su vez, ya no estaría más concentrado en un puñado de poderosos. El libro de Thomas Piketty es un elixir en tiempos de horizontes tapados y retóricas repetitivas. El economista osa incluso proponer la idea de un “nuevo socialismo participativo”, de una propiedad “social” pactada mediante la cogestión o también una “propiedad temporal”. No hay tampoco, para Piketty, ningún fatalismo histórico sino una asombrosa serie de acciones y coincidencias que autorizan los cambios.
+
+Nada está decidido de antemano, recuerda el autor, tanto más cuanto que las relaciones de fuerza que se establecen atañen al orden material: _son sobre todo intelectuales e ideológicas._ _Dicho de otra forma, las ideas y las ideologías cuentan en la historia porque permiten imaginar permanentemente y estructurar nuevos mundos y sociedades diferentes._ Piketty fustiga ese pensamiento conservador marcadamente tendencioso y siempre dispuesto a “neutralizar las desigualdades” dotándolas de “fundamentos naturales y objetivos”. O sea, como la desigualdad es un proceso natural no hay manera de erradicarla. Y si se lo intenta, es, finalmente, todo el sistema que corre peligro. Esta falacia es la que preside todas las narrativas del liberalismo contemporáneo: no hay vida fuera de este sistema. Si se sale, solo habrá hambre. Falso. Más bien, en su análisis histórico de la desigualdad, el economista francés destaca que, _en su conjunto, las diversas rupturas y procesos revolucionarios y políticos que permitieron reducir_ _y transformar las desigualdades del pasado fueron un inmenso éxito, al tiempo que_ _desembocaron en la creación de nuestras instituciones más valiosas, aquellas que, precisamente, permitieron que_ _la idea de progreso humano se volviera una realidad._
+
+> …aquella que tapa todos los futuros repitiendo que ningún otro modelo es posible.
+
+Con esa prueba histórica Piketty abre una ventana para mostrar otro paisaje y, de paso, quebrar una de las narrativas más extenuantes de los conservadores: aquella que tapa todos los futuros repitiendo que ningún otro modelo es posible. A este propósito, el autor escribe: _las desigualdades actuales y las instituciones presentes no son las únicas posibles, pese a lo que puedan pensar los conservadores: amba_s están _también llamadas a transformarse y a reinventarse permanentemente._ Una vez más, nada está jugado de antemano, nada es “un fundamento” inamovible.
+
+> Piketty presenta la desigualdad como un objeto de gran plasticidad que es perfectamente posible modelar
+
+Esa roca indesplazable es la base sobre la que se apoya el rico para seguir siendo más…rico y el pobre siempre pobre. Es el nudo de todo el repertorio capitalista: si el rico es menos rico el pobre será más pobre. Piketty presenta la desigualdad como un objeto de gran plasticidad que es perfectamente posible modelar, y así lo han hecho justamente las ideologías: _siguiendo los hilos de_ _esta historia_ –escribe—_se constata que siempre existieron y existirán alternativas. En todos los niveles de desarrollo, existen múltiples maneras de estructurar un sistema económico, social y político, de definir las relaciones de propiedad, organizar un régimen fiscal o educativo, tratar un problema de deuda pública o privada, de regular las relaciones entre las distintas comunidades humanas (…) Existen varios caminos posibles capaces de organizar una sociedad y las relaciones de poder y de_ _propiedad dentro de ella._
+
+> Nunca el liberalismo había inundado tanto el espíritu humano con su mensaje unidireccional
+
+Piketty proclama que _el progreso humano existe, pero es frágil porque, a todo momento, puede chocar contra las desviaciones de la desigualdad y de la identidad del mundo (…) El progreso humano existe, pero es un combate._ Original, razonado y riguroso, con un enfoque radicalmente histórico que toma incluso en cuenta la literatura, Capital e Ideología llega en el mejor momento, justo en ese punto donde sólo parecían haber diagnósticos y pocas conjeturas para diseñar otro mundo. Nunca el liberalismo había inundado tanto el espíritu humano con su mensaje unidireccional. Como el macrismo en la Argentina, su recado es en todos lados el mismo: o se suicidan con nosotros, o morirán de hambre. Piketty desarma con una precisión de relojero esa idea destilada en el 99% de los medios de comunicación del mundo. El autor llama a esa tendencia _la_ _ideología propietarista._ Su credo globalizado consiste en repetir que cualquier iniciativa de justicia social equivale a ir _derecho hacia la inestabilidad política y el caos permanente, lo que terminará por darse vuelta contra los más modestos. La respuesta propietarista intransigente consiste en que no hay que correr ese riesgo, y que esa caja de Pandora de la redistribución de la propiedad nunca se debe abrir._ Al contrario, argumenta Piketty, no sólo hay que abrirla, sino que la historia nos prueba que ha sido abierta en muchos momentos y que, gracias a esos momentos, se construyó el progreso humano.
+
+El ensayo se propone precisamente esa meta: _convencer al lector de que podemos apoyarnos en las lecciones de la historia para definir una norma de justicia y de igualdad exigentes en materia de regulación y reparto de la propiedad más allá de la simple sacralización del pasado_. Como en _El Capital en el Siglo XXI_, Piketty no formula rupturas revolucionarias, sino que plantea una forma radical de reorganización. No es un libro para reforzar convicciones, ni un enésimo e indigesto adoquín pseudo progresista rebosante de diagnósticos acertados y vacío de alientos futuros. _Capital e_ _Ideología_ es un libro para respirar, como una ventana abierta hacia un mundo donde, de pronto, no hay un sólo modelo posible sino un infinito de posibilidades.
+
+**Tomado de Página 12**
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

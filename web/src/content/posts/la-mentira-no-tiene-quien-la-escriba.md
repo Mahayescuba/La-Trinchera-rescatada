@@ -1,0 +1,34 @@
+---
+title: "participación social de la Iglesia en Cuba"
+date: "2021-04-22T16:00:00+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2021/04/Antoine-Josse.jpg"
+---
+## **Breve reflexión sobre la actuación de dos obispos cubanos**  
+
+**Por: Julio Pernús** 
+
+Un joven filósofo católico cubano escribió hace un tiempo en la edición impresa de _Vida Cristiana_ una certera contextualización de la lectura del _Buen Samaritano_. Su artículo narraba que en la actualidad la parábola podía representar a un ser excluido llorando desconsoladamente en medio de una calle cualquiera de Cuba tras ser víctima de una injusticia; a él se fueron acercando grupos de diversas religiones, funcionarios, periodistas y en vez de ayudar directamente, le dieron un rodeo a la víctima tratando de no mirarlo de frente para no sentirse “afectados” por su situación. Pero, sacaban a cada instante sus móviles y comenzaban a grabarse, se hacían _selfies_ como testigos indiferentes del suceso, generando una narrativa dramática del hecho, buscando _likes_ en sus páginas y sus egos. Su versión de la historia culmina cuando un anciano, respetado por la sociedad civil, alejado del mediatismo, se acerca a la víctima, lo ayuda a recobrar su dignidad, le propone acompañarlo a denunciar la injustica sobre su persona y paga su deseo de construir el bien con la exposición de sus privilegios dentro del sistema, pues no era una persona pobre. 
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/antisociales-en-las-ciencias-sociales/
+
+La semana pasada Mons. Dionisio García Ibáñez y Mons. Wilfredo Pino Estévez, arzobispos de Santiago de Cuba y Camagüey respectivamente, se hicieron presentes en medio de dos escenarios sociales de desolación: una huelga de hambre y una familia que tenía a uno de sus miembros preso. No es objetivo de este texto establecer que ambas situaciones se resolvieron por obra y gracia de la presencia de los pastores; en la resolución de conflictos que surgen en el tejido social de la nación siempre es vital el tema de las alianzas. Lo que sí  es oportuno reconocer es el valor samaritano de la presencia y la satisfacción que produjo dentro de la comunidad católica de la isla el gesto de los pastores. Este accionar es parte intrínseca de la historia de la Iglesia, sucesos que en no pocas ocasiones no han llegado a los medios, pues es feo buscar publicidad con el sufrimiento ajeno. 
+
+Como parte del cambio de época eclesiológica que vive la Iglesia cubana, comienza a desestructurarse un modelo de participación social orientado principalmente desde instancias jerárquicas y se construye lo que algunos teólogos, como la colombiana Consuelo Vélez, llaman una “Iglesia circular”, donde se hace carne la _[sinodalidad](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj6oOeomZLwAhXBKaYKHWRLBXgQFjAAegQIAxAD&url=https%3A%2F%2Feclesia.info%2Fweb%2Fnoticias-dioc%2F19-diocesana%2F781-que-es-la-sinodalidad-a-la-que-llama-la-iglesia.html&usg=AOvVaw1xNQ9LME2U0JgqpD6sZB3S)_. Es decir: obispos, religiosas, sacerdotes y laicos son coprotagonistas en la construcción del presente y del futuro de la Iglesia; para eso unen esfuerzos como iguales buscando transformar el mal que los oprime. Se trata de un modo de proceder que anuncia e impulsa el nacimiento de una Iglesia en salida.
+
+Los católicos cubanos que han decidido participar de forma activa en la construcción del tejido social de la Cuba del futuro, sobre todo desde el mundo digital, deben evitar ser presa de la _cultura de la representación_. En ella, todo se fundamenta en lo que aparentas, en los privilegios que ganas dentro de una comunidad por _alzar_ la voz, aunque eso implique radicalizar tus posturas y cerrar el camino al diálogo; en los _likes_ que obtienes en redes sociales, aunque para eso debas publicar una acusación imaginaria; el asunto es estar “activos” a diario.  La filosofía de la representación edifica narrativas donde solo prevalece la oscuridad, pues lo samaritano no suele acaparar titulares. Para superarla es necesario una verdadera cultura de servicio al prójimo. Solo un abajamiento voluntario de nuestros egos puede romper con el imperio del _clickbait_ (anzuelo para lograr clics). Si logramos dar ese paso, esa coherencia entre nuestra espiritualidad  y nuestra vida, siempre podremos hablar y escribir desde la verdad, pues la mentira,  no tendrá quien la escriba.        
+
+participación social de la Iglesia en Cuba, participación social de la Iglesia en Cuba
+
+## Autor
+
+-   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
+    
+    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
+    
+    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
+    
+    Comunicador de la iglesia católica.
+    
+    [](../tag/autor-julio-pernus/index.html)

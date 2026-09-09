@@ -1,0 +1,140 @@
+---
+title: "constitución y derechos en Cuba"
+date: "2020-11-03T10:30:05+00:00"
+author: "Alina Bárbara López Hernández"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/11/Maneges-de-Gerard-Cambon.jpg"
+---
+## I
+
+## **Constitución**
+
+La Constitución cubana del 2019 contiene una contradicción irreconciliable entre determinados derechos que reconoce a la ciudadanía y dos artículos que son esgrimidos por la burocracia gobernante para no permitir que tales derechos sean ejercidos.
+
+La incongruencia fue pública tempranamente. Recordemos la expresión de [José Luis Toledo Santander](http://www.cubadebate.cu/noticias/2017/03/31/dialogo-sobre-sistema-politico-cubano-la-democracia-es-el-poder-de-los-partidos-o-del-pueblo-podcast/#.X6EgIC8rxZ0) -presidente de la Comisión de Asuntos Constitucionales y Jurídicos de la Asamblea Nacional del Poder Popular (ANPP)- cuando, en una intervención televisada, ante la propia Asamblea y durante el proceso de debate del proyecto de Constitución, afirmara: «la Constitución no le puede trazar directrices al Partido».
+
+Así lo estipula el controvertido artículo 5: «El Partido Comunis­ta de Cuba, único, martiano, fidelis­ta y marxista-leninista, vanguardia organizada de la nación cubana, sustentado en su carácter demo­crático y la permanente vinculación con el pueblo, _es la fuerza dirigente superior de la sociedad y del Estado_ (…)».
+
+En aquel momento dediqué al tema un artículo, «El talón de Aquiles», donde exponía que el referido proyecto tenía un punto que se convertía en su principal debilidad: «Es quizás de lo menos visible pues no se trata de una parte específica del articulado o la estructura y sí de una cuestión conceptual que ronda el campo de lo filosófico y atraviesa el Proyecto en su totalidad: la actitud del Partido Comunista de Cuba ante un pretendido _Estado Socialista de Derecho_»_._
+
+El imperio de la ley solo puede existir en el caso de que todos los ciudadanos e instituciones tengan las mismas posibilidades de ser protegidos por las leyes que de ser castigados por ellas si las incumplen. Al dejar entonces a una institución como el Partido Comunista fuera de esta posibilidad, creamos una especie de _demiurgo_ político que escapa al imperio de la ley, ya que se sitúa por encima de ella.
+
+Aquella preocupación demostró muy pronto tener fundamentos. El 16 de diciembre de 2019, el ministro de Educación Superior, José Ramón Saborido Loidi, que intervenía en una emisión de la Mesa Redonda, levantó un ejemplar de bolsillo de la Constitución que se había aprobado apenas unos meses atrás e invocó el artículo 5 para apoyar las [declaraciones de su viceministra primera](https://www.mes.gob.cu/es/noticias/ser-profesor-universitario), que había desatado una ola de críticas y una carta pública -firmada inicialmente por catorce intelectuales y luego por miles de personas-, motivadas por un texto en el que dicha funcionaria justificaba la discriminación por razones ideológicas en los claustros universitarios. La actitud de ambos dirigentes era anticonstitucional, pues desconocían el carácter público y no discriminatorio por ley de la enseñanza en Cuba a todos los niveles.
+
+![](/wp-content/uploads/2020/11/2019-09-15-15_02_57-Windows-Media-Player.png)
+
+![](/wp-content/uploads/2020/11/2019-09-15-15_02_57-Windows-Media-Player.png)
+
+El ministro de Educación Superior invoca la Constitución de 2019 en apoyo a la actitud discriminatoria enunciada por su viceministra (Foto: TVC) 
+
+Desde entonces, cualquier inconformidad, crítica o demanda en pro de una democratización de la política y el sistema electoral cubanos -muchas se hicieron en el proceso de consulta popular- son demeritadas por ideólogos y políticos oficiales que se refugian, además de en el susodicho artículo 5, en dos argumentos: primero, que el artículo 4 del texto constitucional establece que «El sistema socialista que refrenda esta Constitución, es irrevocable»; segundo, que la Constitución fue aceptada por una mayoría significativa de la población con derecho al voto y eso la legitima.
+
+Considero discutibles ambos argumentos. Sobre los contenidos pétreos, o cláusula de intangibilidad, escribí el texto «Crónica de un meteorito», en el que analicé el contexto que condujo, en mayo del 2002, a la convocatoria del gobierno para una iniciativa de modificación constitucional. Entre las inconsistencias de aquella invitación estuvo el hecho de que el voto no fue secreto, sino plasmado en libros abiertos en 129 mil 523 puntos de firmas, la mayoría en cada CDR del país. Tampoco se exigió, como ahora, que las firmas para encaminar una iniciativa de esa índole fueran registradas ante notario. No se produjeron debates ni explicaciones de juristas y especialistas en derecho constitucional que advirtieran a la ciudadanía qué repercusiones futuras tendría el hecho de incluir contenidos pétreos en la Ley de leyes. Ni siquiera se habló de contenidos pétreos. Fue una convocatoria política. La gente entendía que se le pedía apoyar al socialismo como sistema y firmó. En tres días, 8 millones 188 198 personas mayores de 16 años, según cifras oficiales, rubricaron en respaldo a la iniciativa de modificación constitucional.
+
+En 2019, diecisiete años más tarde y en medio del proceso de reforma total de la Constitución, pudimos comprobar que el agotado modelo de socialismo burocrático se amparaba en la cláusula de intangibilidad para eternizarse. Estas fueron algunas de las valoraciones que hice a la sazón:
+
+«Los representantes de ese modelo no aceptaron numerosas propuestas generadas en la consulta popular que abogaban por un socialismo verdaderamente participativo, con mayor control sobre los cargos públicos. Los que así opinaron no rechazan la inclusión de la propiedad privada y cooperativa, pero necesitan mayor comprometimiento con el cambio y palpables resultados económicos, reforma general de salarios y unificación monetaria.
+
+Dado que es imposible conseguir trasformaciones reales en la esfera económica y social sin formular asimismo cambios políticos, la lección es harto elocuente, y dramática: a quienes clausuramos en verdad el camino fue a nuestros hijos y nietos. Muchos de ellos no habían nacido en el 2002 o no tenían edad para firmar, pero ahora tienen que acatar una decisión que los afecta.
+
+Otras preguntas pueden ser esenciales: ¿Cuántos de los firmantes ya no viven?, ¿cuántos viven fuera de Cuba?, ¿cuántos desean residir en otro país?, ¿cuántos, de haber sabido la implicación futura, estarían dispuestos a retirar su firma? Ahora, en tiempos de la red de redes, son indagaciones que se pueden realizar».
+
+Respecto al argumento que emplaza la legitimidad de la Constitución en el voto mayoritario de la población cubana, tengo los siguientes criterios: 1) en el proceso de consulta previo, los medios oficiales solo presentaron el punto de vista de la burocracia política e impidieron que el debate que se suscitó en las redes sociales, y que contó con análisis informadísimos de especialistas, juristas, historiadores, economistas, entre otros, fuera de dominio público y permitiera una mayor y más profunda reflexión popular. Así lo apunté en el artículo «Mundos paralelos». 2) Que Cuba debe actualizar no solo su economía, sino modernizar su proceso de votaciones. El mismo continúa en condiciones que no garantizan una confiabilidad mayor que el lápiz y la boleta de papel. 3) Si la cantidad de personas que apoyan una decisión electoral fuera siempre sinónimo de una buena decisión, no podríamos criticar, por citar un ejemplo, a Jair Bolsonaro, elegido por el voto mayoritario en Brasil.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/se-discutio-el-proyecto-de-constitucion/
+
+La contradicción irreconciliable que existe entre los derechos que enuncia la Constitución del 2019 y la imposibilidad de ejercitar los mismos a partir de la invocación de los artículos 4 y 5, se percibe con nitidez en la violación del plazo que su disposición transitoria decimosegunda estipula: «La Asamblea Nacional del Poder Popular, en el plazo de dieciocho meses de entrada en vigor de la Constitución, aprueba las modificaciones legislativas requeridas para hacer efectivo lo previsto en su Artículo 99, referido a la posibilidad de los ciudadanos de acceder a la vía judicial para reclamar sus derechos»[\[1\]](https://jovencuba.com/constitucion-represion-ciudadania/?fbclid=IwAR1xge9-aKjglxyt0wrQMlFEY-v5usj8aacnFaPE8QahG3nsfjMyisMJk2s#_edn1).
+
+De acuerdo a esta disposición, y por mandato constitucional, todas las leyes que influyen en el ejercicio de los derechos constitucionales debían haberse dictado ya, pues ha trascurrido poco más del plazo estipulado, si contamos que la Constitución entró en vigor en abril del 2019.
+
+Es cierto que la pandemia ha creado graves dificultades en el funcionamiento de la ANPP, pero ni siquiera se reporta que los diputados estén estudiando -por teletrabajo- documento alguno sobre el asunto. Todavía queda la sesión ordinaria de diciembre, pero estamos casi en noviembre y el tema es demasiado peliagudo como para restringirlo a un brevísimo tiempo de análisis. 
+
+A pesar de que es un mandato constitucional, aún esperamos porque los derechos y garantías sean «habilitados jurídicamente para defenderlos y concretar el Estado de Derecho», afirma el Dr.C René Fidel González García, profesor expulsado de la Universidad de Oriente de manera ilegal y arbitraria.
+
+Esa demora injustificada es peligrosa, pues la sociedad cubana se encuentra hoy en una crisis extrema potenciada por diversos factores: la mala administración de la economía por la misma clase política que lleva décadas haciéndolo; el aplazamiento de un proceso de reformas aprobado hace más de diez años; la dolarización de una parte significativa de las ofertas en medio de una escasez generalizada, que enfatiza las diferencias sociales entre los que poseen dólares y los que no; la agudización extrema del bloqueo, la hostilidad y las presiones financieras por parte del gobierno de Donald Trump; las tensiones derivadas de la pandemia global y el choque que derivará de la inminente unificación monetaria, paso necesario, pero que se dará en el peor de los momentos posibles por haber sido postergado una y otra vez.  
+
+Este complejísimo contexto, de no eliminarse los factores condicionantes mencionados arriba -o al menos varios de ellos-, podría derivar en un escenario de confrontación que entenderíamos lógico si se tratara de un país capitalista, pero que en Cuba, donde el sistema de Partido único ha creído posible un pensamiento único, será presentado, como habitualmente se hace, cual una agenda financiada desde el extranjero con el fin de subvertir el sistema.
+
+Entonces, la grave contradicción implícita en la Ley de leyes y la no habilitación de los derechos y garantías, podría desencadenar una escalada de represión sin que los ciudadanos estuvieran protegidos legalmente. 
+
+## II
+
+## **Represión** 
+
+Es absolutamente legal que los estados se protejan de una oposición organizada y financiada desde el exterior. Varios argumentos para fundamentar esa aseveración ofrecí en el artículo «Castigar y proteger». En el caso de la Isla, con mayor razón, la hostilidad tradicional de las administraciones norteamericanas, reforzadas por el actual presidente, le confiere absoluta validez a una legislación que penalice a quienes se presten a recibir órdenes y financiamiento de EE.UU. para oponerse al gobierno que, guste o no, es el legalmente establecido.
+
+Y ahí entrarían a desempeñar un rol estratégico los órganos de Seguridad del Estado, cuya naturaleza encubierta y los resultados que tuvieron en otros tiempos para infiltrar a grupos de la CIA y conspiraciones dentro de Cuba con base en el Norte y en otros países los hizo famosos. Pero desgraciadamente no es la economía lo único que muestra señales de decadencia. En el referido artículo razonaba:   
+
+«¿Qué ocurre con nuestros órganos de inteligencia? Tenidos por muchos entre los mejores del mundo, parecen jovencitos inexpertos en un juego peligroso por lo que supone esta época, en que las redes sociales visibilizan, a través de fotos y videos, su actuación.
+
+Apostados a las puertas de determinadas viviendas para impedir el libre movimiento de personas que no están sujetas a proceso legal alguno \[…\] o saliendo de hogares donde han ido a “conversar”; son retratados, las chapas de sus motos o autos reveladas y, a veces, incluso los nombres, apellidos, seudónimos y cargos en el aparato de inteligencia. Si los fundadores del antiguo G-2 resucitan, creo que se suicidan de la vergüenza».
+
+Por algún tiempo fue posible hacer creer a la opinión pública que toda oposición en Cuba carecía de raíces propias y solo cumplía órdenes. Ya no es verosímil esa perspectiva. Muchos de los que hacemos análisis políticos críticos e independientes sobre la realidad cubana hemos recibido con facilidad la etiqueta de _mercenario del imperio_ y otros calificativos como para que seamos ingenuos al respecto.
+
+La cuestión no es que rechacemos el socialismo, sino que cada día que pasa los que dirigen el país se ubican, en la práctica, más lejos de ese sistema y pretenden silenciar por igual a los que desean una vuelta al capitalismo y a los defensores de un socialismo democrático.
+
+La unanimidad nunca existió entre nosotros, pero ahora es posible verificarlo por la entrada de internet y el papel de las redes sociales. Numerosas personas aspiramos a trasformaciones económicas y políticas profundas, sin las cuales la nación está condenada al inmovilismo y a una crisis eterna. Por otra parte, la propia Constitución del 2019 garantiza libertades de expresión, movimiento, asociación y manifestación pacífica.
+
+En opinión del abogado cubano José Ángel García Veloso, residente en la provincia de Ciego de Ávila: «Someter a las personas a una ideología determinada es incorrecto; hacerlo por medio de las leyes, peor; en contra de las leyes, utilizando para ello la fuerza pública, es un crimen. La libertad de expresión consiste, precisamente, en poder manifestar lo que es contrario al criterio general u oficial; para cantar vivas no se necesita libertad alguna».
+
+La cuestión entonces es que no se trata de tener derecho a ser iguales, sino de tener el mismo derecho a ser diferentes. Por esa razón me preocupa sobremanera, como intelectual y como ciudadana, el modo en que se reprime a los grupos de oposición y a las personas que han decidido manifestarse pacíficamente en nuestro país. Así lo expresé en los artículos «Segundas lecturas de una decisión», y «El tiempo que vivimos en peligro».
+
+La función de los órganos de seguridad, a mi juicio, debería orientarse a develar tramas conspirativas, recabar pruebas concretas y verificables de la subordinación a un gobierno extranjero y presentarlas a los órganos judiciales competentes para que estos instruyan los casos respetando todas las garantías del debido proceso.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/derecho-a-la-informacion-veraz/
+
+Eso no es lo que está ocurriendo en Cuba. Estamos cansados de ver a personas que son llevadas a interrogatorios forzados, arrastradas por la fuerza, retenidas horas o días sin comunicación con su familia o con abogados, a las que les son incautados sus celulares y otros medios, para ser liberados después sin acusaciones ni proceso legal en su contra. El límite que existe entre la Seguridad del Estado y la violencia o terror de Estado es precisamente el respeto a los procedimientos y normas legales por parte de los órganos de seguridad.
+
+La violencia o terror de Estado consiste en la utilización de métodos ilegítimos por parte de un gobierno, orientados a producir miedo o terror en la población civil.
+
+El artículo «El terrorismo de Estado como violación a los derechos humanos. En especial la intervención de los agentes estatales», de la autoría de Raúl Carnevali Rodríguez[\[2\]](https://jovencuba.com/constitucion-represion-ciudadania/?fbclid=IwAR1xge9-aKjglxyt0wrQMlFEY-v5usj8aacnFaPE8QahG3nsfjMyisMJk2s#_edn2), fundamenta que a través del Estado se pueden cometer delitos y menciona entre ellos a «Organismos del Estado o grupos paraestatales que actúan sin contrapesos institucionales -asegurando así su impunidad-, imponiendo su autoridad a la ciudadanía, a través de actos violatorios de los derechos humanos, pues es vista como una especie de factor de riesgo que es preciso controlar».
+
+Puede afirmarse que en Cuba se manifiesta claramente lo que Carnevali Rodríguez denomina «grupos paraestatales». Es decir, aquellos «que actúan sin contrapesos institucionales». Solo basta apreciar el modo en que son convocadas y estimuladas personas que por su carácter civil no poseen prerrogativa alguna, con el fin de golpear, gritar, ofender e impedir el libre movimiento de los opositores, y que estas personas actúan violando la ley impunemente ante la mirada de los oficiales de la Seguridad del Estado que desconocen así, entre otros artículos de la Constitución, al 47: «Las personas tienen derecho al libre desarrollo de su personalidad y deben guardar entre sí una conducta de respeto, fraternidad y solidaridad».
+
+La violación fragrante y pública de la Constitución, comprobada en la demora en habilitar los derechos que ella declara, y en el trato que se da a los que deciden ejercitar la libre expresión y la manifestación pacífica como modo de disentir, debe influir en que la ciudadanía asuma un rol más activo y comprometido con el texto constitucional que fue aprobado el pasado año. 
+
+## III
+
+## **Ciudadanía**
+
+El revolucionario marxista Antonio Gramsci, que perdió la salud en una cárcel fascista de Italia de donde salió para morir, nos dejó un reclamo que personificó con su ejemplo: «Quien verdaderamente vive, no puede dejar de ser ciudadano y partisano. La indiferencia y la abulia son parasitismo, son cobardía, no vida. Por eso odio a los indiferentes».
+
+Soy de una generación que fue educada en el rechazo a la injusticia. Desfilamos contra la guerra imperialista en Vietnam. Condenamos las matanzas de Soweto y Sabra y Chatila. Gritamos de horror ante los crímenes de las dictaduras militares en Latinoamérica. Miles lucharon en una guerra lejana como la de Angola…
+
+Ese internacionalismo revolucionario venía de una tradición solidaria que, en la vieja república, organizó brigadas para apoyar a los republicanos españoles, que denunció las intervenciones de EE.UU. en Nicaragua, República Dominicana y Haití. Pero, a diferencia de los revolucionarios del treinta que condenaban por igual la injusticia en Cuba y en cualquier lugar del mundo, los educados tras 1959 fuimos cerrando los ojos poco a poco a nuestro entorno, mientras los manteníamos abiertos hacia otros.
+
+Como resultado, no marchamos en apoyo a los reprimidos en las UMAP o a los parametrados tras el 1er Congreso de Educación y Cultura. Permitimos, y/o participamos en actos de repudio donde fueron golpeadas y ofendidas muchas personas que decidieron residir fuera de Cuba. Hemos llegado a naturalizar el uso de fuerzas de choque formadas por ciudadanos que deciden mantener dentro de sus viviendas a otros ciudadanos porque no les parecen suficientemente revolucionarios para que transiten, como es su derecho pleno, por las calles.
+
+El historiador romano Tito Livio decía en sus discursos una frase que retomaría Maquiavelo siglos más tarde: «La patria se debe defender siempre con ignominia o con gloria, y de cualquier manera estará defendida». Se equivocaba: si la Patria se defiende con ignominia, se la ofende. Y es ignominia gritar, humillar e injuriar al que piensa diferente y quiere reivindicar sus derechos contenidos en una Constitución que, por muchas limitaciones que tiene, los consagra.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/hacer-la-rebeldia/
+
+Pero no solo incurre en descrédito el que se presta a participar en esos actos viles, sino igualmente el que observa sin tomar una postura cívica al respecto.
+
+Por suerte, la posibilidad de contrastar opiniones en los medios digitales y redes sociales va dando frutos. Así veo con satisfacción que importantes intelectuales comprometidos con el proceso revolucionario han manifestado una crítica a los hechos de represión ocurridos hace pocas semanas. Carlos Alzugaray, analista político y por muchos años diplomático, apoyó en su muro de Facebook la postura de la profesora y psicóloga, Carolina de la Torre, que rechazó los actos de repudio. Estas fueron las palabras de Alzugaray:
+
+«Nuestra Constitución proclama que Cuba es un estado de derecho socialista. Pues, entonces, hay que cumplirlo. Cuestión de principios y ética. Pero también es una cuestión de claridad y probidad política. La imagen que estos hechos y otros más proyectan es de intolerancia hacia las opiniones críticas. No es la imagen que más conviene y está en interés del país. Es necesaria una reflexión y una rectificación. Con todo el respeto para todos los involucrados».
+
+Muchos pensamos así. Vivimos momentos complejos en Cuba. La Constitución del 2019 fue elaborada por una comisión que perpetuó un modelo político que contradice en la práctica una gran parte del articulado que garantiza los derechos de las cubanas y cubanos. La ciudadanía aprobó con su voto un Estado Socialista de Derecho, pero solo en la letra; en la práctica y en el espíritu se mantiene un _Estado Partidista de Derecho_.
+
+Esa situación, vinculada con el escenario actual, propicio para que se produzcan hechos de confrontación, con la consiguiente respuesta de los órganos de Seguridad del Estado y sin la habilitación de los derechos y garantías ciudadanas, requiere de madurez y compromiso por parte de la ciudadanía. Debe ser obligación nuestra exigir a la ANPP la habilitación de los derechos y garantías a que están obligados por la Constitución, reclamar a los órganos de seguridad el cumplimiento de los procedimientos legalmente establecidos y advertir que nadie está por encima de la ley. De continuarse el camino actual, las consecuencias podrían ser infaustas.
+
+[\[1\]](https://jovencuba.com/constitucion-represion-ciudadania/?fbclid=IwAR1xge9-aKjglxyt0wrQMlFEY-v5usj8aacnFaPE8QahG3nsfjMyisMJk2s#_ednref1) Algunos de los derechos que la Constitución de 2019 garantiza en sus artículos: Art. 40. La dignidad humana es el valor supremo que sustenta el reconocimiento y ejercicio de los derechos y deberes consagrados en la Constitución, los tratados y las leyes. Art. 41. El Estado cubano reconoce y garantiza a la persona el goce y el ejercicio irrenunciable, imprescriptible, indivisible, universal e interdependiente de los derechos humanos, en correspondencia con los principios de progresividad, igualdad y no discriminación. Su respeto y garantía es de obligatorio cumplimiento para todos. Art. 42. Todas las personas son iguales ante la ley, reciben la misma protección y trato de las autoridades y gozan de los mismos derechos, libertades y oportunidades, sin ninguna discriminación por razones de sexo, género, orientación sexual, identidad de género, edad, origen étnico, color de la piel, creencia religiosa, discapacidad, origen nacional o territorial, o cualquier otra condición o circunstancia personal que implique distinción lesiva a la dignidad humana. Todas tienen derecho a disfrutar de los mismos espacios públicos y establecimientos de servicios. \[…\] La violación del principio de igualdad está proscrita y es sancionada por la ley. Art. 51. Las personas no pueden ser sometidas a desaparición forzada, torturas ni tratos o penas crueles, inhumanas o degradantes. Art. 52. Las personas tienen libertad de entrar, permanecer, transitar y salir del territorio nacional, cambiar de domicilio o residencia, sin más limitaciones que las establecidas por la ley. Art. 56. Los derechos de reunión, manifestación y asociación, con fines lícitos y pacíficos, se reconocen por el Estado siempre que se ejerzan con respeto al orden público y el acatamiento a las preceptivas establecidas en la ley. Art. 55. Se reconoce a las personas la libertad de prensa. Este derecho se ejerce de conformidad con la ley y los fines de la sociedad.
+
+[\[2\]](https://jovencuba.com/constitucion-represion-ciudadania/?fbclid=IwAR1xge9-aKjglxyt0wrQMlFEY-v5usj8aacnFaPE8QahG3nsfjMyisMJk2s#_ednref2) _Constitucionales_, vol. 13, no. 2, Santiago, 2015 , disponible en [https://scielo.php](https://scielo.php/)
+
+_Tomado de [La Joven Cuba](https://jovencuba.com)_
+
+constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba, constitución y derechos en Cuba,
+
+## Autor
+
+-   ![](/wp-content/uploads/2021/02/alina-barbara-lopez-hernandez.jpg)
+    
+    ![](/wp-content/uploads/2021/02/alina-barbara-lopez-hernandez.jpg)
+    
+    [Alina Bárbara López Hernández](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/alina-barbara-lopez-hernandez/)
+    
+    Coordinadora de La Joven Cuba. Profesora, ensayista e investigadora.
+    
+    [](https://jovencuba.com/amp/author/alinalopez/)

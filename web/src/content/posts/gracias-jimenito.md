@@ -1,0 +1,40 @@
+---
+title: "Gracias, Jimenito"
+date: "2020-05-13T07:43:48+00:00"
+author: "María del Pilar Díaz Castañón"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/05/FB_IMG_1589355461462.jpg"
+---
+A los héroes se les recuerda sin llanto, dice el verso.  
+Pero se les recuerda. Un héroe ha muerto, y sólo hay una [mención](http://\(http://www.radiohc.cu/especiales/exclusivas/222327\)) de su deceso en la prensa nacional.  
+La primera vez que oí hablar de Jimenito yo tendría trece o catorce años. Mi madre llegó del Banco más tarde que de costumbre, con los labios apretados. Nos hizo una comida más mala de lo habitual y sentó en la mesa del comedor a escribir, con su pluma Parker, borradores de algo que según nos dijo tendría que entregar al día siguiente. Me extrañó porque nunca usaba la estilográfica en casa, y porque yo goloseaba la pluma y su tinta verde.  
+El mal humor duró dos días. Al tercero, llegó sonriente y empezó a contarle algo a mi padre que no entendí, pero sí capté una palabra que se repetía: Jimenito. Mi madre no estaba para que le preguntaran, pero saqué en limpio que era una persona muy buena.  
+Poco a poco fui armando el mosaico. No solo buena persona, sino también muy recto y cabal. Combatiente, de los que de verdad se había jugado el pellejo. Sin pelos en la lengua, decía mi madre, y le había costado caro. Con una ironía muy fina. Y muy amable.  
+(Si quiere la biografía revolucionaria édita de Guillermo Jiménez Soler vea el artículo citado)  
+Añísimos después me lo encontré en la UNEAC o en la editorial de Ciencias Sociales, no sé bien, y enseguida pegamos hebra. Le pedí una entrevista, que no me dio. Me dio la facilidad de llamarlo a su casa y preguntarle cosas, así que me dio un montón de entrevistas. Tuvo la gentileza de permitirme discutir con él, y les aseguro que eran discusiones largas y acaloradas. Inevitablemente se me iba algún “porque ustedes se creen…” y la réplica inmediata era “yo no soy de los ustedes”.  
+No lo era. No se sentó a revivir glorias y angustias pasadas. De hecho, hablaba de su ejecutoria revolucionaria poquísimas veces y con audiencia escogida. Si usted indagaba por su participación en lo que fuera, la respuesta siempre empezaba por la frase “éramos un grupo, ahí estaba….”. “¡ESCRIBA, Jimenito!”, le aullaba yo, y vaya si escribió. De otra cosa.  
+Hizo esos monumentos bibliográficos que son “Las Empresas en Cuba” y [“Los Propietarios en Cuba”](https://www.amazon.com/Los-Propietarios-Cuba-1958-Spanish/dp/9590608302), que algún historiador de medio pelo trató de minimizar comentando “es que él intervino el Banco Nacional”. Y qué bueno que lo hizo, porque ha dejado un retrato de época profuso, conciso, sin adjetivos e imposible de ignorar. Eso sí, quien no asistió a la presentación de cualquiera de estos libros sólo tiene parte de la idea. Porque ahí la nutrida audiencia recibió clases magistrales de cómo entender, difundir y descodificar la historia.  
+Sobreviviente de sus amigos y su época, tuvo el tesón de dedicarse a empeños que ahondaban en la historia del país con eficacia y sin retórica. No conozco mejor argumentación de la necesidad de las transformaciones sociales en la Cuba de finales de los 50 que su sobrio artículo “El nivel de vida de los cubanos anterior a la revolución” (Revista Bimestre Cubana, enero-junio de 1988), implacable radiografía económica del atípico modelo capitalista cubano.
+
+No les he contado que era “Jimenito” por lo mismo que José Machado era “Machadito”, por obra y gracia del verbo irreverente de Juan Pedro Carbó Serviá. Ese, que sabiendo que Esteban Ventura estaba buscándolo ahí mismo, en el hospital Calixto García donde se había refugiado, se metió en un armario de metal y cuando Ventura lo abrió sacó la mano del bolsillo y gritó “¡¡pum!!, como si tuviera una pistola. No. Al esbirro no le gustó la broma.  
+Con Jimenito se ha perdido el color y calor de una época, la de aquellos espléndidos muchachones hoy sacralizados como los mártires de… y deshumanizados en consecuencia. Una vez lo llamé iracunda para decirle que mis estudiantes no sabían los nombres de los asesinados en Humboldt 7. “Pero si no les enseñan, María del Pilar”, me decía. “¡Escriba!” repetía yo. “Si. Estoy escribiendo un libro de cocina.” Y lo terminó.  
+Confiaba en la juventud hasta el despiste. Decía que las cosas se hacen cuando jóvenes, o no se hacen. Con su tiempo era más que generoso. Asistía a tertulias, presentaciones de libros, fungía de consultante para tesis de diploma y facilitaba entrevistas a personas que accedían sólo porque él lo pedía.  
+A mí me hizo el regalo inmenso de presentarme “Prensa y Revolución”. Pensé que nadie mejor que el director de “Combate, 13 de marzo”, ese espléndido periódico que como ningún otro refracta el día a día revolucionario. Creí que me iba a decir que no. Pero lo hizo, y dio una clase magistral sobre la prensa de los 50 que vale la pena leer y releer. La transcribí, él la revisó y está en red. Si puede, échele un vistazo.  
+Fue leal más allá de consecuencias posibles o pensables. Despidió el duelo de Marta Jiménez, porque, como me dijo, qué iba a hacer. Acabo de releer las palabras que entonces me enviara. “No tuvo descanso jamás en ser consecuente con los valores fundamentales que forman un revolucionario”, dijo de Marta.  
+Y no encuentro mejor frase para caracterizar su vida.  
+Los que no se cansan, molestan a quienes sí se agotan. O no les importa, o les da igual. El general Quintín Banderas no se cansó, y la flamante república lo recompensó con un puesto de cartero. Jimenito se dedicó a la historia, y para sorpresa de muchos fue buenísimo en sus empeños. No creo que le hubiera extrañado que no lo recuerden. A quienes le respetaban sí que les molesta, y por eso estoy escribiendo estas líneas.  
+Para darle las gracias, Jimenito. Por lo que hizo por nosotros. Por Cuba.  
+La Habana, aún 12 de mayo de 2020.  
+Porque me enteré tarde.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,0 +1,32 @@
+---
+title: "Una nueva cultura política"
+date: "2020-07-07T00:00:26+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/07/Angeles-Anglada-Equilibrium.jpg"
+---
+Si pensar que la Constitución de 2019 no transversalizó muchas de las aspiraciones de los cubanos durante el proceso político de su discusión y aprobación es apenas una ilusión reforzada, creer que ella y su contenido no está sincronizada con el cambio social que ha ocurrido en Cuba es algo más que cometer un error.
+
+**Por: René Fidel González García**
+
+Dentro de muy poco tendrán desarrollo legislativo un grupo de artículos de la Constitución del 2019. Algunos de ellos permitirán a partir de ese momento la defensa judicial de derechos constitucionales violados por funcionarios públicos en el ejercicio de sus funciones, ya que tribunales cubanos han negado judicialmente durante el actual período de vigencia de las disposiciones transitorias de la Constitución, el principio de aplicabilidad directa de su articulado.
+
+Hay que tomar nota de la importancia de esos desarrollos legislativos, la manera en que serán concretados y de su eficacia jurídica, porque nuestra cultura política, tal como sugiere el aquelarre de vilezas, falta de empatía y crueldad exhibidas grotescamente en las últimas semanas por representantes del espectro del neoconservadurismo y la marginalidad exitosa que se posiciona en nuestra realidad, ha estado durante mucho tiempo mediada por contenidos, valores y prácticas que han promovido y hoy protagonizan percepciones públicas e institucionales en las que el ejercicio de derechos y libertades y de la ciudadanía plena aparecen como algo aborrecible e inquietante, también peligroso.
+
+Si pensar que la Constitución de 2019 no transversalizó muchas de las aspiraciones y sueños de los cubanos durante el proceso político de su [discusión y aprobación](http://www.cubadebate.cu/especiales/2018/12/21/cuales-son-los-principales-cambios-en-el-proyecto-de-constitucion/) es apenas una ilusión reforzada con su constante alejamiento y extrañamiento de los contenidos del discurso político cotidiano, creer que ella y su contenido no está sincronizada con el cambio social que ha ocurrido en Cuba, o intentar mediatizarla y esterilizarla con una apropiación simbólica que no resista el contacto con la realidad y las experiencias de los individuos, es algo más que cometer un error, cuyos costes políticos quizás puedan ser muy altos en los próximos tiempos.
+
+Se puede tener la tentación de intentar burlar mediante una matriz comunicacional disciplinadora y panfletaria la comprensión popular del catálogo de los derechos constitucionales, sus respectivos alcances y el de las garantías que los escudan, se puede incluso intentar versionar y hacer estáticos e inocuos los conflictos normativos y las colisiones entre los derechos y los actos propios de la administración, o entre particulares, pero lo cierto es que el desafío que supone asumir la creciente complejidad y dinamismo de la sociedad cubana actual y conservar estándares de credibilidad y confianza de los ciudadanos implicará una independencia judicial y una ausencia de interferencias sobre esa función hasta ahora inéditas, así como el despliegue de la argumentación y la lógica jurídica como un factor imprecindible a la coherencia y vitalidad del sistema.
+
+Los derechos van a ser defendidos frente a su conculcación y la impunidad, frente a la arbitrariedad y las relaciones endogámicas de élites administrativas, o de cualquier otro tipo, y con ellos lo será también la Constitución en su calidad de límite al poder, pero también como plataforma de la adquisición de nuevos derechos, espacios y recursos de realización de los proyectos de vida a partir del fortalecimiento de la autonomía y la autodeterminación personal.
+
+Esa defensa, no hay que subestimarlo, aunque es posible sea en un principio un acto individual y quizás frustrante, será fundamentalmente para sus protagonistas un acto de consecuencia política, pero también un ejercicio de valores que detonará y dará sentido y vigencia a las prácticas propias de la identidad ciudadana, también a una cultura política nueva.
+
+[Otro texto del autor](/onirica/)
+
+## Autor
+
+-   ![](/wp-content/uploads/2020/12/88268534_1616839981788860_4337614805125824512_n.jpg)
+    
+    ![](/wp-content/uploads/2020/12/88268534_1616839981788860_4337614805125824512_n.jpg)
+    
+    [René Fidel González García](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/rene-fidel-gonzalez-garcia/)

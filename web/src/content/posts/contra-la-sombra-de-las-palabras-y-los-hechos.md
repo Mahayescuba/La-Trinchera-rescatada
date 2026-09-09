@@ -1,0 +1,58 @@
+---
+title: "Creación artística en Cuba"
+date: "2021-02-08T10:30:00+00:00"
+author: "Diego A. Marrero Leyva y Raymar A. Aguado Hernánde"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2021/02/Genevieve-Bouthot.jpg"
+---
+El punto de convergencia entre arte y sociedad deviene en la responsabilidad de la primera sobre la estabilidad de la segunda. La labor primaria del artista es siempre ser consecuente a su órbita social y velar porque su obra transgreda todo aquello que le sea incongruente a su progreso contextual. El arte verdaderamente revolucionario puede desestabilizar en pos de nuevas firmezas y convicciones, sentar bases sólidas para la perdurabilidad de un contexto que vele por las necesidades de la sociedad y de él mismo en sí. 
+
+Sabemos que la labor del artista en beneficio social deslinda de cualquier pretensión política que asuma los intereses individuales por encima del interés colectivo, sabemos también que la política es servidora directa de la cultura y no a la inversa como ingenuamente muchas veces se cree. En un momento donde la necesidad del rescate y perdurabilidad de la cultura nacional se torna el emblema del creador, las nimiedades adyacentes que sobreponen la egolatría empañan la visión colectiva respecto a la labor que todo culturizador realiza. El conocimiento de las bases donde una nación se sienta (tradición, cultura e historia) debe ser fulcro del creador en vía a la reafirmación de su obra en beneficio de estas. 
+
+Somos conscientes de que vivimos un momento de crisis: _“crisis significa cambio”_1; el cambio en Cuba debe residir en principio en la salvaguarda del sentido patrio y de nación, y en la conciencia de que el arte es el estandarte y el arma fundamental para ejercerlo.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/resolucion-27-2021/
+
+ La politización del arte constituye – “y como indirectamente” – en momentos de necesario cambio, un punto de inflexión dentro de la actividad discursiva de un creador – ya hablábamos de la menesterosa contextualización – pues se presta a promiscuas tendencias que abogan por la desnaturalización, por la sombra de las palabras y los hechos.
+
+El intelectual [Guy Perez Cisneros](https://www.ecured.cu/Guy_Pérez_Cisneros_Bonnel) insistía en una exhortación universitaria: 
+
+ _“El deber ahora no está en la política, está en el estudio desinteresado y rudo, liberado de toda preocupación de exámenes; en la búsqueda del centro de gravedad de nuestra civilización y de nuestra economía; en el desarrollo de un orgullo patriótico, sano, potente, sincero, y de una sensibilidad nacional._                                                                          
+
+_Y este deber, por minúsculos que sean nuestros medios y nuestras fuerzas, trataremos de cumplirlo para que por fin, estas paredes históricas que nos rodean y que quizás avergüenzan mis palabras, lleguen ser lo que tienen que ser: la fragua de la nacionalidad cubana…”2_
+
+La creación artística en los tiempos que nos azotan, debe ser, más que nunca, una causa consistente y comprometida a la esperanza de la sociedad a la que representa. Todo intento de lucha culturalmente vacío, y de conceptos desnaturalizados y tambaleantes, tiene que ser evitado, pues constituye un agravante en la esencia y en la percepción del ser social en crisis, una profundización en el vacío que lo lacera, pues se convierte en un ser vulnerable, expuesto a la oscuridad de la estandarización y la injerencia, a la incorporación de conceptos, ideas y pretensiones que no le son convenientes, ni consecuentes.
+
+Un catalizador de lo ya aludido deviene de la inminente llegada de lo peor del consumismo – manantial de agua dulce, mas no muy clara – que ha fomentado tendencias disonantes a nuestra cultura y ha servido de palanca arquimidezca para el aflore de “representantes” incongruentes e innecesarios en los tiempos que corren. Dichos “representantes” – muchas veces autoproclamados “paradigmas y ejemplos” – constituyen generalmente el pináculo del extremismo y profesan una ideología abrupta e inconsistente, la cual se torna falaz e inconclusa en muchas de sus aristas; la búsqueda de la desestabilización, la ponderación a la rebeldía radicalizada, la prédica de ideales descontextualizados y el reclamo de “derechos”: concepto que desconocen y mal utilizan, son algunas de las arbitrariedades que cometen, desacreditando su actuar y dejando en estado coloide su convicción, aparentemente sincera.
+
+La convulsión que gira en derredor del contexto cercano al artista debe significar la máxima expresión del numen que consolida la acción creadora del mismo, ya que el arte es la única arma que debe empuñar; su único escudo y su única espada. Toda acción llevada a cabo por el artista que se torne incongruente a la esencia misma del arte, equidista de este, y él no puede ser justificación para el desarrollo de dicha acción. Pero lamentablemente, el panorama está matizado de forma distinta, lo cual representa un atentado contra el arte y la cultura.
+
+Es indiscutible – y hasta axiomático – que toda esta situación se ha asentado a partir del proceso de declive que sufre la cultura cubana, evidenciado en la escasez de espacios competentes para el desarrollo artístico-cultural adecuado, la falta de los medios necesarios dentro de las instituciones para el buen desempeño de sus funciones, la incapacidad de algunos funcionarios para ejercer correctamente como representantes de la cultura, la precaria, insuficiente y desactualizada forma de promoción a  los diversos espacios y actividades, y la incapacidad de las instituciones para representar y sostener las necesidades de sus artistas, así como las apreciables fallas en el método de  formación de los alumnos en las escuelas de arte y el poco apoyo brindado hacia los creadores independientes. Los encargados de encaminar y organizar nuestra cultura deben actuar en consecuencia, no solo con la realidad actual, sino con la realidad histórica de nuestro pueblo, sustentada sobre la fragua de la soberanía, el patriotismo y el respeto. Las torpezas y  descuidos dentro de las políticas culturales y en la comunicación con los artistas que pueden representar o no los intereses la Revolución o el gobierno, son lastres que rompen con el camino revolucionario-cultural, afectan el proceso creativo y laceran la relación armónica: arte-sociedad. 
+
+Los momentos de crisis exigen la revolución en su máxima expresión: deconstruir para construir, crear entre todos y por Cuba: aceptando, incluyendo, diversificando y sobre todo aprendiendo. Estas situaciones se definen por los instantes en que miramos hacia adentro, y después de haber presenciado la sangre de nuestras entrañas y la grasa que no premia nuestros músculos, vislumbramos el sol con la reminiscencia del árbol y el fruto necesario, con la historia en la boca y las palabras sin sombras.
+
+Es preciso y oportuno hacer hincapié en la necesidad del aflore de la concepción de poesía lezamiana y origenista como fulcro para el promisorio devenir histórico de esta tierra: ¿y qué era la poesía para Lezama y para Orígenes? pues la acción consecuente, discursiva y contextualizada del ser. La poesía (no el poema) sería para ellos el arma de expresión principal del humano, la esencia misma que recoge el ser en su interior y logra exteriorizar con fuerza tal que defina cada ápice verídico dentro de la realidad de todos. La enzima necesaria dentro del metabolismo consciente para el desarrollo espiritual del humano; el humanismo, la integridad y la ética. Un modo de ver el arte que abunda en lo recóndito del alma. En conclusión: la savia que desprende el ser y la obra. Lo necesario para la edificación moral de la nación; lo necesario para la formación de nuestra nación y nuestra cultura.
+
+1- Jorge Mañach, Crisis de la alta cultura en Cuba, IMP. y Papelería La Universal, La Habana, 1925
+
+2- Guy Pérez Cisneros, Presencia de 8 pintores, Verbum, #1, junio de 1937, PP. 66-67.
+
+creación artística en Cuba, creación artística en Cuba, creación artística en Cuba, creación artística en Cuba
+
+## Autor
+
+-   ![](/wp-content/uploads/2021/02/diego.jpg)
+    
+    ![](/wp-content/uploads/2021/02/diego.jpg)
+    
+    [Diego A. Marrero Leyva](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/diego-a-marrero-leyva/)
+    
+    Estudiante de Economía
+    
+-   ![](/wp-content/uploads/2021/02/ray.jpg)
+    
+    ![](/wp-content/uploads/2021/02/ray.jpg)
+    
+    [Raymar A. Aguado Hernández](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/raymar-a-aguado-hernandez/)
+    
+    Futuro psicólogo

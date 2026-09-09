@@ -1,0 +1,41 @@
+---
+title: "El existencialismo de los taxonomistas"
+date: "2019-10-04T13:25:06+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/10/7842f267261c5543b5c83337141392ea.jpg#038;ssl=1"
+---
+Existencialismo de los taxonomistas.
+
+**Por: Miguel Alejandro Hayes**
+
+### La taxonomía
+
+El ser humano busca caracterizar. En ese intento, crea estereotipos para sí y para los de su especie. Lo más fácil hasta ahora es el uso de un esquema dicótomo, donde se considere a sí mismo el polo positivo y a su rival, el negativo. El universo político cubano es atravesado por esa realidad.  
+Aparece toda una clasificación. En modelo lineal, con _lógica_ _aristotélica_ no superada, desde una posición privilegiada, se lanza el clásico revolucionario-contrarrevolucionario. Luego, en ese saco poco elaborado, no pocos quedamos en el segundo grupo. Sabiendo -como enseñó un alemán- que no todo es relativo, sino que depende del marco referencial, habría que mirar el sistema desde el que se decide tal repartición de cualidades.  
+Lo cierto es que una parte del universo político cubano se caracteriza por su ejercicio crítico, en el que se aprecia el cuestionamiento a estructuras, organizaciones y decisiones que se toman en el país. ¿Pero por qué no hacerlo, si callar es darle voz a la censura? ¿Acaso los ciudadanos tenemos que tener compromiso con las estructuras, decisiones y dirigentes? Yo juraría que llevo toda la vida escuchando que es al revés: el compromiso es con los ciudadanos -voy a seguir pensando que es como me enseñaron. Por eso estamos los que apostamos por no dejar de apuntar lo que contribuya a mejorar el país.  
+Pero se intenta imponer una taxonomía según la cual lo revolucionario es el ejercicio de no cuestionarse decisiones del gobierno, ni de sus estructuras -todo ello como parte de un acto de “compromiso”.
+
+¿Acaso es eso lo que hay que hacer: esperar a que los señalamientos y propuestas de cambios solo vengan del propio gobierno, o por las vías que este diga? ¿Hay que esperar a que el gobierno diga cuándo cambiar? Recuerdo que ya más de uno -intelectual o no- ha sufrido consecuencias “por proponer un cambio cuando aún no tocaba”. ¡De pronto, es como si el pueblo se debiera a un gobierno, a una “vanguardia”! Perdón por irme del tema, pero ser la vanguardia es algo que se gana, no un punto de partida, dijo [Lenin](https://es.wikipedia.org/wiki/Lenin).
+
+### Los taxonomistas
+
+Los estereotipos que aquí nos ocupan son construidos desde la posición del que ejerce la acción sígnica; esto, desde el poder político. En la actividad subjetiva, los taxonomistas -empoderados, acomodados y enajenados en su realidad de dirigentes- usan la receta ontológica con la que se convierten ellos mismos en la medida del mundo, y por ende, en el marco referencial utilizado en los dos colores: revolucionario y contrarrevolucionario. Aclaro que no todo el que piense así tiene que ser un alto dirigente con comodidades incluidas, así que subrayo que se ha escrito bastante de cómo los intereses, expectativas e _imagen del mundo_ de un grupo o clase, logra penetrar a otros. De hecho, justo en eso radica el éxito ideológico de los grupos dominantes.  
+Volvamos a los taxonomistas. Estos se idealizan a sí mismos como pulcros, puros, intachables y herederos de toda leyenda revolucionaria, siempre sin contrastar ni demostrar. Esa es la _verdad del ser_ que ellos mismos se construyen, y es su punto de partida para designar lo que los rodea. Terminan por tener un reflejo del mundo -al más puro estilo de la vieja ontología- que funciona como una generalidad abstracta, aislada, que solo tiene sentido respecto al _sinsentido_ del que se armaron para sí mismos. Desde ahí, ellos se crean el molde y la norma que le ponen a la realidad, y designan quiénes se ajustan y quiénes no. Todo acompañado de la fundación de un conjunto -nunca sistema, por su falta coherencia- de prácticas alrededor de las cuales montan una ética -asociada a lo revolucionario en este caso- que intentan propagar. El resto de la sociedad pagamos el precio de su reflexión existencial.  
+Y nuestros taxonomistas desconocen que emplean un existencialista y engañoso modo de pensar (¿?) que los encierra en su atalaya. Deberían acercarse a la dialéctica.  Sí, a esa que solo mencionan para engrandecer lo que dicen, pero que se nota que _ni_ _gota_. Con ella, si quisieran obtener una imagen fiel de lo que realmente son, entonces sabrían que _la verdad del ser es_ _su esencia_, por lo que solo en el despliegue del sistema de relaciones del que se es parte inseparable se obtiene esa verdad. Ellos necesitan buscarse dentro del sistema social del cual son parte. Desde ahí podrán ver el efecto de lo que hacen; podrán ver a qué le son orgánicos, si a reproducir los errores y horrores, o a arreglarlos y eliminar las condiciones que los crean. Entonces podrán saber qué son ellos y qué son los demás. Mientras tanto, solo estarán ahí. En su existencialismo.
+
+> [Hacer la rebeldía](/politica-en-cuba/)
+
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Hacer la rebeldía» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/politica-en-cuba/hacer-la-rebeldia/embed/#?secret=OwbUJJXKn2" data-secret="OwbUJJXKn2" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

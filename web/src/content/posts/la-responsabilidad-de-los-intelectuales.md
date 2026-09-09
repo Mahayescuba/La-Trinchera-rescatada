@@ -1,0 +1,84 @@
+---
+title: "La responsabilidad de los intelectuales"
+date: "2020-11-26T10:30:00+00:00"
+author: "Noam Chomsky"
+category: "Política"
+image: "/wp-content/uploads/2020/11/Antpine-Josse-Pont.jpg"
+---
+> Extracto del nuevo libro de Noam Chomsky _La responsabilidad de los intelectuales_ (Sexto Piso, 2020). Traducción de Albino Santos Mosquera
+
+**PREFACIO**
+
+El concepto de i_ntelectuales_ es bastante curioso. ¿A quiénes podemos considerar como tales?
+
+He aquí una pregunta que fue abordada de un modo muy instructivo en un ensayo clásico que Dwight Macdonald escribió en 1945, titulado La responsabilidad de los intelectuales. Ese texto es una sarcástica e implacable crítica a aquellos pensadores distinguidos que pontificaban sobre la _culpa colectiva_ de los refugiados alemanes cuando éstos sobrevivían a duras penas entre las ruinas catastróficas de la guerra. Macdonald comparaba allí el desprecio farisaico que tan distinguidas plumas manifestaban hacia los desdichados supervivientes con la reacción de muchos soldados del ejército vencedor, que, reconocedores de la humanidad de las víctimas, se compadecían del sufrimiento de éstas. Y, sin embargo, los primeros son los intelectuales, no los segundos.
+
+Macdonald concluía su ensayo con unas sencillas palabras: _Qué maravillosa es la capacidad de poder ver lo que se tiene justo delante._
+
+¿Cuál es, entonces, la responsabilidad de los intelectuales? Quienes entran en esa categoría disfrutan de ese relativo grado de privilegio que tal posición les confiere, lo que les brinda oportunidades superiores a las normales. Las oportunidades conllevan una responsabilidad, la cual, a su vez, implica tener que decidir entre opciones alternativas, algo que, a veces, puede entrañar una gran dificultad.
+
+Así, una posible opción es seguir la senda de la integridad, lleve adonde lleve. Otra es aparcar esas preocupaciones y adoptar pasivamente las convenciones instituidas por las estructuras de autoridad. La tarea, en este segundo caso, se limita a seguir con fidelidad las instrucciones de quienes tienen las riendas del poder, a ser servidores leales y fieles, no como resultado de un juicio reflexivo, sino por una respuesta refleja de conformismo. Ésta es una forma muy sutil de eludir las complejidades morales e intelectuales inherentes a una actitud de cuestionamiento, y de rehuir las potenciales consecuencias dolorosas de esforzarse por que la bóveda del firmamento moral termine curvándose hacia la causa de la justicia.
+
+Estamos familiarizados con esa clase de alternativas. Por eso distinguimos a los comisarios y los apparátchiki de los disidentes que asumen ese desafío y afrontan las consecuencias (unas consecuencias que varían en función de la naturaleza de la sociedad en cuestión). Muchos disidentes alcanzan la fama y un merecido reconocimiento, y el duro trato que reciben o recibieron es debidamente denunciado con fervor e indignación: ahí están Václav Havel, Ai Weiwei, Shirin Ebadi y otras figuras que componen una larga y distinguida lista. También es justo que condenemos a los apologistas de la sociedad mala, aquellos que no pasan de la ocasional crítica tibia a los «errores» de unos gobernantes cuyas intenciones califican global y sistemáticamente de benignas.
+
+Hay otros nombres, sin embargo, que se echan en falta en la lista de los disidentes reconocidos: por ejemplo, los de los seis destacados intelectuales latinoamericanos, sacerdotes jesuitas, que fueron brutalmente asesinados por fuerzas salvadoreñas que acababan de recibir instrucción militar del Ejército estadounidense y actuaron siguiendo órdenes concretas de su Gobierno, satélite de Estados Unidos. De hecho, apenas si se les recuerda. Muy pocos conocen siquiera cómo se llamaban o guardan el menor recuerdo de aquellos sucesos. Las órdenes oficiales de asesinarlos no han llegado aún a aparecer en ninguno de los grandes medios de comunicación en Estados Unidos, y no porque fueran secretas: se publicaron con total visibilidad en los principales rotativos de la prensa española, por ejemplo.
+
+No estoy hablando de algo excepcional. Se trata, más bien, de la norma. Aquellos hechos no tienen nada de inextricables. Son de sobra conocidos para los activistas que protestaron contra los horrendos crímenes promovidos por Estados Unidos en América Central, y también para los expertos que han estudiado el tema. En una de las entradas de The Cambridge History of the Cold War, John Coatsworth escribe que, desde 1960 hasta _la caída soviética en 1990, las cifras de presos políticos, de víctimas de torturas y de disidentes políticos no violentos ejecutados en América Latina superaron con mucho a las registradas en la Unión Soviética y sus satélites del este de Europa_.
+
+Sin embargo, ese mismo panorama se dibuja justamente a la inversa según aparece tratado en los medios de comunicación y en las revistas de los intelectuales. Por poner sólo un ejemplo llamativo de los muchos posibles, diré que Edward Herman y yo mismo comparamos la cobertura que The New York Times había realizado del asesinato de un sacerdote polaco –cuyos asesinos fueron prontamente localizados y castigados– con la de los asesinatos de cien mártires religiosos en El Salvador –incluyendo al arzobispo Óscar Romero y a cuatro religiosas estadounidenses–, cuyos perpetradores permanecieron mucho tiempo ocultos a la justicia mientras las autoridades de Estados Unidos negaban los crímenes y las víctimas no recibían de su Gobierno más que el desprecio oficial. La cobertura informativa del caso del sacerdote asesinado en un Estado enemigo fue inmensamente más amplia que la dispensada al centenar de mártires religiosos asesinados en un Estado satélite de Estados Unidos, y también su estilo fue radicalmente diferente, muy en sintonía con las predicciones del llamado _modelo de propaganda_ de explicación del funcionamiento de los medios de comunicación. Y ésta sólo es una ilustración entre muchas posibles de lo que ha sido un patrón constante a lo largo de muchos años.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-dilema-etico-y-el-derecho-de-los-medios/
+
+Puede que la mera servidumbre al poder no lo explique todo, desde luego. En ocasiones –muy escasas–, sí llegan a consignarse los hechos, aunque acompañados de un esfuerzo por justificarlos. En el caso de los mártires religiosos, el distinguido periodista estadounidense Nicholas Lemann, corresponsal de nacional de The Atlantic Monthly, revista de línea editorial _liberal_ (de centroizquierda), aportó una explicación alternativa en una respuesta pretendidamente sarcástica a nuestro trabajo: _Esa discrepancia puede explicarse diciendo que la prensa tiende a concentrarse sólo en unas pocas cosas en cada momento concreto, e_scribió Lemann, y _la prensa estadounidense estaba entonces centrada sobre todo en Polonia_.
+
+La tesis de Lemann es fácil de contrastar examinando el índice de The New York Times, donde se puede ver que la duración de la cobertura informativa dispensada a los dos países fue prácticamente idéntica en ambos casos, e incluso un poco mayor en el de El Salvador. Pero, claro, en un contexto intelectual donde tienen cabida los _hechos alternativos_,\* detalles como ése poco parecen importar.
+
+En la práctica, el término honorífico _disidente_ está reservado a quienes son disidentes en Estados enemigos. A los seis intelectuales latinoamericanos asesinados, al arzobispo y a los otros muchos que, como ellos, protestan contra los crímenes de Estado en países satélites de Estados Unidos y son asesinados, torturados o encarcelados por ello, no se les llama _disidentes_ (si es que llegan a ser mencionados siquiera).
+
+También dentro del propio país hay diferencias terminológicas. Hubo, por ejemplo, intelectuales que protestaron contra la guerra de Vietnam por razones diversas. Por citar un par de destacados ejemplos que ilustran lo limitado que es el espectro de visión de la élite, el periodista Joseph Alsop se quejó en su día de que la intervención estadounidense estaba siendo demasiado contenida, mientras que Arthur Schlesinger\* replicó que una escalada probablemente no funcionaría y terminaría siendo demasiado costosa para nosotros. No obstante, añadió, _todos rezamos_ por que Alsop tenga razón al considerar que la fuerza de Estados Unidos tal vez se imponga, y si lo hace, _puede que entonces todos reconozcamos la prudencia y el sentido de Estado del Gobierno estadounidense_ para conseguir la victoria, aun a costa de dejar a aquel _desdichado país destruido y devastado por las bombas, calcinado por el napalm, convertido en un erial por los defoliantes químicos, reducido a ruinas y escombros_, y con un _tejido político e institucional_ reducido a cenizas.
+
+Y, sin embargo, a Alsop y a Schlesinger no se los llama _disidentes_. Más bien, se les considera un _halcón_ y una _paloma_, respectivamente: dos figuras que marcan los extremos opuestos del espectro de lo que se entiende que es la crítica legítima a las guerras de Estados Unidos.
+
+Por supuesto, también hay voces que caen fuera del espectro por completo, pero a ésas tampoco se las considera _disidentes_. McGeorge Bundy, consejero de Seguridad Nacional de Kennedy y de Johnson, dijo en un artículo para Foreign Affairs, una revista del establishment, que se trataba de _salvajes entre bastidores_ que se oponen por principio a las agresiones estadounidenses, más allá de las cuestiones tácticas sobre su viabilidad y su coste.
+
+Bundy escribió esas palabras en 1967, en un momento en que el implacablemente anticomunista historiador militar y especialista en Vietnam Bernard Fall, muy respetado por el Gobierno estadounidense y los círculos de opinión dominantes, temía que _Vietnam como entidad cultural e histórica \[…\] esté corriendo peligro de extinción \[…\] \[ahora que\] el campo se está muriendo literalmente bajo los impactos de la mayor maquinaria militar jamás desplegada contra un territorio de esa extensión_. Pero sólo los _salvajes entre bastidores_ tenían la desfachatez de cuestionar la justicia de la causa estadounidense.
+
+Al término de la guerra en 1975, intelectuales de todo el espectro de opinión dominante dieron sus interpretaciones de lo sucedido. Abarcaban todas las franjas del espectro Alsop-Schlesinger. Desde el extremo de las _palomas_, Anthony Lewis escribió que la intervención comenzó con una serie de t_orpes esfuerzos bienintencionados_ (_torpes_ porque fracasaron, y _bienintencionados_ por principio doctrinal, sin necesidad de demostración), pero hacia 1969 ya era obvio que la intervención era un error porque Estados Unidos _no podía imponer una solución sino a un precio demasiado costoso para sí mismo_.
+
+Al mismo tiempo, los sondeos mostraban que en torno a un 70 % de la población no consideraba que la guerra fuera «un error», sino _intrínsecamente injusta e inmoral_. Pero, claro, como aquellos soldados de 1945 que empatizaban con el sufrimiento de los desdichados refugiados alemanes, los encuestados no son intelectuales.
+
+Los ejemplos son los típicos. La oposición a la guerra alcanzó su pico máximo en 1970, después de la invasión de Camboya orquestada por el dúo Nixon-Kissinger. Justo entonces, el politólogo Charles Kadushin llevó a cabo un extenso estudio de las actitudes de los _intelectuales de la élite_. Y descubrió que, a propósito de Vietnam, éstos adoptaron una postura _pragmática_ de crítica a la guerra por considerarla un error que acabó saliendo demasiado caro. Los _salvajes entre bastidores_ ni siquiera contaban, perdidos entre el margen de error estadístico.
+
+Las guerras de Washington en Indochina fueron el peor crimen de la era posterior a la Segunda Guerra Mundial. El peor crimen del actual milenio es la invasión británico-estadounidense de Irak, con horrendas consecuencias en toda la región que aún distan mucho de llegar a un final. La élite intelectual también ha estado a su acostumbrada altura en esta ocasión. Barack fue muy elogiado por los intelectuales liberales de centroizquierda por posicionarse con las _palomas_. Según las palabras del presidente, _durante la última década, las tropas estadounidenses han realizado extraordinarios sacrificios para brindar a los iraquíes la oportunidad de reclamar para sí su futuro_, pero _la dura realidad es que todavía no hemos asistido al final del sacrificio americano en Irak_. La guerra fue un _grave error_, una _metedura de pata estratégica_ con un coste más que excesivo para nosotros, una valoración que bien podría equipararse a la que muchos generales rusos hicieron en su día sobre la decisión soviética de intervenir en Afganistán.
+
+Se trata de un patrón generalizado. No hace falta citar ningún ejemplo, pues hay sobrados estudios publicados al respecto, aunque éstos no parecen haber tenido el menor efecto en la doctrina de la élite intelectual.
+
+De fronteras para dentro, no hay disidentes, ni tampoco comisarios ni apparátchiki. Sólo salvajes entre bastidores, por un lado, e intelectuales responsables –los considerados como los verdaderos expertos–, por el otro. La responsabilidad de los expertos la ha detallado uno de los más eminentes y distinguidos de todos ellos. Alguien es un _experto_, según Henry Kissinger, cuando _elabora y define_ el consenso de su público _a un alto nivel_ (entendiéndose como _público_ aquellas personas que establecen el marco de referencia dentro del que los expertos ejecutan las tareas a ellos encomendadas).
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/derecho-a-la-informacion-veraz/
+
+Las categorías son bastante convencionales y se remontan al uso más temprano del concepto de _intelectual_ en su sentido contemporáneo, durante la polémica del caso Dreyfus en Francia. La figura más destacada de los dreyfusards, Émile Zola, fue condenado a un año de cárcel por haber cometido la infamia de pedir justicia para el acusado en falso Alfred Dreyfus, y huyó a Inglaterra para evitar una pena mayor. Fue entonces duramente reprobado por los _inmortales_ de la Academia Francesa. Los dreyfusards eran auténticos _salvajes entre bastidores_. Eran culpables de _una de las excentricidades más ridículas de nuestro tiempo_, por decirlo con las palabras del académico Ferdinand Brunetière: _la pretensión de alzar a escritores, científicos, profesores y filólogos a la categoría de superhombres_ que se atreven a _tratar de idiotas a nuestros generales, de absurdas a nuestras instituciones sociales, y de insanas a nuestras tradiciones_. Osaban entrometerse en asuntos que debían dejarse a los _expertos_, a _hombres responsables_, _intelectuales tecnocráticos y políticamente pragmáticos_, según reza la terminología contemporánea del discurso liberal de centroizquierda.
+
+Pues bien, ¿cuál es, entonces, la responsabilidad de los intelectuales? Siempre pueden elegir. En los Estados enemigos, pueden optar por ser comisarios o por ser disidentes. En los Estados satélites de la política exterior estadounidense, en el período moderno, esa elección puede tener consecuencias indescriptiblemente trágicas para esas personas. En nuestro propio país, pueden elegir entre ser expertos responsables o ser salvajes entre bastidores.
+
+Pero siempre existe la opción de seguir el buen consejo de Macdonald: _Qué maravillosa es la capacidad de poder ver lo que se tiene justo delante_, y tener simplemente la honradez de contarlo tal como es.
+
+**Nota:**
+
+Chomsky alude aquí a la expresión que Kellyanne Conway, asesora del presidente Trump, utilizó en una entrevista televisiva en enero de 2017 para referirse a unas declaraciones falsas del secretario de prensa de la Casa Blanca por no llamarlas _mentiras_. \[N. del T.\]
+
+**Fuente:** [https://www.lamarea.com/](https://www.lamarea.com/)
+
+[También puede interesar](/politica-en-cuba/)
+
+responsabilidad de los intelectuales, responsabilidad de los intelectuales, responsabilidad de los intelectuales, responsabilidad de los intelectuales, responsabilidad de los intelectuales
+
+## Autor
+
+-   ![](/wp-content/uploads/2020/12/220px-Noam_Chomsky_portrait_2017.jpg)
+    
+    ![](/wp-content/uploads/2020/12/220px-Noam_Chomsky_portrait_2017.jpg)
+    
+    [Noam Chomsky](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/noam-chomsky/)
+    
+    Lingüista, filósofo, politólogo y activista estadounidense.

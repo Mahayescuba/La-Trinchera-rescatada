@@ -1,0 +1,32 @@
+---
+title: "El centrismo político en Cuba a un año de ser noticia"
+date: "2018-02-12T16:15:23+00:00"
+author: "Joel Ernesto Marill Domenech"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2018/02/centrimso-yoel.png"
+---
+Hace más o menos un año comenzó una fuerte polémica sobre la existencia y proliferación en Cuba del llamado “centrismo político”. Sobre ello, en tan solo unos pocos meses se esgrimieron las más disimiles posturas, en donde no faltaron criterios radicalmente contrapuestos que dieron lugar a encontronazos no siempre amigables en las redes y otros espacios de debate. No soy estudioso del tema y solo participé como espectador silencioso en los momentos más arduos de este debate, pues sinceramente considero que es parte de un fenómeno que en muchas aristas desconozco y del cuál no quisiera, como algunos, tocar a la ligera y más ahora, cuando pareciera que la aguas están más calmadas creo poder estar en condiciones de emitir un grupo de opiniones en torno a un fenómeno tan complejo que sería imposible recoger en todo su dimensión ni en quince de estos post.
+
+### **–  Breve exposición de los momentos fundamentales del debate sobre el Centrismo en Cuba.**
+
+Hace un año, una avalancha de criterios apareció de pronto en donde antes poco o nada se discutía y tan rápido como apareció el debate, este desapareció y al día de hoy parecería que el centrismo es tema del pasado,  un fenómeno coyuntural que o se autoeliminó o fue resuelto en el seno de las fuertes polémicas que desató. Pero ver el centrismo solo como un problema coyuntural que existe solo por la existencia, perdón por la redundancia, de un grupo de personas que se podrían encasillar en esta posición política, es un análisis que toma la consecuencia como causa y por tanto está, a mi criterio, errado desde un principio. Es cierto que toda la polémica en torno al tema se desató en el momento en que se identificó a algunos blogueros, periodista alternativos e intelectuales como “centristas” y de defensores de ideas poco revolucionarias o tergiversadoras de las ideas de la revolución, sacando rápidamente a relucir las conexiones de estos grupos con destacados opositores de la revolución tanto en Cuba como en el exilio, así como su cercanía con embajadas, gobiernos extranjeros y organizaciones no gubernamentales de otros países, las cuáles muchas veces tenían nexos con el gobierno de los Estados Unidos o grupos de emigrados cubanos. Este hecho marcó la tendencia del diálogo sobre el centrismo, que en un primer momento se desplazó desde las ideas y opiniones que estos llamados “centristas” defendían, a por qué no era válido su discurso por las relaciones que ellos sostenían con el exterior, con la oposición tradicional y no tan tradicional al gobierno revolucionario. Este hecho para muchos, entre los que me incluyo, de tener lasos con una potencia extranjera para tratar de subvertir el orden institucional establecido en una nación es cuando menos un delito, no solo en Cuba sino en cualquier lugar del mundo.
+
+El debate fue evolucionando hasta que algunos intelectuales cubanos comenzaron a combatir no solo los nexos sino también el propio discurso de los centristas, el cuál valga decir, carece de unidad funcional y en muchos casos de unidad de pensamiento (tema del que trataremos en el siguiente post). Este fue sin duda el momento cumbre del debate el cual se extendió por varios meses, hasta que con la misma rapidez que había surgido comenzó a decaer.
+
+Por otro lado tenemos a los llamados ´´centristas´´, compuestos por un grupo de nuevas voces dentro del escenario político y mediático (alternativo) de la Cuba actual. Sus exponentes pueden ser tan variados como intelectuales, blogueros, periodistas o representantes de otros sectores casi siempre ligados a los medios alternativos de difusión. Estos no son un grupo homogéneo, sino todo lo contrario, su mayor “fortaleza” y debilidad radica en la heterogeneidad y multiplicidad de sus posiciones política, aunque en muchos casos estos no se reconozcan como tales, la discursividad del centrismo abarca un amplio espectro que sin duda incluye a muchos de aquellos que no se declaran abiertamente centristas. Muchos de los tachados como ´´centristas´´ han argumentado (en su momento) y aún defienden el hecho de no tener ninguna conexión con los opositores a la Revolución, ni estar al servicio de potencias extranjeras. Aún así sus posiciones han quedado como muy vacilantes en momentos claves en los que  la definición política era la única posición revolucionaria. Otros dentro del mismo grupo han actuado en consecuencia con un discurso más apegado a lo tradicional dentro de lo considerado como revolucionario, y no dejándose provocar por las acusaciones de los sectores más conservadores.
+
+Concluyendo, es respetado decir que el debate sobre el centrismo fue fundamentalmente llevado adelante en círculos de intelectuales, en ambiente de universitarios y en las personas con acceso a internet y a sitios de información de los llamados ‘’alternativos’’.  Salvo dos o tres publicaciones en el periódico Granma y otros medios oficiales, poco llego a las personas de a pie, que en su mayoría quedaron totalmente exentas de un debate que puede tener mucho aún por delante, que pudiera ser crucial para el futuro de nuestra nación y la supervivencia de la revolución misma.
+
+Hasta el momento hemos hecho referencia al debate ocurrido, su desarrollo y aparente final, creo que de una forma objetiva (lo más posible). Para el debate futuro quedan abiertas dos aristas fundamentales, ¿es el centrismo un proceso totalmente infundido desde el exterior o es causa de reorganizaciones en la sociedad cubana? De ser la segunda, ¿qué es lo que da lugar al surgimiento del centrismo?  Y algo que es más peligroso: ¿en qué estado se encuentra, no el debate, sino el centrismo como opción política en la Cuba actual y cuáles futuras implicaciones?
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

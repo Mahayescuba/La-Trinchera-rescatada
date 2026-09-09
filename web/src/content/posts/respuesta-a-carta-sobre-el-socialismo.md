@@ -1,0 +1,32 @@
+---
+title: "Socialismo"
+date: "2019-09-26T15:34:00+00:00"
+author: ""
+category: "Marxismo en Cuba"
+image: "/wp-content/uploads/2019/09/IMG_20190925_232524.jpg"
+---
+### En respuesta a una carta publicada en Rebelión
+
+**Por: Giordan Rodríguez Milanés**
+
+El socialismo tendrá que ser el anhelo consciente de multitudes lo suficientemente cuantiosas y culturalmente empoderadas, como para hacer tambalear las relaciones de poder históricas entre el Estado, el Mercado y los ciudadanos. Y esto no sucederá sin una crisis global que estremezca la condición humana, nuestros egoísmos, nuestras avaricias, nuestras vanidades sustentadas en el instinto de conservación, la búsqueda de la seguridad y el hedonismo como respuesta a una vida llena de estímulos desagradables o angustias.  
+No hablo de la crisis sociopolítica de un país, una región o un sistema de gobierno, sino una megacrisis de orden antropológico que nos ponga como especie al borde de la extinción. Una crisis que provoque un trauma psicosocial y cultural tal, que cambie la visión que la humanidad tiene de si misma, o que por lo menos cambien la visión de una parte determinante de la humanidad tiene de si misma.  
+Entonces se sabrá que Marx y Engels han tenido razón, y habrá que borrar o convertir en memes toneladas de boludeces que por ahí se han escrito, como mismo ahora sabemos que la concepción del universo de [_Claudio Ptolomeo_](https://es.m.wikipedia.org/wiki/Claudio_Ptolomeo) fue un dislate pero durante cientos de años se creyó en esta y, cuando apareció _[la teoría heliocéntrica](https://es.m.wikipedia.org/wiki/Teoría_heliocéntrica)_, solo unos pocos la admitieron hasta que _[Galileo](https://es.m.wikipedia.org/wiki/Galileo_Galilei)_ inventó el telescopio, si es que finalmente fue Galileo y no se lo afanó a los holandeses, como dicen las malas lenguas.  
+El gran problema de todos los revolucionarios empoderados, que han pretendido construir el socialismo, ha sido que han basado su praxis en la interpretación de las crisis nacionales, regionales o económicas como “La Gran Crisis”, y se han equivocado. Lenin creyó que ya el capitalismo no daba para más en Alemania, y que la inminente asunción al poder del proletariado alemán provocaría una suerte de reacción en cadena en Europa. Se equivocó. Probablemente, a solas con su almohada, en alguna de sus últimas noches conscientes, se dijera a si mismo: _Esto ha sido tremendo embarque_.  
+Stalin no cuenta para el marxismo. Como genio del terror y manipulador de hombres, pasa, pero nada más. Fidel también equivocó los tiempos y la interpretación de las crisis de valores de las que fue testigo a lo largo de su vida. Lo demuestra su excesivo optimismo en el manejo de la economía del cual debió despertar abruptamente en 1970 con el fracaso de la zafra de los 10 millones, y al parecer nunca despertó.  
+También entiendo que cada líder político ha hecho lo que ha podido, determinado por su circunstancia y la interpretación que él y su equipo hagan de esa circunstancia, en contextos donde ha existido escaso o nulo espacio para la crítica ciudadana y la oposición honrada. Porque una cosa es ser marxista de academia o gabinete -y esto no lo digo para que nadie se sienta irrespetado, ni mucho menos, sino porque hay que distinguir los roles, yo mismo ahora estoy comodamente acostado en mi cama en mi habitación climatizada-, y otra cosa es liderar una Revolución, y despues hacer que sobreviva, y tratar de sostenerla.  
+Una cosa soy yo escribiendo aquí cómodamente, y otra Marx pasando hambre o viendo a un hijo morir, o el Che Guevara desandando las lomas con un ataque de asma, y reflexionando críticamente sobre el marxismo. Por supuesto, no se manejan igual los tiempos.  
+Por eso resulta doblememte un dislate considerar que cualquier apertura o cambio o reforma económica en Cuba, en busca del desarrollo de las fuerzas productivas, vaya a redundar en una regresión al capitalismo. Primero, porque en Cuba, entre crisis y consignas, estamos como los tres hermanos de la fábula en la canción de Silvio. Segundo, porque a fuerza de ser reaccionaria esa carta, además de ser antimarxista, muestra un desconocimiento patológico de la historia como proceso social: ninguna reforma hecha en Cuba desde el poder actual podría conducir al capitalismo tal como se conoce y se ha estudiado, porque la superestructura no está diseñada para eso. Sería como pretender que una máquina de _[IBM](https://es.m.wikipedia.org/wiki/IBM)_ trabaje con un sofware de _Macbook_.  
+Pero que una carta sea un dislate no quiere decir que sea inofensiva. Contiene señales. Las señales de lo sórdido, que la Historia nos enseña, ha de sobrevenir a la actual “coyuntura” si analizamos lo que pasó en la URSS después del fracaso de la _Nueva Política Económica_, o en la propia isla luego de las reformas que nos permitieron sortear aquel período especial. Entonces estamos ante una carta constituye tal dislate y que, por reveladora de un pensamiento y una corriente, hay que agradecer. Porque nos está mostrando quiénes son los que, como en infernal círculo, están renunciando a construir el socialismo, del mismo modo en que sus maestros renunciaron a hacerlo: sin ni siquiera saberlo.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

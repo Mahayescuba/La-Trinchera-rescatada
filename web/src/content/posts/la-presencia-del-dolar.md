@@ -1,0 +1,33 @@
+---
+title: "La presencia del dólar"
+date: "2019-10-30T14:19:32+00:00"
+author: "Miguel Alejandro Hayes"
+category: "Economía en Cuba"
+image: "/wp-content/uploads/2019/10/IMG_20191030_101408_059.jpg"
+---
+El dinero es un signo, y como tal, no tiene que estar presente para ejercer su función sígnica de medida de valor -el precio se encarga de ello.  
+De la misma forma que para designar algo -perro, por ejemplo-, no debe haber un _can_ delante; para indicar la expresión del valor, no hay que sacar el dinero, simplemente se señala la cuantía. Y ahí vemos la primera de sus funciones, expuesta por el _Charlie_ en _El_ _Capital_.  
+En Cuba hoy, el dólar -y el aparataje que lo acompaña- es una medida de valor: tal o más cual equipo electrodoméstico, de transporte -y otras clasificaciones que no conozco- tienen un significado respecto a la MLC en un precio.  
+Es ahí, donde recordamos que la esencia del dinero se realiza a través de sus funciones, y la primera de ellas comienza a manifestarse: el dólar transita a convertir en una medida de valor en la razón que este nombra el valor de algunos productos.  
+Es necesario señalar que dicho proceso no debe verse solo en el ámbito del curso legal -aquellos precios reconocidos en el mercado estatal-, sino que, no es nada despreciable el hecho de que el mercado informal/alegal/ilegal tiene el potencial para conformar precios en USD. Estos precios no tienen que tener necesariamente una existencia física ni un curso legal, sino que inevitablemente, en la subjetividad social, al incluirse un nuevo referente de compras – en este caso, uno con un alto fetichismo y símbolo de poder-, es poco controlable que ese espejo del valor se expanda y se convierta en un referente, pero ese es otro tema. Solo interesa resaltar aquí, que el papel de medida de valor del dólar no se limita a donde tiene curso legal, sino que como mínimo, su presencia hace que exista la condición para que la suvjetividad lo tenga en cuenta a la hora de preciar.  
+Por otro lado, es también función del dinero la de ser medio de circulación. Claro que eso no tiene un sentido literal donde es un vehículo donde se montan las mercancías. Es, que, dado el precio, él crea un lenguaje entre las mercancías, a través de las cuales estas se mueven -transacciones-; es decir, el propio precio crea la estructura lógica por la que circulan las mercancías. Y tal cual, está ocurriendo -o empezando a ocurrir ahora en Cuba.  
+Por último, el dinero, es medio de pago y de atesoramiento. Una vez más, la expresión más externa que este adquiere no es importante, y no se debe correr el riesgo de quedarse en las especificidades de contextos [decimonónicos](https://es.wikipedia.org/wiki/Siglo_XIX) donde el dinero debía ser en monedas.  
+Luego de las nuevas medidas, las MLC -aunque se electrónica- se convierten en medio de pago para una parte de los consumidores.  
+Se aprecia como el dólar -electrónico- que se comienza a usar en algunas operaciones mercantiles, funciona -como dinero-. De lo puede afirmarse una dolarización parcial, presencia del dólar como dinero en determinadas operaciones.  
+A pesar de ello, se niega tal fenómeno desde cierto discurso político oficial, entre otros motivos, por confundir la presencia de relaciones sociales con su reconocimiento jurídico; pensamiento este, que continua sobre los esquemas estalinistas, donde por decreto, por mandato, se dice qué existe, y que no.  
+Lo cierto, es que en la misma medida que se van creando proporciones de cambio alrededor de algo -físico o no-, se dan los primeros pasos para la conformación de sus funciones dinerarias. De hecho, así es como inician la creación de las relaciones de cambio que sostienen y dan curso a una moneda.  
+Aceptar la realidad que tenemos, sería el primer paso para dar con las soluciones más certeras. Nos dolarizamos en cierta medida. Hay que saberlo.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-pregunton/
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

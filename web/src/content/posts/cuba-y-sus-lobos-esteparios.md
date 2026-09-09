@@ -1,0 +1,44 @@
+---
+title: "Cuba y sus lobos esteparios"
+date: "2020-05-25T23:00:23+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/05/photo_2020-05-26_00-43-24.jpg"
+---
+Una generación de lobos esteparios irreverentes, que se siente desconectada de su entorno. Aunque paradójicamente, seamos la más interconectada que jamás haya existido.
+
+**Por: [Oscar E. Mendía Véliz](/opinion/)**
+
+El _Lobo Estepario_ de [Herman Hesse](https://es.wikipedia.org/wiki/Hermann_Hesse) es un libro que no quería leer. Demasiado misticismo en torno a ese título tan lejano. Cuba no es tierra de lobos o de estepas.  
+Hace poco (antes de la cuarentena, cuando todavía se hacían cosas), encontré la obra alemana en una librería de segunda mano que está por la esquina de Tejas. Estaba en el fondo, donde los libros con polvo y las enciclopedias desactualizadas. También encontré una primera edición de tapa dura de una biografía de Carlo Magno, y la edición cubana de _La Doctrina del Shock_ de Naomi Klein. Compré los tres, cada uno me costó cincuenta pesos. Pagué mis seis CUC satisfecho. Lo que ahora me tenía que enfrentar al viejo _Lobo Estepario_.  
+El libro me atrapó con la fuerza con que lo hacen algunos de los clásicos. No podía parar de pensar en este hombre trágico e hipersensible que escribía estas palabras hace casi un siglo. Los pensamientos de Harry Haller, el lobo, mantienen intacta su capacidad de expresar conflictos sustanciales de nuestro tiempo. Es un libro apasionado, que muestra a un intelectual nihilista que sufre en solitario la transición entre dos épocas. Un burgués que reniega de su condición, pero no puede separarse de ella. Un individuo que no encaja en su sociedad, atrapado en la lucha entre dos naturalezas: la del hombre y la del lobo. Su existencia es una contradicción, y lo sabe. Este hombre de mediana edad bien podría ser un _millennial_.
+
+![](/wp-content/uploads/2020/05/el-lobo-estepario-hermann-hesse4701152785205596541..jpg)
+
+Su mirada hacia la burguesía de la época es tan crítica como aguda. Leyendo sus pensamientos incluidos en el _Tractac del Lobo Estepario_ (un tratado filosófico que Hesse utiliza como recurso narrativo), no pude evitar sentirme identificado, especialmente como producto de mi generación. Se supone que tenemos cosas que cambiar, pero padecemos de un inmovilismo casi generalizado. No soy muy optimista con respecto a nosotros.  
+Sobre la burguesía de su época, observa Hesse en su ensayo:
+
+> _Lo burgués, como un estado siempre oculto de lo humano, solo es el ensayo de un resarcimiento, el interés de un término medio de acuerdo entre los innumerables extremos y dilemas confrontados del comportamiento humano. (…) El burgués trata de vivir en un punto medio placentero y conveniente. Jamás tendrá que sacrificarse o entregarse a la embriaguez ni a la mesura, jamás permitirá su aniquilación ni será mártir._
+
+Aquí me detengo y reflexiono sobre nuestra generación. Constantemente perseguimos lo fácil y evadimos los riesgos. Nos sentimos cómodos y seguros detrás de una pantalla. Vivimos en una gran zona de confort y no la valoramos. ¿Cuándo el individuo ha sido más importante que ahora?  
+Hesse continúa su análisis sobre esta zona templada donde opera la burguesía de su tiempo:
+
+> _(…) únicamente cosecha quietud de conciencia; en lugar de placer, bienestar; en lugar de libertad, placidez y comodidad; en lugar de fuego ardiente, una temperatura agradable. Por consiguiente, el burgués, por naturaleza, es un ser de frágil impulso vital, miedoso, con temor a la entrega de sí mismo, fácil de gobernar._
+
+Esta descripción pareciera encajar con el individuo moderno. Más específico aún, con el arquetipo de joven _cool_ posmoderno, tan incapaz de sacrificar su preciado yo en cualquier suerte de hazaña heroica. Al igual que este lobo de las estepas, somos una generación irreverente que se siente desconectada de su entorno. Aunque paradójicamente, seamos la más interconectada que jamás haya existido. Todo lo relacionado con este siglo pareciera estar desprovisto de una profundidad real.  
+Esto me hace pensar en nuestra incapacidad generacional como agentes de cambio. Como los constructores de un país que nos necesita. La Cuba actual experimenta una profunda dicotomía, al igual que el lobo estepario. Nuestra visión sesgada solo alcanza a ver dos caminos posibles. Socialismo o Capitalismo. Los que apoyan incondicionalmente al gobierno, y los que piden su cabeza. Los de adentro, y los de afuera. Somos prisioneros de un pensamiento binario extremadamente improductivo.
+
+Al final del libro, en una especie de viaje de ácido revelador, el lobo estepario logra un autoconocimiento de sus innumerables _yos_. Solo así es capaz de vislumbrar la posibilidad de modular todas estas personalidades que confluyen en su interior, y que actúan como procesos concatenados de su existencia como individuo. ¿Acaso Cuba no podría hacer lo mismo que Harry Haller?  
+Dentro de nuestras fronteras también cohabitan muchos _yos_. Tenemos que someterlos a un escáner propio y decidir el tipo de país que queremos. Identificar los lastres que deben ser removidos, y los logros que se han de mantener. Cuba tiene las condiciones para convertirse en una sociedad realmente paradigmática. Mientras la izquierda del mundo lucha infructuosamente contra un capitalismo invulnerable, nosotros aún podemos decidir nuestro destino. Partiendo de una postura anticapitalista, podemos avanzar hacia un futuro próspero, justo, democrático y ecológico.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

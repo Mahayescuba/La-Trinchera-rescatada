@@ -1,0 +1,35 @@
+---
+title: "Periodismo"
+date: "2019-11-23T21:26:49+00:00"
+author: ""
+category: "Opinión"
+image: "/wp-content/uploads/2019/11/IMG_20191123_014258_468.jpg"
+---
+Periodismo. 
+
+**Por: Jorge Fernández Era**
+
+  
+El periódico _Granma_ y el _Noticiero Nacional_ _de Televisión_ nos han dado en los últimos días algunas lecciones de periodismo.  
+Quise decir lesiones.  
+El rey de España hace un discurso en la cena que le brindó al presidente cubano, y —a manera de capitanes generales— los que deciden qué es nocivo o no para nuestras frágiles conciencias deciden tachar del periódico unos cuantos párrafos incómodos. Poco faltó para poner en boca de su majestad la disposición de él y su consorte Leticia, aprovechando el viaje a Santiago de Cuba, de participar en la visita gubernamental a Guantánamo.  
+Mientras los diversos equipos de trabajo del Consejo de Ministros se movían —¿en bueyes?— por la geografía de la provincia más oriental de la Isla, constatando lo bien que van los guantanameros en superar las deficiencias detectadas en similar visita del año pasado —y les dejaban algún que otro señalamiento para volver el próximo—, en el principal órgano de prensa salió a toda página el [reportaje](http://www.granma.cu/cuba/2019-11-14/para-multiplicar-dividendos-cafe-con-denominacion-de-origen-14-11-2019-23-11-45) «Para multiplicar dividendos: café con denominación de origen», gracias al cual nos enteramos de que «algunas cadenas especializadas lo adquieren a precios que superan los cien dólares el kilogramo». Se nos dice en tiempos en que en el mercado minorista no es posible comprarlo a precio alguno, y tenemos que pagarlo en el mercado negro, no importa origen ni denominación, a guarismos que no dejan dividendos en nuestros magros bolsillos.  
+Días después se reseña el discurso de Reinaldo García Zapata, presidente del gobierno de la capital, en la sesión solemne por el aniversario 500 de San Cristóbal de La Habana. Mira que habló, mira que dijo cosas, mira que mencionó hechos prominentes de la historia y la cultura de estas cinco centurias. Pero la frase que escogió el órgano oficial del Comité Central del Partido Comunista de Cuba para titular la noticia fue aquella donde, en un rapto de triunfalismo galopante —hay que ver el efecto que dejan los fuegos artificiales—, [manifestó](http://www.granma.cu/cuba/2019-11-16/asistieron-raul-castro-y-diaz-canel-a-la-sesion-solemne-de-la-asamblea-provincial-del-poder-popular-de-la-habana-16-11-2019-13-11-07) que «los mejores tiempos de la ciudad fueron los últimos 60 años». Imagino se refiera a que antes llovía menos o no entraba tanto frente frío.  
+Pero al pomo nos lo dejan sin tapa cuando se lee y escucha sobre los sucesos en el Mercado Único el día de su reinauguración. Después de solicitar la comprensión de sus clientes, la corporación Cimex explica que «ante la masividad de público se precisa realizar ajustes propios de la puesta en marcha». Y hasta ahí la puesta (en escena), la farsa, porque uno ha visto por las redes que lo sucedido ha estado más cerca de ajustes de cuentas entre bandas criminales que de los mencionados «ajustes propios».  
+El NTV, tardíamente, añade que «allí se produjeron desagradables actos de acaparamiento, violaciones de las normas establecidas para la entrada a un establecimiento comercial y, ante esa avalancha descontrolada, la rotura de algunas estructuras y también riñas». La periodista se queja de que la reventa a precios exorbitantes (de productos que ya se nos venden a precios exorbitantes, agrego) es un fenómeno que no acaba de tener solución, y que «el desabastecimiento de productos de primera necesidad en los últimos meses en la red de tiendas colocó a los consumidores en la expectativa de acceder a ellos en el muy abastecido Mercado de Cuatro Caminos». Remata con que debemos hablar hoy no solo de derechos, sino de deberes de los consumidores, y que las medidas tienen que ser más severas y ejemplarizantes.  
+De acuerdo. Ninguna sociedad puede dejar espacios a la impunidad, a esos que violan las más elementales normas de urbanidad y de convivencia. Pero para reprimirlos están las fuerzas del orden, y el noticiero no indaga cómo fue posible que a las autoridades «se les fuera de las manos» la situación, cuando las imágenes difundidas en Internet —que llenan el vacío que ella y sus colegas crean con su ineptitud y silencio cómplice— revelan que, en materia de seguridad, más que un mercado parecía abrirse una frontera. Tampoco cuestiona el principal espacio desinformativo de la televisión a quienes tuvieron el desatino de «sembrar», en un muy desabastecido mercado, productos desaparecidos de las alacenas de la medio milenaria villa, de anunciar mameyes cuando todavía no ha llegado su hora. No entrevista, qué va, a ninguno de los funcionarios que días antes cortaron la cinta, porque es más fácil emprenderla contra delincuentes que son fruto, aunque nos duela, de la (de)formación educacional y cultural de una sociedad que ha ido perdiendo los valores que la sustentan.  
+Así es como el periodismo «revolucionario» disecciona la realidad. No se asombre si mañana aparece un funcionario público declarando que los mejores tiempos del Mercado de Cuatro Caminos fueron los primeros 60 minutos de reapertura.
+
+periodismo periodismo
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

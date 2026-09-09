@@ -1,0 +1,52 @@
+---
+title: "¿Es la econometría una ciencia social?"
+date: "2019-02-02T06:47:56+00:00"
+author: "Joel Ernesto Marill Domenech"
+category: "Economía Política"
+image: "/wp-content/uploads/2019/02/ff3b5d32711b8a8f60fb2f68c25bde42.jpg"
+---
+_Artículo escrito a propósito del texto “Alegato por la econometría” de Jesús M. García Molina, publicado en el blog El Estado como tal el 17 de enero de 2018_
+
+> “Es absurdo someter al pensamiento, ocupado con el estudio de objetos cambiantes, al dictado de reglas del discurso particulares mediante un objeto tan invariable como es la señal – símbolo dentro de una construcción simbólica artificial” ([Edwald Ilienkov, El problema de la contradicción en la Lógica](https://marxismocritico.com/2017/03/22/el-problema-de-la-contradiccion-en-la-logica-evald-ilienkov/))
+
+Este comentario solo va dirigido a una parte muy breve, pero sin duda relevante del texto del compañero García Molina, precisamente el momento que expresa: _“Entre las muchas definiciones de econometría pudiéramos entenderla como la ciencia social que combina la teoría económica, las matemáticas y la inferencia estadística para analizar los fenómenos económicos y se relaciona empíricamente con las leyes económicas”_. El hecho de definir a la econometría como ciencia social, no pasa desapercibido, y sobre ese elemento en particular me gustaría aportar unas breves notas.  
+El objeto de estudio de una ciencia queda definido sin duda por el contenido real que piensa, del que extrae sus determinaciones y avanza en él, sorteando las dificultades que aparecen en el desarrollo de cualquier investigación científica.  
+El objeto de pensamientos de una ciencia definida como social, no podría ser otro que las regularidades y formas de manifestación de parte del sistema de relaciones sociales humanas que dan forma a una totalidad orgánica de elementos, común mente definida como “sociedad”. Relaciones sociales, entendidas aquí como relaciones de producción, tanto espiritual como material de los seres humanos, en otras palabras, relaciones de producción de la vida individual y social de nuestra especie.  
+Observando detenidamente el principio del que parte la econometría, no es difícil percatarse de que la misma se funda en el estudio de elementos puramente formales, que en su dinámica se despliegan como herramientas distanciadas de toda realidad social. Pueden proceder tanto de invenciones de las matemáticas, como la física u otras ciencias naturales o bien desplegarse como elementos derivados del estudio de formas ya definidas en el propio campo de la llamada Econometría Teórica.
+
+> Los econometristas no piensa en tanto ciencia la dinámica real de auto movimiento de un objeto social,
+
+las determinaciones y contradicciones en el mismo presentada. Parten de la creación de herramientas totalmente externas a cualquier objeto social, que luego de su desarrollo son empleadas para el análisis de elementos de ese objeto. Dicho de otra manera, la econometría no tiene como su objeto de pensamiento el estudio sistemático de un sistema de relaciones humanas, sino el análisis y desarrollo de herramientas formales y vacías que luego pueden aplicarse a un contenido determinado, fundamentalmente un contenido de tipo social. Y es aquí donde se trastoca el pensamiento y da la sensación entonces de que, si el fin último de los desarrollos teóricos de la econometría van dirigidos al estudio de un contenido social, pues entonces dicha ciencia es por definición una ciencia social.  
+Sale entonces a relucir un hecho que muchos tienden a pasar por alto, un principio fundamental del análisis de cualquier sistema que se pretenda ciencia:
+
+> el hecho indiscutible de que el método es sin duda inmanente al contendido.
+
+No existen métodos universales que, construidos fuera de la lógica de un objeto determinado, logre captar realmente la dinámica de existencia de ese contenido. No existe, a pesar de los redoblados esfuerzos de los positivistas, ese sistema de reglas y símbolos capaces de explicar por igual el comportamiento de los precios del pescado y el desarrollo de las comunidades de pingüinos en el polo norte.  
+La econometría como ciencia que parte del pensamiento de elementos formales puros, desarrolla y se somete a la lógica de dichos elementos, las reglas que permiten la concordancia y coherencia de los mismos. Por ende, desarrolla y fija la lógica de las formas propia que estudia, formas y lógicas que luego impone como universal a contenidos específicos, tratando mediante dicha imposición de explicar el movimiento de los segundos (los contenidos) desde de los primeros (elementos formales derivados de los adelantos de la ecometría teórica).  
+No es una ciencia que avance en el descubrimiento de las determinaciones presentadas por un contenido social, sino un mero instrumental que trata, generalmente sin muy buenos resultados, de imponer lógicas externamente formuladas a contenidos que hasta último momento le son ajenos.  
+Aunque en algunos momentos logra describir dicho contenido y pareciera que incluso pueda ser predictiva de su desarrollo futuro, en lo que nunca podrá convertirse es en una ciencia demostrativa de aquello que en principio muestra.  
+Puede ser solo demostrativa dentro de su propio instrumental, dentro del objeto que verdaderamente piensa, aquí puede demostrar elementos como la insesgades de sus estimadores o la fiabilidad de sus márgenes de confianza. Sin embargo, no puede más que mostrar el comportamiento de un proceso social, pero no demostrar el por qué que determina dicho comportamiento.  
+Digamos que puede describir la relación inversión- crecimiento para una economía, pero será incapaz de demostrar porque existe dicha relación. Recurre así a elementos externos, a construcciones teóricas previas o futuras, carente de herramientas que le permitan dar una explicación coherente, pues eso sería del todo exceder sus propios límites, pasar a pensar un contenido, más allá de las formas puras (que también son un contenido valga decir).  
+Aquí se derrumba el castillo de naipes de algunos positivistas, que tratan de perpetuar la confusión que hoy impera en otras ciencias, como la conversión de la historia en simple hechografía.
+
+> La historia como ciencia social, que no estudia la consecutividad de hechos en un orden cronológico,
+
+ni es el estudio aislado de documentos, sino el análisis del movimiento de un determinado sistema de relaciones, un contenido determinado, en su devenir, en su cambio a través de los diferentes momentos que lo han conformado. Es en esencia el estudio del desarrollo de las relaciones humanas de producción espiritual y material en su perspectiva histórica.  
+Y ahí esta la diferencia, que los positivistas pretenden enterrar, entre la historia como ciencia social que estudia el devenir histórico de un sistema de relaciones sociales en desarrollo, con la hechografía positivista que ve la historia como consecutivita de hechos, documentos y procesos, que aun con relación entre sí no logran constituirse como un solo contenido. En palabras de Wittgenstein, destacado representante del neopositivismo:
+
+> “el mundo es una totalidad de hechos, y no de cosas, el mundo se divide en hechos y cualquier hecho puede tener lugar o no, y todo lo restante continúa siendo lo mismo.”
+
+Igualmente pasa en la vulgarización de otras ciencias sociales, especialmente en la propia economía que pasó de analizar relaciones reales de los hombres al análisis de las formas ideales y vacías de los modelos perfectos que hoy pululan en el ideario de la escuela neoclásica, y que poco a poco ha calado e infestado hasta la médula casi todo lo que como heterodoxo podía entenderse en las ciencias económicas. Solo una parte de los marxistas y postkeynesianos constituyen la última línea de defensa ante las embestidas del “pensamiento único”.  
+No le pidamos peras al olmo, más que todo porque los principales representantes de dicho campo han sido lo suficientemente cautos de entender que es un olmo. La econometría que estudia y crea métodos y procedimientos externos al objeto social que pretendidamente dice analizar, y luego le impone esos esquemas fijos para su análisis, no puede ser por ninguna razón elevada al alto grado de ciencia social. Debe ser posicionada como lo que es, una herramienta más en el instrumental analítico de las ciencias positivistas.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

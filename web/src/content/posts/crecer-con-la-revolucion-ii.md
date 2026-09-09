@@ -1,0 +1,64 @@
+---
+title: "Crecer con la revolución"
+date: "2019-05-29T06:58:31+00:00"
+author: ""
+category: "Opinión"
+image: "/wp-content/uploads/2019/05/PicsArt_05-29-02.48.31.jpg"
+---
+Crecer con la revolución Cubana es una bella experiencia.
+
+**Por: María del Pilar Díaz Castañón**
+
+> II
+
+#### La escuela al campo
+
+Las escuelas al campo merecen lugar propio. Durante la cuasi infancia y adolescencia, fueron el escenario esencial de nuestra actividad revolucionaria. Claro que después no le importaron a nadie, y no tuvieron lugar en las planillas que nos pedían llenar.  
+Para la historia de nosotros, la generación sin historia, hago constar que las escuelas al campo fueron una ingenuidad bien intencionada, pero ingenuidad al fin. ¿Por qué las niñas de La Habana tenían que ir a Camagüey, a ver? ¿A nadie se le ocurrió calcular los gastos de transporte? No era una época que gastara mucho tiempo en calcular, porque las cosas tenían que hacerse “ya”. Sí. La generación fundacional decía “esto es para ayer”. A nosotros, nos tocó el “esto es ya”.  
+Y así fuimos a Camagüey las niñas de La Habana. En una guagua de palo, si quiere saberlo. ¿Qué era una guagua de palo? Cualquiera de las viejas y duras Leyland que todavía andaban por ahí, resistentes pero no diseñadas ni para viajes largos, ni para cargar con nosotras y nuestras maletas, esas sí de palo de verdad. ¿De dónde querían que sacáramos maletas? Algunas llevamos maletas de verdad. Qué error.  
+Nos dieron – era la época de dar- botas, pantalones y hamacas; jabón de lavar y de olor, que entonces empezó a cambiar el nombre por “el de bañarse”. También nos dieron almohadillas sanitarias y jabón para la sarna. Las sufridas madres hicieron mochilas, almohaditas con sus fundas para las niñas y buscaron cantimploras o pomos grandes para el agua por toda la familia, amigos y colegas. Nosotras hicimos en “Economía Doméstica” – las últimas en recibir esa asignatura- bolsitas de tela para los cubiertos.  
+Una de las consecuencias más imprevistas de la movilidad revolucionaria es que se mezclan personas que de otro modo no se hubiera visto ni en pintura. En las casas vacías claro que se metió revolucionariamente gente –ni se crean que voy a hacer el cuento de los que vendieron los inodoros en Miramar. Esa no es mi generación- y a otros se las dieron, también revolucionariamente, de modo que a los amigos de Primaria se sumaban gente con hábitos, tradiciones y costumbres muy distintas. Pero todos vivían en El Vedado, eso sí.  
+La primera “Escuela al Campo” fue un desastre. Hablo de la primera que realmente se hizo; la primera “primera” fue en [Batabanó](https://es.wikipedia.org/wiki/Bataban%C3%B3), y hubo que sacar a los muchachos a los dos días por un ciclón. La primera fue nuestra aventura camagüeyana, donde tras horas y horas de viaje llegamos molidas a nuestro destino: una granja de pollos.  
+Resultó que éramos muchas más que los pollos, así que las literas no alcanzaban. La jefa nos dijo que al día siguiente saldríamos para nuestro campamento real, y que nos acomodáramos como pudiéramos. Así que desgracié el fondo de la maleta de piel que le habían prestado a mi madre al arrastrarla bajo una litera ajena (me tocaba una, pero a un comino de 10 años claro que le quitan la litera) y me pasé la noche en el comedor, oyendo los cuentos que mi nueva amiga Rirri hacía de su natal Santiago.  
+Al día siguiente nos llevaron al campamento real. “La Teresa”, en Ciego de Ávila. Ay Dios.  
+Descampado árido cerca de la línea del tren (ya no pasaba por ahí), y lejos de todo lo demás. Una larga nave de techo de zinc (de esas que lo achicharran de día y lo congelan de noche), otra nave, el comedor. Y ya. Ni un bohío a lo lejos. Nada.  
+¿Bañarse? Detrás del comedor había una pared con una tubería, a la que le habían abierto muchos agujeros con clavos, al parecer. Salían unos chorritos tímidos.  
+¿Las letrinas? De zapatones. A ver cómo se le explica a la nueva generación qué rayos es una letrina de zapatones. Creí que era un invento cubano hasta que añísimos más tarde me excusé en medio de una cena en París para ir al baño y horror, me topé con una letrina de zapatones. Es decir, dos ladrillos marcan el lugar en que uno tiene que poner los zapatos para no caerse en el hueco que está en el medio. En París, había agua corriendo constantemente, y me explicaron que no podían cambiar las tuberías en las casas del siglo XVII y por eso usaban aquel artilugio. En “La Teresa”, no me explicaron nada. Y claro que no había agua.  
+La ausencia de explicaciones fue sustituida por la ola de rumores. “Esto era una granja de la umá”. Qué sería la “umá”, ni idea. “Aquí había presos” ya era más revelador, pero tardé lustros en saber qué habían sido las UMAP: Unidades Militares de Ayuda a la Producción, donde se recogieron a los homosexuales o tenidos por tales. A mí, no me pregunten. En todas mis andanzas por archivos y bibliotecas nunca he encontrado constancia escrita de algo que todo el mundo sabe que existió.  
+Al fin la jefa del campamento entendió que la mejor manera de callarnos era alimentarnos. Vamos a comer, pensamos, y nos organizamos por aula en una larga fila junto a la nave que estaba ahí, en el medio de nada. Detrás, estaban las “duchas”.  
+Tenían que estar ahí porque era donde único había agua. De un lado, las “duchas”, del otro, la entrada de agua del fregadero de la cocina.  
+En el comedor había dos mesas larguísimas: tapa de cemento pulido, patas de cemento sin pulir. Uno se sentaba en un banco inmóvil y entraba como podía, en general, girando sobre las nalgas.  
+La jefa se plantó en la entrada del comedor, y nos sopló un largo discurso acerca de la revolución, nuestro deber, lo buenas que éramos por haber dado el paso al frente cuando la gran mayoría lo había dado hacia atrás, nos dijo que comiéramos, y que luego pasaríamos a ser distribuidas por nuestras literas.  
+Empezó la comelata. Una lata de “spam” para dos comensales (del chino, no del ruso que era pura grasa) bandejas de lata llenas de galletas de sal y en cada mesa tres o cuatro pomos que habían sido de mermelada de fruta bomba, ahora llenos de margarina. De tomar, un refresco pasable, caliente, por supuesto. No me diga que usted pensó que teníamos electricidad.  
+Las niñas pequeñas sacamos nuestros cubiertos de la bolsita, los pusimos educadamente en la ranura correspondiente de la bandeja plástica personal y no colectiva, y nos dispusimos a comer.  
+Ahí empezó el bombardeo de burlas de las mayores.  
+Miren a esas finas… ¡comiendo el “spam” con cuchillo y tenedor!  
+¿Para qué necesitan esas bitongas tantos cubiertos?  
+Óyeme, ¿a quién se le ocurre cargar con servilletas?  
+Las mayores tenían entre 17 y 20, y las menores entre 12 y 13. Yo era la menor menor. El dato es para que entiendan que a la minoría de los grupos A y B les cayó en masa y sin preparación previa la burla agresiva del resto del alfabeto (hasta la H). Ahí nos dimos cuenta: los cuarenta y cinco días iban a ser muy largos.  
+Para empezar, las literas no eran literas. Imagine cuatro palos más o menos rectos, que sujetaban un saco más o menos estirado. ¿Qué hicimos? Pusimos la hamaca encima del saco, encima de la hamaca las sábanas, encima la frazada, la almohadita y el mosquitero. La ausencia de armarios y gavetas convirtió la litera en un almacén, y entre hamaca y sábana cabían libros, linternas y pomos de agua. Aprendí a dormir más inmóvil que una tabla de planchar.  
+Para seguir, nos quedamos sin comida. En serio. La enérgica jefa de campamento nunca hizo inventario del almacén, y acabó con las reservas en una semana. Sobrevivimos gracias a la generosidad de varios campamentos militares que andaban por ahí, no sabíamos bien por qué.  
+El baño era toda una aventura. (Quitarse la mugre, no la visita a las letrinas). Las niñas no podían bañarse encueras bajo los chorritos tímidos, así que hicieron una caseta. UNA. Competíamos por llegar rápido para hacer la cola de la lata donde se calentaba el agua. El turno para la caseta era por grupos. Las “cultas”, como nos decían, nos sentábamos a leer sobre una piedra esperando el turno. Las impacientes se iban para los chorritos.  
+Y desde luego que no fuimos rentables. Más adelante, más o menos. Con el tabaco, usted recoge, ensarta la hoja o carga cujes; con las papas, usted se echa al hombro los pesados jolongos y entierra la semilla; con los pimientos “de exportación” (nunca supimos el destino) basta frotarlos con “hipoclorito de churre” (así le decían) para darle brillo, y ya. ¿La malanga? Pues se cae para atrás sacándola, pero la saca. ¿La caña? Se pincha por todos lados pero la traslada de acá para allá.  
+El punto es que alguien le dice lo que tiene que hacer, y usted lo hace, mal o bien. En Camagüey nos pusieron a desyerbar caña. El campesino que nos instruyó, nos explicó cuidadosamente la diferencia entre las hierbas y esta hierbecita, que era la que había que arrancar. Y lo hicimos con entusiasmo. La hierbecita resulto ser la caña.  
+Ya ve: no fuimos rentables porque trabajamos a conciencia. Con el tiempo, entendí por qué había tantos campamentos militares por los alrededores. Camagüey, 1965.  
+El principio de estudio-trabajo, que por suerte murió con aquella primera experiencia, exigía que diéramos clase por la tarde, tras el trabajo de la mañana. No todos los profesores fueron, por supuesto que eran los monitores quienes daban las clases y sin discusión, hacíamos lo que podíamos, pero los resultados de los exámenes (hechos ahí, sentadas sobre un árbol), fueron un desastre.  
+Ni piense que estábamos en un sufrimiento perpetuo. Como me hizo notar mi amiga Mayra (que no fue a ese campo), nos divertimos muchísimo. Éramos niñas que íbamos para adolescentes, de modo que si en el lejano Camagüey lo único que pudimos hacer fue un grupo de teatro (“La Zapatera Prodigiosa”, de Lorca. Cultura, sí teníamos.) y un dúo que asesinaba la mazurca de la “Luisa Fernanda”(¿sombrillas? Por favor, un palo, mucha mímica y ojo con caerte de la carreta que hacía de escenario). Luego nos pusimos creativas.  
+Estábamos lejos de la casa, teníamos o íbamos a tener novio, trasnochábamos hasta las tantas cantando al son de guitarras de dudosa ejecutoria, nos desgañitábamos en los camiones con las melodías de la década hoy prodigiosa y otras que no sé cómo llegaron hasta nosotros (“en el asilo de Torrens, anabaná baná…”). Claro que nos divertimos.  
+Y aprendimos. Aprendimos que no todas las niñas tienen el mismo vocabulario. Aprendimos a comer igual que las demás. Aprendimos a lavar la ropa. Aprendimos que no todas las niñas eran niñas. Aprendimos a comer cosas extrañísimas (harina y pan frito, por ejemplo) que luego hacíamos en las casas.  
+Aprendimos a ser importantes, porque lo que hacíamos era muy importante. Éramos las futuras abuelas del Ejército Juvenil del Trabajo, la mano de obra para hacer funcionar la agricultura tan necesaria para el país.  
+También, por desgracia, aprendimos que no todo lo que un maestro dice es cierto, y que muchos disfrutaban hasta el masoquismo su pequeño espacio de poder. Esa, es otra historia.
+
+revolución cubana revolución cubana revolución cubana revolución cubana revolución cubana revolución cubana revolución cubana
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

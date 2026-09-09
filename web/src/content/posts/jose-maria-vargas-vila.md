@@ -1,0 +1,35 @@
+---
+title: "No doblo la rodilla ante ningún mortal"
+date: "2019-04-21T20:42:22+00:00"
+author: ""
+category: "Opinión"
+image: "/wp-content/uploads/2019/04/PicsArt_04-22-02.16.23-1.jpg"
+---
+Hacerme esta pregunta requirió una respuesta de lecturas variadas y el José María Vargas Vila que descubría no era el que había formado en mi conciencia a lo largo de los años.
+
+**Por: Sender Escobar**  
+Durante mi adolescencia uno de los temas más recurrentes que abarcaban el mayor porciento de diálogo entre los que aún no lográbamos calibrar correctamente la mirilla telescópica amorosa, eran los modos y métodos de conquista. Recuerdo que observaba detenidamente la estrategia de los más exitosos en este campo de batalla, muchas veces [Waterloo](https://es.wikipedia.org/wiki/Batalla_de_Waterloo), si eras Napoleón o Wellington.  
+La fuente bibliográfica a la que siempre acudía era un amigo que según consenso femenino general en mi secundaria, era uno de los muchachos más atractivos, y por demás, envidiado y admirado en escalas similares. En una esas conversaciones-consultas un nombre llamó mi atención, dicho nombre que aún para muchos todavía en este siglo no se ha transfigurado en hombre, fue José María Vargas Vila. _¿Quién?_ pregunté dejando al descubierto mi ignorancia rotunda, y entonces mi amigo comenzó a hacerme la historia de los libros de Vargas Vila, sus cartas, además de la archiconocida leyenda urbana de cómo conquistó a su propia madre en una fiesta de disfraces. _La labia no falla_, dijo mi amigo.  
+En casa de una tía abuela, octogenaria ya, ayudando a la limpieza de un closet encontré un pequeño libro llamado “Copos de Nieve” y al abrirlo en una de sus primeras páginas un señor achinado de bigote me miró desde el pasado y el polvo, _ah, así era_, me dije. Comenté el hallazgo con mi madre quien me respondió que a ella no le gustaba la literatura de Vargas Vila porque hablaba mal de las mujeres.  
+Cuando estudiaba en el pre comencé a levantar pesas en buscando contrarrestar mi delgadez y ser un poco más agradable a la vista femenina en alguna piscina o playa. Entre las conversaciones típicas de gimnasio apareció nuevamente Vargas Vila, el moderador del panel improvisado contaba (aparte de la ya conocida conquista edípica) sobre la aptitud de este señor para con las mujeres y la desconfianza absoluta hasta en él mismo, _No me fío ni de mi propia sombra_, dijo que había escrito, y por último una homosexualidad experimental contenida en su diario personal, _Ya lo sé todo sobre las mujeres ahora…_  
+Continuaba creciendo en mí el mito de un ser moldeado acorde a la imagen y semejanza particular de cada quien, defensor o enemigo. Pasados algunos años en el noticiero del mediodía realizaron un reportaje del lanzamiento de un libro de Vargas Vila sobre el imperialismo norteamericano llamado “Ante los Bárbaros”.  
+Entonces ¿quien era realmente José María Vargas Vila, un hombre complejo con Edipo, novelista cursi y misógino, un eterno desconfiado, un heterosexual en búsqueda de experiencias homoeróticas, un escritor político?¿Cuál de los Vargas Vila conocido a voces sería él verdadero?  
+Tratando de alejarme de las naturales tergiversaciones decidí buscar a otro Vargas Vila y fue entonces donde apareció otro personaje fundamental para la historia latinoamericana, José Martí. El apóstol cubano sostuvo amistad y declarada admiración con el polémico colombiano, coincidieron en la fría Nueva York en los tiempos de la tregua fecunda. Como testimonio, el propio Vargas Vila escribió un artículo sobre su encuentro con Martí en la urbe norteña. El más universal de los cubanos lo había invitado para un evento patriótico donde realizó una intervención propia de su oratoria magistral.  
+Volví a interrogarme cómo sería posible que José Martí, un ser que rozaba lo divino cuando se trataba de humanidad, podía ser amigo de un misógino, mujeriego y autor de literatura intranscendente. Entonces había algo mayor dentro de los mitos vargavilianos que no se ajustaba a la realidad vivida por el colombiano. Hacerme esta pregunta requirió una respuesta de lecturas variadas y el José María Vargas Vila que descubría no era el que había formado en mi conciencia a lo largo de los años:  
+Nacido en la Confederación Granadina en 1860, desde joven, la defensa por la libertad individual fue una de sus causas beli a lo largo de su vida. Ejerció el magisterio en varias ciudades de Colombia, labor que abandonó para combatir del lado liberal durante la guerra civil de la época. Exiliado en Venezuela debido a los enfrentamientos declarados con el gobierno conservador de Rafael Núñez, su labor periodística comenzó a despuntar al fundar y dirigir las revistas _Eco Andino_ y _Los Refractarios_. Expulsado también de Venezuela parte hacia Nueva York en 1891 donde conoce a Martí y continúa su labor política e intelectual redactando artículos periodísticos además de fundar la _Revista Ilustrada Hispanoamericana._  
+Nombrado por el presidente ecuatoriano Eloy Alfaro embajador en Roma, su postura anticlerical fue una de sus más fervientes posiciones, cuando expresa al Papa mismo que él no se arrodillaba ante ningún mortal, y menos alguien que representaba una hegemonía tan autocrática como el clero de entonces. Excomulgado en el año inaugural del siglo XX por su novela “Ibis”, noticia recibió con sumo agrado. Declarado persona no grata en Estados Unidos por su libro “Ante los bárbaros” en 1903, el destierro de tierra ajena volvía a ser su compañero. Terminó residiendo definitivamente en Barcelona, donde continúo su obra literaria y política. Anarquista declarado, pero sobre todo latinoamericano, Vargas Vilas fue un hombre de polémicas continuas, pagando el precio de su pensamiento con constantes exilios.  
+¿Puede un hombre así ser inmortal en la historia de un continente? ¿El mito popular ha superado la realidad histórica? Al final somos los seres humanos quienes construimos la historia a nuestra conveniencia, pero el pasado continúa siendo el portador de la verdad.Sea como fuere, ha llegado hasta nuestros días un hombre que se mantiene de pie con la rodilla indoblegable defendiendo su verdad.
+
+[Otro texto del autor](/onirica/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

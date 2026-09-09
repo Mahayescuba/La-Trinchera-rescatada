@@ -1,0 +1,50 @@
+---
+title: "Por aquí ya pasamos…"
+date: "2018-08-01T12:00:12+00:00"
+author: ""
+category: "Economía en Cuba"
+image: "/wp-content/uploads/2018/07/Gaceta-Oficial-Cuba-y-Negocios-870x600.jpg"
+---
+Este nuevo episodio en el interminable zigzagueo alrededor del trabajo privado se anunció bajo la sugerente etiqueta de “Política para el Perfeccionamiento del Trabajo por Cuenta Propia”.
+
+**Por: Ricardo Torres**
+
+El 10 de julio de 2018, luego de 11 meses y 10 días, la Gaceta Oficial de la República publicó un numeroso conjunto de normas que incluye: 5 decretos-leyes, un decreto, y 14 resoluciones, que abarcan un gran total 129 páginas de modificaciones en el marco regulatorio relevante para los denominados “Trabajadores por Cuenta Propia”. Este nuevo episodio en el interminable zigzagueo alrededor del trabajo privado se anunció bajo la sugerente etiqueta de “Política para el Perfeccionamiento del Trabajo por Cuenta Propia”.
+
+**La abrumadora mayoría de los cambios introducidos constituyen nuevas restricciones para el ejercicio de estas actividades.** No es ocioso recordar que en 2010 se decidió retomar el “cuentapropismo”, a pesar de que a inicios de los 2000 se diera marcha atrás a la apertura iniciada en 1993, cuando el país tocaba fondo durante la peor crisis económica en décadas. Aquel paso atrás provocó que muchos proyectos personales y familiares fueran pospuestos o quedaran truncos para siempre. **Aquí ya estuvimos, y no satisfizo a nadie. La muestra más fehaciente de ello es que se retomó con nuevos bríos como eje clave de la reforma actual.** Hoy, como entonces, cuesta entender este nuevo retroceso, injustificable salvo por razones muy ajenas a las necesidades de desarrollo de un país como Cuba.
+
+Este nuevo curso tiene repercusiones negativas en el plano socioeconómico. En una economía con un precario escenario fiscal, se pueden contar por millones de pesos los ingresos dejados de recibir por el Presupuesto del Estado por concepto de impuestos, desde que se paralizó la entrega de nuevas licencias el 1 de agosto de 2017. Los “cuentapropistas” pagan varios tipos de tributos incluyendo impuesto sobre ventas, fuerza de trabajo, ingresos personales y seguridad social. Aunque no se dispone de datos para establecer exactamente el monto de su aporte, se puede suponer que representan una parte abrumadora de los impuestos sobre ingresos personales, sobre la base de considerar el explosivo crecimiento de los contribuyentes hasta 2017, cuyo número más que se triplicó desde 2009. Sin embargo, los ingresos al presupuesto (impuesto sobre ingresos personales) crecieron más de 4,8 veces. Sobre esta base, se pueden estimar unas pérdidas mínimas (dado que no se han considerado otros impuestos) del orden de los 900 millones de pesos. Para ponerlo en perspectiva, este monto es casi equivalente a los gastos corrientes de las actividades comunales y otros servicios personales en 2016.
+
+La entrega de nuevas licencias se prevé para el 7 de diciembre de 2018, cuando se habrán acumulado 16 meses de la moratoria. **La afectación se anticipa permanente dado que muchas de las nuevas medidas tienen un efecto disuasorio, y los que ya poseen los permisos serán aún más cautos antes de comprometer cantidades adicionales de recursos en un escenario de alta incertidumbre.**
+
+Otra área con una afectación sensible es el empleo. Se dejaron de crear miles de puestos de trabajo, por los negocios que no abrieron y por la incertidumbre que se instaló sobre los que ya estaban operando. La imposición de barreras de entrada adicionales en la mayoría de las actividades afecta a los aspirantes, y otorga una ventaja de dudosa conveniencia a los establecidos. Estos posiblemente enfrentarán menor competencia e incentivos más débiles para mejorar la eficiencia o la innovación.
+
+**Un efecto perverso sobre los precios se debe no solo a menor competencia. En la mayoría de los casos el sector público no tiene capacidad de sustituir los bienes y servicios producidos en este sector.** **Ello termina incrementando los precios y de paso, erosionando aún más el poder adquisitivo de los ciudadanos.** El otro factor es que en la mayoría de estos mercados, el aumento de los tipos impositivos se traslada al consumidor final vía precios, exacerbando el resultado del mecanismo descrito anteriormente.
+
+La reducción de las posibilidades de reinversión productiva de los excedentes no solo conspira en contra de la oferta, también inclina la balanza hacia la búsqueda de otras alternativas más rentables en la esfera informal, o en actividades de menor creación de valor pero alta posibilidad de captura de rentas como la especulación con activos como casas y autos. La informalidad en sí misma es fuente de incontables efectos indeseables, entre los que se encuentra el hecho de que exacerba desigualdades. Adicionalmente, los límites adicionales a los vínculos con las empresas estatales socavan la integración interna de la economía, una de las debilidades históricas de la economía cubana.
+
+De todas formas, el marco resultante dibuja con mayor claridad las prioridades de la política económica actual. A falta de la instrumentación de las PYMES privadas de capital cubano, se perciben dos apuestas por parte de las autoridades. Por una parte, parecen retomarse con fuerza las negociaciones para abrir nuevos mercados para los servicios profesionales, especialmente los de salud. El entorno internacional ha mejorado levemente, dado que el aumento de la cotización del petróleo mejora la posición fiscal de países con los que se mantienen relaciones estrechas, junto a otras economías también muy dinámicas. Este tipo de acuerdo resulta en ingresos apreciables a corto plazo, que pueden ser usados con rapidez por el gobierno.
+
+La otra variante tiene que ver con el capital extranjero. Si bien la normativa y el ambiente de negocios en el país tienen un largo camino por recorrer para acercarse a los mejores estándares internacionales, se advierte un reconocimiento cada vez más explícito de la importancia de atraer capital foráneo, al que se le atribuye mayor capacidad de aliviar la crisis actual de balanza de pagos e infundir mayor dinamismo a la economía en el mediano y largo plazo. Todo ello a un menor costo político en relación al capital privado doméstico.
+
+Sin embargo, los inversores buscan niveles mínimos de certidumbre y credibilidad. Se ha producido un retroceso con el “cuentapropismo”, ¿por qué no pasaría lo mismo con la inversión extranjera? Estas decisiones se pueden presentar como “Donde dije digo, digo Diego…”. Si no existe una línea clara en esta esfera, es más difícil convencer a otros que ese va a ser el caso en su área de interés.
+
+De todas maneras, habría que buscar cuidadosamente en los anales de la historiografía económica moderna, a ver si se encuentra una estrategia de crecimiento y desarrollo donde se privilegia tan claramente el capital extranjero por sobre el nacional. Si la encontrásemos, seguramente no habrá terminado muy bien, dado que no trascendió.
+
+**Nada indica que exista una visión a largo plazo para el cuentapropismo, o el sector privado en general, a pesar de que fue reconocido en la “Conceptualización” adoptada en 2017.** **La propia confianza en su implementación ha quedado sensiblemente afectada.** Es difícil sostener el argumento de las desviaciones de la idea original. Problemas hay, y los habrá siempre, pero no se resuelven retornando al punto de inicio. Quizá el mayor problema se presenta de cara a la juventud cubana. Cuesta mucho imaginarse cómo esta es una buena idea para proyectar un futuro de progreso en su propio país. El drenaje de la emigración es ya insostenible, y esto no hace sino acrecentarlo.
+
+La emergencia de un sector privado, como ha quedado demostrado en la experiencia cubana, es un requerimiento del desarrollo de las fuerzas productiva. **Los que examinen en detalle la evidencia histórica advertirán inmediatamente que la evidencia es abrumadora en el sentido de que en el largo plazo el avance de las fuerzas productivas es el criterio decisivo que determina el éxito de un modelo sobre otro.** El resto de los factores pueden ser agrupados en aceleradores o retardatarios de este trazo esencial. Por supuesto, esta contradicción no tiene que resolverse a corto plazo, ni siquiera en el plazo prudencial de una generación. No sé si tenemos todo ese tiempo.
+
+Tomado de [Rebelión](http://www.rebelion.org/noticia.php?id=244591&titular=por-aqu%ED-ya-pasamos%85-)
+
+Trabajo por Cuenta Propia. Trabajo por Cuenta Propia. Trabajo por Cuenta Propia. 
+
+## Autor
+
+-   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
+    
+    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
+    
+    [](mailto:lis.dds1@gmail.com)

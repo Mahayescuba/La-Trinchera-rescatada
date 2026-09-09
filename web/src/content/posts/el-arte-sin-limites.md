@@ -1,0 +1,29 @@
+---
+title: "El Arte sin “Límites”"
+date: "2020-02-18T22:55:24+00:00"
+author: ""
+category: "Cultura"
+image: "/wp-content/uploads/2020/02/IMG-20200205-WA0001.jpg"
+---
+# Una valoración de la exposición fotográfica permanente de Enrique Rottenberg, en la Fábrica de Arte Cubano (FAC)
+
+**Por: Julio Pernús**  
+Hace unos días, Elaine Díaz, directora de la revista digital _Periodismo de Barrio_, sugirió la posibilidad de iniciar un debate en los medios en torno a los límites del arte. Su llamado de alguna forma fue amplificado por los muchachos de _Xel2, de_ la plataforma comunicativa El Toque. En ambos espacios, confluye la idea de que _la creación no tiene que hacer concesiones ni tener regulación alguna_. Es el último reducto de libertad de expresión. El artista deja constancia, es una voz que pertenece a su tiempo y su lugar. Ojalá que este artículo de nuestra _Vida Cristiana_ digital, aporte algún argumento interesante a tan necesario debate.  
+No estamos en tiempos de la Santa Inquisición para suprimir ideas creativas, tampoco es la idea de este texto; pero hace poco leí en el diario español _El País_, que en Rusia ha ganado popularidad un hotel que resignifica los campos de concentración de Stalin. Yo me quedé estupefacto al saber que miles de turistas en el año, están dispuestos a pagar 100 euros para pasar un día entero en las condiciones de un prisionero del régimen stalinista enviado a la Siberia y uno se pregunta: ¿cómo hemos llegado ha esto? ¿No podremos limitar estas aberraciones?  
+Enrique Rottenberg, es uno de los fotógrafos de mayor relevancia en el mundo, por decisión propia este singular argentino ha decidido vivir durante una gran parte del año en Cuba, conoce nuestra Isla, y su exposición permanente en la (FAC), es todo un desafío al pensamiento divergente de un mundo secularizado, líquido, diría Bauman. Me gustan mucho algunas de sus obras, pero en otras me pregunto, ¿qué mensaje se pretende transmitir con esa foto a un público sobre todo joven?  
+En una de las galerías de la Fábrica, hay una foto de Rottenberg donde salen una serie de mujeres mayores desnudas, la última vez que asistí, mis compañeros de viaje se reían mucho con estas señoras, pues sus cuerpos no son para nada de modelos. Al hacer una pequeña investigación para este artículo, supe que Rottenberg en un barrio pobre de nuestro país, donde había ido a fotografiar el entorno, le propuso en palabras de él mismo, tomar una foto artística- desnuda- a una abuela, líder comunitaria. Esta le dijo que sí y cuando él le dio una pequeña bonificación económica de regalo, la misma mujer se brindó para convocar a otras abuelas de la comunidad. Gracias a esas fotos “eróticas” muchas familias quizás pudieron comprar al menos dos bolsas de leche ese mes, pero, a qué precio; pues le han vendido su cuerpo a un mundo lleno de ojos, solo espero que su “desenfreno” artístico no tenga un costo degradante en sus vidas, me gusta pensar que su _sacrificio_, no lo merece.  
+Otra de las fotos que me llamó la atención, hace alusión a una cochiquera donde el propio Rottenberg, sale desnudo dentro de un corral en una posición animalesca, tratando de imitar a una serie de puercos que lo rodean, buscando un poco de sancocho. No dudo que existan seres humanos que sean unos cerdos y se comparten como unos verdaderos animales, pero siendo honestos, no es la norma dentro de nuestra sociedad. Y vernos así, al menos a mí, me significa que como humanidad hemos perdido la esperanza. El propio artista advirtió que su rol protagónico dentro de la imagen, se debía en este caso en específico, a que no se atrevía a solicitarle a otra persona ese papel tan degradante – anti-humano- diría yo. Una pregunta interesante sería, qué gana un fotógrafo de su calibre, haciendo ver tan involucionadas nuestras vidas cubanas.  
+Para finalizar me gustaría reflexionar sobre la obra _Confesión_, por ella me aventure a escribir este texto sobre Rottenberg. La imagen juega con un sacramento íntimo de la Iglesia católica como es la _Confesión_ y de forma clara, trata de cambiar el rol del sacerdote dentro del imaginario colectivo del público receptor. Pues ahora, en la subjetividad del fotógrafo, es el cura quien debe confesarse por sus “pecados”, ante un sujeto, – el propio Rottenberg- vestido de pájaro, forma peyorativa con la que se ha nombrado históricamente a los homosexuales en Cuba. Yo no solo veo en la obra una frma peyorativa de ridiculizar a la Iglesia, sino que percibo un mensaje entre líneas de denuncia a una filosofía católica de interpretar la sociedad y me parece, como mínimo, algo exagerado.  
+El mismo Rottenberg ha dicho en un taller que impartió recientemente de fotografía en nuestra Isla, que lo nuclear de una foto es su idea, por eso en ocasiones, él mismo no es el que dispara la cámara, pero su mente fue la que diseñó el contenido. Sé que no somos pocos los católicos que asistimos a la ([FAC](http://www.fac.cu/)), en lo personal me parece un buen centro nocturno, de ahí que sea interesante aportar a sus dueños algunos elementos éticos que ayuden a potenciar los productos artísticos que allí se fabrican y desentrañar como seres racionales, ¿si el arte debe tener límites?
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

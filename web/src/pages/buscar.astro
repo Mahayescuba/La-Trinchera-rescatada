@@ -1,0 +1,40 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { fixCat, excerpt } from '../lib/util';
+const posts = await getCollection('posts');
+const idx = posts.map(p=>({t:p.data.title,s:p.slug,c:fixCat(p.data.category),a:p.data.author||'',e:excerpt(p.body,90)}));
+---
+<Base title="Buscar" description="Buscar en el archivo de La Trinchera">
+  <section class="wrap search">
+    <h1>Buscar</h1>
+    <input id="q" type="search" placeholder="Escribe un título, tema o autor…" autofocus />
+    <p id="count" class="count"></p>
+    <ul id="res"></ul>
+  </section>
+  <script type="application/json" id="data" set:html={JSON.stringify(idx)}></script>
+  <script>
+    const data = JSON.parse(document.getElementById('data').textContent);
+    const norm = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
+    const q=document.getElementById('q'), res=document.getElementById('res'), count=document.getElementById('count');
+    function render(list){
+      res.innerHTML = list.slice(0,80).map(p=>`<li><a href="/${p.s}/"><h3>${p.t}</h3><p>${p.a?p.a+' · ':''}${p.c}</p></a></li>`).join('');
+      count.textContent = list.length ? `${list.length} resultados` : '';
+    }
+    q.addEventListener('input',()=>{
+      const v=norm(q.value.trim());
+      if(v.length<2){ res.innerHTML=''; count.textContent=''; return; }
+      render(data.filter(p=> norm(p.t).includes(v) || norm(p.a).includes(v) || norm(p.e).includes(v)));
+    });
+  </script>
+  <style>
+    .search{max-width:720px;padding:2.2rem 1.2rem;min-height:60vh}
+    .search h1{font-size:2.2rem;margin:0 0 1rem}
+    #q{width:100%;padding:.8rem 1rem;font-size:1.05rem;border:1px solid var(--line);border-radius:8px;background:var(--paper)}
+    .count{color:var(--muted);font-size:.85rem;margin:.8rem 0}
+    #res{list-style:none;padding:0;margin:0}
+    #res li{border-top:1px solid var(--line);padding:.8rem 0}
+    #res h3{font-size:1.15rem;margin:0 0 .15em}
+    #res p{color:var(--muted);font-size:.82rem;margin:0}
+  </style>
+</Base>

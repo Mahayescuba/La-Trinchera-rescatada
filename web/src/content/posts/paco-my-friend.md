@@ -1,0 +1,52 @@
+---
+title: "Paco My friend-El Solar-podcast"
+date: "2020-08-09T16:00:00+00:00"
+author: ""
+category: "Cultura"
+image: "/wp-content/uploads/2020/08/2020-08-08-22.46.52.jpg"
+---
+## Resumen del episodio
+
+Paco My Friend (Francisco Guzmán Rivero) es de esos poetas que se te quedan grabados en las sienes, no sólo por su obra, de una calidad y originalidad indudables. Es de los artistas de este campo cuya persona es el poeta y el poema, por eso es válido en esta ocasión acercarnos al autor.
+
+Paco My Friend fue un poeta artemiseño, que por el desgaste del alcohol y otras drogas, cayó en una especie de locura lúcida. El escape de su cordura fue una herramienta, que aplicó tanto en la poesía como en la cotidianidad. Por eso se topó y se topa a veces con un muro de desinterés y olvido. La difusión de su obra no fue la mejor, o al menos no la ideal, que correspondería a uno de los grandes poetas del grupo de los casi desconocidos,que deambulan por la cultura cubana muy a menudo. Las graves afectaciones psicológicas nunca fueron un lastre para su obra, en varias ocasiones él mismo las amparaba. Los poemas que tendremos de su voz hoy en el podcast son extraídos de un excelente producto fílmico titulado _Desheredado_. Este documental es el acercamiento más profundo a Paco que ha quedado para la posteridad. Si el autor, o más importante aún, la poesía del autor, les llegara a sensibilizar, o simplemente a gustar, les recomiendo buscar el documental en YouTube.
+
+Si miramos con atención el panorama cubano de la poesía, podemos afirmar que numerosos poetas escriben a partir y sobre el dolor. Si bien los códigos del hambre, la desesperación y el desamparo, se pueden encontrar en poetas cubanos desde hace mucho tiempo, esos códigos van mutando y reconfigurándose. Esto hace más difícil la germinación de originalidades. Hay poetas que escriben desde un dolor melancólico, buscando empatía, y a veces fundamentando una frustración.
+
+Lo que hay en estos poemas es diferente. Se puede afirmar que Paco My Friend escribía a menudo desde el dolor, pero como se sabía gigante (lo deja entrever en el primer poema), no había ramas de frustración; mas bien usaba el dolor, ese que necesita cicatrizar cuestionando. Si escuchamos el poema, vemos que el código que fija la pobreza y el hambre es el verso _Por la mitad de una cebolla_, y a partir de ahí, ejerce ese verso como fundamento para que ese código egendre en el lector un descubrimiento en el pensamiento y la situación del propio poeta.
+
+A partir de esa posesión que insinúa, la mitad de una cebolla, abre la comprensión de la propia vida y la interacción entre los hombres. Utiliza un recurso poético crudo, que fácilmente puede ser superado por la realidad, y basándose en esa pertenencia en específico, va tejiendo una visión difícil del mundo, a partir de esta situación que se ha vuelto bastante frecuente entre nuestros poetas, o al menos mas frecuente de lo que se quisiera. No es casualidad que sea por la mitad de una cebolla, y esté muriendo de hambre, soñando con ser millonario.
+
+Inevitablemente, cuando uno escucha este poema de Paco, le viene a la cabeza el poema de [José Martí](/onirica/) _Yugo y estrella_, y creo que no es casualidad que el autor escogiera los códigos _yunque y alma_. Para mí, no es más que una contextualización de _Yugo y estrella_, que la pretende recoger como una obra fundamental, y dinamizarla desde el punto de vista estético de su autor. Básicamente, esta vez el monstruo no tiene una elección de entrada, y las noches y los crepúsculos, la sucesión propia de los días, lo empujan y dictan su conciencia. Así, aún contra su voluntad, tomará esos dones cotidianos en su propia madriguera, que lo harán una bestia de labor. El poema no comprende ser yunque como una decisión tomada al nacer, sino como un cúmulo de especificidades que se van tejiendo culturalmente, que van impulsando al hombre a tener cada día menos pensamiento consciente y crítico. Si se toma ese monstruo que se embrutece, al repetir los dones de su cotidianidad, la opción es estrecha y difícil. Como dice en el primer verso, es un grácil dilema. El acabado de este poema, sin dudas, es áspero y hace mella en la misma fe humana. Se encuentra cara a cara con los versos del apóstol, es una misma idea poética, en diferentes tiempos, abordado por miradas líricas totalmente distintas. Y plantearse obras jerarquizadas,  ya sea en la poesía o en cualquier arte, en diferentes maneras y contextos, siempre es una forma útil de pensar desde el arte. Además, podemos someter a estas obras a pasar una vez más la prueba de rigor, porque son clásicos. El universo siente el peso de esa bestia no pensante que entrega sus días ahogados, domingo tras domingo. No es una revisión de culpabilidad, esto es una alarma continua que se plantea desde la poesía, es un grito de S.O.S a la espiritualidad y al propio hombre, todo bajo una construcción ya sólida y probada que es _Yugo y Estrella_.
+
+Cuando escuchamos la palabra _espejo_ en cualquier texto poético, creo que la primera pregunta que debemos hacernos, para comprender el código, es _¿Quién está en el espejo?_ Y luego, esto va a abrir una interpretación más avezada. Este texto pretende extirpar, a partir de la disponibilidad del lector o del escucha, un autoanálisis. Muchas veces de ese orgullo podrido que después se va tornando en un ego desconsolado, o simplemente en ese orgullo que se enquista en el pecho, con rabia de muerte. El recurso poético es tirarlo al río, pero al imaginar cómo flotan los peces muertos, el poema no pretende que se tire cualquier cosa, sino que se perciban las consecuencias de engendrarlo y de soltarlo.
+
+Hablar de _Septiembre me ha desheredado_ es toda una proeza. Es de esos poemas que, desde la primera vez que lo oyes, se queda retumbando en tu cabeza. Fuera de lo obvio de su extremo lirismo, esos recursos poéticos abundantes te hacen el poema muy ancho y que trae consigo una sensibilidad especial, sin siquiera comprender del todo por qué es tan buena obra. Decía Guillén que uno de los baluartes que sostienen los poemas es el ritmo, esa combinación exitosa que se crea cuando el lector puede atravesar el poema sin que este deje de impactar y que, a la lectura, sea muy cómodo y contundente. Es como ese tipo de versos, con esa estructura específica, sus signos de puntuación que al leerlos funcionen al oído, tan únicos, que el lector o el escucha quiera saborearse una y otra vez. Si es cierto que el ritmo de _Septiembre me ha desheredado_ es digno de admirar, pudiéramos analizar detenidamente las sonoridades de las palabras. Podríamos incluso ir verso por verso, obviando que la estructura es libre, contando sílabas, para entender cómo funciona el engranaje y sacar una fórmula que por lo menos se asemeje al ritmo de este poema, y creo que no lo lograríamos. _Septiembre me ha desheradado_ es la obra cumbre de un poeta maduro, que está hablando desde muy adentro, y talla su personalidad desde la melancolía, desde ese abandono trágico de septiembre. Nos queda preguntar por qué _septiembre_, pero nunca sabremos a ciencia falsa, a ciencia cierta, a ciencia exacta, a ciencia incierta, a ciencia oculta o inculta ciencia, la estricta esencia de su decir.
+
+[Ivoox](https://us.ivoox.com/es/54909523)
+
+[Apple podcast](https://podcasts.apple.com/us/podcast/episodio-22-paco-my-friend-ni-me-resuciten/id1500698275?i=1000487386452)
+
+[Spotify](https://open.spotify.com/episode/4QCjwrKhWbsmFan2B4ws6S?si=v1Hna3F3RtWIocJb8vHtfw)
+
+[CastBox](https://castbox.fm/episode/Episodio-22%3A-Paco-My-Friend%3A-ni-me-resuciten-id2657893-id295337566?utm_source=i_share&utm_medium=dlink&utm_campaign=i_share_ch&utm_content=Episodio%2022%3A%20Paco%20My%20Friend%3A%20ni%20me%20resuciten-CastBox_FM)
+
+[Googlepodcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaXZvb3guY29tL3NvbGFyX2ZnX2YxODYwNzI5X2ZpbHRyb18xLnhtbA/episode/aHR0cHM6Ly93d3cuaXZvb3guY29tLzU0OTA5NTIz?sa=X&ved=2ahUKEwjL4IPPio3rAhUfajABHSyPCqEQkfYCegQIARAF)
+
+[Podbay](https://podbay.fm/podcast/1500698275/e/1596782008)
+
+[PlayerFM](https://es.player.fm/series/2649724/269113427)
+
+[Podparadise](https://www.podparadise.com/Podcast/1500698275/Listen/1596789208/0)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

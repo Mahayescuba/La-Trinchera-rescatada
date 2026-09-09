@@ -1,0 +1,34 @@
+---
+title: "Del odio al amor. Mi viaje a la semilla"
+date: "2020-07-25T16:00:00+00:00"
+author: "Carlos Lazo"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/07/Jesús-Curiá.jpg"
+---
+Yo también odié. Por eso sé que desde el odio sí se puede regresar. Cuando se pedalea por cientos de kilómetros, entre montañas y valles, bajo el sol o la lluvia, uno tiene mucho tiempo para pensar y recordar. Corría el año 1993 y yo llevaba apenas dos años viviendo en los Estados Unidos. Por aquellos días, mi anciano padre, que residía en La Habana, obtuvo una visa norteamericana y vino a pasar unas semanas conmigo. Recuerdo que, durante su estancia, conversábamos sobre nuestro tópico favorito, Cuba. Desde mi adolescencia, mi papá y yo militábamos en bandos políticos opuestos, él era revolucionario y yo “gusano” (ese era el epíteto descalificativo de aquellos años). Aunque han pasado casi tres décadas, me viene a la memoria, como si fuera hoy, aquella tarde, en el apartamento humilde y caluroso de Hialeah. El aire acondicionado defectuoso, empotrado en la pared, goteaba agua y le agregaba “música” de fondo a nuestra charla. De pronto, ¿cómo olvidarlo?, en medio de la conversación, le dije a mi papá: “¡Sí, que los bloqueen bien! ¿No decían que no necesitaban a los americanos? ¡Ahora que se jodan!”.
+
+Mi viejo me miro y dejó de hablar. Fue como si aquellas palabras mías, lo hubieran derrumbado, como si perdiera el balance. Miró a otro lado y contuvo el aliento. Se quedó mudo. Yo me preocupé. Miré su rostro arrugado y sombrío y sentí una mezcla de pena y lástima por haber dicho algo que lo afectara así. Después de todo, yo era su anfitrión y pipo estaba en mi casa, de visita. Pero hay palabras que, una vez dichas, no se pueden echar atrás. Y, mientras lo observaba, mi mente voló al pasado. Siempre me he preguntado cómo es que los recuerdos de toda una vida se pueden comprimir en un instante breve. Y rememoré aquel mismo rostro de mi papá, un tin menos arrugado, en la época en que él me iba a ver a la cárcel de Quivicán. El viejo, “comunista”, le llevaba una jaba llena de galleticas y otras golosinas de amor al hijo, preso por “salida ilegal”.
+
+![](/wp-content/uploads/2020/07/Lazo.jpg)
+
+![](/wp-content/uploads/2020/07/Lazo.jpg)
+
+Me transporté incluso más lejos aún. Hubo una época en que aquel mismo hombre (que no era tan viejo entonces) me iba a ver a la escuela al campo. Pipo cargaba un almuercito que siempre llegaba tibio y se pasaba el domingo conmigo. “Vete temprano viejo” le decía yo, porque regresar a La Habana era toda una odisea. Pero él alargaba su visita hasta la puesta de sol. Luego se iba caminando por aquella carretera escoltada de palmas reales. A mí se me revolvía algo lindo dentro de mi pecho de adolescente, por el orgullo de tener un padre así. Parecía un ángel entre las palmas y el ocaso. Aquella tarde, en Hialeah, en el 1993, mi mente me llevó incluso al recuerdo más antiguo y tierno de mi infancia: [Jamanitas](https://www.ecured.cu/Jaimanitas_\(Playa\)), calle tercera entre 228 y 230. ¿Qué edad tendría yo? ¿cuatro, cinco años? Pipo me enseñaba a montar bicicleta: “Tengo miedo pipo” le decía yo. Él, detrás de mí, me animaba, “no te preocupes hijo, yo estoy aquí contigo y te sostengo. Tú, dale a los pedales”.
+
+Hace casi treinta años, en fracciones de segundos, entre el “¡Qué se jodan!” y la mirada de desosiego de mi padre (con el runrún del aire acondicionado como telón de fondo) volví a ver la luz. En ese instante, Fermín Lazo (así se llamaba mi papá) me miró con unos ojos por donde se le desbordaba el alma. Yo tenía una vergüenza del carajo. El puso sus manos suaves sobre las mías y me dijo: “Carlitos, no digas eso mi’jo. Esa gente es tu familia”. Quizás él tenía la intención de decir otras cosas, pero solo agregó, con la misma dulzura con que me hablaba cuando yo era niño: “Tú no eres así mi’jo”.
+
+Recordé toda esa historia hoy mientras pedaleaba. Porque han pasado décadas, pero hay frases de entonces, que se han reciclado como fantasmas atemorizantes: “¡Que los bloqueen bien!” “¡Que se jodan ahora!” (y para descalificar, el “¡gusano!” se sustituye aquí por “!comunista!”). Pero yo, que un día odié, yo sé que, desde el odio, también se puede regresar. Porque en algún lugar oculto, a todos nos habita la ternura. Y a mí, en cada milla de este largo peregrinar, me retumban y me sostienen las palabras dichas por mi padre hace más de cincuenta años. Oigo la voz de pipo, multiplicada hoy en miles, en millones de voces, que me dicen: “Yo estoy aquí contigo y te sostengo. Tú, dale a los pedales”
+
+25 de julio de 2020
+
+Tomado del Facebook del autor
+
+## Autor
+
+-   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
+    
+    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
+    
+    [](mailto:lis.dds1@gmail.com)

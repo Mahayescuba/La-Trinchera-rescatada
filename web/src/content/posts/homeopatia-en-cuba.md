@@ -1,0 +1,35 @@
+---
+title: "Homeopatia en cuba La Trinchera José Gabriel Barrenechea"
+date: "2020-04-08T18:21:06+00:00"
+author: "José Gabriel Barrenechea"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/04/IMG_20200408_124159.jpg"
+---
+Según informó [el jefe del departamento de epidemiología del Ministerio de Salud Pública de Cuba](/politica-en-cuba/), esta institución comenzará una campaña de aplicación de un [medicamento homeopático](https://www.portalfarma.com/Ciudadanos/saludpublica/consejosdesalud/Paginas/medicamentoshomeopaticos.aspx) en la población.  
+Como la medida debe ser de estricto cumplimiento, y como para muchos conciudadanos si lo manda el gobierno hay que acatar; y como ya avizoro tengo que legalmente ingerir, o ponerme bajo la lengua las gotas, a lo cual me negaré, dejó aquí bien claro posición, y mi actitud.  
+Ni el Estado, ni mis conciudadanos, aún como absoluta mayoría, pueden obligarme a tomar medidas o acciones para evitar una epidemia que no puedan demostrarme científicamente su validez. No pueden obligarme a rezar, a participar en ceremonias religiosas, a aceptar que mi casa sea rociada con agua bendita, a que un babalao me despoje, ni a usar o ingerir preparados de los cuales no hayamos probado científicamente su efectividad.  
+Por ejemplo, estoy obligado a usar la mascarilla porque científicamente es demostrable que al hacerlo disminuye la posibilidad de que, si estoy enfermo, sin saberlo contagie a otros: la comunidad está en su pleno derecho de exigírmelo en base a ello y a tomar las medidas que para su seguridad estime convenientes (sin excesos de rigor) en caso de yo negarme a usar la mascarilla en el área pública.  
+Ese, sin embargo, no es el caso para ninguna de las supuestas exigencias de más arriba.  
+Los ciudadanos tenemos derecho a la libre creencia por fe, incluida la libertad de no tenerla, lo cual es mi caso. Solo estamos obligados a acatar las soluciones que asumimos en común, cuando las mismas han sido adoptadas sobre la base de unas verdades que hemos consensuado racionalmente, según un grupo de principios que fundamentan un método. Los principios y el método científicos.  
+La Ciencia es en esencia uno de los pocos recursos para consensuar la verdad, sin imposiciones, con que contamos. En la Ciencia los individuos proponemos hipótesis para explicar la realidad que luego deben ser demostradas, según principios “evidentes” a todos, en experimentos, los cuales deben cumplir a su vez con la condición de poder ser repetidos por cualquiera. Las hipótesis propuestas, en consecuencia, según cierto enfoque, deben cumplir con una elemental condición: deben de ser falsables, o sea, las hipótesis deben tener la característica de que de alguna manera pueda demostrárselas no adecuadas para explicar la realidad. Deben de dejar abierta, desde su misma propuesta, la posibilidad de ser refutadas en experimentos, y por tanto toda hipótesis científica, al ser propuesta, debe de especificar también las condiciones, las situaciones, los experimentos en que se la demostraría no adecuada para explicar la realidad.  
+La Homeopatía, no cumple con nada de esto. La misma nunca ha alcanzado a demostrar en experimentos repetibles por cualquiera la verdad de sus principios, no evidentes para cualquiera (como el de lo semejante cura lo semejante), y mucho menos la efectividad de sus remedios. En los experimentos solo ha alcanzado a demostrarse una efectividad de los remedios homeopáticos parecico al efecto placebo, y por ello es achacable al mismo, y no a un principio homeopático propiamente dicho. Lo cual era de esperar en una “ciencia” en que lo que se pretende es evitar unos esotéricos desbalances del espíritu que afecten un místico equilibrio del cuerpo, y en que por tanto el efecto psicológico sobre los entes psicológicos reales, en la forma de esperanza ante la adversidad, tiene un papel significativo (la homeopatía demuestra más bien la validez de una hipótesis de una ciencia real, la psicología: el efecto placebo).  
+Pero el argumento más contundente contra la Homeopatía como Ciencia es este: La misma parte de que la misma es incomprobable en el experimento, ya que su efectividad depende de las características únicas de la relación entre el paciente y su sanador. O sea, como en el acto mágico o en el milagro, la sanación homeopática es irreproducible por otros experimentadores, lo que nos deja ver bien en que lugar debemos situar a la Homeopatía: junto a la magia y la religión.  
+La Homeopatía, tanto como cuerpo de principios, o como método, no es falseable. Como en el caso de la creación del mundo por un ser que por sus propias características infinitas, inasibles por tanto, por siempre escapará a todo intento de demostrar su inexistencia, o no, la Homeopatía o se acepta por fe, o no. Pero en consecuencia no puede imponérseme su veracidad, y muchísimo menos la de sus remedios.  
+Yo no me niego a que los demás ciudadanos crean lo que mejor estimen, sólo estoy opuesto a aceptar que se me imponga lo que no se me puede demostrar racionalmente. El derecho a tener una fe, o no, es inviolable; pero de ello mismo se desprende que solo es imponible al otro lo que se le puede demostrar racionalmente.  
+En consecuencia declaro, en primer lugar, que no tomaré ningún brebaje homeopático; en segundo, me opongo a que los bienes comunes de la ciudadanía, administrados por las instituciones del Estado, como el referido MINSAP, sean usados en privilegio de una creencia no demostrable, lo cual atenta contra el carácter laico del Estado Cubano.  
+Por tanto, llamo a que el Estado Laico cubano deje de usar los fondos públicos en privilegio de tales creencias, como la Homeopatía; que si la campaña de “inmunización homeopática” se lleva adelante solo sea organizada y desarrollada por alguna institución no pública, sin fondos públicos; que la aceptación de los remedios sea voluntaria, y que no pueda llevarse contra quienes nos neguemos.  
+Por tanto, defiendo aquí un derecho, no una creencia.
+
+[Otro texto del autor](/teoria/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,0 +1,36 @@
+---
+title: "trabajo en cuba"
+date: "2018-12-15T16:38:34+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2018/12/Yanne-Kintgen.jpg"
+---
+trabajo en Cuba.
+
+**Por: Alexandra Torres**
+
+No puedo dejar de iniciar expresando que lo que a continuación escribo ha sido formulado en otros espacios. Pero como un amigo siempre me recuerda el poder de las redes sociales me he aventurado a escribir -mi primera contribución- sobre este tema. Entiéndase que es una reflexión personal basada en el sentido común.  
+Por estos días el pueblo cubano se encuentra inmerso en un proceso de consulta popular de un [proyecto de constitución](/wp-content/uploads/Tabloide-Constituci%C3%B3n.pdf) -novedoso y necesario-. Mucho se ha debatido respecto a diversos artículos de dicho texto, haciéndose mayor énfasis en algunos temas que en otros. Pero en esta ocasión quiero hacer alusión a uno en particular, que se erige como fundamento político y económico de nuestro estado. (Artículos 1 y 31 del Proyecto).  
+Me estoy refiriendo a uno de los artículos más importantes y trascendentes de la historia de la revolución cubana. Un artículo que otrora fuera el número 60 de la constitución de 1940, de la ley fundamental del ´59 y que en este minuto es el 45 constitucional. Ese que reconoce y apertura la gama de derechos fundamentales reconocidos en el constitucionalismo revolucionario cubano. Me estoy refiriendo al derecho al trabajo.  
+Empero, la anterior redacción de ese artículo 45 fue conservada en el proyecto, pero trasladada al artículo 31 que se incluye como uno de los fundamentos económicos de la nación. Y sin querer abordar con mayor profundidad tal cuestión, solo dejaré al imaginario del lector, la interrogante de si el trabajo en Cuba continúa siendo un deber y un motivo de honor. Sobre todo, cómo contrasta esto con la realidad social cubana actual y con el nuevo reconocimiento del derecho en cuestión.  
+Mas, como derecho -fundamental- incorpora el proyecto una redacción diferente y más coherente con la realidad jurídica y social actual. El ahora artículo 75 establece que las personas en condición de trabajar tienen el derecho a obtener un empleo digno, en correspondencia con su elección, calificación, aptitud y exigencias de la economía nacional.  
+Creo oportuno opinar que he celebrado desde el inicio de mis lecturas al proyecto, la inclusión del término digno, como apellido a la prestación del “empleo”, y más allá de que la expresión usualmente utilizada sea la de “decente” considero que nuestros redactores han mantenido la coherencia y sistemática con el valor fundamental de dignidad que informa desde el preámbulo constitucional a todo nuestro sistema político y social.  
+Tampoco dejo de reconocer el alto valor que posee esta nueva forma de expresión -empleo digno- para la interpretación del contenido y del ejercicio de este derecho a trabajar. Sin embargo, creo que tal cual es impreciso. Quizás se trate más de un tecnicismo que del propio sentido común, pero es necesario sentar algunas pautas para entender el porqué de mi análisis.  
+En primer lugar, el término empleo es restrictivo en tanto implica -en todo caso- una relación de trabajo subordinada. Entendido de otra forma, la traducción de esta frase al lenguaje coloquial sería algo así como que toda persona en condición para trabajar tiene el derecho a iniciar una relación de trabajo con un empleador; es decir, solamente se reconoce el trabajo que se brinda a partir de la existencia de un contrato con un sujeto que emplee a ese individuo. Si bien, este –el de empleo- es un término muy utilizado en el ámbito internacional, la terminología ideal -y la más amplia- es precisamente la de trabajo. De hecho, este es el objetivo del milenio número 8 y que se refiere al trabajo decente y así lo han refrendado la declaración universal de los derechos humanos y el pacto internacional de los derechos económicos, sociales y culturales.  
+Por tanto, ¿qué implicaciones tendría utilizar el término trabajo en lugar de empleo? Pues, en este sentido, implicaría el reconocimiento del derecho a trabajar a todas las personas, ya fuera con la existencia de un empleador o de manera autónoma. Es decir, estaríamos reconociendo a todos los trabajadores subordinados, a los trabajadores por cuenta propia, a los trabajadores autónomos, a los emprendedores, a aquellas personas que realizan trabajo sin ser reconocido como tal (por ejemplo, las amas de casa,pero que aún es un resultado del ejercicio de la libertad de elección). En fin, sería más coherente con la realidad socio laboral que vive la Cuba de hoy.  
+Y si me piden una propuesta concreta la elaboraría teniendo en cuenta los instrumentos jurídicos internacionales de los que Cuba es parte, o al menos aquellos en los que ha tenido la intención de ratificar y que tratan este particular. Eso sí, no pueden faltar la referencia a que el trabajo es un derecho fundamental de toda persona, que tiene como presupuestos la libre elección y aceptación, el disfrute de condiciones equitativas y satisfactorias en el acceso y desempeño del trabajo, y una remuneración que dignifique al hombre y a la mujer.  
+Esto no es un reproche al uso del término por parte de nuestros redactores, sino que me permito contribuir al perfeccionamiento del articulado de nuestro proyecto constitucional, cuando todavía corresponde.
+
+trabajo en Cuba. trabajo en Cuba. trabajo en Cuba. trabajo en Cuba.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,0 +1,38 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { fixCat, slugify, fmtDate } from '../lib/util';
+export async function getStaticPaths(){
+  const posts = await getCollection('posts');
+  return posts.map(p=> ({ params:{ slug:p.slug }, props:{ p } }));
+}
+const { p } = Astro.props;
+const { Content } = await p.render();
+---
+<Base title={p.data.title} description={p.body.slice(0,160)}>
+  <article class="wrap post">
+    <a class="back" href="/">← La Trinchera</a>
+    {p.data.category && <a class="cat" href={`/categoria/${slugify(fixCat(p.data.category))}/`}>{fixCat(p.data.category)}</a>}
+    <h1>{p.data.title}</h1>
+    <p class="meta">
+      {p.data.author && <a href={`/autor/${slugify(p.data.author)}/`}>{p.data.author}</a>}
+      {p.data.author && p.data.date && ' · '}{fmtDate(p.data.date)}
+    </p>
+    {p.data.image && <img class="lead" src={p.data.image} alt="" />}
+    <div class="body"><Content /></div>
+  </article>
+  <style>
+    .post{max-width:720px;padding:2rem 1.2rem 1rem}
+    .back{font-size:.82rem;color:var(--muted);display:inline-block;margin-bottom:1.3rem}
+    .post h1{font-size:2.3rem;margin:.25em 0 .1em}
+    .post .meta{color:var(--muted);font-size:.9rem;margin:.2rem 0 1.3rem}
+    .post .meta a{color:var(--accent)}
+    img.lead{width:100%;border-radius:8px;margin:.5rem 0 1.5rem}
+    .body{font-family:Georgia,"Times New Roman",serif;font-size:1.14rem;line-height:1.8}
+    .body :global(p){margin:0 0 1.15em}
+    .body :global(img){max-width:100%;height:auto;border-radius:6px;margin:1rem 0}
+    .body :global(h2),.body :global(h3){margin:1.6em 0 .4em}
+    .body :global(blockquote){border-left:3px solid var(--accent);margin:1.2em 0;padding:.2em 1.1em;color:var(--muted);font-style:italic}
+    .body :global(a){color:var(--accent);text-decoration:underline;text-underline-offset:2px}
+  </style>
+</Base>

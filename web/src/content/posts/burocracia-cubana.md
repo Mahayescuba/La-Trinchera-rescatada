@@ -1,0 +1,31 @@
+---
+title: "¿Es la burocracia cubana una verdadera burocracia?"
+date: "2019-09-09T15:37:44+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/09/PicsArt_09-09-11.39.44.jpg"
+---
+Burocracia cubana.
+
+**Por: José Gabriel Barrenechea**
+
+Lo que al presente llamamos burocracia en Cuba, o sea, el cuadro administrativo del gobierno, es en primerísimo lugar cualquier cosa menos impersonal. De hecho en la Cuba de Fidel, de Raúl, y quizás ahora con mayor razón bajo Díaz-Canel, algunos tenemos un sobrenombre muy particular para el tipo de sociedad que definen las relaciones personales preferidas por su cuadro administrativo: Sociolismo, el socialismo de los compadres, en que los cargos no son asignados por las competencias individuales, sino por la incondicionalidad hacia el _Panteón Revolucionario,_ y por las relaciones personales de los pretendientes.  
+Unos cargos que por demás no tienen una remuneración efectiva estable, sino que dependen por sobre todo de lo que se pueda “resolver” por quien los ocupa. Ya que aunque absolutamente todos los burócratas cubanos cobran un sueldo mensual, la realidad es que con el mismo no pueden atender a las necesidades básicas de sus familias incluso ni durante una semana del mes. Lo que los obliga a echar mano de otras vías poco éticas para conseguirlo. Y aclaramos que al hablar de lo que se pueda “resolver” no nos referimos solo a lo que se obtenga a resultas del cargo que se ocupa en cuestión, sino y sobre todo del complejo entramado de relaciones de compadreo que en definitiva conforman la verdadera estructura de la “burocracia cubana”, y que la definen como “cuadro administrativo socialista”.  
+O sea, que a la manera de cualquier cuadro administrativo patrimonial o feudal, la “burocracia” cubana vive de explotar sus cargos. Y esto puede ser válido tanto para el ministro o el jefe de departamento en una institución nacional, como para la funcionaria que se ocupa de organizar la actividad de los médicos y sus interacciones con el público en cualquier policlínico de barrio.  
+En cuanto a su conocimiento de la actividad que se ocupa de controlar, debe admitirse que a diferencia del alemán de los tiempos de Weber. El burócrata cubano quizás sea el individuo con relaciones directas con la dicha actividad que más a oscuras anda respecto a ella. Esto, más que un tópico humorístico, fue una amarga realidad en la Cuba de Fidel, y lo es también ahora en la que a veces confunde [Continuidad con continuismo](/politica-en-cuba/).  
+Pero además, y esto es sumamente importante, en el socialismo cubano la función primordial de la burocracia no consiste en administrar la actividad cotidiana del país. En el Socialismo de pleno empleo cubano, sostenido por una economía históricamente débil en lo estructural, en que la capacidad de empleo digno ha estado siempre muy limitada, la burocracia es por sobre todo un recurso para conseguirle acomodo laboral a un enorme por ciento de la población del país.  
+Este uso de la burocracia no solo como medio controlador, sino como destino en que controlar, provoca su hipertrofia, lo que a su vez coopera en la catastrófica caída de su eficiencia en el cumplimiento de sus funciones, a resultas de la conocida Ley de los rendimientos decrecientes.  
+Finalmente, tampoco puede decirse que haya mucho de racionalidad en los principios por los que se rige la administración de la burocracia cubana, o de carácter rutinario en el tratamiento de sus asuntos. En Cuba la administración se rige no por planes y estudios cuidadosos de la realidad, sino por metas y consignas, y hasta por voliciones y evoluciones estomacales de cualquiera situado en una posición de poder a a veces, sin más conocimiento de la actividad en cuestión que el de lo imperioso de “triunfar y vencer”.  
+Y es que en Cuba, al menos para los que mandan y para las intelectualidades que se ocupan de legitimar ese mandato, la actividad económica nunca es tomada como lo que es, una actividad cotidiana y rutinaria, sino como una heroica, homérica. De aquí el carácter a-económico del sistema cubano, reñido necesariamente con el funcionamiento de cualquier verdadera burocracia.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

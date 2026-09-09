@@ -1,0 +1,29 @@
+---
+title: "La navidad y los ñames"
+date: "2019-12-28T02:33:14+00:00"
+author: "Jorge Fernández Era"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/12/IMG_20191227_204152_514-1.jpg"
+---
+En los sesenta yo era pequeño. Mi papá, que en sus tiempos fue pequeño también, pero agricultor, se iba a la calle y llegaba cargado de cosas para la Navidad, casi todas traídas de la bodega, desde turrones hasta uvas y manzanas de importación. Y claro que en la jaba traía yuca, tomates, ajíes y lechugas provenientes de campos similares a los que él cosechó en su juventud. Así nos inventábamos aquellas Navidades revolucionarias limpias de Dios, a las que podía faltarles el pesebre, no la comida.  
+Algunas de esas delicias se consiguen hoy con dinero. O no se consiguen y ya, que el cubano la pasa bien hasta con angustia y su hermana. Y si ayer los rubros de producción se transformaban en rublos, hoy los dólares se convierten en dolores de cabeza.  
+No es que pretenda ir contra la corriente, esa que lleva a mis paisanos a enviarse en estos días arrobas de mensajes digitales con arbolitos pletóricos de luces. Pero —¡vaya con las sombras!— me gusta, como a cualquier mortal, comer bien, y la televisión, la radio, la prensa plana me han recordado que nos alimentamos pésimo. Y por ello, para ser consecuente con toda la mierda que he comido —y hablado— en el año que concluye, prefiero enviarles a mis amigos este otro post.  
+En la Asamblea Nacional, el ministro de la Agricultura presentó un informe que dejó boquiabiertos al resto de los miembros, los mismos que suelen quedarse boquicerrados. Lo hizo como si estuviera anunciando las Cruzadas. Y fíjense si los dejó cruzados que expuso que solo el 23,2 por ciento de la tierra que regaron los mambises es catalogada como muy productiva, y que la situación geográfica, las brisas marinas y no sé cuánto más conspiran contra las cosechas. Yo leí del Comandante que ese no era el problema de nuestros campos, sino una «tierra fértil, pero mal explotada; nuestra tierra fértil, pero mal distribuida; nuestra tierra fértil, pero mal organizada». Lo argumentó el 17 de mayo de 1959, cuando devolvía el suelo a quienes lo trabajaban para que sesenta años después deviniera latifundio de la maleza.  
+Nada dijo el ministro de que parte de esa tierra productiva nos la adjuntan en el agro impregnada en las viandas, y hasta nos la pesan. Que un porciento considerable de esa cantidad de libras que aspiran a treinta mensuales están constituidas por no más de tres productos que se recogen párvulos para llenar el globo que infla la Asamblea Nacional, o van a parar a las cochiqueras, a la basura.  
+Leo también que a sesenta años de la histórica cena de Navidad de Fidel con los campesinos de la Ciénaga de Zapata, los cenagueros recordaron la fecha con un programa cultural, deportivo y recreativo. Con intelecto y cuerpo. ¿Y estómago?  
+Oigo por último en un espacio informativo estelar que el presidente chequeó el día de nochebuena las acciones que buscan «incrementar la capacidad de la nación para producir alimentos de forma sostenible y dar acceso a la población a una alimentación suficiente, diversa, balanceada, sana e inocua», en circunstancias en que los alimentos alcanzan —en el país en que se siembra de todo menos semillas— precios insostenibles, además de ser insuficientes, poco diversos y desbalanceados, haciendo inocuas las (in)sanas pretensiones de arreglarlo con llamados a la conciencia proletaria.  
+Las casas de cultivo tributan al turismo mientras los cubanos pagan tributos y no ven el cultivo en casa. Lo excelente se exporta, el excedente del mundo se importa… y a nadie le importa. Lo primero se aleja cada vez más de nuestro enjuto poder adquisitivo, lo segundo también. Dinero —tiempo— invertido y perdido. Programas alimentarios filmados, nunca estrenados.  
+Se cita a Raúl cuando expresó hace treinta años que los frijoles eran más importantes que los cañones. Quién entonces levantó bandera blanca para que en vísperas del 2020 la guayaba —la de ocho pesos la libra, no la de la Asamblea— se ausente del bolsillo de los humildes, los «de, por y para» del carácter socialista de la Revolución.  
+El fin de año y la Navidad —esos que me compulsan a felicitar a mis amigos— los seguimos roncando los cubanos gracias a una vianda con dos acepciones que comió mi padre. La cita un proverbio de la etnia peul africana: «El que ha sembrado cien pedazos de ñame y dice que sembró doscientos, tendrá que comerse sus mentiras cuando el [ñame](https://es.wikipedia.org/wiki/%C3%91ame) se le acabe».
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

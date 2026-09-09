@@ -1,0 +1,26 @@
+---
+title: "Poema a Eliseo Diego"
+date: "2021-02-14T10:30:00+00:00"
+author: "Sender Escobar"
+category: "Onírica"
+image: "/wp-content/uploads/2021/02/Roelna-Louw.jpg"
+---
+A Eliseo Diego
+
+Puede que definir lo inexacto conste de tres palabras o contar las virtudes del olvido sea el pretexto ideal para las afirmaciones de los recuerdos.
+
+Viajar a los sentidos sería una caricia de marzo si, en alguna de esas entrecalles de lo [cotidiano](https://www.fcede.es/site/es/libros/detalles.aspx?id_libro=6513), los números pares a la derecha y los impares a la izquierda no señalaran el infinito casero de los días a puerta cerrada.
+
+poema a Eliseo Diego, poema a Eliseo Diego, poema a Eliseo Diego
+
+Todos los trenes pasan por Omaja, por César Fraga. Se puede vivir en la anchura de unos 14 versos, y esto es verídico a través de la voz poética de Adalberto Hechavarría. La editorial San Lope en pleno 2019 llena de dicha a todos los lectores en volver a reeditar y ampliar el libro ¨Todos los trenes pasan por Omaja¨ un libro que en su construcción es dado totalmente al soneto, y que, en el propio campo de este, presenta infinitud de poesía. Las formas en este cuaderno llegan para exacerbar la poética y no para lastrarlas de incomprensiones y arrogancias, aquí las formas que se buscan, se encuentran, se desparraman con una exactitud impecable. Así aparece  todo el soneto ¨blanco¨ que plasma  el poemario, aquí los versos en endecasílabos perfectamente concebidos se estiran por todo el reglón como verso libre, y con esa  pasividad y dulzura que logra al oído el poeta, el lector nunca llega a echar de menos  rima alguna, si no, que concibe el verso como un corcel muy blanco galopando por cualquier zona apacible y verde de Omaja, y ese corcel, visitó reiteradas veces al poeta para que de su voz saliera esa transparencia sonora entre el soneto y la poesía de lo cotidiano. El anterior poema ¨Los trenes pasan¨ llega a ser en el libro su columna vertebral, no solo por el título del cuaderno, sino por ser el arroyo donde todos los poemas vienen a beber, y ahí se bañan de un discurso rural, pacífico, de convivencia, donde coexisten la luz y la propia muerte en total serenidad, donde el ritmo de la vida es inquebrantable como el ritmo de dichos sonetos. Este poema sin duda alguna es de los grandes poemas del libro, de los poemas que una vez aprehendido será imposible despegarse del, no solo por su evidente alto vuelo, ni su ritmo único, tampoco porque después de los adverbios relativos se vengan unas sílabas que de tanta poesía harían temblar cualquier catedral  con su lectura, sino porque el poeta hace un himno de sinceridad, y al entrar en ese estado  colmado de poesía, se eleva un obra que describe la inmediatez de una  tarde con precisión de cirujano. Solo hay algo que le la cultura cubana a este poeta y  es que desgraciadamente esta obra no pueda llegar a mas lectores, especialmente del occidente del país, en el cual Adalberto Hechavarría es conocido por no pocos escritores pero casi desapercibido por los lectores, para esto (a mi juicio) llega la nueva edición, para que la novísima  tinta venga con mas reverberación y no se pierda este libro singular e imprescindible, agradecer por otra parte las no pocas obras críticas que defienden la obra, y al prólogo de dicha edición donde Roberto Manzano señala:¨Los que lean sin prejuicios, porque no tengan a menos que sea poesía escrita en pautas y corra en cada línea un lenguaje asociativo natural, disfrutaran del finísimo acto estético que este libro constituye, la callada jerarquía que posee, sin agresividades ni transgresiones baldías.Hay aquí más valores artísticos netos que en otros libros que en nuestro medio he visto pasar por iluminados y novedosos…¨ Manzano (El canal, marzo de 2019)
+
+## Autor
+
+-   ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
+    
+    ![](/wp-content/uploads/2020/12/2020-12-03-13.06.08.jpg)
+    
+    [Sender Escobar](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/sender-escobar/)
+    
+    Ingeniero industrial y famous stalker

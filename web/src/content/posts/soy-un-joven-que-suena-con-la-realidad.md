@@ -1,0 +1,109 @@
+---
+title: "Soy un joven que sueña con la realidad"
+date: "2020-04-20T05:39:54+00:00"
+author: ""
+category: "Entrevista"
+image: "/wp-content/uploads/2020/04/IMG-20200419-WA0020.jpg"
+---
+## Entrevista de Roberto Chile a Sender Escobar
+
+Hace unos meses conocí, casualmente, a Sender Escobar en el Centro Cultural Dulce María Loynaz. Después de presentarse, a boca de jarro, me propuso hacerme una entrevista para el blog [La Trinchera](/la-trinchera/), del cual yo nunca había oído hablar. Sin titubeos, acepté.
+
+Ingeniero industrial de graduación, y comunicador y escritor de vocación, Sender ama la música, los deportes y la lectura. Se identifica con _Silvio_ y con _Los Beatles_, como mismo disfruta del Gabo, Caín y Padura. Este joven martiano, quien sueña con la realidad, tiene ímpetu y madera, y como vive en constante inspiración, le auguro un gran futuro.
+
+Ahora, en medio de la pandemia, cuando el mundo amenaza con cambiar -ojalá para mejor- a modo de revancha, lo entrevisto yo.
+
+> _El Habana Libre_ para mí famiIia se llama _Papá mira_
+
+**¿Cómo fue tu infancia? ¿Cuáles son los primeros recuerdos que guardas de esa etapa de tu vida?**
+
+No puedo decir que tuve una infancia convencional porque cuando se crece en medio del [P_eríodo Especial_](https://es.wikipedia.org/wiki/Per%C3%ADodo_especial) y uno no tiene la más absoluta certeza de lo que ocurre en su sociedad, especialmente en tu hogar para luchar el pan diario, sin rozar el extremo de la supervivencia, no puede considerarse convencional, aunque sí cotidiano. Y fue ese entonces que viví, pero que no sentí en carne propia. Lo que sí tuve fue una infancia feliz, matizada por dos cosas: el hogar donde vivía con mi madre y los constantes viajes a Camagüey a casa de mi abuela paterna. Bueno, te puedo contar que el primer recuerdo del que soy consciente fue el de una foto que tengo frente a un televisor ruso; no la instantánea, si no más bien el momento en que me abrochaba unos zapaticos blancos. Un poco más grande (cuatro años) la sonrisa sin dientes de mi abuela que en un primer instante me dió miedo y hoy en día es una de las cosas que más añoro.  
+Durante las olimpiadas de _Sydney 2000_, cuando Filiberto Azcuy ganó su segunda medalla de oro y realizó un salto mortal hacia atrás, era la primera vez que veía algo así y sorprendido le dije a mi mamá _¡miraaaa!_ En ese mismo evento deportivo la carrera de los 110 metros con vallas quedó grabada para siempre en mi mente: el cubano Anier García ganó de forma increíble. Emocionante, casi al mismo nivel de la carrera, fue la narración de René Navarro, que a mí gusto personal es una de las narraciones más impresionantes del deporte cubano, tal vez porque aún la veo y la piel se me eriza.  
+Y las otras mucho más ocurrentes, relacionadas con La Habana. La primera vez que vine a esta ciudad, tendría igual, unos cuatro o cinco años, y vine en tren (cuya máquina infernal demoró diecisiete horas en llegar a la capital) según mi mamá yo armé una perreta pues no me quería bajar del tren (al parecer de niño padecía masoquismo ferrocalítico) y cuando pasamos junto a la locomotora miré hacia arriba y le pregunté a mi mamá si el maquinista era _Pelusín_ (haciendo una alegoría inconsciente a la canción infantil del tren). En ese viaje unos días más tarde iba de la mano de mi mamá y mi padrastro (al que desde siempre le he dicho papá) y el edificio más grande que ojos de niño tunero hayan visto jamás, se manifestó ante mí: _El Habana Libre._ De inmediato, super-mega-plus sorprendido, lo único que atiné a decir, mas bien a gritar, señalando al edificio, fue: ¡Papá miiiira! Desde ese entonces _El Habana Libre_ para mí famiIia se llama _Papá mira._
+
+![](/wp-content/uploads/2020/04/picsart_04-20-017735884264028562576.jpg)
+
+![](/wp-content/uploads/2020/04/picsart_04-20-017735884264028562576.jpg)
+
+**Desde de niño te gusta la música, la literatura y los deportes, mucho más que las matemáticas y los trabajos manuales. ¿Qué aspirabas ser cuándo fueras grande?**
+
+Soy un gran deportista frustrado, fui judoca, karateca, practiqué jujitsu, y sobre todo pelota. Al igual que muchos escritores cubanos (y un gran porciento de la población) me fascina el béisbol y lo único que quise ser por un largo tiempo era primera base de Las Tunas. Pero ni modo, soy un total desastre como deportista y desde pequeño manifesté mis anticualidades para los deportes. Supongo que por herencia paterna, puesto que a mi papá en la universidad le decían el _antisport_. En medio de mi foribundez pelotera y mataperreos (sin ser un mataperro consagrado) en mi casa se escuchaba mucho a Los Beatles, Bon Jovi, Silvio Rodríguez, Carlos Varela y una buena película era la mejor reunión que podíamos tener. Además, cuando tenía ocho años, mi mamá me regaló _Oros Viejos_ de Herminio Almendros y, desde entonces, no he podido parar de leer y entre los constantes viajes para visitar a mis tíos paternos regados por Cuba. Mi papá me llevaba de visita a los museos provinciales y siempre se detenía a leer cualquier tarja que hubiera en la calle, supongo que eso me impregnó el virus de la curiosidad infinita y el tratar de conocer siempre el porqué de las cosas aparentemente más cotidianas.
+
+> _este año voy a ser más maduro y tendré novia…_
+
+**¿Cuántas vueltas dio tu vida antes que comenzaras los estudios superiores? ¿Por qué optaste por la ingeniería industrial? Después de graduarte, ¿la ejerciste?**
+
+Di las vueltas naturales de la noria estudiantil, en la primaria tuve a la mejor maestra del _mundo mundial_, que me enseñó a leer y escribir; y ha sido, y es para mí, una de las personas más trascendentales en mi vida, porque fue la mujer que dibujó la línea de meta por la cual debía arrancar hacia el futuro.
+
+La secundaria, si bien no fue una etapa tan dura como suelen sobredimensionar los adolecentes, fue una experiencia difícil puesto que soy muy imaginativo y la víspera de entrada al nivel medio fue una planificación mental de todo lo que lograría, como tener novia o aprender a bailar (cosas que logré pero muy a la saga del resto de mis compañeros). Aparte de ser flaquito en ese entonces y tener un carácter _sui generis_, por lo que no gocé del éxito planificado en mi mente. Recuerdo que durante las vacaciones entre curso y curso me decía: _este año voy a ser más maduro y tendré novia…_
+
+El pre sí fue una etapa a la cual le guardo mucho cariño porque las amistades que hice, los momentos de alegría, tensión, y las horas de estudio para las pruebas de ingreso son incomparables. Mis compañeros y yo éramos una familia añil llena de energía, un _piquete_ explosivo (como nos autobautizamos) que tiene en su _currículum_ _vitae_ tres madres, una de ellas licenciada en derecho, cuatro doctores, un diseñador (a pepe, pero diseñador al fin) y dos ingenieros (uno de ellos yo).  
+Opté por la ingeniería industrial por influencia directa de mi madre ya que ella es ingeniera industrial también. Puede sonar a cliché o vanagloria filial, pero es una de las personas más inteligentes, emprendedoras, simpática y sensible que conozco y, por transitividad, toda esa energía me daba de _short_ _bown_ al igual que una línea de _hit_ al _center field_. Además, atendiendo a mí personalidad y analizando el perfil del resto de las ingenierías, la industrial era (es) la ideal para mí; incluso a pesar de cuestionamientos sobre nuestro campo de trabajo, donde se argumenta que somos los que saben de todo y no sabemos de nada, o que si poseemos un mar de conocimientos con un centímetro de profundidad… En fin, el mar (profundo y misterioso).
+
+Chile, solo llevo un año y nueve meses de graduado, trabajo de especialista principal del Grupo de Ingeniería y Desarrollo en la UEB: Muebles Capitalinos Umbral de la Empresa Industria Cubana del Mueble DUJO y ahí me encuentro dividido entre el trabajo y la literatura (parafraseando la canción de Silvio).
+
+> …escribir constituyó ese abismo por donde escapar
+
+**Eres un asiduo lector y te encanta conversar y comunicarte con los demás. ¿Te convertirás en escritor o ya lo eres? ¿Qué escribes? ¿Qué publicas?**
+
+Me considero escritor aunque no me dedique profesionalmente a la literatura y no tenga las horas de lectura y escritura de muchos de mis contemporáneos. Es una pasión que la puse en práctica a plenitud cuando comencé a estudiar 4to año en La Universidad Agraria de La Habana “Fructuoso Rodríguez Pérez” y empecé de nuevo como las _arenas de_ _soledad._ Fue el mejor modo para hacerle frente a un nuevo comienzo en un contexto, ambiente y mentalidad totalmente diferente a lo que conocía. Escribir constituyó ese abismo por donde escapar, como cantara Santiago Feliú. Cuando niño escribí poemas y algún que otro cuento sin darle terminación. Pero en tercer año un curso antes de partir hacia Mayabeque por desicion propia, aventurera y semi kamikaze, escribí mi primer cuento sobre un tema y persona que me fascina: José Martí. También haber tenido la oportunidad de formar parte de Curso XXI de Técnicas Narrativas del Centro de Formación Literaaria “Onelio Jorge Cardoso” fue un aliciente mayor y reafirmó la certeza de lo que aspiro a ser como escritor.  
+Y desde entonces, con irregularidad, escribo para saltar por el abismo de la imaginación con el paracaídas de mis manos.  
+Generalmente escribo sobre ficción histórica, influenciado por mi pasión infinita hacia la historia y por Leonardo Padura, quien no es paradigma como escritor, pero si mi autor preferido. También cultivo la entrevista, además de comentarios de tipo histórico sobre la sociedad y la cultura en general, no de modo crítico, más bien expositivo. Y publico lo que el Migue sube a _La Trinchera_, ya lo amenacé con dejar el blog si no comienza a pagarme, aunque ni modo; ni el tiene dinero para ello, ni yo escribo esperando un beneficio material (pero si cambia de opinión te aseguro que bravo no me voy a poner).
+
+**¿Eres materialista o idealista? ¿Cuál es tu visión de Martí y del Che?**
+
+Soy un joven que sueña con la realidad, por eso pienso que ambas son necesarias; tanto el idealismo que empuja y da paso para la concreción de los anhelos, como el materialismo necesario (no superfluo) que funciona como arquitrabe de los sueños.
+
+Martí, el Martí mío de mí, al que leo, admiro por herencia paterna y materna, que descubro en cada libro sobre él y en sus obras completas; el que me resulta estremecedor por desentrañar el alma humana de una manera inexplicable; el que vivió, sufrió y se enfrentó como nadie a todos los rechazos, incompresiones familiares y de causa común; al que le dediqué un fragmento de los agradecimientos en mi tesis de graduación antes que a mi familia y después que al Gran Arquitecto del Universo, al hombre de todos los tiempos que con su mirada de futuro engrandece mi alma, al eterno misterio que nos acompaña como diría Lezama, es al que siento en todos mis perfiles y trato de ser fiel a su herencia, de llegar a la estrella donde se encuentra porque eligió el camino más empinado subiendo montañas hermanado con la humanidad; ese es el Martí que veo, siento y respiro.
+
+Chile, en lo personal no soy guevariano, lo cual no quiere decir que no admire al héroe de Santa Clara, ni lea sobre su vida y obra, pero no sé, tal vez es cuestión de empatía. Pero si me identifico con el en ciertos aspectos, como el de vivir como se piensa y pensar como se vive, y Ernesto Guevara en ese sentido es un verdadero paradigma.
+
+> …Migue estaba desesperado cuando me hizo la propuesta
+
+**¿Por qué te sumaste al blog La Trinchera? ¿Cuál es la línea editorial y qué crees que le aporta este blog al debate ideológico-cultural en Cuba?**
+
+Durante la _Feria Internacional del Libro_ del 2019 dedicada al profe Eduardo Heras León, estaba en la presentación de _Trilogía Sucia de La Habana_ de Pedro Juan Gutiérrez y durante la venta del libro vi al Migue (y me puse a navegar en el _Google_ de mis recuerdos y me dije _¡ya!_). Hacía casi un año que no nos veíamos (desde el día en que coincidimos en la parada del P2 y conversamos fugazmente).
+
+Te confieso que la primera vez que ví al Migue me cayó mal porque me timbró con _\*99._ Yo solo tenía saldo para marcar y el movimiento del teléfono en mi pantalón me descolgó el móvil y me dejó sin saldo. Yo solo lo miré y respiré profundo. A cualquiera pudo haberle sucedido lo mismo. Ese día nos fuimos con un _piquete_ para el Bosque Martiano de San Antonio de los Baños y entre las conversaciones _metatránquicas_ de jóvenes en medio de un bosque alumbrados por una fogata, mi percepción sobre aquel _chamaco fue_ cambiando hasta que nos hicimos amigos a fuerza de dificultad y coincidencia…
+
+Volviendo a aquel día, comenzamos a conversar y hablar del reencuentro. Me contó sobre su proyecto y me preguntó si estaba interesado en participar en él (cosas de la vida, yo tenía la idea de empezar un blog llamado _Rompiendo lo imposible_ (como el _Canto Arena_ de Silvio), de inmediato acepté. Además, deseaba crear un espacio digital de diálogo y tenía en mente varias iniciativas que, atendiendo a lo que me proponía el Migue, era el sitio ideal. Es obvio que el Migue estaba desesperado cuando me hizo la propuesta de unirme al _team_, pero no se lo digas no vaya a ser que se ponga bravo.  
+La política editorial solo es una: exponer con sentido argumentos de solidez y desde el punto de vista que se expresen las ideas sobre todas las cosas, respetar. Si te fijas cuando entras al blog hay una nota aclaratoria sobre esta cuestión.  
+La Trinchera es un centro de concurrencia heterogéneo por excelencia, que refleja el pensamiento social desde las diversas aristas de la sociedad a través de los autores que publican sus opiniones, análisis críticos o poesías. Aporta, sobre todo, al crecimiento analítico, a la cultura del diálogo y el intercambio; ejemplo de ello es la extensión física del blog: _Trinchera Abierta_, que se hace una vez al mes en La Marca, donde los temas centrales que reunen a los concurrentes son de tal interés que, como dice el Migue, terminan en la parada de la guagua porque las dos horas de exposición y diálogo nunca son suficientes. La Trinchera es esa voz que no es la políticamente correcta a ojos sistema, ni la que practica el panegírico alabador carente de realismo; es un multiverso dinámico y, al menos para mí, escencial para crecer como ser humano y ciudadano de Cuba.
+
+**¿Qué haces por estos días de obligado aislamiento?**
+
+Continúo trabajando. Unas preguntas atrás te mencioné que soy Especialista Principal de Ingeniería y Desarrollo y hasta el momento en mi centro de trabajo se mantienen las actividades productivas, por supuesto a menor nivel, pero sí trato de cumplir con las medidas orientadas y cuando llego a casa no salgo hasta al día siguiente.
+
+Los fines de semana son un poco más complicados, puesto que viajaba a Pinar del Río para ver a mi novia (o viceversa) y hasta nuevo aviso estamos sin vernos (al menos físicamente). Y lo que hago los fines de semana entonces es hacer la compra para la semana, además de las tareas rutinarias como lavar, cocinar, limpiar la casa, veo televisión y leo (no tanto como quisiera, porque _WhatsApp_ y Segunda Cita se han vuelto opciones demasiado tentadoras como para dejarlas a un lado desde que tengo datos móviles).
+
+**¿Cómo piensas que será Cuba después de esta pandemia? ¿Cambiará el mundo para bien o para mal?**
+
+Después de una experiencia como esta se volverá a la normalidad como es obvio. Creo aspectos que antes pasaban desapercibidos por la _vorágine_ diaria serán apreciados de otra manera. Solo espero que los padres se entiendan mejor con los hijos y que incremente el diálogo con los abuelos que muchas veces en los hogares parecen un adorno más, por el silencio que portan. No puedo decirte que pienso que sea, más bien me gustaría, que fuera una Cuba que mantenga la disciplina ante lo indicado por el bien de los demás y que nos volvamos más agradecidos ante los que no tienen descanso.
+
+El mundo en estos días está mostrando su verdadero rostro, lo que para fortuna y desgracia es un rostro dividido en dos: los que no tienen reparo, ni decencia, ni sentido común sobre lo que sucede y priorizan la riqueza y la seguridad de sus bolsillos sin importarle lo más mínimo las consecuencias de una crisis humanitaria global; y los que luchan a brazo partido por la vida a cuenta y riesgo de la suya propia. Creo que será un mundo donde sabremos mejor discernir las palabras, las intenciones y el valor humano de los que toman decisiones trascendentales para una sociedad.
+
+> …una Cuba donde sus estrellas de _Grandes Ligas_ vistan las cuatro letras
+
+**¿A qué Cuba aspiras?**
+
+Aspiro, como Martí, a un país donde la dignidad plena del hombre sea expresada a través de la tolerancia, el respeto y la sensatez; a una Cuba sin bloqueo; a un país donde sus profesionales, obreros y trabajadores de cualquier sector vivan con dignidad de su salario y que el invento no sea el secreto a voces más conocido para poder subsistir, a una Cuba sin burocracia parásita; a un país con un sistema de transporte urbano eficiente y puntual; a una Cuba donde la enseñanza muchas veces disfrazada de pedagogía no sea un dogma; a una televisión nacional menos politizada; a una Cuba de prensa objetiva; a una Cuba donde sus estrellas de _Grandes Ligas_ vistan las cuatro letras en los eventos internacionales de béisbol; a un país donde los veteranos de guerra sean tratados con la atención requerida y necesaria, que el latón de una medalla oxidada o la bandera sobre el ataúd el día de su entierro no sea el recordatorio de su sacrificio; a una Cuba con cultura de limpieza urbana; a un país con una ley de protección animal. Aspiro a una Cuba, a una Cuba sin violencia juvenil, ni de ningún otro tipo; a una Cuba donde sus graduados universitarios se sientan motivados y estimulados cuando inician su vida laboral; en fin, a una Cuba no utópica, sino una que esté al alcance de la buena fe de quienes la sentimos en el alma y la podemos construir.
+
+![](/wp-content/uploads/2020/04/img-20200419-wa00216940964537679041548.jpg)
+
+![](/wp-content/uploads/2020/04/img-20200419-wa00216940964537679041548.jpg)
+
+**¿Quisieras decir algo más?**
+
+Agradecerte por la sorpresa de entrevistarme. Si bien no es la primera vez que me entrevistan, me siento emocionado por tu iniciativa y honrado porque seas tú mi entrevistador. Aunque eres muy modesto, tu obra te precede y a quien (_chicharroneando_ sea de paso) Roberto Chile le diga que lo quiere entrevistar, lo mínimo será la emoción del privilegio.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Investigador independiente
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

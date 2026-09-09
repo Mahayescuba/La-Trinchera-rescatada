@@ -1,0 +1,148 @@
+---
+title: "unificación monetaria Charles Romeo Debate La Trinchera"
+date: "2018-06-19T11:01:50+00:00"
+author: "Charles Romeo"
+category: "Economía en Cuba"
+image: "/wp-content/uploads/2018/06/Unbenannt-88.jpg"
+---
+Charles Romeo, economista y autor invitado de este blog, comparte con los lectores sus consideraciones sobre la unificación monetaria en Cuba y los retos que plantea en cuanto a la medición del valor, la contabilidad empresarial, el control, la información, los precios y los salarios.**I.-  Introducción imprescindible al tema de la unificación monetaria en Cuba**
+
+Los números son objetivos y precisos en cuanto a su propia significación numérica. Dos más dos son objetivamente cuatro y no tres ni cinco. Pero no prestan su rigor formal a lo que se está midiendo con ellos. Esa  es otra cuestión, la verosimilitud de lo que se supone  que están midiendo y de la cual no tienen responsabilidad alguna. Por ejemplo, cuando son utilizados para contar dinero únicamente dan fe de la magnitud cuantitativa de sus unidades, pero de ninguna manera de lo que se supone  que miden. Por ello cinco CUP son únicamente 5 CUP de la misma manera que 10 CUC son únicamente 10 CUC. Hasta ahí llega la utilidad de los números. **Otra cosa muy distinta es que es un CUP y que es un CUC.**
+
+Ambas son unidades monetarias, unidades de algo que se denomina dinero, con lo cual para conocer su significado hay que, ante todo, tener claro que es el dinero, porque existe y para que existe. En lo que todos concuerdan es que el dinero es una manera de cuantificar el valor de todo lo que a su vez contiene valor. Por consiguiente, primeramente hay que esclarecer que es el valor. Pero aquí aparece la primera gran dificultad: hay dos concepciones teóricas vigentes que lo explican, pero que son diametralmente diferentes.
+
+Ambas concepciones teóricas parten de lo registrado por la historia, de que el valor es una propiedad exclusiva de lo que se produce en una sociedad en la cual existe una división social del trabajo , etapa relativamente reciente de la historia del homo sapiens, inclusive más breve que la que se inició cuando producto de la división del trabajo en la sociedad los productores tuvieron que encontrar una manera de intercambiar productos elaborados para satisfacer objetivos diferente y cada vez más elaborados, con el fin de intercambiarlos  en la medida en que  decurso  la historia. La moneda más antigua, encontrada en la antigua Turquía, data de entre los  siglos VII y VI a.c. Hasta ahí todos están de acuerdo, pero la divergencia empieza al plantearse que media esa moneda.
+
+Para los economistas neoclásicos el dinero mide el valor de un producto elaborado para su venta, una mercancía, devenido su precio, y que está constituido por la satisfacción subjetiva que le produce al que lo utiliza o consume. La razón de esta concepción del valor es un intento de justificar como natural y legitima la ganancia de quien lo ha producido, como una diferencia entre el precio que le han pagado, su [valor](/economia-politica/), y su costo de producción.
+
+Para los economistas que reivindican la concepción de los economistas clásicos ingleses de finales del siglo XVIII y principio del XIX, Adam Smith y [David Ricardo](/economia-politica/), concepción también aceptada por Carlos Marx, el valor de una mercancía está constituido, además de la satisfacción que produce al consumirlo o usarlo , por el tiempo de trabajo socialmente necesario para su elaboración y por consiguiente la ganancia no es más que trabajo realizado por quienes la elaboran, no retribuido por quien los ha contratado para ello.
+
+Pero para nuestros propósitos bastará con aceptar que todos están de acuerdo en que el dinero mide el valor de un producto elaborado para su venta, entendido como la suma de todos sus componentes, la ganancia incluida, en términos de unidades monetarias cada una representando una determinada magnitud de valor.
+
+¿Cómo se determina la magnitud de valor de la unidad monetaria, el dinero? ¡Esa es la cuestión! Si le hiciéramos la pregunta a Perogrullo nos contestaría diciendo  que su valor está determinado por todo lo que puede comprar con él y tendría razón, toda vez que su propiedad es ser una magnitud  equivalente de valor de cualquier mercancía o servicio que se encuentre en el mercado, “espacio social” en el cual se venden y compran las mercancías y los servicios.
+
+En Cuba el valor de un CUP, también denominado peso cubano, es todo lo que se puede comprar con él y el valor de un CUC es equivalente a lo que se puede comprar con 25 CUP, con lo cual y al margen del por qué la relación de intercambio entre el CUP y el CUC es de 25 por uno y no otra, la cuestión es determinar el valor de un CUP que existe como unidad básica del valor en Cuba.
+
+Hasta el 31 de diciembre de 1958 el peso cubano equivalía a un dólar norteamericano de la época, que a su vez era equivalente al oro a razón de una relación de intercambio oficial y real garantizada por parte del  Banco  de la Reserva Federal, el banco central norteamericano, de 35 dólares por una onza de oro, el equivalente universal, con lo cual el peso cubano tenía un contenido de valor muy preciso con cualquier otra moneda del mundo y desde luego con relación a todo lo que se vendía y compraba en Cuba. Pero el 1 de enero de 1959 “Llego el Comandante y mando a parar” y nunca más hubo un cambio “libre” único del peso con el dólar y se instauró un cambio oficial de 1 por 1 por el Banco Nacional, pero únicamente para quienes el banco decidía venderle dólares, pero ahora por razones sociales y ya no individuales y privadas. A partir de la creación del Ministerio para el Comercio Exterior, MINCEX, únicamente el Estado a través de sus organismos y empresas podía acceder a dólares u otras divisas y todas las importaciones pasaron a ser exclusivas de ese nuevo Ministerio en 1961.
+
+No obstante lo sucedido, el Gobierno Revolucionario mantuvo y mantiene hasta el día de hoy, desde hace ya 59 años, el tipo de cambio del peso por el dólar a razón de uno por uno y así se registra oficialmente en la contabilidad de toda institución o empresa del Estado Cubano. Sin entrar a analizar esta decisión, en verdad sus consecuencias fueron únicamente el registro en las contabilidades de organismos y empresas de compras y servicios importados a ese tipo de cambio de 1 peso por 1 dólar norteamericano, con lo cual la expresión de todas las magnitudes de valor en el país eran medidas directa e indirectamente sobre la base de ese tipo de cambio.
+
+Ya desde los años ochenta del siglo pasado el Estado Cubano estableció una cadena de tiendas en las que se vendían artículos importados y nacionales sin restricción cuantitativa pero en monedas convertibles extranjeras a quienes dispusieran de ellas, tanto turistas como residentes. Esto provocó que el tipo de cambio no oficial que surgió en” el mercado libre de  la calle”, llegara a ser  hasta de 150 pesos cubanos por un dólar norteamericano a la par que todas las transacciones con el exterior hechas por el Estado se realizaban al tipo de cambio de un peso por un dólar norteamericano.
+
+Ya en los años noventa estas tiendas se generalizaron para toda la población, pero con un impuesto a la venta del 100%. Pero en el año 2004 se suspendió la venta en monedas extranjeras y se creó para ello una nueva moneda, el peso cubano convertible a un tipo de cambio de 1 peso convertible denominado CUC por 1 dólar norteamericano, estableciéndose un tipo de cambio de 25 pesos cubanos, denominados ahora CUP, por 1 CUC. Pero en ese mercado oficial se vendían CUC por pesos CUP y viceversa y se cambiaban monedas extranjeras convertibles por CUC, pero no se vendían monedas extranjeras a cambio de CUC ni de CUP.
+
+Con la creación del CUC se creó en Cuba un área económica en que las transacciones por ventas de bienes y servicios  se realizaban en CUC y las compras necesarias para producirlos en CUP y en CUC en paralelo, e interrelacionada con el área en que circulaba el CUP. Un ejemplo de lo que empezó a suceder permite aclarar la situación creada.
+
+En un mercado de  venta de productos agropecuarios a la población , si estos eran acopiados y traídos hasta el mercado por una empresa estatal sus costos eran enteramente en CUP, desde el valor del camión contabilizado como un activo expresado en una suma de pesos cubanos CUP igual al monto de los  dólares pagado por él, con un combustible subsidiado valorado en CUP, salarios de los transportistas en CUP y gastos de mantenimiento del vehículo en esa misma moneda, pero de hacerlo un intermediario privado todos esos gastos debían ser sufragados en CUC y por consiguiente el costo total de los productos llevados hasta el mercado debían ser calculados sobre la base de multiplicarlos por 25, el tipo de cambio del CUC en CUP para llevarlo a esa moneda con la cual compra el pueblo consumidor que cobra sueldos y salarios en CUP. Obviamente la función de intermediario resulta “mucho más cara” en un caso que en el otro.
+
+En una economía como la cubana que se acerca a poder recibir unos 5 millones de turistas al año, uno por cada dos cubanos, los particulares que pueden hacerlo aprendieron a exportar servicios convirtiendo el alquiler de sus casas y automóviles que venden en CUC así como servicios de restauración.
+
+Todo ello ha conducido a que en Cuba exista una economía que puede catalogarse de ”esquizofrénica” por poseer dos “personalidades distintas”, pero interconectadas y no por la dualidad del CUC y del CUP toda vez que entre ambos hay una muy clara y definida relación cuantitativa, si no que por mezclar productos importados valorados a dos tipos de cambio diferentes, unos, la mayor parte de las importaciones al cambio de 1 CUP por dólar y en el interior de Cuba otros al tipo de cambio de 1 dólar por 25 CUP, pasando por el CUC como simple intermediario. Y lo que es más grave aún y  es el centro del problema: **¿Cuál es el correcto tipo de cambio que debe haber entre el CUP  y el dólar norteamericano?**
+
+El día en que eso quede determinado también lo será el valor de todas las mercancías y servicios que se venden y distribuyen en Cuba. Pero eso tomara el tiempo necesario para que hasta los recursos productivos, edificios, equipos, maquinaria, inventarios de materias primas y de piezas de repuesto, etc. existentes  que se utilicen  hayan ya sido contabilizados según el nuevo tipo de cambio entre el CUP y el dólar norteamericano a los efectos de poder calcular costos y precios reales y si estos últimos son subvencionados, conocer el verdadero valor del subsidio. Mientras tanto, la economía cubana seguirá siendo esquizofrénica hasta que el tratamiento la logre curar.
+
+   **II.-      El problema cubano de lograr una unificación monetaria.**
+
+Resolver en Cuba el problema del uso de dos monedas diferentes es más difícil de lo que la gente piensa. Es “un ajuste de cuentas” con el pasado. Y para decirlo en términos técnicos, es un momento de la conjugación realista de lo macroeconómico con lo microeconómico.
+
+**Algunas definiciones necesarias.**
+
+El dinero es el módulo de valoración de todos los productos y servicios y su registro es la contabilidad, que para toda persona natural o jurídica expresa que posee, como diferencia entre los que se tiene y lo que se debe.
+
+“La **contabilidad** es la [técnica](https://A/A/html/T/%C3%A9/c/n/T%C3%A9cnica.html) que se encarga de estudiar, medir y analizar el patrimonio, situación económica y financiera de una empresa u organización, con el fin de facilitar la toma de decisiones en el seno de la misma y el control externo de la misma , presentando la información, previamente registrada, de manera [sistemática](https://A/A/html/S/i/s/t/Sistem%C3%A1tica.html) y útil para las distintas partes interesadas”…… “La finalidad de la contabilidad es suministrar información en un momento dado de los resultados obtenidos durante un período de tiempo, que resulta de utilidad a la toma de decisiones, tanto para el control de la gestión pasada, como para las estimaciones de los resultados futuros, dotando tales decisiones de racionalidad y eficiencia.”(Wikipedia)
+
+Pero poder medir un patrimonio, una corriente de insumos productivos o la resultante de una actividad productiva, **requiere que todos esos elementos dispares puedan ser convertidos a una unidad de medida única de algo común en todos ellos, lo que se denomina valor, para lo cual el módulo de medida es una unidad monetaria con una cierta magnitud de valor.**
+
+Este prolegómeno, evidentemente conceptual y teórico, es imprescindible para poder situar la problemática de la definición de la unidad monetaria de un país como Cuba, en su correcta perspectiva.
+
+Tratemos de definir el problema correspondiente que se le presenta a las autoridades cubanas, que ellas denominan la unificación monetaria de dos monedas legales diferentes que circulan simultáneamente en el país, el peso cubano tradicional (CUP) y el peso cubano convertible (CUC), con una relación oficial y practica de equivalencia de 25 CUP por 1 CUC.
+
+**Un poco de historia y el problema que se confronta**
+
+Hasta el triunfo de la Revolución Cubana en enero de 1959, la moneda vigente en el país era el peso, que en la práctica se cotizaba con el dólar norteamericano con una relación de cambio de 1 a 1. Este último hecho le concedía al peso cubano la imagen de una moneda fuerte, indirectamente a su vez convertible en oro a la tasa de 1 onza de oro por 35 dólares. Por esas razones es comprensible que desde sus inicios el Gobierno Revolucionario Cubano mantuviera al peso como unidad monetaria, aunque ya desde ese mismo momento tanto en la práctica como en los bancos y casas de cambio, dejó de regir la equivalencia de 1 a 1 con el dólar norteamericano, **pero si se la** **conservó a los efectos legales y contables.** Vale decir, que un producto norteamericano importado que hubiera costado 100 dólares era contabilizado por el comprador cubano a un valor nacional de 100 pesos.
+
+También por razones políticas y para la defensa del poder de compra de la población cubana, en la medida en que el Estado pasaba a ser dueño de una actividad comercial o productiva, se conservaban los correspondientes precios de venta que regían al principio de la Revolución.
+
+La congelación en el tiempo, tanto del tipo de cambio de 1 a 1 con el dólar norteamericano y por su intermedio con otras divisas extranjeras, como de los precios nacionales, **se mantuvo durante décadas,** al cabo de los cuales los valores de los registros contables de las empresas si bien expresaban números, más o menos bien interrelacionados según fuera la calidad de la contabilidad correspondiente, **ya no tenían ninguna significación real en términos de medida objetiva de valores.** Inclusive ya estando vigente el CUC o peso convertible, un equipo o una mercancía cualquiera importada por una entidad estatal a un costo equivalente a X dólares norteamericanos era registrada contablemente como un valor de X antiguos pesos cubanos, denominados ahora como CUP.
+
+Si le sumamos el efecto del retraso con que los precios históricos fueron ajustándose a las nuevas condiciones de producción  al de contabilizar importaciones al tipo de cambio inamovible de 1 dólar por 1 peso CUP, **el resultado es que en la actualidad los valores registrados en las contabilidades de las empresas estatales no tienen absolutamente ninguna significación económica real y no representan ninguna información adecuada para cualquier análisis económico-financiero.**
+
+**He aquí el problema fundamental que se confronta en Cuba para lograr la unificación monetaria que permita valorar objetivamente la significación económica real de cualquier bien o servicio en su economía mediante una sola moneda.**
+
+**¿Qué hacer?**
+
+**Por una parte**, hay que definir cuál de las dos monedas actualmente vigentes, el CUP y el CUC, devendrá la moneda única de circulación legal en Cuba. La generalización de la aceptación en todos los comercios que venden productos valorados en CUC de su pago también en CUP al tipo de cambio de 25 CUP por 1 CUC, **parece indicar** que este problema se resuelve conservando el CUP con el cual en general se pagan sueldos y salarios, como moneda única.
+
+**Por otra parte**, se debe definir el tipo de cambio del peso CUP con el dólar norteamericano y por su intermedio con las demás divisas extranjeras según sus cotizaciones en el mercado financiero mundial, sea este 25 a 1 u otra magnitud. Las importaciones que hace Cuba equivalen al 40% de su  PIB. Esta realidad hace que resulte determinante para la conformación de precios internos el tipo de cambio al cual se deben convertir pesos cubanos en monedas extranjeras.
+
+**Y sobre la base de la definición de la moneda única cubana y de su tipo de cambio** con las divisas extranjeras, es que se podrá atacar **al** **enorme problema de lograr dotar a la economía cubana de registros de valor objetivos y por consiguiente confiables,** para poder realizar los cálculos y análisis económicos de todo tipo **y finalmente determinar de la manera más realista posible los precios internos y los salarios.**
+
+**¿Cómo lograr registrar objetivamente el valor?**
+
+En otras palabras, de lo que se trata es de” **medir y analizar el patrimonio, situación económica y financiera de una empresa u organización”,** lo que se aplica a toda entidad económica existente en la sociedad cubana.
+
+Básicamente, la contabilidad de una empresa se compone de **dos conjuntos de registros,** **supuestamente verdaderos en la medida en que reflejan hechos reales,** basados en el principio de equivalencia según el cual todo lo que la empresa posee (activos) también lo debe (pasivos). O sea, diferencia:
+
+-   entre lo que posee, que debe ser igual a lo que debe, más o menos su valor neto. Este último puede ser positivo, reflejando la suma de las ganancias logradas durante todos los ejercicios de su existencia hasta la fecha, vale decir **su patrimonio,** o bien negativo, lo que significa que a esa fecha debe un valor mayor del que posee. Y ese patrimonio la empresa lo debe a sus propietarios y si es negativo, a sus acreedores.
+-   entre sus ingresos por ventas de bienes y servicios y los gastos ocasionados por los costos incurridos para ello durante un ejercicio, siendo la diferencia **la ganancia o la perdida obtenida durante el periodo durante el cual fueron registrados**.
+-   Al finalizar cada ejercicio, la ganancia o la perdida se suma a su patrimonio, incrementándolo en el primer caso y disminuyéndolo en el segundo. Así se integran los registros de lo acontecido en el pasado con el nuevo ejercicio que acaba de terminar.
+
+Empecemos por lo más fácil de corregir.
+
+**La contabilidad de ingresos y gastos**
+
+Previa definición de cuál es a partir de ese momento la unidad monetaria nacional y su tipo de cambio con el dólar y demás divisas extranjeras, debe decidirse por quien puede hacerlo que, a partir de una determinada fecha, toda empresa o entidad económica registrará tanto sus ingresos como sus gastos **a los nuevos precios vigentes** **resultantes** en esa economía. Pero si los insumos utilizados provienen de su propio inventario contabilizado a precios antiguos anteriores a los nuevos en vigencia a raíz de la utilización de la nueva unidad monetaria y del nuevo tipo de cambio, **deberán también ser registrados como salidas de inventario en sus correspondientes cuentas a los antiguos precios, hasta el total agotamiento de cada inventario.**
+
+**Pero los salarios pagados serán contabilizados a sus nuevos niveles que eventualmente se determinen, expresados en la nueva unidad monetaria, que será el mismo CUP pero ahora con un nuevo tipo de cambio con las divisas extranjeras.**
+
+A los costos directos de producción se agregarán **magnitudes, que deberán ser estimadas en la nueva unidad monetaria,** para la amortización de equipos e implementos, así como de las construcciones, cuyos valores deberán ser calculados a partir de su costo de reposición verdadero o en su defeco estimado, con la nueva moneda y el nuevo tipo de cambio.
+
+Resumiendo, es factible lograr una contabilidad adecuada de ingresos y gatos desde el momento en que se decida hacerlo, **aunque hasta el agotamiento de los antiguos inventarios seguirán conformándose los costos de manera imperfecta**.
+
+Corregir la contabilidad de lo que posee y de lo que debe cada empresa e institución es mucho más difícil y tomara más tiempo.
+
+**La contabilidad de lo que posee y debe una empresa**
+
+Podría pensarse que lo que se altere o modifique en los registros del patrimonio de una empresa concierne solamente a esa empresa y por tanto a sus responsables, mientras que lo que afecte a sus deudas y obligaciones afecta a terceras personas y está basado en una documentación legal. Digamos, como ejemplo, que la empresa en cuestión tiene una deuda con su banco por un préstamo recibido para comprar un equipo importado que adquirió a un precio a su vez calculado sobre la base de un tipo de cambio de 1 CUP por 1 dólar. Contractualmente la empresa deudora puede y debe pagar su deuda al banco en pesos CUP y en principio revalorizar el registro contable del equipo comprado según el nuevo tipo de cambio CUP por dólar, con lo cual habrá incrementado su patrimonio en CUP. Pero ello alteraría el principio de equivalencia que rige en la contabilidad toda vez que esa acción no afectaría la contraparte de sus obligaciones. **Sería una operación que no tendría ninguna justificación salvo la expresión de una acción unilateral de la empresa sin la existencia de un documento legal que la respalde. Pero a su vez continuará pagando su deuda al banco ahora en la nueva moneda, pero nueva únicamente en su relación de cambio con las divisas extranjeras.**
+
+Como la contabilidad es intocable sin un documento que avale cualquier registro, a su vez basado en un hecho real,  el nuevo tipo de cambio del CUP por dólar no puede afectarla hasta tanto no efectúe operaciones que lo conlleven, por ejemplo la compra de materias primas importadas vendidas en CUP al nuevo tipo de cambio, o la compra de materias primas nacionales a un nuevo precio derivado de esa devaluación .Por consiguiente, aunque se sepa que los valores reflejados tanto en el patrimonio como en las obligaciones de las empresas ya no tienen ninguna significación real, habrá que seguir contabilizando de ahora en adelante las nuevas operaciones a nuevos precios a consecuencia del nuevo tipo de cambio del CUP, durante un muy largo periodo de tiempo mientras se vayan “renovando” gradualmente activos y obligaciones de cada empresa y  adquiriendo poco a  poco una significación real del valor registrado .
+
+**Control e información**
+
+Como se estableció al principio, la contabilidad es un método necesario para obtener control de lo que sucede en una empresa y para lograr información necesaria a los efectos de evaluar su comportamiento, sus resultados y su eventual futuro.
+
+El análisis realizado de las consecuencias de la unificación monetaria y de la determinación de un tipo de cambio realista de la unidad monetaria cubana con las divisas extranjeras, a pesar de sus considerables efectos en una economía en que alrededor del 40% del PIB es de origen importado, permite decir que ello no tendrá ninguna consecuencia negativa en el valor que la contabilidad tiene como método de control de lo que sucede en una y en todas las empresas e instituciones del país. En la medida en que todos los actos de una empresa que comprometen su patrimonio queden **fehacientemente** registrados en el momento oportuno, el principio de la equivalencia o partida doble de la contabilidad asegura el control de todo lo hecho.
+
+Es como **instrumento de información** que pese al logro de la unificación monetaria y la definición de un tipo de cambio realista, **que la contabilidad en Cuba y durante bastante tiempo, tendrá limitaciones de verosimilitud.**
+
+Pero no lo será en la contabilización de ingresos y gastos de cada ejercicio toda vez que ambos registros se irán modificando en la medida en que cobros y pagos se vean afectados por las consecuencias de la reforma monetaria, dejando constancia de las modificaciones reales que provocara para cada empresa, y su seguimiento permanente  brindara informaciones necesarias para que la administración de cada empresa tome las medidas del caso **y proceda a efectuar los ajustes consecuentes de sus precios de venta**. Por consiguiente, habrá información sobre el resultado del ejercicio que permita determinar un margen de ganancia o de perdida y de que magnitud, tanto absoluta como relativa y sobre esa base hacer proyecciones futuras.
+
+Diferente será el caso en lo que se refiera a **sacar conclusiones de los montos de los activos, de lo que posee, y de los pasivos, las obligaciones de la empresa,** toda vez que los números correspondientes arrojarán magnitudes de valores totales **irreales**. Por consiguiente, la utilidad de esas informaciones no rebasará durante mucho tiempo el alcance de sus variaciones porcentuales de periodo en periodo, positivas o negativas, y las proporciones de los diferentes grupos significativos de cuentas dentro del balance de situación de cada empresa, tales como la relación entre sus activos líquidos y sus compromisos de pago de deudas. El valor que arroje el balance de situación de los activos fijos, construcciones, maquinaria y equipos, **no tendrá por mucho tiempo ningún sentido real.**
+
+**Modificaciones en los precios conllevará modificaciones de los salarios**
+
+Para quienes reciben sus ingresos bajo la forma de salario, el irreversible aumento de los precios de lo que compra para vivir en los nuevos CUP reducirá su poder de compra y como en Cuba no se conciben  “tratamientos de shock” para resolver desproporciones económicas, el aumento de los precios expresados en CUP **deberá ser continua y diariamente monitoreado** por el Gobierno a los efectos de ir reajustando **obligatoriamente** esos salarios en las proporciones compensatorias mientras duren las consecuencias de ese proceso de eliminación de la dualidad monetaria y de determinación de un nuevo tipo de cambio del CUP con las divisas extranjeras. El proceso llevara un tiempo de duración difícil de predecir a priori, aparentemente inflacionario pero realmente de reajuste de las magnitudes de los valores vigentes en Cuba expresados en la nuevamente definida unidad monetaria.
+
+¡Pobres CUP y CUC a quienes se les echa la culpa de las confusiones existentes y de tener que ir a la CADECA para cambiar una en otra moneda! Quien iba a pensar que el problema era un ajuste de cuentas con el pasado.
+
+Charles Romeo
+
+La Habana, 24 de abril del 2018
+
+**Notas sobre el autor.**
+
+Charles Romeo, economista franco-chileno, se incorporó a la Revolución Cubana en marzo de 1959 cuando trabajaba en la Comisión Económica para América Latina (CEPAL).  Tiene una amplia y diversa trayectoria que incluye la docencia en varias universidades y su desempeño como funcionario de organismos estatales de Cuba: INRA, Ministerio de Industria, la Comisión de Colaboración Científica y Económica, y el Ministerio de la Agricultura. Fue colaborador de Ernesto Che Guevara y de Carlos Rafael Rodríguez. Posee una vasta experiencia empresarial, siendo fundador de las corporaciones CIMEX y HAVANATUR, gerente de varias compañías propias, administrador de una sociedad hotelera, gerente de una sociedad mixta en Cuba, y consultor de empresas extranjeras. Es el autor de libros y artículos sobre temas de economía política, comercio exterior, desarrollo, teoría socialista, educación y testimonio.
+
+Tomado de [El estado como tal](https://elestadocomotal.com/2018/05/07/charles-romeo-la-cuestion-de-la-unificacion-monetaria-en-cuba/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

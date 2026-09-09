@@ -1,0 +1,83 @@
+---
+title: "¿En Cuba se gesta una Revolución Sexual?"
+date: "2019-06-05T06:45:15+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/06/Lesbian-LGBTQ-Travel-in-Cuba-The-Rainbow-Route-1.jpeg"
+---
+En otros países, los grupos de la sociedad civil defensores del movimiento _LGTBI_, luchan por influir al estado, para que tomen políticas a su favor.
+
+**Por: Julio Pernús**
+
+La sexualidad y la fe en ocasiones se analizan como las antípodas de una historia plagada de censura, de ahí que me cueste tanto bosquejar este tema desde un pensamiento católico. Pero considero necesario el poder dar una mirada a un debate que ya está introducido dentro de nuestro entorno nacional, a sabiendas de que solo es un primer paso, con la esperanza de poder brindar algunas pistas de cara al futuro inmediato.
+
+> Haz el amor y no la guerra
+
+Yo diría que Cuba es uno de los pocos países que debido a su situación interna, no vivió con fuerza la libertad sexual desencadenada por las luchas sociales, asociadas a las Revoluciones del año 1968. Uno de los lemas que prevalecía en la juventud de aquel entonces, vinculados a proyectos contraculturales como el _Mayo_ _Francés_ o el _Movimiento Hippie_ (1) en Estados Unidos, era: _Haz el Amor y no la Guerra_ (2) y hubo mucha gente que se tomó esto literalmente.  
+Por aquellos tiempos, ya podemos estar hablando de una disminución drástica de la autoridad moral que sobre esta temática poseía el cristianismo.
+
+> la homosexualidad era un tema tabú en los altos aparatos del poder
+
+En Cuba el combate era distinto, como me dijera un profesor de la Facultad de Comunicación, dentro de la subjetividad del pueblo existía un paradigma revolucionario irreconciliable con todo lo que hoy conocemos como temas de género.  
+Incluso, altos dirigentes del país, como la fallecida dirigente política Vilma Espín Guillois, reconocieron que en su momento la homosexualidad era un tema tabú en los altos aparatos del poder. Negar las políticas de represión que sufrió ese sector de nuestra población, es una falacia que duele a muchos de los que la padecieron en carne propia. Hubo recogidas masivas de “pájaros” -disculpe el lector el término, pero era el que se manejó dentro del _establishment_\-. “Algunos fueron recluidos en las _Unidades Militares de Apoyo a la Producción_ (UMAP), o sufrieron las terribles consecuencias de la _parametración_, debido a su debilidad no podrían ser miembros de la vanguardia revolucionaria” (3).
+
+> Persisten prejuicios desde instancias decisoras de la nación
+
+Esta situación por supuesto, ha respondido a contextos específicos y no siempre ha sido vivida o asimilada de la misma forma; hoy todavía persisten algunos prejuicios con respecto al tema, desde instancias decisoras de la Nación. Quizás un nicho de lo referido anteriormente, sea la creacióndel [_Centro Nacional de Educación Sexual_](https://es.wikipedia.org/wiki/Centro_Nacional_de_Educaci%C3%B3n_Sexual) (CENESEX ). Hablamos de una institución creada en intrínseca relación con el Ministerio de Salud Púbica, aunque funciona como una especie de _ONG_ vinculada al Estado.
+
+> La conga permitía festejar con “orgullo” la identidad sexual
+
+Sus antecedentes son las luchas de Vilma Espín, en favor de la protección femenina en Cuba. “Desde el año 1978, se fue articulando un programa nacional de educación sexual para la población y esto de a poco fue abriendo un camino” (4). Entre los momentos cúlmenes de la iniciativa, se encuentra la celebración a partir del 2007 de la jornada nacional contra la homofobia (5), mediado por diferentes actividades, pero visibilizada mediante una conga que le permitía a la comunidad _LGTBI_ de Cuba y algunos activistas extranjeros, tomar las calles de la Habana para festejar con “orgullo” su identidad sexual.  
+Es menester expresar que sobre todo la conga había sido vista con recelo por amplios sectores de la población y este tema ganó relevancia, mediante el discutido _Artículo 68_ del proyecto constitucional. Lo que comenzó como un proceso espontáneo en el 2007, al calor de otros similares ejecutados por el mundo, toma un carácter institucional en el 2008 cuando se crea un comité organizador con representatividad de instituciones estatales y de la sociedad civil, incluso, contó con la participación de Ricardo Alarcón de Quesada, presidente en aquella época del Parlamento cubano.
+
+> la conga era una especie de performance artístico que legitimaba todo el trabajo público de la jornada
+
+Es a partir de ese contexto, cuando se promueve el diseño tangible de una campaña de comunicación que le diera mayor legitimidad y visibilidad a toda la lucha por los derechos de las personas _LGTBI_. En resumen, nos estamos refiriendo a una propuesta que abarca el tema pedagógico, con debates sistemáticos en diversas instituciones educativas, sobre todo, en aquellas con la responsabilidad de formar a los maestros y en las que conducían el proceso de la enseñanza superior; mientras que la conga era una especie de performance artístico que legitimaba todo el trabajo público de la jornada.  
+La campaña del 2019, tenía la peculiaridad de ser la plataforma planeada para mover los resortes jurídicos vinculados a los derechos sexuales, derivados de la nueva constitución. Para muchos de los activistas institucionales, el país, está en un momento decisivo, que incluye el respaldo jurídico a las preferencias del nuevo pacto social esgrimido en abril por el pueblo. Un espacio que cada día ofrece nuevas miradas, es el de la articulación del movimiento _LGTBI_ en redes de diversos tipos, que dialogan entre sí. Hablamos de un entorno donde pueden conversar en un mismo escenario, académicos, activistas _LGTBI_ y científicos sobre temas vinculados a la sexualidad y la pedagogía de género. Es un escenario enriquecido por la llegada de especialistas de diversos países; donde se intentan dar apreciaciones sobre estas temáticas desde un análisis no excluyente, con un discurso de igualdad, equidad y no discriminación. Algunos sociólogos afirman que esto se enlaza con otros procesos históricos de lucha entre sectores de la población, como las mujeres y otros componentes de la sociedad civil que han sido marginados. También algunos centros religiosos como el Martin Luther King y el Oscar Arnulfo Romero se han hecho eco de estos procesos.
+
+> ellos se veían identificados con los artículos 40 y 41
+
+No podemos olvidar que estamos haciendo referencia a un sector minoritario de la sociedad civil. Que incluso en su interior esconde una gran diversidad, para mí, manifestado con claridad en el proceso llevado a cabo dentro del debate constitucional. Algunos de los miembros de la comunidad _LGTBI_, sintieron que la nueva constitución era uno de sus mayores logros; ellos se veían identificados con los artículos 40 y 41, donde se prohíbe todo tipo de discriminación, incluyendo la sexual, o los artículos 80 y 82, donde se reconoce la pluralidad de las familias. Pero, también hay un sector de la comunidad que se sintió traicionado, cuando fue eliminado el promovido artículo 68 que liberaba de forma clara la institución del matrimonio; entonces, algunos de los activistas se percibieron como meros instrumentos de un discurso sin ejes sociales.  
+Para el CENESEX, en palabra de su vicepresidente, “todas las actividades son fundamentales y tienen relevancia, la conga tiene el aquello de tomar las calles de forma educativa” (6).
+
+> una parte de la comunidad _LGBTI_ que se negó a perder el espacio ganado
+
+Por supuesto que dentro de la marcha siempre han existido personas de diferentes orientaciones políticas, ellos se unían en pos de una causa común. Pero,“debido al contexto social que atraviesa el país, por motivos de seguridad se decidió esta año no realizar la conga” (7), lo que provocó una reacción de una parte de la comunidad _LGBTI_ que se negó a perder el espacio ganado y se convocó de forma autónoma para realizarla en diversas provincias del país; esto culminó con un desenlace funesto en La Habana, visibilizado desde la redes sociales. En realidad, no debió haber terminado de esta forma, porque la represión violenta nunca debe ser visto como el modo idóneo de frenar la indisciplina cívica. Los motivos esgrimidos desde la oficialidad son que no se pidió autorización para la convocatoria, aunque en un segundo momento se identificó que se les permitió ir hasta un lugar, pero el grupo no quiso terminar su conga en el espacio señalado. El hecho real es que se ha visto, redes sociales mediante, un suceso dramático en el que no hubo vencedores y sí muchos corazones dañados. Ojalá sea una historia de una sola ocasión.
+
+> No todos los asistentes a la conga autónoma eran de la comunidad LGTBI
+
+Algunos artistas e intelectuales cubanos han mostrado su solidaridad con este movimiento alternativo dentro de nuestra sociedad civil. No todos los asistentes a la conga autónoma eran de la comunidad LGTBI, por lo que también se puede apreciar una cierta empatía social, nunca vista con este grupo que antes era cuasi marginal y esto es un logro sumamente interesante de esta comunidad. Una pregunta desafiante es, ¿qué efectos tendrán estás nuevas dinámicas sobre los activistas de este movimiento, que ahora se han visto desbordados ante la disyuntiva de tomar una posición? Las obras sociales no suelen cimentarse de un día para otro, su finalidad es aportar al bien de la sociedad, lo interesante de este movimiento es que desde el principio a contado con la validación de personas heterosexuales. La política juega un papel, pero no debe ser utilizada como filtro para ser parte del movimiento, porque entonces un sector que busca no ser discriminado estaría discriminando a otra minoría por su forma de pensar.  
+En Cuba se han ido generando una serie de redes nacionales vinculadas al tema que se enlazan con acciones internacionales de igual tipo, como por ejemplo la TransCuba (8). En otros países, los grupos de la sociedad civil defensores del movimiento _LGTBI_, luchan por influir al estado, para que tomen políticas a su favor. Nuestro país, de cierta forma, ha logrado empoderar a este sector; que gana visibilidad con la participación de Mariela Castro, directora del CENESEX, dentro de órganos decisores de nuestra Nación como la Asamblea Nacional. Desde ahí, en los últimos doce años se han gestados insumos importantes, para llevar los temas de género al debate social del país. En otros países, los representantes de esta comunidad forman una especie de cuerpo híbrido, con miembros dentro del gobierno y también con una representación fuerte en movimientos alternativos de la sociedad civil.
+
+> Es importante que los católicos no seamos identificados como los enemigos acérrimos de este movimiento revolucionario
+
+Yo creo que lo más difícil de las personas sensibilizadas y agenciadas a este ejercicio, es hacer comprender a toda la sociedad los pormenores de la aceptación cívica que asume una identificación sexual diferente a la relación hombre – mujer. Como joven cristiano, asumo que es un asunto delicado para tratar dentro de una sociedad tan sesgada por estructuras diversas como la nuestra. Es importante que los católicos no seamos identificados como los enemigos acérrimos de este movimiento revolucionario que se ha ido gestando de a poco dentro de la sociedad civil.
+
+> “¿Quién soy yo para juzgar?”
+
+Los fundamentalismos suelen traer consecuencias pobres al interior de los debates sociales. Desde mi apreciación, entiendo que debemos prepararnos cada día más para poder enfrentar con bases sólidas, el plebiscito del código de familia que ya se avecina. Me gusta mucho una frase empleada por el Papa Francisco cuando le preguntaron sobre el tema. Él dijo: “¿Quién soy yo para juzgar?” (9). Es verdad que un tabú no se rompe de un día para otro, pero los tiempos cambian y es urgente saber leer sus códigos, si no seremos absorbidos por la nueva Revolución Sexual que se gesta en Cuba.
+
+**Notas**  
+(1) Los hippies fue un movimiento juvenil que tuvo lugar en los últimos años de la década de 1960 y que se caracterizó por la anarquía no violenta, la preocupación por el medio ambiente y el rechazo al materialismo occidental.  
+(2) Haz el amor, no la guerra (en el original inglés Makelovenotwar y en francés Faitesl’amour, pas la guerre) es un lema o esloganantimilitar asociado con la contracultura de la década de 1960 en los Estados Unidos. Fue usado por primera vez por quienes se oponían a la Guerra de Vietnam, pero desde entonces ha sido invocado en otras situaciones ya sea contra el sistema o contra la guerra -reivindicando el pacifismo y el antimilitarismo.  
+(3) Domínguez Espinosa Carlos; De Cayo Puto a las UMAP; https://www.cubaencuentro.com/cultura/articulos/de-cayo-puto-a-las-umap; consultado por el autor el 16 de mayo de 2019.  
+(4) Nota tomada por el autor de las palabras del MSc. Manuel Vásquez Seijeido en la Mesa Redonda que trató la temática, abogado y subdirector del CENESEX.  
+(5) El 17 de mayo de 2007, un grupo de personas de la comunidad LGBTI caminan desde el Centro Nacional de Educación Sexual junto con su directora Mariela Castro Espín y especialistas de esa institución hasta el cine capitalino 23 y 12, donde se proyecta y debate la película estadounidense BoysDon?’tCry (Los chicos no lloran, 1999). Fue la primera celebración en Cuba del Día Internacional contra la Homofobia y la Transfobia.http://www.acnu.org.cu/articulos/meincluyo-una-decada-contra-la-homofobia  
+(6) Todos los derechos para todas las personas en http://mesaredonda.cubadebate.cu/mesa-redonda/2019/05/14/todos-los-derechos-para-todas-las-personas; consultado por el autor el 16 de mayo de 2019.  
+(7) Ibídem 6  
+(8) Es un proyecto global, una red que aboga por las personas LGTBI privadas de libertad y promueve políticas que puedan ser protegidas como parte de un trabajo de los derechos humanos.  
+(9) “Si una persona es gay y busca a Dios y tiene buena voluntad, ¿quién soy yo para juzgarlo?”, señaló el pontífice durante una entrevista a su regreso de un encuentro mundial en Brasil; ttps://www.bbc.com/mundo/noticias/2013/07/130729; consultado el 16 de mayo por el autor
+
+movimiento LGTBI movimiento LGTBI movimiento LGTBI movimiento LGTBI movimiento LGTBI movimiento LGTBI
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,0 +1,66 @@
+---
+title: "¿ Y la lucha de clases qué?"
+date: "2019-01-01T21:27:52+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/01/rené-magritte-la-traversée-difficile.jpg"
+---
+Una reflexión sobre la lucha de clases en Cuba enfocada en la Constitución.
+
+**Por: Miguel Alejandro Hayes Martínez**
+
+Agradezco a todos aquellos intelectuales, académicos, o a cualquier cubano que con sus opiniones han enriquecido el debate en torno al [Proyecto de Constitución](/politica-en-cuba/). Todos, de una forma u otra, han contribuido a la conformación de mis criterios sobre el tema, sean especialistas o no. Incluso, yo también ya he expresado algunas ideas sobre tal cuestión de la constitución (1).  
+Sin embargo, a pesar de toda esa riqueza de puntos de vista, prefiero apostar por algunas enseñanzas que a mi juicio son básicas -o al menos-, lo son desde los conocimientos que he adquirido, en buena parte, guiados por pensadores y profesores cubanos.  
+Por ello, reconociendo lo útil de lo planteado por juristas, economistas, filósofos, sociólogos, o de cualquier otra área, voy a referirme a algo muy sencillo, y pido perdón si ya ha sido reflejada en algún otro artículo. Me centro en la lucha de clases para abordar nuestro proceso constituyente.  
+**La lucha de clases. Algunas cuestiones**  
+La lucha de clases, como mismo señala el propio Marx no fue un descubrimiento de él (2). Su logro, se basa en enriquecer la concepción de está y afirmar como culminaba con la abolición de las clases. Y esas ideas más avanzadas sobre la cuestión fueron asumidas por el marxismo. Para este ismo, la lucha de clases es uno de sus 3 elementos fundamentales (3).  
+Esta se expone esencialmente en los enunciados del Manifiesto Comunista, a pesar de todas las deficiencias teóricas presentes en este (4), han sido la guía de muchas generaciones de revolucionarios. También ocupa el espacio de otros documentos menores (5) y cartas a amigos (6) y compañeros de este autor. De una forma u otra, en cualquiera de los extremos del marxismo, esta idea es entendida y aceptada: las contradicciones de clases son la forma de explicar el movimiento de la sociedad.
+
+Los problemas comenzaron a la hora de elaborar y aplicar el concepto de clase. Razonamientos que van desde concebir las clases como fuerzas políticas(7) -como partidismo político-, a otros más esquemático y moralistas que le incorporan conceptos como el compromiso social (8) y la tan tristemente citada conciencia de clase.  
+Sin embargo la cuestión del conflicto y la división está clara.  
+Las clases, podemos entenderlas como grupos sociales diferenciados que interactúan entre sí, y esto puede llegar a ser antagónico (en el sentido más burdo de la palabra). Es decir, las clases son una abstracción que se hace al identificar formas de comportamiento y actuación de los individuos en un contexto social. Como si fuese un simple ejercicio de la conformación de conjuntos matemáticos.  
+El movimiento de estos grupos, dependerá de los de sus miembros (hacemos abstracción aquí de la cuestión de la conciencia de clase). Por lo que entender la dinámica de una clase, es entender la de sus miembros (dentro de un todo social claro). Y los individuos que la conforman buscan darle respuesta a sus necesidades. De ahí deriva, que la abstracción que hacemos de la clase social, no es más que la identificación de elementos en común (9) que se aprecian en un número de personas en la búsqueda de la satisfacción de sus necesidades, de su reproducción como individuos, que se ve reflejado en sus intereses, y de la cual identificamos los llamados intereses de clase.  
+Estos grupos que podemos observar, son el resultado de la propia estructura social de la producción, es decir, de las escisiones del trabajo entendido como unidad social (la división social del trabajo) que devienen en formas de propiedad; pero sobre todo, formas diferentes de participación del producto social. Lo que se resume en que la manera en que se concibe la participación en el producto social, va a determinar la parte que corresponde de este. Así, cada sociedad va a construir jurídica e ideológicamente formas de entender la participación en el producto social. Y ahí quedan en evidencia las clases sociales: grupos diferenciados por su papel (asignado socialmente) en la producción social.  
+Esta producción debe entenderse como la unidad de producción y apropiación (10), no solo material en un sentido estricto, sino de toda la producción material y espiritual de la sociedad (11), es decir, de la producción de realidad. De ahí que se pueda agregar que las clases son grupos que producen y se apropian de diferentes realidades. Lo que puede verse en cualquier estadio social.  
+**El lucha de clases en el socialismo**  
+A esta lógica no escapa el socialismo. Este, según señaló Lenin no es más que usar las potencialidades del capitalismo en función del bienestar social (12). De ahí, que muchas de las contradicciones del capitalismo persistan en el socialismo.  
+Y si se tratase de la visión estatal centralizada de este sería lo mismo. El socialismo no hace desaparecer las clases sociales. La vanguardia, y las masas, se identifican claramente como clases sociales en el socialismo, según explica [Michael Lebowitz](https://es.wikipedia.org/wiki/Michael_A._Lebowitz) (13).  
+Aquí, la sociedad se puede hallar determinada por esa clase dirigente (vanguardia), y la de los dirigidos (las masas). Estos, como toda sociedad dividida en clases, están sujetos a las contradicciones entre ambos, que si bien no son antagónicas- o puede que no lo sean- no quiere decir que no existan.  
+Como se menciona aquí, la reproducción de estos grupos es la reproducción de los individuos que la conforman, y esto se basa es la satisfacer sus necesidades (14). Estas varían en cada clase social, ya que existen formas diferentes de producción y apropiación de realidad en estos grupos. Sus condiciones de vida lo demuestran.  
+La reproducción de los dirigidos entra en contradicciones con la de los dirigentes y se expresa en un choque de los intereses. La los primeros, en búsqueda de la subsistencia en medio de un socialismo de escasez; y los segundos, en la misma medida en que para que la sociedad haga socialismo necesita reproducir una vanguardia, esta va necesitando conservarse y reproducirse como tal, terminando, enajenándose la propia vanguardia de su “esencia”. El fin de la vanguardia entonces se convierte en reproducirse a sí misma, que no es precisamente lo que necesitan las masas, y se muestra una contradicción. Después de todo, la lucha de clases no es más que la lucha de estas por sus intereses. Por lo que en ese modelo socialista centralizado, tal contradicción, es la forma de la lucha de clases en el socialismo, con una nueva clase dominante: la vanguardia devenida en elite burocrática.  
+Como toda clase dominante, hará uso de los aparatos ideológicos del estado para su auto-conservación.
+
+**El caso cubano**  
+Me llama la atención como la tesis de la lucha de clases se usa para cuestionar y explicar conflictos fuera de nuestra realidad y tiempo, y no para los nuestros propiamente, como si nuestro socialismo, hubiese eliminado las clases o sus contradicciones.  
+La sociedad cubana, es un ejemplo vivo de ese socialismo estatal centralizado. En ella podemos identificar a los dirigentes y los dirigidos (las masas). Claramente, dos grupos, clases, extremos sociales.  
+Estos dos grandes grupos, tienen sus propios intereses, que pueden o no estar sincronizados. De una forma u otra, los de abajo dependemos de los de arriba. Así que si los intereses de los primeros no se ajustan a los de los segundos, seremos los de abajo la parte débil de la soga.  
+La clase dominante, usará los mecanismos de los que dispone para su auto-conservación. Así, toda la ideología que puede desplegar el estado, lo hará en consonancia con los intereses de esta.  
+Por eso nos encontramos este proceso constituyente, donde el partido adquiere un carácter superior a la sociedad y el estado, y donde la elección del presidente se hará de manera indirecta. Esas características son el resultado de la clase dominante, los dirigentes, creando los mecanismos necesarios para la auto-conservación de esas relaciones sociales de vanguardia en el poder. Todo apunta a preservar un sistema que sostenga en lo más alto y le proporcione un blindaje a esa vanguardia (élite burocrática o cualquier denominación). Y esa, no es precisamente la vía que muchos cubanos identifican como lo que necesitamos para nuestra reproducción y mejoras de la calidad de vida en las condiciones de un socialismo de escasez. Creo que es muy sencillo, esa es nuestra lucha de clases.
+
+**Notas y Referencias**  
+(1) Hayes Martínez, Miguel Alejandro. La Joven Cuba. La Joven Cuba. \[En línea\] 29 de 08 de 2018. \[Citado el: 29 de 08 de 2018.\] jovencuba.com/2018/08/29/.  
+(2) Marx, Karl. Marx a Joseph Weydemeyer. \[aut. libro\] Karl Marx y Federico Engels. Obras escogidas I. Moscú: Progreso, 1976, pág. 542.  
+(3) El marxismo, según algunas corrientes, puede entenderse que sus elementos fundamentales son: el materialismo dialéctico e histórico, la economía política y la tesis de la lucha de clases.  
+(4) Es muy conocido que entre las principales deficiencias teóricas del Manifiesto Comunista esté el no diferenciar el trabajo de la fuerza de trabajo. Cuestión que Marx intento explicar en prólogos posteriores que él mismo realizada. Tal deficiencia teórica, es versa sobre la necesaria diferenciación entre fuerza de trabajo y trabajo, que conduce a elaborar una teoría del excedente, sin la cual no se puede entender el capitalismo. Resultado teórico, al que como se puede ver, Marx no había llegado aún al redactar tal proclama de los obreros. Ver Nicolaus, Martin. El Marx desconocido. \[aut. libro\] Carlos Marx. Grundrisse. México: Siglo XXI, 2007, págs. VIII-XL.  
+(5) Pudiera mencionarse la serie de artículos titulados La Lucha de clases en Francia.  
+(6) Destaca la Carta a Weydemeyer, mencionada en la nota 2  
+(7) Puede encontrarse en Georg Lukacs Ver Lukács, Georg. El joven Hegel. La Habana : Ediciones Revolucionarias, 1966.  
+(8) Criterio asociado al intelectual francés Jean-Paul Sartre.  
+(9) El interés común no es un denominador común que se extrae, sino el resultado de cómo se articulan sus intereses en la producción. Ver Hayes Martínez, Miguel Alejandro. La integración y el interés común. Rebelión. \[En línea\] rebelion.org/noticia.php?id=243064.  
+(10) Concepto hegeliano de producción. Que engloba la producción de la realidad (producción) y la auto-producción del individuo (apropiación) Ver La confluencia que se frustró: Psicoanálisis y Bolchevismo. Acanda, Jorge Luis. 14, La Habana: s.n., 1998.Idea que Marx rescata en la 3ra Tesis sobre Feuerbach.  
+(11) Nicolaus, Martin. El Marx desconocido. \[aut. libro\] Carlos Marx. Grundrisse. México: Siglo XXI, 2007, págs. VIII-XL.  
+(12) Lenin, Vladimir I. Obras completas tomo 25. pág. 441.  
+(13) Lebowitz, Michael. Las contradicciones del socialismo real: el dirigente y los dirigidos. Panamá: Ruth Casa Editorial, 2015.  
+(14) Las necesidades, según el propio Marx no importan si son del estómago o de la fantasía. Ver Marx, Carlos. El Capital. s.l: Siglo XXI, 2002.pág 43
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

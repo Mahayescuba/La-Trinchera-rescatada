@@ -1,0 +1,34 @@
+---
+title: "Obra de teatro alemana"
+date: "2020-11-22T10:30:58+00:00"
+author: "Oscar Ernesto Pérez"
+category: "Cultura"
+image: "/wp-content/uploads/2020/11/Katjia-Mayer.jpg"
+---
+## (O la obra lejana que nos pica de cerca)
+
+La semana de teatro alemán; que desde hace nueve años nos agrede con su extraña problemática germana, tan diferente a nuestros pensamientos cotidianos, poniéndonos a la espera de una probadita anual de pasión alemana; se estrena este 2020 en medio de una pandemia, las elecciones más raras en la historia de los EEUU (que no es Cuba pero sí lo es), y un ciclón que nos atravesó casi sin darnos cuenta. Luego de una extensa y estricta cuarentena (con un mes de toque de queda incluido) en La Habana, estos siete días dedicados al teatro suponen para muchos de nosotros una especie de señal de que lo peor quedó atrás. Nos acercamos a ese templo donde los actores rinden culto a las emociones, y con ellas a nuestra esencia humana, y sentimos un alivio al que nos entregamos con tanta pasión como aquellos que interpretan el drama de la vida y el pensamiento en sus más diversas facetas. 
+
+Una de las obras con que se reanudan los fines de semana frente al tabloncillo en nuestra capital es _Furor_, interpretada en [Ludi Teatro](http://cubaescena.cult.cu/vuelve-semana-teatro-aleman-la-habana/) por Alina Castillo, Evelio Ferrer y Cheryl Zaldivar. La obra de origen germano y escrita por Lutz Hübner y Sarah Nemitz, y que Miguel Abreu trae a la escena cubana, trata dos de los temas más universales en el panorama de hoy: política y redes sociales. 
+
+> [La foto](/onirica/)
+
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«La foto» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/onirica/la-foto/embed/#?secret=LrXRDa4ymI" data-secret="LrXRDa4ymI" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+La obra se desarrolla en una habitación, una sala de estar, de un pequeño apartamento en Alemania. Se nos introducen dos personajes al inicio, quienes representan uno a un político, Heiko Braubach (Evelio Ferrer), y otra a una ciudadana común de mediana edad, Sra. Nele Siebold (Cheryl Zaldivar). Desde un primer momento se nos cuenta el por qué se conectan estos personajes: el primero atropelló al hijo drogadicto de la segunda, dejándolo inválido. A medida que se desarrolla la obra se comienza a notar un interés del político por que no se haga público el asunto del supuesto accidente debido a que se encuentra en campaña electoral. Este propone ayuda a la señora, quien queda encantada con los ofrecimientos e interés del funcionario público. Pero todo cambia cuando aparece el tercer personaje, Jerry (Alina Castillo), un transexual (o travesti, no se especifica), joven y trabajador de un servicio de entregas de paquetería. Este joven obrero se aproxima al político con otro enfoque, ya no le agradece la ayuda, sino que le exige una indemnización de por vida pues al parecer hubo evidencias de que el conductor estaba ebrio y conducía a exceso de velocidad. Se quedan solos estos personajes mientras la madre del accidentado sale a dar una vuelta. Es en ese momento cuando mejor se pone la obra. La intensidad de los diálogos no para de crecer y la obra se transforma en un grito desesperado y furioso de la clase obrera más pobre hacia los políticos gordos y charlatanes que dirigen el rumbo de sus vidas.
+
+Viendo el camino que toma el drama el espectador cubano, que se acercaba a ver una obra alemana, de problemáticas del primer mundo y conflictos existenciales producto del aburrimiento, se sorprende y solo recuerda el origen germano de la representación por los nombres de los personajes y la mención ocasional de los euros y otras nimiedades. Nunca una obra alemana picó tan de cerca y la interpretación de los actores, que hicieron suya la temática de la obra, fue fundamental en este suceso. Miguel y su grupo de teatro lograron llegar a la esencia del problema, por eso el asistente a la sala del Ludi se sintió tan identificado con la obra, por eso los aplausos se prolongaron por varios minutos, eso el público lo agradece. 
+
+Cuba está muy politizada, y el deseo cumplido de Jerry de decirle unas cuantas verdades en la cara a un político aun sabiendo que nada iba a sacar de ese encuentro, se convierte en una esperanza frustrada de muchos en este país. 
+
+El arte es un reflejo, y digo más, una exaltación de la realidad de aquella sociedad que lo produce. Gramsci tenía razón en eso. Entonces acercarnos a una obra que supuestamente debe reflejar una realidad muy dispar a la nuestra, y que se sienta tan cubana… es bueno saber que Alemania y Cuba se pueden entender sin hablar el mismo idioma. Los sentimientos no conocen barreras idiomáticas ni culturales, las ansias de justicia social calan profundo en cualquier corazón humano.
+
+obra de teatro alemana, obra de teatro alemana, obra de teatro alemana
+
+## Autor
+
+-   ![](/avatar/?s=80&d=mm&r=g)
+    
+    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
+    
+    [Oscar Ernesto Pérez](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/oscar-ernesto-perez/)

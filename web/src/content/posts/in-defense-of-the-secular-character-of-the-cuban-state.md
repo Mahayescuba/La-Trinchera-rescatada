@@ -1,0 +1,40 @@
+---
+title: "In defense of the secular character of the Cuban State"
+date: "2020-04-13T20:01:45+00:00"
+author: ""
+category: "Politics in Cuba"
+image: "/wp-content/uploads/2020/04/IMG_20200408_124159.jpg"
+---
+coronavirus. 
+
+**By: José Gabriel Barrenechea**  
+According to the report issued by the head of the epidemiology department of the Cuban Ministry of Public Health, this institution will begin a campaign to apply a homeopathic medicine to the population.  
+Since the measure must be of strict compliance, and as for many fellow citizens, if the government orders it, it is necessary to comply; and as I already know I have to legally ingest, or put the drops under my tongue, which I will refuse, he made my position and attitude clear here.  
+Not even the State, or my fellow citizens, as an absolute majority, can compel me to take measures or actions to avoid an epidemic that cannot scientifically demonstrate its validity. They cannot force me to pray, to participate in religious ceremonies, to accept that my house will be sprinkled with holy water, to be spelled by a babalao, or to use or ingest preparations of which we have not scientifically proven their effectiveness.  
+For example, I am forced to wear the facemask because scientifically, there is an evidence that doing so reduces the possibility that, if I am ill, I unknowingly infect others: the community is fully entitled to demand it based on it and to take the measures that it deems appropriate for their safety (without excessive rigor) in case I refuse to use the facemask in the public area.  
+That, however, is not the case for any of the alleged demands above.  
+All citizens have the right to free belief by faith, including the freedom not to have it, which is my case. We are only obliged to abide by the solutions that we assume, when they have been adopted on the basis of truths that we have rationally agreed upon, according to a group of principles that underlie a method. Scientific principles and method.  
+Science is one of the few resources to agree on the truth, out of impositions, that we have. In Science, individuals propose hypotheses to explain reality that must then be demonstrated, according to “evident” principles to everyone, in experiments, which must in turn meet the condition that they can be repeated by anyone. The hypotheses proposed, therefore, according to a certain approach, must accomplish an elementary condition: the hypotheses must have the characteristic that they can somehow prove inadequate to explain reality. They must leave open, from their own proposal, the possibility of being refuted in experiments, and therefore all scientific hypotheses, when being proposed, must also specify the conditions, the situations, the experiments in which it would be shown not adequate to explain reality.  
+Homeopathy does not fulfill any of this. It has never been able to demonstrate in repeatable experiments by anyone the truth of its principles, not evident to anyone (like that of the similar cures the similar), much less the effectiveness of its remedies. In the experiments it has only been possible to demonstrate an effectiveness of the homeopathic remedies similar to the placebo effect, and therefore it is attributable to it, and not to a homeopathic principle proper. Which was to be expected in a “science” in which what is intended is to avoid esoteric imbalances of the spirit that affect a mystical balance of the body, and therefore the psychological effect on real psychological entities, in the form of hope. In the face of adversity, it has a significant role (homeopathy rather demonstrates the validity of a hypothesis of a real science, psychology: [the placebo effect](https://www.health.harvard.edu/mental-health/the-power-of-the-placebo-effect)).  
+But the strongest argument against Homeopathy as a Science is this: The same part of it is unproven in the experiment, since its effectiveness depends on the unique characteristics of the relationship between the patient and their healer. In other words, as in the magic act or in the miracle, homeopathic healing is irreproducible by other experimenters, which allows us to see clearly where we should place Homeopathy: next to magic and religion.  
+Homeopathy, both as a body of principles, or as a method, is not falsifiable. As in the case of the creation of the world by someone that due to its own infinite characteristics, therefore inaccessible, will forever escape any attempt to demonstrate its non-existence, or not, Homeopathy it is either accepted by faith, or not. But consequently its truthfulness cannot be imposed on me, much less that of its remedies.  
+I am saying that other citizens are free to believe what they consider best, I am only opposed to accepting the imposition of what cannot be rationally demonstrated to me. The right to have a faith, or not, is inviolable; But it follows that only what can be rationally demonstrated is taxable to the other.  
+Consequently I say, firstly, that I will not take any homeopathic potion; Secondly, I am opposed to the common assets of citizens, administered by state institutions, such as the aforementioned mentioned MINSAP(MINISTRY OF PUBLIC Health, for its initials in Spanish) are used in the privilege of a non-demonstrable belief, which threatens the secular character of the Cuban State.  
+Therefore, I call for the Cuban Lay State to stop using public funds in privilege of such beliefs, such as Homeopathy; that if the “homeopathic immunization” campaign is carried out it is only organized and developed by some non-public institution, without public funds; that the acceptance of the remedies is voluntary, and that it cannot be brought against those who refuse.  
+Therefore, what I am defending here is nothing but a RIGHT, not a belief.
+
+[You may also interested](/cultura/)
+
+coronavirus coronavirus coronavirus coronavirus coronavirus coronavirus coronavirus
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

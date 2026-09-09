@@ -1,0 +1,24 @@
+---
+title: "Carpentier"
+date: "2021-01-06T10:30:00+00:00"
+author: "Yoel Rodríguez"
+category: "Cultura"
+image: "/wp-content/uploads/2021/01/David-Moreno.jpg"
+---
+Tengo que confesarles una cosa: como lector-escritor tengo con Alejo Carpentier una extraña relación de amor-odio y de respeto-repudio que me es muy difícil explicar-ocultar. Con él me pasa como con el poeta Saint-John Perse; cuando lo leo quedo boquiabierto (aunque nunca sé si es de admiración o es que estoy dejando escapar un largo bostezo). Carpentier es de esos escritores que aburre y fascina por igual; parece que con él no hay punto medio: o lo adoras o no lo soportas. No obstante, yo prefiero ser un _outsider_ en medio de esta dicotomía baladí y decir: «Carpentier no escribe para todo el mundo, ¡qué bueno! Todo el mundo debería leer a Carpentier» Ah, pero eso sí, los médicos del alma recomiendan leérselo acompañado, nunca solo; siempre viene bien tener cerca a nuestro sobrinito el pequeño Larousse, o a la tía [María Moliner](https://es.wikipedia.org/wiki/Mar%C3%ADa_Moliner), por si las dudas. A los médicos del cuerpo lo único que les bastará prescribirnos, para combatir el insomnio, es _El siglo de las luces._ Al final, cuando hayamos terminado el libro, habremos vencido el desvelo y, de paso, la ignorancia. Dos en uno. ¡Toma!
+
+En Carpentier todo gira, casi invariablemente, alrededor de los mismos temas: las revoluciones y sus consecuencias, los dictadores, la música (culta), el Caribe y las tradiciones mágico religiosas, el mestizaje cultural (carnal también), la arquitectura y un etcétera considerable. Sus detractores dirán que era un afrancesado, que se repetía a sí mismo, que no era cubano y otro etcétera también desconsiderado. Apartando las objeciones extraliterarias, yo pienso que es de los pocos escritores nuestros que ha logrado formar un verdadero corpus literario coherente y sustancial, sólido. Tan sólido, que es un corpus hecho con ladrillos; algunos más largos, otros más cortos, pero ladrillos al fin, porque de los libros de Carpentier lo más menos duro es la tapa. En lo personal, me gustan algunos de sus cuentos y considero que el “realismo mágico” de _Cien años de soledad_ es mero efectismo al lado de un concepto tan bien justificado como lo “real-maravilloso” en _El reino de este mundo._ Es uno de los grandes, sin duda_._ Ahora bien, ¿Dónde falla Carpentier? En el estilo ultra-descriptivo. ¿Dónde triunfa Carpentier? En el estilo ultra-descriptivo. Su gran defecto es su mayor cualidad, su marca registrada. Como un naturalista acriollado, parece siempre más preocupado por la composición de una habitación, que por la gente que vive en ella. Y ese es mi gran problema con él: la manera tan fría y distante con que aborda a sus personajes; todos parecen vistos desde lo alto, desde lo lejos, como insignificantes marionetas, figuras de trasfondo que acaban siempre devorados por la época, las circunstancias, la Historia. A ratos parece que Carpentier escribía novelas con el objetivo último de probar alguna tesis antropológica, histórica, o casi como un ejercicio de diletantismo decimonónico.
+
+Ya lo dije, se trata de una cuestión de preferencias. A mí me fascina, pero no me gusta. Habrá quien se deleite con un inventario de alhajas y la detallada descripción de una columna dórica, pero en lo personal, cuando agarro una novela o un cuento me interesa más la trama que el entorno. Por eso, si deseo leer algo con conflictos humanos verdaderos, personajes profundos y complejos, si quiero emocionarme, llorar, reír… busco a otros autores y, siempre que puedo, me alejo de Carpentier.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/cultura/paco-my-friend/
+
+## Autor
+
+-   ![](/wp-content/uploads/2021/01/2021-01-06-09.12.30.jpg)
+    
+    ![](/wp-content/uploads/2021/01/2021-01-06-09.12.30.jpg)
+    
+    [Yoel Rodríguez](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/yoel-rodriguez/)
+    
+    Cronista al rescate del periodismo literario.

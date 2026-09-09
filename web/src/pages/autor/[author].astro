@@ -1,0 +1,43 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { fixCat, slugify, fmtDate, excerpt } from '../../lib/util';
+export async function getStaticPaths(){
+  const posts = await getCollection('posts');
+  const groups = new Map();
+  for(const p of posts){ const c=p.data.author||"Sin autor"; const s=slugify(c);
+    if(!groups.has(s)) groups.set(s,{name:c,items:[]}); groups.get(s).items.push(p); }
+  return [...groups.entries()].map(([s,g])=> ({ params:{author:s}, props:{name:g.name,
+    items:g.items.sort((a,b)=>(b.data.date||'').localeCompare(a.data.date||''))} }));
+}
+const { name, items } = Astro.props;
+---
+<Base title={name} description={`Artículos en el autor ${name}`}>
+  <section class="wrap list">
+    <p class="kicker">Autor</p>
+    <h1>{name}</h1>
+    <p class="count">{items.length} textos</p>
+    <ul>
+      {items.map(p=> (
+        <li>
+          <a href={`/${p.slug}/`}>
+            <h3>{p.data.title}</h3>
+            <p>{excerpt(p.body,140)}</p>
+            <span class="meta">{p.data.author && `${p.data.author} · `}{fmtDate(p.data.date)}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+  <style>
+    .list{max-width:760px;padding:2.2rem 1.2rem}
+    .list .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.14em;font-size:.72rem;margin:0}
+    .list h1{font-size:2.4rem;margin:.15em 0}
+    .list .count{color:var(--muted);margin:0 0 1.4rem}
+    .list ul{list-style:none;padding:0;margin:0}
+    .list li{border-top:1px solid var(--line);padding:1.1rem 0}
+    .list h3{font-size:1.3rem;margin:0 0 .2em}
+    .list p{color:var(--muted);margin:.1em 0 .3em}
+    .list .meta{color:var(--muted);font-size:.8rem}
+  </style>
+</Base>

@@ -1,0 +1,48 @@
+---
+title: "Marx+Proudhon (IX)"
+date: "2018-12-15T16:43:56+00:00"
+author: ""
+category: "Marxismo"
+image: "/wp-content/uploads/2018/09/proudhon.jpg"
+---
+Marx y Proudhon.
+
+**La Comuna. Dos**  **enfoques**  
+
+**Por: Oscar Herrero**
+
+La [AIT](https://es.wikipedia.org/wiki/Primera_Internacional) fundada en 1864 fue la expresión de las distintas corrientes socialistas de Europa. Marx y Engels formaron parte del Consejo General, una suerte de Comité Central, fueron consensuando distintos documentos, a lo largo de su trayecto, donde se fueron plasmando diferencias teóricas en cuanto a las formas de ‘la abolición de clases’, donde se iban estableciendo acuerdos sobre las cuestiones inmediatas, dejando abiertas las perspectivas estratégicas, sobre el estado y la propiedad privada, Así, por ejemplo, en el Congreso de Basilea (septiembre 1869) en el debate sobre la derogación del derecho de herencia, aparecieron las diferencias entre los partidarios de Bakunin y los de Marx. Los primeros plantearon abolir ‘de inmediato’, sin esperar ‘la extinción’ de la propiedad privada en su conjunto, mientras que los marxistas se inclinaron por el voto de dos medidas de transición: la extensión de los impuestos sobre las herencias y la limitación del derecho de testar. Medida que fue rechazada por el Congreso, sin que la otra moción alcanzase los votos para ser aprobada. Esta relación de fuerza fue guiando la acción cotidiana. 
+
+En julio del ’70, estalló la guerra franco-prusiana, con lo cual se postergó el Congreso de la AIT, fijado de antemano para septiembre, cuyo orden del día, redactado por Marx se destacaban tres puntos esenciales.
+
+\-Relación entre la acción política y el movimiento social de la clase obrera.
+
+\-Condiciones de la producción cooperativa a escala nacional.
+
+\-Reconsideración por el congreso de los medios para suprimir la guerra.
+
+Desde la proclamación de la República francesa (04/09/1870), Bakunin estuvo entre los brigadistas que bajaron a Lyon donde un ‘Comité de Salud pública’ ocupó el Ayuntamiento, que casi de inmediato fue sustituido por un Consejo municipal electo, formado mayoritariamente por republicanos burgueses. Bakunin y sus aliados en una Asamblea resolvieron la creación de un ’Comité Nacional de Salud de Francia’. Un nuevo gobierno de hecho, apoyado en siete resoluciones, la primera de las cuales proclamó la abolición del Estado y a través de la movilización popular para obligar a las autoridades a tomar la más enérgicas y eficaces medidas para la defensa nacional. Aunque cuando la revolución se viene abajo, reniega del programa impuesto por Marx y Engels, cuando aludiendo a ellos farfulla con enojo: ‘en vez de socialismo real y viviente, tendremos el socialismo doctrinario de los alemanes’… 
+
+Tres días después de la capitulación del ejército Francés en Sedan. Marx presentó al Consejo general el segundo comunicado sobre la guerra. Saludando la instauración de la República en Francia, el documento exhortaba a los obreros franceses a no dejarse arrastrar por los recuerdos de 1792, como los obreros franceses se dejaron engañar por los recuerdos del primer imperio y en tono de advertencia y lejos del escenario frente a la desigual batalla que se avecinaba recomendaba: ‘Que aprovechen con calma y resolución esas facilidades que les ofrece la libertad republicana para trabajar por su propia organización de clase. Ello lo dotará de un hercúleo vigor para la regeneración de Francia y para nuestra tarea común, la emancipación del trabajo, de su energía y cordura depende la suerte de la república.’
+
+Y acá continúa con esas bajadas de línea, tan caras al Trotzkismo de todos los tiempos: ‘Si los obreros olvidan su deber, si permanecen pasivos, la terrible guerra será solo fuente de conflictos internacionales aún más terribles y conducirá en cada país a nuevas derrotas de los obreros por los señores de la espada, de la tierra y del capital’.
+
+En Paris, la mayoría de las corrientes que se consideraban partidarias de un socialismo organizado de manera federalista, como lo precisa el proudhonista J. Guillaume en 1871, reflexionando sobre la caída de la Comuna de Paris, donde  aclaraba ‘que su concepto de federalismo, no estaba relacionado con el modelo de organización social de Suiza o Estados  Unidos, sino con una fuerza colectiva resultante de la federación de grupos, luego que el estado nacional centralizado haya dejado de existir, las comunas gozarán de la plenitud de su independencia, allí reinará verdaderamente la anarquía, la ausencia de autoridad central, en suma ese federalismo es socialista, ya que para él la solidaridad es inseparable de la libertad’. Esa fue la posición de la Alianza de la democracia socialista cuya voz cantante era la de Miguel Bakunin, fuerza actuante dentro de la AIT’. 
+
+Hasta aquí, los hechos presentados por Maximilien Rubel y Louis Janover en ‘Marx anarquista’, Ed Etcétera, Barcelona (1977). Texto, en cuyo título está planteada la hipótesis del libro, de que tanto, La Liga de los Comunistas, como El Partido Social Demócrata Alemán, donde militaban Marx y Engels, tenían la misma orientación anarquista que el resto de las organizaciones revolucionarías de la época y deducen esta línea del análisis exhaustivo de los propios textos de Marx combinado con la acción de los propios partidos, en este caso, en el marco de la AIT. Rubel, en otro texto: ‘Karl Marx; esbozo de una biografía intelectual’ de Ediciones RyR, Buenos Aires (2012) ya desarrolla esta hipótesis, buscando el origen de la burocratización de los partidos socialistas, internacional y nacionalmente hablando. Sucintamente Rubel y ahora Rubel-Janover, parten de la idea de que la manipulación de los partidos socialistas nace con la injerencia de Engels, en el partido alemán, especialmente en la etapa final de su vida y la manipulación crecería exponencialmente con los bolcheviques, donde los aparatos partidarios, tenían una gran preeminencia sobre la subjetividad de los propios integrantes. Una lectura hoy, muy en boga desde muchas construcciones autonomistas, solo que en este caso, bastante sólidamente fundamentadas.
+
+La discusión está inscripta dentro de los actuales partidos cuarto-internacionalistas. Rubel-Janover ponen el Centro de la disputa, en el desarrollo desigual que se manifiesta al interior de las organizaciones revolucionarias, donde un muy subrayado principio de autoridad condiciona las políticas partidarias. Condicionalidad que es real, pero que puede justificarse por la heterogeneidad del activo militante y la presión de la tiranía capitalista ejerce sobre el mismo, En ese marco, la ‘sagrada defensa del programa’ que las direcciones fungen frente a las bases durante los largos reflujos no son condenables, por sí mismas, viéndolas, con el prisma de las derrotas estratégicas. Lo que en todo caso, yo si planteo, como en cualquier derrota, es el cuestionamiento táctico-estratégico de los soldados hacia sus generales. No, la división estructural de tareas entre generales y soldados, que forma parte de la discusión, pero que no representa la totalidad de la misma. La impertinencia del enfoque de Rubel-Janover está en que los hechos se desenvolvieron con las relaciones de fuerzas reales, con las formas de asociación conocidas hasta entonces. En la lucha social, como en cualquier orden, se avanza de lo conocido hacia lo desconocido y no al revés. En el orden propietario hay una natural propensión hacia el sentido conservador, por lo tanto, a no cambiar lo que hasta ahora dio resultados positivos, es más, hay un apego a esos resultados. A partir de ahora se podrán hacer nuevos contratos asociativos, que como siempre estarán expuestos a las sucesivas pruebas de ensayo-error que dictaminará la realidad.   
+
+Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

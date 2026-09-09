@@ -1,0 +1,35 @@
+---
+title: "Ventas internas en divisas en Cuba"
+date: "2019-11-06T13:24:03+00:00"
+author: ""
+category: "Economía en Cuba"
+image: "/wp-content/uploads/2019/11/IMG_20191105_071815_551.jpg"
+---
+#### Unas breves anotaciones
+
+**Por: Miguel Alejandro Hayes**
+
+Luego de leer [Ventas internas en divisas en Cuba](https://www.google.com/amp/s/elestadocomotal.com/2019/10/22/ventas-internas-en-divisas-en-cuba-el-efecto-gulliver/), de Pedro Monreal, me surgen algunos comentarios que comparto a continuación.  
+\*\*\*  
+El ejercicio de abstracciones que realiza el autor es muy valioso; sobre todo, teniendo en cuenta la ausencia de información –la misma que hace que se deba correr cierto riesgo al construir cuantificaciones, por mucha destreza que tenga el investigador que las hace.  
+Para el caso que ocupa el artículo -y como con toda ciencia-, se trabaja con una serie de supuestos y modelaciones teóricas implícitas, las cuales dejan siempre las puertas abiertas a otros escenarios, preguntas y supuestos.  
+Los precios del Split -que es lo que usa de ejemplo Monreal para ilustrar el análisis- pueden afectar al sector privado importador (SPI) en la medida que no puedan acercarse al precio que determina el “centro de gravedad” del bien Split. Sin dudas -al menos por ahora-, el sector estatal puede, en su condición de monopolio, sostener la cantidad de productos que le garanticen imponer precios y el “centro de gravedad”.  
+Vale la pena incluir a la reflexión el uso de plazos. ¿Podrá sostener en el tiempo el sector estatal el volumen de importaciones de equipos en USD para fijar ese “centro de gravedad” en el mediano plazo, o solo será algo que durará poco tiempo, al menos hasta que logre “descuartizar” al SPI? A ello, habría que incluirle el factor voluntad política –la que está detrás de las nuevas medidas. A juzgar por la [pequeña incongruencia](https://elestadocomotal.com/2018/09/04/humberto-perez-reflexiones-y-sugerencias-acerca-del-proyecto-de-constitucion-titulo-ii-fundamentos-economicos-omisiones-ambiguedades-y-contradicciones/) apreciada en los lineamientos y la postura manifestada en el proyecto constitucional, y el _palante_ y _patrás_ que se aprecia con el sector privado, no es despreciable que se mantenga la medida –la venta de productos en dólares que compiten con los que se importan de manera privada- hasta que se logre anular la competencia no estatal.  
+Otro elemento, es el de cómo los agentes –los privados de la rama importadora- asimilarán la medida (claro que esto es lo más complicado de predecir, y escapa a lo que están acostumbrados los hacedores de “política económica” en Cuba). Habría que esperar, porque el comportamiento de ese sector privado que nos ocupa -que es muy difícil de homogenizar-, resolverá a un estilo muy cubano –el cual no entra en modelaciones para la cual está entrenada la academia; no por la incapacidad de esta última, sino por el sistema de reglas en el que se mueve la primera.  
+Es importante, para análisis posteriores, ver el impacto sobre el resto de la cesta de importación; es decir, debe existir algún vínculo a lo interno entre el conjunto de bienes de importación privada. Así, por ejemplo, al no poder sostener los viajes a Panamá por la competencia de los precios estatales en Split, se dejarán de traer otros bienes que van desde celulares, hasta ropa. Entonces, el efecto dominó que puede generar sobre el resto de las importaciones las ofertas estatales en MLC, es otra arista, al menos para el estudio del impacto de tales medidas sobre el sector privado.  
+Por último, y volviendo a la idea de la creatividad de ese _sui géneris_ sector importador, debe valorarse, que dado su acceso a divisas, parte de ellos se desplace a algo que no tengo nombre a mano, pero sería, no otra cosa que ser el portador de la MLC que medie entre el ciudadano y las tiendas. De ese modo, parte del desplazamiento de todos los importadores que vean afectada su rentabilidad, sería el de jugar con el mercado monetario de manera informal.  
+Lo que si queda claro, después de ver todo, es que el sector estatal puede acabar con un dedo, a un conjunto que ha venido desarrollándose a lo largo de años, para afianzarse como indiscutible monopolio.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-pregunton/
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

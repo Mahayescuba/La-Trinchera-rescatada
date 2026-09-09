@@ -1,0 +1,128 @@
+---
+title: "Habana siglo XIX. Regionalizar la ciudad (1860-1886). La Trinchera"
+date: "2022-01-14T15:20:34+00:00"
+author: ""
+category: "Historia"
+image: "/wp-content/uploads/2022/01/mejias.jpg"
+---
+## La Habana y su región en el final de la segunda esclavitud.1860-1886
+
+**Por: Jesús Javier Mejias Díaz**
+
+En el caso cubano, imaginar la ciudad no es solo figurarse el enjuto espacio en que las murallas, ejidos y propios crean un espacio bullicioso y definido que puede avistarse desde las alturas cercanas. La ciudad cubana no es el límite al que el entorno rural no puede acercarse; sino que es una obra civilizatoria que extiende empresas colonizadoras y explotadoras hasta los bordes mismos del _hinterland_ que configuraron sus élites.
+
+La Habana del momento final de la esclavitud será, sin embargo, la gran cabeza de un entorno regional formado por decenas de asentamientos, pueblos y ciudades subsidiarias cuyas economías dependen del gran mercado y centro de abasto en que se convierte la ciudad desde la década de 1840.
+
+Al ser puerto de entrada principal de la isla y tener conexiones trasatlánticas y de cabotaje con el resto del archipiélago, su dinámica poblacional tendió a ser acelerada. Como una de las grandes urbes del Caribe y de los restos del Imperio español, la ciudad vivió momentos de frenética modernización a través de obras públicas y del ensanchamiento de los servicios urbanos. La construcción de las calzadas que conectaban la ciudad con los centros poblacionales de su hinterland más inmediato como la [Calzada de Guanabacoa](https://es.wikipedia.org/wiki/Guanabacoa), la Calzada de Regla, la Calzada de Vives, la de Cristina, la del Cerro, la de Bejucal, Güines, y Managua crearon una potente infraestructura de transportes que requirió grandes cantidades de mano de obra esclava y operarios de transporte público que se aprovecharan de ellas.
+
+Mientras el duro relieve calizo de los farallones de El Calvario, El Carmelo y Puentes Grandes podían representar un obstáculo para la urbanización en el período y su empleo en la agricultura pudo ser un escollo, las piedras que de él pudieron extraerse reconstruyeron la ciudad y pavimentaron sus caminos.
+
+Las élites habaneras para la década de 1870 habían logrado diferenciar su zona de influencia directa de la de las élites subsidiarias en Pinar del Río y Matanzas. El desplazamiento del centro azucarero hacia las llanuras de Colón y el tabacalero hacia el oeste pinareño, mientras la llanura habanera se transformaba en un gran proveedor de bienes para el sostenimiento de la capital pudieron haber determinado esa cesión. Esto en ningún caso significó el abandono de la economía azucarera; sino que el centro de la misma se expandió hacia el este de forma definitiva en esta etapa.[\[1\]](#_ftn1)
+
+De Seiba del Agua a Nueva Paz y de la ciudad a Batabanó se extendía una región que constituye el núcleo subalterno de la —por entonces ya— gran metrópoli cubana y que el censo de 1877 hizo demarcación administrativa.[\[2\]](#_ftn2) Esta economía variada que iba de los tradicionales azúcares, tabaco y café con un creciente peso de la industria pesquera, maderera, apícola; pero sobre todo con la intensificación del sector pecuario al servicio de la demanda citadina y de los grandes centros plantacionistas que por el este la delimitaban. El clima singularmente fresco para el Caribe de la región occidental, al borde del área subtropical, posibilitó la creación de una economía de vegetales de invierno en las fértiles llanuras habaneras, salpicadas por numerosos ríos y con una infraestructura de transporte basada en el ferrocarril y el transporte de tracción animal —viable por las cortas distancias y la eminencia de las planicies.
+
+Como centro del mundo cosmopolita y comercial del país, la ciudad albergaba casi 200 mil habitantes con una importante desproporción en los sexos, que solo es explicable por la masculinización de la emigración y el rol de la administración, mundo de hombres, en su demografía. Si bien el censo de 1877 es considerado como engañoso e impreciso por los numerosos fraudes para burlar las leyes de esclavitud que en él se cometieron, sus cifras no difieren en términos generales para hacerse una idea de la ciudad, su región y el peso que tuvieron en el ámbito insular. De un total de 1 521 684 habitantes que estima el censo para toda la colonia, 435 896 pertenecían a al recién creada provincia de La Habana. Una región tan pequeña en términos de superficie con 34 ayuntamientos contrasta con los 5 que correspondían al extenso territorio camagüeyano.
+
+La Habana era el gran centro educacional de Cuba. En ella residían la universidad, el seminario y la mayor parte de los liceos y el Instituto de Segunda Enseñanza. La enseñanza no solo es por sí misma un elemento de control ideológico; sino que requiere de una red de centros y establecimientos para los estudiantes como bibliotecas, cafés como el del Hotel Inglaterra, alojamientos y librerías, a la vez que debe responder a las demandas de ocio de los estudiantes y a la creciente modernización de los materiales de estudio. Esto creó —con la irrupción de la modernidad decimonónica— tanto el tendero y vendedor de libros como aumentó la demanda de esclavos que sirvieran en labores tan básicas como limpiar los locales y tan pesadas como abrir las zanjas del [Canal de Vento](https://www.dcubanos.com/rinconcuba/acueducto-de-albear/) que suministra agua limpia a una ciudad con una necesidad creciente de servicios básicos en el siglo en que Pasteur descubrió que los microbios son la causa de las enfermedades y que se pueden encontrar en el agua contaminada.
+
+Al mismo tiempo, la formación de los nuevos sistemas de referencia ideológicos en las élites principeñas y bayamesas que impulsaron una nueva manera de concebir la política económica ocurrió en La Habana al calor del [liberalismo](https://cubaeconomic.com/mercantilismo/) propio de la Revolución Industrial.[\[3\]](#_ftn3) Un ejemplo claro de la irrupción de las ideas liberales fue el rol de La Habana en el surgimiento del periodismo moderno y el auge de la prensa y las imprentas, ambas asociadas al surgimiento de la opinión pública y su capitalización. Ahora las perspectivas locales podían colonizar las mentes letradas en la mayor parte del país. De esta forma, para la década del 1880 ya la ciudad era el nexo no solo de su entorno cercano; sino que en torno a sí había creado un moderno mercado nacional.[\[4\]](#_ftn4)
+
+Para la década de 1870 Matanzas era la segunda ciudad más poblada del país; pero su desarrollo constituía un proyecto de la élite habanera en su expansión azucarera hacia el este. Difícilmente pueda explicarse la historia de La Habana y de Matanzas sin relacionarlas. En las décadas de 1860, 1870 y 1880 cualquier suceso que ocurriese en una llegaba a la otra con una rapidez impresionante debido a la conexión ferrocarrilera y marítima tan eficaz que tenían. La diferenciación del azúcar que comienza a ocurrir en el hinterland habanero obliga a la burguesía azucarera a delimitar su reino plantacionista de aquel que comenzaba a dejar de serlo, sin renunciar a las ganancias que le propiciaba ni a controlar su proyección.
+
+La ciudad cubana de la época albergaba como promedio un significativo número de esclavos, de los cuales el 17% se desempeñaban como domésticos y una proporción nada despreciable en otros oficios urbanos. Para calcular el peso de La Habana y su área de influencia en estos cálculos baste que el 77% de los esclavos habitando en Cuba se encontraran en La Habana, Matanzas y Santa Clara.[\[5\]](#_ftn5)
+
+El rol de ciudad-puerto, rodeada de áreas productoras de azúcar para la exportación, condicionó una vibrante economía donde inmigrantes europeos y esclavos luchaban por nichos del mercado de trabajo. La Habana, como tercera mayor ciudad americana, requirió grandes cantidades de mano de obra que se ocuparan de las múltiples necesidades de la vida citadina. Al filo de la abolición si bien su área conservaba una proporción significativa de los esclavos del archipiélago esta se había reducido a 55 349 incluyendo los coartados, mientras la población de la ciudad seguía en aumento haciendo escasear la mano de obra para suplir su terciarizada economía.[\[6\]](#_ftn6)
+
+Los sectores en competencia frente a la menguada mano de obra no eran ya el azúcar y el café. Desde 1862 el mercado de esclavos en la región habanera comienza a ser disputado entre la ciudad y sus ingenios. Los distritos urbanos de la capital representaban el 32% de los esclavos del área.[\[7\]](#_ftn7) Como mercado de esclavos más importante y puerta de entrada y salida de la economía cubana, la ciudad y su región se enfrentaron con mayor dureza a los vaivenes del mercado internacional. Como centro del poder político quedaba sujeta con frecuencia a sus señales.
+
+Para conformar una región es preciso hablar del espacio y, en términos decimonónicos, el espacio es la tierra que puede ser empleada como capital. El elevado coste de una caballería de tierra en la región habanera explica la estructura de tenencia de la tierra y el rápido proceso de concentración de la misma en el área. Por supuesto, el coste de adquisición estaba determinado por el valor comercial que se le daba a los frutos y la viabilidad y rentabilidad de los negocios que podían desempeñarse en un área no afectada por la guerra y con un nivel de infraestructura de transporte desarrollado.[\[8\]](#_ftn8)
+
+La Habana y su país, como lo llama la fallecida investigadora Fe Iglesias, fueron pioneras en el impulso industrializador urbano. La ciudad albergó la progresiva industrialización del tabaco, auxiliada por su larga tradición cultora de la que existieron registros desde la segunda década del siglo XVII. La vega tabacalera puede explicar la capilarización del sistema de asentamientos en torno a la ciudad en que el rol de la población blanca era predominante. El tabaco era una actividad más accesible para colonos y su auge comercial contribuyó a crear un entorno densamente poblado ya para mediados del siglo XVIII. Para cuando las grandes dotaciones de la caña de azúcar colonizaron el territorio habanero, el tabaco ya había configurado el sistema de asentamientos que seguían los ríos.[\[9\]](#_ftn9)
+
+El “país” de La Habana aún en la década de 1860 expone grandes divergencias entre las diferentes microrregiones. El cinturón azucarero fronterizo, representado por Guanajay y Güines en posiciones de antípodas, albergaba más de la mitad del capital agrícola y la inmensa mayoría de la producción azucarera, con una alta concentración de ingenios y un tejido no azucarero de poco peso relativo. Al mismo tiempo, existía un cinturón interno donde la economía de plantación estaba sufriendo una deslocalización y transición debido a la decadencia del café y el traslado del azúcar hacia tierras más productivas. Tal es el caso de Jaruco y San Antonio, explotadas desde más antiguo, el azúcar no dejaba de ser el renglón económico más rentable; pero competía con otros modelos de desarrollo. En el caso de San Antonio el café y el tabaco pujan por dominar el entorno económico local. Esto pudo deberse a la desvalorización de la tierra en el área y a las características del poblamiento en la zona, que permitió a medianos y pequeños propietarios hacerse con la producción del café cuando dejó de representar un gran aliciente para los grandes propietarios. Jaruco es un ejemplo excepcional de cómo la cercanía con la ciudad y la posición intermedia entre las dos grandes ciudades cubanas de la época: La Habana y Matanzas, creó un mercado mediante el cual readaptar la producción hacia bienes de consumo interno de gran demanda como las carnes y los frutos menores. Finalmente, el hinterland más próximo y dependiente de la ciudad—zonas por donde había comenzado la penetración del azúcar— conformados por Bejucal, Santiago de las Vegas, Santa María del Rosario y la muy próxima Guanabacoa asumieron un rol de abastecedores de la ciudad, no representando el azúcar ni la mitad del valor de sus producciones, con la excepción de Bejucal. Estas microrregiones gozaban de especializaciones determinadas en el caso ya mencionado de Bejucal con el azúcar y de Santiago de las Vegas donde el tabaco pugnaba por recuperar su rol en la economía jurisdiccional con un valor de las producciones de 140 000 pesos fuertes frente a los 195 443 del azúcar.[\[10\]](#_ftn10)
+
+La red urbana y de asentamientos responde a la dinámica de plantación y al empuje y atractivo colonizador de la ciudad como centro del entorno económico. La nutrida red ferroviaria que acompaña al crecimiento poblacional es testimonio de la enervación del tejido urbano y de la densidad poblacional. En la heterogénea jurisdicción de Bejucal con sus cinco partidos albergó la ciudad del mismo nombre, 6 paraderos, 3 pueblos, 4 caseríos y 3 asentamientos poblacionales. Los paraderos no respondían a una delimitación fortuita. La ciudad de Bejucal, centro de la jurisdicción y foco colonizador desde mediados del siglo XVIII tenía uno, de los más antiguos. A Batabanó por la importancia adquirida como embarcadero estratégico para la comunicación con Nueva Gerona y foco poblador de la Ensenada de Cortés, otro. El antiguo pueblo de Quivicán, asentamiento ganadero de inicios del siglo XVIII, tiene otro. Durán, Pozo Redondo y San Felipe eran paraderos eminentemente rurales que atendían áreas de población dispersa y de camino a zonas eminentemente azucareras.[\[11\]](#_ftn11)
+
+El caso del área abastecedora en transición que fue la jurisdicción de Jaruco ilustra el impacto de la cercanía de la ciudad y el papel de su mercado en la demografía poblacional del sistema de asentamientos.  El pueblo de Aguacate fundado por colonos en 1796 y con un entorno económico propio de la Cuba en pequeño del conde de Pozos Dulces, albergaba en los 1860 unos 177 habitantes. El caserío pesquero de la Playa de Bacuranao a apenas unos 10 kms de La Habana albergaba 88. El problema no es el modelo de poblamiento; sino la infraestructura de transporte que hace que un tipo de productos, de determinados lugares cercanos al centro a abastecer, haga más factible asentarse en unos lugares que en otros. Hacer el trayecto entre la ciudad de La Habana y la de Santiago de las Vegas en 1861 implicaba tener sitios donde descansar, donde dar de beber a los animales de carga y de transporte. Esto explica la existencia de un paradero para la veintena de habitantes de Aguada del Cura, la población flotante. Con mayor grado de éxito poblador y perteneciente a este mismo modelo, se encuentra Arroyo Arenas, sede de una Comandancia de Armas del ejército español; Arroyo Apolo y Arroyo Naranjo, en la jurisdicción de La Habana, resultado de la confluencia de caminos a los asentamientos abastecedores a la capital. En el otro extremo podemos encontrar al pueblo de Alacranes, en la jurisdicción de Güines. Albergaba 427 habitantes en medio de la zona de avance azucarero hacia el sureste y centro urbano de tercer orden de la región mencionada. Tal es el caso del cafetalero pueblo de Alquízar en San Antonio de los Baños y del boyante Artemisa en Guanajay. Se trata, entonces, de dos modelos de asentamiento urbano: uno basado en el avance de la plantación y el otro en la red vial que posibilita el abastecimiento a La Habana o en el caso de Jaruco, también a [Matanzas](/alivio-para-matanzas/).[\[12\]](#_ftn12)
+
+Localidades de segundo orden como Guanajay, Guanabacoa, Güines, San Antonio de los Baños, Bejucal y Jaruco ejercieron el rol de centros logísticos y de reproducción de los mecanismos de control militares en la región habanera. Al ser importantes núcleos de población, aseguraban el control de los recursos humanos necesarios para el establecimiento de milicias no tanto contra potencias extranjeras; sino contra el negro, el gran miedo de la segunda mitad del siglo XIX. Los campos de estas jurisdicciones estaban poblados de esclavos en las más disímiles tareas.[\[13\]](#_ftn13)
+
+La infraestructura de transporte y la tupida red urbana configuraron la forma en la que ocurrió la urbanización y sus características. Según Jacobo de la Pezuela el pueblo de Aguacate, ubicado en la llanura fértil de Jibacoa, se encontraba a lo largo del camino real entre La Habana y Santiago. Acorde al censo de 1846 se trataba de una economía de servicios basada en la mano de obra blanca. De sus 205 habitantes, solo 56 eran negros y de ellos, 26 esclavos. Todas las casas estaban distribuidas a lo largo de la calle del camino real y evidenciaban su rol de punto de tránsito con la existencia de 3 posadas. Su rol de punto escala no debe haber dado escasos beneficios. En pueblo tan pequeño, fundado en 1803, 4 de las casas eran de mampostería y tejas y 7 de tabla y tejas. Solo habían transcurrido 4 décadas desde su surgimiento.[\[14\]](#_ftn14)
+
+¿Qué diferencia a las feraces llanuras de Habana-Matanzas que rodean a Aguacate de las que circundan Alacranes? El medio natural no difiere en gran medida entre ambas microrregiones: la cruzan ríos y tiene áreas boscosas. La diferencia es el reino de la plantación, que usaba de esos ríos y bosques para crear la energía suficiente para la fabricación de azúcares. El pueblo de Alacranes era el centro jurisdiccional de un partido donde molían 41 ingenios, existían 5 cafetales, 35 potreros y haciendas y 372 sitios de labor. El azúcar hizo al pueblo: de 14593 habitantes del partido, unos 8982 estaban vinculados a distintas formas de esclavitud entre esclavizados, emancipados, colonos asiáticos y yucatecos. El azúcar empleaba a buena parte de la mano de obra blanca y en los ingenios de la jurisdicción se encontraban 6637 esclavos y emancipados. Las necesidades del azúcar y de la población hacían de la agricultura de abasto un negocio importante. Solamente en los sitios de labor se ocupaban más personas blancas que en el pueblo y este sector representaba el segundo con mayor número de población esclava, aunque esta no debe haber estado homogéneamente repartida ni mucho menos representa la mayor parte de la fuerza de trabajo en el sector. La eminencia rural del partido de Alacranes se refleja en la estructura de oficios donde una de las tres categorías que más empleo absorben: labradores (1093), carpinteros (76) y comerciantes (70) permiten explicar la estructuración económica de la región. La agricultura, sustento del partido, en su versión agroexportadora requería personal especializado en carpintería, a la vez que el pueblo —en constante crecimiento— necesitaba de bienes que en su mayoría eran de madera en la época. De las 190 casas del partido, 169 eran de tablas. Un dato mucho más interesante es el gran número de comerciantes que vivían en pueblos tan pequeños, lo que es explicable por el poder adquisitivo que despertaba el azúcar y la facilidad de las comunicaciones ferroviarias en la zona. Además, los rubros exportables y de suministros internos y hacia La Habana, Matanzas o Cárdenas se movían con el agenciamiento de estos minoristas en época y lugar donde no había grandes sociedades comercializadoras. Es probable que urdieran sus negocios con los grandes hacendados que se servían de los 76 carreteros y los 54 boyeros para mover sus productos hacia el punto más cercano al ferrocarril que los enviaría a La Habana, Matanzas y Cárdenas. La vocación hacia el transporte de carga es evidente cuando 1969 de los 2004 carruajes del área son carretas y carretones.[\[15\]](#_ftn15)
+
+Para hacerse una idea de qué tanto era Alacranes área de influencia de la burguesía agroexportadora habanera debemos posar la vista en los ingenios. El ingenio Las Cañas, propiedad de Juan Poey, con una producción en 1860 de 7182 cajas de azúcar y 659 bocoyes era el más poderoso de la región. Sus productos eran llevados hasta el paradero de Unión de Reyes, del que distaba 7 millas para ser embarcado por el puerto de La Habana con destino al mercado internacional. Era en La Habana donde se concentraban los almacenes de este propietario y donde estaba su centro logístico. De ahí también llegaban los insumos y la mano de obra que no podía suplir la economía interna del partido a los ingenios. No hay dudas de que el giro hacia el oeste no está aquí dado por el rol de la infraestructura de transportes ni por la cercanía del puerto; sino por el rol de los inversores que manejaban los designios microrregionales a conveniencia de sus negocios y rentabilidad. No ha de ser sorprendente entender ahora cómo Alacranes terminó sujeto a Güines en la década de 1850 y no a Colón. La misma conclusión puede desprenderse de un análisis somero del ingenio Armonía de los Señores Alfonso y Aldama, el tercero más productivo de la región, con un moderno tren de extracción al vacío movido a vapor, que se encontraba a media legua del paradero de Bolondrón —en el centro de la llanura de Colón— por donde los ferrocarriles conducían sus azúcares a La Habana.[\[16\]](#_ftn16)
+
+Alacranes es el ejemplo prototípico de poblamiento azucarero, con una población eminentemente rural, representando apenas 427 habitantes del total de 14 000 del partido. Con un rápido crecimiento y conexión con la red regional matancera, muy a pesar de las ansias de las élites habaneras, su poblamiento guarda relación con el auge azucarero y su función es ser centro de servicios para el gran cañaveral circunvecino.[\[17\]](#_ftn17)
+
+La ciudad y su condición de mayor puerto de entrada y salida de mercancías del archipiélago sumieron al occidente cubano en un entorno económico al servicio de sus élites agroexportadoras y comerciales-refaccionistas de manera decisiva a partir de la segunda mitad del siglo XIX. Esta élite dirigiría los designios de la colonia influyendo en las evoluciones de sus distintos complejos. Al interior del complejo occidental, un área similar a la que ocupó la provincia de La Habana entre 1878 y 1976, se convirtió en una zona subalterna y abastecedora de la capital, que absorbía a ritmo acelerado grandes cantidades de ofertas.
+
+**Bibliografía**
+
+Ferrer, Ada: _Insurgent Cuba. Race, Nation and Revolution_, _1868-1898_. The University of North Carolina Press, Chapel Hill & London, 1999.
+
+Iglesias, Fe: “El censo cubano de 1877 y sus diferentes versiones”, pp. 167-214. Revista _Santiago_. Nro. 34, junio, 1979.
+
+Laird W. Bergad, Fe Iglesias García, María del Carmen Barcia: _The Cuban Slave Market, 1790-1880_. Cambridge University Press, New York, 1995.
+
+De la Pezuela, Jacobo: _Diccionario Geográfico, estadístico, histórico de la Isla de Cuba_. Tomo I. Imprenta del Establecimiento de Mellado, Madrid, 1863.
+
+Barcia Zequeira, María del Carmen: _La otra familia. Parientes, redes y descendencia de los esclavos en Cuba._ Fondo Editorial Casa de Las Américas, Santa Fe de Bogotá, 2003.
+
+Piqueras, José Antonio. _La esclavitud española en América Latina y el Caribe._ Editora Historia, La Habana, 2016.
+
+Barcia Zequeira, María del Carmen: Oficios de mujer. Parteras, nodrizas y “amigas”. Servicios públicos en espacios privados (siglo XVII-siglo XIX). Editorial Oriente, Santiago de Cuba, 2015.
+
+Cento Gómez, Elda E.: Nadie puede permanecer indiferente. Miradas a las guerras (1868-1898). Editorial Oriente, Santiago de Cuba, 2013.
+
+Barcia Zequeira, María del Carmen: Capas populares y modernidad en Cuba. (1878-1930). Editorial de Ciencias Sociales, La Habana, 2009.
+
+Barcia Zequeira, María del Carmen: Una sociedad en crisis. La Habana a finales del siglo XIX. Editorial de Ciencias Sociales, La Habana, 2009.
+
+* * *
+
+[\[1\]](#_ftnref1) Ferrer, Ada: _Insurgent Cuba. Race, Nation and Revolution_, _1868-1898_, p. 18. The University of North Carolina Press, Chapel Hill & London, 1999.
+
+[\[2\]](#_ftnref2) Iglesias, Fe: “El censo cubano de 1877 y sus diferentes versiones”, pp. 167-214. Revista _Santiago_. Nro. 34, junio, 1979.
+
+[\[3\]](#_ftnref3) Ferrer, Ada: Ob. Cit., pp.15, 44.
+
+[\[4\]](#_ftnref4) Ob. Cit., p. 113.
+
+[\[5\]](#_ftnref5) Laird W. Bergad, Fe Iglesias García, María del Carmen Barcia: _The Cuban Slave Market, 1790-1880_, pp. 30, 33. Cambridge University Press, New York, 1995.
+
+[\[6\]](#_ftnref6) Ob. cit., pp. 82-83.
+
+[\[7\]](#_ftnref7) Ob. cit., p. 84.
+
+[\[8\]](#_ftnref8) Ob. cit., p. 95.
+
+[\[9\]](#_ftnref9) De la Pezuela, Jacobo: _Diccionario Geográfico, estadístico, histórico de la Isla de Cuba_. Tomo I, pp. 32-33. Imprenta del Establecimiento de Mellado, Madrid, 1863.
+
+[\[10\]](#_ftnref10) De la Pezuela, Jacobo: Ob. cit., pp. 38-39.
+
+[\[11\]](#_ftnref11) Ob. cit., p. 128.
+
+[\[12\]](#_ftnref12) Ibídem.
+
+[\[13\]](#_ftnref13) Ob. cit., p. 155.
+
+[\[14\]](#_ftnref14) Ob.cit., p. 2.
+
+[\[15\]](#_ftnref15) Ob. cit., pp. 5-8.
+
+[\[16\]](#_ftnref16) Ob. cit., p. 9.
+
+[\[17\]](#_ftnref17) Ob. cit., p. 10.
+
+Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX. Habana siglo XIX
+
+Tienes que añadir un widget, una fila o un diseño preconstruido antes de que puedas ver algo aquí. 🙂
+
+## Autor
+
+-   ![](/avatar/?s=80&d=mm&r=g)
+    
+    ![](https://secure.gravatar.com/avatar/?s=80&d=mm&r=g)
+    
+    [Jesús Javier Mejias Díaz](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jesus-javier-mejias-diaz/)

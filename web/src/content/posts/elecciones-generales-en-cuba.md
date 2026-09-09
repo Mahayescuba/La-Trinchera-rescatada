@@ -1,0 +1,48 @@
+---
+title: "elecciones generales en cuba"
+date: "2018-04-17T20:10:52+00:00"
+author: "Alejandra K."
+category: "Opinión"
+image: "/wp-content/uploads/2018/04/elecciones-dibujo-01.png"
+---
+Ya comienza a asentarse un poco el polvo mediático levantado en los días cercanos a la segunda parte del actual proceso de [Elecciones Generales Cuba 2018](http://www.juventudrebelde.cu/cuba/2018-03-11/cobertura-especial-elecciones-generales-en-cuba-fotos-y-podcast). Mucho se ha dicho sobre el mismo. Críticas y elogios no han faltado de detractores y defensores, tanto en las redes sociales, en la blogosfera y en las conversaciones cotidianas del cubano. Pero más allá de especulaciones, todos permanecen a la espera del importante acontecimiento que pondrá colofón a dicho proceso y que no puede ser otro que la elección por la Asamblea Nacional del futuro presidente de los Consejos de Estado y de Ministros. En el tiempo que trascurra hasta tan importante acontecimiento, se puede empezar a sacar ya algunos apuntes sobre el desenvolvimiento del proceso electoral cubano.
+
+Según los datos aportados por la Comisión Electoral Nacional y ampliamente difundidos ya, el 85,54% de los convocados a ejercer el derecho al sufragio lo realizaron, un número nada despreciable y que nos sitúa muy superior a la media mundial aún en los países más desarrollados donde el abstencionismo puede llegar a veces niveles superiores al 50%. De los que ejercieron su derecho al voto cerca de un 94,42% lo ejercieron de forma correcta (ni anuladas ni en blanco), lo que a términos generales representa que del total de convocados a votar cerca de un 80,9% (81%) lo realizó de forma satisfactoria.
+
+Aunque los resultados en números fríos son satisfactorios si los comparamos con el resto del mundo, estos datos son reflejo y confirmación de una tendencia peligrosa que ha marcado las últimas elecciones en la Isla y es el aumento sostenido del abstencionismo y de forma general una reducción del número total de votos válidos (sumarle al abstencionismo, blancas y anuladas). Para ser claros y apoyarnos en cifras, en las elecciones generales de 2008, hace solo 10 años el total de votos emitidos fue de 96% y el de votos válidos del total del 95%, para un 91,2% de votos validos satisfactorio del total del padrón electoral, lo que representa en tan solo dos periodos electorales una reducción de cerca de un 10% en ambos indicadores. Ni en los años más duros del _periodo especial_ se mostraron cifras tan bajas, sosteniéndose en ese periodo el voto válido sobre el 95%, como era tendencia desde las primeras elecciones generales en 1976.
+
+Ahora bien, los indicadores óptimos claramente no son, tampoco los peores del mundo ni nada menos, pero sí que son indicios de algo que en alguna medida debería estar disparando algunas alarmas, pues estos números, ante todo, representan un comportamiento de la sociedad cubana y ahí es donde está el verdadero peligro. No es tanto la reducción de los votos válidos como las condiciones que están provocando esa reducción sostenida lo que debería interesarnos.
+
+Muchos han atribuido causas diferentes a este hecho, los opositores al gobierno lo notan y lo promocionan como un síntoma de debilitamiento y de pérdida de respaldo del proyecto social que lleva adelante el gobierno, y aseguran que gran parte de los que votaron lo hicieron por temor a las consecuencias de no hacerlo.
+
+De la otra parte (representantes y defensores del gobierno) están los que omiten cualquier comentario al respecto y celebran el éxito del proceso (proceso tranquilo y estadísticamente participativo) pasando por encima o restando importancia a las señales de peligro que ese emiten.
+
+También están los que reconociendo la cuestión le confieren causas exógenas o lo denotan como algo normal de lo que no hay que alarmarse. Están los que en una posición poco clara atribuyen estos números a las campañas antigubernamentales que se realizan por parte del gobierno de los Estados Unidos, los grupos de exiliados en Miami y la oposición interna; campaña que ha ido en aumento, pero que aún tiene un peso ínfimo en la realidad del cubano de a pie y parece más montada como un teatro para el resto del mundo que para lograr cambios reales en la Cuba de hoy.
+
+Aún así son pocos los que en el espectro considerado como revolucionario se atreven a tratar de dar respuestas claras a la cuestión, pero para los verdaderos revolucionarios las excusas no son una respuesta aceptada, lo cierto es que el problema existe y esos números son reflejo de la compleja realidad que atraviesa el país.
+
+Para nadie es secreto que el consenso sobre el futuro de Cuba se rompió hace mucho. El proyecto de país que lleva adelante nuestro gobierno tras casi 60 años, enfrenta uno de sus momento más complejos a la puerta de cambios profundos en la dirección del país, sumido en una crisis económica, con un proceso de cambios (_Lineamientos_) que tras casi 7 años de su inicio aún no reflejan la trasformación radical para mejor en la sociedad cubana y a la vida del cubano común que de ellos se esperaba.
+
+A todo esto sumarle el despunte de la propiedad privada, sus representantes (la burguesía nacional) y una brecha de desigualdad cada vez mayor. Todos estos problemas son parte de la realidad del cubano común que representa la gran mayoría de ese electorado (en Cuba sobran jefes pero no hay tantos como para ser la mayoría) y que cada vez encuentra menos su reproducción como individuo dentro de las condiciones existentes en el orden actual.
+
+Aunque no existan datos oficiales al respecto, uno se podría atrever a especular y decir que una buena parte de este decrecimiento sostenido debe venir dado por una reducción de los votos en las edades más jóvenes (en forma proporcional) que son las que de manera progresiva comienzan a ejercer su derecho al voto. Esto no haría de Cuba un caso típico, estudios en otros países han demostrado que la tendencia general es al abstencionismo en los grupos etarios nacidos sobre los últimos años del siglo pasado e inicios del XXI. A mi juicio las causas en sí no son tan diferentes, tal vez si lo sean las condiciones y la proporción en que se manifiesta (proporción en que aún nosotros salimos en mejores condiciones).
+
+Para volver sobre el hilo y en términos simples, al referirme anteriormente a “condiciones de reproducción”, hago alusión pues al conjunto, valga la redundancia, de condiciones que están permitiendo y definiendo la vida del cubano común, estas condiciones están atadas a una realidad y esa realidad determina sin lugar a duda el desenvolvimiento de cada individuo en la sociedad. Para muchos cubanos su realidad queda fuera en estos momentos la implicación en el proyecto político, este le es tan ajeno como ellos son del mismo. Aunque de forma global nuestro proyecto político parece tocar la realidad individual de cada cubano, son cada vez más los que quedan separados del mismo. Y lo verdaderamente revolucionario aquí es preguntarse ?Porque?
+
+La alienación a la cual me refería anteriormente como separación, en términos sociales, de la realidad del individuo con respecto a un proceso determinado, en este caso el proyecto político cubano. Una vez que algo queda fuera de nuestra realidad y se nos vuelve ajeno, es muy difícil que en algún momento nos incorporemos a ser parte del mismo de forma espontánea. Y aquí no se trata de culpar simplemente la falta de compromiso por parte de alguno, o el desinterés o la apatía. Todos esos fenómenos son expresiones de condiciones que los están posibilitando en parte del proceso antes mencionado y que no se revierte con más o menos spot publicitario, promociones de ningún tipo, podemos aumentar el marketing de un producto, pero si este les es ajeno a los consumidores, pues seguirá pasando desapercibido. La enajenación a la que me refiero es producto de una estructura social, la cual la está provocando, dicho de otra manera de una serie de condiciones en la vida actual del cubano que la están provocando, solo cuando estas varíen variarán los efectos que provocan.
+
+Hay personas que estaría y están en desacuerdo con esta idea, pero basta  salir a la calle y salta a la vista como cada vez se reduce más el número de personas que se implican en la vida política del país, como cada vez más las condiciones de vida de la Cuba actual te separan de ser un ente activo en el proceso, para convertirnos en un ser ajeno a este. Y aunque muchos no lo compartan este hecho es en términos simples la explicación más consecuente del fenómeno, el cual sin lugar a duda se da de una manera especialmente dañina en las edades más jóvenes.
+
+[Otro texto de la autora](/economia-en-cuba/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,0 +1,26 @@
+---
+title: "Ganado-res"
+date: "2019-11-03T16:10:30+00:00"
+author: "Jorge Fernández Era"
+category: "Opinión"
+image: "/wp-content/uploads/2019/11/FB_IMG_15727500405671033-1.jpg"
+---
+En menos de tres semanas, igual número de reportajes televisivos y dos mesas redondas (volátiles) dedicadas a la proteína, esa sustancia fundamental que forma parte de las células animales y que el diccionario define soluble en agua, no sustituible por esta o por refresco gaseado.  
+El primer material versó sobre [Rosafé](https://www.ecured.cu/Rosaf%C3%A9_Signet), un toro con nombre afeminado que legó un semen que todavía se-menta. El segundo rindió homenaje a Ubre Blanca, una hembra que poco faltó recibiera el carné de federada y que mantuvo en vilo a una nación que buscaba a diario en primera plana del Granma cuántos litros de leche entregaba a la historia su maravillosa ubre. El tercero —con música de Lecuona— habló de los múltiples proyectos genéticos desarrollados durante sesenta años para crear razas vacunas como Taíno, Mambí y Siboney, esta última «un linaje autóctono en el que el país \[ese eufemismo que nos coloca en un segundo plano\] ha centrado sus esperanzas». A juzgar por la cantidad de leche y carne que consumimos, Taíno, Mambí y Siboney son más ensamblables como marcas de radios.  
+Uno se pregunta, cual si estuviera harto tras pantagruélica cena, cómo después de tantas décadas comiendo hierba, los vacunos nuestros no sean considerados, [socialistamente hablando](/marxismo/), un [medio de producción](/teoria/) en manos de aquellos que los engordan: el campesino y el obrero agrícola. Pero estos no pueden disponer de una sola articulación del animal so pena de ser pasto de la articulación del código penal. Y su excelente carne ni intentar venderla como excedente. Y entonces nos acordamos de que el tributo existe desde mucho antes de fundarse La Habana, pero los señores feudales no llevaban tan recio a la plebe, y al menos una vaquita cantaba el mu sostenido distinguiendo el cuchillo de su dueño.  
+Y claro que si al final la carne —menos importante que el carné— no regresa a sus legítimos productores, siempre habrá «mambises» de raza que machete en mano nutran los expedientes de hurto y sacrificio que ceban los archivos policiales. Hurto porque están hartos de sufrir los precios de la exigua carne vacuna que llega al mercado. Sacrificio de no poder comerla.  
+¿Dónde el ganado? ¿Do está la res? El periodismo futurista de la televisión cubana —he aquí la «vacuna»— funde las dos palabras y anuncia que somos ganado-res de una batalla que ha dado como fruto ese rebaño genéticamente invicto que se pasea de un lado a otro de la pantalla y que posee como única debilidad hereditaria el que un clip del mando (televisivo) los hurte definitivamente de nuestra vista.
+
+carne de res carne de res 
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

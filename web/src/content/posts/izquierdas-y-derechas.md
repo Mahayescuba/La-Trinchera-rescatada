@@ -1,0 +1,37 @@
+---
+title: "El imperio del populacho Vs la modernidad ilustrada"
+date: "2019-04-22T14:39:31+00:00"
+author: "José Gabriel Barrenechea"
+category: "Política"
+image: "/wp-content/uploads/2019/04/Asaf-Hanuka_-The-Realist.jpeg"
+---
+Mucho tienen en común las izquierdas y las derechas autoritarias; además del adjetivo, claro está: ambas parten de la sublimación del _populacho_, de la canalla de [Voltaire](https://es.wikipedia.org/wiki/Voltaire).  
+Los caminos por los cuales llegan a este mismo punto son diferentes, pero evidentemente el objetivo en su actividad política es uno y el mismo: enfrentar a la Modernidad Ilustrada.  
+La derecha autoritaria lo hace a través del conservadurismo: demasiado temerosa del cambio social, de los Frankenstein que regularmente han visto nacer de los intentos de mejorar al hombre, termina por plantear que este está muy bien como está. Y como indudablemente el hombre de estos inicios de la democratización es más que nada _populacho_ (porque no nos engañemos, la democratización solo ha dado sus primeros e inseguros pasitos), pues sancionan a lo _populachero_ como su máximo ideal.  
+A su vez echan mano de uno de los más trascendentes resultados de las reflexiones del liberalismo: adoptan la división de las libertades humanas de Benjamin Constant e Isaiah Berlin, entre las libertades de los modernos (negativas) y de los antiguos (positivas), para de inmediato desechar a la segunda. Su ideal de sociedad se convierte en aquel en que se deja al _populachero_ individuo promedio del momento habitar profilácticamente vigilado en una burbuja de libertad negativa, desde la que puede consumir con tranquilidad, para mantener así a la economía en movimiento mientras a su vez se fosilizan las costumbres.  
+En el caso de la izquierda autoritaria, el proceso ocurre a través del reivindicacionismo igualador: en un primer momento estos izquierdistas dicen proponerse subsanar las desigualdades en nuestros sistemas sociales presentes, mediante el recurso de convertirse ellos mismos en esa autoridad igualadora suprema que ya Rousseau había predicho se necesitaría para establecer una sociedad verdaderamente igualitaria. Pero Rousseau no solo había predicho la necesidad de esa autoridad igualadora suprema para conducir a los hombres hacia la tal sociedad, sino que al comprender que la misma iba contra las tendencias naturales humanas, dejó muy claro que no se lograría establecer una sociedad igualitaria a menos que alguien se decidiera a imponer esa igualdad no natural, y, sobre todo, a luego mantenerla.  
+Así, convertidos ya en la autoridad igualadora suprema, los citados izquierdistas pronto comprenden que la única manera de mantener el sistema igualitario, y sobre todo su privilegiado papel en él, es conservar al _populacho_ en el estado de _populacho_, además de convertir en tal a todas las demás clases y estamentos de la sociedad ( que van desde los más pacíficos hasta Gulags o Colectivos, no importa). Porque solo como _populacho_ el hombre es manejable para el poder en una sociedad estamentaria. En la cual algunos “revolucionarios” se ocupen de cuidar y pastorear al rebaño, al tiempo que disfrutan ellos y sus servidores más cercanos (los guardianes) de un nivel de ventajas materiales, y sobre todo de libertades, al que a su vez no permiten llegar al ciudadano corriente.  
+En ambos casos, el de la izquierda o la derecha autoritaria, se dice pretender, en definitiva, darle solución a esa molesta inconformidad que el hombre adquirió en la Modernidad con la posición en que le ha tocado nacer, y por lo tanto, a su novedosa inmanejabilidad por los privilegiados de siempre. Lo cual se consigue al elevar al _populacho_, a la canalla, como el supremo ideal humano; al menos en el discurso de los relatos ideológicos para consumo en los medios de comunicación masiva.  
+O sea, la derecha eleva el _populacho_ a ideal, para que la inquietud por no poder llegar a salir de dicho estado no se eleve por encima de los niveles de ingobernabilidad a que está llegando un mundo encerrado en un planeta que ya le queda demasiado estrecho. La izquierda autoritaria, por su parte, usa métodos igualmente eficientes, para controlar esa ingobernabilidad.
+
+También se emplea más que de la propaganda bien dirigida, o de la manipulación mediática (aunque también echa mano de esos recursos, y mucho), de los recursos que paradójicamente la Modernidad, esa causa última del problema, ha dejado en manos del Estado: el control policíaco burocratizado de la sociedad y toda una serie amplia de invenciones técnicas en manos de ese aparato de control.  
+Mas los métodos no son soluciones reales a los problemas humanos: la Humanidad, por su propia esencia, solo puede escapar hacia adelante.  
+Son soluciones por demás demasiado contradictorias en sí, ya que para combatir a la Modernidad paradójicamente usan de recursos que solo pueden existir dentro de ella.  
+El que sin lugar a dudas vivamos un retroceso cultural, y hasta algunos señalan que del promedio de coeficiente de inteligencia humano desde mediados de los setentas, responde al predominio que en el mundo contemporáneo han conseguido desde entonces estas dos fuerzas políticas, en detrimento del liberalismo (no confundir con los neoliberalismos) y de las corrientes progresistas (no confundir con reivindicacionistas).  
+No negamos que el modelo de ingeniería social para el mejoramiento del hombre, aplicado por una élite y según programas burocráticos, no tenga evidentes peligros… pero hay algo también muy real: la democracia no funciona sin que el hombre se mejore a sí mismo, y sin que busque la virtud. La democracia funciona no tanto en base a mecanismos legales y contrapesos institucionales, como a una determinada cultura, la del pluralismo, sobre la cual no se sustenta el _populacho_, quien por el contrario lo hace sobre la heterofobia.  
+El asunto no es eliminar a las élites educadas, cultas, virtuosas del pasado, para en su lugar elevar a la categoría de lo máximo al _populacho_, a la canalla… el verdadero asunto, y la verdadera agenda del progresivismo consecuente es convertir a ese populacho en lo que antes solo eran las élites. ¿Un empeño utopista…? Quizás, pero es el único camino… por otra parte, la verdad es que solo hay que proponerse abandonar las Utopías reivindicacionistas por esa otra Utopía que está en el fondo del liberalismo: en definitiva la sociedad utópica a que debemos aspirar es aquella propuesta por Kant, la de una sociedad en que todos seamos en igual medida libres. La sociedad Abierta de Popper, en que los motivos de la acción de cada ciudadano solo se encuentran en sus imperativos morales propios, no en el miedo a desentonar de un determinado ideal de lo humano, o en la imitación de ese ideal mimético.  
+La primera acción concreta, por cierto, es mandar a paseo a casi todos los sistemas de enseñanza del mundo, que solo perpetúan al hombre sin facetas… No es conocimiento lo que necesitamos educar, sino valores, virtudes, habilidades… y mucha, mucha independencia de criterio, toneladas de ella.
+
+[Otro texto del autor](/opinion/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

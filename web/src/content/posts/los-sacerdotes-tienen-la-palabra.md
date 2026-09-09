@@ -1,0 +1,40 @@
+---
+title: "Actitud crítica de sacerdotes cubanos"
+date: "2021-01-09T10:30:00+00:00"
+author: "Julio Pernús"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2021/01/Claude-Ohresser-Escultura-en-acero.jpg"
+---
+_Apuntes sobre la repercusión mediática de algunos sacerdotes tras sus críticas públicas a la situación que vive el país_
+
+Hace algún tiempo, mientras caminaba rumbo a casa, un amigo católico me comentó: “No estoy de acuerdo con la actitud crítica asumida por algunos sacerdotes cubanos, denunciando a través de homilías trasmitidas en redes sociales y de sus perfiles personales e institucionales, la realidad que vive el país.” La principal razón esgrimida por el joven era que ese tipo de denuncia podía perjudicar de alguna forma a la Iglesia, institución que hasta podría salir el día de mañana por el noticiero. En segundo lugar, que para él la homilía no era el momento para “hablar de política”. El alegato propició entre nosotros un pequeño debate sobre la misión del sacerdote en la Cuba de hoy. Quizás con este artículo pueda completar algunas ideas de las esbozadas en aquel momento.       
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/odio-en-redes-sociales-cubanas/
+
+En Google, al poner _sacerdote_, el buscador remite a un hombre que hace de intermediario entre los fieles y Dios. Si se va a la etimología de la palabra, se ve que viene del latín _sacerdos,_ que remite al concepto de “el que oficia lo sagrado”. Para los católicos, un sacerdote es el pastor (un ser humano) que cuida de una comunidad de fieles y muestra también el obrar de Dios en las vivencias concretas de la vida. 
+
+En la publicación _Vida Nueva Digital_, se compartió hace un año un [decálogo del buen sacerdote](https://www.vidanuevadigital.com/2019/12/13/decalogo-del-presbitero-segun-francisco-en-sus-bodas-de-oro-sacerdotales/), según el Papa Francisco. Entre las características sugeridas, resaltaba la de **ser curas callejeros**. Al decir del pontífice argentino: “Jesús, habiendo podido perfectamente ser un escriba o un doctor de la ley, quiso ser un evangelizador, un predicador callejero. Entonces nosotros, sacerdotes seguidores de Cristo, debemos poner en práctica la pedagogía de la encarnación. Esto se traduce en mostrar cercanía sobre todo con los pobres y marginados, ser sacerdote debe llevarnos a involucrar nuestra persona entera con el prójimo. Hoy la Iglesia necesita curas cercanos que tocan sin temor las dificultades de su pueblo.”  Una pregunta para la Cuba de hoy es: ¿cómo ser una Iglesia samaritana?
+
+La escritora española Irene Vallejo ha escrito recientemente “…yo creo que cuando un fenómeno tiene repercusión mediática es porque está dando algunas respuestas a preguntas que la gente tenía en su cabeza sin ser consciente de ello”. En los últimos meses la situación social se ha ido deteriorando, casi hasta romperse. Los sacerdotes no son personas etéreas, comparten su vida en una realidad concreta, sufren la escasez a diversos niveles. He conocido curas que deben hacer colas para comprar comida en una tienda, sé de algunos que han llegado a padecer de la escasez de medicamentos. No digo que sean la clase social más afectada por la crisis nacional, pero la precariedad también los muerde. Por demás, los consagrados que han alzado su voz, tienen a sus familiares, amigos, comunidad, empleados -es decir, gente cercana- padeciendo la fatiga del país.
+
+Alguna vez, conversando con uno de los sacerdotes que han elevado su voz para denunciar la falta de un verdadero diálogo nacional, me decía: “Pernús, tengo miedo de perjudicar a la Iglesia, la institución, por presentar una narrativa de la realidad no esgrimida por los medios oficiales. Pero le temo más al silencio que me hace cómplice de la falta de medicamentos que padecen casi todas las personas enfermas de mi comunidad.  Decir en una homilía que eso es injusto, es lo mínimo que puedo hacer por ellos.”
+
+La Iglesia en Cuba no puede ser dibujada en forma de monolito. Su diseño es más cercano a un poliedro donde abunda la diversidad. En las comunidades suelen sentarse personas de variados matices políticos. La fe no excluye ninguna militancia. Es importante para los católicos, sobre todo los jóvenes, comprender que las homilías van más allá de una explicación doctrinal de las lecturas del evangelio, es también un espacio configurado para que los oficiantes interactúen con las personas que escuchan su reflexión. Y es en esa relación comunitaria, familiar, donde los problemas de la sociedad suelen emerger en base a una lectura contextualizada de la Palabra de Dios. 
+
+Si algo lamenté de la última elección de la Confederación Cubana de Religiosos (CONCUR) es que, al salir como presidente un religioso sacerdote, quizás no nos sea tan frecuente leer la mente brillante de una religiosa tan valiente y coherente como su anterior presidenta, sor Nadieska, hc. La Iglesia también necesita de la voz profética y maternal de las mujeres. Aunque sean minoría entre los que han alzado su voz por estos días, sé que han logrado con sus mensajes hacer ver algo de luz en la oscuridad. 
+
+Hoy quiero decir a los sacerdotes que lean este texto: ustedes tienen la oportunidad de mostrar aquello de “sapere aude”, es decir “el valor de servirse de su propia razón y fe”. Si hablan desde la coherencia, tengan la certeza de que, con esperanza, serán escuchados.
+
+actitud crítica de sacerdotes cubanos, actitud crítica de sacerdotes cubanos, actitud crítica de sacerdotes cubanos
+
+## Autor
+
+-   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
+    
+    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
+    
+    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
+    
+    Comunicador de la iglesia católica.
+    
+    [](../tag/autor-julio-pernus/index.html)

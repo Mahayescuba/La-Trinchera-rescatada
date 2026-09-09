@@ -1,0 +1,30 @@
+---
+title: "agricultura y alimentación en Cuba"
+date: "2020-10-13T09:30:43+00:00"
+author: "Jorge Fernández Era"
+category: "Onírica"
+image: "/wp-content/uploads/2020/10/Oriol-Cabrero-Art-on-Wood.jpg"
+---
+A pocas horas de celebrarse el aniversario 528 del arribo al Nuevo Mundo del despistado almirante que nos creyó tierra de Indias, acaba de hacerse en La Habana un descubrimiento trascendental: para producir y garantizar durante todo el año el alimento necesario y de calidad que propicie el desarrollo de nuestra deprimida ganadería bovina son tres las _alternativas integrales: recuperar las áreas de pastos y forrajes, solucionar el déficit de alimento para el periodo seco y potenciar el empleo de recursos naturales, de productos y subproductos agroindustriales que puedan servir como suplemento_. Debe ser que hasta la fecha nuestras vacas comían pizzas.
+
+El ¡eureka! ha llegado _desde la ciencia_, proveniente del Instituto de Ciencia Animal, una entidad científica creada hace 55 años, entre cuyos objetivos en su lustro inicial de existencia estuvo, en primer orden, _desarrollar líneas de investigación relacionadas con los pastos y forrajes para la producción de leche y carne, y además estudiar otras fuentes de alimento de producción nacional_. Uno puede entender que el ICA está en San José de las Lajas, a 47,5 km de la capital, y que hasta el otro día la Ocho Vías estuvo cerrada a causa del coronavirus, pero es innegable que hubo cierta demora en que arribaran los resultados de la investigación a la sede del Gobierno. Cinco décadas después, solo el 3,27% de las tierras dedicadas a la ganadería están constituidas por pastos mejorados, ignoro si porque al país se le coarta la posibilidad de importar hierba.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/croquetas-de-tripa/
+
+Demorará seguramente otros cincuenta años responderle a [Pijirigua](https://www.youtube.com/watch?v=TSY78fT87CU) (la vaquita zalamera que sigue _almorzando a la antigua_) por qué ese campesino que de sol a sol la atiende y dobla el lomo para ordeñarla y sembrar su comida, llegado el momento no podrá matarla, ni siquiera agarrarle la pata, para consumir y comerciar su carne. Eso sería sacrificio ilegal de ganado mayor, penado con cualquier cantidad de años de cárcel, los mismos que puede buscarse si su emprendimiento lo lleva a inventar una fábrica de quesos con la eficiencia que no tienen los que lo juzgan. Porque su pena, el sacrificio legal suyo, es no ser dueño del producto de su trabajo, tener que conseguir a como sea unos dólares y meterse una cola de cuatro horas para rumiar que Pijirigua vale lo que una Pinta, una Niña o una Santa María. Y solo podrá cargar en su jaba las culpas por incumplir los compromisos de entrega de leche (la que hace trece años se nos dijo _se podía_), por el incremento del número de muertes vacunas, por los bajos índices de natalidad e inseminación artificial, o porque su rebaño no ha consumido todavía una paca de moringa o morera, a pesar de que desde hace ocho años estaban creadas las condiciones para que Cuba las produjera masivamente, como fuentes inagotables de carne, huevo y leche. 
+
+En un país rodeado de mar y cundido de marabú que solo consume cuatro kilogramos per cápita de pescado, cuál no será la cantidad de cucharadas de carne por mandíbula que masticamos los habitantes de este archipiélago antes de viajar a Colón. Al cementerio digo, que al almirante hay que reconocerle no solo haber traído al continente americano las primeras vacas (sobrevivieron a 39 días de travesía, lo que no logran hoy día en tierra firme muchas de las nuestras), sino haber dado en el clavo en cuanto a lo parecido a la India de esta isla por lo sagrado de su ganado bovino, el que solo produce —otro logro de nuestra ciencia— ejemplares rellenos de tripas.
+
+Si Cristóbal Colón hubiera vivido lo que tarda el país con más científicos por rabo encendido del mundo en convertir en resultado el contenido de sus investigaciones, tendría la posibilidad que tuvimos todos de oír en el noticiero el reporte del nuevo encuentro sobre el _Programa de Soberanía Alimentaria y Nutricional_. Hubiera cambiado su discurso al desembarcar en nuestras costas. Señalaría a las vacas de marras y exclamaría conmovido ante los incrédulos y anonadados nativos, los de ayer y los de hoy: _Llegaron vivitas y coleando gracias a alternativas económicas integrales, flexibles, con capacidad de adaptación a los diferentes escenarios productivos que nos permiten incrementar la producción de alimento animal y avanzar hacia la intensificación sostenible de la actividad ganadera_.
+
+agricultura y alimentación en Cuba, agricultura y alimentación en Cuba, agricultura y alimentación en Cuba
+
+## Autor
+
+-   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
+    
+    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
+    
+    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
+    
+    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

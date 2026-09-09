@@ -1,0 +1,27 @@
+---
+title: "Viruses, modernity and capitalism"
+date: ""
+author: ""
+category: ""
+image: ""
+---
+By Patricio Pilca
+
+Cities are "the greatest" modern achievement, synonymous of modernity is the cement, roads, buildings rising like invincible walls that incorporate a new lifestyle, a new habitus. Everyone wants to live in them. If there is a notable victory for capitalism, it is the expansion of the city as the axis of development and the ideological insertion of progress as part of it.
+
+In case you are interested in knowing more about the causes of the origin of viruses in the 20th century, you should start there, because the growth of modernity, therefore, of cities, has meant the expansion of urbanization and the loss, ever greater, of the forests. Cement has won the battle against the field; that is to say that the reinforced concrete ended up displacing or burying, the soil. Let's take a look at this example: The Ebola virus, is believed to come from fruit bats (animals that eat fruit, they fall into the category of the Megabat and sometimes they are called the Flying Fox in some locations) The species of bats that feed on insects tend to decrease in fragmented forests, while populations of fruit bats tend to increase, this, since these plants grow rapidly after cutting down a forest. Thus, bats are forced to find new habitats such as gardens, parks and farms, where their secretions come into contact with humans.  
+Another example is that of malaria in Borneo, Malaysia, where it was discovered that the transmitter of this disease is Plasmodium knowlesi, the cause of "monkey malaria" that lives in macaques. This disease was not being diagnosed due to the similarity of this with P. malariae and P. falciparum. In this regard, monkey malaria has become the most common cause of disease in Malaysia, and human disease is constantly on the rise in Southwest Asia. Borneo's forests have been cleared at an accelerated rate, turning the natural forests into oil palm plantations, which has generated direct contact between humans and macaques / monkeys, where infected mosquitoes contribute to their transmission. In the case of Africa, malaria is the main endemic parasitic disease; The main transmitter of this disease is the Anopheles gambiae mosquito, which has habitats such as crops or shady swamps in forests. Thus, there are many examples of zoonotic diseases (infection or animal disease that is transmissible to humans in natural conditions or vice versa) that have large populations of humans and that have their origin in forests. The main cause of these conditions is directly linked to forest environments which create limited zoonotic cycles. As forests are cut down worldwide at an alarming rate, future pandemics accelerate in the same way.
+
+And it is that even the hippie movements have not managed to hit the urbanization logic, rather they are the reaffirmation of the city expanding and reducing these experiences to a pot within the department or at most to a separation of organic and non-organic waste. A useful but not enough effort in this whirlwind of inevitable consumerism. Many specialists predict that after quarantine the levels of consumerism will increase considerably.
+
+The magnitude of this health crisis is not only reduced to that, but to an environmental, political and cultural crisis, and not only economic, as the lucid minds of neoliberalism want to show, which reduce everything to a number within the statistics. And well, that sometimes, because in the case of deaths, there are some that do not even matter, and are not counted as such. They are anonymous deaths that do not even reach the status of accounting number for the government. The battle against the coronavirus is not the fight against an exterior, it is against our way of life, but we need to understand this, we have not learned anything from this crisis. It is a fight against the exploitation of nature and the labor force, contradictions that the capitalist system throughout its history has not been able to solve. We should rethink the workforce contained in the bodies, as this is where the virus materializes.
+
+Not even bare life(nuda vida), thought of as a power, is possible in these conditions, where disinformation and the birth of thousands of experts telling us what to do is enough, because it is those bodies, those "anyone", that are dying first. Not only because the virus has attacked them more directly, but also because the State of Exception itself is in charge of silencing them.
+
+If you remember Kafka's "The Castle", there where Mr. K is lost in a labyrinth. Today that labyrinth is created by the governments themselves, who have shown their true faces. To continue with the Kafkaesque metaphor, –especially in Ecuador– they are teachers in creating labyrinths for citizens, where inefficiency is their greatest achievement. If someone thought that the bureaucracy was presented in the Weberian way, today they have given signs that are presented as labyrinths, whose objective is to ignore the bodies that do not serve them and turn the State into a riot, and for this they create a whole apparatus of the robbery limited to confusion.
+
+Under circumstances, where acephaly is a constant, it is time, as Benjamin suggested, to put a brake on the wheel of progress, for the good of nature and human beings.
+
+Taken from Red Kapari
+
+Traducido por Miguel González

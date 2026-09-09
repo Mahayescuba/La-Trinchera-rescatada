@@ -1,0 +1,67 @@
+---
+title: "Marx y Proudhon"
+date: "2019-01-06T04:06:46+00:00"
+author: ""
+category: "Marxismo"
+image: ""
+---
+Marx y Proudhon.
+
+**Por: Oscar Herrero**
+
+**Las Sociedades secretas**  
+¿Qué aporta el desarrollo teórico de Marx? Un programa. Un programa que por sus fundamentos es un programa universal, y basado en una interpretación de la historia, que como en toda interpretación no es única ni definitiva.
+
+> Su interpretación fue apenas una luz desde el cual formular la lucha.
+
+Una lucha de larguísimo alcance, una lucha supra-generacional, en primer lugar. Un programa que como tal no es más que una “idea”, para decirlo en términos más provocativos, una “utopía”, tal como antes la hubo formulado Tomás Moro o Platón en su república, solo que aquí, en lugar de avanzar “idealmente”, se avanza materialmente, combatiendo hasta destruir definitivamente al singular y concreto capitalismo. En la medida que le voy asestando golpes, se me va pre-configurando el devenir socialista, con la particularidad de que además, este régimen de producción estaba destinado por sus contradicciones intrínsecas a su propia extinción.
+
+> Esto se daba de patadas con las tradicionales formas de lucha
+
+especialmente las de las sociedades secretas, cuyo programa conocido era derrocar un arbitrario orden propietario, por otro, también propietario, pero con una propiedad encuadrada en las formas racionales de la república, cuyo horizonte era la propiedad comunitaria, no la propiedad social.
+
+La propiedad comunitaria era la delicia del pequeño propietario. Se trataba de dividir la gran propiedad en tantos pedacitos, como comunos hubiese y todos serían a un mismo tiempo, un poco trabajadores y un poco patrones.
+
+> Se trataba de democratizar la propiedad, de la misma manera, que antes se democratizó el derecho político.
+
+Se puede decir, un natural desarrollo empírico de la conquista social. Estas asociaciones que arrancan con Babief, continúan con Flora Tristan, con William Golwing, y Cremer en Inglaterra, con Max Stirner, en Alemania, luego Blanqui, los fabianos, Proudhon, incluso tardíamente, Lasalle y su más conspicuo soldado: Miguel Bakunin.
+
+Estas eran las organizaciones que se reconocían como socialistas o comunistas, que para diferenciarse de Marx, adoptan la denominación de anarquistas. Por eso que la catalogación que hacen Rubel y Janover, no es desacertada. El origen militante y político de Marx está inscripto en esta tradición. La diferenciación aparece con “la idea” que introduce Marx, que aparece como exótica, como tiránica al anteponer “la idea” a “la realidad”, vista desde cada respectiva tradición, aunque con un desarrollo en común por parte de muchas de ellas.  
+Marx establece el programa y su fundamentación, define por los cuatro costados al enemigo. El programa está, solo queda llevarlo adelante. Implicó un cambio rotundo de la estructura organizativa. Ya no se recluta para conspirar contra asimetrías concretas. Ahora se recluta para llevar adelante el “programa” bastante abstracto para el proletariado medio, que no encontrará recompensa mediata para su penosa vida, sino que en la lucha encontrará consuelo en la sublimación de su protagonismo.
+
+En los reflujos luchará contra los molinos de viento,
+
+> mientras que los logiados lucharán por la “pequeñez concreta”.
+
+Esa fue la primera escisión de los objetivos –programas- de la lucha revolucionaria, la defensa de la idea o la defensa de la vida palpitante y concreta: la contienda sindical en la fábrica concreta y a partir de allí se juntaran y se cruzarán mil veces en la disputa entre lo general y abstracto y lo particular y concreto e incluso se combinarán y habrá concreciones y abstracciones en las distintas tendencias.  
+El marxismo enfatiza la legalidad y la participación electoral, mientras que los anarquistas ponen la acción directa en el centro de su interés metodológico.
+
+Los primeros se definen como socialistas científicos, los segundos como socialistas convencidos, que ven en el parlamentarismo una prolongación engañosa del poder ejecutivo. También veían en la veneración del programa la construcción de sujetos débiles y en la excesiva ponderación del análisis y por ende de la palabra, una marcada tendencia al reduccionismo de la realidad, aunque ambos coincidían en que un proceso de negación, tenía que conducir al socialismo, o sea a un estado en que el equilibrio entre la libertad individual y la necesidad social sería la condición vital de la expansión de una humanidad regenerada.  
+Otro punto que suscitó controversias irreductibles fue el ligado a las organizaciones secretas en la conferencia de Londres (setiembre 1871) Marx increpó a los “apóstoles de la indiferencia política”, aclarando: “que ese tipo de organizaciones está en contradicción con el desarrollo del movimiento proletario, ya que esas sociedades en lugar de educar a los obreros, les someten a las leyes autoritarias y místicas que bloquean su independencia y orientan su conciencia hacia una falsa dirección… …El consejo evita siempre cualquier medida autoritaria, cuando puede ser evitada y resolvió para evitar cualquier conflicto, que la Federación –anarquista- mantuviese su título, invitando a la Alianza a tomar no un título local, cosa que esta no hizo”. Marx intervino además sobre la actividad conspirativa de Bakunin en Rusia y sobre sus relaciones con Netchaiev cuyo comportamiento había desacreditado a la Internacional mezclándola en una cuestión de asesinato político.
+
+> En realidad los métodos y los fines estaban cruzados.
+
+Para Bakunin, que en los hechos, no ahorraba métodos violentos, políticamente se definía como socialista revolucionario y caracterizaba a los que entonces empezaban a denominar como marxistas como de “comunismo autoritario”, porque ponían al estado en el centro de sus demandas, según esta perspectiva eran “autoritarios” porque fortalecían el estado, dándole mayor potencia, cuando el objetivo estratégico era destruirlo. Esta contradicción “de vida” resultaba insoportable para el agitador romántico, que podía soportar contradicciones programáticas, que en última instancia le eran externas, pero clavadas en el interior de su sensibilidad, lo demolían. Para Bakunin, el vocero de un conjunto de organizaciones afines, aparecen permanentemente conceptos como ‘organizar de abajo hacia arriba’ o ‘armar desde abajo’, siempre propugnando todas las formas de auto-organización obrera, sindicatos, cooperativas… y partidos políticos. Un año después de La Comuna, en un folleto recomendaba a sus compañeros italianos, frente a un contexto represivo, la constitución secreta de una élite que tuviera por misión ejercer una dictadura “colectiva e invisible”, para hacer triunfar “una revolución bien dirigida” y en caso de necesidad transformarán su organización pública y legal en agrupamiento secreto, por lo menos, aunque esa necesidad no se impusiera, que fundarán en medio de las sesiones públicas, unos “nuclei”, compuestos por los miembros más seguros, entregados, inteligentes y enérgicos, en una palabra, los más íntimos.  
+Aquí, de nuevo, hay un cruce de los propósitos inmediatos y los mediatos, la fracción “anti-autoritaria” entre la cual se encontraba Bakunin, oponiéndose a lo que definía como un “comunismo de estado” le reclamaba a la Internacional que obedezca a las “sociedades obreras” y que estas formen parte de las sesiones regulares de aquella. Mientras que el Consejo General, ateniéndose a la letra de los estatutos, solo tiene atribuciones para ser “una oficina central de correspondencia, de estadística para las federaciones y las secciones de todos los países, pero no un gobierno o un poder que tenga derecho a decretar cualquier cosa”.  
+Bakunin, veía una doble misión en los “nuclei”, por un lado, formar “el alma inspiradora y vivificante de ese inmenso cuerpo que es la [AIT](https://es.wikipedia.org/wiki/Primera_Internacional) dentro de Italia y fuera de Italia ocuparse de las cuestiones que es ‘imposible tratar públicamente”. O sea, que el mismo sujeto, que desechaba todo sentido de autoridad dentro de la organización, ahora proponía a un selecto grupo, a los mejores para las acciones ilegales, “ya que en este tipo de organizaciones, no es la cantidad, sino la calidad lo que hay que buscar”. Es para resaltar que la institución de los “nuclei” aparece treinta años más tarde en el sistema celular que propone Lenin en “Qué hacer” (1902) y con mayor precisión en “Un paso adelante, dos hacia atrás”(1903).  
+Este desarrollo un siglo después, en forma mucho más exacerbada se expresa en Sudamérica, en la República Argentina, cuando el PRT, como organización propiciadora del “foco revolucionario”, construyó su organización secreta sobre un conjunto de organizaciones legales, con límites difusos provenientes del PST y residuales de los III y IV Congreso del antiguo PRT todavía en la legalidad. Lo exacerbado radica en que las condiciones y las contradicciones latinoamericanas de los años ’70 eran de una naturaleza muy distinta. Este ejemplo, exhibe de una manera más cercana, aquellas posiciones de Bakunin, entre una organización marco, inscripta en la legalidad y la asociación secreta, subsumida en ella, que tiene un largo trayecto a partir de los revolucionarios rusos posteriores a la segunda mitad del siglo XIX.
+
+> Lenin mismo fue un maestro, tal vez, el más prestigioso, por el hecho de haber participado en la conducción de una revolución triunfante.
+
+La combinación de organización abierta con “secreta”, es un fenómeno que desde las revoluciones burguesas a ésta parte, tanto las escasas revoluciones triunfantes, como la gran cantidad de intentos fracasados, la asociación secreta siempre ha cumplido un rol necesario. De todas maneras, los métodos jacobinos de conspiración están más relacionados con las revoluciones burguesas, que a esta etapa del desarrollo de la lucha anti-imperialista mundial. El comentario viene a cuento, de que aún al día de hoy, muchas organizaciones marxistas, trotskistas, en realidad, que se sienten traicionadas, cuando se les plantea desde adentro, la acción directa como método central y lo dicen desde un furibundo apego a la legalidad del mercado político y sindical.  
+Mi personal opinión, insisto personal, o sea sujeta a estado de Asamblea, es la siguiente: A este modo de producción yo no convalido, por ende, tampoco a sus instituciones político-sociales, que le sirven de cobertura y por tanto, desde las libertades individuales mismas, tengo derecho a decir que no. El siguiente paso, para afirmar mi identidad es organizar el “no”. Dada la esencia represiva del estado defensor de la propiedad privada, en nombre de la cuota parte de estado –de acuerdo a sus propios estatutos- los agrupados en su negación tenemos derecho a pelear por nuestra manera de asociatividad. Aquí estriba la legitimidad de la deslealtad hacía el conjunto de la legalidad. Lógicamente hay una amplia gradación de deslealtades. Desde esta justificación la ‘acción directa’ tiene la vía expedita para confrontar contra el estado, ocupando el espacio público, violando la propiedad privada, etc. Si el nivel represivo aumenta el voltaje, el paso siguiente es el de la conformación de “grupos de autodefensa”, cuya legitimidad se apoya en resoluciones asamblearias, son respuestas más viejas que cualquier andamiaje legal. Hasta acá, no digo nada nuevo, ya que la organización de autodefensas está señalada en el programa de transición de la IV internacional.  
+Ahora, que podríamos decir, para fecharlo, después de la primera guerra inter-imperialista, el capitalismo en su descomposición se sustenta en el fascismo, como norma para sostener las “instituciones republicanas”, y cuando la forma fascista se afirma, de las autodefensas pasamos a “las formaciones especiales”, siempre resueltas en asambleas sindicales, donde no están exentas las posiciones de partido, aunque con algún grado de controversia, lo deseable es que las formaciones estén sujetas a los proyectos partidarios, acotando el espontaneismo a la mínima expresión, teniendo siempre presente que la movilización es el arma superior. En este punto, las controversias suelen suscitarse entre los intereses de las distintas fracciones políticas. Es necesario anotar, que el uso de la fuerza es un método del enemigo, nosotros apuntamos hacia la racionalidad de las relaciones sociales y en caso de tener que usarla, como recurso último, siempre preferimos la violencia contra la propiedad, a la inversa de la violencia de ellos, que eligen la violencia contra las personas, ya que en su concepto, las personas valen menos que la propiedad. Esta discusión, a veces de difícil resolución verbal, ya que nunca faltan aquellas impaciencias, que en un momento dado pasan, de las armas de crítica, a la crítica de las armas. Acá, esta consideración abstracta debe refrendarse en la situación concreta.
+
+Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon. Marx y Proudhon.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,0 +1,50 @@
+---
+title: "Libertad y espacio El retroceso de la libertad — José Gabriel Barrenechea"
+date: "2021-01-12T10:30:00+00:00"
+author: "José Gabriel Barrenechea"
+category: "Teoría"
+image: "/wp-content/uploads/2021/01/Lido-Rico-Stretching-faces.jpg"
+---
+Coincido con quienes se preocupan por la actual tendencia al retroceso de las libertades individuales, concomitante con el exponencial aumento de las regulaciones sociales a nuestras vidas. O con quienes pierden el sosiego con las para mí apocalípticas predicciones de gente como Zizek, sobre estar ante un inminente [Comunismo Global tras la Pandemia](https://ctxt.es/es/20200302/Firmas/31388/Slavoj-Zizek-coronavirus-comunismo-capitalismo-globalizacion-economia.htm). Solo que no me agradan como correligionarios algunos de los que dicen preocuparse conmigo, porque en esencia no creo que en realidad se preocupen por lo mismo que yo.
+
+Lo primero que me diferencia de ellos es que entiendo, en mi caso, las razones materiales de ese retroceso, mientras los tales las creen el resultado de conspiraciones de gente muy malvada. De alguna conspiración judeo-masónica-liberal-comunista-mejicana-pederasta…
+
+A diferencia de esos, para mí aburridos “compañeros de viaje” que dicen preocuparse conmigo, no imagino vivir en un mundo maniqueo, en el que la diferencia entre el blanco y el negro es total y sin grados intermedios. O en el que hay buenos, nosotros, y malos, ellos.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/libertades-y-derechos-expresion-e-informacion/
+
+En última instancia, lo que me separa de ellos, de esa Novísima Derecha, es que no me creo que en realidad los mencionados personajes, en apariencia tan afines a mí, sean verdaderos defensores de la libertad. Porque no me cabe en la cabeza que nadie que no parta de una posición de un escepticismo llamémoslo saludable (que no impide la acción), alguien que no esté absolutamente convencido de su falibilidad constitutiva, pueda ser un verdadero defensor de la libertad. Por el contrario, todo aquel quien se crea poseedor absoluto de la Verdad, así, con mayúscula, o en relación privilegiada con su dueño, si no es un egoísta que aspira a conservar lo bueno solo para él, intentará necesariamente imponérsela al otro. 
+
+El retroceso de las libertades individuales, el cada vez mayor control social sobre nuestras vidas, tienen como causa el que hemos alcanzado los límites del planeta para albergar humanos al nivel de vida promedio contemporáneo. Como en cualquier apartamento abarrotado, en consecuencia, se imponen cada vez más y más regulaciones de convivencia. Las cuales no estaban, por innecesarias, cuando nuestros ancestros se expandían aún por un planeta con grandes áreas sin ocupar, salvo en esas aglomeraciones en las cuales la civilización había conseguido prender, o cuando la magnitud de la huella humana andaba muy lejos de ser suficiente para alterar los equilibrios del sistema superficial planetario.
+
+En esta situación presente de abarrotamiento humano, creer que basta con la voluntad de ser libre para mantener la misma libertad que en ciertas zonas de frontera de siglos pasados, como en las de los Estados Unidos en expansión, es irrealista. En ese país, por ejemplo, incluso de la mano de los republicanos las regulaciones de convivencia han aumentado tanto que ya no se puede hacer libremente ni una cuarta parte de lo que antes se hacía en lugares como el Texas de mediados del siglo XIX.
+
+Esto, repito, no es el resultado de la maldad de las burocracias gubernamentales, ni mucho menos la de algunas élites globalistas, adictas a los cultos satánicos y a hacer gárgaras con sangre de niños recién nacidos. Es mas bien la consecuencia de un hecho concreto: hemos alcanzado los límites del planeta para albergar gente en él.
+
+El asunto está en que, en tal situación, la extrema proximidad implica la necesidad de regulaciones de convivencia. Si la primera aumenta, se multiplicarán de manera exponencial las segundas. Porque no nos engañemos: la libertad es un asunto de distancia, de privacidad, de espacio mínimo para vivir rodeado de gente.
+
+La realidad es que de mantenernos encajonados en este planeta, sin buscar la manera de facilitar que los excedentes humanos, por encima de los límites concretos de La Tierra, tengan a dónde expandirse, la situación de la falta de libertades individuales y de exceso de regulaciones sociales solo podrá empeorar con el tiempo. Al punto de obligar a una de estas dos decisiones: o regular férreamente la natalidad, o el consumo, e incluso a partir de cierto punto, a hacerlo a la vez con ambos (más allá habría que echar mano a poner límites estrictos al número de años que a los humanos la sociedad les permitiría vivir).
+
+Por tanto, la solución obvia no pasa por intentar mantener a pura fuerza de voluntad la vieja libertad de nuestros ancestros, cuando en el planeta no vivían ni la quinta parte de los humanos de hoy (antes de 1920), quienes a su vez en promedio consumían solo una fracción que lo que el hombre contemporáneo. La solución no pasa por encasquetarse una gorra colorada y seguir fanáticamente al primer energúmeno que prometa hacernos volver a un pasado sin lugar a dudas más libre. Como en todo lo humano, la única solución a los atolladeros que nos crea la vida civilizada es escapar hacia adelante, hacia el futuro. O lo que es lo mismo, emprender la conquista y colonización de nuestros alrededores cósmicos.
+
+Lo cual implica políticas públicas en que se destine a la realización de ese cometido un elevado porciento del PIB nacional y global. Por lo tanto un en apariencias paradójico inicial reforzamiento de lo central si es que queremos crear a largo plazo las condiciones para un posterior auge de lo individual, con el surgimiento de las posibilidades tecnológicas para tener acceso a una nueva última frontera. Algo que hace ya mucho le falta a la humanidad, y sin lo cual la libertad humana se marchita, y muere.
+
+Debo aclarar que incluso así ya nunca más en el planeta Tierra, lugar de nacimiento de la civilización humana, se volverán a disfrutar los niveles de libertad de que disfrutaron los que habitaron en la Última Frontera Humana, cuando esta se desplazaba lentamente sobre sus continentes, islas, océanos y mares. Quien desee vivir tan o más libre que sus míticos ancestros, quienes exploraron y colonizaron este planeta, deberá mudarse a la Nueva Frontera, ahora tridimensional y más allá de la atmósfera terrestre. A la Luna, a Marte, a las estaciones mineras… o a las expediciones de exploración y colonización del sistema solar, y luego del espacio exterior profundo.
+
+La Tierra será para entones como las regiones superpobladas de Europa en el siglo XIX, de las que escapaban a los Estados Unidos, Canadá o Australia quienes deseaban libertad. Y en que la llama de esta, incluso en medio de las regulaciones de convivencia, se mantenía en dichas regiones superpobladas por el ejemplo de la vida libre que los niños y jóvenes escuchaban o leían llevar a los habitantes de la Última Frontera. 
+
+(¿Deseamos revivir en la presente circunstancia los valores de la libertad entre las nuevas generaciones? Démosles el ejemplo real, no ficcional, de un nuevo hombre de frontera: el explorador y colonizador espacial).
+
+Un último punto: el que los humanos se desplacen a colonizar, a humanizar, nuevos medios, es quizás también la solución a los desafíos que para el empleo trae la revolución tecnológica de la Inteligencia Artificial. En una humanidad en expansión hacia nuevas circunstancias ambientales, cada vez más y más distantes de la experiencia humana sobre la que se ha construido nuestra cultura, la creatividad humana, que nunca las máquinas construidas sobre esa cultura y por más “inteligentes” que llegue a ser reemplazarán, estará en su nivel de demanda más alto nunca visto.
+
+Expandíos, multiplicaos, enfrentad siempre nuevos desafíos. He ahí la naturaleza material de la libertad humana.
+
+## Autor
+
+-   ![](/wp-content/uploads/2021/02/barrenechea.jpg)
+    
+    ![](/wp-content/uploads/2021/02/barrenechea.jpg)
+    
+    [José Gabriel Barrenechea](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-gabriel-barrenechea/)
+    
+    Científico, escritor y activista

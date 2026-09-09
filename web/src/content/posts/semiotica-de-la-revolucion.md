@@ -1,0 +1,60 @@
+---
+title: "semiótica de la Revolución La Trinchera Fernando Almeyda Rodríguez"
+date: "2018-01-22T22:18:10+00:00"
+author: "Fernando Almeyda Rodríguez"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2018/01/Scarlet-Oak-.jpg"
+---
+Desde hace algún tiempo suelo preguntarme por el alcance de la palabra Revolución. Pese a que la escucho repetidamente, no estoy seguro de que en todos los casos aluda a lo mismo. He llegado a sospechar que nadie sabe –o no quiere saber- de qué está hablando.
+
+\-Viva la revolución; gracias a la revolución; por la revolución; ser fieles a la revolución…revolucionario, contrarrevolucionario, revolucionariamente- a fin de cuentas ¿de qué se habla? Al parecer de nada concreto. A lo largo de casi sesenta años ha escalado en los imaginarios de la nación y se ha convertido en algo similar al “Ser”.
+
+Esta idea de abstracción inmensa está detrás de los entes y los relatos de la vida de un cubano. Esta figura ontológica resulta en muchos puntos semejante a cómo entendía este término la filosofía clásica; la sustancia primigenia donde se justifican y sostienen todos los espíritus cotidianos de la llamada y mal comprendida cubanidad; el principio de identidad detrás de la “identidad cultural”; el centro del sentido lógico, moral y epistemológico.
+
+Más allá de toda temporalidad, es reflejada como el tiempo mismo. La historicidad de la Revolución es en este sentido a-histórica. Los acontecimientos se validan en el espacio-tiempo a través de esta “sustancia inmutable”.
+
+Todas estas referencias que hacen a la Revolución una abstracción inmensa mantienen una presencia fragmentaria en el lenguaje. De por sí, lo que convierte “revolución” en una categoría-fundamento está dado más bien en estructuras conductuales. Mas no se trata de meros hábitos o costumbres, sino de [_ritos_](https://es.wikipedia.org/wiki/Rito).
+
+No escapará a ningún cubano que existe una ritualidad diferente de las tradiciones religiosas comunes. Han subsistido pese al deterioro de las instituciones públicas las reuniones, los matutinos, los murales, las marchas, las listas, los carnets, las guardias y los trabajos voluntarios. Junto a estas actividades figuran un sinnúmero de otras cuya trascendencia a los fines de la administración o la producción traspasa lo irrelevante. Esto resulta en que el sentido de que estas acciones trasciende la dimensión material. Su fundamento no es económico, administrativo, ni exactamente político… es “revolucionario”.
+
+Revolución adquiere de esta forma una connotación más espiritual: ya no se trata sólo de esencia y fundamento, sino de algo “sagrado”- hay algo “religioso” en estas prácticas. Desde el discurso al acto, lo importante es que se efectúen. Este formalismo, es un pensamiento orientado a una ritualidad sagrada.
+
+Esta idea puede confirmarse a través de la ola de referencias cuasi-divinas, esotéricas y paranormales que han sido atribuidas al líder histórico de la Revolución después de su muerte. Esta reacción constatable en los medios cubanos fundamentalmente tiene muchos trasfondos y otras interpretaciones, pero sirve a modo de ejemplificación de la naturaleza ritual y mitológica de nuestra “vida revolucionaria”.
+
+_Rito_ y _mito_ son figuras que se retroalimentan, no existe uno sin el otro. Desde el momento en que se pierde la dimensión material del mito, este muere en la cotidianidad; si ocurre una muerte simbólica, la costumbre paulatinamente muta y se extingue. Ambas figuras están detrás de casi toda construcción de la identidad de un pueblo. En este sentido, no parece desacertado decir que la revolución es el máximo mito fundacional de Cuba, lo cual resulta curioso pues es el último.
+
+No es preciso buscar una rebuscada explicación a este curioso hecho; las respuestas están a simple vista: la consolidación de la nación como meta-discurso y como identidad está dado por y a través de la Revolución. Ahora bien, esta forma de apropiación de lo nacional es todavía endeble desde muchos puntos. Para empezar su fuerte tendencia expansiva y omnicomprensiva ha dado al traste en la inamovilidad del mito y del rito. Esta inamovilidad es también una mera ritualidad, es marxistamente hablando una negación de la dialéctica y por ende es ideología.
+
+A nivel de lenguaje, la Revolución aparece como una mano inmensa que quiere acaparar todo entre sus dedos; todo lo que no consiga atrapar lo rechaza; lo excomulga del lenguaje cada vez con más agresividad, con más ceguera, con mayor enfermedad. Nos entregamos dulcemente al sueño de lo posible negando todo cuestionamiento a lo que sentimos como nuestra identidad particular. Esto tiene como consecuencia una visión maniquea del mundo: bueno-malo, correcto-incorrecto, justo-injusto, lógico-ilógico, y así sucesivamente; todas equivalen a “Ser-revolución” o “no-Ser-revolución”. En este sentido, promotores y detractores son partícipes de la perpetuación del mito.
+
+Muchos ven este fenómeno de forma positiva. Este resguardo mental y cultural es un hechizo contra todo fenómeno posmoderno, siendo la envidia de no pocos sufridos de la “modernidad líquida”. Por otra parte, me cuestiono qué de positivo puede tener el aislamiento psicológico del mundo. Negamos algo que no solo existe, sino que se expande; este estado de confort en el que vivimos como pueblo es sólo cultivable en forma de neurosis; una negación de la materialidad del mundo y su movimiento. Materialidad que se hace patente cada vez que una empresa cubana termina en suspensión de pagos, cuando nuestros profesionales ignoran las nuevas tecnologías; cada vez que en la academia un profesor benemérito expone elocuentes teorías decimonónicas como si fuesen actuales, o simplemente cada vez que un cubano toma un avión para abandonar su neurótica realidad.
+
+Lo que antaño fue nuestra encomiable resistencia frente al mundo se ha convertido en una agresiva neurosis, cada vez más cerca de la psicosis. Lo que nos va quedando de nuestra revolución de papel de periódico Granma, es un estado mentalmente enfermo donde la realidad es lo que queremos que sea. Los que no piensan igual son callados o forzados delicadamente a abandonar su impronta (material o espiritualmente), el resto se enajena en su propia burbuja, la mayoría parece autocomplacerce en un saco de irracionalismos cada vez más religiosos, cada vez menos ilustrados o virtuosos. ¿Qué ilustración y virtud puede quedar a aquellos incapaces de mirarse tal cual son?
+
+En buena medida la Revolución es más que un meta-relato: es el lenguaje del poder. El ejercicio de la autoridad está aferrado a evitar que se piense, o más bien, que se exprese cualquier pensamiento fuera del propio lenguaje de la revolución, fuera de toda voz del poder. Mas no nos imaginemos que esto es responsabilidad de un puñado de hombres huraños e ignorantes; en realidad es responsabilidad de todos, pues cada uno de nosotros cubanos tenemos un poco de complicidad respecto a esta forma de asumir (o negar) la objetividad de la realidad.
+
+Nuestro mayor problema radica en que existe una confusión entre la noción de gobierno, nación y cultura: sin una separación clara cada vez que se piensa se corre el peligro de criticar nuestra identidad. Se vuelve casi imposible criticar a este poder sin agredir de alguna forma a la nación y la cultura propias; la autocensura es entonces mucho mayor y más fácil de suscitar.
+
+Por otra parte, afirmar “la Nación” termina siendo equivalente a afirmar “la Revolución”; los símbolos de la nación son a su vez los símbolos de la Revolución. Hablar de Nación, por tanto, es un ejercicio de afirmar el “Ser-revolución”, una manifestación ideológica que cada día crece en su connotación neurótica. Este es un marco tan omnicompresivo como estrecho y excluyente. La crítica queda tan desterrada como los que la ejercen de modo preciso. La censura no es tanto dada por un mecanismo de coacción como por la conciencia de culpa.
+
+Nuestra vida transcurre sobre una inmensa zona gris donde van a parar todas aquellas ideas que puedan agredir de alguna manera al mito fundacional. Este es un espacio donde las fronteras de las cosas se desdibujan hasta quedar irreconocibles, y nuestras consciencias se hacen irreconciliables con nuestra existencia material. Los problemas se resumen a un sintagma: “la cosa está mala”… _la cosa_ es demasiado abstracta, así que no se pueden resolver problemas concretos abstractamente; hasta donde sé, ni los filósofos han tenido mucho éxito.
+
+Por tanto, la Revolución en tanto lenguaje, está únicamente destinada a la abstracción y al ensalzamiento, no a la crítica; se hace imposible que pueda pensarse fuera de sus límites pero a su vez no puede criticarse sin ocupar una posición opuesta al discurso de la nación y de la identidad cultural. Las cuestiones negativas se vuelven inefables. Es de por sí una “neolengua” al estilo “1984”, donde los ritos y los mitos se perpetúan en medio del silencio y el tedio.
+
+Esto es, por tanto, lo que está ocurriendo mientras aludimos a “revolución”: sea positiva o negativamente terminamos por cultivar una mitología, una estructura hermosamente ontológica. Un cúmulo de inmortales y neuróticas virtudes; un sueño, del que no queremos despertarnos. Esta es una impronta hace tiempo grabada en nuestras mentes y corazones, y es por tanto imborrable.
+
+No obstante, creo que podemos sentirnos dichosos por muchas razones, pues las bonanzas a nuestra cubanidad e identidad han sido relevantes; de hecho es su innegable presencia y arraigo lo que debería tranquilizar nuestras consciencias, en tanto la crítica nunca podría destruir la historia, pero podría allanar nuestro futuro. En este sentido, podemos ser optimistas pues nuestra patología no es crónica, al menos no todavía. Es preciso pues dedicarnos a superarla, y el primer paso comienza por conocer y entender el mal que nos aqueja. Lanzo una invitación a pensar, a nombrar, a explorar, a conocer, pues…_“la verdad os hará libres”_ (Juan, 8:32)…libres de nosotros mismos.
+
+[Versión en Inglés](/politics-in-cuba/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,0 +1,33 @@
+---
+title: "critica sueños al pairo"
+date: "2020-03-07T18:23:04+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/03/IMG_20200307_131953_162.jpg"
+---
+Giordan Rodríguez critica _Sueños al Pairo_ desde su óptica de realizador.
+
+**Por: Giordan Rodríguez Milanés**  
+_Sueños al Pairo_, no me gusta, definitivamente.  
+Tantas personas inteligentes y sabias que dicen es un buen documental, me han hecho verlo tres veces mas.  
+Sigue sin gustarme.  
+Se le ven las costuras. Yo le veo las costuras.  
+Es cierto que el tema posee una contundencia dramática en si mismo, que conmueve la historia de Porcel y el modo en que se presenta desde lo emocional. Pero, de las tantas maneras y enfoques como realizadores hay de hacer un documental, yo prefiero aquellos que hurgan más allá de lo apriorístico, que no se conforman con mostrarnos lo evidente y, ya sea con imágenes o con el montaje, logran sacudirme alguna certeza o, por lo menos, demostrarme una tesis cualquiera.  
+Cuando vi [_Bolos en Columbine_](https://medioporescribir.wordpress.com/2012/07/28/analisis-de-documental-bowling-for-columbine/), de Michel Moore, por ejemplo, además de que me conmovió la muerte de los niños en la secundaria, pude entender el fenómeno, establecer causas, comprender el hecho y su contexto. Ese, para mi, es un buen documental. O la serie _La Guerra Fría_, de la CNN que, aun respondiendo a una postura ideológica, como toda obra audiovisual, logra que uno se acerque al fenómeno desde los dos polos de la confrontación.  
+[_Sueños al Pairo_](/politica-en-cuba/) evade dar, al menos, pautas para que uno se responda la pregunta con la que todo realizador honrado conecta con el espectador (no digo que estos chicos no sean honrados, digo que no me mostraron con este documental que lo sean), y esa pregunta es: **¿Por qué?** **“Por qué”** para entender, para explicar, no para justificar. Tratar de reducir el **Por qué** a que Mike Porcel era _el mejor compositor de su generación_ y a que los demás le tenían tirria es, aparte de infantil, irresponsable. Soslayar el **Por qué** se producen los actos de repudio, y **Por qué** miles de cubanos participaron y otros miles se le opusieron, se resistieron o se negaron a participar en ellos -sin justificarlos, insisto-, da una imagen sesgada y altamente prejuiciada, ya no de la Revolución, si no de Cuba. Y uno como realizador debe saber -o al menos cuestionarse, si es que se quedó dormido en la clase de Historia-, que este país es mucho mas -era mucho mas, incluso, en 1980-,que el griterio, los huevos tirados y las cartas de condena. Uno como realizador debería saber que el _Movimiento de la Nueva Trova_ es mucho mas que una carta airada y probablemente injusta contra un compañero. Y digo probablemente injusta, la carta, porque cuando veo a Mike Porcel, ayer, hacer declaraciones para Radio Martí o bailar la arritmia del canal 41 -aunque comprenda que es el resultado del enquistamiento de su legítimo dolor-, la verdad ya no siento la empatía que el documental inicialmente me produjo con su drama, y no puedo dejar de preguntarme si aquel indignante calificativo de apostasía con el uso de la letra de _El Maestro_, acaso no la ha convertido él -y nadie más que él- en una profecía.  
+No juzgo, aprecio como espectador.
+
+![](/wp-content/uploads/2020/03/suenos-al-pairo-critica-portada.jpg)El montaje del documental es reiterativo y lineal, como la respuesta de un pionero de primaria cuando lo entrevistan para el NTV acerca de su participación en un acto político. Apuesta a la contundencia emocional de unas imágenes no vistas en Cuba -posiblemente tampoco en el mundo- y al tono lastimoso -impostado, que con 20 años en la radio, uno aprende lo que es un tono impostado-, del sujeto narrador. Y luego está esa _joyita_ anti ética de apagarle la cámara a Pedro Luis Ferrer, o el guiño que hace a que lograron engañar a los entrevistados, cuando ponen a José María y a Frank Fernández sugiriendo que _se trata de hablar de la obra de Porcel_. Pero no se trata, evidentemente, de hablar de la obra de Porcel, ni siquiera de reivindicar su dignidad ante las nuevas generaciones que lo desconocen. Se trata, para mi, de mas de lo mismo, o peor.  
+Ah, y me sigue pareciendo una inconmensurable estupidez que lo hayan censurado o, ¿Acaso que se hiciera viral era precisamente lo que querían los censores?
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

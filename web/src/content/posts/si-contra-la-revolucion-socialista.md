@@ -1,0 +1,115 @@
+---
+title: "Constitución"
+date: "2019-02-27T10:00:00+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/02/PicsArt_02-27-04.51.36.jpg"
+---
+Constitución. 
+
+**Por: Roberto Cobas Avivar**
+
+“_Poner fin a la explotación del hombre por el hombre”:_  
+_“… inspirados en la historia de la humanidad y en los más preclaros teóricos y promotores de un sistema socialista de producción y distribución de las riquezas, el único capaz de crear una sociedad verdaderamente justa y humana: Marx, Engels y más tarde Lenin”_
+
+– Fidel
+
+La nueva Constitución de la República de Cuba que acaba de ser aprobada en el referendo nacional del 24 de febrero de 2019 optó por la decisión de la comisión central que la reescribe, nominada por el PCC, de eliminar el principio que distingue la propiedad socializada sobre el capital, aquella que se da fundamentalmente bajo formas de trabajo cooperativo, como el pilar del modo de producción socialista. Justamente la idea madura sobre lo que Lenin, imbuido por el pensamiento revolucionario de Marx y Engels y la propia práctica revolucionaria en que enfrascan, llega a conceptuar como socialismo.
+
+El PCC, la UJC, la FEU y el resto de las organizaciones políticas y de masas se entregaron con fe religiosa a la campaña por el SÍ en el referendo constitucional. “La campaña estatal por el SÍ ha gozado de un despliegue descomunal, con uso de todos los recursos estatales. Mientras, la opción por el “no” ha sido condenada oficialmente como un acto contrario a “votar por la patria”. Con ello, la práctica en torno al referendo desvía la posibilidad de “acceder al espacio público como espacio de deliberación”, reconocida en constituciones tratadas como referentes del nuevo texto cubano ”\[1\].
+
+Al pueblo de Cuba, le decimos desde el pensamiento crítico revolucionario marxiano, leninista y fidelista que se ha votado por la opción contrarrevolucionaria. Votando por el SÍ se ha dado por socialista el orden neo capitalista que en su letra y espíritu refrenda la nueva Constitución.
+
+No hay revolución socialista sin ir a las raíces
+
+La revolución socialista es el arrojo democrático de cambiar de raíz el carácter del modo capitalista de producción material y reproducción social . El socialismo soportado en relaciones sociales de producción capitalistas nunca ha existido, y nunca existirá. Esto es esencial para entender el significado de la revolución socialista y toda la esencia de la idea de Marx y Lenin sobre el cambio del modo de producción e intercambio capitalista, asumida como el criterio raigal del camino socialista.
+
+La gestación de la revolución socialista no puede durar mas de los “9 meses” porque entonces la era no parirá el corazón. Dará a luz una criatura atrofiada, pasada de tiempo, inhabilitada para poder crecer con fuerza transformadora. El pueblo se hará verdaderamente revolucionario en la medida que asimile en qué consiste el auténtico parto. El parto de una nueva cultura de las relaciones sociales y económicas se gesta en la transformación perseverante del sistema de relaciones socioeconómicas del modo de producción e intercambio capitalista. Quitarle la “r” a la R -evolución para verla sosobrar en el interregno político del neocapitalismo de estado es el claro llamado a la contrarrevolución que hace el pensamiento adherido al viejo orden cultural burgués.
+
+Con el inicio de la revolución popular-nacionalista en 1959, las relaciones sociales del modo de producción e intercambio en Cuba pasaron del capitalismo puro y duro de la anti república prerevolucionaria a convertirse en ariete de un neocapitalismo de estado que sería institucionalizado con la Constitución de 1976. La propiedad privada del capital pasaría a ser propiedad estatal. El trabajo asalariado continuaría siendo la piedra angular del sistema de relaciones socioeconómicas de la nueva forma de organizar el capitalismo ahora de estado. La revolución social usurparía la idea de la revolución socialista. El socialismo vulgar se tornaría bandera ideológica, pues la Revolución le daría todo al pueblo. El valor del trabajo enajenado por las relaciones asalariadas sería concentrado bajo la práctica de la acumulación estatal de capital y empeñado en la redistribución del pan y los peces, todo lo que se tornaría símbolo de “socialismo”. El modo de producción seguiría siendo en esencia, el de la explotación del trabajo alienado. La nueva cualidad socialista en las relaciones sociales de producción e intercambio se ajusticia. Esa ha sido toda la historia de la bancarrota de los procesos socialistas europeos y asiáticos instalados después de la II GM. Hoy todos y cada uno, después de decenios en el embarazo de la revolución socialista, se entregan con pasión digna de mejores causas a la transformación capitalista.
+
+El debate al que llamó el PCC y al que respondió el pueblo sobre la reforma constitucional no fue conducido hacia las raíces de la cosa, hacia la esencia que habría de pautar y desencadenar la revolución socialista: la radical transformación del modo de producción neocapitalista alimentado en Cuba desde 1959. Superar el interregno político del neocapitalismo de estado significa ir hacia el cambio de paradigma de la acumulación de capital. La propiedad privada sobre el capital crea acumulación privada, la propiedad social crea acumulación social de capital y con ello el fundamento materialista de la democracia socialista. La propiedad estatal no crea acumulación social de capital. Estee es el horizonte del cambio cualitativo a la luz del materialismo dialéctico.
+
+El modelo neocapitalista de estado cubano presa de insuperables antagonismos internos implosiona y es el propio Líder de la Revolución quien declara que “ya no le sirve ni a los cubanos” (declaración para la revista The Atlantic, 2010). Sin embargo, la salida no es objeto de un debate revolucionario por el socialismo. La pauta a seguir queda planteada en términos del pensamiento socialdemocráta anti socialista.
+
+La única salida estaría –declara Fidel en un discurso que deviene histórico por significar un parteaguas en la visión del revolucionario– en distribuir con justicia las riquezas que la tecnología es cada vez más capaz de producir en abundancia. Se refiere, no puede haber dudas, a la abundancia capitalista, no a la visión marxiana sobre la abundancia comunista. Nada avala científicamente el parecer del Líder de la Revolución. El salto exponencial tecnológico capitalista de los últimos 100 años no ha detenido la expropiación y concentración progresiva del capital. No puede hacerlo bajo relaciones sociales de producción capitalistas.
+
+La desafortunada idea sobre el panaceum de la redistribución social del producto, sin el cambio de łas relaciones sociales de producción de estirpe capitalistas, Marx la ha conceptuado como socialismo vulgar en su profunda crítica al programa del partido obrero alemán, ya hace más de un siglo:
+
+“El socialismo vulgar -y por intermedio suyo una parte de la socialdemocracia- ha aprendido de los economistas burgueses a considerar y a tratar la distribución como algo independiente del modo de producción, y por tanto, a exponer el socialismo como una doctrina que gira principalmente en torno a la distribución. Una vez que está dilucidada la verdadera relación de las cosas, ¿por qué volver atrás?”.
+
+No existe otro camino hacia el socialismo que el de la transformación de las relaciones sociales del actual modo de producción neocapitalista cubano hacia el de relaciones sociales de producción e intercambio democráticas.
+
+Las relaciones sociales de producción e intercambio que asumen el trabajo asalariado constituyen el vehículo por excelencia para la expropiación del valor del trabajo por los detentadores del capital, sean estos sujetos privados o estatales. Son estas relaciones socioeconómicas de desigualdad las que hacen posible y fomentan la explotación del hombre por el hombre, sobre la cual se erige todo el constructo del estado capitalista y la democracia burguesa. La Revolución Socialista es una falsedad ideológica si se atiene al reformismo neocapitalista. La Revolución Socialista plantea el reto de la forja de una cultura humanista de las relaciones sociales del modo de producción material, en tanto base de la reproducción social de la existencia como individuos, familias, comunidades y sociedad.
+
+Emprender la transformación cultural de las relaciones sociales de producción e intercambio continúa siendo para el proyecto socialista cubano el rubicón a traspasar. Ello implica la redefinición de la democracia y su asunción como el camino socialista. N o puede hablarse de socialismo donde la democracia no es la piedra angular de la transformación de las relaciones sociales de producción.
+
+La nueva Constitución niega la fuente de la democracia socialista al no reconocer que la misma está en la emancipación del trabajo.
+
+El trabajo de productores sin mediación de la relación asalariada del trabajo, libremente asociados en entidades económicas democráticas, solidarias, autónomas y autosustentables, tales como las que se conforman bajo los principios del cooperativismo en las empresas sociales, constituye la apuesta revolucionaria por la transformación cultural del modo de producción e intercambio en que ha de soportarse la revolución socialista.
+
+Toda vez que asumimos el socialismo no como fin, sino como el camino hacia el comunismo, la sociedad productora cooperativa es la llamada a crear la cultura de la no-propiedad como el valor socialista fundacional de las relaciones sociales del modo de producción material y reproducción social en la visión comunista.
+
+La nueva Constitución, sin embargo, se ha cuidado de no plantear la transformación integral del modo de producción e intercambio como la premisa básica de la revolución socialista. El pensamiento único regimentado por el PCC responde con la promoción de un cambio constitucional de naturaleza anti socialista.
+
+La transformación del “sistema de propiedad” que se está operando en Cuba ha planteado la idea de la apropiación y la propiedad privada del capital como la idea sustentadora del orden soicoeconómico que habrá de regir las relaciones sociales de producción. Ello queda planteado en dos proyecciones: uno, directamente, dando luz verde a la apropiación privada del capital en manos de propietarios privados; dos, indirectamente, haciendo dispositores del capital estatal a un estamento político con poder de gestión capitalista.
+
+No es fortuito que el eje del reformismo (asumido como “actualización del modelo económico”) que ahora sanciona la nueva Constitución propuesta, se haya establecido con desenfado en la reforma laboral coadyuvante. La naturaleza capitalista de la misma se da en un concepto que expresa toda la esencia del modo y las relaciones sociales de producción capitalistas. La figura capitalista-burguesa del EMPLEADOR. Si los Lineamientos de Política Económica y Social (LPES) con los que se emprende la “actualización del modelo económico” establecen la figura del EMPRESARIO en calidad de manager capitalista como eje del sistema empresarial, la figura del EMPLEADOR viene a enmarcar el carácter ideológico de las relaciones sociales de producción que van a mediar el mundo del trabajo de los cubanos. El “empleador” lo es por el poder decisorio que de facto tiene sobre el capital, privado o estatal. El “empleador” alquila la fuerza de trabajo por un salario. El trabajador queda en una relación de dependencia absoluta de los dueños y/o gestores del capital, puesto que es reducido a mano de obra asalariada. El trabajador desaparece como sujeto revolucionario para convertirse en objeto del poder del capital. La premisa fundacional de la democracia mediada por el carácter social del capital es anulada. La negación de la idea de la economía socialista viene a situarse en el ojo de la “actualización del modelo económico” neocapitalista que legitimiza la nueva Constitución.
+
+La relación asalariada del trabajo seguirá siendo el factor de explotación del trabajador y alienación del trabajo en Cuba . Lo que refrenda la nueva Constitución es la institucionalización de relaciones sociales capitalistas de producción por encima de las formas de apropiación social y gestión democrática del capital. Con ello l a alimentación de la sociedad clasista es un hecho objetivo. Con la luz verde indiscriminada a la apropiación privada capitalista se sienta el fundamento materialista para el desarrollo de una clase propietaria burguesa. Eso han estado esperando con ansiedad catártica los enemigos del socialismo.
+
+Se institucionaliza la contrarrevolución de un modo de producción, cuyas relaciones sociales son dadas a la explotación del que genera el capital por el sujeto que se apropia del mismo. La negación de esta relación de explotación puede darse solamente con apego a relaciones socioeconómicas que conformen la esencia socialista del modo de producción.
+
+Se trata de la idea-fuerza y el marco del modo de producción que ha de definir el fundamento democrático del estado socialista, superando la naturaleza neocapitalista que hoy lo determina y se legitimiza con la nueva Constitución. Hablamos de los condicionamientos socioeconómicos sistémicos que pueden conformar la naturaleza del modo de producción socialista:
+
+La eliminación de la explotación del hombre por el hombre como condición primera de la emancipación del trabajo, la libertad del individuo y la igualdad social.
+
+La aprobación de la nueva Constitución en referendo apunta a un estado de inconciencia política del pueblo cubano sobre las esencias fundacionales del socialismo. Ese debate ha sido conculcado por la dirección política de la Revolución desde los orígenes hasta hoy, cuando se escribe y aprueba la nueva Constitución. El debate revolucionario por el socialismo en Cuba ha sido mediatizado. Se ha impuesto el pensamiento único que bloquea las ideas y las vías que habrían de desencadenar la Revolución Socialista.
+
+Se ha hecho creer al pueblo que la idea, el concepto y la práctica de la democracia nada tienen que ver con el fundamento materialista de las relaciones sociales de producción. Al evitar poner en el centro del debate revolucionario este fundamento la dirección política de la Revolución apostó por el estado de derecho burgués. Las relaciones sociales de producción e intercambio neocapitalistas de la base material en que se sustenta toda la superestructura política, administrativa y cultural del estado así lo determinan. Se ha evitado plantear el empoderamiento socioeconómico democrático del pueblo, manteniéndolo como objeto político. Se mutila el sujeto revolucionario de la transformación socialista.
+
+La organización de la sociedad en relaciones sociales de producción e intercambio cooperativa como eje del modo de producción material y reproducción social, constituye el factor determinante del movimiento horizontal democrático de la misma. La dirección política de la Revolución opta por el centralismo de dicho movimiento. La democracia es puesta en camisa de fuerza. El poder no es el poder del pueblo. Es el poder del Estado sobre el pueblo. Y así ha sido sancionado en los preceptos políticos de la estructura de poderes que la nueva Constitución asume:
+
+Partido-único, rector de la sociedad con poderes supraconstitucionales; Presidente de la República no elegido por el sufragio democrático universal del pueblo; Asamblea Nacional no representativa al no ser elegida integramente por el sufragio universal democrático del pueblo y quedar subordinada a un órgano no electivo como es el Consejo de Estado; marginación de la democracia participativa y protagónica ignorando como institución constitucional los referendos generales y parciales vinculantes; marginación del derecho soberano del pueblo a promover procesos constituyentes; negación del Tribunal Constitucional y el Tribunal de Estado, en su lugar [Contraloría de la República](https://www.contraloria.gob.cu/) subordinada al Gobierno Ejecutivo (juez y parte en uno); mediatización de la electividad democrática y la autonomía de los poderes territoriales; conculcación del derecho soberano del pueblo a la expresión política y la posibilidad de organizarse para vehicularla; conculcación del derecho del pueblo al ejercicio democrático de información y comunicación (prensa plana, radial y televisiva estatalizadas), en ello: censura del acceso democrático a internet (política de uso discriminatoria, politica de precios prohibitivos y restricciones administrativo-comerciales al acceso de los medios tecnológicos); conculcación bajo el precepto antidemocrático “emigrado” del pleno derecho soberano de los cubanos a entrar, salir y asentarse libremente con sus derechos de ciudadanía en el territorio de su país.
+
+Este espectro de coyundas políticas está encaminado a ejercer el dominio del Estado sobre la sociedad. Son regimentaciones políticas que, junto al carácter neocapitalista de la relaciones sociales de producción e intercambio, mantienen al pueblo en el estado caracterizado por Marx como el eterno: “pedir permiso para vivir” bajo el capitalismo. Es el fracaso de la democracia y con ella del socialismo.
+
+El modelo económico basado en las relaciones estatales y privadas de producción, tal como lo incorpora la nueva Constitución, seguirá siendo la antítesis del desempeño democrático de la sociedad y la eficiciencia social de la economía. De esa manera se condena al pueblo de Cuba a un fracaso anunciado en sus aspiraciones por la emancipación del trabajo, la libertad del individuo, la igualdad social y el salto al desarrollo socialista moderno. El desarrollo económico que 60 años de práctica basada en ideas retrógadas sobre el socialismo han impedido, seguirá siendo una quimera.
+
+La expresión del pensamiento crítico revolucionario ha de ser ante todo propositiva. Hemos presentado para ello, sin que el pueblo de Cuba haya podido asumir este debate, premisas revolucionarias determinantes de la transformación socialista de las relaciones sociales de producción e intercambio que pudieron haber sido Considerandos Constituyentes. Seguiremos desarrollando esas ideas en próximos análisis. Este debate es un derecho democrático de todos los cubanos, más allá de la victoria pírrica que ha significado el SÍ a la nueva Constitución que pone en baño de maría la revolución socialista.
+
+Los cubanos tenemos derecho a saber con qué se está jugando en Cuba. Atar al pueblo revolucionario al reformismo de estirpe capitalista que plantea la nueva Constitución, desentendiéndose de la participación protagónica en la presentación y el debate de las alternativas que puedan ir a las raíces de las ideas y la construcción del socialismo, ha constituido la primera y más profunda expresión anti democrática de la convocatoria al referendo con que se legitima el nuevo acomodo constitucional.
+
+El debate revolucionario por el socialismo en Cuba ha de tomar fuerza, más allá de la Constitución de estirpe anti socialista aprobada. Los revolucionarios, los trabajadores, el pueblo de Cuba podemos desancadenar el debate hacia el socialismo emancipador, el único capaz de propiciar el desarrollo sustentable económico y social y garantizar la soberanía de Cuba. En ello le va la vida a la posibilidad de sentar el precedente paradigmático que por su éxito cambie el curso de la historia universal moderna, la historia del capitalismo en la tierra.
+
+Notas:
+
+\[1\] Julio César Guanche, https://jcguanche.wordpress.com/2019/02/22/deliberar-es-participar-a-proposito-de-la-consulta-constitucional/ .
+
+RCA, “CUBA. La Revolución Socialista ante los Fundamentos Económicos del Proyecto de Nueva Constitución”.
+
+[CUBA. La Revolución Socialista ante los Fundamentos Económicos del Proyecto de Nueva Constitución.](https://robertocobasavivar.wordpress.com/2018/10/19/cuba-la-revolucion-socialista-ante-los-fundamentos-economicos-del-proyecto-de-nueva-constitucion/)
+
+RCA, “Cuba. Propiedad y Constitución: no son los “medios”, son las relaciones sociales de producción e intercambio”.
+
+[Cuba. Propiedad y Constitución: no son los “medios”, son las relaciones sociales de producción e intercambio.](https://robertocobasavivar.wordpress.com/2018/12/14/cuba-propiedad-y-constitucion-no-son-los-medios-son-las-relaciones-sociales-de-produccion-e-intercambio/)
+
+RCA, “Cuba. Constitución Socialista o Contrarrevolución Capitalista.
+
+[Cuba. Constitución Socialista o Contrarrevolución Capitalista.](https://robertocobasavivar.wordpress.com/2018/08/11/cuba-constitucion-socialista-o-contrarrevolucion-capitalista/)
+
+“ New Cuban Constitution”: Interview with Marxist Cuban Thinker ROBERTO COBAS AVIVAR -Epoch.
+
+[Tomado del blog del autor](http://robertocobasavivar.wordpress.com/2019/01/15/interview-with-marxist-cuban-thinker-roberto-cobas-avivar-epoch-ok/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

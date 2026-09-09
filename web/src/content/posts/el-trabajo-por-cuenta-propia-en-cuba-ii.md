@@ -1,0 +1,54 @@
+---
+title: "El trabajo por cuenta propia en Cuba (II)"
+date: "2018-12-03T05:04:32+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2018/12/images-4.jpeg"
+---
+Una reflexión sobre el artículo 10.1 del Decreto Ley No. 356 y las nuevas regulaciones para trabajo por cuenta propia en Cuba.
+
+### El futuro después del 7 de diciembre de 2018
+
+**Por: Alexandra Torres**
+
+Otra cuestión es en relación con los organismos de la administración central del estado con responsabilidades en esta materia, al **[MTSS](http://www.mtss.gob.cu/) solo le corresponde lo relativo a la contratación de los trabajadores**.  
+Aquí bien cabe detenerse a pensar en las cuestiones relativas al trabajo y el descanso, la seguridad y salud en el trabajo, la seguridad social, la inspección del trabajo, la remuneración, la gestión del capital humano y otras tantas categorías del derecho del trabajo y de los derechos en el trabajo.  
+Aunque parece ser que en el artículo 10.1 del Decreto Ley No. 356 Sobre el Ejercicio del Trabajo por Cuenta Propia, amplía las responsabilidades del MTSS al establecimiento de la denominación y el alcance de las actividades que pueden llevarse a cabo. Pero la primera parte de este inciso a) dispone que debe establecer las disposiciones que le correspondan relacionadas con el trabajo por cuenta propia; es decir, lo relacionado con la contratación.  
+En cuanto a las contravenciones personales, el legislador se concentra, fundamentalmente, en cuestiones relacionadas con el incumplimiento de disposiciones administrativas para el ejercicio del trabajo. Deja fuera varios elementos que deberían ser identificados por la inspección del trabajo y por tanto sancionados.  
+Solo refiere la imposición de una multa a aquellos trabajadores que empleen personas no inscriptas como trabajadores contratados, con los cuales no se haya concertado contrato de trabajo o que incumplan con sus cláusulas, así como permitir actitudes de discriminación por el color de la piel, género, orientación sexual, discapacidad o cualquier otra lesiva a la dignidad humana.  
+También se encuentra como una contravención aún más grave la de emplear a menores de 15 años, o a jóvenes entre 15 y 16 años, sin la debida autorización excepcional. Si bien, son aún muy escuetas estas conductas, es meritorio su reconocimiento.  
+**Otra de las sombras más notables de las nuevas disposiciones es la limitación taxativa de no poder realizar más de una actividad de las autorizadas**. Esto genera un límite en el acceso al empleo. Además, es cierto que en algunas actividades es inconcebible poder realizarlas con las especificidades de la ley «prestación personal y directa», pero en muchas otras si es posible.  
+Igualmente, un punto de análisis sería la contratación temporal y los empleos de media jornada, cuya aplicación sería de gran trascendencia a los jóvenes de 17 en años de edad en adelante que cursan estudios universitarios.  
+Otra de las limitaciones está en el artículo 4 del Reglamento para el ejercicio del trabajo por cuenta propia. Si bien el fundamento puede ser impedir las ilegalidades, otra fórmula pudo ser utilizada, de modo que la realización del servicio gastronómico en restaurante, en cafetería y de bar y recreación pudieran ser ejercidos en el mismo domicilio, pero cuyas capacidades en total no fueran mayores de las 50 capacidades.  
+En este sentido, las autorizaciones no se otorgan a los domicilios legales, sino a las personas naturales. Por tanto, este artículo 4 posee deficiencias técnico-jurídicas que generan una limitación al empleo y en definitiva a la seguridad jurídica. Además, **el propio artículo establece una excepción referida a los servicios gastronómicos que se prestan en el Barrio Chino**. Cuestión esta para debatir, aunque los propios funcionarios del MTSS declaran que siempre se han tenido consideraciones especiales con tales servicios y que no puede vulnerarse eso. Sin embargo, es una claro supuesto de discriminación.  
+Alrededor de esto están también, las entidades que emiten las autorizaciones para el ejercicio del trabajo por cuenta propia. **Sin lugar a dudas la multiplicidad de ellas puede llevar a confusión a las personas interesadas en incorporarse al empleo y convertirse en trabajadores por cuenta propia**.  
+También, el artículo 13, último párrafo, en un intento de proteger un bien jurídico, vuelve a incurrir en deficiencias técnico jurídicas. Su aplicación puede generar injusticia y arbitrariedad porque qué sucedería si la vivienda, por ejemplo, es transmitida en propiedad a persona distinta no relativa al sujeto que permitió se cometieran delitos en la misma.  
+Este es solo uno de los supuestos, porque en el peor de los casos, en qué lugar quedan los descendientes de la persona sancionada y cuyo bien desean explotar para ser útiles a la sociedad y satisfacer sus necesidades. Sin duda, un enunciado complicado que generará debate una vez puesta en vigor la norma jurídica.  
+Por su parte, el artículo 20 tiene una finalidad muy noble, el control es fundamental, pero en la práctica puede generar trabas. Por ello, la **Administración Pública debe preparar a inspectores honestos, conscientes, responsables, con altos valores morales**. Sobre todo, cubrir las necesidades de personal para llevar a cabo esta responsabilidad en tiempo y forma.  
+Por último, solo dejar a la reflexión el hecho de que **la ley especifica muchísimas cuestiones sobre el arrendamiento de vivienda, habitaciones y espacios, mientras que para el resto de las actividades solo refleja generalidades**.  
+Pero no todas son sombras en estas disposiciones. **Veo con gran agrado el hecho de que la Administración Pública se responsabilice con la emisión de las suspensiones temporales**, las bajas, el registro de actividades y la aprobación de los trabajadores contratados. Ello implica que, ante su incumplimiento puedan instar a su cumplimiento a las personas afectadas, lo cual es ya una garantía primera.  
+Igualmente, el límite de no comercialización de productos no autorizados, que en definitiva impide el acaparamiento, la corrupción y otras conductas ilegales, es algo favorable. Ello, teniendo en cuenta la situación actual de nuestra economía, la inexistencia de un mercado mayorista y la escasez que todos los cubanos conocemos.  
+No obstante, es una disposición que debe ser modificada en cuanto las condiciones económicas lo permitan, de modo que los trabajadores por cuenta propia no puedan adquirir ningún producto para el ejercicio de su actividad en la red de establecimientos minoristas.  
+**Acojo igualmente con agrado, la obligatoriedad de que aquellos trabajadores que deseen contratar a otros deban formalizarlo mediante un contrato de trabajo y al solicitar autorización deba presentar un proyecto de contrato**.  
+También, el hecho del escrito de solicitud es sin dudas un avance en esta materia, en tanto obliga al trabajador por cuenta propia a organizar la actividad que pretende realizar.  
+Con mayor beneplácito observo el artículo 25 que permite que el trabajador pueda ausentarse para gestionar problemas propios de la actividad o personales y salir del país por un plazo de hasta 3 meses, y que para ello puede designar a un trabajador contratado para que asuma sus responsabilidades. También lo relativo a las suspensiones y cancelaciones de las licencias para el ejercicio del trabajo por cuenta propia.  
+En general, **las expectativas de las personas con intereses dentro del sector cuentapropista, con estas nuevas normativas no fueron cumplidas**. Su promulgación fue demorada en el tiempo, mientras la realidad social continuaba desarrollándose. Las disposiciones dan sus primeros pasos hacia la integración de estas formas de empleo al sistema de derechos laborales reconocidos para el sector estatal. Sin embargo, **siguen demonializando a los trabajadores por cuenta propia**.  
+**Las propias leyes así lo demuestran al utilizar como técnica de regulación las definiciones en negativo y establecer infinidad de limitaciones**. Es importante señalar que hoy el trabajo por cuenta propia es un sector creciente de la economía que genera bienes y servicios.  
+En muchos casos sustituye al Estado en la prestación de algunos clásicos servicios públicos como el transporte, por ejemplo, y sin lugar a dudas genera riquezas que, a través de los tributos pueden ser redistribuidos hacia toda la sociedad.  
+**Sería interesante y útil que se valorara su inclusión en la política de empleo nacional**, se les regularan las cuestiones laborales en un estatuto especial de modo que efectivamente aquellos contratados vean con agrado el ejercicio y defensa de sus derechos. Sobre todo, de modo que se obligue a los que son empleadores y denominan trabajadores titulares, a cumplir con la legislación laboral eliminando la discriminación, el despido injustificado y la explotación laboral
+
+Para ver el primer artículo sobre el [Trabajo Por Cuenta Propia en Cuba](/politica-en-cuba/)
+
+nuevas regulaciones para trabajo por cuenta propia en Cubanuevas regulaciones para trabajo por cuenta propia en Cuba nuevas regulaciones para trabajo por cuenta propia en Cuba nuevas regulaciones para trabajo por cuenta propia en Cuba
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

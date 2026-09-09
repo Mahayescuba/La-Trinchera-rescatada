@@ -1,0 +1,34 @@
+---
+title: "sesiones de la Asamblea Nacional en Cuba"
+date: "2020-11-02T10:30:46+00:00"
+author: "Jorge Fernández Era"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/11/Gerard-Cambon-Camera.jpg"
+---
+Uno de los geniales textos de [Héctor Zumbado](https://www.ecured.cu/Héctor_Zumbado) cuenta que en una Asamblea de Méritos y Deméritos —aquellas de los años setenta donde llevábamos a vías de hecho el principio de distribución de _a cada cual según su trabajo_— estuvo optando por un reloj despertador, y que el criterio manejado en dicho escenario sindical era que no lo merecía porque llegaba tarde al trabajo… ¡y claro que llegaba tarde porque no tenía reloj despertador!
+
+Cito al maestro porque, al _disfrutar_ de las transmisiones televisivas de las recientes sesiones de la Asamblea Nacional del Poder Popular, sentí nostalgia por aquellas reuniones de discusiones acaloradas no exentas de golpes bajos que no eran sino reflejo de las carencias materiales y humanas que hoy arrastramos de manera aún más dramática. El golpe bajo de hoy es que se intente vender esa Asamblea como representativa de la sociedad cubana y de los múltiples y complejos procesos que la caracterizan.
+
+No creo exista un parlamento en el mundo que se reúna menos que el nuestro. Cabría esperar más de sus sesiones. En estas que concluyeron fueron _analizados_ cuatro proyectos de leyes, ninguno de ellos decisivo para la solución de los graves problemas a los que hoy se enfrenta la sociedad cubana. El punto culminante de hasta dónde la modorra, el sopor y el letargo se han adueñado del que debía ser órgano de representación popular fue que la presentación de la Estrategia Económica por Alejandro Gil, ministro de Economía, y la intervención de Marino Murillo para explicar la tarea _Ordenamiento_ solo trajeron consigo dos lamentables intervenciones donde se distribuyeron panes y peces por doquier, con Cristo rebajado a director de Oficoda.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/la-cola-y-los-idiotas/
+
+Hubo que oír a Esteban Lazo —cuya incoherencia hace cada vez más ostensible el desatino de elegirlo para una responsabilidad que por mucho lo supera— reconocer _la amplia participación y el debate de estos proyectos tanto de forma presencial en este Palacio de Convenciones, a través de videoconferencia y por el correo electrónico_; al presidente —a quien según recién aprobada ley seguirá eligiéndolo cualquiera que no sea ninguno de nosotros— afirmar que _nuestro pueblo ha podido apreciar por diferentes medios el nivel de los debates de estas normas, a través de las valiosas intervenciones de los diputados_; y a un periodista en el noticiero declarar que _la Asamblea es un reflejo de la sociedad cubana. Allí está sentada como diputado o diputada el médico, que quizás da un criterio que convence y hace comprender que es verdad lo que está diciendo. Pero opina el estudiante, defiende su postura, o por allá la deportista, que llama la atención sobre algo que no vio bien claro, nadie se había dado cuenta. O sea, que la Asamblea cambia, modifica, enriquece, rehace cada proyecto y lo hace en no pocos puntos. Cuando llega después la sesión final, usted lo que ve es el resultado de mucho tiempo de debate, y se produce esa aprobación_.
+
+No, aprobar es otra cosa. La aprobación no puede por naturaleza estar divorciada del disenso, porque una sociedad no es la suma de seres agradecidos y reconfortados con la labor de sus gobernantes. La representación no puede ser el _tin marín de dos pingüés_ que le asigna a un diputado un municipio que nunca ha vivido y al que no ha ido ni de vacaciones. El debate es controversia, discusión, contienda, lucha, combate, nada que se haya visto en estos días en una Asamblea que debía existir para eso.
+
+La unanimidad es una mentira que no la creen ni los que la aplauden. Y esa mentira hay que tragársela cada vez que se reúne una Asamblea Nacional que supuestamente representa a los ciudadanos que tienen cosas que decir y las dicen, lo mismo en la bodega que en el parque, que en la guagua, que en las vilipendiadas redes sociales…
+
+Perdóname, Zumbado, si levanto la mano y doy mi voto para que el despertador que anhelas suene en otras partes donde pretenden seguir durmiendo la mañana.
+
+sesiones de la Asamblea Nacional en Cuba, sesiones de la Asamblea Nacional en Cuba
+
+## Autor
+
+-   ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
+    
+    ![](/wp-content/uploads/2020/12/2020-12-03-12.21.01.jpg)
+    
+    [Jorge Fernández Era](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jorge-fernandez-era/)
+    
+    Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros

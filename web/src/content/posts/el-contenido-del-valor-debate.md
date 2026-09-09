@@ -1,0 +1,36 @@
+---
+title: "Sobre el contenido de la categoría valor o un viejo debate La Trinchera"
+date: "2019-02-05T07:33:36+00:00"
+author: "Iramís Rosique"
+category: "Marxismo"
+image: "/wp-content/uploads/2019/02/PicsArt_02-05-02.28.06.jpg"
+---
+Las lecturas más economicistas del _Capital_ de Marx han llevado a no pocos marxistas los últimos 150 años a creer que puede atraparse de una vez físicamente el valor de una mercancía como se atrapa una mariposa en una floresta con un jamo y una mano precisa. Claro que en este caso los marxistas sueltan rápidamente el jamo para agarrar un manojo de cronómetros y relojes que se erigen nueva red para atrapar en el vuelo a la fugaz mariposa del valor. Rápidamente si alguno de estos cazadores está leyendo estas líneas dirá que solo siguen las instrucciones de cacería del maestro cazador que indica en _El_ _Capital_ claramente que la magnitud del valor viene dada por la cantidad de _tiempo de trabajo socialmente necesario para producir tal o más cuál mercancía_. Y con esto no dicen más que una verdad a medias.  
+En tanto el valor de uso comprende una dimensión del valor puramente cualitativa, por estar relacionado con la capacidad de las mercancías para satisfacer determinadas necesidades, nada nos dice sobre él la magnitud del valor, que siendo como es, una categoría cuantitativa y sumamente abstracta, nada indica sobre las propiedades particulares de esta o aquella mercancía, así como tampoco nada tiene que ver el tiempo de trabajo socialmente necesario con las características, cualidades particulares de los diversos trabajos concretos. Entonces imaginamos que existe consenso en el foro, sobre que estas categorías solo están relacionadas con la dimensión del valor con que las mercancías pueden hacer, y en efecto hacen, abstracción de sus propiedades materiales, naturales, aportadas por los trabajos específicos del artesano, el campesino o el cineasta, para identificarse en el mercado y ser cambiadas unas por otras; es decir: el valor de cambio.  
+Llegados a este punto donde parecen que pediremos a domicilio alguno de aquellos jamos y nos iremos el sábado a la pradera a atormentar a huidizas mariposas, alzan rápidamente su voz los marxistas occidentales, críticos, culturales, humanistas y dialécticos para acusarnos de engelsianos (últimamente horror) y positivistas, para decirnos que el valor de cambio no puede tener como contenido el trabajo, no puede ser dada su magnitud en el tiempo de trabajo, porque el valor de cambio no es una relación material sino ideal que solo existe en la conciencia de la sociedad; esto es, como consenso en las mentes de los hombres de las sociedades con mercado. Y en parte llevan razón.  
+Uno de los rasgos característicos podríamos decir del marxismo apostillado de [positivista](https://es.wikipedia.org/wiki/Positivismo), ecomomicista, metafísico, y otras linduras, es su desprecio aparente por los adjetivos y modificadores en general -nada extraño luego de tantos calificativos ofensivos-, mientras suelen mostrar un rígido apego a los sustantivos. Así por ejemplo, su materialismo es poco dialéctico o histórico y demasiado materialista; la producción social se les convierte en mera producción, estrecha, vulgar, por economía del lenguaje y miseria del pensamiento, y así otros ejemplos.
+
+> De este modo al tratar el asunto del que hablamos, olvidan el peso tan significativo que posee el adjetivo en el concepto de trabajo abstracto,
+
+único sobre el que verdaderamente se podría medir cantidad (duración) que refiera a la magnitud (contenido) del valor en tanto es aquella dimensión del trabajo productor de mercancías que permite identificar entre sí los diversos trabajos humanos y sus productos con la finalidad del cambio. Subrayamos el término en la oración anterior para señalar la naturaleza histórica de la categoría trabajo abstracto, en tanto sabemos que las categorías no existen en la realidad material sino en la mente de los hombres sociales, y como no creemos que existan categorías apriorísticas del pensamiento dadas al hombre antes de nacer desde siempre y para siempre, asumimos que la categoría trabajo abstracto solo existe en la mente de aquellos hombres que conocen y comprenden la producción mercantil; es decir:
+
+> solo en la conciencia social de aquellas sociedades concretas donde esta producción mercantil esté, aunque sea en grado incipiente o menor.
+
+Al olvidar estos marxistas la naturaleza abstracta de este trabajo, lo traen al plano de lo material como un trabajo concreto más, comprender que realmente este es el resultado espiritual, mental, del que se apropiaron y apropian los hombres del ejercicio de igualar los diversos trabajos concretos en pos de cambiar los productos resultantdes. Insistimos en la naturaleza histórica del mercado y del universo de categorías relativas a él.  
+No obstante, como de ironías está salpicada la escena de la vida, también la oposición de éstos marxistas, tan preocupada siempre por la adjetivación, al calificar -o mejor descalificar- profusamente a sus adversarios con múltiples apostillas, y a sí misma con los apellidos que ya hemos cariñosamente referido, descuida la importancia de ciertos calificativos. En esta corriente de opinión concuerda en parte con lo que aquí se ha establecido sobre las categorías. Sin embargo, niega que el tiempo o la cantidad de trabajo socialmente necesario determine la magnitud del valor, en tanto el valor como categoría de pensamiento no depende de algo tan mecánico como el tiempo sino que es una especie de “acuerdo arbitrario” de la época. Lo que aquí se olvida son los apellidos de es trabajo cuantificable: “socialmente necesario”. Estamos de acuerdo con que el acto de aparición en la escena del trueque del valor de cambio no está presidido por un manojo de cronómetros trascendentales invisibles. Lo realmente invisible a lo que nos remite Marx con “socialmente necesario”, podemos olfatearlo al enfrentarnos a la pregunta: quién establece lo socialmente necesario? La sociedad:
+
+> las formas historias concretas de producción social en sentido completo, lo que no solo implica asuntos puramente económicos, sino también los usos y costumbres, la cultura;
+
+en fin, producción espiritual. Es en sociedades concretas, en formaciones económico-sociales dadas donde, en virtud de la necesidad objetiva -jamás arbitraria aunque sin dudas no solo material- se fija lo socialmente necesario, que es, recalcamos, objetivamente necesario -y esperamos que se entienda aquí necesidad no en el sentido vulgar sino como categoría. El contenido (magnitud) del valor (de cambio) sí es, en efecto, como dijera Marx, la cantidad (tiempo) de trabajo socialmente necesario aunque en la práctica no puedan reducirse estas categorías a simples e impías determinaciones materiales de la mercancía susceptibles a ser aprisionadas con rosas cronométricas y fórmulas estadísticas.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

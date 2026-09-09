@@ -1,0 +1,39 @@
+---
+title: "La inconformidad por los granos"
+date: "2018-12-19T03:02:52+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2018/10/poema-59165-la-inconformidad.jpg"
+---
+No hay que tener granos para sentir incomodidad por lo que pasa en las sociedad.
+
+**Por: Miguel Alejandro Hayes Martínez**
+
+Un hipotético héroe quedó plasmado en la obra [Marx en el Soho](https://en.wikipedia.org/wiki/Marx_in_Soho). Su único personaje, se quejaba de sus forúnculos, y de cómo sus enemigos se aprovechaban de ello para justificar su rebeldía.  
+Según estos, todo lo que tenía él contra el orden social imperante eran sus molestias de salud. ¿Cómo si para estar contra el capitalismo hay que tener granos en el culo y no poder dormir?, decía el Moro. Él comprendía, que se intentaba desviar la atención de los problemas sociales que condicionaban esas realidades de cada individuo.  
+De esa manera, los revolucionarios no escapaban de ser tildados de niño maltratado, de maleducado, de cualquier dilema existencial o de inventarse una coyuntura personal que justificara su inconformidad. Y esa misma técnica para inmovilizar la fuerza de la palabra progresista, se usa hoy.  
+Por eso, en medio de este complicado panorama que vivimos en Cuba, la estrategia es enfocar el problema individualmente y no en las condiciones del todo social, para elaborar la acusación de ser agente del enemigo o de cualquier otro mecanismo de descrédito al que ejerce el pensamiento crítico. No creo que haya que ser soldado del enemigo o estar molestos para ver los problemas de nuestra realidad y denunciarlos.  
+Tal parece que, quien lanza las acusaciones mencionadas, piensa que vivimos en un mundo en el que sus defectos pasan desapercibidos, y que en el interior de este no nace ningún deseo de mejorar.  
+Yo me atrevo a pensar que tal actitud es una ofensa a la integridad moral, a la inteligencia y a la condición humana. Están diciendo que solo incitados desde fuera, puede pensarse en cuestionar las deficiencias. Como si no fuésemos capaces nosotros mismos de comprender nuestra realidad.  
+Como si la burocracia, la corrupción (la de cuello blanco también, que es más importante), la degradación de algunas de nuestras principales garantías sociales, el hermetismo político y la autocensura fuesen cosas que nadie se da cuenta y que solo la remuneración injerencista hace notar.  
+Pues resulta que esa es la realidad que observamos muchos cubanos, solo váyase y convérsese de manera natural (no como informante de algún órgano o de reportero para el noticiero) con este pueblo, este que quizá no tenga [altos estudios de maestrías y doctorados](/politica-en-cuba/)\-pero que es el pueblo-, y se verá qué opinan muchos, esos-nosotros- que somos por los que se hizo -y todavía se intenta- hacer Revolución.  
+Pensarán los inquisidores que cuando se levanta una voz a exponer alguna deficiencia, o cosas tan cuestionables como el gobernador o el papel todopoderoso de un partido, es una opinión aislada, de algún “asalariado de las barras y las estrellas”. ¿No se habrán dado cuenta de que este pueblo se cuestiona esas cosas, y otras aún ni siquiera mencionables como la elección no directa del presidente? Invito nuevamente a ir a los barrios.  
+Los medios oficiales no darán espacio a ese tipo de mensajes. Quizá se critique algún caso de manzanas o de otro caso similar, pero no llegarán a ir contra ningún alto funcionario de esos que todos sabemos que viven muy diferente de este pueblo. No lo dirán por desconocimiento, sino porque sabemos que la subordinación de los medios a la égida política de un comité no permitirá que se publiquen cosas que vayan contra estos y lo que estos deben cuidar. Creo que digo una verdad de Perogrullo: el que controla los medios controla el mensaje.  
+Por otro lado, muchos de los que exigen no hacer esos cuestionamientos que parecen tan subversivos a veces, viven en complicidad con el silencio, ya sea desde el ejercicio del poder, o por ver en su relación con este la vía para la realización de sus intereses personales. Así que no creo que estos sean el ejemplo de un revolucionario comprometido con su tiempo.  
+Pero los hechos son testarudos, dijo Lenin, y la sociedad encuentra siempre formas de canalizar sus necesidades. Por ello, el auge del internet en Cuba vino acompañado de los blogs, y trajo consigo el acceso al lugar donde gratuitamente wordpress.com te provee de un dominio para crear un espacio de difusión de ideas, esas que no encuentran salida en aquellos medios estatales. En otros casos, como el mío, se puede comprar un puntocom -u otro- por una cuota de 12 dólares al año; favor que cualquier familiar en el extranjero, de esos que cargan el móvil o mandan cosas, pueden hacer.  
+No dudo que haya entre nosotros alguno que otro criticón que reciba fondos de sabrá Dios quién, y sea un verdadero siervo imperial, pero lo cierto es que para ser crítico con la realidad no hay que ser precisamente un agente del enemigo. Solo basta con levantarse, y observar.  
+Por eso, otros -como Marx-, sabemos que somos la expresión de esas contradicciones de nuestra sociedad, por lo que no tenemos que tener granos en el culo para darnos cuenta de nuestros problemas y no dudamos en manifestarnos al respecto.
+
+Nota: Pido perdón al lector por la expresión utilizada. Téngase en cuenta que así se tradujo al español Marx en el Soho, que puede encontrarse en moncadista.org/2011/12/04/marx-en-el-soho. De la misma manera que ha sido respetada esa expresión al llevarse al teatro y la televisión en Cuba .
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

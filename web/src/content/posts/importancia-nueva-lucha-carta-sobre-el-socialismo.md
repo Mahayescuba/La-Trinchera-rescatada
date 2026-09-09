@@ -1,0 +1,30 @@
+---
+title: "Socialismo"
+date: "2019-09-25T14:05:38+00:00"
+author: ""
+category: "Economía en Cuba"
+image: "/wp-content/uploads/2019/09/PicsArt_09-25-11.58.57.jpg"
+---
+Socialismo. 
+
+**Por: Yunier Mena**
+
+  
+Bajo el elocuente título _[La importancia de la tautología](/economia-politica/)__,_ Miguel Alejandro Hayes publica los resultados de su lectura y discusión de mi reciente _[Carta](https://www.rebelion.org/noticia.php?id=260620&titular=carta-sobre-el-socialismo-)_ [_sobre el socialismo_](https://www.rebelion.org/noticia.php?id=260620&titular=carta-sobre-el-socialismo-) dirigida a Juventud Rebelde, ignorada y más tarde acogida por otros medios de izquierda que por suerte dan voz a los comunistas sin prensa. Hayes observa, en un acto innecesario de relativización del término por el cual me imputa un error teórico, que la liberación de las fuerzas productivas no conduce al capitalismo. Para él liberar las fuerzas productivas es una frase de significado general e impreciso que sugiere el aprovechamiento de la potencia productiva de una sociedad. Las fuerzas productivas, dice con razón, comprenden «la capacidad productiva del hombre, la de la naturaleza, y de lo que estos en combinación crean, la capacidad de los medios de producción». Hayes saca de contexto mi análisis de las fuerzas productivas en relación con el capitalismo, lo desprende de su referencia a una Cuba en transición y lo eleva a la universalidad de la economía política de una manera muy poco marxista.  
+Liberar las fuerzas productivas, dicho de forma absoluta y categórica, como lo expresó el economista Antonio Romero y como yo lo utilicé en mi respuesta no tiene reducción de magnitud ni ambigüedad semántica o pragmático—discursiva: dejar libre de toda restricción y obstáculo a los actores económicos de un país en transición socialista para que produzcan riqueza, actores entre los que se encuentra la propiedad privada. No se ha dicho liberar algunas fuerzas productivas, sino liberar—las, o sea, liberarlas todas. Tal criterio de liberación en el contexto económico, político y social cubano desembocaría en el establecimiento a corto plazo de una economía mixta capitalista que pretenderá lanzar el comunismo al basurero de las utopías.  
+En Cuba no hay que liberar las fuerzas productivas, hay que liberar las fuerzas productivas que sirvan para basar el socialismo, liberar, en todo caso, las fuerzas productivas de la tiranía de las relaciones capitalistas de producción. Hay que pensar otra economía, otra política, otra costumbre, otro arte y otro periodismo. Miguel Alejandro Hayes elige sentar cátedra sobre ciertas perogrulladas del marxismo y elige jugar con el lenguaje con afición de sofista o de fílólogo para ignorar el cotexto y el cómo de la revolución de cuya ausencia se lamenta en mi epístola y que en realidad sí aparece esbozado. Remito al lector a ese esbozo que debería ser el verdadero centro del debate para sustituirlo o enriquecerlo.  
+ida a Juventud Rebelde, ignorada y más tarde acogida por otros medios de izquierda que por suerte dan voz a los comunistas sin prensa. Hayes observa, en un acto innecesario de relativización del término por el cual me imputa un error teórico, que la liberación de las fuerzas productivas no conduce al capitalismo. Para él liberar las fuerzas productivas es una frase de significado general e impreciso que sugiere el aprovechamiento de la potencia productiva de una sociedad. Las fuerzas productivas, dice con razón, comprenden «la capacidad productiva del hombre, la de la naturaleza, y de lo que estos en combinación crean, la capacidad de los medios de producción». Hayes saca de contexto mi análisis de las fuerzas productivas en relación con el capitalismo, lo desprende de su referencia a una Cuba en transición y lo eleva a la universalidad de la economía política de una manera muy poco marxista.  
+Liberar las fuerzas productivas, dicho de forma absoluta y categórica, como lo expresó el economista Antonio Romero y como yo lo utilicé en mi respuesta no tiene reducción de magnitud ni ambigüedad semántica o pragmático—discursiva: dejar libre de toda restricción y obstáculo a los actores económicos de un país en transición socialista para que produzcan riqueza, actores entre los que se encuentra la propiedad privada. No se ha dicho liberar algunas fuerzas productivas, sino liberar—las, o sea, liberarlas todas. Tal criterio de liberación en el contexto económico, político y social cubano desembocaría en el establecimiento a corto plazo de una economía mixta capitalista que pretenderá lanzar el comunismo al basurero de las utopías.  
+En Cuba no hay que liberar las fuerzas productivas, hay que liberar las fuerzas productivas que sirvan para basar el socialismo, liberar, en todo caso, las fuerzas productivas de la tiranía de las relaciones capitalistas de producción. Hay que pensar otra economía, otra política, otra costumbre, otro arte y otro periodismo. Miguel Alejandro Hayes elige sentar cátedra sobre ciertas perogrulladas del marxismo y elige jugar con el lenguaje con afición de sofista o de fílólogo para ignorar el contexto y el cómo de la revolución de cuya ausencia se lamenta en mi epístola y que en realidad sí aparece esbozado. Remito al lector a ese esbozo que debería ser el verdadero centro del debate para sustituirlo o enriquecerlo.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

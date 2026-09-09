@@ -1,0 +1,76 @@
+---
+title: "Versos negros"
+date: "2019-03-14T05:13:12+00:00"
+author: ""
+category: "Onírica"
+image: "/wp-content/uploads/2019/03/PicsArt_03-14-01.03.05.jpg"
+---
+versos negros. 
+
+**Por: Pablo Dussac**
+
+Yo sé de un color  
+Similar a la sombra,  
+Que la historia ignoró  
+Cuando se unió y se rebeló.
+
+Provengo de ese color,  
+Que como raíz en tierra,  
+Venas en mi antebrazo  
+Conservan su indignación.
+
+Te hablo de ese color  
+Que tu TV no capta,  
+Que en las noches impacta  
+Si sale de un callejón.
+
+Yo sé de un color  
+Que tiene una historia triste,  
+(Dicen que…)  
+En la calle es minoría,  
+En prisión, mayoría  
+Y no dirige una nación.
+
+[Cimarrón](https://es.wikipedia.org/wiki/Negro_cimarr%C3%B3n), pantera negra,  
+Pacifista, rasta,  
+Versado en el machete,  
+Versado en la palabra.
+
+Yo sé de un color oscuro  
+Que emite luz, amparado  
+Por espíritus de fuego,  
+Tierra, palos, cruz…
+
+Yo sé de un azabache,  
+Impregnado en un árbol,  
+Con raíces profundas  
+De continente lejano.
+
+Yo sé de ramas enormes  
+Que todo con sombras abraza,  
+Se agitan fuerte cual gritos  
+En defensa de su raza.
+
+Yo sé de un color,  
+Una memoria, un sentimiento,  
+Yo sé de luces puras  
+Brotando de versos negros.
+
+Yo sé de un color Similar a la sombra, Que la historia ignoró Cuando se unió y se rebeló. Provengo de ese color, Que como raíz en tierra,  
+Venas en mi antebrazo Conservan su indignación. Te hablo de ese color  
+Que tu TV no capta, Que en las noches impacta Si sale de un callejón. Yo sé de un color Que tiene una historia triste, (Dicen que…) En la calle es minoría, En prisión, mayoría Y no dirige una nación. Cimarrón, antera negra, Pacifista, rasta, Versado en el machete, Versado en la palabra. Yo sé de un color oscuro Que emite luz, amparado Por espíritus de fuego,  
+Tierra, palos, cruz… Yo sé de un azabache, Impregnado en un árbol,  
+Con raíces profundas De continente lejano. Yo sé de ramas enormes  
+Que todo con sombras abraza, Se agitan fuerte cual gritos En defensa de su raza. Yo sé de un color, Una memoria, un sentimiento, Yo sé de luces puras Brotando de versos negros.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

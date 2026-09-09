@@ -1,0 +1,36 @@
+---
+title: "Los lineamientos y el dólar en Cuba"
+date: "2021-07-05T16:00:00+00:00"
+author: "Arturo Mesa"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2021/07/Wilma-Schipholt.jpg"
+---
+Mis motivos tenía yo para demorar la lectura de los [nuevos](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjkm76UnszxAhWSrp4KHUmfD8MQFjABegQIAhAD&url=http%3A%2F%2Fwww.granma.cu%2Fcuba%2F2021-06-20%2Fnuevos-lineamientos-sobre-la-informatizacion-y-la-ciberseguridad-de-nuestro-pais&usg=AOvVaw1OHtMZ_kwD_74QdOIqAAIP) lineamientos. Supuse que tras su análisis me desbocaría hacia mi escritorio a soltar un poco las tensiones y me parece que eso mismo ha sucedido. 
+
+Primero los descargué del sitio y luego los tuve guardaditos mientras escribía poemitas, bufonadas y temas de turismo, literatura etc. pa’ entretenerme y no mirar pa’ allá. Entonces hoy, ya no pude más y cedí a la curiosidad. Y allí encontré toda una serie de hermosas disposiciones que hablan de ―Desarrollar y Modernizar la Industria tal, Avanzar en el desarrollo de la Industria mas cual, elevar los niveles de producción de la Esfera requetecual sin que se exponga una idea clara de cómo hacer tales avances, pero bueno –pienso yo— ¿y si el tal avance es secreto de estado para que el enemigo no nos robe la tecnología, Arturito? Y entonces, me callé, pensando que era una variante posible y seguí leyendo hasta que caí en la política para el Comercio.
+
+Siete lineamientitos ellos. ¡Siete! Voy a mi librero y busco el [documento](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjjgNnQnszxAhXYWM0KHZmPAfYQFjAAegQIBRAD&url=http%3A%2F%2Fwww.cubadebate.cu%2Fnoticias%2F2011%2F05%2F09%2Fdescargue-en-cubadebate-los-lineamientos-de-la-politica-economica-y-social-pdf%2F&usg=AOvVaw2qif08UVrSt4_XxPohgWvI) del 2011, ese en el que participamos todos con gran orgullo y logramos incluir 313 lineamientotes de los cuales solo quedaron vivos e íntegros unos diecisiete (17), vaya como si la década pasó por mi lado sin saber que pasó. Ahí fue donde quise saber cuántos miembros del Parlamento no estuvieron en la redacción del anterior, pero ya eso pasa al campo de la ―información delicada—, y el NTV no me gusta. Pero bueno, reviso el librito y busco en la sección de la Política de Comercio aprobada en el 2011 y veo que son diez y entiendo que más bien, lo que se hizo fue un corta y pega inteligente porque más tarde se arregló un poco el texto para adaptarlo a las nuevas exigencias.
+
+> [Dos puntos sobre el bloqueo y las divisas en Cuba](/dos-puntos-sobre-el-bloqueo-y-las-divisas-en-cuba/)
+
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="«Dos puntos sobre el bloqueo y las divisas en Cuba» — La Trinchera" src="https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/dos-puntos-sobre-el-bloqueo-y-las-divisas-en-cuba/embed/#?secret=VKo6JZv3PX" data-secret="VKo6JZv3PX" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+Pero aquello sigue sin cuadrarme y busco cuáles fueron los lineamientos que se fueron. En concreto el 305, el 306 y el 309, hay otros detalles en otros, pero no son importantes. En fin que el 305 hablaba de diversificar los surtidos, la calidad y los precios de los productos para satisfacer las demandas y que estas sean las que acrecienten las motivaciones al trabajo. (Ta bien, estamos en crisis y pandemia, acepto que se haya ido). El 306 arranca diciendo que hasta tanto no se logre la unificación bla bla bla seguirán las ofertas en CUC pero se elevará la calidad de la oferta en CUP. (Ta bien, también. Ya no hay CUC y seguimos en crisis y pandemia). Y el 309 habla de promover la oferta de alimentos para lograr una dieta balanceada así como la oferta en otras áreas como política de desarrollo del consumo. (Lo mismo, es la crisis). Igualmente me llamó la atención que el término ―protección al consumidor― que era parte del lineamiento 313 y último ya no se menciona en los nuevos.
+
+¡Ustedes pueden creer que: y ya!
+
+Esas adaptaciones no me molestaron tanto como descubrir que en los lineamientos para el comercio jamás se hizo alusión alguna ni se sugirió la eliminación gradual o paulatina o escalonada o escalerada o lo que sea, de las ventas en la moneda que tanta injusticia social, demográfica, laboral, familiar, regional, y accesal crea. No puedo entender que no se haya incluido una intención leve, ligera, susurrante, rumorosa, insinuante de que el objetivo es ir eliminando tales inequidades. ¿Cómo entender que lo que debería ser objetivo primordial de política, pase por alto a los altos representantes de los intereses del representado? ¿Será que se quedan? ¿Con quién se contó? Porque en esta ocasión, ni voz ni voto tuvimos en la redacción de lo que compete y afecta en primerísimo lugar, a aquellos a quienes tanto el gobierno como el estado se deben. Y lo que pudo entenderse como ―momentáneo―, analizado en las directrices de esta estrategia, da la impresión, que ya queda establecido como política. Y el peor error que se ha cometido en pandemia, y tiene a muchos revueltos, es haber implementado, de las opciones posibles, la peor; y creo que alguien sugirió que ese pudo haber sido precisamente el punto de no retorno hacia el entendimiento representante-representado, entendimiento que tiene a unos improvisando ingresos y a otros improvisando tesis para justificar las malas prácticas. Esa frase que faltó, sobre la intención de eliminar esos engendros, me dice, que la estrategia sigue siendo de dependencia a una moneda foránea y a unos ingresos irregulares, desiguales y del más allá. Y por más que gritemos que lo único que no está en juego es nuestra independencia, mientras esta no se logre en el campo de lo económico el ―juego― continuará. La estrategia ha de ser de una independencia absoluta y por nosotros mismos (como en el concepto, sí), pero para ver el arcoiris, primero hay que levantar la cabeza porque en la tierra, no está. Y para pensar en independencia monetaria, primero tiene que visualizarla porque en el dólar o el euro; no está. Entonces, humildemente, yo sugeriría incluir una leve insinuación, un acápite, un entrecomillado, al respecto, vaya para que se callen los que analizan de más. Serían tan amables…
+
+\*\*\*
+
+https://hayesmartinez.trincheracuba.com/capitalismo-en-cuba/
+
+los lineamientos y el dólar en Cuba, los lineamientos y el dólar en Cuba, los lineamientos y el dólar en Cuba
+
+## Autor
+
+-   ![](/wp-content/uploads/2021/06/2021-06-26-12.28.50.jpg)
+    
+    ![](/wp-content/uploads/2021/06/2021-06-26-12.28.50.jpg)
+    
+    [Arturo Mesa](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/arturo-mesa/)

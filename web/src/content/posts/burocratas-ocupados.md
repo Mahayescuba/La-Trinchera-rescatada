@@ -1,0 +1,34 @@
+---
+title: "Los burócratas siempre están demasiado ocupados"
+date: "2019-08-24T08:58:33+00:00"
+author: ""
+category: "Opinión"
+image: "/wp-content/uploads/2019/08/IMG_20190824_050616.jpg"
+---
+Burócratas.
+
+**Por: Homar Garcés**
+
+Las fallas, las omisiones y las negligencias del Estado (sea cual sea su denominación) les son atribuidas comúnmente al burocratismo presente en cada una de sus estructuras. En esencia, de una forma generalizada, puede determinarse que la subjetividad y la rutina diaria (cumplida sin mucha alteración durante tantos años de permanencia en el cargo) hacen de los burócratas, incluso aquellos que, en apariencia, no lo harían de una manera consciente, unos elementos perniciosos que conspiran constantemente contra el ejercicio democrático del pueblo, contra la transparencia administrativa que debiera caracterizar al Estado en todo momento y contra la posibilidad real de concretar cualquier experiencia revolucionaria orientada a su logro pleno.
+
+A ello se une la centralización operativa que, en la mayoría de las ocasiones, retrasa la iniciativa que pudiera tomarse con la finalidad de solventar cualquier problema o necesidad existente. Muchas veces por motivos futiles a los cuales se les otorga una importancia cardinal, justificados en procedimientos administrativos demasiado engorrosos y lentos. Esto, con el tiempo, produce cierto conformismo entre la gente que acude a los organismos públicos al percatarse que estos procedimientos seguramente no servirán de nada para encarar satisfactoriamente una situación determinada.
+
+Según lo notara Ernesto Che Guevara, _el burocratismo es la cadena del tipo de funcionario que quiere resolver de cualquier manera sus problemas, chocando una y otra vez contra el orden establecido, sin dar con la solución. Es frecuente observar cómo la única salida encontrada por un buen número de funcionarios es el solicitar más personal para realizar una tarea, cuya fácil solución sólo exige un poco de lógica, creando nuevas causas para el papeleo innecesario_. También existe la duplicación de funciones, lo que surge de la falta de normas de organización precisas entre las diferentes instituciones públicas, replicándose en cuanto a los mismos objetivos.
+
+En este sentido, los sectores populares debieran comprender que si existiera verdaderamente una burocracia funcional y eficaz, se harían expeditos los diferentes procesos o trámites que ha de cumplir el Estado. Además, a fin de disminuir y erradicar la mala influencia del burocratismo, el pueblo está llamado a gestar sus propios espacios de organización soberanos. Así evitaría que sus derechos sean conculcados por una minoría bajo la excusa de estarse velando sus intereses colectivos; lo que ha servido para el fomento y el ocultamiento de complicidades, incompetencias y corrupciones institucionalizadas de toda clase. Es decir, se requiere estimular la capacidad instituyente y autónoma de los sectores populares para crear mecanismos de control democráticos que le permitan a toda la población ser protagonista consciente y activo de su propio destino. Sin embargo, hay que acotar que esto será una tarea difícil, de larga duración, mientras existan el Estado y el modelo de sociedad vigentes, ambos erigidos según la lógica capitalista. Es algo que no se podrá obviar.
+
+Para quienes lo ignoran (o no desean saberlo y, menos aún, comprenderlo), citando al compañero Antonio Gramsci: _La burocracia es la fuerza conservadora más peligrosa_. Si ella, como secularmente sucede, se independiza de los sectores populares y se arroga un papel preponderante en la administración y el funcionamiento estatales, termina por generar más problemas que soluciones. Una cuestión que se repite en todo el mundo. Y esto se palpa a diario, incluso, mediante la actitud despótica y displicente que suelen adoptar secretarios y ayudantes personales (entre los cuales cabe incluir a los guardias de seguridad) de quienes ejercen los cargos de representación popular; los cuales establecen una especie de estratificación en cada antesala, en donde algunas personas (estimadas social, económica y políticamente inferiores) deben esperar mientras que otras (vistas como superiores) tienen libre acceso. De igual modo, cuando los burócratas alegan estar siempre ocupados, pero _extrañamente_ aligeran los trámites de amigos, colaboradores y gente de _mayor_ _rango_. Por todos estos rasgos visibles, el burocratismo debe calificarse como antidemocrático y contrarrevolucionario. Sabiéndolo, muchos movimientos sociales y políticos luchan por trascenderlo, poniendo en práctica estrategias y concepciones distintas a las establecidas que amplíen positivamente todo lo referente a la vigencia de la democracia y el papel a cumplir por la ciudadanía, lo que sería una conquista saludable para todos, independientemente de cuáles sean nuestras convicciones personales.
+
+**[Tomado de Rebelión](https://www.rebelion.org/noticia.php?id=259732&titular=los-bur%F3cratas-siempre-est%E1n-demasiado-ocupados-)**
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

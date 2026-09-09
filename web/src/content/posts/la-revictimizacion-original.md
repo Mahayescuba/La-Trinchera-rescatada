@@ -1,0 +1,52 @@
+---
+title: "La revictimización original"
+date: "2020-08-26T09:30:34+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/08/Serwan-Baran.jpg"
+---
+_El artículo de Granma trata de denigrar a la prensa independiente, en esta ocasión al intentar desenmascarar la supuesta exageración con que esos medios tratan el tema de los feminicidios en Cuba._
+
+**Por: José Gabriel Barrenechea**
+
+He leído el artículo [_Revictimizada_ _mil_ _veces_](http://www.granma.cu/cuba/2020-08-18/revictimizada-mil-veces-18-08-2020-22-08-28), de Javier Gómez Sánchez para Granma, y al terminar no pude más que recordar aquella frase que un amigo le dedica a otro, cuando este último ha intentado ayudarlo de manera equívoca: ¡Mejor no me defiendas, compadre!
+
+Javier trata aquí de denigrar a la prensa independiente. En esta ocasión al intentar desenmascarar la supuesta exageración con que esos medios tratan el tema del feminicidio en Cuba. Fenómeno que según él no tiene más que interés testimonial, pero no estadístico, dado el carácter aislado de los hechos.
+
+No obstante, al menos en mi caso, que reconozco no estar muy enterado del tema, y que solo he leído por encima algunos artículos muy testimoniales en la prensa independiente, el propio artículo de Javier es el que me informa datos que me llevan a preocuparme en serio por la prevalencia del fenómeno en Cuba.
+
+Según Javier, en su bien informado artículo, en 2019 la tasa anual de feminicidios en Cuba fue de 0,99. Lo cual, en una comparación con los demás países de América Latina, da como resultado que “ocho países superan la tasa de Cuba”.
+
+Mas según mi cuenta, si excluimos a los países franco-anglófonos del hemisferio (Haití, Surinam, Trinidad y Tobago, Guadalupe…), quedan 16 naciones latinoamericanas, por lo que el lugar ocho significa estar en mitad de la lista, y que otros 8 países de los considerados tienen mejores resultados que Cuba. No en el último puesto con la menor tasa, como la propaganda gubernamental, empeñada en insistir en la excepcionalidad positiva del caso cubano, me haría esperar.
+
+Javier a continuación compara la recepción de los hechos de feminicidio ocurridos en Alemania, Francia, Italia o Reino Unido en los medios de esos países, o en la prensa internacional, con lo que ocurre para el caso cubano en su prensa independiente.
+
+Según sus fuentes, en Francia, por ejemplo, 137 mujeres fueron asesinadas en 2019 como parte de la violencia doméstica. “Eso significa”, nos dice Javier Gómez Sánchez, “que incluso si la maquinaria mediática anticubana llegara a tener conocimiento de todos los casos de feminicidio ocurridos en Cuba, sólo pudiera sacarle partido a razón de un caso semanal… como que en Francia ocurra una nueva trágica historia de esta naturaleza, pero cada dos días”. En Alemania, con 122 casos en 2018, “también cada año pudieran ponerse a circular más de un centenar de historias, con sus respectivas fotos, titulares y el consiguiente impacto sobre el público”. Lo cual según él no ocurre porque “sencillamente no existe una guerra comunicacional contra esos países”.
+
+Javier aquí nos oculta que si bien la mayoría de estos hechos no llegan a los principales medios de cada país, y en caso de lograrlo ocupan poco espacio, si son ampliamente recogidos por los de segunda línea, los dedicados al morbo, o los regionales; como podrá comprobar todo aquel que tenga un poco de paciencia y una conexión barata a Internet, o cualquiera que en la televisión cubana siga los innumerables policiacos europeos que esta transmite, y en los cuales muchas veces se aclara el estar basados en hechos reales. Porque en Alemania, Francia, Italia, Reino Unido y todo Occidente la prensa no se reduce a unos escasos medios nacionales o provinciales controlados por el gobierno, como el camarada Javier quisiera que creyéramos; ni tampoco los únicos policiacos autorizados son los filmados por el correspondiente ministerio del interior, o de gobernación, como es la tónica en Cuba.
+
+Por otra parte, si raramente sucesos de esta índole llegan a los grandes medios, u ocupan amplios espacios en los mismos, se debe a que en esas sociedades nadie trata de ocultar que los tales hechos ocurren al interior de las mismas. A diferencia de en Cuba, donde el ordenamiento político excepcional de la sociedad ha sido justificado una y otra vez en el supuesto de que permite evitar los problemas que se le señalan a las sociedades que viven bajo un capitalismo en las últimas fases de su decadencia; y por tanto cada feminicidio resulta en un poderoso argumento en contra del sostenimiento de ese excepcionalismo.
+
+Por tanto, es cierto: la prensa independiente, contraria al carácter excepcional del ordenamiento político cubano, que amenaza su propia existencia, precariamente tolerada dentro de ese ordenamiento, insiste en el tema del feminicidio sobre todo por un interés político, más que propio, existencial. Pero de lo dicho se desprende que no ha sido ella quién en un primer momento ha politizado el tema. La prensa independiente insiste en visibilizar lo que otros antes invisibilizaron por el interés político de justificar un estado de excepción eterno, en que ciertas élites acaparan todo el poder político y económico dentro de la sociedad cubana.
+
+De que sin embargo no hay un carácter _excepcional_ de la vida cubana bajo ese _estado_ _de_ _excepción_ eterno, establecido ya hace demasiado tiempo como para que produjera resultados _excepcionales_ constatables, dan buena cuenta por cierto los números que el compañero Javier Gómez Sánchez reúne en este artículo para Granma.
+
+Mas allá de la inesperada constatación de más arriba, de que en cuanto al número de feminicidios que ocurren en nuestra sociedad, _excepcional_, no somos el país con mejores resultados entre las 16 naciones latinoamericanas, sino por el contrario un caso promedio, estudiemos los datos que nos brinda tan buenamente una fuente que pretende demostrar lo contrario que nosotros ahora haremos evidente: que el feminicidio es un problema más grave en Cuba que en casi todo Occidente.
+
+En este artículo Javier nos informa que en 2016 ocurrieron en Cuba 47 homicidios de mujeres que clasifican como feminicidios, según la [definición adoptada por la ONU](https://www.unwomen.org/es/about-us/guiding-documents). A su vez, con unos datos mas actuales para los países europeos mencionados de los que incluso un periodista pro-gubernamental, que escribe para el órgano oficial del Partido Comunista, puede mencionar para Cuba, nos revela que en 2018 ocurrieron en Alemania 122 muertes debidas a feminicidios, o 137 para Francia. Lo que Javier toma como un punto a su favor, sin mencionar sin embargo que Alemania tiene 7 veces más habitantes que Cuba, y que por tanto la tasa de feminicidios cubana es 3 veces mayor que la alemana. O que en Francia habitan 6 veces más personas que en el archipiélago cubano, y que por tanto nuestra tasa de feminicidios es 2 veces superior a la francesa (igual que con respecto a la italiana o la británica).
+
+O sea, que en una nación que tiene estadísticas demográficas de país europeo, como no se cansan de mencionar los medios oficiales, era de esperarse que esa otra estadística demográfica, la tasa de feminicidios, fuera también de primer mundo, **mas** **no** **es** **así**.
+
+No es, por tanto, amigo Javier, que alguien pretenda invisibilizar el trabajo de la FMC, o del CENESEX, o en general de cualquier organización paraestatal. No, solo se pretende visibilizar un fenómeno que de una u otra manera esas instituciones se han encargado de manipular, al ocultar o descontextualizar cifras, para presentar a Cuba como un caso excepcional cuando claramente no lo es ni en relación con los demás países latinoamericanos, ni en relación con las naciones europeas con las que comparte resultados semejantes en índices de natalidad o mortalidad, envejecimiento poblacional, esperanza de vida al nacer, mortalidad infantil o materna…
+
+En fin, Javier, la prensa independiente y quienes escribimos para ella no intentamos “fabricar una imagen negativa” del fenómeno feminicidio en Cuba, con el fin de desprestigiar a lo oficial:  solo queremos rebajar esa imagen demasiado positiva sobre la que, entre otras pretendidas positividades, se justifica el sostenimiento de un ordenamiento político con carácter de excepción. El cual ordenamiento considera a la prensa independiente y a cualquier ejercicio del derecho a la libre expresión como intolerables… según el discurso oficial por amenazar logros excepcionales, como este de ser un país latinoamericano promedio en cuanto a su tasa de feminicidios…
+
+## Autor
+
+-   ![](/wp-content/uploads/2021/02/barrenechea.jpg)
+    
+    ![](/wp-content/uploads/2021/02/barrenechea.jpg)
+    
+    [José Gabriel Barrenechea](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/jose-gabriel-barrenechea/)
+    
+    Científico, escritor y activista

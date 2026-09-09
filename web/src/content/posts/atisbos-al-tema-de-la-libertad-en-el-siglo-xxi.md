@@ -1,0 +1,48 @@
+---
+title: "Libertad individual en Cuba"
+date: "2021-03-14T16:00:00+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2021/03/atelier-venustas.jpg"
+---
+## **Primer esbozo: libertad individual**
+
+**Por: Raymar A. Aguado Hernández**
+
+> _A: Diego A. Marrero Leyva. Pues sé que el día que mi mente no pueda darle voz a mis ideas, las de él, las premiarán._
+
+La necesidad de lograr la plenitud individual, para su posterior repercusión en su medio circundante, es esencial para el hombre en la búsqueda de la tan ansiada libertad. Un ser sumido en odios, estandarizaciones, conflictos de incompatibilidad social, escepticismo, desconocimiento, autocensura y miedo, nunca logrará gozar a plenitud de la misma, pues estará atado a cadenas autoimpuestas, de las cuales, sólo podrá zafarse a raíz del estado de conciencia adquirida desde la experiencia y madurez de criterio.
+
+Ya en 1884 en su artículo _[Maestros Ambulantes](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjQx8_LxK7vAhVMV80KHX8hCa8QFjAAegQIAhAD&url=http%3A%2F%2Fwww.josemarti.cu%2Fpublicacion%2Fmaestros-ambulantes%2F&usg=AOvVaw03d4T-9xrZEdWA0Ui25YHU)_, Martí nos planteaba la necesidad del conocimiento y la cultura -la cultura contextual e histórica- como eje de la actividad por y para la libertad. Viendo esta libertad como escalón primordial en el ascenso a la prosperidad del individuo, la cual es la única que “dentro de lo común de la naturaleza humana”, logrará el aflore de la virtud en el hombre.1
+
+No se puede aspirar a una libertad concedida por el medio si el propio individuo se priva de ella. Un ejemplo práctico lo podemos encontrar en la tan mencionada libertad de expresión. Si el propio individuo suprime su criterio: ya sea por miedo a plantearlo, por desconocimiento de causa o por el pensamiento escéptico de que no tendrá una contundencia válida, no puede pedirle al medio que valore su papel de ente pensante ávido de expresión, pues él mismo se eximió de la libertad de apelar. Otro ejemplo -de los más comunes- lo podemos encontrar en los estereotipos y la discriminación (por preferencia sexual, diferencia racial, sexo, xenofobia, por pertenecer a determinada tribu social, por utilizar determinado atuendo, etc.). Si el individuo pondera continua y reiteradamente la causa por la cual es discriminado y hace constante campaña de exaltación a dicha condición, más que revindicar su derecho de elección, le hace el juego a la intolerancia, siendo esclavo de tal discriminación. Si por el contrario pondera su condición de humano y de ente igualitario a los ojos justos de la sociedad, y conscientemente se incluye en la misma con su virtud como estandarte, callaría la boca a la inhumana intolerancia discriminatoria. Un ser necesitado de un contexto inclusivo y libre, deberá pulir en sí las asperezas que no le son convenientes del medio, porque su actitud nunca puede ser incongruente a la realidad a que aspira; aquí se aplica la máxima de predicar con el ejemplo, pues en ese necesario ejemplo, radica el mayor aporte a la transformación. 
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/ideas-sobre-el-gusto-utiles-en-la-politica/
+
+Desde cierta ética filosófica moderna occidental, la libertad es vista como una condición inherente al humano, pues se ve como un escalón fundado en la autoconciencia (a la que aludía en párrafos anteriores) y en la responsabilidad ético-moral del individuo. Lo que hace que el peso de esta recaiga sobre sus propios hombros. Por lo tanto, dentro de un sentido antropológico, la libertad en sí es totalmente irrevocable, siempre y cuando el hombre se reconozca a sí como un ser libre: de pensar, decir, obrar, crear, sentir, etc., más allá de imposiciones externas. Nadie ignora que el contexto político-social-natural que envuelve al individuo -el cual debe responder irrefutablemente a su contexto- lo priva de determinadas acciones que condicionan su libertad limitada, pero este ya es otro tema, el que será tratado en futuros escritos. Cada ser posee la capacidad inequívoca de ser libre en sí, pues en el espectro intangible de la complacencia que trabaja dentro de la psiquis humana, es que radica la verdadera esencia de la libertad.
+
+Pasadas dos décadas del siglo XXI el tema de la libertad sigue siendo uno de los más polémicos y tratados. La sociedad ha llegado a tal punto de desarrollo que pareciera cada cual dueño de sus actos; pero sabemos no es así. A medida que avanzamos en desarrollo más nos vamos deshumanizando, vamos perdiendo la capacidad de auto complacernos, y con ella, la libertad. Vivimos en tiempos donde prima la dependencia a las redes sociales y a todas las problemáticas que acarrea2, donde la opinión pública cobra más ponderación a medida que nos adentramos en las turbias aguas del consumismo y la banalidad, donde la desinformación, el desconocimiento y el escepticismo crecen, y ocupan una posición muy preocupante. 
+
+La constante superación en cada plano de la vida es la clave para la obtención de la primaria libertad, la que intrínsecamente lleva el hombre como regalo espiritual de la naturaleza. Un ser que tenga en sí la impulsión necesaria para alcanzar la plenitud, será poseedor de las alas y de la lumbre que potenciarán su vuelo. Pero tal plenitud no existe en las figuraciones que nos llevan a la “insoportable levedad del ser” que planteaba Kundera, sino en la actitud inductora a la creación y al crecimiento, al llamado de satisfacción ético que debe el hombre a su realidad. No existe libertad en los caprichos, ni en la actitud que solo premia la lascivia inminente por algo, ahí solo hay sumisión y desapego, esclavitud en base al egoísmo.
+
+Vivir, fundar, crear, latir y resistir desde nuestra propia pulsión de ente individual y social, son las claves que nos llevarán al emanadero eterno del cual nace la semilla de la libertad. Desde la virtud y la justicia, desde el amor al prójimo y a uno mismo, desde la delicadeza de la verdad, desde ahí se comienza el emprendimiento. Reitero que el deber de toda persona ávida de poseer en sí la llama altiva de la libertad, es velar por su total plenitud individual, para la posterior repercusión de la misma en torno a su contexto, y de ahí devendrá el éxtasis libertario por y para el hombre.
+
+Y me gustaría cerrar citando -para dirigirme a _mi pueblo_– a un poeta que nunca creyó en cadenas porque halló la libertad en el verso:
+
+> _Nuestra resistencia popular está ganosa de su propia libertad original, la específica de esta hora, la que tiene que crecer desde el poder popular y revolucionario sin otra condición que el nivel de justicia alcanzado. Ayudemos a propiciar su plenitud como si fuera -porque debe serlo- el nacimiento de un poema colectivo, ya que la historia para nosotros no se parece a la razón ni al absurdo, sino a la poesía. A la fórmula hegeliana: “todo lo real es irracional” y su reverso surrealista: “sólo lo irracional es real” oponemos la causalidad de la gestación oculta y del nacimiento como irrupción, la causalidad de la poesía. No el casualismo lógico de la razón sino la causalidad nupcial y maternal de la poesía, en la que es posible que la resistencia esté grávida de libertad.3_
+> 
+> _Cintio Vitier Bolaños._   
+
+1.  Ser bueno es el único modo de ser dichoso. / Ser culto es el único modo de ser libre. / Pero, dentro de lo común de la naturaleza humana, se necesita ser próspero para ser bueno. José Martí, Maestros Ambulantes, La América de New York, mayo de 1884, Obras escogidas en tres tomos, Centro de Estudios Martianos/ Editorial Ciencias sociales, 2000, pág. 456.
+2.  Muy recomendados para este tema el documental _The Social Dilema_, Neflitx, Jeff Orlowski, 2020 y el libro _El Imperio de la vigilancia_, Ignacio Ramonet, 2016.
+3.  Cintio Vitier, Resistencia y Libertad, Apuntes para Martí y el desafío de los noventa, junio de 1992, Resistencia y Libertad, Ediciones Unión 1999, pág. 101.
+
+## Autor
+
+-   ![](/wp-content/uploads/2021/02/ray.jpg)
+    
+    ![](/wp-content/uploads/2021/02/ray.jpg)
+    
+    [Raymar A. Aguado Hernández](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/raymar-a-aguado-hernandez/)
+    
+    Futuro psicólogo

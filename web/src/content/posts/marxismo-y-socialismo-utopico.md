@@ -1,0 +1,32 @@
+---
+title: "El marxismo y el nuevo socialismo utópico"
+date: "2020-08-04T16:00:00+00:00"
+author: ""
+category: "Marxismo"
+image: "/wp-content/uploads/2020/08/Alex-Pinna-Waiting-for.jpg"
+---
+Marxismo y socialismo utópico. 
+
+**Por: Sviajsk**
+
+El marxismo se convirtió en el nuevo socialismo utópico.
+
+Lo que hoy conocemos como marxismo no es más que una serie de investigaciones científicas acerca de la naturaleza histórica de la sociedad capitalista que se nutrieron de la crítica materialista al sistema del [Idealismo alemán](https://es.wikipedia.org/wiki/Idealismo_alem%C3%A1n), de la crítica hegeliana al formalismo de las categorías de la economía política liberal y de la utilización de estas investigaciones para la crítica de las acciones y postulados del socialismo utópico de su época en tanto forma ideológica que guiaba la acción política del proletariado. En definitiva, el marxismo surgió de la práctica consciente de la crítica como era entendida en el romanticismo en tanto única forma de hacer progresar a un sistema. Una práctica que suponía hacerlo desde adentro del mismo, desde la inmersión total en el sistema que se iba a criticar, desde el compromiso con éste para llegar a un conocimiento de causa de todas sus categorías y postulados. Y es desde el desarrollo hasta los últimos fundamentos de esos postulados que la crítica funciona rompiendo el sistema desde adentro para hacerlo avanzar a partir de su negación interna en tanto superación de todas las unilateralidades formales en su seno que carecen de fundamento.
+
+Con el transcurrir del siglo XX esa serie de reflexiones sobre los fundamentos históricos del capital fueron sufriendo una progresiva formalización. Con el pasar del tiempo comenzaron a carecer de una revisión crítica o extensión fundamental que los hiciesen avanzar a partir de su negación. Fueron convirtiéndose en mera tradición. Comenzó a desarrollarse una dinámica estanca en donde todo el tiempo queda reforzada la compulsión de volver hacia los maestros en busca de respuestas. Donde no hay desarrollo en el sentido de ampliar los postulados originarios, y mucho menos desarrollo critico en el sentido en el que el mismo Marx lo practicaba. De esta forma el marxismo, convertido en simple tradición, termina volviéndose una polémica de exégesis muertas sobre postulados que ya no tienen nada que ver con el espíritu ni el método que los vio nacer. Una simple tradición que hace ya más de un siglo se volvió un campo de disputa islámica sobre el “verdadero sentido” de las palabras del profeta llevado adelante por replicantes que, en el mejor de los casos, se animan a agregar variaciones interpretativas menores que no son más que aggiornamentos recursivos para hacer política práctica.
+
+La formalización del sistema siempre termina convirtiéndose también en una de las razones de su propia fragmentación interpretativa, ya que ante cualquier formalismo el pensamiento necesariamente termina dividiéndose en unilateralidades que surgen de tomar alguna de las múltiples determinaciones para darle un valor caprichoso o absoluto. Una dinámica que por su naturaleza no puede dejar de crear su propia serie alternada de interpretaciones. Y esta dinámica produce por si misma la imposibilidad de hacer avanzar el sistema a través de su negación ya que no parte de una crítica que se dirija al desarrollo de sus fundamentos para hacerlos estallar desde adentro sino de la necesidad de preservar una tradición por medio de la formalización de sus componentes, lo que obliga a producir series infinitas de interpretaciones que, sin fundamento más que el capricho, toman un aspecto formal y lo absolutizan como su punto de partida.
+
+Todo lo que se construyó alrededor de la tradición marxista lamentablemente no tiene valor alguno. Se ha transformado en lo que en su época fue el socialismo utópico en tanto forma ideológica limitante para pensar la naturaleza histórica de la sociedad capitalista y avanzar en la comprensión de sus determinaciones. Se ha convertido en un cementerio formal de iteración ritual carente de toda potencia cognitiva. Hoy por hoy el “marxismo” como tradición juega el mismo rol limitante que el socialismo utópico de la época de Marx. Es una ideología más. No tiene ningún valor como campo de desarrollo intelectual. Sólo hace falta ver las páginas de las revistas “teóricas” del marxismo para sentir el olor a refrito. El cadáver insepulto son ellos. Pero como todos sabemos: un zombie nunca sabe que lo es. Sino no sería un zombie.
+
+Tomado del Facebook del autor
+
+## Autor
+
+-   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
+    
+    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
+    
+    [](mailto:lis.dds1@gmail.com)

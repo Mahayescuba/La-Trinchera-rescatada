@@ -1,0 +1,29 @@
+---
+title: "violencia de genero en cuba"
+date: "2020-02-02T01:58:40+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/02/tumblr_nyodwry1KG1qlt6bfo1_1280.jpg"
+---
+#### Una visión desde la Iglesia
+
+**Por: Julio Pernús**  
+Cuando tenía 15 años y participaba de una escuela al campo, mientras recogía café en el Escambray, uno de mis compañeros de equipo le pegó un fuerte bofetón a una muchacha de atletismo por unos celos juveniles. En realidad, no hice nada por detener ese acto de violencia; era el nuevo del equipo y tenía miedo de provocar esa misma violencia en contra de mí. Quizás este artículo sea lo más cercano que he estado de defender aquella mujer.  
+El jueves 21 de noviembre, un grupo de féminas cubanas llevaron ante la Asamblea Nacional del Poder Popular, la propuesta de una Ley contra la violencia de género en Cuba, en virtud del derecho constitucional a dirigir quejas y peticiones a las autoridades. La Iglesia católica hace mucho que dejó de contar con el impacto comunicativo que tenía 61 años atrás. Somos a veces un susurro que se pierde en medio de tantas voces dentro del ecosistema mediático cubano. Pero, al mismo tiempo nuestro discurso es necesario, pues nada humano le resulta ajeno a Dios y menos cuando se trata de la mujer.  
+Desde el punto de vista teológico, no podemos olvidar que Jesús fue el primer ejemplo de lucha contra la violencia de género, pues se enfrentó a la ley y sus ejecutores cuando trataron de apedrear a la mujer adúltera; su frase ha resonado vigorosamente en la historia de la humanidad: “Aquel que esté libre de pecado, que lance la primera piedra.” Un hecho importante del evangelio es que Jesús se puso al lado de la mujer “pecadora”, descalificando la voluntad punitiva e inmisericorde de la Ley del Antiguo Testamento, al tiempo que la amparaba del régimen de opresión patriarcal propio de la sociedad que la rodeaba.  
+Un poco para ponernos en contexto: dentro del ordenamiento legal vigente en el país, ni la violencia, ni el maltrato contra la mujer, ni el feminicidio son considerados propiamente como delitos específicos. La violencia de género es un tipo de violencia particular, y sus lógicas y estructuras de reproducción no son las mismas que las de otros tipos de violencia. En el año 2019 se publicó un informe oficial en que se indica que la tasa de feminicidios en Cuba para 2016 fue de 0.99 % por cada 100.000 habitantes en la población femenina de 15 años o más. Para ese entonces, esa tasa es baja en comparación con países como [El Salvador](https://es.wikipedia.org/wiki/El_Salvador), Honduras, Guatemala, México o Brasil; y alta en relación con Perú, Chile o Panamá. Pero, aunque sea ínfimo el número de casos, debemos luchar con todas nuestras fuerzas, por desterrar la violencia de nuestra nación.  
+Usualmente no acostumbro pedir a otros comunicadores su colaboración para sumarse a una determinada propuesta, pero hoy quiero aprovechar este espacio, para interpelar a todos los católicos y cristianos en general a ponernos, al igual que Jesús, junto a esas mujeres víctimas de la violencia. Quizás, no logremos cambios radicales, pero me gusta pensar que varios curas hablaran sobre este tema en sus homilías y que los laicos que colaboran en diversos medios de la Iglesia o del Estado lleguen a incluirlo en sus agendas temáticas, o que algún obispo acompañe, con su visión de Pastor, la lucha por esta causa social.
+
+[Otros textos del autor](/una-luz-en-la-oscuridad/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

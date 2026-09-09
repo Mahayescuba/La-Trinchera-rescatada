@@ -1,0 +1,34 @@
+---
+title: "Discutiendo acerca del socialismo"
+date: "2019-10-06T15:39:55+00:00"
+author: ""
+category: "Marxismo"
+image: "/wp-content/uploads/2019/10/IMG-20190525-WA0006.jpg"
+---
+_El socialismo no puede ser interpretado como una receta, tampoco es un dogma, tampoco puede implicar la supresión de las libertades._
+
+**Por: Mauricio de Miranda Parrondo**
+
+Definitivamente, el stalinismo le hizo un daño terrible al socialismo. Con el stalinismo y el desenvolvimiento posterior se vulgarizó el marxismo.  
+La ciencia social se convirtió en dogma de fe, y las estructuras partidarias en tribunales de la inquisición. Cualquier cosa que se apartara mínimamente del guión era considerado “herejía”, “revisionismo” como se le llamaba entonces.  
+Y resulta que el primer revisionista es el propio Lenin, cuando con audacia política pasa a la acción de la toma del poder en un país que no tenía las condiciones económicas, materiales e incluso sociales para la construcción del socialismo. Esa audacia política lastró al sistema en su conjunto.  
+Engels en Antidühring escribió: “El proletariado toma en sus manos el poder del Estado y convierte, en primer lugar, los medios de producción en propiedad del Estado. Pero con este mismo acto se destruye a sí mismo como proletariado y destruye toda diferencia y todo antagonismo de clases, y, con ello, el Estado como tal”… y más adelante escribe: “Cuando el estado se convierta finalmente en representante efectivo de toda la sociedad será por sí mismo superfluo… El Estado no será abolido, se extingue”. Así las cosas, por lo que marca la evidencia estamos muy lejos de esas circunstancias.  
+A quienes están abroquelados en una trinchera inexistente, que ven enemigos donde no los hay y dictaminan como restauradores del capitalismo a quienes tratamos de que la economía cubana mejore para que mejore el bienestar de la sociedad, yo les pregunto ¿Es socialista la economía cubana? Yo tengo una respuesta para esto y es NO. ¿Domina en Cuba la propiedad social sobre los medios de producción? Mi respuesta es NO. El stalinismo nos hizo identificar a la propiedad estatal con la propiedad social partiendo del criterio de que se trataba de una “propiedad de todo el pueblo”. ¿Tiene el pueblo, supuesto propietario colectivo, la posibilidad de decidir cómo se gestiona su supuesta propiedad? NO. ¿Tiene el supuesto propietario colectivo la posibilidad de controlar y pedir cuentas a los que gestionan su supuesta propiedad? NO. Entonces, de qué economía socialista estamos hablando. ¿De qué relaciones de cooperación y ayuda mutua estamos hablando si los mecanismos de planificación son directivos y desde el centro de dirección de la economía se pretende decidir hasta lo más mínimo de la gestión empresarial a nivel miocroeconómico?  
+No nos olvidemos la advertencia de Marx en su prólogo a la primera edición de El Capital: “En el terreno de la economía política, la investigación científica libre tiene que luchar con enemigos que otras ciencias no conocen. El carácter especial de la materia investigada levanta contra ella las pasiones más violentas, más mezquinas y más repugnantes que anidan en el pecho humano: las furias del interés privado”.  
+Finalmente, quiero recordar las palabras del profesor vietnamita Le Dang Doanh en una conferencia que tuvimos en Hanoi en 2010, en una visita de trabajo con varios colegas economistas cubanos y suecos.  
+Le Dang Doanh fue asesor de Nguyen Van Linh y de Vo Van Kiet en los inicios del [Doi Moi](https://es.wikipedia.org/wiki/%C4%90%E1%BB%95i_m%E1%BB%9Bi) y comenzó diciéndonos que cuando comenzaron las reflexiones para el esbozo de la estrategia de renovación económica, los dirigentes del PCV llegaron a la conclusión de que en las condiciones concretas de Vietnam en ese momento, la palabra socialismo significaba: lograr el mayor bienestar posible en la sociedad y había que hacer todo lo que fuera necesario para lograrlo y rechazar todo lo que obstaculizara ese progreso. Eso significa visión política en función de que ciertamente el socialismo conduzca a que la gente viva mejor.  
+El socialismo no puede ser interpretado como una receta, tampoco es un dogma, tampoco puede implicar la supresión de las libertades. Si el socialismo es llevado a la práctica bajo esos preceptos será un fracaso.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/marxismo/marxismo-y-socialismo-utopico/
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,0 +1,35 @@
+---
+title: "¿Quién soy yo para juzgar?"
+date: "2020-05-27T16:30:50+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/05/Screenshot_20200527-163326-1.jpg"
+---
+…una frase samaritana que dio la vuelta al mundo: _**¿Quién soy yo para juzgar?**_
+
+## A propósito del día internacional contra la Homofobia y la Transfobia
+
+**Por: Julio Pernús**
+
+En el comienzo de la novela Por quién doblan las campanas, en inglés _For Whom the Bell Tolls_, del afamado escritor norteamericano Ernest Hemingway, este utiliza los versos del poeta John Donne para decir a sus lectores: _Ningún hombre es una isla, completo en sí mismo._ Tomando esta referencia, podemos vislumbrar que a cualquier organización religiosa, por sólida e influyente que sea en cuanto a su estructura, si no lograr cooperar con otros actores en la promoción de conceptos comunes que favorezcan la construcción de una mejor sociedad, le será bien difícil transformar su entorno social.  
+En el año 2019, durante el proceso constitucional que desembocó en nuestra nueva Carta Magna, se sucedieron debates interesantes al interior de la iglesia católica con respecto a diversos temas, pero, sin lugar a dudas, un punto común a muchos de ellos lo fue el vinculado al artículo 68 y la discusión sobre la reformulación del concepto de matrimonio. Las dos cartas de la Conferencia de Obispos Católicos de Cuba sobre el boceto constitucional abordaron la problemática; incluso algunos obispos de forma individual lanzaron al espacio público sus criterios.  
+A pesar de que el tema no ha ido perdiendo visibilidad, pues el ínfimo Covid-19 controla la agenda mediática, no podemos olvidar que para el próximo año está anunciado un nuevo código de familia que será plebiscitado, según lo informado por las autoridades responsables. De ahí que, impulsados por la Pastoral Familiar, el Movimiento Familiar Cristiano y centros eclesiales e intelectuales católicos especializados en temas de familia, debemos ir, poco a poco, compartiendo materiales que nos ayuden a comprender mejor los criterios, entiéndase la visión moral y la Doctrina Social de la Iglesia, sobre temas vinculados con el documento a votar por los cubanos.  
+El [Papa Francisco](https://es.wikipedia.org/wiki/Francisco_\(papa\)), uno de los grandes líderes mundiales, en una entrevista en que le preguntaron acerca de la visión de la Iglesia sobre el tema de la homosexualidad, respondió con una frase samaritana que dio la vuelta al mundo: _**¿Quién soy yo para juzgar?**_.  
+Aunque a veces nos cueste reconocerlo de forma pública, en las iglesias se tienen personas que se identifican con la comunidad LGBT, algunos de ellos pertenecientes a las generaciones millenial y más recientes, con roles importantes al interior de diversas pastorales. Negar o intentar disimular su existencia no resolvería nada; podría incluso acarrear problemas mayores. La pregunta clave es cómo elaborar un discurso coherente que apueste por salvar la familia heteronormativa, sin lanzar del barco a quienes sus preferencias sexuales los mueven en otra dirección.  
+En realidad, el silencio siempre puede ser una estrategia tangible, incluso inteligente de cara al futuro. También se pueden encontrar alianzas con sectores más conservadores de la sociedad con una respuesta que durante la etapa de estudio del proyecto de Constitución se hizo visible, pues desbordó el espacio religioso. No estoy diciendo que se conviertan los miembros de la iglesia en abogados de una verdad que no se pregunte y proclame la voluntad de Dios, pero a veces hay que parar y sopesar las acciones, cuanto bien o mal se puede realizar con ellas. Porque cada día será más complejo pedir a una persona que se ponga una máscara para acceder al espacio religioso o pastoral ideal.  
+Es fecha de Jornada Nacional de la Familia. Estas son realidades pastorales que de seguro se pueden abordar como parte del proceso formativo que ayude a convertir los miembros hermanos de fe en artesanos de un tejido social donde primeree siempre salvaguardar la dignidad del otro, aunque eso signifique desestructurar un poco las propias seguridades mentales. Pues a mí entender, y esto se lo debo a la espiritualidad ignaciana, una de las grandes misiones de la Iglesia es buscar el mal y desentrañarlo, poniendo al prójimo con sus virtudes y defectos, en el centro de nuestro accionar como cristiano.  
+La humillación y la sorda cólera ante la injusticia se hacen tolerables a través de las imágenes entrañables de las personas amadas y de la religión. Víctor Frankl, El hombre en busca de Sentido
+
+[Otros textos del autor](/una-luz-en-la-oscuridad/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

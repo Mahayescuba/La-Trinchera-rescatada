@@ -1,0 +1,67 @@
+---
+title: "Retos de la iglesia católica en la Cuba coyuntural"
+date: "2019-11-14T22:46:35+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/11/IMG_20191114_174229_889.jpg"
+---
+Iglesia católica en Cuba.
+
+#### Una mirada católica a desafíos eclesiales de S.E.R. Juan de la Caridad García Rodríguez
+
+**Por: Julio Pernús**  
+Desde el pasado 5 de octubre Cuba tiene un nuevo cardenal, y esto, sin lugar a dudas, ofrece la oportunidad de hacer un repaso por los tópicos donde debe posarse la mirada como Iglesia. Para este artículo voy a utilizar como referentes las ideas planteadas por dos hombres católicos de especial talento, para vislumbrar esos senderos que nos deparan el presente y futuro eclesial. Mi análisis lo voy a comenzar por la Iglesia cubana y sus retos, porque, de seguro, nos ayudarán a comprender un poco mejor, el contexto en el que se desempeñará nuestro nuevo cardenal, Juan de la Caridad García Rodríguez.
+
+> ¿qué significa ser un católico cubano hoy?
+
+Durante el pasado 31 de julio, fiesta de San Ignacio de Loyola, el P. Jorge Cela sj se preguntaba y le preguntaba a los asistentes a la Eucaristía durante la homilía: ¿qué significa ser un católico cubano hoy?, y de ahí empezaba a brindar una serie de notas que yo intentaré completar, a sabiendas de que mis pensamientos pueden ser enriquecidos por otros laicos o consagrados, que viven en esta isla llena de coyunturas.  
+…no estamos viviendo la época dorada de la Iglesia como faro del pensamiento social
+
+Ya no somos esa Iglesia triunfante de tiempos pasados. Creo que Jorge sj, se refería con acierto a que no estamos viviendo la época dorada de la Iglesia como faro del pensamiento social que rige los destinos de nuestra nación, como sucedió en la colonia; luego de varios procesos estrambóticos, la fuerza de los movimientos laicales acumulada en la república parece ser tapada por una bruma que no encontramos forma de sacar de nuestro modo de proceder.
+
+Se hace urgente planear estrategias que ayuden a enfrentar el clericalismo (entiéndase por esto depender en un 90 % de los consagrados) como práctica cotidiana de los trabajos pastorales de las comunidades.
+
+> No se podía esperar menos de familias que sufrieron toda clase de vejaciones sociales
+
+No somos ya la Iglesia mártir que enfrentó con coraje y paciencia la discriminación, la persecución y el escarnio. Esta frase deseo abordarla desde diferentes matices. En el pasado Encuentro Nacional de Historia de la Iglesia expresé durante mi exposición sobre la Reflexión Eclesial Cubana (REC) que uno de los valores de las primeras décadas del diferendo Iglesia – Estado fue la formación de un laicado comprometido y con una identidad bien definida. No se podía esperar menos de familias que sufrieron toda clase de vejaciones sociales e incluso físicas, por el “delito” de creer en Dios, casi literalmente. De esos momentos, debemos revisar y tratar de darle rostro a un sufrimiento que ha quedado como herida en la mente de muchos laicos de “siempre” en nuestras comunidades. No se trata de olvidar el pasado, pero sí buscar herramientas que nos permitan no quedarnos anclados en la historia.
+
+Hoy, creo que se afronta en las iglesias el encuentro entre aquellos que se fueron, e incluso repudiaron a personas de fe en medio de un ambiente ateisante y esos que fueron limitados socialmente por ser católicos. Ahora, sí creo necesario reflexionar sobre la situación de las familias -católicas o no-, pues padecen una situación martirológia, vinculada en gran medida con el efecto de la migración.
+
+La Isla no acaba de abordar el tren con destino a la prosperidad, y es difícil encontrar una familia que tenga todos sus miembros en el país. Puede ser impresión mía, pero el porciento en la Iglesia parece ser aún mayor, sobre todo, y esto es una tristeza, de gente comprometida.
+
+> …se afronta un cansancio social que parece traspolarse a cada una de las estructuras eclesiales.
+
+Tampoco tenemos ya el entusiasmo de la Iglesia misionera que se transformó tras el ENEC. Aunque muchos soñamos con la posibilidad de iniciar un proceso que desemboque en un nuevo Encuentro Nacional Eclesial Cubano (ENEC), hoy se afronta un cansancio social que parece traspolarse a cada una de nuestras estructuras eclesiales. Son muchos años de batallar para lograr vivir con lo justo, y uno se cansa, además de que es un desgaste psicológico tremendo, afrontar las coyunturas existenciales.
+
+Una buena pregunta sería: ¿cómo recuperar ese entusiasmo que se vivió en aquellos años de la Reflexión Eclesial Cubana (REC)?, pero no se deben perder de vista que fue de 1981 a 1985, los años de mayor percepción de la prosperidad en Cuba.
+
+Ojalá se puedan encontrar estrategias que permitan afrontar con una mayor esperanza nuestro devenir eclesial, sin dejar de comprender, los signos de los tiempos. Quizás sea necesario reescribir El Amor Todo lo Espera; yo haría una que se titulara: El cubano todo lo Espera. O buscar estrategias comunicativas para dar una voz encarnada de aliento que nos ayude a despertarnos del bostezo eclesial.  
+Me gusta mucho y suscribo este párrafo de aliento que Cela sj nos regaló en su homilía como conclusión de su análisis eclesial: somos una Iglesia debilitada, envejecida, cansada. Y sin embargo seguimos teniendo el ímpetu misionero para formar nuevas comunidades que no se detienen ante el desencanto ambiental; conservamos la capacidad de soñar mundos nuevos con esperanza, y poner la mano en el arado para construirlos, sin mirar atrás; y la sensibilidad para acercarnos al pobre, al preso, al enfermo, a los niños, a las mujeres maltratadas, sin que nos venza el egoísmo que nos corre por las venas.  
+Creo que también se ha ido logrando una red de centros educativos con la disponibilidad de soñar con una Cuba distinta, por ahora su función social prevalece en el ámbito de la educación complementaria, pero sabemos que es un sueño el poder ampliar este servicio a nuestra sociedad. También, se ha logrado una mayor apertura al mundo (cerca de 600 jóvenes cubanos fuimos a la JMJ de Panamá, algo impensable hace unos años).
+
+Es complicado de explicar, pero las manos vacías nos han dado la posibilidad de ayudar a miles de personas que han visto un halo de esperanza para sus vidas desde nuestras obras caritativas, aunque los medios oficiales no lo vean, gracias a nuestros servicios sociales, contribuimos a evitar la vulnerabilidad de miles de cubano que padecen una situación alarmante de precariedad por diversos motivos.
+
+La Iglesia católica, no tiene la primera ni la última palabra sobre nuestro futuro como país, pero es parte de él.  
+Cuando Monseñor Juan de la Caridad García llegó a La Habana, Lenier González Mederos, laico católico graduado de la Facultad de Comunicación 5 años antes que yo, escribió desde Cuba Posible algunos de los desafíos que el arzobispo de la Habana podía encontrase en la capital; de alguna forma, podemos revisar algunos de esos tópicos y darle una mirada desde los tiempos que corren.  
+El desafío de reconstruir el trabajo pastoral de la Iglesia habanera. Sin ser apologético y, sabiendo que debe seguirse trabajando en función de revigorizar algunas pastorales. Una de las visiones marcadas del modo de proceder de nuestro nuevo cardenal Juan de la Caridad García ha sido el enfoque pastoral ratificado, sobre todo, en su acompañamiento personal a proyectos de servicio eclesial.
+
+Creo que sí debe darse un mayor impulso al rol del laico dentro del gobierno eclesial, y ahora no hay un manojo de personas comprometidas para escoger. Sobre todo, porque es una realidad el éxodo de laicos comprometidos hacia el extranjero y esto parece la película de nunca acabar; pero en el horizonte se aprecian algunos jóvenes con formación de liderazgo que han apostado por Cuba y desde ellos se puede adelantar un relevo para varias estructuras pastorales que se desarrollan con un dinamismo algo lento.  
+El mundo de la Cultura y la construcción de liderazgo. Por aquí pasa una de las aristas interesantes de la Iglesia en la capital. Pues la realidad cosmopolita de la urbe necesita también espacios cristianos que logren dialogar con eso que algunos llaman la alta cultura. S.E.R Juan García, ha confiado y apostado en gran medida por el desarrollo que suscitan en la Ciudad Maravilla instituciones eclesiales como el Centro Cultural P. Félix Varela. Desde ahí se han realizado importantes esfuerzos para lograr tejer de alguna forma, vasos comunicantes con la intelectualidad citadina. Un paso necesario es lograr desde una operante comisión de cultura, fomentar y estimular un funcionamiento en red de las instituciones católicas que desarrollan esta pastoral. Además, se hace necesario empoderar como representantes del pensamiento católico, a líderes que logren desde su discurso, salir de las estructuras eclesiales y de alguna forma, intentar ser una voz dentro del complexus cultural cubano, dialogando con los diferentes ambientes sociales.  
+Poner a la Iglesia habanera y a la cubana en plena sintonía con las directrices del [Pontificado de Francisco](https://es.wikipedia.org/wiki/Francisco_\(papa\)#Inauguraci%C3%B3n_del_pontificado). La respuesta del sumo pontífice argentino al hacer cardenal a Juan de la Caridad García, es un signo de aprobación hacia su apuesta pastoral en la arquidiócesis. Ahora, es importante el no perder de vista la formación del clero y favorecer una mayor inserción de los consagrados en la vida diaria del cubano de a pie. No son pocas las voces que han reconocido los laicos en S.E. R Juan García a un hombre de pueblo, y quizás, desde su ejemplo de abajamiento, u opción radical por las cosas pequeñas que hace diario su Iglesia, se pudiese impulsar, un mejor trabajo de equipo entre laicos y clero. Aquí, pueden ayudar mucho las conocidas casas de misión y el funcionamiento real de los consejos parroquiales. De alguna forma creo necesario las reuniones de las comisiones vicariales de laicos con su pastor, o invitar a laicos comprometidos a las reuniones de planificación diocesana del clero.  
+Monseñor Juan García deberá lidiar con los hilos de la política nacional. Por supuesto que desde su llegada a la Habana el nuevo cardenal cubano ha sido interpelado sobre diversas cuestiones de la realidad nacional. Hasta el momento de hacer este artículo, la prudencia ha sido un sello distintivo en cuanto a emitir algún juicio particular sobre asuntos que puedan ser tomados como una crítica eclesial a las políticas oficiales. El modo de proceder de S.E.R Juan de la Caridad García, ha sido mantener la sinodalidad de la Conferencia de Obispos Católicos de Cuba (COCC), para emitir juicios comunes sobre temas medulares como los debates de la nueva constitución. Ahora, con su nombramiento como cardenal de la Iglesia, su figura juega un rol preponderante, como uno de los actores emergentes del complexus nacional. Quizás, su primer gran desafío como líder necesario de la sociedad civil cubana, sea durante el plebiscito para transformar el código de familia, allí muchos esperaremos su intervención sobre temas tan polémicos, como la aprobación del matrimonio entre personas del mismo sexo. Igual, el rol del nuevo cardenal puede ser de suma importancia para sostener un diálogo verdadero entre lo que se ha llamados la sociedad civil verdadera por el gobierno y los grupos emergentes que cada vez crecen en el imaginario cibernético y físico, como una sociedad civil alternativa, no tan amarrada a las instituciones estatales. Yo pondría como un reto porvenir, su papel de mediador en los diálogos de Cuba y su diáspora o con la comunidad internacional, sobre todo, en medio de un escenario sumamente conflictivo con los Estados Unidos de Trump.  
+**Conclusiones**  
+Para los cubanos ha sido una gran alegría el nombramiento de Juan de la Caridad García como nuestro nuevo cardenal, en sus manos ponemos las tristezas y alegrías del pueblo de Dios. En una ocasión, un amigo que tenemos en común el cardenal y yo, me contó que fue a verlo al arzobispado preocupado porque este no había dado nunca un juicio ni positivo ni negativo 0sobre su servicio a la Iglesia. Al recibirlo le contestó, “cada uno de nosotros tiene una responsabilidad concreta que cumplir, usted como laico y yo como arzobispo, si hacemos bien nuestro trabajo, puedes estar seguro que estaremos prestando un buen servicio a la Iglesia.” Entonces, quizás hoy, ese sea el llamado que nos pida a toda la Iglesia cubana nuestro nuevo cardenal, el poder cada uno de nosotros prestar nuestro servicio a la sociedad, al máximo de nuestras posibilidades . Y luchar cada día con coraje, por hacer mejor nuestro medio ambiente cotidiano; de seguro a él, lo seguiremos viendo en esos espacios invisibles junto a los descartados, animando con su ejemplo, a gastar la vida en eso que algunos llaman, la mística de los ojos abiertos.
+
+Iglesia católica en Cuba. Iglesia católica en Cuba. Iglesia católica en Cuba. Iglesia católica en Cuba. Iglesia católica en Cuba. Iglesia católica en Cuba. Iglesia católica en Cuba.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

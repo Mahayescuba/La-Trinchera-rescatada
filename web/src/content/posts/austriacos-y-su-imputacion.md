@@ -1,0 +1,50 @@
+---
+title: "Austriacos y el irresoluble problema de la imputación"
+date: "2018-06-26T11:15:55+00:00"
+author: ""
+category: "Economía Política"
+image: "/wp-content/uploads/2018/06/innovacion-empresarial3.jpg"
+---
+En definitiva, han pasado casi 150 años desde que Menger publicara sus Principios de Economía Política, y el problema de la imputación sigue sin resolverse.
+
+Por: **Rolando Astarita**
+
+En la nota anterior mostramos que los economistas austriacos no pueden derivar los precios de las ordenaciones de las utilidades marginales por parte de los individuos (véase [aquí](https://rolandoastarita.blog/2018/06/19/austriacos-imposibilidad-de-derivar-precios-de-utilidades/)). Pero esos rankings,u ordenaciones, de las utilidades marginales, se refieren exclusivamente a los bienes de consumo, o bienes “de orden inferior”. ¿Cómo se determinan entonces los precios de los medios de producción, (o “bienes de orden superior”), y de los llamados servicios productivos, tales como la renta de la tierra y el salario? La respuesta de los economistas austriacos no deja lugar a dudas: derivan del valor de los bienes de consumo, o inferiores.
+
+En este punto, tengamos presente que los austriacos se oponen al enfoque marshalliano (que es con el que se inician, por lo general, los cursos de Microeconomía). En Marshall, la curva de oferta, en el largo plazo, es horizontal, de manera que, también en el largo plazo, el costo de producción determina los precios. La curva de oferta de Marshall está concebida en términos subjetivos –la ganancia remunera la espera del capitalista, el salario la desutilidad del trabajo-, pero la determinación va, insistimos, en el largo plazo, del costo de producción al precio del producto final.
+
+Por el contrario, según el enfoque austriaco, la relación causal es inversa, ya que son los precios de los bienes de consumo los que determinan los precios de los medios de producción, o bienes de orden superior. Escribe Menger: “El valor que tienen para nosotros los bienes de orden inferior no puede estar condicionado por el valor de los bienes de órdenes superiores utilizados para la producción de los primeros. Es claro, al contrario, que el valor de los bienes de órdenes superiores está condicionado siempre y sin excepciones por el valor previo de aquellos bienes de órdenes  inferiores a cuya producción sirven (pp. 134-135)”. En el mismo sentido, dice Mises: “El acto valorativo original y fundamental atañe exclusivamente a los bienes de consumo; todas las demás cosas son valoradas según contribuyan a la producción de estos” (1986, p. 156). Así, si un trabajador recibe $20 por hora de trabajo, ello no se debería a que ese es el valor de la canasta de bienes necesaria para mantenerlo, sino a que es el valor que se ha imputado al trabajo del obrero como parte del valor del producto final.
+
+Se plantea entonces  de qué manera se atribuyen las participaciones en ese precio final a los diferentes insumos que participan en la producción. Como afirma Wieser, “debemos ser capaces de medir los servicios de cada pieza de tierra, de cada cantidad individual de capital, de cada trabajador individual” (1893, p. 72). Aquí precisemos que no se trata de determinar la participación física de los insumos y “factores”, un propósito que los austriacos consideran imposible (y efectivamente, es imposible), sino su participación “en valor”. De lo que se trata entonces es de ver cómo se pueden “imputar” valores a los medios de producción, o a los “servicios” del trabajo y la tierra, a partir de los valores de los medios de consumo.
+
+**No hay solución** 
+
+En principio se puede decir que la tesis de la imputación exige supuestos verdaderamente “heroicos”. Por ejemplo, ¿cómo se deriva el valor de la maquinaria que se usó para producir alúmina, de la cual se obtuvo el aluminio, que se emplea hoy para construir la ventana de una casa, a partir del valor de uso de esta ventana? Ya con formular el problema se puede advertir la magnitud de la “construcción imaginaria” involucrada.
+
+Sin embargo, el problema más grave se presenta cuando se considera la complementariedad de elementos en la producción. Por ejemplo, para producir el bien final _F_ se necesita la combinación de los “bienes complementarios” _X_ e _Y_. La pregunta es ¿cuánto del valor de _F_ (determinado por su utilidad marginal) corresponde a _X_ e _Y_? Menger trató de responder utilizando el mismo razonamiento que el aplicado a determinar el valor de los bienes de consumo: si tenemos un stock de bienes de consumo, para averiguar qué valor tiene uno de sus componentes para su consumidor, se supone que ese elemento se ha perdido. Este procedimiento lo aplica a la valoración de los “bienes complementarios”. Así, si para producir _F_ se necesita la combinación de _X_ e _Y_, Menger analiza la consecuencia de perder _X_ o _Y_, o alguna porción de _X_ e _Y_, de manera que la caída en el ingreso total por la venta de _F_ nos dé el rendimiento de _X_ o _Y_; o de una porción de _X_ o _Y_ (véase 1985, pp. 146-7). Pero, como objeta Wieser, este procedimiento falla si al quitar uno de los “bienes complementarios” utilizados en la producción, también se priva a los otros de una porción de su efecto. En ese caso, si suponemos que se disuelve la combinación y preguntamos cuál es el residuo que queda, no podemos descubrir el valor de uno de los bienes complementarios (véase Wieser, 1893, p. 84).
+
+Por lo cual Wieser intentó otra solución: supuso un sistema con tres “factores de producción”, _X_, _Y_, _Z_, que producen tres bienes finales. En su ejemplo numérico: _X_ + _Y_ = 100; 2_X_ \+ 3_Z_ = 290; 4_Y_ + 5_Z_ = 590. Resolviendo el sistema de ecuaciones resulta _X_ = 40; _Y_ = 60; _Z_ = 70 (_ibid_., p. 88). Pero el propio Wieser reconoce que si son muchos los “bienes de producción” –muchas variedades de trabajo y de tierra, y de “bienes de capital”-, “ya no hay el número de ecuaciones necesarias para una solución” (_ibid_., p. 94). Pensemos, por ejemplo, en los miles de componentes, que son específicos y entran en la producción de un avión comercial; y los miles de insumos distintos que participan en la producción de esos miles de componentes; a lo que hay que sumar los diferentes tipos de trabajo. ¿Cómo es posible imputar a cada una de estas partes un valor derivado del valor final del avión?
+
+Tampoco Rothbard (2009) resuelve el problema. Por empezar, cuando los factores de producción son específicos, reconoce que no hay principio o ley que permita establecer los precios de esos “servicios” (los bienes de capital siempre se reducen a los “factores originales”, tierra y trabajo). En ese caso, decide el regateo, o poder de negociación (véase cap. 5). Esto es, caemos de nuevo en la indeterminación (véase nota anterior, citada). A su vez, si los factores no son específicos, y si las proporciones son fijas, Rothbard admite que tampoco se pueden determinar los precios; estos dependen, de nuevo, de la negociación o regateo. Y si las proporciones no son fijas, procede de manera similar a Menger. En su ejemplo numérico, asume que para producir oro por valor de $100 se combinan 4_X_ + 10_Y_ + 2_Z_. Luego supone que la combinación de 4_X_ + 10_Y_ + 2_Z_ produce oro por un valor $80. La pérdida de una unidad _X_, permaneciendo los otros factores constantes, resulta en una pérdida del ingreso bruto de $20 en oro. Este es entonces el valor marginal del producto de la unidad _X_ con este uso (_ibid_., p. 459). Pero este razonamiento desconoce la objeción de Wieser, a saber, que exige suponer que el retiro de una unidad de _X_ no afecta el rendimiento de _Y_ o _Z_; lo cual, en la práctica, parecería muy poco frecuente.
+
+En definitiva, han pasado casi 150 años desde que Menger publicara sus _Principios de Economía Política_, y el tema de la imputación sigue sin resolverse. No es una cuestión menor para una teoría que presume de haber producido una explicación “general” de qué es lo que determina los precios. Como vimos, imposibilitados de explicar la determinación de los precios, los austriacos remiten, una y otra vez, la dificultad al limbo del “regateo”, de la “personalidad para negociar” y superficialidades semejantes. Y aunque sea difícil concebir un fracaso más estrepitoso de una doctrina económica, en una próxima nota veremos que los problemas incluso se profundizan cuando los austriacos abordan los fundamentos del valor del dinero, verdadera prueba de fuego para cualquier teoría del valor.
+
+_**Textos citados**_:  
+Menger, C. (1985): _Principios de Economía Política_, Buenos Aires, Hyspamérica.  
+Mises, L. von, (1986): _La acción humana. Tratado de Economía_, Madrid, Unión Editorial.  
+Rothbard, M. N. (2009): _Man, Economy and State. A Treatise on Economic Principles_, Ludwig von Mises Institute.  
+Wieser, F. von (1893): _Natural Value_, Londres, Macmillan.
+
+Tomado de [Rolando Astarita](https://rolandoastarita.blog/2018/06/23/austriacos-y-el-irresoluble-problema-de-la-imputacion/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

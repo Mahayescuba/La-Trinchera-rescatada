@@ -1,0 +1,48 @@
+---
+title: "Sobre la discusión en torno al socialismo"
+date: "2019-10-11T15:35:08+00:00"
+author: ""
+category: "Marxismo en Cuba"
+image: "/wp-content/uploads/2019/10/PicsArt_10-12-06.49.55.jpg"
+---
+debate en torno al socialismo.
+
+**Por: José Ernesto Nováez Guerrero**
+
+Creo que el debate en torno al socialismo, de emprenderlo, debe partir del estado de desarrollo que ha tenido la reflexión en torno al tema dentro de la tradición marxista. Sin pretender agotar acá está tradición, si quisiera apuntar algunas ideas, en diálogo fraterno con el artículo [Discutiendo acerca del socialismo](/marxismo/), publicado recientemente en este blog.  
+Sin dudas, una de las aspiraciones del socialismo ha de ser la de lograr el mayor nivel de vida posible, pero lograr esto no puede divorciarse del como lo logramos y, desde luego, siempre cabe la discusión en torno a cual es el mejor nivel de vida posible en una sociedad determinada.
+
+> ¿es posible construir el socialismo en sociedades atrasadas como Rusia, China, Cuba o Vietnam?
+
+En los primeros años de la experiencia soviética se dió un estimulante debate referente a lo que debía hacer una economía atrasada como la rusa para llegar a niveles de desarrollo productivo con los cuales pudiera, verdaderamente, comenzar a construirse el comunismo. Siguiendo la idea de Marx, se planteó que si el capitalismo había tenido una etapa de acumulación originaria, el socialismo debería tener una acumulación originaria del socialismo. Independientemente de las peculiaridades que tuviera este proceso, todo proceso de acumulación originaria, se apellide de una forma u otra, implica relaciones de explotación.  
+Se vuelve entonces sobre el problema esencial: ¿es posible construir el socialismo en sociedades atrasadas como Rusia, China, Cuba o Vietnam?  
+Lenin consideraba que sí, pero solo como un primer paso para una revolución posterior de las sociedades más avanzadas, únicas capaces de garantizar un intercambio de saberes que nivelara las profundas desigualdades sociales, fruto del orden colonial.  
+La práctica histórica demostró que el optimismo leninista debía repensarse. No bastaba con la firme disciplina y educada voluntad de un partido de vanguardia. Las condiciones objetivas del país donde había triunfado la revolución, sumado al formidable asedio internacional, determinaron una serie de decisiones que dieron la victoria en la guerra civil, pero al costo de fracturar definitivamente la democracia interna del partido y establecer un régimen de control burocrático a todos los niveles que, a la larga, permitirían el triunfo de la reacción pequeño burguesa y gran rusa, de la cual Stalin fue el rostro político.
+
+> …la URSS y las restantes sociedades de Europa del Este estaban regresando al capitalismo
+
+Las profundas contradicciones de la sociedad rusa determinaron el análisis de un Trotsky en la década del treinta sobre las deformaciones de la práctica soviética, aunque la lectura de este todavía conservaba un viso de optimismo, o la afirmación mucho más tajante del Che en la década del sesenta respecto a que la URSS y las restantes sociedades de Europa del Este estaban regresando al capitalismo.  
+Vemos entonces que el debate en torno al socialismo no se puede resolver a la ligera ni con fórmulas ambivalentes, que de tanto que parecen decir, no dicen nada.  
+Volviendo a lo del mayor nivel de vida posible, este ideal así planteado no excede las aspiraciones de cualquier república burguesa con aspiraciones de clase media. Ese estado de bienestar, por llamarlo de alguna forma, no sigue siendo más que el derecho irrestricto de explotación del capital, lo que colocando una cómoda capa de clase media entre los verdaderamente ricos y los verdaderamente pobres.  
+Tampoco creo que el ejemplo de Vietnam sea feliz, sobre todo porque el relativo desarrollo alcanzado por el país no se ha logrado sin pagar un alto costo de abandono social, y porque además el petróleo del Golfo de Tonkin jugó un gran papel en su milagro económico.  
+Creo que en el debate en torno al socialismo conviene que, partiendo de las contradicciones reales que se han verificado en la práctica, levantemos un grupo de cuestiones sobre las cuales reflexionar.
+
+> ¿Puede un partido comunista donde militan algunos de los hombres más ricos del mundo, emprender el camino de superación de la propiedad privada como premisa para la construcción del comunismo?
+
+La primera y más evidente es hasta qué punto una sociedad atrasada puede construir el socialismo. La evidente respuesta es no. Pero el hecho es que todas las sociedades que emprendieron la empresa socialista en el siglo XX eran atrasadas. Esto puede llevar, falsamente, a pensar de plano en el fracaso completo de esta práctica, pero lo cierto es que la aspiración socialista se mantiene en países como Cuba, donde con conflictos evidentes, todavía conserva un alto apoyo popular. Otras sociedades, como China, afirman la necesidad de construir el capitalismo para luego comenzar a transitar la senda socialista. Y en eso de construir el capitalismo, China ha sido muy exitosa. Queda la pregunta: ¿serán capaces de ir más allá? ¿Puede un partido comunista donde militan algunos de los hombres más ricos del mundo, emprender el camino de superación de la propiedad privada como premisa para la construcción del comunismo?  
+La segunda es hasta qué punto la voluntad de una vanguardia y la formación de una conciencia adecuada en el pueblo puede, por decirlo de alguna manera, violentar el imperativo de las condiciones materiales para emprender la construcción de una sociedad nueva. Esta parece haber sido la idea de una parte de la élite bolchevique y de los líderes de la Revolución cubana, al menos en los primeros años de voluntarismo.  
+La tercera es la referente al desarrollo de la burocracia. Si bien este fenómeno es herencia del capitalismo, lo cierto es que va a jugar un importante papel en la práctica histórica del socialismo del siglo XX y XXI. El problema con este grupo (no creo que deba considerarse como clase) es que, como bien apuntara [Lenin,](https://es.wikipedia.org/wiki/Lenin) en épocas de revolución, el aparato burocrático se convierte en el refugio de elementos del régimen derrotado. Se convierte este aparato entonces en un espacio donde sobrevive y se fortalece la conciencia pequeño burguesa y los valores que le son afines. No es de extrañar, entonces, que de el seno de este mismo aparato provenga la traición. En torno a este problema cabría repensar las soluciones de la Comuna de París, que el mismo Lenin reivindicó pero que no pudo aplicar, y que dan algunas claves necesarias.  
+Otro problema central es el de las relaciones de propiedad. La práctica histórica del socialismo hasta ahora no ha resuelto el problema de la sustitución de la propiedad privada por la social. El capitalista individual es sustituido por el estado como capitalista abstracto, pero las condiciones de alienación del trabajador con respecto al producto de su trabajo permanecen intactas. Cómo crear formas de propiedad verdaderamente colectiva, ese es el problema, que también ha tenido una larga de lista de tentativas de solución en la práctica teórica y práctica del socialismo.  
+Desde luego, estas no son ni de lejos la totalidad de los problemas que un debate sobre el socialismo verdaderamente responsable debe abordar, pero sean un primer paso, una invitación, a profundizar verdaderamente en la riqueza del problema y no quedarnos en soluciones pragmáticas y fórmulas vagas.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

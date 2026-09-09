@@ -1,0 +1,46 @@
+---
+title: "Los boteros de La Habana. La lección que nos dejan."
+date: "2018-12-10T04:36:15+00:00"
+author: "Alejandra K."
+category: "Economía en Cuba"
+image: "/wp-content/uploads/2018/05/f0065219.jpg"
+---
+Hace unas semanas atrás, en un ambiente que podríamos calificar como académico, algunos compañeros tocaban un tema -que por su aparente olvido y lejanía en el tiempo-, parece haber perdido la significación que un día tuvo. La cuestión era el incidente ocurrido hace cerca de año y medio con los boteros (taxistas de 10 pesos) de La Habana, en la cual el gobierno provincial adoptó una política de segmentación de tramos y reducción de las tarifas en forma de precios topados de los pasajes por tramos.
+
+Esta política tomaba en cuenta las rutas y las porciones de ruta que en el día a día se han ido configurando y definiendo en el transporte urbano y aunque su objeto de política iba encaminada (aparentemente) a un beneficio social evidente, contradictoriamente su implementación tras unos pocos días recibió el rechazo mayoritario de la parte del público consumidor habanero que suele transportarse en los llamados boteros. Para no extender el relato, a día de hoy, son pocos los que se acuerdan de aquel pasaje y los precios de los boteros siguen en su mismo nivel. Incluso con una reducción en el largo de los tramos y aumento de tarifas en algunos horarios.
+
+Sobre la cuestión antes abordada surgen muchas interrogantes y también la posibilidad de muchas enseñanzas, pero para lograr una mejor comprensión del hecho trataré de presentarlo de una forma en que se pueda observar mejor los mecanismos internos que llevaron a dicho resultado. Desde un punto de vista un poco más elaborado y técnico, dicha política puede explicarse de la siguiente forma:
+
+1 – El aparato regulador (Gobierno de la Habana) aplica una política encaminada a fijar precios máximos en un mercado (taxis “boteros” de la Habana), ese mercado tiene su punto de equilibrio aparente en 10cup.
+
+2 – El equilibrio de mercado en 10cup, supone una oferta y demanda equilibrada, aunque esto es una falacia realmente, pues para este mercado especialmente la oferta (cantidad de personas que es posible transportar) y la demanda (cantidad de personas que demandan ser transportadas) para un precio dado, en este caso la oferta tiende de manera general a ser inferior a la demanda (sobre todo en momentos picos de demanda del día), por lo que el mercado está atado desde un inicio a la fuerza que pueden ejercer sobre él los ofertantes (dígase los boteros).
+
+3-El ente regulador aplica dicha política (topando el precio en 5cup), y esto conllevó a una disminución de la oferta, pues disminuye el número de boteros que están dispuestos a ofertar su servicio a ese nivel de precio y por el otro lado aumentó la demanda pues a un precio menor aumenta el número de personas que están dispuestos a pagar ese precio por el servicio. Esto claramente desequilibra el mercado, creando un exceso de demanda que no es cubierta.
+
+Lo próximo es ya más histórico que económico, una mañana La Habana se despertó casi sin boteros para aliviar el ya congestionado trasporte de la capital. La política del ente regulador trajo la reacción esperada de disminución de la oferta, pero de una forma multiplicada por las características propias de dicho mercado y el complejo contexto social en el que se enmarca.  
+Sin adentrarnos mucho en el análisis, las particularidades el mercado de boteros tiende a características de Cartel, pues el poder sobre el mercado que tienen los ofertantes le permiten no solo incidir sobre los precios, rutas, cantidad de oferta por rutas etc, sin que es un poder que de hecho ejercen (pregunten qué le pasa al precio del trasporte después de cierta hora en la noche), sino que de cierta manera lo ejercen de forma coordinada. Para que no salte nadie, no es que exista la “Conferencia Anual de Boteros de la Habana”, pero existe un acuerdo en su mayoría tácito, aunque en ciertas ocasiones también es formal de cómo funciona, se distribuye y se ejecuta en funcionamiento del mercado de boteros de la Habana.
+
+Esta características de Cartel se pusieron de manifiesto en esos tensos momentos donde -para ser claros-, los boteros entraron en una puja abierta con el ente regulador para ver cual se imponía e irónicamente tuvieron de su lado a aquellos que en teoría debieron ser beneficiados por dicha política. Puja que no duró mucho realmente. El exceso de demanda creado en ese mercado que se suma a la ya existente, unido a la actitud de los boteros y los demandantes, así como la imposibilidad del ente regulador de cubrir el exceso de demanda generada con los medios a su disposición, conllevaron a la anulación efectiva de la implementación de dicha política, que en el momento en el que se escribe este texto, no sé si de manera formal aun sigue en vigencia. Aunque a efectos prácticos poco importa si se mantiene o no, pues su desconexión con la realidad económica y social de donde se implementaba la condenaron al fracaso incluso antes de salir del buró en donde fue aprobada.
+
+De lo que trata este texto no es de cuestionarnos la política en sí, ni mucho menos a sus implementadores, pues ya la realidad y la gente hicieron ese trabajo y la colocaron en el lugar que se merece (al fondo de un cajón). Para ser justos las políticas posteriores que se han implementado con respecto al trasporte de la capital, aunque insuficientes, han logrado asumir las experiencias que seguro se obtuvieron de dicho fiasco. Poner a funcionar las “Cooperativas de trasporte”, los ruteros, entre otros , son ejemplos de una política mucho más consecuente (para las características de dicho mercado), que tiene como objetivo aumentar la oferta a menores precios y tal vez así algún día cuando dicha oferta sea lo suficientemente amplia como para satisfacer la demanda que se crearía en otro intento del ente regulador por topar los precios, se pueda aplicar con una mejor base una política que aunque inefectiva y poco realista para las condiciones actuales, tenía como propósito beneficiar a eso que cada día se levanta para construir la riqueza de este país: los trabajadores.
+
+Algunas conclusiones que se extraen de dicho tema:  
+– Los organismos reguladores cubanos aún se encuentran con una inexperiencia notable, en el proceso de regulación de los mercados con actores privados, hecho comprensibles por los pocos años de existencia legal de los mismos en el panorama económico cubano.  
+– Las políticas de topar precios son dentro de mercados con desequilibrios, en donde la demanda es muy superior a la oferta (la gran mayoría de los mercados cubanos son de ese tipo), poco efectivas y en su mayoría pueden llegar a ser contraproducentes, más si no se cuenta con la posibilidad de dar respuesta rápida al exceso de demanda generado.  
+– En la economía con actores privados, en donde priman mecanismos de regulación de mercado capitalista, este tiende a la larga por imponerse sobre las medidas externas que traten de influirlo y tratará de volver nuevamente al equilibrio.  
+– Es posible que el llamado “incidente de los boteros de La Habana” haya sido en Cuba el primer enfrentamiento abierto entre la lógica de regulación de un mercado capitalista (la lógica del Capital) y el ente regulador estatal (lógica de Vanguardia), en donde el saldo claro fue la imposición del primero. Aclaro: esto no es una señal nada positiva para el devenir de nuestro modelo económico.  
+Por último, me gustaría señalar que el hechos abordado-aunque parezca ser un fenómeno aislado- es un ejemplo aterrador de lo que puede ocurrir en un futuro no muy lejano cuando inexorablemente se exacerben las contradicciones entre las dos lógicas que hoy conviven a lo interno de nuestro país, la lógica del capital y la lógica de la vanguardia.
+
+Nota: Sobre el concepto de “lógica de vanguardia” empleado en este texto, consultar el libro, “Las Contradicciones del Socialismo Real: Los dirigentes y los dirigidos” de Michael Lebowitz.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

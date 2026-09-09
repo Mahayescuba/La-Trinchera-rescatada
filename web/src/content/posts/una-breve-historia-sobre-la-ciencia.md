@@ -1,0 +1,42 @@
+---
+title: "ciencias y estructuras sociales dominantes"
+date: "2018-08-17T12:00:30+00:00"
+author: ""
+category: "Opinión"
+image: "/wp-content/uploads/2018/08/Steampunk-brooch.jpg"
+---
+A lo largo de la historia las ciencias se han subordinado a las estructuras sociales dominantes, que en gran medida han retrazado su devenir.
+
+Por: **René Portuondo**
+
+Desde el surgimiento del hombre como especie, el deseo de explicarse los disímiles fenómenos que a su alrededor ocurrían y que en gran medida lo afectaba, le impulsaron a pensar en los mismo como parte de su propio desarrollo.
+
+En un primer momento predominaron sobre la razón y la ciencia, las explicaciones [teológicas](https://es.wikipedia.org/wiki/Teolog%C3%ADa) del mundo, que encontraban en lo sobrenatural las causas de los procesos y objetos del mundo material. Aún en estas condiciones algunos pueblos de la antigüedad (griegos, romanos, egipcios, mesopotámicos, fenicios, etc.) realizaron descomunales avances científicos que impulsaron el desarrollo del hombre primitivo y lo colocaron como sujeto activo y trasformador ante la naturaleza. Los primeros sabios de la antigüedad dieron al mundo las bases de lo que hoy constituyen las ciencias modernas.
+
+Seguido a este momento histórico, de gran desarrollo de las ciencias; los cambios políticos y económicos que configuraron el orden feudal, subordinaron todo el saber científico y el pensamiento a las instituciones eclesiásticas que dominaron el mundo por casi mil años. El pensamiento que tanto avanzó en tiempos de griegos y romanos, creadores de la lógica y el derecho, fue subordinado en su totalidad a servir de sustento a la fe o por otro lado a no existir.
+
+Los avances científicos y del pensamiento, separado de la teología o que dentro del mismo cuerpo metafísico contradecían postulados fundamentales de la fe, fueron duramente perseguidos. En el año 1551, la Iglesia Católica publico la primera edición de su tristemente célebre: _“Index librorum prohibitorum”_ (Índice de libros prohibidos), en donde fueron a para las obras de aquellos autores que los sensores consideraban contrarias a la fe. La hegemonía inapelable de la iglesia católica, trató de opacar el desarrollo del pensamiento más progresista de su época, **_o con la fe o contra la fe, no hay tercera postura._**
+
+Obras de autores de la talla, de Descartes, Giordano Bruno, Rousseau entre muchos otros fueron incluidas en el índice y prohibidas para los creyentes, incluso bajo la posibilidad de severos castigos. Podría decirse que estar en el “índice” era sinónimo de un pensamiento progresista para la época (a la larga haber sido proscrito por el Índice fue considerado un orgullo para muchos autores) contrario a los dogmas impuestos por la fe, tal es así que la mayoría de las obras en el mismo incluidas, han trascendido mucho más que aquellos que al olvido quisieron condenarlas.
+
+En estas condiciones adversas, el camino de los hombres de ciencia que anteponían la razón a la pura explicación teológica se fueron abriendo camino poco a poco. Hombres de la talla de Giordano Bruno, que aun siendo un fraile católico prefirió morir en la hoguera antes de renunciar a sus concepciones científicas, abrieron para la ciencia un camino de grandes logros que en los últimos 500 años ha cambiado por completo la concepción de mundo metafísico de la edad media.
+
+En este esfuerzo contribuyó enormemente el ascenso de la burguesía en toda Europa, así como las revoluciones burguesas acontecidas en Inglaterra y Francia. La burguesía, nueva clase dominante en la Europa post-feudal, impulsó la liberación de las ciencias de sus ataduras eclesiásticas y abrió para las mismas un inmenso mundo que debían trasformar. Esta liberación sirvió de base para convertir a las mismas en instrumentos para erigir un nuevo mundo a imagen y semejanza de esa nueva clase dominante. La supeditación teológica fue rápidamente sustituida por la supeditación ideológica.
+
+Las ciencias encontraron en el periodo de desarrollo de la burguesía su momento de máximo esplendor, el hombre desprovisto de sus principales ataduras, visto ahora como un individuo libre, se encaminaba a dominar al mundo a través del conocimiento. Los nuevos horizontes eran mucho más amplios que los del dogmatismo feudal, pero la nueva sociedad imponía también caminos que no podrían transitarse, cuestionamientos que eran contrarios a la ideología que representaba y por ello volvía a definir nuevos límites a las ciencias, sobre todos a las sociales. Y esta sociedad burguesa, carcomida en gran medida por sus propias contradicciones, parecía por momentos precipitarse hacia su propia superación, que tendría lugar en la revolución proletaria, la última gran revolución que vaticinaba el fin de la opresión y la subordinación humana; y por ende de la subordinación del pensamiento.
+
+Y entonces llegaron las revoluciones obreras, que cambiaron el panorama del mundo de una manera radical y permanente; la construcción de una nueva sociedad era la tarea de orden en los países que comenzaron a transitar este camino. Y con estas vinieron nuevamente revoluciones en el pensamiento, la ciencia se puso a la tarea, nuevamente, de construir una nueva sociedad, de liberar para siempre al hombre de sus trabas y en el proceso liberarse a sí misma.
+
+Pero una vez más una liberación momentánea fue continuada con el establecimiento de una nueva subordinación, esta vez más cruda y despiadada de aquella que trataba de huir. Las ciencias sociales sufrieron una subordinación extrema a la ideología oficial, que monopolizó el saber y la producción científica, paralizando el desarrollo de las mismas y por ende condenándolas a su degeneración. Mejor suerte corrieron las ciencias exactas y naturales, aunque cabe recordar los tristes momentos de satanización que sufrieron disciplinas como la genética y la cibernética que fueron calificadas de “ciencias burguesas” y tratadas de condenar al olvido, sobre todo en el período estalinista.
+
+Sin importar la época a que nos refiramos, no ha existido ni podrá existir en el mediano plazo, momento definido en donde las ciencias como generalidades se desarrollen desligada de un producto de la estructura política dominante. Primero existieron para servir como esclavas a la religión y el misticismo. Luego, en el periodo de desintegración del régimen feudal y las etapas posteriores, su desarrollo se ha mantenido atado a las formas ideológicas de las conciencias. Las ciencias que nacieron para mostrar el mundo en su realidad más verdadera, han sido subordinadas desde su surgimiento a las doctrinas de la clase en el poder, las cuales, terminan por convertirlas en simple y vacía ideología.
+
+## Autor
+
+-   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
+    
+    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
+    
+    [](mailto:lis.dds1@gmail.com)

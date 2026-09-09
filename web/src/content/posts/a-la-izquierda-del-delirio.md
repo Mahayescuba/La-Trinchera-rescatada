@@ -1,0 +1,34 @@
+---
+title: "A la izquierda del delirio"
+date: "2019-09-02T06:26:32+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/09/PicsArt_09-02-02.22.56.jpg"
+---
+Izquierda.
+
+**Por: Miguel Alejandro Hayes**
+
+La ausencia de debates arroja resultados. Uno de ellos es que el punto de partida de la respuesta a un texto mío, sea calificarlo de servir al enemigo. Así Dayron Roque propone que mi post _Educación y Autoritarismo_ le es funcional a la derecha.  
+Quienes asumen con seriedad la reflexión saben que el orden en que se plantean las ideas –más allá de las oscuridades y perversiones del inconsciente-, responde a una intención comunicativa que sugiere una interpretación –esto, hermenéuticamente hablando, claro-. De modo que no es casual el inicio de la réplica que se me da. Ahí se emplea un calificativo que a mi juicio, no se demuestra, sino que solo se pone, y luego lo acompañan algunas exposiciones.  
+Pero no se puede criticar un texto que no se entiende, al menos no de manera seria. Marx tendría el ecord de ser el autor que más han criticado –y que más han seguido- sin ser entendido. Yo, desde una infinita pequeñez al lado del _Moro_, tengo la dicha de recibir una respuesta en la misma situación. Cuestión por la cual me veo obligado a hacer alguna puntualización.  
+Mi texto indica que la escuela cubana –e hice la salvedad de no incluir a la enseñanza superior porque me pareció una generalización incorrecta- se caracteriza por los métodos repetitivos, los cuales en última instancia reproducen una lógica autoritaria que después se manifiesta. La vida política no puede escapar de ello. En pocas palabras, quien se forma en doce años de educación autoritaria, pasa a ser –como promedio- un individuo que va a reproducir en el plano político el autoritarismo. Esa es la sustancia de post y sobre la cual debiera esgrimirse un debate productivo.  
+Una lectura acertada de mis líneas se hubiera acoplado con la idea de cuál es la base –o al menos una de ellas- de la relación inclusión/exclusión que como sociedad tenemos a partir de los esquemas de educación autoritaria que formamos, y que esta se refleja en el pensamiento político –una lógica muy gramsciana, ¿no?  
+Sé que la formación teórica de Roque no cometería el error de confundir el sujeto y la estructura de poder real con el sujeto y la estructura política –error que le ha costado muy caro a las lecturas a Marx de Althusser y de Lukacs, por solo mencionar-, pero me llama la atención que piense _a priori_ que otros desconocemos ese riesgo y sí cometeríamos tal equivocación. ¿Cómo se explica? No Roque, soy hegeliano. Desde Hegel no se hace la formalista separación estado-sociedad civil. Marx y Gramsci, de él lo heredaron –de modo más, o menos directo.  
+Pudiera responder las consideraciones sobre la educación y las cuestiones que deja abierta el artículo de Roque, pero ya eso sería para otro debate y trasciende el objetivo de este texto, y las considero innecesarias y situadas en el plano de la arrogancia del intelecto –que es muy dañina al pensador revolucionario cubano actual-. Solo señalo algo -que no tomo al azar- que me gustaría reforzar. Sí, hay mucho marxista disfrazado, más bien, mucho pseudomarxista. Mucho marxista de sistema categorial, de consigna anti-capitalista. Sí, mucha envoltura, pero incapaces de tirar la primera piedra si de articular _Capital_–[_Grundrisse_](https://es.wikipedia.org/wiki/Grundrisse)–_Manuscritos_, si de un verdadero debate en materia dialéctica se trata, ¿verdad?  
+Aclarado esto, me queda lamentar que la esencia de los señalamientos de Roque no se correspondan con lo por mi expresado en mi post, por lo que no creo que pueda responder a ellos. Como tampoco lo merece quien empieza (des)caracterizando. Aguanto el ego, para no invitar a comparar las razones de la relación producción/edad. Prefiero emplear tiempo para, desde mi pequeña trinchera –que no es lo mismo que un escondite-, intentar apoyar causas justas.  
+Recuerdo que las redes se movilizan para hacer frente a lo que pudiera ser una parametración en la educación superior. Batalla que todos sabemos a donde pudieran llegar las implicaciones –aunque no llegue- para quien la asuma del lado más débil. Doy mi pequeño -casi imperceptible- aporte como izquierda y como marxista, porque la izquierda y el marxismo honesto deben estar ahí, temblando de indignación ante la injusticia del mundo –y en Cuba, que a muchos se les olvida- y no enajenados en el delirio del ascenso institucional. Espero que Roque en su práctica ideológica esté situado en la línea de combate con la izquierda, y no a la izquierda (del delirio).
+
+Espero mejores debates.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

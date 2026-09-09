@@ -1,0 +1,54 @@
+---
+title: "Teoría austriaca del valor"
+date: "2018-05-08T12:15:54+00:00"
+author: ""
+category: "Teoría"
+image: "/wp-content/uploads/2018/05/Valor.jpg"
+---
+Una reflexión sobre la teoría austriaca del valor.
+
+Por: **Rolando Astarita**
+
+En una nota anterior ([aquí](https://rolandoastarita.blog/2018/04/08/la-critica-de-rallo-a-la-reduccion-de-marx/)) dedicada a la crítica que hace Ramón Rallo a la reducción marxiana de los valores de cambio a una “sustancia común”, explicamos por qué esta solo puede tener un carácter social. Esto es, no puede ser una característica física o química de las mercancías, ni ser una propiedad subjetiva. En este sentido demostramos, con numerosas citas de pasajes de _El Capital_, que Rallo miente cuando afirma que Marx no explicó por qué el peso, por ejemplo, no puede ser el elemento en común que determina el valor de cambio.
+
+Sin embargo, esta respuesta a Rallo sería incompleta si no decimos que en realidad los economistas de la escuela austriaca _niegan que en el intercambio se produzca una reducción a una sustancia en común_. Lo cual es inseparable de su concepción subjetiva del valor. Es que los austriacos reconocen que las utilidades marginales “no son comparables, dado que no pueden ser medidas”, y admiten por lo tanto que las escalas de valor de los diferentes participantes en el mercado “no pueden ser reducidas a una medida o escala” (Rothbard, 2009, p. 87). Es por esta razón que están obligados a sostener que en el intercambio no existe reducción alguna a sustancia en común.En base a lo planteado en la introducción a esta nota, se entiende que antes de decidir si el elemento en común que gobierna las proporciones cuantitativas en que se intercambian las mercancías es el trabajo, o cualquier otra cosa, _es necesario discutir si esa reducción a elemento común existe o no existe en los intercambios_. Marx en este punto es claro: para comparar cuantitativamente “es preciso reducir los valores de cambio de las mercancías a algo que les sea común, con respecto a lo cual representen un más o un menos” (1999, p. 46, t. 1). Y algunas páginas más adelante cita aprobatoriamente la idea de Aristóteles de que a fin que haya una relación de valor entre dos bienes -5 lechos = 1 casa- _debe existir una igualdad_. Es que si la casa no se equipara cualitativamente al lecho no se puede establecer una relación recíproca como magnitudes conmensurables (véase Marx, p. 73, t. 1). En otros términos, si no hay una métrica común, será imposible establecer alguna ley económica que rija esos intercambios.
+
+Los austriacos, en cambio, rechazan tajantemente la existencia de cualquier igualación. Por ejemplo, Rothbard (2009, cap. 2) toma el caso del intercambio entre el individuo _A_, que posee el bien _X_, y el individuo _B_, que posee el bien _Y_. Tanto _X_ como _Y_ son bienes escasos, útiles para fines humanos. La esencia de este intercambio, dice Rothbard, es que _A_ debe valorar más a _Y_ que _X_, y _B_ debe valorar más a _X_ que _Y_. De esta manera _A_ y _B_ aumentan sus “ingresos psíquicos”. Rothbard supone, además, que los agentes ordenan los bienes _X_ e _Y_ según las utilidades marginales que evalúan de los mismos. Así, antes de hacer el intercambio la escala de valores dice que _A_ prefiere _Y_, que no tiene, a _X_, que posee, en tanto _B_ prefiere _X,_ que no tiene, a _Y_ que posee.
+
+Este ejemplo de intercambio simple, siempre según Rothbard, basta para eliminar la noción falaz de que cuando _A_ y _B_ intercambian _X_ e _Y_ existe alguna “igualdad de valor”. Si Robinson, poseedor de bayas, intercambia con Jackson, poseedor de vacas, en proporción 5000 bayas : 1 vaca, se debe a que “para cada uno de ellos hay una _desigualdad_ de valores entre la vaca y las bayas” (_ibid_., p. 103). En el mismo sentido Menger afirma: “Si los bienes intercambiados han pasado a ser equivalentes… no se ve por qué ambos negociadores no habrían estado dispuestos a deshacer inmediatamente el cambio” (1985, p. 171). Y luego: ““no existen equivalentes en el sentido objetivo de la palabra” (p. 172). Mises también critica la idea de Aristóteles de que “no puede haber cambio sin igualdad, ni igualdad sin conmensurabilidad” (1986, p. 65). Y Böhm Bawerk precisa que “\[l\]os economistas modernos \[los partidarios de la teoría subjetiva\] son unánimes en creer que la antigua concepción escolástico-teológica de la ‘equivalencia’ de los valores cambiados entre sí no responde a la verdad” (1986, p. 442).
+
+**Pero la igualación es un hecho**
+
+Sin embargo, y a pesar de lo que dicen los austriacos, en la realidad del mercado la igualación a “sustancia común” _es un hecho_. Así, si el precio de las 5000 bayas es $10.000, y las 5000 bayas se intercambian por una vaca, esta necesariamente tendrá un precio de $10.000. Pero entonces 5000 bayas y 1 vaca _se han igualado a una tercera “mercancía”, $10.000_. De manera que, contra lo que dice Rothbard, hay una “igualdad de valor_”_. Por eso también, una vez terminado el intercambio, Crusoe y Jackson _han ganado en valor de uso, pero no en valor de cambio_. Lo cual demuestra que _la utilidad no puede ser valor_, y que se distingue tangiblemente del mismo.
+
+Pero incluso Rothbard (2009), en el apéndice al capítulo 4, debe admitir que es importante distinguir entre el uso subjetivo del término valor, en el sentido de valuación y preferencia, y el poder de compra o precio en el mercado. Así, si una casa es vendida en 250 onzas de oro, su “valor capital” (en términos marxistas diríamos precio, expresión de su valor) es 250 onzas, _de naturaleza distinta al valor subjetivo_. Pero con esto está diciendo que a la hora de concurrir al mercado el comprador y el vendedor no solo tienen en cuenta la utilidad de la casa, _sino también su valor de cambio, su precio_. Sin embargo, cuantitativamente no hay forma de comparar valor de cambio y valor de uso. Pero dado que Rothbard superpone la valoración subjetiva con el valor de cambio, termina afirmando que ambos se pueden comparar. Así, sostiene que “una unidad de un bien, o un bien, puede tener para su poseedor ya sea valor de uso directo o valor de cambio, o una mezcla de ambos, y la que es la mayor es la determinante de su acción” (2009, pp. 89-90). Sin embargo, ¿cómo se puede comparar cuantitativamente la utilidad marginal que tiene _X_ para Crusoe, con su valor de cambio, para decidir cuál es mayor? No hay forma de hacerlo, ni Rothbard (ni cualquier otro autor austriaco) nos dice cómo puede ocurrir.
+
+En cualquier caso, aparece de nuevo el problema: _el valor de cambio es de una naturaleza distinta del valor de uso_, y esta diferencia se evidencia en el mismo hecho de la equiparación, que se opera en el intercambio, a sustancia en común. Se trata de un punto central en la demostración de Marx. Es que “en tanto valores _todas las mercancías son cualitativamente iguales y solo cuantitativamente diferentes_” (Marx, 1989, p. 65, t. 1; énfasis agregado). Por eso “se sustituyen… en determinadas proporciones cuantitativas” (_ibid_.). De ahí que como valores se cancelen todas las cualidades naturales de las mercancías. Lo cual nos remite una vez más a la idea de que el valor es una propiedad social, económica. Pero por esto mismo el valor de la mercancía “debe poseer una existencia cualitativamente distinguible de ella, y en el intercambio real esta posibilidad de existir separadamente debe convertirse en una separación real…” (_ibid_., p. 66). Y el valor de cambio de la mercancía “como existencia particular junto a la propia mercancía _es dinero_” (_ibid_., p. 67). Por eso, en el intercambio las mercancías se equiparan a una “tercera cosa” que no es una mercancía particular, sino que es signo o encarnación del valor. Solo mediante esta reducción las mercancías, de distintos valores de uso y con distintas propiedades físicas, se convierten, en tanto valores, en magnitudes concretas, tienen la misma unidad y son conmensurables (_ibid_., p. 68). De ahí que la reducción al elemento en común –el trabajo humano indiferenciado, abstracto- _está en la naturaleza misma del intercambio_. Es lo que explica también por qué el dinero es un producto natural del mismo intercambio mercantil.
+
+Sin embargo, los economistas austriacos, al negar que el valor sea una propiedad social, no otorgan ninguna significación especial al hecho de que las mercancías, en el intercambio, se reduzcan a “sustancia común”, el dinero. Es que si admitiesen que en el intercambio existe esa reducción, no podrían afirmar que el valor es subjetivo. Aunque por otra parte, deben reconocer que el pretendido valor subjetivo coexiste con un valor objetivado en dinero (las 250 onzas de oro que vale la casa del ejemplo de Rothbard). Pero esa “coexistencia” de valores no es explicitada teóricamente. La consecuencia será entonces la imposibilidad de conectar lógicamente utilidad y valor de cambio (o valor); también de establecer alguna ley económica que gobierne las proporciones en que se intercambian las mercancía; y de integrar el dinero en la teoría subjetiva del valor.
+
+Por supuesto, Ramón Rallo (véase “Refutación de la teoría del valor trabajo y de la teoría de la explotación de Marx” [https://www.youtube.com/watch?v=-2yuOyI\_ugQ](https://www.youtube.com/watch?v=-2yuOyI_ugQ)) ha pasado olímpicamente por alto estas cuestiones que son centrales en la teoría  de Marx.
+
+**_Textos citados_**:  
+Böhm Bawerk, E. von (1986): _Capital e interés. Historia y crítica de las teorías sobre el interés_, México, FCE.  
+Marx, K. (1989): _Elementos fundamentales para la crítica de la Economía Política (Grundrisse) 1857-1853_, México, Siglo XXI.  
+Marx, K. (1999): _El Capital_, México, Siglo XXI.  
+Menger, C. (1985): _Principios de Economía Política_, Buenos Aires, Hyspamérica.  
+Mises, L. von, (1986): _La acción humana. Tratado de Economía_, Madrid, Unión Editorial.  
+Rothbard, M. N. (2009): _Man, Economy and State. A Treatise on Economic Principles_, Ludwig von Mises Institute.
+
+Tomado de [Rolando Astarita](https://rolandoastarita.blog/2018/05/03/los-austriacos-y-la-reduccion-a-sustancia-comun/)
+
+Una reflexión sobre la teoría austriaca del valor. Una reflexión sobre la teoría austriaca del valor. Una reflexión sobre la teoría austriaca del valor. Una reflexión sobre la teoría austriaca del valor. 
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.desdetutrinchera.com/author/miguel-hayes/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

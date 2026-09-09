@@ -1,0 +1,89 @@
+---
+title: "Oposición de izquierda"
+date: "2020-05-11T18:33:46+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/05/El-lado-invisible-de-Tepito.jpeg"
+---
+Un texto que nos trae un término que resulta novedoso en el escenario político cubano actual: oposición de izquierda.
+
+**Por: Ramón García Guerra**
+
+## I
+
+La crítica que recibió un artículo de Carlos Luque: [_La «bondad» neoliberal de los entusiastas consejeros_](http://www.granma.cu/cuba/2020-05-06/la-bondad-neoliberal-de-los-entusiastas-consejeros-06-05-2020-23-05-55), que se publicó en Granma en fecha reciente, hizo que este señor publique hoy otro texto en su defensa con un título sugerente: _El nuevo vergonzante argumento: la oposición de izquierda_. Sucede que como yo hablo de oposición de izquierdas en Cuba en una entrevista que me hizo Lynn Cruz, que se publicó en Havana Times, me siento aludido. Entonces me voy a referir a ambos textos de Carlos Luque en esta ocasión.
+
+Ante todo, debo decir que las entrevistas que di a Yadira Escobar, Erich Concepción Quicutis y Lynn Cruz, donde se habla de una oposición de izquierdas, han sido publicadas antes de que Carlos Luque lo hiciera en su artículo en Granma. Significa que la alusión a una oposición de izquierdas en el último artículo de Carlos Luque sin duda se debe a motivaciones que son ajenas a mis entrevistas. Entonces, como no viene al caso ni veo razón en sus textos, dedico las líneas que siguen a visibilizar la agenda de una oposición de izquierdas antes que a contestar la lógica de Carlos Luque en sus artículos.
+
+Discutiré las ideas expuestas por Carlos Luque en Granma, para más tarde comentar las afirmaciones que hizo en Facebook; todo ello, con la intención de mostrar de qué va lo nuestro.
+
+Carlos Luque dice en Granma que “algunas propuestas” para Cuba (nunca se sabe quién las hace) en una era post-Covid/19 nos reenvían a la experiencia de China y Vietnam; que estas personas hacen énfasis en promover las Pymes como alternativa a la economía que gestiona el Estado. Suspicaz, este señor se percata de que “nada se dice sobre la procedencia de las inversiones” y de que menos se habla de los efectos que producirían dichas propuestas en el conjunto de la sociedad. Entonces el autor se defiende y dice que estamos ante ideas fuera de contexto. El caso de los asiáticos no aplica en Cuba. Pero si esa fuera la política, aún se halla la hostilidad del Imperio en medio; bloqueando el futuro a los cubanos.
+
+\[Fíjese el lector que todavía no aparece el fantasma de una oposición de izquierdas en este artículo.\]
+
+Ahora, ¿cuál ha sido la postura de los socialistas libertarios que hacen una oposición de izquierdas al gobierno hoy mismo? La apuesta de los libertarios es por una sociedad abierta a escala humana de bajo impacto ecológico que esté centrada en la comunidad. Creemos que de inmediato el Estado y el mercado deben ser convertidos en servidores de la sociedad. Significa que nunca deben estar por encima de esta última. Pienso que esto es muy congruente con el mundo que emergerá en la era post-Covid/19. Este será el mundo de la multipolaridad, las políticas neokeynesianas, el sentido de comunidad. Disponer de un denso tejido social nos blindaría ante los vaivenes de un sistema-mundo capitalista colonial-patriarcal que no mostrará signos de agotamiento sino hasta después de 2050.
+
+Luego, está la deuda histórica que acumuló la Revolución en las últimas seis décadas. Creemos, en tal sentido, que lo peor sucedió en la era soviética en Cuba (1971/1989). Desde el impacto ecológico de la economía hasta la falta de pertinencia en la sociedad, pasando por corrupción dentro de la política.
+
+Sobre el tema que preocupa a Carlos Luque, las Pymes, creo que dije lo suficiente en la entrevista que me hizo Erich Concepción Quicutis y solo me resta indicar en dónde puede ser vista esa parte de la misma. Sugiero que se haga la consulta [(1)](https://www.facebook.com/erichconcq/videos/548077772795066/]). También hablo en esta entrevista del modelo de economía [(2)](https://m.facebook.com/story.php?story_fbid=10158482642615159&id=654205158]). Pienso al respecto que las Pymes son la alternativa social, económica y política, que estas pueden colocar a Cuba en un círculo virtuoso en la línea de desarrollo del país, elevando la tasa de acumulación que oscile entre un 10 y un 25 por ciento del PIB en solo 3-5 años.
+
+Desde luego, no se trata tan solo de saldar los déficits que acumuló el proceso en los últimos 60 años, sino que hemos de abrirnos al mundo de un modo proactivo y dialogar con las nuevas realidades.
+
+Particularmente, hablo de que Cuba debe de asumirse tal como es y entender que es una nación en proceso. Sepamos que esa batalla se gana o se pierde en la comunidad. Después de eso se puede hablar de las Pymes, de la autogestión de la comunidad, de la cogestión obrera de las empresas, del control popular de la gestión de gobierno… Entonces se verá que una forma de propiedad no decide la naturaleza de un gobierno, como hoy sucede con modos de producción no-capitalistas que son subsumidos por la lógica del capital en un proceso de reproducción ampliada de este a nivel mundial.
+
+## II
+
+En otro texto de Carlos Luque, que inicialmente él publica en su muro en Facebook y que más tarde aparece en PostCuba, me veo implicado sin hallar mucho sentido en lo que se dice en el mismo.
+
+Carlos Luque hace una pregunta: “¿Existe una oposición de izquierda contra la Constitución?”
+
+Pregunta mañosa. ¿Estamos en contra de la Constitución?
+
+Sepamos que la nueva Constitución es antisistema en la medida en que resulta ser un valladar en contra de los excesos del Estado. Estado que no halló otra fuerza que se le opusiera en seis décadas que no fuera su propia voluntad. Luego hay que advertir que fue la abstención la gran vencedora en el referendo y, con a ella, el voto antisistema. El voto de la derecha fue por el No, el disenso de izquierdas votó por el Sí y la oposición de izquierdas se abstuvo de asistir a la votación. Sugiero, en tal caso, que se consulten las estadísticas del proceso y los debates que suscitó el mismo.
+
+Después de hacer tal pregunta, este señor dice cosas peores.
+
+“La intención política es entonces manifiesta, –nos advierte– sugiriendo un cisma, lo cual es sumamente grave para un país bajo agresión como Cuba. Es notorio que si acaso relacionan lo económico con lo político es para insistir en el fracaso del socialismo y las bondades de la privada propiedad.”
+
+Carlos Luque, en tal sentido, pasa por alto el debate que en los últimos 20 años se produjo al interior de la izquierda en Cuba. Parece que este señor, por ejemplo, nunca asistió a un “Debates de Últimos Jueves” o nunca leyó Kaosenlared en ese lapso. Esto digo, para no hablar de las dos décadas de disenso de izquierdas, que ocurre en Cuba entre 1965 y 1985, y que acaba con la recuperación del Che del olvido. Este señor nos acusa de crear un cisma y poner en peligro a la Revolución, cuando han sido los “leninistas” los que por siempre –según la confesión de Luque– han gestionado el “espacio” en donde se factura el “UNIDAD” de los cubanos. \[Claro que se sabe de qué UNIDAD nos habla.\] La excusa de que nunca es el momento de discutir los errores en el campo revolucionario, que nunca las masas están preparadas para ese debate, resultó ser la coartada de una clase política que usurpó el poder de espaldas a la soberanía de un pueblo.
+
+La crítica de José Martí a “esos que ofuscan con el miedo la inteligencia” es muy oportuna hoy mismo.
+
+Carlos Luque insiste. Para este señor hablar de una oposición de izquierda, nos dice, resulta ser una maniobra de distracción. Porque la política de esta oposición es –según Carlos Luque– pasar por revolucionaria y vencer la “resistencia” del pueblo, que ha sido previamente adoctrinado por los “leninistas”. \[En fin, este señor se salva de que Lenin no esté vivo.\] Sucede que sólo los lebreles del estatus quo necesitan de disfraces. La imagen de estos se dilata en el tiempo, desde “Memorias del subdesarrollo” hasta “Juan de Los Muertos”, pasando por “Alicia en el País de Maravillas”. Definitivamente, este señor ha perdido el sentido de orientación.
+
+Sucede que el país no puede esperar a que devuelvan los relojes a la cabina del piloto o que el elefante aprenda a andar en medio de una cristalería. Entonces se oye al compañero Diaz-Canel hablar de asociación de los sectores público y privado, de facilitar al sector no-estatal la gestión de exportar e importar sus productos y servicios, de dar cuerpo a la autonomía de los municipios a corto plazo. Carlos Luque ni se entera del asunto e insiste en hablar de un sector privado que se somete al sector estatal, de una propiedad social que se confunde con la estatal, de un “espacio leninista” que factura el consenso y actualiza la UNIDAD de la revolución en base a la política –no al proyecto.
+
+Vemos a este señor, todo el tiempo, azotando a los fantasmas que dan vueltas alrededor de su cabeza. Entonces, sin llegar a mencionar un nombre o un texto, nos acusa de manipulación y dice que existe un “amplio abanico de formas de propiedad que refrenda la Carta Magna, y sobre casi de ninguna de ellas se pronuncian, –dice este señor– que no sean las Pymes…” Desde luego, esta actitud es propia de “los adeptos a la tesis de que existe una oposición de izquierda”. Impúdico, este señor nos miente. Escribí 8 libros en los últimos 20 años. Hablo de más de 1,800 páginas. Uno de esos libros recibió el Premio de Ensayo “Andrés Bello” en 2005. Hice miles de intervenciones en esos años. Todas ellas fueron grabadas y se hallan en archivos de instituciones oficiales en Cuba. (Sólo en la revista Temas son más de 10 horas.) Espero que, en mi caso, este señor se anime a citar un solo texto mío en los últimos 20 años en que diga que la propiedad privada es la solución a los graves dilemas que enfrenta la Isla hoy mismo.
+
+## III
+
+Pienso que Granma, Órgano Oficial del Partido, que publicó en sus páginas un texto polémico de un ciudadano no-militante, debe dar derecho a la réplica a cualquier otro ciudadano. Siendo en caso contrario, –esto es, al cerrar las puertas al debate– Granma estaría haciendo una publicidad indirecta a la oposición. ¿En dónde se hayan los enemigos de que habla Carlos Luque? Precisamente, será el pueblo hoy quien está dando al Partido la lección que necesita para recuperar el paso e ir adelante. Deberían recordar los “leninistas” que, antes de que la burocracia del Partido le arrebatara el poder a los Soviets, dentro de ese Partido se dio una saludable lucha de tendencias. Nada más parecido a un Foro Político de la Nación.
+
+Esto ya sucede en Cuba… fuera del Partido. Somos pues, un Partido Imaginario.
+
+Precisamente hoy en el modo de vida popular se ensaya una “economía mixta con anclaje en la comunidad”. Contrario a esto, la ineficacia de la gestión de Gobierno, –políticas fallidas incluidas– han creado un sentido común enfermo que tiende a ir al otro extremo. Este sentido común hace que la gente adopte una actitud patrimonialista y que, frente a la estatización de la economía, piense que la solución sea privatizar dicha economía. Entonces, un sector de la oposición de izquierdas cree que la solución es reinventarnos como personas y como sociedad. Creemos que la política del giro comunitario radical es la alternativa. Hablamos de dotar de sentido de comunidad cada rincón y cada momento de la sociedad.
+
+Hemos visto en las últimas seis décadas cómo el péndulo se ha movido de los errores de idealismo a los errores de economicismo y de estos últimos al abismo de un estado de emergencia nacional. También hemos visto cómo los verdugos se convirtieron en víctimas (y viceversa) en medio del proceso. Creemos que la solución es saltar del péndulo para caer tres pasos adelante. Debemos entender que la unidad se logra por consenso y este fluye con la sociedad. Significa lo dicho que ese consenso hay que actualizarlo a cada salto que dé esta última. Precisamente es ese sentido del momento histórico el que moviliza a una oposición de izquierdas en contra del ancien régime.
+
+Durante seis décadas, la idea de que un comando se hiciera cargo de dirigir una sociedad fue la clave para entender la política en Cuba y resulta hoy decisivo al considerar los resultados del proceso. Entiendo que para aquellos que adoptan una visión autoritaria de la política, nada mejor que lo sucedido. Pero ni esta es la Rusia zarista ni la clase obrera es hoy el sujeto de la revolución. Sucede que Che Guevara tenía la razón al advertir que en algún momento del proceso los desarrollos de conciencia del pueblo iban a superar al Partido y hacer inútil su existencia. Significa que este último bloquea hoy la capacidad de agencia de la sociedad. Parece que olvidan que Carlos Rafael Rodríguez dijo que el socialismo no está reñido con el pluripartidismo.  
+\[Un compa nos decía, no sin razón, que, si hemos tenido tantos problemas con un solo partido, ¿qué no sucedería con dos?\]  
+Carlos Luque da la espalda a la historia del socialismo en el mundo en siglo y medio. Debería de pensar en cuál ha sido el sujeto de la revolución en cada una de las experiencias del socialismo histórico. Para Marx era la clase obrera, para Lenin era una alianza clasista, para Mao era el campesinado… Para el Che eran las “multitudes que marchan hacia el futuro”. Según la retórica constitucional en Cuba, en cambio, el sujeto de la revolución ha sido el “pueblo cubano” (1959), la “clase obrera” (1976), el “pueblo trabajador” (1992) y las “clases trabajadoras” (2019). Dependerá de ese sujeto político popular la radicalidad de la revolución.  
+Este señor habla de una historia de “resistencia y sobrevivencia” de la cual –dice– aprende la Revolución cubana. Pero ¿olvida este señor que en la historia de la Revolución cubana ha habido momentos de avances, retrocesos, marasmos? Luego, ¿cuáles son las “lecciones” que han sido aprendidas por esa cosa abstracta que Carlos Luque llama “Revolución cubana”? Finalmente, ¿este señor se refiere a la engorrosa tarea de mantener las riendas del poder a cualquier costo o sacrificio, puesto que –según una advertencia de Lenin– “toda revolución vale tanto como se sepa defender”?  
+Carlos Luque no halla otro argumento que apelar a lo más infame del Estado cubano, que es la política de “dádivas a cambio de lealtades”.  
+Entiéndase que la crítica que hace la oposición de izquierdas es a la gestión del Gobierno, no al sistema de redistribución de la renta nacional. Debemos asumir que nadie en Cuba le debe un centavo al Estado; más bien es este último el que debe decirnos qué hace con el dinero del pueblo. Pienso que la política de embargo (bloqueo) de Estados Unidos contra Cuba en casi seis décadas es un crimen de lesa humanidad. También ha sido la mejor excusa que ha tenido crear entornos favorables a la alta corrupción que se basa en el usufructo del poder, el nepotismo y el tráfico de influencias.  
+Porque, ¿sabrá este señor cuánto nos ha costado el pago de una deuda externa, ilegal e ilegítima, que contrajo un grupito de elegidos a inicio de los 70s? ¿Cuánto nos costó el proceso de acumulación originaria de la Nueva Clase en Cuba de 1978 a 1997? ¿Podrá este señor imaginar cuál ha sido el costo de la Batalla de Ideas que abrió la era del CUC? ¿Cuál ha sido el costo de decenas de políticas fallidas en seis décadas? Pienso en la planta industrial que se instaló en la era soviética. ¿Cómo se podría calcular el costo social, económico y político de cada crisis migratoria o de mercado negro en Cuba? Hablo de vidas perdidas, familias fracturadas, abusos de poder, autoestimas dañadas…  
+Hemos de rescatar esa memoria, no para un ajuste de cuentas, sino para decir _Basta ya_, _Punto final_, _Nunca_ _más_. Debemos tomar las riendas del país, advierto, antes de que las torpezas de los (marxistas)-leninistas de Carlos Luque creen una situación en donde decida la inercia de la historia y vayamos a parar al otro extremo. Construyamos el sujeto político popular de la revolución.
+
+[Otro texto del autor](/politica-en-cuba/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,0 +1,32 @@
+---
+title: "La autopsia de Facundo"
+date: "2020-01-09T18:03:56+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/01/IMG_20200108_003940_259.jpg"
+---
+Facundo. 
+
+**Por: Jorge Fernánez Era**
+
+Alguien colocó en su muro el domingo 5 la siguiente nota: «Pensé que Facebook amanecería hoy repleto de indignación y denuncia por la injusta censura de nuestros peloteros a la Serie del Caribe, pero nah, seguimos con Facundo». Al otro día volvió a la carga: «Sancionan a un humorista y se arma un revuelo a nombre de la cultura; Trump dice tener derecho a bombardear objetivos culturales, y nadie opina. Eah, qué pasa con los nobles valores y la super libertad de expresión».  
+Como recién el 4 escribí «Facundo regresa» y el tema del humor me toca en los mismísimos, me sentí aludido, medio que me acomplejé y le respondí lo siguiente: «Pasa que lo de Trump entra en los cálculos sobre un presidente hijo de puta de un imperialismo que nos enseñaron desde niños que está ahí para jodernos la alegría. Pero que nos la jodan también los funcionarios omnipresentes e infalibles no cabe en una nación que construye la felicidad para su pueblo. En ese imperio de allá arriba la gente ha salido a las calles a protestar contra el degenerado que mata. Nosotros, indignados por otro asesinato (de la verdad, de la risa, del sentido común), tenemos que recurrir a este único espacio que nos permiten para cantar “la rabia con cantera” tras la muerte de Facundo. Porque exista Trump, no dejan de fastidiarnos (lo hacen más abiertamente, sí) esos burócratas disfrazados de veladores de sueños y sonrisas».  
+Asombrosamente, el «árbitro de Trump» había escrito el jueves 2 uno de los comentarios más atinados que sobre el caso Facundo se han hecho abriendo el año: «Yo realmente no sé si el humorista Andy Vázquez ha sido pagado por el “enemigo”. Lo que sí me parece es que quien lo sacó de su programa le ha hecho un trabajo voluntario a ese mismo enemigo».  
+Lo que va de ayer a hoy. Es como si el fin de semana se hubiera convocado a la segunda temporada del proceso de rectificación de errores y tendencias negativas. Y aparece la «positiva»: denostar, a falta de argumentos, a quien diferente piensa, igualándolo con el imperio, acusándolo de silenciar lo que aquel hace y sintiéndose bien arriba criticándolo él. Armar revuelo por un «poca cosa»: vaya estupidez cuando el presidente norteamericano pone en el tintero razones suficientes para callar los «casos y cosas de casa».  
+¿Dicho recurso no basta? A ese que lanza argumentos a diestra y siniestra hurguémosle el pasado reciente y no reciente. Hablemos, por ejemplo, de actuaciones clandestinas de Andy Vázquez donde empleó un humor hiriente, grotesco y lesivo. Él no sabe el pasado que le espera cuando hay miedo de decir que hay miedo.  
+Por tal de hablar en pretérito se sataniza a los actores y realizadores del programa por la participación hace cinco años del presidente Obama en aquella emisión que «dominó» los ratings de teleaudiencia. Ahora resulta, oiga usted, que los únicos culpables de tal «concesión» fueron los que se viraron con ficha y los asesores que les soplaron la data del adversario. Como si el director del programa no tuviera que rendir cuentas al gerente del canal televisivo, este al presidente del ICRT, y por ahí para arriba en una cadena que lleva necesariamente a Burundanga, el único que puede autorizar a Borondongo que le dé a Bernabé. Esos patriotas olvidan que el «Vivir del cuento» con Obama fue solo una ficha de gestos (llamémosle concesiones, okey) que auguraban un cambio en las relaciones entre ambos países, gestos que incluyeron el hecho (¿por qué no hablan de ello, a ver?) de que Raúl alzó la mano de Obama tras el discurso de este en el Gran Teatro de La Habana.  
+El congraciado con el enemigo es Andy Vázquez, eso queda claro en los artículos y comentarios reproducidos en el sitio La Pupila Insomne (de Cubadebate paquí hablar). Publicar un video choteando el esfuerzo que significó concentrar en el [Mercado de Cuatro Caminos](https://www.ecured.cu/Plaza_de_Cuatro_Caminos) el poco puré de tomate y las escasas cervezas que quedaban en el país se ve feo entre hermanos de lucha. El suceso (el video, no la masacre) deja como enseñanza que, antes de emprender un programa humorístico, los guionistas, actores y realizadores deberían sumarse a un curso en la Escuela Superior del Partido. Que aprendan que la cosa no está para chistecitos, que pa videos graciosos está el gordito simpático que va a meter en cintura no su sobrepeso, sino los programas bajo su jurisdicción. «Cuando la política —ha dicho Esteban Morales a propósito de la polémica— selecciona erróneamente sus vías para conectarse con el humorismo, lo único que hace, como ahora, es el ridículo».  
+Una buena noticia: «Vivir del cuento» no desaparece, solo se traslada de set. Lo seguiremos viendo mañana, tarde y noche en esa bola (nunca mejor dicho) de dirigentes que para tapiar su ineptitud vierten lodo sobre los dirigidos y dejan para sí «lo bueno no pasa». A los que piensan que la nueva sociedad se construye con seres domesticados, incólumes ante la injusticia, aplaudidores de la infamia, les tengo una mala: eso no es socialismo ni un tolete.  
+La autopsia de Facundo: dicen los forenses que no hubo que abrir, el caso está cerrado: a Facundo le tiraron a matar… ¡y lo mataron!
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

@@ -1,0 +1,43 @@
+---
+title: "Una petición oportuna"
+date: "2019-01-15T05:23:40+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/01/PicsArt_01-15-12.22.31.jpg"
+---
+Campaña #Ni1+.
+
+**Por: Iramís Rosique Cárdenas**
+
+A petición de un amigo comencé estas líneas para responder a cierto “líder joven” cubano que publicó un artículo titulado “Por qué existe una campaña en las redes sociales #Ni1+?”. En él, este desconocido para el grueso de la juventud cubana –yo mismo lo conocí a propósito de esto-, abusa de tal manera de la manipulación de la historia de Cuba, que no se sabe bien el texto es un simple post o un ejercicio de “Ordene cronológicamente”. En sentido general, más allá de lo dicho, el artículo es bastante pobre, con una lógica y una retórica ya tradicionales en la derecha de Miami, que poco exigen de una mente con dos luces para ser demolidas o burladas en su totalidad. La sencillez –en el mal sentido—del texto me ha hecho detenerme en que de nada valdría un recital de fechas correctas, aclaraciones y señalamientos como si de la revisión de un examen de Historia se tratara. Una pregunta vino a mí:
+
+> ¿debemos los revolucionarios dedicar energía física y mental a combatir este tipo de graznido de gaviota, lejano y marítimo? Cuáles son las luchas y los teatros de operaciones principales para un revolucionario cubano?
+
+Creo que estas preguntas interesan más.  
+Está claro que el enfrentamiento a la derecha, militante o natural, es una tarea permanente de la izquierda militante. Pero la forma de enfrentamiento que debe primar no es la discusión teórica. Con la derecha se discute poco porque, aunque en determinados temas dialogando se puede llegar a algún puerto, en la cuestión clave, la construcción del socialismo, es imposible lograr un acuerdo. La forma por excelencia de enfrentar a la derecha debe ser el activismo político. A un #YoVotoNo se responde con diez #YoVotoSí. Otra cosa es perder el tiempo.  
+Ahora bien: repito la pregunta: ¿Dónde, y sobre todo como, se despliega la lucha principal de un revolucionario cubano? Hay en mi opinión dos frentes: el de la izquierda confundida y el de la izquierda confundidora.  
+He dicho varias veces entre amigos y camaradas que el peligro que más atención amerita de un revolucionario de Cuba durante el siglo XXI no es ya el imperialismo, aunque este aún penda sobre nuestras cabezas como una espada de Damocles. Ese lo tenemos tan analizado, atacado y conocido, que la importancia de la soberanía, el patriotismo y el antimperialismo –aunque sea en sus formas más groseras— prevalecen en el ideario de una parte significativa del pueblo y la dirigencia.  
+El asunto que más debemos vigilar y atacar es la desigualdad. Ya dijo el General de Ejército, y fue sabio, que la tarea principal de la juventud era asegurarse de que esta por siempre fuera una revolución socialista de los humildes, con los humildes y para los humildes. ¿Quién es la izquierda confundida sobre la que alerta implícitamente Raúl? Pues son todos aquellos que, con las mejores intenciones –no lo dudo-, no comprenden que si bien la República es “con todos y para el bien de todos”, la Revolución se hizo “por los humildes y para los humildes”. Este es un olvido en el que puede incurrir cualquier persona decente; contra él solo salva la solidez ideológica. Por eso en ese campo estamos obligados a la lucha teórica –y a la participación política- , al combate sin cuartel contra las desviaciones; al rescate y difusión de lo mejor del pensamiento emancipador universal y cubano, y especialmente de la obra del Maestro y de la tradición marxista, además de su aplicación coherente y creadora. A un peligro como ese no solo se enfrenta con compromiso moral, sino también con compromiso ideológico y político. Un dirigente cubano honrado, revolucionario, pero ingenuo, sin la suficiente preparación ideológica, puede ser, al tomar una decisión determinada, orgánico a la naciente burguesía nacional; o sea: al capitalismo; y esto aún con las mejores intenciones, aún creyendo que hace bien al “pueblo” abstracto, ese que es todo el mundo sin distinción. Debemos alarmarnos del hecho cierto de que en nuestras escuelas de administración, economía, contabilidad, derecho –por solo citar los ejemplos más vinculados a la dirección-, se forman cientos de profesionales y enseñan decenas de profesores que no logran superar el umbral de la ideología burguesa a la hora de enfrentar los principales problemas que se presentan en nuestra sociedad en la construcción del socialismo.
+
+> La tarea de educar a la izquierda confundida ya es de por sí difícil como cualquier empresa de ese tipo;
+
+pero para remachar el clavo, hay un actor que se dedica a ponerlo más difícil: la izquierda confundidora.  
+Ni el índice prohibido y la [teología](https://es.wikipedia.org/wiki/Teolog%C3%ADa_cat%C3%B3lica) de Roma le dedicaron tiempo a los manifiestos abiertamente anticlericales o satánicos, ni Marx y Engels polemizaron demasiado tampoco con los ideólogos de la burguesía: solo el material en apariencia cristiano, para los primeros, o socialista, para los segundos, mereció intentos de demolición. Así mismo ha surgido en nuestra Isla –y también fuera de ella—una especie de intelligentsia que emplea los modos, lugares comunes y lenguaje de la izquierda, pero con la finalidad de desorientar, minar consensos en torno al socialismo y la Revolución, y hacer pasar por revolucionarios viejísimos tópicos burgueses. Su espacio natural son las redes, y su tienen por audiencia a la juventud de izquierda y la intelectualidad resentida por errores de la Revolución. Se nos presenta como un cúmulo de teorías, plataformas de investigación, laboratorios, grupos de debate y campañas comunicativas, además de proyectos comunitarios. Aquí estamos más que obligados también a dar la batalla teórica, a desmontar y, sobre todo, a desenmascarar a los lobos con piel de oveja.
+
+> Porque aquí sí se actúa a posta: no hay más confundido que el público.
+
+Esta es en mi muy personal opinión sobre la encrucijada, la complejidad del proceso, de la izquierda, es decir: de los revolucionarios en Cuba.
+
+Campaña #Ni1+. Campaña #Ni1+. Campaña #Ni1+. Campaña #Ni1+.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

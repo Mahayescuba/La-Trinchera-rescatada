@@ -1,0 +1,39 @@
+---
+title: "Un eterno juego de pelota"
+date: "2020-05-23T09:30:32+00:00"
+author: ""
+category: "Onírica"
+image: "/wp-content/uploads/2020/05/photo_2020-05-23_19-53-29.jpg"
+---
+Y cada quien seguía en lo suyo, como si su vida fuera un eterno juego de pelota.
+
+**Por: Adrián Pernas Álvarez**
+
+Era domingo. Se jugaba la final de la Liga Amateur de Béisbol de los Trabajadores. Bajo el sol dominical, la pizarra del [Latinoamericano](https://es.wikipedia.org/wiki/Estadio_Latinoamericano) mostraba un marcador de 2-0 a favor del equipo visitador. Última oportunidad para los de casa de remontar. Ambas plantillas las integraban mis vecinos de la barriada de Lawton.  
+Parado sobre el montículo: Alejandro, mi bodeguero. En la caja de bateo: Julio El Chispa, deseoso de ganar y ansioso de beber ese néctar tan exquisito que implicaría un triunfo tan importante, …la gloria.  
+Julito se pone en el espacio izquierdo de lo que alguna vez fue un cuadro de cal. Se pega bastante al plato. Según su mujer lo hace porque su bate es muy viejo, le queda corto y lleva mucho tiempo sin usarlo; entonces, para hacer contacto más fácil con la bola se arrima al home-plate. Se prepara el pitcher, esconde bien la bola en su mascota de masa de origen vacuno, espera la seña del cátcher, Benicio, el gerente del Cupet de Dolores y 21. La pelota sale disparada de la mano de Ale, va tan rápido que parece más pequeña y para Julio, que ya se había tomado tres ponches, aquella recta al medio parecía un huevo. El Chispa no le hace swing. En un noveno inning a uno no le quedan fuerzas para algo tan fuerte, o quizás, simplemente no mueve el madero porque ha visto muchas veces el mismo envío y espera otro. El diestro sobre el box se alista de nuevo, Avanza como Toyota. To’ ya ta pensao, le dice el gerente. Inicia el wind-up, por el agarre se puede decir que es otra recta. Realiza un movimiento brusco, súbito, parece que le va a poner más. Julito ve las costuras de la pelota, tiene pinta de pollo y… abanica al aire. Le partió la cintura, lo engañó, le quitó a ese envío y le marcó el segundo. Ahora tiene para trabajarlo, le puede tirar por fuera, hasta por la izquierda. Se acerca el coach de tercera: Tica, la presidente del CDR, la que sabe más de la gente de la cuadra, los conoce mejor que ellos a sí mismos. El receptor, arrogante, confiado en su pitcher, provoca al bateador en turno, le comenta: Dice Ale que el pescao se demora en venir porque lo están usando en un proceso de células madre y to ese lío. Na, que está dando curva. Y viene el lanzamiento.
+
+![](/wp-content/uploads/2020/05/screenshot_20200523-133409-18938485256940415170.jpg)
+
+Currrrrrrrva, le hace swing y la pelota a la malla. Queda con vida el bateador.  
+—Ahora si viene el pescao, la slider —interviene de nuevo Benicio.  
+Tica grita desde la línea de la antesala:  
+—¡No le hagas caso! ¡Eso es bola!  
+El lanzamiento y… striiiiike, el tercero. Se fue goloso El Chispa. Le tiró a una alta, a un pollo por pescado pensando que era lo segundo, lució muy mal ante ese disparo. Es el cuarto ponche que se toma y parece que en el banco le espera el quinto.  
+Ahora está Félix El Gato al bate. Conocido por meterle muchas líneas a la gente. Viene en recta afuera y ¡¡¡¡¡¡¡Líííííínea!!!!!!!, dura entre tercera y short, la bola de hit hasta los colchones y en segunda Félix con un doblete, su primer extrabase del juego.  
+Es el turno de Ramón El Fiera, lo han expulsado en diez de los trece juegos en los que ha participado. Tiene fuerza y el lanzador lo sabe, en su flotante derecha tiene la prueba. La bola en curva, batazo alto atrás, atrás, atrás, se va, se va, se va y… Alberto el guardacostas la captura evitando que abandone el parque y que se empate el juego. El hombre de segunda también se iba pero tuvo que regresar, no puede moverse de la intermedia.  
+Al bate Andrés Madera, el carpintero del barrio, El Zurdo. El otro equipo sustituye al bodeguero por Amado Inocencio del Toro, también siniestro y que le alquila un cuarto a Andrés. Desde las gradas grita la mujer del lanzador, ¡Vamos, mi amor, dale duro! El serpentinero creyó que era con él y le pegó con la esférica al bateador. Este último ni se inmutó por el deadball y fue caminando para la inicial. La novena visitadora llama a un nuevo riflero.  
+Sobre la lomita el derecho Honrado, director de la Empresa de Productos Varios de Diez de Octubre. Al bate Christian El Masa, llevaba de 3-1 con un triple pero lo cogieron fuera de base y no pudo anotar en esa entrada. Christian era un amigo mío que echó su suerte a la mar a mediados de los ‘90 y nadie supo más nunca de él. Tenía fuerza el muy condenado. Honrado vigila al hombre en primera. Se prepara, en curva, cae baja, se entierra, se le separa al gerente y El Gato le roba la tercera base. Benicio le grita al lanzador que es su culpa, que no lo cuidó y por eso le robaron; el director de la empresa dice que él no sabía nada, que eso no le tocaba. Regresa al box, pisa la tabla de lanzar. Hace un movimiento ilegal y el árbitro de la inicial lo ve, es bolk, adelantan los corredores una base y entra la primera para el equipo Home Club. El pitcher está ido de juego, al fin explota. Traen a López, el administrador de la panadería. El receptor habla con Carlitos La Llave, inspector de la ONAT, quien cumplía función de umpire principal; le da algo que se saca de su bolsillo derecho. De repente el conteo se iguala a dos strikes y bolas. Naturalmente, salieron todos del banquillo a protestar. El Fiera se ganó su oncena expulsión por golpear al cátcher en la cara. Al fin viene el envío. ¡Se va, se va, se va, se fue, se fue, se fue! ¡Chirrín chirrán! ¡Se acabó el juego! ¡Jonrón decisivo de El Masa! ¡Gana el equipo local!  
+Y entonces… me desperté. Y cada quien seguía en lo suyo, como si su vida fuera un eterno juego de pelota y todos unos jugadores más.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

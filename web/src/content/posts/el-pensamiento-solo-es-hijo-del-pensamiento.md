@@ -1,0 +1,31 @@
+---
+title: "El pensamiento solo es hijo del pensamiento"
+date: "2020-04-17T09:30:29+00:00"
+author: "Miguel Alejandro Hayes"
+category: "Marxismo"
+image: "/wp-content/uploads/2020/04/c730b1b6-e2ce-4a69-8103-b7f99671003b.jpeg"
+---
+Leer a [Marx](https://es.wikipedia.org/wiki/Karl_Marx) es un gran reto, tanto para el pensamiento político como para el teórico. Por eso, sin importar el ámbito, se debe ser cuidadoso con la lectura que se le haga al alemán.  
+Una de las vías para acercarse a su obra es conocer los referentes teóricos que le corresponden. Son de valor ahí los trabajos del economista David Ricardo “Principios de Economía Política y tributación” y “La ciencia de la lógica” (CL) de Hegel.  
+Existen conocidas aseveraciones que hablan acerca de la inevitabilidad de los textos antes mencionados a la hora de acercarse seriamente a la intención original de Marx. Asimismo, nos encontramos con Lenin, quien afirma en sus cuadernos de apuntes que no se puede comprender a Marx si no se conoce entera la lógica de Hegel; destaca Engels, quien afirma la similitud entre la doctrina de la esencia y la mercancía de Marx; incluso yo, en otro lugar, me he referido a la necesidad de Hegel para dominar a Marx.  
+Y es que desde cierto enfoque instrumental de la dialéctica (que puede apreciarse, por solo mencionar, en pensadores como el mismo Lenin o Plejánov), sin dicha ciencia no se puede estar cerca de Marx. No le falta razón, pero, ¿es conocer la CL sinónimo de tener la capacidad de conocer a Marx?, ¿es Hegel el verdadero camino para leer a Marx? Si tomamos la expresión de Lenin como punto de partida, podríamos preguntarnos si se tiene idea de su implicación.  
+La CL es posiblemente el mayor tratado de lógica de la filosofía occidental. En sus páginas se dialoga con más de dos mil años de tradición filosófica para darle cierre y llevar a la cumbre la lógica como disciplina. Luego de eso, la filosofía no ha vuelto a ser la misma.  
+Hay que recordar que el racionalismo y la modernidad filosófica habían continuado arrastrando los problemas de investigación iniciados con la lógica en Parménides. Ese racionalismo había llegado a los dilemas de la razón (resultados de la evolución durante siglos de la lógica como disciplina) y Hegel les dio solución.  
+Siendo así, cuando decimos entender a Hegel estamos hablando, nada más y nada menos, que de tener aprehendido desde el punto de vista epistemológico lo avanzado de una milenaria teórica tradición. ¿Eso no es nada sencillo, verdad?  
+Así llegamos a otro problema: existen numerosas maneras de interpretar la obra de Hegel. La más común de todas, es aquella donde se obvia su lógica como la clave aprehensiva. Mayormente, se tendrá un enfoque de Hegel no desde la lógica dialéctica como crítica a las representaciones formales, para sí tenerlo visto desde los propios ojos de la metafísica. Por eso, no se puede olvidar que para este alemán la filosofía era sinónimo de ciencia y esta, de lógica; rápidamente, para entender su crítica a la metafísica, a la estética, a la ética, hay que pasar por aquella primera. Y es justo ahí donde puede encontrarse la respuesta con cierto grado de esencialidad: en lo que se logra al comprender la CL.  
+Lo que ocurre al adentrarse en la crítica a la metafísica, por ende, a la lógica formal a partir de la CL, es que se da un salto que rompe con una línea de pensamiento para proponer una nueva dinámica de desplegar, dígase, producir y consumir, el propio pensamiento. Cuando eso se logra, lo significativo no es el tocar la médula de la CL, sino la apropiación de una nueva lógica.  
+De lo que deriva la interrogante de si solo es posible apropiarse de ese proceder tan solo de la CL. Una respuesta afirmativa implicaría negar el propio ejercicio sobre el que se construye la dialéctica: el del pensamiento.  
+En realidad, la CL es la propuesta de explicar la dialéctica como único puede lograrse, que no es de otro modo que haciéndola. En Hegel, ella se hizo sobre la propia tradición filosófica que lo antecedía. De Igual manera, Marx hizo dialéctica de la obra de Ricardo aquí mencionada.  
+Entonces, lo que se necesita a ciencia cierta, más allá de dominar los referentes teóricos (en la economía política y en la lógica), es intentar lo que se pretende con ellos: condicionar comprender la dialéctica sobre la que se “estructura” el Capital. De nada vale la repetición en clave formal del lenguaje que ahí se reproduce, lo necesario es apropiarse del pensamiento que se nos presenta mediado por ese lenguaje. Y el pensamiento solo es hijo del propio pensamiento.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

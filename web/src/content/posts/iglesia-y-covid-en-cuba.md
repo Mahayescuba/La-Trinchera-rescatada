@@ -1,0 +1,29 @@
+---
+title: "Iglesia y covid en Cuba"
+date: "2020-03-23T23:43:30+00:00"
+author: "Primera Vez en su Historia, la Iglesia Católica en"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2020/03/alas6029325728751750113-1.jpg"
+---
+> \*\*\*
+
+**Por: Julio Pernús**  
+Días atrás un obispo me dio una sugerencia sobre un audio mío que saldría en unas horas; en realidad, su conversación terminó con una frase que me conmovió mucho: “cuídate mucho, Julito, y cuida de tu abuela, por favor.” En medio de cierta expectativa en torno a cuán al tanto están nuestros pastores del peligro que corre su pueblo, este hombre, también mayor y expuesto al contagio, se preocupaba por un laico a miles de km de su casa. Hoy, esta pandemia global no puede convertir a nuestra Iglesia en una ONG encerrada en su propia autorreferencialidad, pues solo podremos salir vivos si apelamos al trabajo en conjunto entre todos los actores sociales de nuestra Cuba. Nuestra fe debe movernos, como Pueblo de Dios -marcado por decretos eclesiales nunca antes vistos-, a asumir responsabilidades salvadoras con respecto a un entorno donde abunda muchas veces la insolidaridad y que nos pide tomar decisiones valientes.  
+A mi papá le gusta mucho una frase ignaciana que al buscar su texto original dice así: “Actúa como si todo dependiera de ti, confía como si todo dependiera de Dios” Nosotros no podemos ser la Iglesia que se queda petrificada en espera de que solo Dios lo haga todo, pues la confianza en Él y la acción se influyen recíprocamente y para nadie es un secreto que esa acción nos debe llevar a vivir en las fronteras como hizo Jesús, sabiendo que muchas veces nuestros actos nos pondrán como seres humanos en una infaltable fatiga exterior, en pos de tomar decisiones duras, como las del ayuno sacramental, planteado por el P. David Pantaleón, superior de los jesuitas en Cuba, para salvar al prójimo. Pero con cada paso a dar, estaremos a un paso de trasformar esa fe inquebrantable en un amor sin límites por la vida de aquella abuela que ocupa el primer banco desde hace muchos años.  
+Ser una Iglesia encarnada, solidaria y unida ha sido parte de nuestra historia eclesial. En medio de tanta liquidez global, no podemos ser un eslabón soluble, dentro de un entorno dramático que parece evaporarse por segundos. Después que salga la declaración de nuestros obispos y sea replicada por los medios de comunicación, debemos continuar con esos procesos encarnados que han llevado a movilizarnos en función de causas humanitarias como el cierre de nuestras fronteras. En realidad, es más fácil escribir sobre una decisión a tomar por nuestros obispos que ponerse en su posición, pues este último domingo he visto a una señora de 90 años de una comunidad parroquial llorar al oír que el sacerdote anunciaba el receso de la eucaristía semanal.  
+La Iglesia que no podemos ser es aquella a-histórica, incapaz de reconocer el valor de nuestros obispos y su voz en los momentos de mayor dificultad nacional. No podemos ser una institución que promueva la diversidad sin unidad. Esto ocurre cuando buscamos destacarnos como los únicos conocedores de un tema, cuando formamos bandos y grupos en redes sociales bajo el principio de uniformidad de pensamiento, cuando nos endurecemos en planteamientos excluyentes, en particularismos. Quizás, considerándonos mejores o aquellos que siempre tienen la razón, pues ya las nuevas generaciones, de forma general, no siguen ese tipo de acciones pastorales de tono autoritario. Por primera vez las redes sociales, para muchos católicos, se han vuelto una Iglesia digital donde, gracias a proyectos como el Suplemento radial “En Detalles” podremos soñar con alternativas comunicacionales nunca antes vistas.  
+Cuando este artículo salga, nuestros obispos estarán reunidos y sería bueno podernos unir en oración de apoyo a su encuentro, pues la Iglesia que no podemos ser es aquella indiferente ante el amor cercano de sus pastores, encarnados en gestos concretos de cercanía, como ese cardenal que ama tanto a sus hijos rotos de [_La Edad de Oro_](https://es.wikipedia.org/wiki/Edad_de_oro).
+
+[Otros textos del autor](/una-luz-en-la-oscuridad/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

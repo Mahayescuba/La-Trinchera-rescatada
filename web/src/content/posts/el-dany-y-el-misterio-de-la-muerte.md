@@ -1,0 +1,24 @@
+---
+title: "El Dany y el misterio de la muerte"
+date: "2020-07-26T16:00:00+00:00"
+author: "Julio Pernús"
+category: "Cultura"
+image: "/wp-content/uploads/2020/07/Glenys-Barton.jpg"
+---
+_Dejar algo guardado, significa que siempre estarás aún cuando te marches. En un punto, todos nos volveremos a encontrar y caminaremos por un mismo sendero._ Esta frase premonitoria fue colocada en su perfil de Instagram por el Dany, popular cantante de reggaetón cubano, fallecido el pasado sábado a la edad de 31 años. Daniel Muñoz Borrego -Dany- había tocado la fama nacional y mundial gracias a su dúo con Roberto Hidalgo Puentes -Yomil. Ellos son pioneros en lo que algunos especialistas han definido como traptón, una mezcla de varios géneros musicales con una fuerte identidad con los códigos comunicativos de la calle, pues utilizan lenguajes que son de fácil comprensión, sobre todo por los más bisoños de barrios como Cayo Hueso en Centro Habana.
+
+Sobre el lamentable deceso del músico se han escrito reflexiones de todo tipo, con mayor o menor grado de profundidad, dolor y hasta indiferencia, en dependencia de la cercanía con el artista, identificado en sus redes sociales como “[sensei](https://es.wikipedia.org/wiki/Sensei)_”_. El Dany era un joven de fe, al que le gustaba reflexionar sobre su paso por la vida, pues parecía consciente de nuestra provisionalidad terrenal. Muchos de sus posts demuestran su deseo de hacer las cosas lo mejor posible para alcanzar la RESURRECCIÓN. Me atrevo a escribirlo así, con mayúscula, pues su madre Iliana Borrego expresó: _nosotros su familia, Creemos en la Resurrección y sabemos que lo volveremos a ver._
+
+Para muchos el reggaetón representa superficialidad y marginalidad, pero también puedo asegurarles que en sus exponentes hay una cuota increíble de espiritualidad y deseos inimaginables de transformar el mundo, muchas veces marginal, en donde crecieron. La acción de cantar, y esto el Dany lo comprendía bien, no encuentra su sentido y finalidad solo en la aceptación y transmisión de contenido conceptual a millones de personas. En ella debe ir avocado el deseo de transformar para mejor, también espiritualmente, a ese oyente y a esa sociedad que consume las letras detrás del micrófono. Por eso no fue extraño que el domingo en la noche, de forma espontánea, las azoteas del barrio de Cayo Hueso se vieran llenas de velas encendidas, flores y el tema _Si mañana amanece_ del popular dúo.
+
+La espiritualidad no es patrimonio exclusivo de los que profesamos alguna creencia religiosa, y el misterio de la muerte suele interpelarnos a todos por igual en pos de alguna respuesta sincera que trascienda nuestros sentidos existenciales. Para los cristianos es Dios. Cuando algunos creyentes intentan cimentar una antinomia irrompible entre reggaetón y cristianismo, en función de posicionar filosofías personales para entender la vida, les puedo decir que no existen tales contrarios. El Dany lo demostró con su vida reguetonera cargada de fe, y con esa herramienta enfrentó a la muerte. Lo que nos diferencia conceptualmente a cristianos y a algunas filosofías de vida reguetoneras no debe convertirnos en contrarios. Pues la vida es una mezcla, y salvar del mal a las personas es uno de los campos donde Dios suele sorprendernos con su creatividad.
+
+## Autor
+
+-   ![](/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/9aad2782eef322a0a15cb3dea0828659?s=80&r=g&d=mm)
+    
+    [lisdds](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/lisdds/)
+    
+    [](mailto:lis.dds1@gmail.com)

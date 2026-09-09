@@ -1,0 +1,76 @@
+---
+title: "entrevista al profesor Enrique López Oliva"
+date: "2020-10-31T14:01:53+00:00"
+author: ""
+category: "Entrevista"
+image: "/wp-content/uploads/2020/10/Antoine-Josse-.jpg"
+---
+###### **Julio Pernús (JP) entrevista al profesor emérito de Historia de las Religiones en la Universidad de la Habana, Enrique López Oliva (ELO)**
+
+**Por: Julio Pernús** 
+
+El profesor Enrique López Oliva parece un ser mítico, su cabello blanco, gastado por el tiempo, siempre es acompañado por un sombrero rampante que no deja ver a un hombre con más de ocho décadas en su piel. Quizás algunos duden de que sea uno de los cubanos que más sepa de religión en Cuba, pero pocos podrán contradecir la afirmación de que en su casa está la biblioteca personal macro-ecuménica más grande del país. López Oliva dice que desea ser recordado como un profeta del antiguo testamento y algunos de sus alumnos pedimos a la academia cubana incluir su nombre entre los nominados a los premios nacionales en nuestro país. Sería un acto de justicia histórica para quien ha _gastado_ sus años enseñando a los jóvenes a entender y amar la Historia de las Religiones desde el diálogo.  
+
+**JP- ¿Cómo te agarró este tiempo de Pandemia?**
+
+**ELO**– Este tiempo de pandemia me tomó en una situación bien particular, porque tengo 84 años y ya estoy a punto de cumplir 85; vivo en la misma casa donde nací y me crié, que se ha ido deteriorando físicamente porque ha sufrido el paso del tiempo, igual que yo. Qué te puedo decir, el coronavirus no ha sido amable con mi calidad de vida, pues con una jubilación simbólica, como casi todos los profesores universitarios retirados de mi época, en que 300 pesos tenían un mayor valor de compra, sobrevivo. 
+
+Yo soy una persona optimista y me digo algo es algo, pero igual, siendo honestos, sabemos que no alcanza. Algo curioso es que soy de las pocas personas vivas de Kohlilandia, un nombre macondiano que utilizo para describir aquel grupo de jóvenes participantes en la gesta revolucionaria de la década del 50, residentes en el soñado para algunos, reparto Kohly de Playa.   
+
+La pandemia y sus medidas sanitarias restrictivas adyacentes me sorprenden dando clases de _Historia de las Religiones_ en la Licenciatura en historia en curso para trabajadores de la Universidad de La Habana. También, había culminado recientemente de impartir clases en una maestría de estudios socio-religiosos de la facultad de Filosofía e Historia de la Universidad de La Habana. Allí, pude dar tres conferencias sobre La Religión y el Proceso Revolucionario Cubano. Me basé para ese curso en un pequeño ensayo que publiqué en la revista _Temas_ hace unos años, sobre la Iglesia católica y la Revolución cubana.
+
+En los últimos tiempos, he tenido la posibilidad de escribir en una publicación católica muy apreciada en Cuba como _Vida Cristiana_ y me han publicado en estos meses   en la revista impresa _Amor y Vida_ del Movimiento Familiar Cristiano, donde hay dos artículos míos que deben circular cuando se pueda volver a la _normalidad_. También tenía reuniones de coordinación periódica como miembro de la junta directiva del Consejo de Iglesias de Cuba, pues soy el secretario de la Comisión para el Estudio de la Historia de la Iglesia en Latinoamérica sección Cuba (CEHILA-Cuba).  
+
+![](/wp-content/uploads/2020/10/34826108-CC2F-4F92-8E1A-C040B209C75E.jpeg)
+
+![](/wp-content/uploads/2020/10/34826108-CC2F-4F92-8E1A-C040B209C75E.jpeg)
+
+ **JP- ¿Cuánto crees que esta Pandemia ha afectado al campo religioso cubano?**  
+
+**ELO-** Yo te diría que el contexto de la Pandemia afectó a toda nuestra sociedad de forma general y por supuesto, trastocó el entorno religioso cubano, que quizás no estaba suficientemente preparado en el campo teológico, institucional y espiritual para un reto como éste, porque venía condicionado por una serie de factores externos e internos importantes.
+
+En los últimos años en Cuba, ha ido surgiendo un nuevo grupo religioso cada mes, según investigaciones sociológicas compartidas por colegas en eventos. Algunas de estas nuevas Iglesias bebían de teologías como la  llamada [Teología de la Prosperidad](https://es.wikipedia.org/wiki/Teolog%C3%ADa_de_la_prosperidad), bien conservadoras y me atrevería a decir que hasta fundamentalistas. Pero, seamos sinceros, cómo no van a crecer estos grupos si sabemos que cuentan con recursos económicos disponibles para saciar el hambre, no solo religioso, de sus fieles. En mi opinión, para cualquier estudioso del campo religioso, es necesario analizar sus dinámicas en un contexto determinado, pues a veces solemos aplicar métodos extranjeros a nuestra realidad cubana y construimos mapas latinoamericanos en Cuba y deseamos ajustarlos a la fuerza, sin pensar en las características muy criollas de nuestro entorno. 
+
+Al llegar el coronavirus, la sociedad cubana está inmersa en un proceso de transición definido por los lineamientos del Partido Comunista y el cambio generacional en los decisores de la Nación.  Te diría que esta situación extraordinaria agudiza las crisis múltiples -también religiosas- que venían en proceso, todo esto precedido por un arrecio del bloqueo guiado por un nuevo sistema de gobierno trumpiano, con formas nuevas de apretarles las clavijas a nuestra débil economía. 
+
+**JP – ¿Cómo sientes en particular que todo el ambiente pandémico ha golpeado a la Iglesia católica cubana?** 
+
+ **ELO-** En el caso de la Iglesia católica, te puedo decir primero que me formé en un colegio católico jesuita junto a Fidel Castro. Desde niño he sido practicante de esa religión. Aunque me considero macro-ecuménico, sé que el catolicismo en nuestro país atraviesa una crisis, y está marcado por múltiples factores como la migración, sobre todo, de personas bien formadas; las ayudas llegan con menor fuerza del extranjero; Cuba ha dejado de ser un país llamativo, pues al no percibirse grandes cambios sociales, las agencias de financiamiento católico se mudan a zonas de mayor crecimiento religioso como África; el envejecimiento de los laicos, muchos reconocen a la Iglesia católica como el lugar de nuestros abuelos; y desde mi criterio, se ha demorado una apuesta más tangible en favor de impulsar la creatividad de la juventud. El Papa Francisco ha realizado cambios importantes en el modo de comprender la Misión de la Iglesia Universal, pero en Cuba,  sigue predominando el clericalismo como punto de partida en cualquier comunidad y las personas ya no están tan seguras de que ese sea el camino.
+
+**JP- ¿De este tiempo tan particular, has sacado algunas lecciones que desde tus estudios de la religión nos puedan ayudar a comprender mejor el futuro del campo religioso en nuestro país?**
+
+ **ELO-** Quiero comenzar a responderte esa pregunta contándote una anécdota. En la materia que estaba impartiendo en la licenciatura en Historia de las Religiones del curso para trabajadores, los alumnos se dividían en tres grupos por generaciones. Para mí, fue increíble constatar cómo cada uno de estos grupos se proyectaba de una forma diferente a mis planteamientos, abordando el fenómeno religioso desde su vivencia personal. Los que crecieron en épocas de ateísmo eran algo temerosos en sus ideas, los más jóvenes veían la diversidad religiosa del país como el futuro, con religiones como la musulmana haciéndose visible en medio de nuestra sociedad, y los mayores, ya a esos la religión, ni el país, les causaba gran conmoción. Por cierto, me llamó la atención que tuve alumnos no inscritos en el curso, pues les interesaban las temáticas. Ellos iban de oyentes y me preguntaban más por mis testimonios vivenciales como católico perseguido y mediador entre el conflicto Iglesia-Estado a comienzos de la Revolución, que las referencias académicas.
+
+Hoy me parece notar la existencia de una auto-evaluación histórica del campo religioso cubano. Si pudiera expresarlo en lenguaje cristiano, siento que la sociedad necesita una confesión pública y privada de todos los pecados cometidos por las Iglesias y el Estado durante estos más de 60 años de proceso revolucionario. La palabra clave es reconciliación y diálogo; pero para lograrla se necesita decir la verdad y hay muchas personas, sobre todo de mi generación, interesadas en que esta no salga a la luz pública. 
+
+En este momento el pueblo está buscando una respuesta religiosa para sus problemas que no es fácil de encontrar, pues lo material domina sobre lo espiritual, porque la sobrevivencia es un hecho de primera magnitud. Porque las personas están cada día más aisladas unas de otras, porque en la era de las comunicaciones cada día hay menos comunicación, todo es confuso. En un momento tan difícil como éste, no hemos podido ir ni siquiera a templos religiosos a rezar a Dios, porque estaban cerrados. Entonces, un amigo protestante me decía que la _tienda en cuc_ es su _nuevo templo_ y evangeliza en las largas colas. Sabes, el cubano siempre busca una alternativa para las dificultades. 
+
+Muchos imploran un milagro existencial que no es fácil ver en el horizonte, lo que no quiere decir que no pueda existir. Yo creo que puede venir algo sorprendente que pueda cambiar todo, donde no descarto los resultados de las actuales elecciones que se puedan dar en Estados Unidos y su impacto sobre Cuba. Yo diría que el cubano del siglo XXI debe aprender a dialogar con el otro y consigo mismo; si no dialogamos con los otros, incluso aquellos que no piensen como la mayoría, no le veo futuro a la necesaria reconciliación. Hay estudiosos que presagian que vivimos en el apocalipsis, el fin de la humanidad, pero según mis lecturas históricas, esto no tiene que ser necesariamente así.
+
+https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/del-odio-al-amor-mi-viaje-a-la-semilla/
+
+ **JP- ¿Para terminar, Enrique, ¿crees que académicamente se ha sido injusto contigo, pues nunca te han dado ningún reconocimiento y llevas más de 40 años dando clases en la Universidad de La Habana y estudiando el fenómeno religioso cubano?**
+
+**ELO –** Con respecto a mi reconocimiento académico, lo que hice y hago todavía por la formación de nuevas generaciones, es porque lo considero necesario y útil para la sociedad cubana, nunca he trabajado aspirando a nada. Te cuento que del grupo de Estudios de la Religión creado en la Universidad de La Habana en 1971, conformado por Eduardo Torres Cuevas, Aurelio Alonso y yo, disuelto en el primer congreso del partido en 1975, donde yo atendía Iglesia católica, los otros dos amigos son premios nacionales y a mí, bueno, de seguro me absolverá la Historia.
+
+A veces pienso que he sido algo discriminado de los nominados a galardones académicos por ser practicante católico. En realidad, yo me considero macro-ecuménico, que quiere decir abierto a todo tipo de tendencia religiosa y abierta también a dialogar con los que no creen. Yo sigo incluso el ritmo de la naturaleza y todo lo que nos rodea, allí hay mucha paz y espiritualidad. Para Monseñor Carlos Manuel de Céspedes, a quien sigo considerando mi párroco a pesar de su deceso, yo era un católico renegado, pero para la gente del partido comunista también era un comunista renegado, pues me ofrecieron la militancia al Partido y la rechacé.  Quizás revisando mi mente hoy, lo del partido fue un capricho mío, porque me consideraba con mérito para ser fundador del Partido Comunista y en ese momento, por ser religioso, no me invitaron a pertenecer.  Y luego, en el cuarto congreso del partido en el año 92 cuando admiten a los creyentes me ofrecen pertenecer, pero me parecía injusto. 
+
+En realidad, le agradezco a la vida y a la Revolución las oportunidades profesionales que recibí, pues pude ir a la Unión Soviética en el año 1962 y durante el viaje, entrevisté a Raúl Castro Ruz; ese texto mío fue portada del periódico Revolución. Yo iba como periodista de Prensa Latina al congreso mundial por la paz. En la delegación cubana también estaba el P. Guillermo Sardiñas y el presbítero de la Iglesia presbiteriana Rául Fernández Ceballos. En mi biografía debe constar que tengo dos libros publicados: _Los católicos y la Revolución Latinoamericana_, que obtuvo mención de Casas de las América en 1968, y el _Camilismo en América Latina,_ que ha sido tomado de referencia en   universidades de la región para comprender la figura del sacerdote guerrillero Camilo Torres. También he publicado varios ensayos importantes. En Caracas, por ejemplo, me publicaron _Revolución en la Teología,_ y en la prestigiosa revista _Temas_ de Cuba he publicado varios artículos
+
+Yo me considero un hombre de diálogo, aunque admito que este no ha sido fácil, quizás por ser así, los decisores han visto en mí el peligro de premiar una voz libre aferrada históricamente a la verdad, por fuerte que sea. Ahora que siento más cerca el final, creo que moriré feliz y completamente solo en mi antigua casa llena de libros sobre religión.  Desde que comenzó esta pandemia, suelo sentarme con mayor frecuencia en el portal de mi Kholilandia, esperando y reflexionando sobre lo que va a suceder.  
+
+Julio, para terminar, quiero decirte que desearía que me recordaran como uno de aquellos antiguos profetas del antiguo testamento a los que Dios escogía para dar su testimonio y ellos decían: _Padre, si yo soy analfabeto, si soy tartamudo._ Quizás, Dios me ha escogido para transmitir algún mensaje a Cuba con mi vida dedicada a la enseñanza de la Historia de la Religión, sin considerarme yo su digno seguidor.
+
+entrevista al profesor Enrique López Oliva, entrevista al profesor Enrique López Oliva, entrevista al profesor Enrique López Oliva, entrevista al profesor Enrique López Oliva
+
+## Autor
+
+-   ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
+    
+    ![](/wp-content/uploads/2020/12/fb_img_157706577695411966179381928198004397.jpg)
+    
+    [Julio Pernús](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/https-www-desdetutrinchera-com-tag-autor-julio-pernus/)
+    
+    Comunicador de la iglesia católica.
+    
+    [](../tag/autor-julio-pernus/index.html)

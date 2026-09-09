@@ -1,0 +1,29 @@
+---
+title: "Acontecimientos que marcaron a la Iglesia Católica cubana en 2019 —"
+date: "2019-12-27T23:23:01+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/12/9K0nQOej.jpg"
+---
+#### Un bosquejo de los tres hechos de mayor importancia para la Iglesia cubana en 2019
+
+**Por: Julio Pernús**
+
+El final de un año resulta un momento ideal para, de alguna forma, revivir los doce meses que van quedando atrás. El 2019 ha sido un año histórico para la Iglesia católica cubana, pues ha estado marcado por sucesos imborrables en la mente de sus protagonistas, como gusta decir un obispo cubano: dios ha estado grande con nosotros. Yo me voy aventurar a resaltar tres sucesos, que en realidad serán cuatro, como los principales, pero de seguro la lista es mucho más extensa. Cada uno de estos acontecimientos marcó a sus protagonistas y además, tienen como ingrediente común el vínculo tangible del Papa Francisco con ellos.  
+Los más de 500 jóvenes cubanos que integramos la delegación que asistió a la Jornada Mundial de la Juventud en Panamá, del 22 al 27 de enero, ya no seremos los mismos. Por primera vez la Iglesia cubana pudo mandar una delegación tan numerosa a un evento internacional. Aprovecho estas líneas para dar gracias a todos los artífices de este sueño, sobre todo, a nuestro pastor universal, el Papa Francisco, que nos acompañó de cerca durante todo el proceso de inscripción y nos fue a visitar de forma sorpresiva en Panamá. De ahí, salimos con el compromiso de soñar una Cuba diferente; el reto es grande, pero se van dando pasos confiando en la fuerza de lo pequeño.  
+El 26 de julio de 2019, todo el pueblo cubano y, en especial los católicos, sufrimos la triste noticia de la muerte del Cardenal Jaime Lucas Ortega Alamino. Su legado marcará toda una etapa dentro de la historia eclesial cubana. Su sepelio estuvo ambientado por demostraciones de cariño de personas del mundo entero y, en especial, del pueblo de Cuba. Todos sus allegados y amigos de la Iglesia recibieron mensajes de pésame de grandes personalidades, amigos del Cardenal Ortega y, por supuesto, se hizo sentir la cercanía del Papa Francisco a toda la Iglesia cubana en esos momentos de dolor. Pero, un católico sabe que la muerte no es el fin, sino el comienzo de un nuevo camino que lleva a la vida eterna.  
+Para la Iglesia católica de Cuba, fue una grata alegría la elevación a cardenal, el 5 de octubre de 2019 del arzobispo de la Habana, Juan de la Caridad García Rodríguez. Junto a él viajó a Roma una nutrida representación de toda la Iglesia. En este hecho también se hizo presente el amor del [Papa Francisco](https://es.wikipedia.org/wiki/Francisco_\(papa\)) a nuestra Iglesia. Aunque son dos sucesos diferentes por los puntos en común, he decidido unirlos en uno, como acontecimiento importantes relacionados con nuestros cardenales.  
+El tercer momento trascendente de los ocurridos durante el 2019, ha sido la conmemoración de los 500 años de fundación de San Cristóbal de la Habana, la capital de todos los cubanos. La Iglesia católica cubana y, en especial, los feligreses de la arquidiócesis habanera vivieron como todo un jubileo los festejos que rememoraron aquel 16 de noviembre de 1519. Este acontecimiento también contó con un difundido video-mensaje al pueblo de Cuba del Papa Francisco, que se difundió por la televisión cubana..  
+Como toda selección estoy consciente de que siempre dejaré fuera de mi análisis, algunos hechos que son fundamentales en el 2019, como las dos cartas pastorales de la Conferencia episcopal cubana con motivo del referéndum constitucional, la Jornada Nacional de la Juventud de Santiago de Cuba, que por la “situación” del país, se vivió desde cada diócesis y el nombramiento de Mons. Juan de Dios Hernández Ruiz como obispo titular de Pinar del Río.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

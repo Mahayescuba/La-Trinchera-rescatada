@@ -1,0 +1,41 @@
+---
+title: "La Condición Izquierdista"
+date: "2019-01-08T06:21:18+00:00"
+author: ""
+category: "Política"
+image: "/wp-content/uploads/2018/10/descarga.png"
+---
+Izquierda en Latinoamérica.
+
+**Por: Fernando A. Rodríguez**
+
+La Izquierda en Latinoamérica está sufriendo uno de sus peores momentos. Con reveses políticos por doquier parece que los únicos países estables con gobiernos autodenominados de izquierda son Cuba y México, el resto han pasado por varias crisis o han sido desplazados. En casos como Argentina, la salida de Cristina dejó a un ultraderechista como Macri, mientras que en Brasil amenaza una forma aún más agresiva y totalitaria, que recuerda algunas de las pesadillas políticas del siglo pasado.  
+Ahora mismo la política del bloque está dividida, pero gana fuerza la facción centro-derecha. Más allá de los personalismos, los aferramientos, los enemigos o las “madureces” políticas, estamos ante un fenómeno objetivo, ante una tendencia general y tangible. Mas ¿cuáles son las causas detrás de este fenómeno? ¿a qué se está enfrentando Latinoamérica?  
+¿Qué es la Izquierda Latinoamericana?  
+Conviene lógicamente plantear la elemental interrogante de, en la actualidad, “qué entender por Izquierda”. Ante esta interrogante responderé con total sinceridad: no sé exactamente.  
+De por sí, una de las principales dificultades teóricas que podemos encontrar es la extrema flexibilidad del término Izquierda en el contexto mundial contemporáneo. Mientras comunista, socialista y hasta marxista son terminologías que tienen un cierto grado de determinación, hasta ahora es difícil poder afirmar qué es ser izquierdista o qué es un gobierno de Izquierda.  
+El problema, a mi entender no radica en las diferentes variantes de izquierdismo que pueden encontrarse, las formas de asumir la sociedad, las ideas, el poder. La verdadera diatriba empieza en que no hay un criterio objetivo, material u homogéneo de qué es la izquierda, por tanto, la pertenencia a esta ideología va de la empatía a la subjetividad.  
+Es de esperarse esta situación; de por sí el término izquierda se ha vuelto mundialmente cada vez más ambiguo con los años. Cuando existía la URSS la noción de izquierda estaba amparada materialmente en un sistema de conocimientos, de poderes y lo más importante, en un sistema socio-económico, diferente al capitalismo; la polarización era tan clara que podían aprovechando ambas fronteras ideológicas y socio-económicas gestarse formaciones sociales o concepciones más cercanas a uno u otro modelo. No obstante, luego de la caída del campo socialista, la existencia de un sistema unipolar ha hecho que se deshaga una noción material de izquierda.  
+Lo más curioso es que no sólo ha desaparecido la claridad del concepto izquierda, sino que también lo ha hecho la noción de derecha; la indefinición viene en que ante la ausencia de sistemas económicos modernos pero opuestos, la relación dialéctica de inter-determinación (dassain hegeliano) que existía entre las nociones de los conceptos se fue deteriorando, hasta encontrar un sistema de conceptos tan expansivo y tautológico que ya no dice nada.  
+En la contemporaneidad el mundo de la post-verdad se impone, donde ya no es una cuestión de vida o muerte, qué piensas del mundo; al contrario, la determinación de la identidad es cada vez un asunto más privado; y mientras más privado, más difícil es establecer cánones que coarten la libertad extrema del individuo de creerse y representarse a sí mismo como mejor le venga en gana; esta es una vuelta al sofismo, la pesadilla de los filósofos: La sofistica individual sustenta el consumo, la filosofía no, ergo…–no me extraña que la filosofía esté en peligro de extinción.  
+No obstante, este fenómeno de la post verdad y de la sofística identitaria, no ha llegado a Latinoamérica con la misma fuerza que a centros hegemónicos como Norteamérica y [Europa Occidental](https://es.wikipedia.org/wiki/Europa_Occidental). Acá existe la consciencia de que la posición política es una cuestión que puede tener connotaciones públicas y en el caso del izquierdismo existe la convicción de la objetividad de su condición. Esperaríamos que hubiera entonces un concepto de izquierda, pero no, tenemos muchos conceptos de izquierda pugnando entre sí, cada cual reclamando su autenticidad.  
+Es un fenómeno parecido al protestantismo donde cada iglesia pretende ser la verdadera; se pueden llegar a entender y apoyar sobre la base de un eclecticismo muy superficial, pero a fin de cuentas lo que las cohesiona son factores externos, la necesidad, la economía o el catolicismo en algunos casos.  
+Los partidarios de la autodenominada y confusa izquierda pugnan entre ellos, y en casos todavía más complejos pugnan con las clases obreras y las todavía existentes muestras de proletariado latinoamericano. Vemos fenómenos como el Partido de los Trabajadores de Brasil ideando políticas para beneficia a la clase media y “enriquecer” al pueblo; en Ecuador, mientras Alianza País estaba bajo la dirección de Rafael Correa, hubo grandes movimientos populares de campesinos, obreros y proletarios que espontáneamente se enfrentaron al gobierno pidiendo reformas y cambios –una contradicción entre la izquierda y el pueblo. Casos como los de Venezuela, son por sí solos un universo.  
+Todos los gobiernos autodenominados de Izquierda en América desde Cuba hasta el gobierno de los Kishner han aplicado políticas, reformas, y modelos económicos muy distintos entre sí. Algo han tenido claro a nivel de discurso y ha sido la oposición a la Derecha y al Capitalismo Hegemónico: ¿Izquierda vs Derecha?  
+Lograr aclarar qué es Izquierda latinoamericana puede depender de qué se responda por qué todavía subiste una dicotomía izquierda-derecha en América ¿marxistamente hablando, cuáles son las condiciones para la condición izquierdista en Latinoamérica?
+
+[También le puede intresar](/politica-en-cuba/) 
+
+Izquierda en Latinoamérica. Izquierda en Latinoamérica. Izquierda en Latinoamérica. Izquierda en Latinoamérica.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

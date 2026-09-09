@@ -1,0 +1,47 @@
+---
+title: "La Cuba que queremos — Profesor universitario en Cuba"
+date: "2019-08-30T15:44:39+00:00"
+author: ""
+category: "Política en Cuba"
+image: "/wp-content/uploads/2019/08/Catherine-Thiry.jpg"
+---
+profesor universitario en Cuba. 
+
+Hace varios días fue publicado por la Viceministra Primera de la Educación Superior, Martha del Carmen Mesa Valenciano un texto donde expone sus criterios de lo que debe ser un profesor universitario.  
+También circulan en las redes sociales y diferentes publicaciones, artículos que dan respuesta a la Viceministra, que, en su variedad de tonos, argumentos y estilos, demuestran la indignación generada en la ciudadanía y el gremio de los profesores universitarios ante la desacertada, limitada y autoritaria visión de la funcionaria. En ellos es evidente la preocupación de que tal documento sea la base de la política a seguir en las instancias del sector universitario.  
+Somos egresados de las carreras Filosofía Marxista y de Derecho de la Universidad de Oriente (UO), y estudiamos en dicha institución en los cursos comprendidos entre el 2011 y 2016, lapso en el que también realizaban en esta universidad sus labores administrativas y educativas la mencionada funcionaria Mesa Valenciano y el profesor Rene Fidel González García.  
+Como estudiantes y presidentes de la FEU de nuestras facultades, tuvimos la oportunidad de trabajar directamente con la actual Viceministra, otrora Rectora de la UO, y conocemos en alguna medida sus métodos de trabajo y actitud ante cuestiones pretendidamente “ideológicas”.  
+Al profesor René Fidel lo conocimos en el año 2011. Impartía la asignatura Historia de Estado y el Derecho y era el Profesor Principal del primer año de Derecho. Todo amor al magisterio y ternura intelectual, su presencia aglomeraba diariamente decenas de muchachos de toda la universidad en “el muro” de la Facultad antes y después de culminar sus clases.  
+Intachable como profesor y republicano confeso, a no pocos nos enseñó con su actitud diaria, su honestidad y respeto a las ideas de los otros, como su compañero y maestro Fernando Martínez Heredia, a sentir orgullo de ser comunista. Formaba valores dentro y fuera del aula.  
+Buscado por generaciones de dirigentes de la FEU de la Facultad de Derecho, y de la Universidad, a los que acompañó por su trayectoria anterior como dirigente estudiantil, era también miembro del Comité del Partido de la Universidad y un prestigioso integrante de la UNEAC en Santiago de Cuba, cuyos libros sobre ciudadanía y conferencias públicas, eran seguidos.  
+Si ahora escribimos es porque nos constan los nefastos resultados que tendrá la implementación de las ideas escritas por la actual Viceministra: René Fidel ya no es profesor de la Universidad.  
+A espaldas de sus estudiantes, de su núcleo del partido, de su sindicato, esa misma funcionaria que ahora se pronuncia regodeándose en su enorme poder, solicitó y obtuvo del Ministro de Educación Superior el despojo de la condición de Profesor Titular, y la de profesor, de nuestro maestro.  
+No reparó en medios para ello. Incluso, cuando la Decana de Derecho se negó a acceder a sus pretensiones después de meses de presiones la removió de su cargo.  
+Cuando fracasó su intento de cuestionar el carácter revolucionario de los artículos de nuestro profesor ante el abierto respaldo del claustro y el núcleo del PCC, indicó entonces a quienes ocupaban el cargo de Presidente de la FEU y de Secretario de la UJC en la Universidad, leyeran y dieran a firmar a cerca de ocho Presidentes de Brigadas de la FEU y Secretarios de Comité de Base de la UJC reunidos bajo el fantasma de la subversión, una “declaración de repudio” al profesor y sus artículos de intelectual revolucionario redactada por ella misma y el nuevo Decano.  
+Cuando no pudo evitar que algunos de esos mismos estudiantes rechazaran de inmediato el contenido de la “declaración” por difamatoria y falsaria, dio entonces instrucciones para mentirles ya sin límites diciéndoles que el profesor era un agente de la CIA, un mercenario que recibía dinero por sus publicaciones, y ni así consiguió que firmasen todos el documento que luego el Ministro habrá recibido como evidencia de la pérdida de prestigio del docente y cuyo contenido, sólo se conoció porque el propio René Fidel, exigió se hiciera pública ante la organización partidista y el claustro de la Facultad.  
+¿Qué pérdida de prestigio social sería esta que tenía que ser mantenida en secreto? ¿Acaso es lo mismo difamar y atentar impunemente contra el prestigio de una persona desde el poder que tomar en consideración hechos que así lo ameriten? Con vergüenza recordamos perfectamente que cuando incluso sus nuevos alumnos, a los que apenas les había impartido unos pocos turnos de clases, preguntaron con insistencia por él después de su salida, la respuesta cobarde y falaz que Luis Alberto Pérez Lody, el nuevo Decano y otro funcionario docente dieron, fue que se encontraba fuera de Cuba en viaje de trabajo.  
+Estos no son los métodos de la Revolución, los que nos enseñaron nuestros profesores, pero sí los que empleó e impuso esta funcionaria. Entonces ese es su prestigio social entre nosotros. ¿Soñará ella con ser Ministra y privar de la condición de profesor a todos los que enseñan en Cuba en pensar como hacía y aún hace René Fidel?; ¿con hacer desaparecer en el país, como lo hizo a base de cuestionamientos y objeciones con el Foro Social Universitario: Juventud y Revolución, cualquier espacio de reflexión profunda que reúna a los jóvenes universitarios?; ¿acaso con desatar el oportunismo y el arribismo para exhibir la limpieza de sangre ideológica de nuestros profesores? ¿con repetir la bestialidad de la parametrización?  
+Fuimos pacientes mientras nuestro profesor nos daba a todos una clase más de civismo activando sus derechos como ciudadano aunque recibiese el silencio como la única respuesta de las instituciones y los funcionarios que violan nuestra legalidad al no responderle.  
+Le respetamos y apoyamos, testimonio de ello son nuestras fotos rodeándolo con sus compañeros del claustro en presentaciones de libros y otras actividades en la que ha participado. Pero ya basta, tenemos que hacer más.  
+Algo muy cierto escribió el Profesor René Fidel a Silvio Rodríguez en su blog Segunda Cita, lo más grave es que estamos siendo defraudados. Por proteger los actos ilegales de esta funcionaria y del Ministro de Educación Superior, oportunamente denunciados por nuestro profesor, están violando todo en lo que creemos. ¿Acaso las leyes son nada más para ser cumplidas por nosotros los ciudadanos? ¿Qué ha cambiado en la Revolución que se pueden producir abusos de poder y atropellos impunemente? ¿Cómo es posible una vez que se haya puesto en marcha la maquinaria judicial, detenerla y dejar desprotegido un ciudadano?  
+No tiene, ni tendrá alguna vez justificación, que la Fiscal General de la República, e incluso el Presidente de nuestro país, violen los plazos de respuesta del Derecho a queja y petición que le concede a nuestro profesor y a todos los ciudadanos la Constitución.
+
+> Esto no es una patraña del enemigo, nos consta y es desgraciadamente público para todo el país.
+
+Queremos que René Fidel vuelva a nuestra Universidad, a nuestra Facultad de Derecho, que formalmente se le devuelva su condición de profesor que no ha hecho más que honrar, necesitamos a los hombres cultos y de bien que, como él, confirman sus credos con la virtud martiana de la consecuencia, pero queremos también que se respete el Estado de Derecho. Esto es para nosotros, lo único revolucionario y decente. Es la Cuba que queremos.
+
+Tomado de [La Joven Cuba](https://jovencuba.com/2019/08/30/la-cuba-que-queremos/)
+
+profesor universitario en Cuba profesor universitario en Cuba profesor universitario en Cuba profesor universitario en Cuba
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

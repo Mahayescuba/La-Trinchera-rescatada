@@ -1,0 +1,40 @@
+---
+title: "Contenido del valor"
+date: "2018-08-22T11:15:29+00:00"
+author: ""
+category: "Economía Política"
+image: "/wp-content/uploads/2018/08/Eva-Rothschild-.jpg"
+---
+_Acabo de leer de un tirón y releer otra vez tu contrarréplica a Rolando Astarita en torno al contenido del valor._
+
+**Por: Iramís Rosique**
+
+### En respuesta al artículo de Miguel Alejandro Hayes que polemiza con Rolando Astarita
+
+Miguel:
+
+Acabo de leer de un tirón y releer otra vez tu contrarréplica a Rolando Astarita en torno al contenido del valor. No tengo aún criterio alguno de la polémica en cuestión, en tanto esta primera parte de la contrarréplica supuestamente no entra todavía al meollo de la cuestión relativa al contenido del valor. El artículo es realmente sobre filosofía; su momento polémico es filosófico. Y lo más interesante en él para mí fue tu disertación sobre la naturaleza de las categorías. Desgraciadamente como en otros tantos caminos del marxismo, discrepamos. Por eso, y porque sé que te divierte tanto como a mí polemizar, te escribo estas líneas.
+
+Cuando en tu texto se plantea la cuestión de cuáles son la estructura y la naturaleza de las categorías del pensamiento, sin discutir mucho, llegas a la conclusión de que las categorías son “elementos del pensamiento abstracto (…), sin más contenido que el pensamiento mismo”: “abstracciones con estructura de relaciones, cuyo contenido es el propio pensamiento”. Esta solución probablemente en el entorno del idealismo alemán del XIX hubiera dado el golpe a la lata. Entre hegelianos “puros” decir que el contenido de algo es el pensamiento y no decir más puede bastar como gran descubrimiento y sentencia; después de todo para el viejo profesor alemán el pensamiento es una realidad, una sustancia autosuficiente e independiente. No obstante, entre marxistas, cuando alguien dice que el contenido de las categorías del pensamiento es el pensamiento mismo, no está sino haciendo un chiste, una perogrullada: ¡claro que el contenido es pensamiento mismo! ¿Pero cuál es el contenido de ese pensamiento?Es esa la pregunta que nos llevaría desentrañar la naturaleza verdadera de las categorías, la cual no se agota diciendo que son “porciones”, “partículas” de pensamiento abstracto.
+
+Lo que yo echo en falta en tu análisis, y que parece despreciado por ti, fue el análisis histórico de las categorías. Sorprende, porque el análisis histórico sí es una herramienta que Marx aprendió de Hegel. ¿Cómo surge y se desarrolla una categoría? Lo primero que hay que diferenciar aquí es el surgimiento de una categoría de pensamiento y el momento en que un investigador la señala, la ausculta, la define y la registra. En ese sentido las categorías se parecen en ocasiones a las especies biológicas: existen desde mucho antes que el historiador natural las describa en su cuaderno. Puede darse el caso de que un pensador o investigador —de cualquier disciplina pues las categorías no son solo filosóficas— cree en efecto una categoría, pero esta no es ni la única ni la forma principal en que las categorías surgen; además se sabe que una vez surgidas las categorías tampoco se mantienen estáticas, inmutables, sino que cambian y se usan de maneras diferentes. Piensa en el devenir de las categorías partícula, átomo, divinidad, tiempo u oración desde la Antigüedad hasta hoy. Demócrito y [Bohr](https://es.wikipedia.org/wiki/Niels_Bohr) piensan diferente sobre el átomo seguramente.Es en la historia real de los hombres, en el devenir de su ser social en el que las categorías van formándose, diferenciándose y funcionando.
+
+Ahora bien, coincido contigo en que las categorías son el resultado de un proceso de abstracción. ¿Pero sobre qué, abstracción sobre qué? Yo diría que en su práctica socio-histórica el hombre —genérico, ya sea el investigador, la comunidad o la humanidad entera— capta y separa momentos universales de la realidad y los fija en el pensamiento como categorías. Esos momentos universales en abstracto son el verdadero contenido de las categorías. ¿Cómo puede contar un hombre? Pues porque en su formación como individuo aprehendió la categoría cantidad, categoría que no descubrió por sí mismo, ni inventó ningún sabio milesio ni un pitagórico, sino que resultó de la propia praxis de la humanidad, de su propio enfrentamiento con la multiplicidad de los objetos de la realidad a lo largo del surgimiento de la civilización. De este mismo modo, cierta comunidad amazónica en su lenguaje no posee números, y sus miembros son incapaces de contar ni comprender el sentido de las cantidades en tanto no se apropiaron jamás de la cantidad como categoría del pensamiento —probablemente no lo necesitaron. En cualquier caso, el contenido que en las categorías adopta la forma de pensamiento abstracto es actividad práctica cristalizada, abstraída, separada, y la actividad práctica no puede ser otra cosa que intercambio con la realidad, transformación de la realidad. Por eso discrepo cuando intentas separar, oponer, de modo radical a las categorías de la realidad que les dio origen.
+
+Así pudiera decirse que las categorías del pensamiento son —en palabras del profesor Rubén Zardoya— “generalizaciones de la experiencia humana que corresponden a los momentos abstractos objetivos del proceso de producción de la vida social en su conjunto y de cada acto humano concreto”.
+
+Independientemente de lo dicho, no entendí realmente por qué te metiste en el asunto de las categorías si tu tema es el contenido del valor. Cualquiera que sea la manera de entender las categorías que tengan tú o Astarita, tanto si es la misma como si no, no se relaciona en lo absoluto con cuál creen que es el contenido del valor. Por ejemplo, estamos claros de que la categoría valor no la inventó Ricardo ni Marx ni ningún economista clásico. Yo diría que la categoría valor es el resultado de la abstracción de ese momento, ese componente, esa parte universal a las mercancías mediante la cual estas se identifican, es decir se equipara o comparan, y pueden ser intercambiadas. Todo asunto sobre qué es una categoría llega hasta la sentencia anterior. La verdadera pregunta del debate con Astarita consiste en desentrañar cuál es la esencia de ese “momento universal a las mercancías” mediante el cual se equiparan e intercambian, porque ese momento universal es la sustancia del valor—que fue lo que realizó Marx en tanto estudió el movimiento real de la categoría en el modo de producción, independientemente de que de paralelamente expusiera la historia del tratamiento de la categoría por los economistas—: ¿utilidad, fuerza de trabajo, tiempo de trabajo socialmente necesario? Lo que sea, es una batalla que debe librarse en el plano de la economía política y que no tiene que ver con las categorías ni la filosofía. Siendo así, sacada la discusión de mi zona de confort y enviada directamente al mundo de las relaciones sociales de producción, vuelvo yo a mi oscuro rincón, a observar los toros desde la barrera.
+
+Contenido del valor 2. Contenido del valor 2. Contenido del valor 2.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

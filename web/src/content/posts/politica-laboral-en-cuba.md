@@ -1,0 +1,52 @@
+---
+title: "politica laboral en Cuba La Trinchera Joel Ernesto Marill"
+date: "2018-02-20T16:15:53+00:00"
+author: "Joel Ernesto Marill Domenech"
+category: "Opinión"
+image: "/wp-content/uploads/2018/02/Para-que-las-exepciones-no-se.jpg"
+---
+_“Sobre todo, sean siempre capaces de sentir en lo más hondo cualquier injusticia cometida contra cualquiera en cualquier parte del mundo. Es la cualidad más linda de un revolucionario.”_
+
+Ernesto Guevara
+
+El tema del que hoy escribo es realmente una de las cosas más difíciles de las que puede tratar un revolucionario, pues es sobre  la materialización de la peor parte del ser humano. Muchos me han dicho que un tema así es demasiado delicado para tratarlo a la ligera y es por eso que cada palabra que plasmaré a continuación ha sido revisada con extrema cautela para no herir sensibilidades, pero no alzar mi pluma ante un hecho como este sería perder la esencia de lo que para mí significa ser un revolucionario.
+
+A raíz del programa [Pasaje a lo Desconocido](https://www.youtube.com/channel/UCntobI-UZcr0LKUQRR8lJFw) del día 11 de febrero del 2018, en donde se trataba el tema de la belleza física para obtener empleo en Cuba, surgió la conversación entre un grupo de amigos de un hecho extremadamente peculiar, el cual es prueba de hasta dónde puede llegar el ser humano en el camino inacabable de obtener cada día más y más riquezas sin importar ni siquiera la vida de uno de sus semejantes. El hecho en sí lo describiré brevemente para ponernos en contexto.
+
+El año pasado en una de las peluquería privadas más exitosas de La Habana ( a la que por un respeto inmerecido mantendré en el anonimato), fue despedida una trabajadora por no cumplir con las normas estéticas del salón, este hecho de por si es ya alarmante, pero es insignificante contra el trasfondo de la historia.
+
+Dicha trabajadora, proveniente de una de las provincias orientales, padecía de un trastorno hormonal que no le permitía quedar embarazada.  En un primer momento los doctores que la atendieron en su provincia no tenían conocimiento de la causa que provocaba el hecho de no poder tener hijos, por lo que fue sometida a una terapia hormonal de fertilidad. Este hecho totalmente contraproducente, desequilibró aún más su ya delicado sistema hormonal, por lo que necesitó un tratamiento especial para su recuperación.  Al mismo tiempo dicha trabajadora se traslado desde su provincia hacia la capital y en la misma comenzó a trabajar en la peluquería que antes nos referimos. Al inicio de su trabajo, que coincidió con el inicio de su tratamiento, su figura se encontraba todavía dentro de las “normas estéticas” requeridas para realizar el mismo. Así  que comenzó a desempeñarse en su puesto de forma satisfactoria.
+
+Al cabo de un tiempo, no muy extenso, el tratamiento hormonal al que estaba siendo sometida le trajo un aumento considerable de masa corporal, excesiva para los cánones actuales de belleza, por este motivo en un momento dado, su jefe le comunicó que por el aumento de su peso ya no cumplía los requisitos de un lugar que prosperaba por ser un referente para la belleza y el buen gusto. Por ese motivo fue despedida de su puesto de trabajo.
+
+La historia a la que me acabo de referir, cuando me fue contada en una versión mucho más extensa, con más riqueza de detalles, en donde realmente se podía apreciar en su totalidad la injusticia que se estaba cometiendo, me impacto fuertemente. Yo no soy de otro planeta. Como cubano de a pie soy consciente de que cosas muy reprochables han estado pasando en el sector privado en Cuba, desde manifestaciones abiertas de racismo en la entrada a bares y otros establecimientos, hasta la discriminación por orientación sexual. Pero como dije en el inicio, para referirme a un tema así hay que hablar con base, pues es altamente sensible. Es por eso que me dediqué a una exploración rápida de algunos rumores que por la calle andan sobre este tema. Por decirlo de alguna manera, yo no soy detective ni vigilante nocturno: pero no hay que serlo, solo hace falta preguntar un poco y en algunos lugares y saltan rápidamente la existencia de problemas como el antes descrito y los mencionados en el presente párrafo. Varias son las historias que podría traer aquí, pero lo cierto es que  no vale la pena hacerlo, pues creo que con el ejemplo anterior queda bien claro  el problema en su generalidad. Lo que más me sorprende como ya dije anteriormente no es la ocurrencia de los hechos, sino la cantidad que de estos pareciera que han ocurrido, solo en La Habana que es mi radio de acción.
+
+En hechos tan lamentables como el descrito, hay muchos culpables y de seguro también muchas víctimas. Más mi afán aquí no es buscar culpables específicos ni señalar con el dedo, para ello pondría el nombre del lugar en donde ocurrió el hecho descrito u otros de un corte similar y tratar de que comience la casería de brujas. Pero esa no es mi intención, yo quisiera más que una casería de bruja invitar a algunos revolucionarios, algunos hombres y mujeres de buena voluntad a la reflexión.
+
+Hechos como estos somos culpables todos, primeramente cuando los invisibilizamos  y tratamos de tirar bajo el tapete los platos rotos. Una amiga estudiante de derecho, me comentaba durante mi breve investigación, que el marco legal vigente en Cuba pena todo tipo de discriminación laboral. Más yo me pregunto cómo obligar a un privado a mantener en su puesto de trabajo a una persona que él no quiere que siga trabajando con él, o cómo hacer que un centro nocturno (privado) acepte la entrada de personas de color, negros y mulatos que no hay pena en decirlo, si en la entrada de su establecimiento hay un gran cartel que dice “Se reserva el derecho de admisión” (este tema lo trataré en un post siguiente así que no haré hincapié en el en este momento). Sobre la primera cuestión, es simplemente casi imposible. Una de las primeras características de la propiedad privada moderna es un mercado laboral flexible y bajas restricciones en la contratación, pues esto es beneficio puro para los dueño que al final son los que en el mundo cortan el bacalao, si a esto le sumamos un enorme Ejercito Industrial de Reserva (trabajadores dispuestos a contratarse) existente en Cuba con la gran oferta laboral que se ha generado tras el despunte de las nuevas formas de propiedad no estatales, nos da en que no existe ninguna barrera real para que hechos como estos ocurran ante la mirada impotente de todos aquellos a los que nos duele actitudes así.
+
+Aquí quiero tocar un punto espinoso y yo se que lo es, pero al Cesar lo que es del Cesar. Es increíble que no existan garantías creadas o que puedan ser aplicadas con efectividad para que hechos así no ocurran. Eso es responsabilidad en primera instancia de las instituciones.
+
+Como dije no es una casería de brujas, es tratar de reflexionar lo necesario que es para la sociedad cubana en reestructuración. Con eso, se podrá lograr que el  lugar al que nos dirigimos cuente con las garantías de que injusticias así no ocurran.
+
+No podemos caer en el error de algunas economías sudamericanas (por coger ejemplos cerca de casa, pero el mundo está lleno) en las que  menos protección a los trabajadores no pueden tener, con legislaciones laborales creadas para proteger al dueño y no al trabajador. Es necesario que las leyes estén claras, que sean lo suficientemente estrictas y que existan los mecanismos de control e implementación para que hechos así no sucedan o al menos que pasen lo menos posible.
+
+El otro trabajo está orientado a la creación de conciencia, no tanto en los dueños, pues donde solo se busca al caballero Don Dinero, poco o nada se podrá sembrar, pero si concientizar en la gente y en personas que sean víctimas de hechos como estos, de que cosas así no pueden quedar impunes. Aunque no este escrito en ningún lugar, la sociedad deberá ser al final el mayor verdugo de hechos como este. Es  posible que hechos altamente reprochables se sigan dando pues no han tenido la atención que realmente lleva una problemática como esta.
+
+Quiero aclarar que no soy un extremista anti-propiedad privada, nunca le he escondido a nadie mis reservas hacia la misma, pero entiendo su necesidad en una coyuntura compleja como en la que nos encontramos, donde esta puede ser  un motor para el desarrollo de nuestras fuerzas productivas, tan necesario este hecho para el sostenimiento de nuestro proyecto de país.
+
+Lo que no puede ser es que en el camino al desarrollo se pierdan los preceptos fundamentales en que aspiramos se base este proyecto de país. No puede ser que por avanzar no desviemos del camino. Sé que el sector estatal tampoco está exento de problemas de racismo, homofobia y de discriminación de algún tipo. Aún subsisten en Cuba los rezagos de una sociedad machista, patriarcal y discriminante que reproduce defectos que le son naturales a sociedades de ese tipo. Lo que es  realmente una pena es que en nuestra sociedad caigamos en hechos así, tras tantos años de construcción revolucionaria. Lo importante, como vengo diciendo es lograr reflexionar sobre el tema, pero nos solo quedarnos ahí, es reflexionar para luego pasar a la acción y tratar de lo que aún parece ser una excepción, no se convierta en la regla.
+
+[Otro texto del autor](/economia-politica/)
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

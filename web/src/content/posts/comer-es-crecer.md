@@ -1,0 +1,43 @@
+---
+title: "Comer es crecer"
+date: "2020-02-16T21:22:13+00:00"
+author: ""
+category: "Onírica"
+image: "/wp-content/uploads/2020/02/a830be725cb0a19d4e1b98ab621bf937-1.jpg"
+---
+Feria del libro.
+
+**Por: Jorge Fernández Era**
+
+_La Feria del Libro_ culmina para mí. Me queda la angustia de no hallar lo buscado, de constatar lo que ya sabía: que está deprimido como nunca el sistema editorial cubano.  
+La preocupación mayor es sobre qué presupuestos se logra todavía movilizar a tanta gente hacia el este de la ciudad. Si se mira bien, la mayoría de las personas salen de La Cabaña cargadas de pacotilla, de producciones seudoculturales que entre otros despropósitos no hacen más que incitar a niños y jóvenes a no tomar en sus manos un libro.  
+En la _Feria Internacional de La Habana_ usted adquiere desde afiches de ciertos personajillos de la música internacional, hasta —por cinco ceucé— un libro titulado _Atrévete a ser ganador. El secreto de hacer realidad tu sueño_, o por dos, para su hijo, un sello metálico que adherirá a su ropa y que reza: _I love porn_.
+
+![](/wp-content/uploads/2020/02/552219_14973054165390314658.jpg)
+
+Luego censuramos libros que despotrican contra fenómenos semejantes y hablan de la nación que debíamos ser y definitivamente no somos.  
+Qué pena que el muro de ser el país más culto del planeta nos quede más alto que el que este año se colocó en los jardines del Complejo Morro-Cabaña y retó a escalarlo con guantes, cuerdas, casco protector y un nada módico precio en una moneda que ya no sirve para mucho.  
+El texto que sigue habla un poco de eso. Escrito hace cinco años, lo incluí en el libro _Cruentos de humor_ y posee —cervezas y potrancas menos— una no deseada actualidad.
+
+![](/wp-content/uploads/2020/02/cruentos8170606059176490648.jpg)
+
+# Comer es crecer
+
+\-¿Cómo les fue?  
+\-Qué te cuento… No puedo negar que mejor que la vez pasada porque, lo que es comer, comimos muchísimo, aunque no sé si precisamente por ello, por la cantidad de opciones, que hice más colas y tuve más broncas que nunca con esa gente que sale a la calle con el único propósito de amargarte la existencia, y lo peor: amargarte la comida, que ya bastante la tenía amargada con la maldita costumbre que tienen esos chiquillos míos de no ponerse de acuerdo en qué es mejor para el estómago: si el pollo o la carne de puerco. Fíjate que acabábamos de desembarcar en aquel lugar y Yanitface me halaba ya el brazo derecho enseñándome lo bien que se veían los contramuslos asándose a la parrilla, mientras Yanotmail me desencajaba el izquierdo clamando por los lomos ahumados, que más que ahumados parecían tiznados de tanta humareda apestosa que subía por entre las pencas de guano. Y yo, que también tengo mis caprichos, pugnaba por obligarlos a pedir el último en lo de las brochetas. Al final me tuve que espantar las tres colas… qué digo tres, fueron cuatro, pues las raciones eran tan magras y las brochetas parecían de tiburón por la cantidad de cartílagos que terminamos en un carrito con sombrillitas con un derretido de helado al que no le pude adivinar la composición química, pero que, ayudados por sendos paquetes de biscochos, completaron el postre. Después Yanitface o Yanotmail, no recuerdo si ambos inclusive, armaron tremenda perreta por la sed que les dejó la bazofia aquella, y tuve que zapatear medio kilómetro para encontrar otra fila india donde adquirir un pomo de refresco de limón, que es el único que la calma. Se me durmieron los dos encima cuando me senté a coger un diez, y entonces aproveché para echarme una Bucanero fría, tú sabes que eso es lo mío, no tuve ni que pararme para pedirla, pues pululaban camareros muy solícitos, cada cual ponderando las bondades de su nevera. Poco me faltó para emborracharme tras la quinta, pues los hijos de mi marido no querían despertarse. Cuando logré el milagro, y no sé si para vengarse por la ofensa de hacerlos volver a la realidad, me pidieron los llevara a montar caballos. Ahora los caballeros redujeron en casi un tercio el recorrido, y Yanotmail -la otra es más pendeja para las monturas que su propia madre y optó por una vuelta en poni- se encabronó porque los dueños del negocio no lo dejaban galopar, y tuve que pagarle seis vueltas seguidas en la misma bestia, que de tan desnutrida trotaba con un desgano digno de un enciclopedista somalí, y yo estuve a punto de pedirle a mi niño que cargara al pobre animal a ver si acabábamos de irnos. Si no lo hice fue porque a Yanitface se le metió entre trenza y trenza ir a saltar a los colchones inflables y luego gritó al hermano para que se le uniera, y no hubo manera de sacarlos de allí en toda una hora de saltos y más saltos, y de sobresalto mío no solo por la cantidad de dinero que tuve que soltarle al también solícito inflaglobos que dirigía aquello y me rogaba que los dejara, que así eran los infantes. No dijo nunca que así somos los padres de imbéciles si de botar el dinero se trata. Yo pensé que iban a vomitar el almuerzo y me tendría que disparar de nuevo otras cuatro colas, pero lo cierto es que hube de marcar en una quinta: la de un trencito cuyo bojeo alrededor de un charco de agua era de un diámetro tan reducido que yo pensé que en algún momento la locomotora impactaría a mis dos hijos, que viajaban en el último vagón. Y cada vuelta costaba lo que un tren de La Habana a Campo Florido. La monotonía del viaje hizo que se volvieran a dormir, y yo me eché a ambos en los respetivos hombros que me habían malformado y salí a marcar en la cola de los ómnibus, que medía la suma trigonométrica de las otras cinco que habíamos hecho: no se sabía dónde empezaba aquello, solo sé que terminaba en nosotros, pero no quise enfrentarme al triste espectáculo de viajar de pie con el par de sacos vertebrados que llevaba encima, además de que todo el mundo iba acompañado de su respectiva prole y no iba a poder exigir los asientos correspondientes. El caso es que me metí cuarentaicinco minutos para poder viajar como merecía. Tú dirás que son dos paradas y cinco minutos de camino, pero no iba a hacer el papel de comemierda viendo a los machangos viajar sentados mientras Yanitface y Yanotmail dormían su siesta. Los pobrecitos se despertaron en el instante justo en que yo me rendía mirando la telenovela en el sofá. Quería jurarles que nunca más volveríamos allí, pero era tal la contentura con que recordaban todo que tuve que aceptar que fue un día maravilloso.  
+\-¿Y les compraste algún libro?  
+\-¿Tú crees con lo que te he contado que me iban a quedar presupuesto y aspiraciones de desgraciar el único par de sandalias caminando sobre los seborucos de esa [fortaleza](https://es.wikipedia.org/wiki/Fortaleza_de_San_Carlos_de_La_Caba%C3%B1a) para zumbarme otras cinco colas e invertir en un texto literario? Total, para lo que leen: se pasan más de la mitad del día frente a la computadora tratando de conquistar la capital en un juego que les trajo el padre desde Londres sobre la toma de La Habana por los ingleses. En él te enteras de que Pepe Antonio fue un corsario yemenita que secundado por una pandilla de piratas sirios pretendió colonizar Cojímar… ¡No jodas, chica, a la próxima Feria Internacional del Libro tendrá que llevarlos el padre!
+
+Feria del libro. Feria del libro. Feria del libro. Feria del libro. Feria del libro.
+
+## Autor
+
+-   ![](/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    ![](//www.gravatar.com/avatar/e5d4ac9a023b2fcc57340a4d5963fd53?s=80&r=g&d=mm)
+    
+    [Miguel Alejandro Hayes](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/hayesmartinez/)
+    
+    Editor principal de La Trinchera. Escribo por inspiración
+    
+    [](mailto:hayesmartinez.mrgh@gmail.com)

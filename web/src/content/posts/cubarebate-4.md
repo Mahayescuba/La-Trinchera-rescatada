@@ -1,0 +1,30 @@
+---
+title: "Inflación en Cuba"
+date: "2022-01-21T10:30:00+00:00"
+author: "Arturo Mesa"
+category: "Política en Cuba"
+image: "/wp-content/uploads/2022/01/Art-Studio-Dada.jpg"
+---
+¿Qué puedo decir?
+
+Aparece hoy un texto interpretativo en Cubadebate titulado [_Inflación ¿minorista?_](http://www.cubadebate.cu/opinion/2022/01/16/inflacion-minorista/) sobre lo malo que son los especuladores que llevaron nuestra moneda a una inflación galopante más allá de las buenas intenciones del estado de devolverle al peso su valor adecuado. ¿Qué puedo decir? ¿Cómo explicar que yo puedo tener la mejor de las intenciones de construirle una casa a mi hija para cuando se case, y decida hacerla de cartón y tejas. ¿Qué sucederá en el primer huracán? ¿Fue mi intención mala? No. I love you baby! ¿Le resolví el problema a la niña? Tampoco. De hecho lo empeoré, porque decidió casarse, pensando que ya tiene casa.
+
+¿Qué falló? Claro que el concepto, o el diseño del concepto. Y como Cubadebate no tiene _peer_ revisión, todo lo que diga bloqueo, o malsanos especuladores, y justifique de alguna manera el diseño monetario de cartón y tejas, pues bienvenido sea. Y así nos habrán de tupir por los siglos de los siglos. Tampoco creo yo que el texto haya sido con intención de tupirnos, pero sucede que con esos análisis no daremos jamás con la clave y se aumentarán los disensos y las molestias eco-políticas que devendrán en nuevas disidencias dado que: con tales amigos quién necesita enemigo.
+
+Cierto es que como dice el autor los precios se ”forman” en nuestra realidad. Ahora bien, igualmente se ”forma” el salario en nuestra realidad o se diseña quizás en la misma oficina en donde se formó el precio, y ni uno ni el otro están en concordancia con el valor real de las mercancías ni del mercado sino con la conveniencia de un diseño de garantizar ciertas cosas. Y en tales situaciones, cuando se pierde una parte de la ecuación, se estremece todo el resultado, y como resultado del tal resultado, lo que toca es una grandísima duda, además de molestias por doquier porque… “It’s the economy”, my friend!
+
+Mire, contrario a lo que usted plantea, todos absolutamente todos los precios en MLC han subido y decir que no es así, le resta seriedad al análisis. Lléguese por ahí. Bebidas, queso, pollo, cárnicos, aseo etc. Para no hablar de ventas online desde afuera y en moneda dura. No se vaya lejos: [Periódico Escambray](http://www.escambray.cu/2022/lacteos-espirituanos-a-precio-de-oro-blanco/) ayer: “Queso Frescal 187 pesos LA LIBRA?” ¿Cuántas veces subió ese sencillo y nacional producto? ¿Cuántas veces subió una botella de ron blanco que de tres CUC multiplicado por 25 fue a parar a 5 MLC multiplicado por 85? Los vinos de cinco en adelante y hoy ninguno baja de 15 MLC. ¿No han subido los precios? ¿Se da la lógica de no subir más de tres veces para no quebrar el nuevo diseño salarial? Por cierto, ni siquiera el texto hace mención ni una sola vez a ese engendro de sistema monetario que es la causa de la especulación descrita, además de injusto sistema de acceso a alimentos. De no existir esa doble moneda (objetivo marchito del reordenamiento) no habría tan acelerada especulación sino un valor de intercambio como sucede con cualquier moneda.
+
+Pero muy intencionadamente no se menciona la moneda, ni por usted ni por ningún medio oficial, lo cual nos dice que los economistas, del lado cómodo, nunca van a dar con la respuesta correcta porque no observan todos los elementos de la ecuación y ahí sí tiene usted razón al decir que “El funcionamiento de cualquier sistema tiene que ser coherente y completo. Si una pieza clave falta, puede ser decisiva e impedir su cometido”. Pues tampoco han visto ustedes la pieza clave (o no la han querido ver, porque es duro admitir que en el socialismo pos-Murillo se siguen adquiriendo alimentos con dólares).
+
+La inflación es el aumento de los precios de un determinado grupo de productos de un año a otro y la tal inflación fue intencionadamente concebida a un 60% (Gil et.al [ANPP](https://www.mep.gob.cu/es/node/575)) Es decir, fuimos deliberadamente expuestos a una inflación del 60%, lo que nos coloca entre los cinco primeros países en materia de inflación (inducida la nuestra) y ¿esperaba usted que no la hubiera o que la culpa fuera del inescrupuloso? Esto, lógicamente trajo sus resultados. Usted tampoco lo menciona. Vaya que lo del bloqueo le quedó bien, como queda bien todo lo del bloqueo, pero todo lo demás me parece inexacto y visto desde una posición segura y compatible con el discurso oficial. Si nuestros intelectuales mantienen esta postura y no ven la ecuación completa o no aceptan los errores tal y como no los aceptan nuestros dirigentes, entonces las soluciones desde las esferas imprescindibles brillan y brillaran por su ausencia. Yo no la puedo tener, o no creo tenerla pero en mi análisis ni dejo de mirar al bloqueo ni al [desastroso ordenamiento](/los-olvidos-del-ordenamiento/) “acrítico” legado a nuestros días. De lo contrario parcializaría igualmente mis análisis y confundiría (con buenas, o malas intenciones) a quien me pueda leer. Saludos. Por cierto el ejemplo del auto fue fatal. ¿En Cuba? ¿En serio?
+
+[Otro texto del autor](/urbanismo-en-cuba/) 
+
+## Autor
+
+-   ![](/wp-content/uploads/2021/06/2021-06-26-12.28.50.jpg)
+    
+    ![](/wp-content/uploads/2021/06/2021-06-26-12.28.50.jpg)
+    
+    [Arturo Mesa](https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/author/arturo-mesa/)
