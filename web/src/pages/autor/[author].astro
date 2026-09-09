@@ -12,7 +12,7 @@ export async function getStaticPaths(){
 }
 const { name, items } = Astro.props;
 ---
-<Base title={name} description={`Artículos en el autor ${name}`}>
+<Base title={name} description={`Artículos de ${name}`}>
   <section class="wrap list">
     <p class="kicker">Autor</p>
     <h1>{name}</h1>
@@ -21,7 +21,7 @@ const { name, items } = Astro.props;
       {items.map(p=> (
         <li>
           <a href={`/${p.slug}/`}>
-            <h3>{p.data.title}</h3>
+            <h2>{p.data.title}</h2>
             <p>{excerpt(p.body,140)}</p>
             <span class="meta">{p.data.author && `${p.data.author} · `}{fmtDate(p.data.date)}</span>
           </a>
@@ -36,7 +36,7 @@ const { name, items } = Astro.props;
     .list .count{color:var(--muted);margin:0 0 1.4rem}
     .list ul{list-style:none;padding:0;margin:0}
     .list li{border-top:1px solid var(--line);padding:1.1rem 0}
-    .list h3{font-size:1.3rem;margin:0 0 .2em}
+    .list h2{font-size:1.3rem;margin:0 0 .2em}
     .list p{color:var(--muted);margin:.1em 0 .3em}
     .list .meta{color:var(--muted);font-size:.8rem}
   </style>

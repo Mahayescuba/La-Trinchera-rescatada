@@ -22,7 +22,3 @@ Renunciar a las redes sociales es una utopía.  Así como negar el beneficio q
 Ojalá no sea una utopía pensar en una robusta política de regulaciones que protejan al usuario de las redes sociales. Mientras, no dejo de recordar el adagio que reza: cuando el producto no es visible, es porque tú eres el producto. 
 
 Y de un click a un _me gusta,_ nos vamos instalando en ese rincón confortable, diseñado a nuestra medida, en lo profundo de la _matriz,_ permanentemente conectados a una pantalla,  mientras somos _el alimento,_ un click a la vez…
-
-el producto en las redes sociales, el producto en las redes sociales
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/la-virtud-de-existir/

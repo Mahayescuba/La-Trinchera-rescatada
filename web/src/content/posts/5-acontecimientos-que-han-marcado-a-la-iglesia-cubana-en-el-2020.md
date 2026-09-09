@@ -15,8 +15,6 @@ Entre los acontecimientos eclesiales que no podemos soslayar del 2020, están lo
 
 Otro suceso relevante dentro del panorama eclesial ha sido el _Mensaje de Navidad al Pueblo de Cuba_ emitido por la Conferencia Episcopal cubana. Su contenido recogió varios de los anhelos y preocupaciones más importantes del pueblo en la situación actual. En ese marco, es preciso señalar los mensajes pastorales de la Confederación Cubana de Religiosos y Religiosas (CONCUR).  
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/pisamos-el-2021/
-
 En este resumen no se puede dejar de señalar la conmemoración por los 5 años de la visita del Papa Francisco a la Isla (del 20 al 22 de septiembre del 2015), suceso que tuvo eco en  los medios nacionales de comunicación, y dio origen a una entrevista al nuncio apostólico Mons. Giampero Gloder.
 
 Este resumen termina con dos momentos que quizás no hayan tenido tanta repercusión mediática, pero que, sin lugar a dudas, tienen gran importancia. Me refiero al término del Plan Pastoral _Por el Camino de Emaús,_ cuyo primer ciclo de 2014 a 2020, con sus luces y sombras, ha sido un instrumento útil de trabajo pastoral. Otro suceso que por su importancia, sobre todo de cara al 2021, no debe faltar en esta lista, es el diálogo común de cada una de las diócesis por estos días con respecto al modo de proceder eclesial que se adoptará a partir del 1ro. de enero, día inicial del nuevo programa económico que se proponer llevar adelante el país.

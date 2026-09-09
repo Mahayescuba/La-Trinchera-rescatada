@@ -11,8 +11,6 @@ Sabemos que la labor del artista en beneficio social deslinda de cualquier prete
 
 Somos conscientes de que vivimos un momento de crisis: _“crisis significa cambio”_1; el cambio en Cuba debe residir en principio en la salvaguarda del sentido patrio y de nación, y en la conciencia de que el arte es el estandarte y el arma fundamental para ejercerlo.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/resolucion-27-2021/
-
  La politización del arte constituye – “y como indirectamente” – en momentos de necesario cambio, un punto de inflexión dentro de la actividad discursiva de un creador – ya hablábamos de la menesterosa contextualización – pues se presta a promiscuas tendencias que abogan por la desnaturalización, por la sombra de las palabras y los hechos.
 
 El intelectual [Guy Perez Cisneros](https://www.ecured.cu/Guy_Pérez_Cisneros_Bonnel) insistía en una exhortación universitaria: 

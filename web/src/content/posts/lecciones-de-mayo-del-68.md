@@ -5,8 +5,6 @@ author: ""
 category: "Política"
 image: ""
 ---
-El ascenso revolucionario de mayo de 1968 constituye una enorme cantera de experiencias sociales.
-
 Por: **Ernest Mandel**
 
 **Este artículo de Ernest Mandel fue publicado originalmente en la revista _Les Temps Modernes_ en julio de 1968 \[1\]. En él, después de situar las luchas de Mayo como resultado directo de las contradicciones de lo que entonces se conocía como “neocapitalismo”, pone el acento en su relevancia como acontecimiento que volvió a poner de actualidad la hipótesis revolucionaria en un país central del capitalismo occidental. Mandel fue un activista más de aquellas jornadas, habiendo participado en el acto público que se desarrolló en la Mutualité de París el 9 de mayo y en el que intervino también, junto a activistas de otros países, Daniel Cohn-Bendit. Al igual que le ocurrió a este líder estudiantil en pleno mes de mayo, Mandel fue expulsado de Francia el 10 de junio de aquel mismo año.**

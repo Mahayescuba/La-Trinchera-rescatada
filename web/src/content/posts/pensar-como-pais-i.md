@@ -5,8 +5,6 @@ author: ""
 category: "Política en Cuba"
 image: ""
 ---
-Pensar como país es muy difícil. Lo hicimos cuando se realizó la _Colecta de la libertad_ en la que hacendados, campesinos, jubilados, obreros, todos participaron; ante las agresiones que ponían en pie de guerra a una nación en abril, y en Octubre.
-
 **Por: Miguel Alejandro Hayes**
 
 > I

@@ -15,8 +15,6 @@ Claro que hay mucho que cuestionar de unos comicios que han demostrado históric
 
 _Cuando él cumpla sus dos mandatos_ —se refería [Raúl a Díaz-Canel](http://www.cubadebate.cu/opinion/2018/04/20/discurso-de-raul-castro-ruz/#.X6pSeC8ryu4) el 19 de abril de 2018—, _si trabaja bien, y así lo aprueban el Comité Central de nuestro Partido y el órgano supremo del poder del Estado, que es esta Asamblea de la que formamos parte, él debe mantenerse. Lo mismo que estamos haciendo ahora, él tiene que mantenerlo con su sustituto. Terminando sus diez años de presidente de los Consejos de Estado y de Ministros, los tres que le quedan hasta el Congreso, se queda como primer secretario para viabilizar el tránsito seguro y ahorrándonos aprendizajes del sustituto, hasta que se retire a atender a los nietos_.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/perdonen-mi-despiste/
-
 Curioso, ¿no? Se da por sentado que Canel cumplirá sus dos mandatos porque así lo decidirán el Comité Central del PCC y la Asamblea Nacional. Al sustituto —como mismo se hizo con el actual presidente— se le designará y pasará por un proceso de _aprendizaje_, no será el pueblo el que tome _la decisión final_. Y a eso acá le llamamos _elecciones_.
 
 Una relación constructiva con el gobierno de Estados Unidos deberá partir desde la fuerza moral de construir una sociedad superior, y de demostrarlo siempre. Las consignas se harán cada vez más vacías si seguimos reproduciendo en nuestro _socialismo_ similares patrones de diferenciación social de los que existen allá, o acallando cualquier voz que difiera de conductas complacientes.

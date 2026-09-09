@@ -11,8 +11,6 @@ Muchos, cansados o cobardes o impotentes en ser muy responsables de lo que pasa 
 
 Pero lo que pasa es que, racionalmente, no entienden nada (sí, prefieren entenderlo todo antiéticamente o… _hijoputamente_); pues no, no se trata, en el fondo, de que tú vayas a cambiar el mundo (puesto que eso es muy irreal para verlo muy pronto, o es irracional en parte o [utópico](https://es.wikipedia.org/wiki/Utop%C3%ADa)), sino se trata (al fin) de que no lo estropees o de que no vengas a la vida a darles alas o beneficios a ésas herramientas que ya tienen los errores para seguir adelante en el mundo.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/egoismo-y-socialismo/
-
 Se trata todo, de una vez (y todo el bien o la decencia que tengas), de que no seas otro cobarde más u otro sucio aliado de la derrota desalmada y miserable, ¡claro!, ¡a ver si te enteras!, de que no seas otro rendido a los pies del rentabilizador del mal, otro más, del humillador del mundo, ¡claro!, dándole tú así ya todas las razones o ventajas a la maldad, no a alguna dignidad.
 
 “Es que soy solo una voz”, “es que yo no puedo impedir nada”, “es que siempre va a haber corruptos y malvados y yo no puedo hacer nada” en tentativa plañidera, etc., dicen y dicen muchos a cara muy dura, a mucha debilidad ética y a cobardía ya muy conocida en los que solo quieren ser míseros esclavos y pensar como esclavos y asustarse como malnacidos esclavos.

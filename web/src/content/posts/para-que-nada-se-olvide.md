@@ -29,6 +29,4 @@ Y ahí quedan, frente a nuestra conciencia, las palabras inscritas en el [_Memor
 
 _“(…) Por la presente, lloramos a todos los fallecidos en el bombardeo atómico. Recordamos, con mucho dolor, las numerosas vidas sacrificadas por las políticas nacionales equivocadas. Para asegurarnos de que tales tragedias no se reproduzcan jamás, nos comprometemos a transmitir la historia de estos sucesos a las generaciones futuras, de Japón y del resto del mundo, y a construir lo más pronto posible un mundo de paz, libre de armas nucleares.”_
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/primera-instancia/
-
 <iframe class="wpview-sandbox" style="width: 100%; display: block;" frameborder="0" scrolling="no"></iframe>

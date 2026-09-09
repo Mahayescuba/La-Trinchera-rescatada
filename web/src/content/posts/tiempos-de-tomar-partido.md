@@ -9,8 +9,6 @@ No me gusta opinar demasiado acerca de política en redes y medios de comunicaci
 
 En estos días, en que aquel manual de la llamada revolución de colores, o golpes [blandos](/politica-en-cuba/), ideado por Gene Sharp, es aplicada en Cuba —o por lo menos eso intentan— los comentarios políticos entre cubanos dentro y fuera de Cuba han colmado las redes. Tal parece que no se habla de otra cosa, y cada día surgen nuevos activistas políticos, nuevos actores de cambio, más y más personas incorporan ese marco a su perfil de Facebook —tan de moda por estos días— con ese hashtag #Cubadetodos, u otros.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/analisis-de-san-isidro/
-
 [Podcast El Solar](/podcast-cubano-el-solar/)
 
 Anteriormente se hablaba de San Isidro, de aquella huelga de hambre, que de huelga tuvo lo mínimo y de hambre muy poco, creo yo; y luego fue aquella manifestación frente al MINCULT; y a ello le siguió el acuerdo de diálogo entre ambas partes, y por si fuera poco ya, parte de la oposición quiso escribir un nuevo capítulo de su versión, y de buenas a primeras rompen el diálogo, imponen unilateralmente una serie de exigencias a las instituciones y hasta la presencia de Díaz-Canel.
@@ -38,8 +36,6 @@ No niego la existencia del quinquenio gris, no niego la represión contra la hom
 El proceso ha tenido errores, los tiene y los seguirá teniendo, porque es construido por seres humanos con un cúmulo de virtudes e imperfecciones.
 
 Pero la Revolución no son esos errores, la Revolución no son esos extremistas que en nombre de la misma cometieron esos improperios. La Revolución es mucho más que las instituciones, que el gobierno, mucho más que Díaz-Canel, que Raúl y que Fidel, mucho más que nosotros mismos. La Revolución es un ideal, una guía para la acción, regido por un objetivo, la justicia social, esa república de Martí, donde la máxima fuese el culto a la dignidad plena del hombre.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/carta-a-mis-camaradas-sobre-san-isidro/
 
 Y es por la Revolución, por ese ideal, que debemos perfeccionar el país, que debemos rectificar errores cometidos, que debemos ser más inclusivos que nunca, dejar a un lado las intolerancias, esos pensamientos arcaicos que no hacen ningún bien a nadie, dejar de una vez esa censura y esos censores que le hacen mella a la nación y al proceso revolucionario; porque no creo que ni la Revolución ni el socialismo que construimos se base en acallar el pensamiento crítico, no lo creo.
 

@@ -13,8 +13,6 @@ Cuando viajé por primera vez a Alemania recuerdo que, como pobre al fin, querí
 
 El concepto de _[fair trade](https://www.compromisorse.com/sabias-que/2010/09/17/que-es-el-sello-fairtrade/)_ es uno de los principales activos en la socialdemocracia europea, determina tanto a los productores como a los consumidores. En el caso de los productores es una variable a tener en cuenta a la hora de concebir sus empresas, cómo pagar a sus trabajadores, sus presupuestos éticos con el entorno, las condiciones de vida de sus animales, etc. Para los consumidores es mucho más simple: eres lo que compras.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-politica/mercado-y-socialismo/
-
 A partir de estas ideas es perfectamente entendible que el ejercicio político sea cosa rutinaria en las sociedades mercantiles. Cada día tienes la posibilidad de demostrar qué tipo de sociedad quieres construir como ciudadano, que es también como consumidor. Tu voto es diario y aunque se reafirma en las urnas lo sostienes económicamente en el mercado.
 
 Eso es lo que hoy se hace con Goya en Estados Unidos y lo que haríamos muchos con Etecsa si existiera otra posibilidad.

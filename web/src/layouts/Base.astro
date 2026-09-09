@@ -1,14 +1,29 @@
 ---
-const { title, description } = Astro.props;
+const { title, description, image, type = 'website' } = Astro.props;
 const site = 'La Trinchera';
+const fullTitle = title ? `${title} — ${site}` : site;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const ogImage = image ? new URL(image, Astro.site).href : undefined;
 ---
 <!doctype html>
 <html lang="es">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>{title ? `${title} — ${site}` : site}</title>
+<title>{fullTitle}</title>
 {description && <meta name="description" content={description} />}
+<link rel="canonical" href={canonical.href} />
+<meta property="og:site_name" content={site} />
+<meta property="og:type" content={type} />
+<meta property="og:title" content={title || site} />
+{description && <meta property="og:description" content={description} />}
+<meta property="og:url" content={canonical.href} />
+{ogImage && <meta property="og:image" content={ogImage} />}
+<meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
+<meta name="twitter:title" content={title || site} />
+{description && <meta name="twitter:description" content={description} />}
+{ogImage && <meta name="twitter:image" content={ogImage} />}
+<link rel="alternate" type="application/rss+xml" title={site} href={new URL('/rss.xml', Astro.site).href} />
 <style is:global>
   :root{ --ink:#1a1714; --muted:#6b625a; --line:#e7e0d6; --bg:#fbf9f5; --paper:#fff; --accent:#8a2b2b; }
   *{box-sizing:border-box}
@@ -20,13 +35,19 @@ const site = 'La Trinchera';
   header.site .wrap{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:1.1rem 1.2rem}
   .brand{font-family:Georgia,"Times New Roman",serif;font-weight:700;font-size:1.7rem;letter-spacing:.5px}
   .brand small{display:block;font-size:.62rem;font-weight:400;letter-spacing:.22em;text-transform:uppercase;color:var(--muted);margin-top:2px}
-  nav.main a{font-size:.82rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-left:1.1rem}
+  nav.main{display:flex;flex-wrap:wrap;gap:.1rem .2rem;justify-content:flex-end}
+  nav.main a{font-size:.82rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);padding:.5rem .55rem;line-height:1.2}
   nav.main a:hover{color:var(--accent)}
   footer.site{border-top:1px solid var(--line);margin-top:3rem;background:var(--paper);color:var(--muted);font-size:.82rem}
   footer.site .wrap{padding:2rem 1.2rem;display:flex;justify-content:space-between;flex-wrap:wrap;gap:1rem}
   h1,h2,h3{font-family:Georgia,"Times New Roman",serif;line-height:1.2}
   .cat{display:inline-block;font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:600}
-  @media (max-width:640px){ nav.main a{margin-left:.7rem;font-size:.72rem} .brand{font-size:1.4rem} }
+  @media (max-width:640px){
+    header.site .wrap{flex-wrap:wrap;padding:.9rem 1.2rem}
+    nav.main{width:100%;justify-content:flex-start;gap:.05rem .1rem}
+    nav.main a{font-size:.74rem;padding:.5rem .5rem}
+    .brand{font-size:1.4rem}
+  }
 </style>
 </head>
 <body>

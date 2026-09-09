@@ -5,8 +5,6 @@ author: ""
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/06/IMG_20200605_092907.jpg"
 ---
-El clasificador de estrategias se apresura a acuñar que los falsos socialistas también son de derecha, pero enseguida aclara que se disfrazan mediáticamente de izquierda.
-
 **Por: Alina B. López Hernández**
 
 Como si a Cuba no le bastara con haber perdido su lugar prominente en la producción de azúcar. Por si no fuera suficiente con el hecho de que ya no existen frutas que hasta hace unas décadas eran parte de la cotidianidad tropical. Como si no hubiéramos degenerado en tantas de nuestras potencialidades para crear riquezas. Ahora, para colmo de males, ya el país no es capaz de producir ni un pensamiento o una opinión política propios; también son importados.

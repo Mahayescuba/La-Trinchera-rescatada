@@ -69,4 +69,4 @@ Todo esto al tiempo que vemos que algunas prácticas, tanto cristianas como paga
 
 Toda esta complejidad hay que observarla antes de hablar de religión en Cuba. Yo no pretendo desentrañar toda esta complejidad, eso se lo dejo al debate. Solo intenté aquí contribuir con cuestiones de método que considero cardinales. Y para terminar insisto en la pregunta clave: ¿cómo funciona la forma en el modo concreto? No se pierda esto de vista. 
 
-relación entre marximo y religión. relación entre marximo y religión. relación entre marximo y religión. relación entre marximo y religión. relación entre marximo y religión. relación entre marximo y religión.
+relación entre marximo y religión. relación entre marximo y religión. relación entre marximo y religión.

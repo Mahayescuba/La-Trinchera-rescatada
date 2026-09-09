@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
-import { fixCat, slugify, fmtDate, excerpt } from '../lib/util';
+import { fixCat, slugify, fmtDate, excerpt, thumb } from '../lib/util';
 const posts = (await getCollection('posts')).sort((a,b)=> (b.data.date||'').localeCompare(a.data.date||''));
 const withDate = posts.filter(p=>p.data.date);
 const featured = withDate.slice(0,1)[0];
@@ -16,7 +16,7 @@ const total = posts.length;
   </section>
   {featured && (
     <a class="wrap feat" href={`/${featured.slug}/`}>
-      {featured.data.image && <div class="feat-img" style={`background-image:url(${featured.data.image})`}></div>}
+      {featured.data.image && <img class="feat-img" src={thumb(featured.data.image,900)} alt={featured.data.title} loading="eager" decoding="async" />}
       <div class="feat-txt">
         <span class="cat">{fixCat(featured.data.category)}</span>
         <h2>{featured.data.title}</h2>
@@ -28,7 +28,7 @@ const total = posts.length;
   <section class="wrap grid">
     {rest.map(p=> (
       <a class="card" href={`/${p.slug}/`}>
-        {p.data.image && <div class="card-img" style={`background-image:url(${p.data.image})`}></div>}
+        {p.data.image && <img class="card-img" src={thumb(p.data.image,600)} alt={p.data.title} loading="lazy" decoding="async" />}
         <div class="card-body">
           <span class="cat">{fixCat(p.data.category)}</span>
           <h3>{p.data.title}</h3>
@@ -41,22 +41,22 @@ const total = posts.length;
   <style>
     .hero{padding:2.6rem 1.2rem 1.4rem;text-align:center}
     .hero .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.16em;font-size:.72rem;margin:0}
-    .hero h1{font-size:3rem;margin:.2em 0 .1em}
+    .hero h1{font-size:clamp(2.2rem,8vw,3rem);margin:.2em 0 .1em}
     .hero .sub{color:var(--muted);max-width:620px;margin:.4rem auto 0}
-    .feat{display:grid;grid-template-columns:1.1fr 1fr;gap:1.6rem;align-items:center;background:var(--paper);border:1px solid var(--line);border-radius:10px;overflow:hidden;margin-bottom:2.2rem}
-    .feat-img{min-height:320px;background-size:cover;background-position:center}
+    .feat{display:grid;grid-template-columns:1.1fr 1fr;gap:1.6rem;align-items:stretch;background:var(--paper);border:1px solid var(--line);border-radius:10px;overflow:hidden;margin-bottom:2.2rem}
+    .feat-img{width:100%;height:100%;min-height:320px;object-fit:cover;display:block;background:#efe9e0}
     .feat-txt{padding:1.6rem 1.8rem 1.8rem}
     .feat-txt h2{font-size:1.9rem;margin:.3em 0}
     .feat-txt p{color:var(--muted)}
     .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.4rem;padding-bottom:2rem}
     .card{background:var(--paper);border:1px solid var(--line);border-radius:9px;overflow:hidden;display:flex;flex-direction:column;transition:.15s}
     .card:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,.06)}
-    .card-img{height:150px;background-size:cover;background-position:center;background-color:#efe9e0}
+    .card-img{width:100%;height:150px;object-fit:cover;display:block;background:#efe9e0}
     .card-body{padding:.9rem 1rem 1.1rem;display:flex;flex-direction:column;gap:.35rem}
     .card-body h3{font-size:1.12rem;margin:.15em 0}
     .card-body p{color:var(--muted);font-size:.9rem;margin:0}
     .meta{color:var(--muted);font-size:.76rem;margin-top:auto;padding-top:.3rem}
     @media (max-width:860px){ .grid{grid-template-columns:repeat(2,1fr)} .feat{grid-template-columns:1fr} .feat-img{min-height:200px} }
-    @media (max-width:560px){ .grid{grid-template-columns:1fr} .hero h1{font-size:2.2rem} }
+    @media (max-width:560px){ .grid{grid-template-columns:1fr} }
   </style>
 </Base>

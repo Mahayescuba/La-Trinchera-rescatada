@@ -11,10 +11,6 @@ Julio Pernús. Comunicador de la iglesia católica.
 
 _“Sueño que con cada artículo, puedo mejorar mi forma de Amar, Servir y Comunicar, a este “chispazo” de arena y mar que amo religiosamente.”_
 
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
-
 [](/interrogatorio-en-cuba/)
 
 ### [En medio de la oscuridad](/interrogatorio-en-cuba/)

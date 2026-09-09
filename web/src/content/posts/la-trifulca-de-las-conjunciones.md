@@ -42,8 +42,6 @@ Un segundo grupo, que se solapa con el primero, cree que _y_ significa ‘ser�
 
 Un tercer grupo está formado por aquellos que creen que “Patria y vida” es un sinsentido, porque no es posible tener Patria sin estar dispuesto a morir por ella; así que toman la frase como una afrenta a todos los que han muerto por Cuba. Estos necesitan relajarse: para estar dispuesto a morir, lo primero que hace falta es estar vivo y tener una vida por la que valga la pena morir. 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-cartel-o-el-arte-de-decir/
-
 Un cuarto grupo incluye a aquellos que toman “Patria o muerte” como una disyunción exclusiva estricta: hay que escoger una de las dos opciones y nunca las dos. Este grupo se solapa con el tercero.
 
 Un quinto grupo, lo forman los que toman “Patria o muerte” como una disyunción exclusiva, pero no exclusiva estricta, es decir que siempre pueden no escoger ninguno. Estos son los que prefieren vivir sin Patria que morir por ella. Ternuritas.

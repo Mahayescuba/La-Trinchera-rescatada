@@ -11,8 +11,6 @@ Miguel Alejandro Hayes en El Solar conversa sobre el Marxismo en Cuba hoy. Este 
 
 Enlace para leer el comentario
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-marxismo-en-cuba-hoy/
-
 En este episodio fragmentos de la música de Kamankola y Carlos Varela
 
 Links

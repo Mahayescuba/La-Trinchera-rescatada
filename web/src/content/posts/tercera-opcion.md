@@ -21,8 +21,6 @@ Es la impresión que me queda. Es la que queda.
 
 El mensaje se me reafirma, y solo puedo repetirlo desde diferentes enfoques. Me martillea una voz diciendo que otra forma de pensar el orden social cubano, aun en nota socialista, en su tradición, en sus ideales, es contrarrevolución. No es lo que escribió el autor del artículo, literalmente, pero usted, lector sagaz, sabrá que cuando se mata a un mensajero, se está haciendo lo mismo con el mensaje. Al asociar a Soros, entre otros, a cualquier manera alternativa de pensar la _revolucionariedad_ cubana, se deslegitima el pensar correspondiente y se crea un prejuicio, un dogma.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/de-lo-que-no-iba-el-texto/
-
 También aquello de pararse y sugerir cuál es el camino de la revolución, y luego señalar, sutilmente, en dónde está lo verdaderamente revolucionario, y hacer jerarquizaciones afines, es una justificación funcional a la dominación y perpetuar la verticalidad.
 
 Después de todo, al sugerir que hay tantos falsos revolucionarios y quiénes son, también se afirma ser, en primera persona, el original (pocas veces se le quita la condición de revolucionario a otro, o de patriota, o de cubano, para no atribuírsela el que se llena la boca al hacerlo).
@@ -30,8 +28,6 @@ Después de todo, al sugerir que hay tantos falsos revolucionarios y quiénes so
 Es cierto, como dice en el texto de Capote, que en Cuba se levantan voces neoliberales. Sin embargo, aun cuando las he visto en espacios no oficiales, no se puede negar el terreno que tiene el neoliberalismo en la academia cubana. Para quien el [neoliberalismo](/economia-politica/) no es un ente etéreo más, se le dibuja la idea de que en toda práctica, o apuesta por ella, en la que se desplaza el impacto negativo hacia los consumidores y no hacia las empresas y sistemas empresariales, es, desde la filosofía política, una proyección neoliberal. 
 
 ¿Hacia dónde se va a desplazar el mayor impacto de la unificación, hacia el costo de la vida, o hacia la rentabilidad, no de las bodegas, sino de los grandes monopolios nacionales? De ser hacia los ciudadanos cubanos, seguro no lo diseñó el neoliberal _made in Soros_, aunque no dudo que lo apoye, por cierto. Y esto es solo una mención, porque el ascenso del neoliberalismo en Cuba no se puede simplificar tanto, más cuando penetra disfrazado incluso de socialismo, en las instituciones. También el neoliberalismo puede llamar a trabajar hoy, a ajustarnos hoy, para tener mañana. De hecho, lo hizo, y me voy del tema.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-politica/test-de-neoliberalismo/
 
 Soy de los que se opone a algunas de las prácticas económicas y concepciones del neoliberalismo, y sé que se pueden impulsar desde afuera con apoyo de otros de dentro, pero reducirlo a que habita en el _pasito_ que está al lado del cuadrante de la oficialidad, es un ejercicio de teoría de conjuntos poco riguroso.
 

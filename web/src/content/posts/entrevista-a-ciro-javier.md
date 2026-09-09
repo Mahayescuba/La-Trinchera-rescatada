@@ -53,8 +53,6 @@ Pues con ciertos cortocircuitos en el cerebro. Creo que me da por etapas, hay ve
 
 Actualmente, soy investigador en la universidad Ryerson, donde estoy trabajando en el desarrollo de métodos numéricos para resolver ecuaciones integrales en derivadas parciales, asociadas a problemas de finanzas. Anteriormente, durante el doctorado en Brasil, trabajé en aproximación numérica en el área de mecánica de fluidos en medios porosos, y en la maestría lo hice en el área de ecuaciones diferenciales estocásticas. He trabajado en diferentes áreas y tengo varios artículos en revistas científicas importantes, el último en SIAM: _Multiscale Modeling and Simulation_. Ha sido un periodo bastante productivo en la ciencia, donde tampoco he dejado de hacer, componer y dar conciertos.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/entrevista/fernando-perez/
-
 También puede interesar
 
 **Un aspecto destacable es la calidad instrumental de tus canciones. ¿Eres de formación autodidacta o, antes de licenciarte en Matemática, estudiaste guitarra?**

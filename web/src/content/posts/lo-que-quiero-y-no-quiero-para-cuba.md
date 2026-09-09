@@ -27,8 +27,6 @@ Una vez leí, no recuerdo dónde ni de quién pero sé que fue de alguien de la 
 
 10.- No quiero para Cuba ningún tipo de discriminación, sea institucionalizada o no. 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/tomarle-el-pulso/
-
 ¿Qué Sí quiero para Cuba? 
 
 No sabría explicarlo con un programa de gobierno (No soy ni podría ser político). Sólo tengo la imagen difusa de la Cuba de mis sueños, socialista, sí, y libertaria, en la que quepamos todos, aún los que no crean en el socialismo. Porque vivo con la esperanza de que el Socialismo verdadero ha de ser como dice el Papa Francisco que es Dios, que _ama hasta a quienes no creen en Él_.

@@ -37,8 +37,6 @@ image: ""
 
 —Aquí lo único _descentralizado_ es la zafra azucarera.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/agricultura-y-propiedad-en-cuba/
-
 —…y ya no será el Ministerio de la Agricultura, sino los Comités de Defensa de la Revolución, los que se echarán encima el desarrollo agrícola en la base. El nuevo coordinador ha declarado que es un imperativo cosechar calabazas, que es un imperativo cosechar piñas, que es un imperativo cosechar hasta la última maceta…
 
 —Prisionero del imperativo el hombre. Nos llama a dejar el descanso reparador para sumarnos al surco, para dejar de ser lo que somos: comunidades cazadoras-recolectoras. 

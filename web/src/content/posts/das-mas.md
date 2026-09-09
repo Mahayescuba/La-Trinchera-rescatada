@@ -5,8 +5,6 @@ author: ""
 category: "Opinión"
 image: ""
 ---
-Entre estos avatares cotidianos, un grupo de jóvenes se interpeló sobre cómo emplear su tiempo libre en favor de los desguarecidos. De su deseo surgió el proyecto “Das Más”.
-
 ##### Fotografía: Wendy Pérez Bereijo
 
 **Por: Julio Pernús**

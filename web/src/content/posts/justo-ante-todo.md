@@ -5,8 +5,6 @@ author: ""
 category: "Política en Cuba"
 image: ""
 ---
-Desafortunadamente, existen activistas que para encontrar un sitio dentro del movimiento LGBTIQ cubano se basan en una negación del otro.
-
 **Por: Ulises Padrón Suárez**
 
 El febrero de 2011 fue uno de los meses más fríos de los que tengo memoria. Ese mismo mes comencé un taller sobre derechos sexuales para jóvenes. Éramos como una treintena de personas, estudiantes universitarios en su mayoría, que descubríamos un “algo más” y un “más allá” de la sexualidad. Recuerdo que vocablos porosidad, ósmosis y humedad se adhirieron a mí lenguaje para explicar(me) la relación tensa entre sexo, orientación sexual e identidad de género. Ese mismo año se creó la Red en la que milité y despertó el Ulises activista y en la cual me permitió conocer las desigualdades, los sacrificios, las luchas de muchos activistas en Cuba a través de la isla. Tuve la dicha de compartir con gente que hoy siguen realizando sus proyectos y dejando todo a favor de la equidad. Luego de graduarme trabajé en una institución en la que compartí con personas que, sumando su experiencia y años de labor en el compromiso social, han permitido ampliar el saber científico en torno a la sexualidad. Entre esos nombres imprescindibles se encuentra Mariela Castro, Yasmany Díaz, Ada Alfonso, Alberto Roque, Camilo García, Alain Darcout y otros. Todos en una misma sintaxis. Sin sus conocimientos, convivencias y afectos tal vez no fuera el Ulises de hoy.

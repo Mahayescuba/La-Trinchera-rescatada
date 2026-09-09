@@ -31,8 +31,6 @@ En favor del tema y la colaboración destaco:   la química escénica y musica
 
 Aunque el Jazz se haya convertido  en una música consumida por élites,  sus orígenes humildes en New Orleans y Luisiana no lo hacen un género ni despreciable, ni menor, atendiendo también a la evolución, influencia e integración y viceversa, del Jazz con otros géneros musicales, en este caso específico, el Reggaetón,  mucho más cuando tiene una génesis similar en diferentes épocas y contextos. 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/opinion/premios-lucas-2018/
-
 También puede interesar
 
 Pienso que la subestimación hacia lo popular muchas veces crea estigmas culturales que se asientan y sirven de base para expresiones segregacionistas que, en la foribundez de un desacierto, no tienen en cuenta esa otra parte de la sociedad que se identifica con un género  urbano o la simple omisión de un reguetonero  en una reseña crítica en televisión se transforma en un modo de invisibilizar a quienes lo defienden.

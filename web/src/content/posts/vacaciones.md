@@ -5,8 +5,6 @@ author: ""
 category: "Política en Cuba"
 image: ""
 ---
-En Cuba, hace tiempo, las vacaciones pasan por el filtro económico.
-
 **Por: Julio Pernús**
 
 Cuando pienso en las vacaciones, me vienen a la mente esos veranos infantiles que pasábamos en familia en la casa de Rancho Luna, [Cienfuegos](https://es.wikipedia.org/wiki/Cienfuegos), que cedían por su trabajo a mi mamá. Vivíamos momentos inolvidables marcados por un mar siempre dispuesto a regalarnos nuevos juegos.

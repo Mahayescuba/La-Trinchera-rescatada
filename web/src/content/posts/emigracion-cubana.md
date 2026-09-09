@@ -5,8 +5,6 @@ author: ""
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/06/Alexis-Leyva-Kcho.jpg"
 ---
-La emigración cubana, que incluye a próceres de nuestra independencia, existe desde el siglo XIX.
-
 **Por: Julio V. Ruiz**
 
 Para mí, el concepto de Patria o Nación es muy importante. Siempre lo ha sido, quizás por mi trauma de adolescente y de la separación. Les comparto la reflexión que escribí a un artículo sobre la emigración. No está muy bien escrita, pues no soy escritor sino científico, pero viene desde mi alma, si algo así existiera. Pido que se lea primero el artículo al que hago referencia.

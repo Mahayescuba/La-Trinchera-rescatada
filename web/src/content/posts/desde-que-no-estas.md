@@ -9,10 +9,6 @@ Desde que no estás. 
 
 **Por: Miguel Alejandro Hayes**
 
-Nota al lector: Llevo días pensando. Lo hago. No lo hago. Digo mañana y termino por no hacerlo.  
-Ya me decidí y ahora no encuentro un porqué que me lo impida.  
-Perdónese al no poeta por las faltas, las impurezas y las inercias; tenía un gran motivo.
-
 ###### _A Elizabeth_
 
 Sabina calla desde que no estás.

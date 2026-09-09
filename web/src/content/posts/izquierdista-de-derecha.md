@@ -5,10 +5,6 @@ author: ""
 category: ""
 image: ""
 ---
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
-
 [](/sistema-electoral-cubano/)
 
 ### [Reyes, soviets y presidentes](/sistema-electoral-cubano/)

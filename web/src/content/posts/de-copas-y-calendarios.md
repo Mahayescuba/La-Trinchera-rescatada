@@ -25,6 +25,4 @@ Además del ansiado trofeo, los ganadores recibirán homenajes y medallas que, p
 
 Por supuesto, todo esto queda bien alejado de quienes construyen las ciudades e instalaciones para el Mundial. Como los trabajadores de Qatar Metal, a cargo del gran estadio [Al Bayt](https://en.wikipedia.org/wiki/Al_Bayt_Stadium), que no recibieron sus salarios por siete largos meses. La mayoría, mano de obra llegada de Africa y Asia, cuyas dificultades, bien conocidas por el ministerio del trabajo qatarí y el organismo encargado de la organización del Mundial, tardaron todo un año en solucionarse. Un calendario menos apretado que el de la competencia, indudablemente. Una de esas oscuras historias detrás de la Copa…
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/beisbol-serie/
-
 copa mundial de futbol copa mundial de futbol

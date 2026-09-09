@@ -13,8 +13,6 @@ Pero la economía sigue siendo una ciencia de problemas intuitivos, y esos no ll
 
 Con el ordenamiento monetario han subido los [salarios](https://elestadocomotal.com/2020/11/17/ordenamiento-salarios-y-precios-en-cuba-notas-sobre-el-riesgo-de-inflacion/) del sector estatal (a lo sumo, 4 veces), y el [precio](https://twitter.com/pmmonreal/status/1352707143401664516) de muchos bienes y servicios básicos (electricidad, gas, comida) un número de veces superiores. El proceso de cambio (la compra) se reconfigura. 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/episodio-40-neoliberalismo-en-cuba/
-
 Suben los salarios menos que los precios de, insisto, cosas tan básicas como los mandados, por lo que cae el poder adquisitivo (con el salario actual, se compra menos que con el anterior).
 
 Si cae el PA, se reduce el consumo. Pero eso no ocurre a mediano o largo plazo, sino en tiempo real. El salario de hoy compra con los precios de hoy. El ordenamiento incide de forma negativa en el consumo automáticamente. El salario cobrado de enero es para consumir en enero, con los precios del mismo mes. El efecto de la modificación en la mediación cambio es a la par, porque son un todo que no se puede separar. La capacidad de compra no es algo que pueda modificarse sin que cambie el consumo con ella. Puede ser antes, pero nunca después. 

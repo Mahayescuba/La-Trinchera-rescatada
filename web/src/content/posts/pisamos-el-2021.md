@@ -30,5 +30,3 @@ Se trata de reportajes que hablan de prensa independiente mostrando sus rostros 
 Esta es una de las realidades más difíciles que se puede enfrentar al intentar llevar a cabo un proyecto de comunicación independiente (la del dinero de gobiernos foráneos y de mecanismos y presiones domésticas aceptadas como naturales).  
 
 Así pisamos el 2021.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/libertades-y-derechos-expresion-e-informacion/

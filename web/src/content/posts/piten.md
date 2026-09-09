@@ -9,8 +9,6 @@ En la calle Flores nacimos y nos criamos. San Bernardino fue la frontera imagina
 
 Casi medio siglo después proseguimos este juego muy serio de echar nuestro país adelante, tú desde las funciones de ministro de Economía, yo como el periodista que pretendo ser, diciendo lo mío y colocándolo donde puedo. La última vez que nos vimos te dije que con el cargo te habían puesto una podrida, hoy vengo a colocártela yo.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/politica-monetaria-y-cambiaria-en-cuba/
-
 De veras no me explico cómo si se tuvo todo el tiempo del mundo para hacer la unificación monetaria —devenida a última hora Ordenamiento, eufemismo que devela hasta qué punto estábamos desordenados—, han armado este arroz con mango en forma de trabalenguas que solo Murillo entiende. Y yo me quedo esperando, tras esas intervenciones suyas en que nos regaña cual si fuésemos responsables, que devele por qué demonios nos salen con esto ahora, en medio de la covid y del recrudecimiento del bloqueo norteamericano, nunca mejor apoyado por nuestras propias insuficiencias.
 
 Miro las cifras de mi futura remuneración y las tiro contra las carretillas que pasan por el barrio. No soy muy ducho en materias económicas, mas opino que antes de virar patas arriba las finanzas del país tenían que haber desarrollado la agricultura como mejor vía para crear riqueza, la única que, de estar como no está, podría asegurarnos tener en qué gastar el aumento de salario. No veo voluntad alguna de liberar las fuerzas productivas cuando una vaca sigue sin dueño y el guajiro muta en delincuente si trata de comerciar lo que saca de ella. Un ejemplo de cómo se difumina en consigna eso de que el trabajo es fuente de generación de riqueza.

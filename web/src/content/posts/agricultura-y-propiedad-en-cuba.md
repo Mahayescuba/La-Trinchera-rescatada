@@ -13,7 +13,7 @@ Dejando de lado el histrionismo impregnado en la cita, y haciendo la justa salve
 
 La ya mencionada Ley de reforma agraria de 1959 concibió un modelo agrario que abandonaba el monocultivo, impulsaba la industria privada de la mano de un Estado que combinaba mecanismos directos e indirectos -a la usanza de la época- en aras del desarrollo de la economía nacional, la cual no por ello dejaba de ser esencialmente liberal. La ley fijaba en un máximo de 30 caballerías la extensión de tierra que personas naturales o jurídicas podrían poseer en lo adelante, siendo expropiable el resto para su distribución entre los campesinos. 
 
-Al ser el agropecuario un área tan compleja, impregnada de particularidades sectoriales, la ley previó toda una serie de excepciones a esta distribución[\[1\]](applewebdata://BF7827D4-0E2D-4836-A19F-040F35BE4DCE#_ftn1), a la vez que sustraía las parcelas entregadas del tráfico económico al impedirles integrar sociedades civiles o mercantiles (art. 33) e impedía a los titulares su libre disposición. 
+Al ser el agropecuario un área tan compleja, impregnada de particularidades sectoriales, la ley previó toda una serie de excepciones a esta distribución\[1\], a la vez que sustraía las parcelas entregadas del tráfico económico al impedirles integrar sociedades civiles o mercantiles (art. 33) e impedía a los titulares su libre disposición. 
 
 Por su parte, la ley de reforma agraria de 1963 marcó distancias con su antecesora de 1959. Lo dramático del giro en un periodo de tiempo tan breve, no se explica sino mediante la convulsa situación política que sacudía y polarizaba el país. Los _por cuantos_ de la segunda ley de reforma hablaban por sí solos. En efecto, estigmatizaban a los medianos y grandes propietarios rurales recurriendo a términos despectivos hoy clásicos del oficialismo: _burgueses_, _contrarrevolucionarios_, _antisociales_ -vamos, lo de siempre- y su retórica recurría constantemente a la lucha de clases, sazonada con un discurso nacionalista a tono con las circunstancias de la época…
 
@@ -53,6 +53,6 @@ Para asegurarse del cumplimiento de las normas -intento resistirme a calificarla
 
 * * *
 
-[\[1\]](applewebdata://BF7827D4-0E2D-4836-A19F-040F35BE4DCE#_ftnref1) Las excepciones a este reparto estaban recogidas esencialmente en los artículos 2, 3, 6
+\[1\] Las excepciones a este reparto estaban recogidas esencialmente en los artículos 2, 3, 6
 
 Nota: _Et al:_ expresión latina que significa _y otros_

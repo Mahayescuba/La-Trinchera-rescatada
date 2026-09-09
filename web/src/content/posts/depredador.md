@@ -7,8 +7,6 @@ image: ""
 ---
 Quien ve voltearse en el último instante a una rata que huye despavorida, cree que el roedor es valiente. Y no: es precisamente el terror lo que la compulsa a enfrentar el destino, y a tratar de hacer daño al presentir que se acabó su tiempo de engullir sobras. Chilla, se desespera, salta, chilla…
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/los-tiempos-duros-no-son-para-poses/
-
 Algunos pasan por la vida como ratas con ínfulas de depredador sin siquiera percatarse de que su último chillido ya pasó. Los delata su anonimato, su vocación omnívora para digerir oportunidades, aún cuando la rapiña les chorree por la demagogia perniciosa. 
 
 …chilla hasta que el gato, ineludiblemente, por ley natural, le desgarra de un zarpazo. 

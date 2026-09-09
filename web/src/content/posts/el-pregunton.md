@@ -5,8 +5,6 @@ author: ""
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/07/Jesús-Curiá-Sin-fin-III-2.jpg"
 ---
-Si la estrategia se aprobó por el Buró Político desde la semana pasada y ustedes decidieron esperar hasta ayer para anunciarla: ¿son los enemigos los responsables de que en los últimos días se mostrara “insatisfacción, incomprensión, inseguridad”, “se especulara, se sembraran dudas y se alimentara la desconfianza” sobre las medidas que venían en camino?
-
 **Por: Jorge Fernández Era**
 
 A ver, compañero presidente, quisiera me contestara algunas preguntas:

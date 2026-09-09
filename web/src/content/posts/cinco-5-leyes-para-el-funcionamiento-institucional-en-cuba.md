@@ -30,5 +30,3 @@ Esto permite el establecimiento de una característica esencial según se descri
 «Así como alguna vez aprendisteis a amaros los unos a los otros, ahora, por vuestra seguridad, aprended a **vigilaros los unos a los otros**»
 
 Como les decía ayer: «[La maldita circunstancia del agua por todas partes](https://www.poeticous.com/virgilio-pinera/la-isla-en-peso-fragmentos?locale=es)…»
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-eco-de-las-cavernas/

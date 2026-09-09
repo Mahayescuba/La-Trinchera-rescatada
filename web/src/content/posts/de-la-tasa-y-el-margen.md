@@ -27,8 +27,6 @@ Dos sistemas de precios, incluso más, pueden coexistir, siempre y cuando la rel
 
 Así, los precios de cada bien o servicios (monto en dinero equivalente) mantienen en el momento del cambio, para ambas partes, la misma relación (proporción) establecida entre las dos monedas. 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/la-lata-de-refresco/
-
 Como resultado, al tomar como referencia una moneda, en cada momento de compraventa de un bien en el mercado, para ambas partes el precio se referencia respecto a la otra moneda en la misma tasa de cambio. Con ello se garantiza que los diferentes agentes de la economía tengan acceso al mismo SP, ya sea en una moneda o en otra, o lo que es lo mismo, que el dinero tenga el mismo poder de compra para todos los agentes (los precios, respecto a otra moneda, parejos para todos). 
 
 La relación constante del precio de cada producto expresado en dos monedas diferentes, es la tasa de cambio.  
@@ -68,8 +66,6 @@ Las monedas cubanas no se constituyen esencialmente como dinero, producto del pr
 **Ciclo económico y estructuración de los efectos**
 
 La diferencia de precios para agentes genera efectos para los compradores y productores. Por ejemplo, genera diferencias de SP para comprar factores de producción, insumos, bienes de capital, o bienes de consumo, etc. Recuérdese que en dependencia de qué agente es, será mejor o peor el sistema de precio al que se accede. 
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-costo-de-la-escasez/
 
 Cuando un agente productor que tiene acceso a determinado SP le vende a otro agente con el cual comparte el mismo SP, no existe ningún problema, si de funcionalidad del dinero se trata. En cambio, cuando lo hace a un agente que usa otra tasa de cambio, la diferencia entre ambas funciona como un subsidio a uno, y como una imposición al otro. En estos casos, el vendedor tiene su estructura de costos enmarcada en un SP, y su estructura de ingresos enmarcada en otra. Se produce según unas reglas de juego monetarias, y se vende en otras.
 

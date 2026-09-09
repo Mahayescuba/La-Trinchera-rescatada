@@ -45,5 +45,3 @@ El país necesita funcionarios competentes, que articulen políticas reales, que
 Contrarrevolución es atentar contra la supervivencia alimentaria de la nación, y eso es lo que hace todo aquel que lucra sin ética alguna con la escasez, como lo es también el que participa en la reproducción de dicha escasez. Empezando por los que tienen el poder para cambiar las prácticas que son causa de estas consecuencias, y no lo hacen, empezando por los criminales que contribuyen a que el productor se aleje de la producción.
 
 No, producir alimentos no es _las_ _doce tareas de Hércules_. Hay que cambiar a quien deba ser cambiado.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/tiendas-en-mlc-en-cuba/

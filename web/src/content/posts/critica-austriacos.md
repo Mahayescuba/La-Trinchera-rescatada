@@ -39,4 +39,4 @@ Rothbard, M. N. (2009): _Man, Economy and State. A Treatise on Economic Principl
 
 Tomado de [Rolando Astarita](https://rolandoastarita.blog/2018/05/03/los-austriacos-y-la-reduccion-a-sustancia-comun/)
 
-Una reflexión sobre la teoría austriaca del valor. Una reflexión sobre la teoría austriaca del valor. Una reflexión sobre la teoría austriaca del valor. Una reflexión sobre la teoría austriaca del valor.
+Una reflexión sobre la teoría austriaca del valor. Una reflexión sobre la teoría austriaca del valor.

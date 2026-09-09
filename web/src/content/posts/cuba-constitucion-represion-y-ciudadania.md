@@ -37,8 +37,6 @@ Otras preguntas pueden ser esenciales: ¿Cuántos de los firmantes ya no viven?,
 
 Respecto al argumento que emplaza la legitimidad de la Constitución en el voto mayoritario de la población cubana, tengo los siguientes criterios: 1) en el proceso de consulta previo, los medios oficiales solo presentaron el punto de vista de la burocracia política e impidieron que el debate que se suscitó en las redes sociales, y que contó con análisis informadísimos de especialistas, juristas, historiadores, economistas, entre otros, fuera de dominio público y permitiera una mayor y más profunda reflexión popular. Así lo apunté en el artículo «Mundos paralelos». 2) Que Cuba debe actualizar no solo su economía, sino modernizar su proceso de votaciones. El mismo continúa en condiciones que no garantizan una confiabilidad mayor que el lápiz y la boleta de papel. 3) Si la cantidad de personas que apoyan una decisión electoral fuera siempre sinónimo de una buena decisión, no podríamos criticar, por citar un ejemplo, a Jair Bolsonaro, elegido por el voto mayoritario en Brasil.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/se-discutio-el-proyecto-de-constitucion/
-
 La contradicción irreconciliable que existe entre los derechos que enuncia la Constitución del 2019 y la imposibilidad de ejercitar los mismos a partir de la invocación de los artículos 4 y 5, se percibe con nitidez en la violación del plazo que su disposición transitoria decimosegunda estipula: «La Asamblea Nacional del Poder Popular, en el plazo de dieciocho meses de entrada en vigor de la Constitución, aprueba las modificaciones legislativas requeridas para hacer efectivo lo previsto en su Artículo 99, referido a la posibilidad de los ciudadanos de acceder a la vía judicial para reclamar sus derechos»[\[1\]](https://jovencuba.com/constitucion-represion-ciudadania/?fbclid=IwAR1xge9-aKjglxyt0wrQMlFEY-v5usj8aacnFaPE8QahG3nsfjMyisMJk2s#_edn1).
 
 De acuerdo a esta disposición, y por mandato constitucional, todas las leyes que influyen en el ejercicio de los derechos constitucionales debían haberse dictado ya, pues ha trascurrido poco más del plazo estipulado, si contamos que la Constitución entró en vigor en abril del 2019.
@@ -77,8 +75,6 @@ La cuestión entonces es que no se trata de tener derecho a ser iguales, sino de
 
 La función de los órganos de seguridad, a mi juicio, debería orientarse a develar tramas conspirativas, recabar pruebas concretas y verificables de la subordinación a un gobierno extranjero y presentarlas a los órganos judiciales competentes para que estos instruyan los casos respetando todas las garantías del debido proceso.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/derecho-a-la-informacion-veraz/
-
 Eso no es lo que está ocurriendo en Cuba. Estamos cansados de ver a personas que son llevadas a interrogatorios forzados, arrastradas por la fuerza, retenidas horas o días sin comunicación con su familia o con abogados, a las que les son incautados sus celulares y otros medios, para ser liberados después sin acusaciones ni proceso legal en su contra. El límite que existe entre la Seguridad del Estado y la violencia o terror de Estado es precisamente el respeto a los procedimientos y normas legales por parte de los órganos de seguridad.
 
 La violencia o terror de Estado consiste en la utilización de métodos ilegítimos por parte de un gobierno, orientados a producir miedo o terror en la población civil.
@@ -102,8 +98,6 @@ Ese internacionalismo revolucionario venía de una tradición solidaria que, en 
 Como resultado, no marchamos en apoyo a los reprimidos en las UMAP o a los parametrados tras el 1er Congreso de Educación y Cultura. Permitimos, y/o participamos en actos de repudio donde fueron golpeadas y ofendidas muchas personas que decidieron residir fuera de Cuba. Hemos llegado a naturalizar el uso de fuerzas de choque formadas por ciudadanos que deciden mantener dentro de sus viviendas a otros ciudadanos porque no les parecen suficientemente revolucionarios para que transiten, como es su derecho pleno, por las calles.
 
 El historiador romano Tito Livio decía en sus discursos una frase que retomaría Maquiavelo siglos más tarde: «La patria se debe defender siempre con ignominia o con gloria, y de cualquier manera estará defendida». Se equivocaba: si la Patria se defiende con ignominia, se la ofende. Y es ignominia gritar, humillar e injuriar al que piensa diferente y quiere reivindicar sus derechos contenidos en una Constitución que, por muchas limitaciones que tiene, los consagra.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/hacer-la-rebeldia/
 
 Pero no solo incurre en descrédito el que se presta a participar en esos actos viles, sino igualmente el que observa sin tomar una postura cívica al respecto.
 

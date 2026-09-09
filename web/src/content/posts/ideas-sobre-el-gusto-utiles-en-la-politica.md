@@ -23,8 +23,6 @@ A veces una cosa deja de gustar porque aparece otra mejor, otras, deja de gustar
 
 Que algo ya no guste no significa que guste su “opuesto”.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-cartel-o-el-arte-de-decir/
-
 El gusto no se compra, solo su simulación.
 
 Para el que realiza la acción de gustar, existen tantos posibles gustados como desee, no los que otro le diga.

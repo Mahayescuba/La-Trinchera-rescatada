@@ -18,5 +18,3 @@ Lo siento por mis amigos y colegas que en el día de hoy les va a tocar comparti
 Pero como mismo entiendo esa situación, espero que entiendan el derecho que otros tenemos a criticar lo que es un mal trabajo contrario a principios elementales del periodismo. Al final del día, los funcionarios no tienen rostro, los periodistas sí.
 
 [También le p](/politica-en-cuba/)[uede int](/politica-en-cuba/)[eresar](/politica-en-cuba/)
-
-_Nota: Este es un comentario publicado por el autor, a raíz de que en varios perfiles de Facebook se compartiera un video anónimo, que se anuncia como la versión oficial de lo ocurrido en Guanabacoa, en donde resultó muerto el joven_ _Hansel Ernesto Hernández Galiano._

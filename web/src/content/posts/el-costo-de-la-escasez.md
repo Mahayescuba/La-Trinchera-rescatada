@@ -39,26 +39,26 @@ Este costo puede ser asumido por el consumidor, ya sea haciendo la cola, o pagan
 
 Así, la reducción de la oferta respecto a un punto de equilibrio de mercado, si de un bien necesario se trata, obliga al consumidor a tomar decisiones. Comprar o no comprar; ambas tienen un costo. Si decide comprar: a hacer cola o pagar en dinero el precio de la cola. El consumidor no puede escapar del costo que implica para su consumo la reducción de la oferta desde un punto de equilibrio. A ese costo se le puede llamar el costo de la escasez, similar al comportamiento de un impuesto que, en cambio, ni siquiera se convierte en una recaudación fiscal. También puede verse como una tarifa de entrada. Es decir, el costo de la escasez es el equivalente a pagar una tarifa (al mercado) de entrada para consumir.
 
-Para el caso de Cuba, una economía de escasez, teniendo en cuenta las particularidades (la oferta de bienes de las empresas estatales y militares es elástica[\[1\]](applewebdata://E898A7AB-CA93-4FCB-9A3D-53DF72E4705B#_ftn1)), se puede graficar de la siguiente manera: 
+Para el caso de Cuba, una economía de escasez, teniendo en cuenta las particularidades (la oferta de bienes de las empresas estatales y militares es elástica\[1\]), se puede graficar de la siguiente manera: 
 
 ![](/wp-content/uploads/2021/04/LTImagen-1.png)
 
 A partir de lo expuesto, se puede llegar a una mejor aproximación a la estructura del costo, es decir, de los precios de satisfacer la demanda de los consumidores, en condiciones de reducción de oferta y de curva de oferta elástica:
 
-**Costo real de adquisición[**\[2\]**](applewebdata://E898A7AB-CA93-4FCB-9A3D-53DF72E4705B#_ftn2)\= Costo oficial de adquisición[**\[3\]**](applewebdata://E898A7AB-CA93-4FCB-9A3D-53DF72E4705B#_ftn3)** [**+**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwibzr6o667vAhWktlkKHX8zCfEQFjAAegQIARAD&url=https%3A%2F%2Fsupport.google.com%2Fanalytics%2Fanswer%2F1034330%3Fhl%3Des&usg=AOvVaw0dh0LCD3EPFWW9c3MiJNpw) **Costo de escasez.**
+**Costo real de adquisición**\[2\]**\= Costo oficial de adquisición**\[3\]**** [**+**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwibzr6o667vAhWktlkKHX8zCfEQFjAAegQIARAD&url=https%3A%2F%2Fsupport.google.com%2Fanalytics%2Fanswer%2F1034330%3Fhl%3Des&usg=AOvVaw0dh0LCD3EPFWW9c3MiJNpw) **Costo de escasez.**
 
 \*\*
 
 * * *
 
-[\[1\]](applewebdata://E898A7AB-CA93-4FCB-9A3D-53DF72E4705B#_ftnref1) La cantidad de bienes ofertada por las empresas estatales y militares en Cuba es indiferente al comportamiento de la demanda, en muchos casos. Es decir, con independencia de lo que esté dispuesto a pagar la demanda, los precios de la oferta (empresas estatales y militares) suelen no variar, aunque varíe la cantidad ofertada.
+\[1\] La cantidad de bienes ofertada por las empresas estatales y militares en Cuba es indiferente al comportamiento de la demanda, en muchos casos. Es decir, con independencia de lo que esté dispuesto a pagar la demanda, los precios de la oferta (empresas estatales y militares) suelen no variar, aunque varíe la cantidad ofertada.
 
  No importa la cantidad ofertada, el precio siempre será el mismo.
 
 Se trata de un precio que no está sujeto a la relación de oferta y demanda.
 
-[\[2\]](applewebdata://E898A7AB-CA93-4FCB-9A3D-53DF72E4705B#_ftnref2) El costo real de adquisición es el gasto en el que incurre la demanda para obtener un bien. Es, en última instancia, una función de consumo planteada sin restricciones de renta.
+\[2\] El costo real de adquisición es el gasto en el que incurre la demanda para obtener un bien. Es, en última instancia, una función de consumo planteada sin restricciones de renta.
 
-[\[3\]](applewebdata://E898A7AB-CA93-4FCB-9A3D-53DF72E4705B#_ftnref3) El costo de adquisición oficial de un bien es el costo de adquisición sin los efectos de la escasez y la multiplicidad monetaria, etc. Puede verse como lo que costaría un bien de no haber escasez, multiplicidad monetaria u otros efectos.
+\[3\] El costo de adquisición oficial de un bien es el costo de adquisición sin los efectos de la escasez y la multiplicidad monetaria, etc. Puede verse como lo que costaría un bien de no haber escasez, multiplicidad monetaria u otros efectos.
 
 Puede ser entendido como el precio oficial de un bien.

@@ -17,8 +17,6 @@ image: ""
 
 —Eso se llama equilibrio. No todo puede ser discusión de pasillo.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/esperando-al-camion-podcast/
-
 —¡Ahí está la cosa!: se anunció en la prensa que iban a discutirse algunos temas importantes para el devenir de la nación. Y en el ir y devenir de la cocina a la sala yo repetía a mi marido: tú va ver que tú verás, con lo impulsivos que somos los cubanos empiezan por preguntar por qué esto o por qué aquello y terminan citándose pa las cuatro y media en el parqueo del hotel Palco.
 
 —¡Dime que no fue así, que hubo unidad!

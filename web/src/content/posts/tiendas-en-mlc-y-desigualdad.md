@@ -21,8 +21,6 @@ Cuando uno dice tiendas en MLC, piensa solamente en las ventas minoristas, pero 
 
 Es cierto que en el comercio existen muchas desigualdades más, el mercado está segmentado por los precios, pero la segmentación del mercado por los precios no es tan grave como la segmentación del mercado por el tipo de moneda de pago.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/politica-monetaria-y-cambiaria-en-cuba/
-
 Considero que hay desigualdades vencibles y desigualdades no vencibles. La desigualdad que provocan las ventas o servicios en moneda extranjera, a la que yo no puedo acceder de ninguna manera, es una desigualdad no vencible, por cuanto no tengo medios lícitos para acceder a esa moneda a partir de los ingresos que percibo en el país.
 
 Es necesario abrir espacio al sector privado, que las personas tengan la oportunidad de prosperar en Cuba, produciendo para Cuba, que la inversión educativa que hemos hecho se revierta en bienestar para nuestro país.

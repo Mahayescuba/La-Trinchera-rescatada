@@ -21,8 +21,6 @@ Sin embargo la causa profunda de esa falta de conciencia no responde a una idea 
 
 La solución propuesta por la crítica cristiana en los EEUU ante los mencionados individualismo y hedonismo contemporáneos, supuestamente generados por él, es la de ligar el liberalismo a un _telos_ cristiano, o en español comestible: infundirle los fines, propósitos y destinos que esta específica religión le impone a sus creyentes. Por tanto: al vaciar al liberalismo de su esencia liberadora de las constricciones irracionales, mientras al mismo tiempo se intentan conservar algunas de las consecuencias que esa esencia provoca. En concreto el libre mercado y la privación a una institución concreta, el Estado, del derecho de imponernos fines…
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/teoria/espacio-y-libertad/
-
 Basta recordar, sin embargo, que no es solo el Estado quien nos intenta imponer y constreñir sin otros argumentos que los de convocar a nuestra creencia incondicional en la buena fe de su interés incuestionable por nuestro bien. También las iglesias lo hacen.
 
 No olvidar que en principio el espíritu liberal en Occidente nace y se desarrolla a través de los siglos como una reacción ante las constricciones impuestas por la religión establecida o en establecimiento. Que al posterior surgimiento del Estado nacional moderno ese espíritu primero evoluciona dentro de la propia religión que se _reforma_, pero que al la religión _reformada_ terminar por imponer nuevas constricciones irracionales lanza al espíritu liberal más allá, al páramo descrito por Albert Camus, para entonces comenzar a tomar distancia de la religión, de cualquier religión. Aunque sin romper de manera definitiva, como veremos.
@@ -66,8 +64,6 @@ El liberalismo es por tanto el siguiente paso -uno que solo se puede dar de mane
 Con el ser humano, y sobre todo con el ser humano liberal, se llega al óptimo compromiso entre lo individual y lo social, entre competencia y cooperación. En el cual los individuos cooperan para sobrevivir en común, a la vez que conservan una vida individual infranqueable para lo social, en el disfrute de la cual generan a su vez un valiosísimo subproducto: una variedad ilimitada de ideas de cómo enfrentar a los desafíos comunes.
 
 Hay que agregar aquí que en el universo descrito el esfuerzo común no sólo está dirigido a sobrevivir a condiciones de peligro de desaparición total, cataclísmicas. Aunque no lo percibamos, ya tan solo garantizar los altos estándares de vida de que disfruta en privado el individuo contemporáneo implica conservar un medio transformado, con incontables sacrificios, por cientos de generaciones anteriores. Un medio que por cierto no se _da_ _en_ _las_ _matas_, y al cual si ahora no atendiéramos constantemente a su conservación, de la única manera posible: en común, no duraría mucho más allá de unos pocos años.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/teoria/yuval-harari-el-humanismo-liberal-y-un-escepticismo/
 
 Desengañémonos, las condiciones que permiten los altos estándares de vida no abundan en la naturaleza, y mantenerlas implica necesariamente un enorme esfuerzo en su edificación, pero también en su conservación. O sea, a partir de que los hombres en común comienzan a realizar variaciones en el medio, para mejorar sus condiciones de existencia, ya no pueden darse el lujo de disgregarse y darse al disfrute de los placeres como si ya hubiesen alcanzado aquel tan mentado paraíso que nos prometen las religiones.
 

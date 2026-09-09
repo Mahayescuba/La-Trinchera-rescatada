@@ -15,8 +15,6 @@ Por cuanto: A un mes de los hechos anteriormente descritos, los bandidos del 27N
 
 Por cuanto: A dos meses de haberse plantado, y viendo que su mata no rendía frutos, una pequeña representación de dicho movimiento se dio cita otra vez frente al Mincult y cometió el error de no discernir entre un manotazo y el saludo afectuoso de una conga arrolladora que conminó, con aquello de “te encerro con una llave”, a subir a un ómnibus para que nadie vuelva a equivocarse con la fecha de los carnavales.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/regresar-al-capitalismo/
-
 Por cuanto: El quita y pon de la electricidad y de la conexión a Internet crea sobrecargas y diferencias de frecuencia que lastran la vida útil de los equipos.
 
 Por cuanto: Se hace insostenible la cantidad de bocaditos, refrescos, masarreales, guachipupa, gasolina y ropa de civil que jalan los combatientes del Ministerio del Interior cada vez que son movilizados, gastos que pesan sobre el Presupuesto del Estado y se suman a los altísimos salarios que devengan los compañeritos, más altos que los de los médicos que tienen que atender después el resultado de su trabajo.

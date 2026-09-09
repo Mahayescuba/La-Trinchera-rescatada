@@ -5,8 +5,6 @@ author: ""
 category: "Política en Cuba"
 image: ""
 ---
-Muchos no tienen buena ortografía, no como la de mis aportes (que si me pongo insoportable los justifico como accidentes), sino aportes que van más allá; unos que más que risa, (me)producen pena.
-
 **Por: Miguel Alejandro Hayes**
 
 Pensé en googlear una buena frase para iniciar, pero no, ni esto es un buen ensayo, ni voy a concursar en lides de estética. Prefiero decirlo así, tal y como me vino a la mente mientras espero el retorno de la corriente en Marianao.

@@ -17,5 +17,3 @@ Me encuentro un ridículo y egocéntrico Zizek hablando de comunismo. Los extrem
 No puedo evitar la sugestión, la ansiedad, la ira, la alergia, el eccema, las manías.  
 Hoy no me sale un texto de aliento. El maldito virus, las teorías de la conspiración, las verdades ocultas, casi todo, da miedo.  
 27 de marzo de 2020. 02 y 10 am.
-
-El autor reflexiona sobre el miedo al coronavirus que recorre hoy el mundo y habla sobre verdades ocultas, teorías y otras pandemias.

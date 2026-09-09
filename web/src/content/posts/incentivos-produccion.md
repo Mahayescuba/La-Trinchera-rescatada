@@ -24,5 +24,3 @@ Ojalá la gente gane mucho. Eso si sería prosperidad. La prosperidad no puede s
 Tomado del Facebook del autor
 
 incentivos producción. incentivos producción.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/goya-y-politica/

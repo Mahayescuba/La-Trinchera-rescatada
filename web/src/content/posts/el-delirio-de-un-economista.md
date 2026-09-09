@@ -19,8 +19,6 @@ Lo anterior es un forcejeo con partes que van en sentidos contrarios, con un pun
 
 La Economía como discurso debiera, lo más eficientemente posible, reflejar esa realidad. Y como dicha ciencia posee la particularidad de ser una ciencia social (porque los sujetos de la economía somos seres humanos), tiene que servir a la sociedad. Para ello, debe darle soluciones a problemas, lo que la obliga a que su discurso tenga que ser accesible al ciudadano común. Porque si el lenguaje de la Economía es entendido por unos pocos, ¿cómo sabemos los demás que las decisiones tomadas, son las más correctas, esperando los resultados?
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-costo-de-la-escasez/
-
 No es posible que un conocimiento que refleja una realidad de la que todos somos parte y del cual, su uso en la toma de decisiones tiene un impacto sustancial sobre las condiciones de vida de las personas, no tenga como usuario a la misma ciudadanía. Como incide sobre todos, el entendimiento de la economía debe ser de todos.
 
 Por eso, el primer paso para pensar cualquier sistema de hechos económicos es saber y buscar un lenguaje para estudiar esos hechos que sea comprensible por todos, y, al mismo tiempo, no legitimar con la condición de ciencia a lenguajes que, lejos de ayudar a la comprensión, dicen poco, o no dicen nada.
@@ -40,8 +38,6 @@ Luego, casi cualquier figura estadística de distribución central, tendrá el m
 Como alternativa, para no perder el tiempo descartando opciones, yo prefiero una, aunque puede haber muchas más: el poder adquisitivo real del salario. En pocas palabras: ¿cuánto y qué puede comprar un salario. ¿Cuántos almuerzos y comidas, y de qué calidad, se pueden comprar en un mes, dado el nivel de precios reales, con un salario? Esa puede ser una pregunta que le interesa a cada padre, hijo preocupado, o cualquier persona que deba sostenerse y o sostener a otros. En este ejemplo puede introducirse cualquier bien o servicio, o combinaciones de estos. Y sobre todo, podemos hablar de salario porque el salario es el monto de dinero del que se vive; el monto de lo único que es parejo e igual para todos en la economía: la unidad monetaria. Un 1 cup tiene el mismo poder de compra, sin importar las manos en las que esté.
 
 Incluso hablo de poder adquisitivo del dinero y no de inflación, porque la inflación hace referencia al aumento de precios en el tiempo. Las medidas en el tiempo tienen problemas. Que algo aumente en el doble, luego de haber disminuido la mitad, significa que regresó al mismo lugar inicial. Si se tratara de inflación, los datos dirían que los precios aumentaron en un 100, cuando solo tomaron su valor inicial. Por otro lado, la inflación más común, como dato, es la inflación general, una especie de inflación promedio (y ya sabemos lo que quieren decir los promedios).
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/pensar-la-economia-cubana-v/
 
 Por último, tendría que darse el dato de la inflación de un sector específico, pero la inflación no es lo que se desea saber (eso es para los gobiernos y entidades regulatorias de la circulación monetaria). Lo que necesita el ciudadano conocer es el poder adquisitivo de lo que tiene. Y es que la inflación no recoge la dimensión de la escasez. No puede una sociedad estar sobrada de algo y estar a precios impagables (mercado). Luego, procesos inflacionarios en sectores específicos, significa escasez. Una inflación de cuatro cifras no significa que a ese precio se podrá comprar, significa que unos pocos que lo pocos que lo encuentren, lo podrán pagar.
 
@@ -64,8 +60,6 @@ En otros sectores, sí aumentó el precio. Eliminación de subsidios y precios a
 Con dicho ordenamiento, se hace visible que todas las empresas ahora incluyen en su precio final la tasa de cambio. Luego tienen que comprar para volver a vender. Si produce y debe importar algo, o si importa para (re)vender, debe importar. Así, las empresas estatales acuden a otras, que son importadoras y le pagan lo importado. Importar implica operar en MLC. Las empresas importadoras les cobran a sus clientes, ahora, aplicando 1×24, eliminando así la asignación de divisas anterior. En otras palabras, el estado no le asigna divisas al 1×1 a las empresas para importar, estas deben pagar al 1×24 el precio de su importación.
 
 Después, buena parte de aquellos ingresos, son para la tasa de cambio. Todo ha quedado un poco más organizado. La importadora le aplica tasa de cambio al venderle a comercializadora, y esta se lo hace al consumidor. La comercializadora se queda con una parte de ingreso por tasa de cambio (en dependencia de sus precios) y la importadora también tiene su ingreso por tasa de cambio (y lo sigue pagando el consumidor.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/beneficios/
 
 Lo que varió es que quedan mejor distribuidos los ingresos y mejor organizadas las cuentas en las empresas estatales y militares, y que, ya todos los ingresos por tasa de cambio no se concentran en las comercializadoras. Dado que cada vez es más el uso de las tiendas en MLC, todo cobra sentido: hacer más rentables las empresas importadoras en un momento donde la importación es justamente un renglón clave de la economía para obtener divisas.
 

@@ -24,5 +24,3 @@ Aristóteles, un pensador conservador y anti democrático, adoraba a los idiotas
 Aristóteles, que fue en parte el inventor de esa palabra de moda llamada democracia, considerada que una república ideal era aquella dónde el demos (los pobres libres y no esa mala traducción llamada pueblo) por idiota, se mantenía tan ocupado en  el negocio que quedaba privado de ocio y por tanto de tiempo suficiente para ocuparse de  las causas de las cosas y participar en la política. 
 
 Así que va y le doy la razón, señora, todos somos idiotas, al menos todos en esta cola y en la del frente, la de mañana y el día después. El asunto sigue siendo cuándo, de una vez, acabamos con [Aristóteles](<http://Así que va y le doy la razón, señora, todos somos idiotas, al menos todos en esta cola y en la del frente, la de mañana y el día después. El asunto sigue siendo cuándo, de una vez, acabamos con Aristóteles.>).
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/coleros-y-acaparadores/

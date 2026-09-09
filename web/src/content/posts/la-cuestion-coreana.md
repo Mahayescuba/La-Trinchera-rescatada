@@ -11,7 +11,7 @@ Corea del Norte es un país pequeño, de tan solo 120 538 Km2, ocupando el lugar
 
 Casi el mismo territorio que Cuba, tiene quedar  alimento para 14 millones más de habitantes. A todo eso súmele que las tierras cubanas al lado de las de Corea del Norte son extremadamente fértiles, pues aunque las nuestras no son de las mejores del mundo, en Norcorea son de bajísima calidad en casi todo su territorio nacional, son infértiles por su composición química de base (esto está reconocido numerosos los organismos internacionales) y la fertilización y mejoramiento de cara a la siembra conlleva un costo agregado que lo haría irrentable en cualquier lugar del mundo.
 
-El Producto Interno Bruto nominal o PIB nominal (del que tanto gusta hablar en Cuba en la actualidad) de Corea del Norte según  La CIA World Factbook[\[1\]](#_ftn1) (1) era de 28 000 millones (lugar 91 a nivel mundial) en el año 2013. Pero como esto a la mayoría no nos dice mucho, solo para ponernos en contexto. Se debe recordar que el PIB de Cuba (aún con una difícil estimación por las complicaciones que trae calcularlo con la incidencia de la multiplicidad cambiaria) ronda los 80 000 millones (2) (casi el triple), con una entrada de remesas entre 2000 millones a 3000 millones anuales, cantidad que equivale al 10% del PIB de Corea del Norte.
+El Producto Interno Bruto nominal o PIB nominal (del que tanto gusta hablar en Cuba en la actualidad) de Corea del Norte según  La CIA World Factbook\[1\] (1) era de 28 000 millones (lugar 91 a nivel mundial) en el año 2013. Pero como esto a la mayoría no nos dice mucho, solo para ponernos en contexto. Se debe recordar que el PIB de Cuba (aún con una difícil estimación por las complicaciones que trae calcularlo con la incidencia de la multiplicidad cambiaria) ronda los 80 000 millones (2) (casi el triple), con una entrada de remesas entre 2000 millones a 3000 millones anuales, cantidad que equivale al 10% del PIB de Corea del Norte.
 
 Para que sea más contextualizada la comparación se puede mostrar que el PIB para la comparación Estados Unidos (más de 19millones de millones) (3), Corea del Sur (más de 1,5millon de millón, 35 veces el de su vecino del norte)(4) y hasta República Dominicana le dobla el PIB con cerca de (70 000 millones)(5).
 
@@ -48,6 +48,6 @@ Sin ánimo de seguir en una exposición interminable de datos fríos, invito a q
 -   [https://www.cia.gov/library/publications/the-world-factbook/geos/dr.html](https://www.cia.gov/library/publications/the-world-factbook/geos/dr.html)
 -   http://apps.who.int/iris/bitstream/10665/131953/1/9789240692695\_spa.pdf
 
-[\[1\]](#_ftnref1) compilación de datos de diversos países del mundo realizada por la Agencia Central de Inteligencia de los Estados Unidos y con el aval de alguna de las instituciones financieras más reconocidas a nivel mundial como el Fondo Monetario Internacional y el Banco Mundial
+\[1\] compilación de datos de diversos países del mundo realizada por la Agencia Central de Inteligencia de los Estados Unidos y con el aval de alguna de las instituciones financieras más reconocidas a nivel mundial como el Fondo Monetario Internacional y el Banco Mundial
 
 [Segunda parte](_wp_link_placeholder)

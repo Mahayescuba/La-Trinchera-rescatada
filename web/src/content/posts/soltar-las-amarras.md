@@ -24,5 +24,3 @@ Si el gobierno cubano soltara las amarras de la economía y dejara que florezcan
 Tomado del Facebook del autor
 
 PYMEs  importaciones. PYMEs importaciones.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-pregunton/

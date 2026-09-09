@@ -11,8 +11,6 @@ La libertad _es lo que reclama a su luchador_ (el que la defiende contra todo)
 
 Por eso la libertad es importante, porque no puede de ninguna sensata manera no ser importante, y humildemente humana de fondo, y grandiosa de suponer amparos al bien, y _referente único para permitir la realización de cualquier [capacidad humana](https://es.wikipedia.org/wiki/Homo_sapiens)_ en esa búsqueda de una felicidad y de una mejor sociedad.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/carta-publica/
-
 Ni más ni menos, ¡exacto!, la libertad junto a la razón son las salvaguardas de todos los bienes esenciales de la sociedad, dan el camino y permiten en corto o largo plazo cualquier dignidad o todas las dignidades humanas. Pero no las lucha o las da el aire, sino solo quien tiene la honra de lucharlas.
 
 Lo sé ya, hay demasiados manipuladores en la sociedad que las han utilizado para sus intereses privados e, incluso, _siempre ha habido partidos mafia_ o partidos políticos que, sin reticencias éticas, las han ensuciado de sus corrupciones o de sus miserias. En fin, la libertad existió antes que ellos y estuvo siempre al lado del oprimido, del explotado o del engañado, sin pedir dinero, sin pedir poder y sin pedir obediencia ciega como moneda de cambio. Así es.

@@ -13,8 +13,6 @@ Aclararé algo primero: los criterios de valoración son las referencias mentale
 
 Bien, si tus criterios de valoración son de favorecer a Dios, pues siempre pensarás favoreciendo a Dios. También, si tus criterios de valoración son de favorecer a la razón, pues siempre pensarás dignificando o favoreciendo a la razón, o siempre todo lo que digas favorecerá (por seguro) a la razón. Es ésta una gran base para que nada se vuelva loco, ¡así es!
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/ideas-sobre-el-gusto-utiles-en-la-politica/
-
 Los criterios de valoración consisten en poner una voluntad cualquiera en manos de la cordura o de la razón; y nunca de la confusión, de la estupidez o de la falsedad. El valorar es, en obviedad, por lo que se mueve cualquier ser humano, y puede estar muy equivocado o muy cegado o muy enloquecido simplemente porque su valorar es de tal o cual manera, atendiendo a unos caprichos, a unos entretenimientos o a unos mensajes irracionales o promovidos por beneficiar solo a los intereses de un poder determinado.
 
 Hay personas que están manipuladas a un cien por cien de lo que dicen, sin embargo, van de lo contrario, de que son muy interesantes e independientes u otros rollos de estupidez o de autoengaño. En el fondo, el reconocer las cosas o el tener un sentido autocrítico son cualidades casi inexistentes (porque ya lo dice eso toda la realidad) aunque, al mismo tiempo, son esas cualidades que más se las atribuyen (en irrealidad) los seres humanos, desde un interminable y retórico [antropocentrismo](https://es.wikipedia.org/wiki/Antropocentrismo).

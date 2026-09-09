@@ -22,6 +22,48 @@ const NAV_SELECTORS = '.sharedaddy,.jp-relatedposts,.sd-sharing,.pvc_stats,.wpup
 function readable(html){ return html.replace(/\r/g,''); }
 function clean(s){ return (s||'').replace(/\s+/g,' ').trim(); }
 
+// texto normalizado (sin markdown) para comparar párrafos duplicados
+function normText(s){
+  return (s||'')
+    .replace(/!\[[^\]]*\]\([^)]*\)/g,'')      // imágenes
+    .replace(/\[([^\]]*)\]\([^)]*\)/g,'$1')    // enlaces -> texto
+    .replace(/[*_`#>]/g,'')                     // énfasis/encabezados
+    .replace(/\s+/g,' ').trim().toLowerCase();
+}
+// colapsar un bloque que es exactamente el mismo texto repetido 2–3 veces (duplicado en el origen)
+function collapseRepeat(block){
+  const s=block.trim();
+  for(const sep of ['',' ','\n\n','\n']){
+    for(let n=2;n<=3;n++){
+      const unit=(s.length-(n-1)*sep.length)/n;
+      if(Number.isInteger(unit) && unit>=100){
+        const first=s.slice(0,unit);
+        if(s===Array(n).fill(first).join(sep)) return first.trim();
+      }
+    }
+  }
+  return block;
+}
+// de-duplicar párrafos repetidos y la entradilla que reaparece como prefijo de otro párrafo
+function dedupeBody(body){
+  let blocks=body.split(/\n\n+/).map(collapseRepeat);
+  const seen=new Map(); const keep=[];
+  for(const b of blocks){
+    const n=normText(b);
+    if(n.length>=80 && seen.has(n)) continue;   // párrafo idéntico repetido
+    if(n.length>=80) seen.set(n,true);
+    keep.push(b);
+  }
+  // entradilla (primer bloque de texto largo) que es prefijo exacto de un párrafo posterior
+  const firstIdx=keep.findIndex(b=>{ const n=normText(b); return n.length>=60 && !/^!\[|^<|^#/.test(b.trim()); });
+  if(firstIdx>=0){
+    const lead=normText(keep[firstIdx]);
+    const isPrefixLater=keep.some((b,i)=> i>firstIdx && normText(b).startsWith(lead) && normText(b).length>lead.length+20);
+    if(isPrefixLater) keep.splice(firstIdx,1);
+  }
+  return keep.join('\n\n');
+}
+
 function mdFromContainer($, cont){
   cont.find(NAV_SELECTORS).remove();
   // quitar "También le puede interesar", "Me gusta esto", "Cargando..."
@@ -30,6 +72,11 @@ function mdFromContainer($, cont){
   });
   // eliminar el <noscript> de fallback de Jetpack lazy-load (duplicaba cada imagen)
   cont.find('noscript').remove();
+  // eliminar iframes ocultos / de spam inyectados en el volcado (p.ej. dominios .ru, display:none)
+  cont.find('iframe').each((_,el)=>{
+    const src=$(el).attr('src')||'', st=($(el).attr('style')||'').replace(/\s/g,'');
+    if(/:\/\/[^/]*\.ru\//i.test(src) || /display:none/i.test(st)) $(el).remove();
+  });
   // reescribir imágenes: propias -> /wp-content/uploads/... ; externas -> URL directa
   cont.find('img').each((_,el)=>{
     let s=$(el).attr('data-orig-file')||$(el).attr('data-lazy-src')||$(el).attr('src')||'';
@@ -52,6 +99,13 @@ function mdFromContainer($, cont){
   });
   cont.find('a[href]').each((_,el)=>{
     let h=$(el).attr('href')||'';
+    // notas al pie de Word/Pages: applewebdata:// (a veces con la URL real incrustada) y anclas #_ftn/#_ftnref
+    if(/^applewebdata:/i.test(h)){
+      const real=h.match(/(https?):\/+([^\s#)]+)/i);
+      if(real){ $(el).attr('href', real[1]+'://'+decodeURIComponent(real[2].replace(/%20/g,'')).replace(/\/+$/,'')); }
+      else { $(el).replaceWith($(el).html()||$(el).text()); return; }   // sin URL real -> texto
+      h=$(el).attr('href');
+    } else if(/^#/.test(h)){ $(el).replaceWith($(el).html()||$(el).text()); return; }  // ancla interna rota
     let m=h.match(/(?:trincheracuba|desdetutrinchera)\.com\/([a-z0-9-]+)\/?/i);
     if(!m) m=h.match(/^\.\.\/([a-z0-9-]+)\/(?:index\.html)?$/);
     if(m && !['category','tag','author','page','wp-content','wp-includes','feed'].includes(m[1])){ $(el).attr('href','/'+m[1]+'/'); }
@@ -100,6 +154,9 @@ function extractOne(slug){
   body = body
     .replace(/^\s*\[Otro texto del autor\]\([^)]*\)\s*$/gmi,'')   // "otro texto del autor" -> categoría
     .replace(/^\s*Relacionado:\s*\[[^\]]*\]\([^)]*\)\s*$/gmi,'')   // "Relacionado: [..](..)"
+    .replace(/^\s*https?:\/\/web\.archive\.org\/web\/\d+\S*\s*$/gmi,'')                       // enlaces Wayback sueltos
+    .replace(/^\s*https?:\/\/(?:www\.)?(?:trincheracuba|desdetutrinchera)\.com\/\S*\s*$/gmi,'') // enlaces internos sueltos
+    .replace(/^\s*(.{8,80}?),\s*\1\s*$/gmi,'')                                                // línea de palabra clave repetida (Yoast)
     .replace(/\n{3,}/g,'\n\n').trim();
   // iframe corrupto en el origen: su atributo quedó sin cerrar y arrastra HTML escapado
   // (otro iframe + la caja de autor con gravatar). Truncar la línea tras el primer iframe válido.
@@ -111,6 +168,7 @@ function extractOne(slug){
     }
     return line;
   }).join('\n').replace(/\n{3,}/g,'\n\n').trim();
+  body = dedupeBody(body);   // quitar párrafos/entradillas duplicados del volcado
   if(!date){ // intentar de la URL wayback en algún enlace o dejar vacío
   }
   if(!title || body.length<120) return {slug, skipped:true, reason:'sin cuerpo', len:body.length};

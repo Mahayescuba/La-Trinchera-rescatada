@@ -15,8 +15,6 @@ Han alcanzado una relativa visibilidad -paradógicamente, gracias al actuar de l
 
 La primera reacción del círculo inmediato al Primer Legionario y Mariscal de mérito, Sr. Modesto Alcargo, fue lanzar mediante su flamante nuevo decorador en jefe, sr. Adolfo Muysolinni, una campaña de _pinturación_ en zonas particularmente críticas. El fervor con que algunos ciudadanos la han asumido, recuerda las gloriosa décadas de los 70’s y 80’s vividas en el país.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/primer-informe-sobre-el-terraplanismo-antecedentes-para-un-estudio-de-caso/
-
 No obstante, la opinión pública reaccionó extrañada a la operación, por lo que su _continuidad_ está en entredicho. Las autoridades decidieron entonces sumarse a la causa animalista en defensa de sus colegas, y la vía no podía ser otra que a través de la propaganda: la campaña _Jutangas no muertas, Benz-Ceremos_, la cual ha contado con el patrocinio de la compañera Mercedes, ciudadana alemana, filántropa y cederista.
 
 La campaña va más allá de la defensa a la jutanga, aboga por el uso de juguetes sencillos (que no requieran el sacrificio de jutangas para su confección) y la reivindicación del acento _portorriqueño_ como parte del acervo cultural. Aunque las buenas intenciones son evidentes, las encuestadoras tutanas han recompilado al menos 62 mil razones por la que ha sido rechazada por la opinión pública. Bueno, “rechazar” parece una palabra muy fuerte, diría este cronista. Más bien ha suscitado una ola burlesca lo cual, una vez más, vendría a dejar mejor parada a la campaña contrincante. 

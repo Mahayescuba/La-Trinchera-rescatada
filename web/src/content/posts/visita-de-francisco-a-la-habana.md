@@ -17,15 +17,11 @@ En ocasiones me pregunto por qué nosotros, pero, al repasar la foto y ver la al
 
 La Iglesia católica siempre me ha dado la posibilidad de conocer a personas maravillosas. El equipo de Pastoral Juvenil de La Habana, en ese 2015, éramos una familia. La preparación de la visita del Papa Francisco fue un esfuerzo gigante. Hoy, al repasar cada momento, siento que cada minuto invertido valió la pena. Como en todo proyecto humano, hubo momentos de tensión; ¡bien lo sabremos los que nos reuníamos con el fallecido cardenal Jaime Ortega en el arzobispado de La Habana!  Planes que ya estaban amarrados, de pronto se caían, pero Dios nos dijo: “Ánimo, camina, yo estoy aquí junto a ustedes.”
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/iglesia-y-tolerancia/
-
 También puede interesar
 
 El tiempo no me robará esos recuerdos que cambiaron la vida de más de un joven cubano; [Francisco](/opinion/) nos pidió mirar con ese “ojo de vidrio” esperanzador nuestra realidad y construir desde la amistad social nuestro futuro, palabras que conservan plena vigencia.
 
 En estos días espero volver a ver por las redes sociales, el abrazo de Reglita, una joven humilde de la Iglesia de “Los Quemados”, [Marianao](https://es.wikipedia.org/wiki/Marianao_\(La_Habana\)), al Papa; quizás duró un minuto, pero ella lo tendrá grabado en su corazón toda la vida.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/cardenal-de-la-habana/
 
 El P. Eloy, cuando pase por la Nunciatura, debe sentirse emocionado, pues logró movilizar a unos jóvenes delirantes de alegría para solicitar al sumo pontífice que recogiera un presente criollo, Ronal Viñas, joven líder de una capillita en Alta Habana, se lo entregó y su rostro lleno de lágrimas de alegría, significaba la consecución de un sueño.
 

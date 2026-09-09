@@ -15,8 +15,6 @@ Arminta “Minty” Ross, recorrió 150 km, sola, a pie —declaró que en compa
 
 Harriet fue una de las más audaces líderes del Tren Subterráneo, misión con la que liberó a más de 70 personas entre 1849 y 1860. Después de la abolición dedicó sus energías a la lucha sufragista en favor de los negros y las mujeres.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/desestructurar-el-racismo/
-
 He aprendido a valorar —como me enseñó el propio cine— a aquel importante porque habla de la gente, porque porta una fuerza transformadora reconocida como fe, nuestra propia fuerza heredada de quienes nos antecedieron. Hasta hoy la lucha de Harriet Tubman no ha concluido, aún persiste el odio y nuevas formas de esclavitud siguen atando a los humanos a otra más vil, disfrazada de libertad plena, capaz de anular el sentido común, portadora  de la Ley del Yoísmo —permitáseme el término.
 
 La [productora Perfect World](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj7p_DLo6PvAhXgAp0JHb20AyEQFjAAegQIBBAD&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPerfect_World_Pictures&usg=AOvVaw2iH2Bo0SkHiP_5tL9uSFAM) apostó por la realización del [biopic «Harriet»](https://es.wikipedia.org/wiki/Harriet_\(pel%C3%ADcula\)), a partir del guion de Wyatt Smith, dirigido por Kessi Lemmons, para cuyo protagónico fue convocada la inglesa Cintya Frivo, excelente desempeño cargado de contención renovadora y de histrionismo en un filme que no se pierde en recrear las ya conocidas escenas de malos tratos, y apuesta más por mostrar sus efectos, la huella que deja la omisión y todas la formas de violencia ejercidas con la esclavitud.

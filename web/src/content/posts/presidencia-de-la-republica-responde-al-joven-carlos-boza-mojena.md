@@ -5,8 +5,6 @@ author: ""
 category: "Noticias"
 image: ""
 ---
-Presidencia de la República responde al joven Carlos Boza Mojena y atenderá su queja por el sistema de atención a la población.
-
 **Por: Giordan Rodríguez Milanés**
 
 Presidencia de la República responde al joven [Carlos Boza Mojena](/politica-en-cuba/) y atenderá su queja por el sistema de atención a la población.  

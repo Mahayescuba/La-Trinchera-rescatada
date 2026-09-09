@@ -9,8 +9,6 @@ Ver llover tiene su lado hermoso. Sin embargo, cuando algunos cuentan la inundac
 
 En La Habana, la imagen de la bahía es digna de ver y disfrutar. De alguna forma ese antiguo paisaje citadino es capaz de ofrecer algunos momentos de paz. Se han hecho esfuerzos por dinamizar los entornos constructivos del país. Los que viajan a Santiago de Cuba disfrutan con el rejuvenecimiento de esa ciudad; Cienfuegos es también un ejemplo coherente de educación cívica ciudadana en pos de preservar la limpieza urbanística.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-futuro-en-llamas/
-
 Sin embargo, hay decisiones que asustan. Como la de quitar algunos árboles del habanero Parque G y, en su lugar, sembrar unos falsos “adocretos” que no aportan mucha estética al paisaje. También se ha construido y deconstruido un muro frente al malecón capitalino, sin dejar tiempo a opinar. Nada, que la ciudad maravilla sufre algunas “maravillosas” ideas, como esa que ha propuesto alzar un hotel gigante en medio del Vedado, sin importar la cantidad de argumentos de arquitectos cubanos señalando los riesgos para el entorno capitalino de tamaña construcción.
 
 En Guanabacoa, cada iglesia colonial parece arrastrar sus propias heridas constructivas. Por eso, el P. Alberto, escolapio, agradece a Dios que el hueco en el techo de la iglesia parroquial, al final del templo, aún permite que los fieles puedan sentarse en un banco sin ver peligrar su vida. Desde 1959 hasta el 2018 ocurrieron en Cuba 60.975 derrumbes, según el periódico Granma. De lejos, esta cifra de mil derrumbes anuales suele esconder fríamente temas como la muerte de tres niñas en el municipio Habana Vieja, debido al desplome de un techo sobre sus vidas.

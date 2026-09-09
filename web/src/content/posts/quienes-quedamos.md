@@ -29,14 +29,6 @@ El presidente dice: “El ” o “nuestro pueblo”, como una entidad “otra�
 
 El Primer Ministro dice: “” o “nuestro pueblo”, como una entidad “otra” que le pertenece.
 
-Los ministros dicen: “El pueblo” o “nuestro pueblo”, como una entidad “otra” que les pertenece.
-
 Ahora escucho y leo a periodistas, artistas, escritores, deportistas, campesinos en esos spots televisivos acerca de “pensar como país”, y dirigentes empresariales o sindicales que también dicen: “” o “nuestro pueblo”, como una entidad “otra” que les pertenece.
 
-Se dice que los coleros, acaparadores, revendedores, bebedores sin nasobuco en los bares en tiempos de Covid y fiesteros desautorizados, afectan “al pueblo” o a “nuestro pueblo”, como una entidad “otra” que no integran.
-
-Oigo que la PNR y los trabajadores de la salud cuidan “al pueblo” o “a nuestro pueblo”, como una entidad “otra” que no integran.
-
 Me pregunto entonces: ¿Quiénes quedamos en El  o Nuestro Pueblo?
-
-¿Es acaso EL PUEBLO una entidad “otra” que sólo integran los demás que nos pertenecen?

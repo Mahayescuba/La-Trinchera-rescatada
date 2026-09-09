@@ -52,7 +52,3 @@ _MA: Nuevamente te doy las gracias por brindarme parte de tu tiempo y hacer un h
 Liliana: ¡Ay, bobo! No tienes nada que agradecer, a mi me honra saber que los jóvenes siguen mi trabajo, ya sea siendo parte de la novela o en los miles de memes que suscitaron en las redes sociales. Gracias a ti.
 
 _MA: Mis amigos y esto ha sido todo. Espero nos volvamos a encontrar para juntos conocer de los artistas de su preferencia._
-
-imaginando una entrevista a Liliana, imaginando una entrevista a Liliana, imaginando una entrevista a Liliana, imaginando una entrevista a Liliana
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/rockanrollear-anckla/

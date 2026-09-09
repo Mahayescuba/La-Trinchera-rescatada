@@ -9,10 +9,6 @@ Lo que debo hacer.
 
 **Por: [Pablo Dussac](https://www.linkedin.com/in/pablo-dussac-4a3987146)**
 
-Los ancianos que dirigían  
-el país gritaban con roña:  
-¡Vete, exiliado, traidor, falso patriota!
-
 Los jóvenes de la comuna  
 vociferaban de buena fe:  
 ¡Sálvate, no seas patriota, esto no da más!

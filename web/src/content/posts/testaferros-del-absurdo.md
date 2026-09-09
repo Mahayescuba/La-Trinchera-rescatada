@@ -9,20 +9,6 @@ Absurdo.
 
 **Por: Pablo Dussac**
 
-No hay peor sensación,  
-ni angustia,  
-ni dudas sobre el sentido  
-de la vida,  
-ni llanto sin lágrimas,  
-ni pecho sin latidos,  
-ni anhelo,  
-ni frustración,  
-que la del poeta  
-cuando siente algo  
-y no tiene dónde apuntarlo.  
-Quienes no sienten eso,  
-son testaferros de lo absurdo.
-
 Quienes gritan que son el todo,  
 el poema definitivo,  
 que escriben de todo,  

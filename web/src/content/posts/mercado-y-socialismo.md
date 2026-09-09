@@ -5,8 +5,6 @@ author: ""
 category: "Economía Política"
 image: ""
 ---
-Pero ya que todo esto va del socialismo, y no precisamente del mercado, creo que lo mejor es dejar claro de qué estamos hablando.
-
 Fotografía: Wendy Pérez Bereijo
 
 **Por: Miguel Alejandro Hayes**

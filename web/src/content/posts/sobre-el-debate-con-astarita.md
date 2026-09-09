@@ -5,8 +5,6 @@ author: ""
 category: "Economía Política"
 image: ""
 ---
-_Acabo de leer de un tirón y releer otra vez tu contrarréplica a Rolando Astarita en torno al contenido del valor._
-
 **Por: Iramís Rosique**
 
 ### En respuesta al artículo de Miguel Alejandro Hayes que polemiza con Rolando Astarita

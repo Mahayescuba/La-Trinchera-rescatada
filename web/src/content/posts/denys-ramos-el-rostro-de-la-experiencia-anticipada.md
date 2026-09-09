@@ -28,5 +28,3 @@ MA: Dejando de lado la novela por un rato el público siempre te identificará c
 Denys: Ufff, Shidarta marcó un antes y un después en mí, me introduje en el mundo del [budismo](https://es.wikipedia.org/wiki/Buda_Gautama) y la meditación, le cogí el gusto a no bañarme producto de la iniciación en el mundo hippie. Además de que gracias a ese personaje pude montar patineta por primera vez y dejarme el pelo largo, gracias a Dios no tengo que hacerme keratina porque tengo el pelo lacio.
 
 FIN DE LA PRIMERA PARTE
-
-imaginando etrevista a Denys Ramos, imaginando etrevista a Denys Ramos

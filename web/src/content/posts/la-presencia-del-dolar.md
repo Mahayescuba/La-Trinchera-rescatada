@@ -17,5 +17,3 @@ Se aprecia como el dólar -electrónico- que se comienza a usar en algunas opera
 A pesar de ello, se niega tal fenómeno desde cierto discurso político oficial, entre otros motivos, por confundir la presencia de relaciones sociales con su reconocimiento jurídico; pensamiento este, que continua sobre los esquemas estalinistas, donde por decreto, por mandato, se dice qué existe, y que no.  
 Lo cierto, es que en la misma medida que se van creando proporciones de cambio alrededor de algo -físico o no-, se dan los primeros pasos para la conformación de sus funciones dinerarias. De hecho, así es como inician la creación de las relaciones de cambio que sostienen y dan curso a una moneda.  
 Aceptar la realidad que tenemos, sería el primer paso para dar con las soluciones más certeras. Nos dolarizamos en cierta medida. Hay que saberlo.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-pregunton/

@@ -11,10 +11,6 @@ _“La tradición de todas las generaciones muertas oprime como una pesadilla el
 
 K. Marx
 
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
-
 [](/matanzas-covid-varadero/)
 
 ### [Varadero no es un municipio](/matanzas-covid-varadero/)

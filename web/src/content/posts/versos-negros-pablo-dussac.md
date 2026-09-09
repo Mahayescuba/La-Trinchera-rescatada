@@ -9,11 +9,6 @@ versos negros. 
 
 **Por: Pablo Dussac**
 
-Yo sé de un color  
-Similar a la sombra,  
-Que la historia ignoró  
-Cuando se unió y se rebeló.
-
 Provengo de ese color,  
 Que como raíz en tierra,  
 Venas en mi antebrazo  

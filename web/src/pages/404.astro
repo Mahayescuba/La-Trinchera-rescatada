@@ -1,0 +1,23 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Página no encontrada" description="La página que buscas no existe en el archivo de La Trinchera.">
+  <section class="wrap nf">
+    <p class="code">404</p>
+    <h1>Esta página no está en la trinchera</h1>
+    <p class="sub">El texto que buscas no existe o cambió de dirección. Puedes volver al inicio o buscar en el archivo.</p>
+    <p class="links">
+      <a class="btn" href="/">Ir al inicio</a>
+      <a class="btn ghost" href="/buscar/">Buscar</a>
+    </p>
+  </section>
+  <style>
+    .nf{max-width:640px;padding:4rem 1.2rem;text-align:center;min-height:55vh}
+    .nf .code{color:var(--accent);font-weight:700;letter-spacing:.2em;margin:0}
+    .nf h1{font-size:2.2rem;margin:.3em 0 .2em}
+    .nf .sub{color:var(--muted);margin:0 auto 1.6rem;max-width:460px}
+    .nf .links{display:flex;gap:.7rem;justify-content:center;flex-wrap:wrap}
+    .btn{display:inline-block;padding:.6rem 1.1rem;border-radius:8px;background:var(--accent);color:#fff;font-size:.9rem}
+    .btn.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+  </style>
+</Base>

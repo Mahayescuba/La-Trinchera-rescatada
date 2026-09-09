@@ -38,5 +38,3 @@ Tanto las escuelas de pensamiento económico como el género y la nacionalidad f
 Ojalá algún día podamos recuperar el carácter plural, abierto y científico de un disciplina que, cada vez más clara y dramáticamente, determina el destino de nuestras vidas.
 
 **Tomado de Contrainformación**
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/goya-y-politica/

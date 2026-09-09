@@ -11,8 +11,6 @@ La Trinchera (LT) es un proyecto editorial sin fines de lucro. Se propone ser un
 
 La propuesta de LT surge del intento de creación de un medio universitario que sirviera de plataforma de difusión a diversas variantes del [marxismo](https://es.wikipedia.org/wiki/Marxismo), diferentes del marxismo-leninismo. Luego, el alcance de sus publicaciones y temáticas comenzaron a trascender inquietudes, en materia de pensamiento, de estudiantes y profesores universitarios, así como de la difusión de diferentes modos del marxismo. Empezó así a perfilarse como un medio cuyo contenido refleja no solo cuestiones intelectuales, sino sociales, económicas, políticas, culturales y artísticas, tanto en Cuba como fuera de esta…
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/quien-financia-a-la-trinchera/
-
 [Quénes somos](/la-trinchera/)
 
 responsabilidad. responsabilidad. responsabilidad. responsabilidad.

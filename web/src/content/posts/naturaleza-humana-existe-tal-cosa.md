@@ -5,8 +5,6 @@ author: ""
 category: "Política en Cuba"
 image: "/wp-content/uploads/2020/05/Bronze.jpg"
 ---
-Lo que se le llama hoy “naturaleza humana”, con relación a la conducta, no es más que una simplificación absurda de algo mucho más complejo y profundo.
-
 **Por: Danilo Euser**
 
 Cuántas veces se ha escuchado que “los seres humanos somos así…” o “es parte de la naturaleza humana”, al hacer referencia a ciertas conductas…

@@ -17,10 +17,6 @@ La propuesta de LT surge del intento de creación de un medio universitario que 
 
 ### Política en Cuba
 
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
-
 [](/los-enemigos-del-pueblo/)
 
 ### [Los enemigos del pueblo](/los-enemigos-del-pueblo/)
@@ -64,10 +60,6 @@ La propuesta de LT surge del intento de creación de un medio universitario que 
 ### Economía en Cuba
 
 ### Entrevistas
-
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
 
 [](/conversando-con-la-fuerza-del-pensamiento-con-janos-kornai/)
 

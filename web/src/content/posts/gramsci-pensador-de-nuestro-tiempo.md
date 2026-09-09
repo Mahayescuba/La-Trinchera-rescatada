@@ -40,5 +40,3 @@ En una era de medios sociales, vídeos virales y educación superior de masas \[
 \*\* Stuart Hall (1932 – 2014) fue un teórico cultural, activista político y sociólogo marxista de origen jamaicano que vivió y trabajó en Reino Unido desde 1951.
 
 Tomado de [La patria Grande](https://lapatriagrandeenelsigloxxi.wordpress.com/2018/07/08/por-que-antonio-gramsci-es-el-pensador-marxista-de-nuestro-tiempo/)
-
-Antonio Gramsci, Antonio Gramsci, Antonio Gramsci, Antonio Gramsci

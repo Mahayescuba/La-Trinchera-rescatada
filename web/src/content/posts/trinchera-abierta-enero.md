@@ -5,8 +5,6 @@ author: ""
 category: "Trinchera Abierta"
 image: ""
 ---
-Este jueves 24 de enero, tendremos nuestro habitual encuentro **Trinchera Abierta**. Esta vez, debatiremos sobre Dialéctica y estructuralismo.
-
 Esperamos sea de su interés ser parte de esta experiencia.
 
 La cita será en MEPLA, 13 entre D y E, Vedado.

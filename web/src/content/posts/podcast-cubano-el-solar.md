@@ -22,10 +22,6 @@ _El Solar es mi podcast de la Metatranca. Soy Miguel Alejandro Hayes, me especia
 
 * * *
 
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
-
 [](/los-disparates-tambien-son-verdad/)
 
 ### [Los disparates también son verdad](/los-disparates-tambien-son-verdad/)

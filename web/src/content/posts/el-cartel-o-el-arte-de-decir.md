@@ -13,8 +13,6 @@ Si llevamos esto al cartel de [Cubadebate](https://www.facebook.com/cubadebate/)
 
 Su autor no es un autor (en mayúscula) de un ensayo u obra científica no superada, que exige del selecto grupo de lectores su esfuerzo y profundización de la ciencia para comprender la obra. El cartel es una obra de gran alcance, rápido, directo. Por esta misma razón, por su impacto, es que debe juzgarse. Se trata de juzgar al emisor (como figura lógica) con respecto a lo logrado en el receptor.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/meme-y-racismo/
-
 Si un cartel no logra el resultado esperado, el responsable es, entonces, el que lo creó. Para el caso del cartel en cuestión, su impacto depende de cómo se interpreta la alusión a la zafra de los 10 millones.
 
 Desde el punto de vista de los hechos, la zafra fue un desastre. Marcó una fractura de las capacidades productivas del país y un desajuste que costó mucho. Fue un punto de inflexión. En buen cubano, esa zafra partió el país en dos.

@@ -9,12 +9,6 @@ marcha del poema combatiente.
 
 **Por: Pablo Dussac**
 
-¡A la marcha del poema combatiente!  
-Batiendo banderitas blancas,  
-Como las rimas de sus consignas.  
-Todas las palabras forman versos en cadenas,  
-Impenetrables.
-
 La libertad se defiende a estrofas sin métrica,  
 Contra la crítica, intención sin estésica.
 

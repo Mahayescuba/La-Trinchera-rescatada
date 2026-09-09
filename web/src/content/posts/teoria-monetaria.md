@@ -17,10 +17,6 @@ Estudiar el dinero respecto a sí mismo es un trabajo que termina donde se estab
 
 En pocas palabras, la teoría monetaria, entendida como la ontología del dinero, consiste en la comprensión de este en cuánto su fundamento. El estudio del dinero _per se_ es tan solo la aplicación a un contexto económico de un fundamento semiótico al signo de la relación de cambio (valor).
 
-La concreción de una teoría monetaria, cual la verdad del ser, su esencia, solo se alcanza al comprender el sistema económico del cual el dinero es dinero.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/fetichismo-mercantil-economia-cubana/
-
 También puede interesar
 
 La respuesta al problema monetario (cambiario) en Cuba, en cuanto a ejercicio lógico, llevaría entonces pensar y modelar la estructura económica deseada, de ahí las proporciones de cambio necesarios que le sean orgánicos a dicha estructura, y de ahí la confirmación de una identidad estable, expresión de aquellas proporciones (que se llama dinero).

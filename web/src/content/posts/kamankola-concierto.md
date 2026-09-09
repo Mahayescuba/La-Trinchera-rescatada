@@ -5,8 +5,6 @@ author: ""
 category: "Cultura"
 image: ""
 ---
-Era un tal _Kamankola_. Ni idea. Un _loco_ ahí que me cuadró lo que cantaba.
-
 **Por: Miguel Alejandro Hayes**
 
 Hace unos días, asistí a un concierto de Kamankola. Mientras esperaba, escribí estas notas. Acá las comparto.

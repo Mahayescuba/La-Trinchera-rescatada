@@ -19,8 +19,6 @@ Respondiendo a tu pregunta, tanto tiempo viviendo solo en el bosque me ha hecho 
 
 A ver, preferiría que te ahorrases expresiones como lindas patitas. Yo soy un mamífero adulto, al igual que tú, y exijo que se me trate con respeto. Las comillas se deben a que no me gusta usar el término raza. Los perros somos cánidos, subespecie de los lobos. Como nuestra existencia se debe a la selección artificial, los humanos decidieron dividirnos en razas, esa división es uno de los grandes problemas de la historia canina. Desde luego que existen diferencias genéticas entre los perros del mundo, pero para luchar por nuestros derechos tenemos que alejarnos de esa clase de etiquetas exclusivistas. 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/cuba-y-sus-lobos-esteparios/
-
 **\-¿Luchar por tus derechos? ¿A qué clase de derechos te refieres?**
 
 Yo soy ecosocialista e independentista, y se podría decir que tengo mis tendencias neoludistas. Creo firmemente en la desdomesticación de mi especie. Ojo, esto no implica el fin de la antigua cooperación humano – perro. Pero la absurda dependencia de nosotros hacia ustedes no puede continuar, especialmente cuando se sabe que los perros podemos trabajar por nuestro sustento, ejemplos sobran. 
@@ -57,6 +55,4 @@ Me gustaría terminar con una frase de Tocqueville que no se pone vieja:
 
 _Habría amado la libertad, creo yo, en cualquier época, pero en los tiempos en que estamos me siento inclinado a adorarla_.  
 
-Se incorporó todavía saboreando la cita que me había lanzado a quemarropa. Y yo, he de admitirlo, estaba encandilado con la personalidad de Darwin… ¿los perros tienen personalidad? Es evidente que sí, ¡Sí!, los perros tienen personalidad. Entonces se adentró en el bosque con la soltura de un perro libre. Todavía puedo ver su forma de estatua desdibujarse entre la vegetación. Por un momento, me pareció ver un lobo. 
-
-revolución canina, revolución canina, revolución canina, revolución canina, revolución canina, revolución canina
+Se incorporó todavía saboreando la cita que me había lanzado a quemarropa. Y yo, he de admitirlo, estaba encandilado con la personalidad de Darwin… ¿los perros tienen personalidad? Es evidente que sí, ¡Sí!, los perros tienen personalidad. Entonces se adentró en el bosque con la soltura de un perro libre. Todavía puedo ver su forma de estatua desdibujarse entre la vegetación. Por un momento, me pareció ver un lobo.

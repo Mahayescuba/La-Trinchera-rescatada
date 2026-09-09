@@ -5,8 +5,6 @@ author: ""
 category: "Economía Política"
 image: "/wp-content/uploads/2018/04/5a0100da3fa88.jpeg"
 ---
-La teoría de Marx del dinero, permitía exponer cómo esa función se inició en mercancías y no niega, sino que deja abierta una puerta para entender que la forma dinero irá más allá de las mercancías en la medida que estas dejen de ser funcionales a la necesidad de la existencia del dinero.
-
 Por:  **Miguel Alejandro Hayes Martínez**
 
 **El mito del predominio del mercado asociado al concepto de dinero**

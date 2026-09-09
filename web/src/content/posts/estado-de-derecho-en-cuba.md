@@ -9,8 +9,6 @@ Vencido ya el plazo de 18 meses dado por mandato constitucional para presentar l
 
 Los últimos dos años, en los que la Constitución ha desaparecido del discurso político por completo, y los hechos, actuaciones, omisiones y presuntas violaciones de derechos, libertades y garantías constitucionales en que se ha visto involucrada una parte de las instituciones cubanas, son una poderosa señal de que la resistencia a la eficacia y desarrollo del Estado de Derecho en Cuba forma parte de algo más que de una enraizada cultura de la arbitrariedad y del libre ejercicio del poder.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/los-sujetos-en-la-continuidad/
-
 Ninguna agresión del enemigo justifica se aplace o secuestre, se paralice, el Estado de Derecho y la Constitución. De hecho, la plena soberanía nacional de los mecanismos de dominación del gobierno de los Estados Unidos, fue disputada y obtenida tempranamente pese a ella.
 
 Nuestros servidores públicos -eso son, por más que promuevan la cultura y prácticas del súbdito como el modelo deseable para la sociedad cubana- deberían recordar que la mayoría que aprobó la [Constitución](http://www.cubadebate.cu/cuba/constitucion-republica-cuba/) sabrá, llegado el momento, exigir se le respete. Porque esa fue su decisión. 

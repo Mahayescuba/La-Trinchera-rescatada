@@ -5,8 +5,6 @@ author: ""
 category: "Política en Cuba"
 image: ""
 ---
-Cuesta pensar como país cuando se duplicó la cifra total de visitantes foráneos y el florecimiento del sector privado y las reservas de los hoteles -en época del apogeo de [las relaciones Cuba-EUA](https://es.wikipedia.org/wiki/Relaciones_diplomáticas_entre_Cuba_y_Estados_Unidos)\-, y no aumentó el poder adquisitivo de forma perceptible a la economía del hogar.
-
 **Por: Miguel Alejandro Hayes**
 
 > II

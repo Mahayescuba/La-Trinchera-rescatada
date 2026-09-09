@@ -25,8 +25,6 @@ Desde lo brutal de la _dictadura_ hasta el casi romántico [democracia de par
 
 En otros tiempos hubiera abrazado la tesis del totalitarismo tropical, pero en honor a la verdad tampoco lo veo tan así. Es propio de regímenes totalitarios -aterrizado este análisis al modelo de totalitarismo del antiguo campo socialista- que el Estado y Partido se fusionen y  engullan a la sociedad civil en su conjunto. Todos los aspectos de la vida social se corporativizan, se les da una _institucionalidad revolucionaria_ (desde la causa sindical hasta la reivindicación de los derechos de la mujer, y más recientemente -no sin cierta renuencia por parte del sector más conservador del establishment-, la causa LGBTIQ+, de modo que todo quede engullido por el sistema.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/las-culpas-de-mi-hermano-el-vago/
-
 De los setenta en adelante, Cuba encajó en esta descripción. El descalabro económico post 91, sumado a las contradicciones intrínsecas del sistema, rompieron definitivamente ese molde. La retórica oficialista ha cambiado incluso: ya hablan de representar “mayorías” y no al cien por ciento del pueblo -término tan inferior siempre a lo empoderador de decir _ciudadano_\-, pero no ceden espacio a _los otros_.
 
 Si bien es cierto que el Estado/Partido no reconoce abiertamente a ese sector de la sociedad que no se identifica con la estructura actual, no lo hacen desaparecer -y no me refiero solo a la disidencia tradicional, a la que de haberlo querido, hubieran sacado de la ecuación montando a sus principales exponentes en un avión y listo- incluyo también a la “neodisidencia”, la propia de esta _terceravía_ de la que hablaré más adelante.
@@ -103,8 +101,6 @@ La multiplicidad cambiaria es uno de ellos, y creo que cualquier gobierno que se
 
 O sea que el gobierno tendría que ceder espacios de poder, y eso dudo mucho que lo hagan. La tan socorrida frase nos viene como anillo al dedo: “lo que le pasa al país es que la solución está en manos del problema”. Entonces, las medidas de sinceramiento económico -como la actual unificación cambiaria y el desmantelamiento parcial del sistema de subsidios- sin estar acompañadas de una adecuada liberación de las fuerzas productivas, redundarían en beneficio exclusivo de la casta gobernante, aquella que lucra a través de GAESA o que puede sortear las “formalidades” administrativas gracias a la correspondiente red clientelar.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/tan-solo-una-opinion-personal/
-
 En resumen: se avanza hacia la consolidación de un modelo de capitalismo periférico y salvaje, a imagen y semejanza del que abunda en Centroamérica, y se mantiene la estructura estatal actual o alguna variante autoritaria. 
 
 Si la élite gobernante decidiera emprender reformas políticas en el contexto al que antes hacía referencia, nada cambiaría en lo sustancial. Tendríamos en nuestro país lo peor de ambos mundos: poco en materia de derechos económicos y sociales -por ser “paternalistas”- ni de derechos civiles y políticos por atentar contra la hegemonía del _establishment_ y ser la punta de lanza del _enemigo_.
@@ -121,7 +117,7 @@ Al contrario, y los hechos recientes lo demuestran, pero antes pongámonos en co
 
 Díaz Canel y los _continuistas_ recibieron de manos de Raúl Castro un proyecto desgastado por el implacable paso del tiempo y la adversidad económica. La nueva generación en el poder ha dado señales claras de querer mantener, al menos por ahora, una línea ortodoxa respecto al sector no oficialista -que va desde la disidencia tradicional, la “neodisidencia” o el sector de la sociedad que prefiere mantenerse lo más apartado posible del asunto. En el actual arte independiente encontramos un ejemplo del último grupo.
 
-Esta ortodoxia de exteriorización tóxica y desfasada, implementada además en el contexto económico precario que caracteriza lo que lleva Díaz Canel de mandato, ha ido provocando un cauto descontento que finalmente tuvo su manifestación más reciente en los sucesos del pasado 27-N. No me detengo en el tema porque –[eso ya lo hice en otro momento](applewebdata://6DD49D18-3B95-4927-8221-8E5574145270/link%20del%20podcast)– pero resulta mórbidamente interesante que tanto Miami como el Comité Central se muestren inconformes con lo ocurrido. 
+Esta ortodoxia de exteriorización tóxica y desfasada, implementada además en el contexto económico precario que caracteriza lo que lleva Díaz Canel de mandato, ha ido provocando un cauto descontento que finalmente tuvo su manifestación más reciente en los sucesos del pasado 27-N. No me detengo en el tema porque –eso ya lo hice en otro momento– pero resulta mórbidamente interesante que tanto Miami como el Comité Central se muestren inconformes con lo ocurrido. 
 
 No estoy al tanto de los vínculos del MSI con Miami, pero no sé por qué los asocio. Cualquiera sea el caso, el MSI se desligó de lo acordado en el MINCULT y medios oficiales no tardaron 24 horas en iniciar una campaña de desinformación y calumnia respecto a lo ocurrido el 27N, que sumado a lo ocurrido posteriormente dieran al traste con la promesa de diálogo acordada.
 

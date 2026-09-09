@@ -16,7 +16,3 @@ En medio de esta realidad del siglo XXI, la Iglesia debe hacerse presente y most
 Durante mucho tiempo hemos aprendido a vivir como la Iglesia del silencio. Pero debemos comprender y desarmar la antinomia sembrada entre Iglesia y política en general. Para el católico, la fe debe asumir también una responsabilidad con respecto al mundo que lo rodea. Hoy, con mayor fuerza que nunca, es importante hablar con el ejemplo. No podemos escribir o twitear sobre los _pobres_ cuando nunca hemos tocado esa realidad. La espiritualidad no puede ser sólo para encerrarla en nuestras mentes, debe pasar por el corazón y abrirse al mundo, vencer nuestra auto-referencialidad. 
 
 Una clave importante es la búsqueda de colaboración desde la coherencia. Una vez le pregunté a un muchacho, mientras repartíamos alimentos en la Habana Vieja, si él era de la Iglesia. Me dijo: _Qué va, soy de la Juventud y toda mi familia es atea, pero aunque no lo digo muy alto, creo que ayudar en este servicio de San Egidio es lo mejor que hago por nuestra sociedad._
-
-papel de la Iglesia en la sociedad, papel de la Iglesia en la sociedad
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/sociedad-civil-en-cuba/

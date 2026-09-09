@@ -13,8 +13,6 @@ Algunas de ellas son los numerosos epítetos triunfalistas empleados dentro del 
 
 Otro grupo se ocupó de cargos y jefaturas, por lo que tenemos especímenes como _el general, el coronel, el comandante._ 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/cultura/chocolate-y-benny/
-
 Con un sinnúmero de grandilocuencias de todos los espacios, el terraplanismo se apoderó del reguetón. Triunfó el triunfalismo, que se considera un rasgo esencial del terraplanismo reguetonero.
 
 Casualmente, el discurso oficial cubano está lleno de triunfalismos propios del reguetón. Por solo mencionar algunos epítetos: _CDR, una organización que nació para ser eterna, el Partido es inmortal_, recientemente, _a la revolución le quedan 62 mil milenios_ (62 millones de años).

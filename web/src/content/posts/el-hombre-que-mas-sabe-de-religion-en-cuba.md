@@ -43,8 +43,6 @@ En este momento el pueblo está buscando una respuesta religiosa para sus proble
 
 Muchos imploran un milagro existencial que no es fácil ver en el horizonte, lo que no quiere decir que no pueda existir. Yo creo que puede venir algo sorprendente que pueda cambiar todo, donde no descarto los resultados de las actuales elecciones que se puedan dar en Estados Unidos y su impacto sobre Cuba. Yo diría que el cubano del siglo XXI debe aprender a dialogar con el otro y consigo mismo; si no dialogamos con los otros, incluso aquellos que no piensen como la mayoría, no le veo futuro a la necesaria reconciliación. Hay estudiosos que presagian que vivimos en el apocalipsis, el fin de la humanidad, pero según mis lecturas históricas, esto no tiene que ser necesariamente así.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/del-odio-al-amor-mi-viaje-a-la-semilla/
-
  **JP- ¿Para terminar, Enrique, ¿crees que académicamente se ha sido injusto contigo, pues nunca te han dado ningún reconocimiento y llevas más de 40 años dando clases en la Universidad de La Habana y estudiando el fenómeno religioso cubano?**
 
 **ELO –** Con respecto a mi reconocimiento académico, lo que hice y hago todavía por la formación de nuevas generaciones, es porque lo considero necesario y útil para la sociedad cubana, nunca he trabajado aspirando a nada. Te cuento que del grupo de Estudios de la Religión creado en la Universidad de La Habana en 1971, conformado por Eduardo Torres Cuevas, Aurelio Alonso y yo, disuelto en el primer congreso del partido en 1975, donde yo atendía Iglesia católica, los otros dos amigos son premios nacionales y a mí, bueno, de seguro me absolverá la Historia.

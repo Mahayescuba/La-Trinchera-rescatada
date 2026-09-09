@@ -21,5 +21,3 @@ c. ¿Hace referencia a un medio de comunicación? Entra a la página web de ese 
 9- Piensa en números: ¿la noticia cita cifras de investigaciones o de otros datos? Búscalos para ver si tiene sentido.
 
 Recomendación de la BBC Noticia falsa. Noticia falsa.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/la-virtud-de-existir/

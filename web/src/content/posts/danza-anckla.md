@@ -9,8 +9,6 @@ Danza. danza. 
 
 **Por: Anckla**
 
-Salió con la marea alta, en medio de la oscuridad, empujando de de la orilla su balsa de cámara y su red, frente a un cielo raso de nubes densas que se mezclaban con el horizonte. Hacia frío. El mar, tranquilo, le dejó entrar por las corrientes, con los remos caídos. Un silencio, hueco.
-
 Sin lunas, ni estrellas, ni luz.  
 Él se aleja.  
 Por debajo de la oscuridad y el silencio, él se aleja.  

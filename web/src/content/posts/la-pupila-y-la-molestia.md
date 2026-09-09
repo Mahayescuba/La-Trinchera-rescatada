@@ -5,8 +5,6 @@ author: ""
 category: "Política en Cuba"
 image: ""
 ---
-_En la Cuba de hoy, o de ayer, nos encontramos con el programa televisivo La Pupila asombrada y la presentación de Celia Cruz. Magnífico._
-
 **Por: Miguel Alejandro Hayes**
 
 Si bien ante la ley los derechos nos deben igualar, para la subjetividad social no tiene que ser el caso. Ante ella, si de derecho se trata, no debe discriminarse, sino valorar a todos los sujetos de derecho por igual. Pero en el plano de lo moral, la jerarquización, la legitimidad, la capacidad, el desacuerdo, el pasado, lo simbólico, no lo son para todos por igual. Porque la desigualdad es también un derecho, dijo Marx. Es un derecho estudiar, por ejemplo, pero no lo es el ser premiado cuando no se cumplen las normas mínimas en dicha enseñanza. Se tiene derecho a las mismas normas, a las mismas reglas de juego, pero no al mismo resultado, aún habiéndolas cumplido.

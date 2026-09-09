@@ -5,8 +5,6 @@ author: ""
 category: "Política"
 image: ""
 ---
-Trump ha provocado un creciente aislamiento de EEUU con sus aliados tradicionales y ha generado vacíos en política exterior que están siendo llenados por China, especialmente en América Latina.
-
 **Por: Carmelo Mesa-Lago**
 
 Elementos cardinales para poder entender la política exterior de Donald Trump son: su egocentrismo, la expansión de sus negocios y el cultivo de su base política para satisfacer a los otros dos elementos y mantenerse en el poder. Trump es un constante abusador que apabulla a quien lo critica, a quien es débil o competidor. Por el contrario, es sumiso con líderes autoritarios, especialmente si tienen información comprometedora en su contra o pueden darle cobertura mediática universal. Agreguemos su vasta ignorancia sobre cuestiones científicas y globales, su incapacidad de concentrarse mucho tiempo en un asunto importante, el desdeño por lo intelectual, la mentira consuetudinaria, así como su perfil autoritario, racismo, corrupción financiera y sexual, arrogancia y narcicismo. Bajo este prisma, su lema “América primero” se convierte en “Trump primero”.

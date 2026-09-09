@@ -35,8 +35,6 @@ Quitándole las sombras existenciales y mundanas, en esa etapa conocí a muchos 
 
 Creo que tenía grandes sueños en esa etapa, y ahora los pequeños. Mis pequeños sueños, los que me mantenían, eran esperar cada año a la reunión que hacía toda la familia en el campo (bueno, que ellos no se enteren que dije campo).  Mis pequeños sueños eran la música, escribir poesía. 
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/cultura/paco-my-friend/
-
 Por otro lado, mis sueños grandes no eran una meta, sino estar inmerso en actividades con personas de bien: familia, amigos. Claro, esto lo comprendí después. Era una especie de sueños de tal inmediatez que los soñaba para vivirlos, o mientras los vivía los soñaba, no me hagas caso. 
 
 Siempre está acompañándome mi cuestionamiento a todo y, no sé, porque esa idea no la separo de mis sueños (seguro eran parte de ellos y no lo puedo recordar). Como dice el Gabo, es lo que se recuerda para contarlo. De hecho, Chile, no me creerías si te digo que hay cosas que ahora soy capaz de explicar teóricamente, pero que las tengo en la cabeza desde la adolescencia. Así que en este enredo debe haber un sueño implícito: y debe ser (perdona que no lo clasifique en tu escala de tamaño) que con la lectura a los amigos que te mencionaba antes, vivo queriendo aprender. Tenía muchas inquietudes. Ese pequeño proceso de conocer, ahí está la cuestión. Logré descifrarlo: conocer era parte de los pequeños.
@@ -82,8 +80,6 @@ Le agrego el acceso a la información, que es de las mejores cosas de las nuevas
 **Lideras el blog La Trinchera, los encuentros Trinchera Abierta y el podcast El Solar, ¿cuál es la propuesta de estos espacios de comunicación que lideras? ¿Cómo los asumes?**
 
 La propuesta se ha ido redefiniendo en la marcha. La Trinchera creo que ya tiene una línea hecha. El Solar está cogiéndolas por el camino.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/cultura/la-trinchera-en-el-aula/
 
 Me gusta pensar que La Trinchera es el intento de construir un espacio abierto. Cualquier punto de vista es válido, siempre que se exponga con cierta seriedad y responsabilidad por parte del autor. Actualmente LT es un pequeño espacio para dar voz a pequeños discursos, si de hegemonía comunicacional se trata. Aunque confío en el talento y las capacidades intelectuales y creativas de cada uno de los colaboradores del blog, la mayoría mantenemos eso que se le pudiera llamar perfil bajo (insisto, eso a pesar de la buena preparación y talento de la mayoría). Yo me pongo más contento cuando recibo textos de personas que no son famosas o tienen un nombre hecho, que cuando son más mediáticos. También cuando alguien que nunca ha publicado nada, envía un texto. Entonces, ahora esa es la propuesta en LT, ofrecer pequeños discursos, en lo académico, en lo intelectual, en lo artístico.
 

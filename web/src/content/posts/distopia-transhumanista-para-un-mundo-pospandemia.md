@@ -17,8 +17,6 @@ De ahí que piensen, que a través de la inteligencia artificial, nanotecnologí
 
 Por ello, que este contexto de pandemia por el Covid-19, sea visto como una oportunidad y no una amenaza para este discurso, ya que el desarrollo de la inteligencia artificial y big data se han usado para elaborar diferentes software y app que han permitido detectar este nuevo virus y estudiar su comportamiento.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica/el-producto-de-las-redes-sociales/
-
 Se podrá decir que estas nuevas biotecnologías han aportado a la prevención y diagnóstico del Covid-19, desde un punto de vista médico. No obstante, esto ha ido acompañado de nuevas formas de control político y económico, a través de nuevos algoritmos y chips, producidos por grandes empresas de inteligencia artificial, provenientes de Silicon Valley y de China, como lo son Alphabet, Apple, Facebook, Amazon, Microsoft, Banjo. DJI, IBM y Alibaba, las cuales están almacenando millones de datos de las personas.
 
 Asimismo, al poner el foco en _vencer al Covid 19_, lo que se hace es invisibilizar las causas estructurales de fondo de las grandes pandemias, las cuales tienen relación con un proceso histórico de colonización al mundo de la vida, exacerbado con la hegemonía de la civilización occidental, la cual desde la revolución industrial en adelante, ha generado condiciones mucho mas favorables para la liberación de patógenos, a través de la desforestación, el tráfico animal, la pérdida de biodiversidad y el desarrollo de la agroindustria intensiva.

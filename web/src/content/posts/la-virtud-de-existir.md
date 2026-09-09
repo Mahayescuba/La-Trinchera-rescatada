@@ -5,8 +5,6 @@ author: ""
 category: "Política en Cuba"
 image: ""
 ---
-En espera de los datos estadísticos que aclaren la duda, queda entonces solo la impresión de una participación joven mayoritaria en la tuitosfera cubana, ciertamente comprometida con las decisiones que conciernen su futuro.
-
 **Por: Ana Barnes**
 
 El otro día, en medio de una conversación con un amigo, solté una frase sobre [Twitter](https://twitter.com/?lang=ES) que llamó su atención. Dije que esta red, ideada para ser utilizada como transmisor de informaciones cortas a muchas personas al mismo tiempo, y no para dialogar particularmente, en el contexto de la aldea cubana derivaba a veces en largas conversaciones entre dos personas, en un alarde de exhibicionismo psicosocial no exento de pasiones, pero casi siempre alrededor de temas de la actualidad política nacional.

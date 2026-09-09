@@ -5,8 +5,6 @@ author: ""
 category: "Política en Cuba"
 image: ""
 ---
-La inmovilidad en la red de organizaciones de masas cubanas ha sido tal que no ha podido asimilar un proceso espontáneo, legítimo y cada vez más visible como el movimiento por los derechos de los animales.
-
 **Por: Carlos Ávila Villamar**
 
 Las organizaciones de masas cubanas se encuentran en crisis. Los CDR no captan el interés de nadie menor de cuarenta años. La UJC es un nido de oportunismo, hipocresía y despilfarro. La FEU a menudo se comporta como una empresa organizadora de eventos, que pone los extras a cuanta marcha se les ocurra a los líderes de la UJC, para justificar que se está haciendo trabajo ideológico. La FMC es tan invisible e inútil como la CTC, con la peculiaridad de solo estar integrada por mujeres. El PCC se llama a sí mismo comunista, sin embargo la única base comunista que posee el noventa por ciento de sus miembros será algún manual soviético leído durante la enseñanza media hace siglos.

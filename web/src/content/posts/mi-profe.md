@@ -5,8 +5,6 @@ author: ""
 category: "Onírica"
 image: ""
 ---
-_Mi profe, mi extremo de la cuerda que se enreda por el mundo._
-
 **Por: Day Cordero**
 
 A ti romano, a ti te cuento mis sueños más estúpidos antes de que se me olviden.

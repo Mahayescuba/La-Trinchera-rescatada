@@ -17,8 +17,6 @@ Ese es nuestro adir (cubano). Pero hay que pelear, incluso con cada palabra, con
 
 ¿Cuánta complicidad nuestra -de cada uno de nosotros-  será suficiente para ello? ¿Cuán culpables seremos nosotros todos mañana por lo que hoy justificamos, -nos justificamos- apelando al olvido rápido, a lo banal, a la otredad y al silencio? No hay dignidad posible en ello.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/revendedores-en-cuba/
-
 También puede interesar
 
 ¿Cuándo fue la última vez en este país que alguien asumió públicamente o ante los suyos -cada uno de nosotros-, la responsabilidad por el fracaso o el error?
@@ -28,8 +26,6 @@ También puede interesar
 No importa que sea uno mínimo, o mayúsculo, pero que diga -digamos- lo hice mal, no sé cómo lograrlo, no lo he conseguido, y lo admita -les he fallado, se dice- aunque sea para que podamos entre todos darle otra oportunidad, o busquemos – no es fácil encontrar-, o podamos elegir – no es fácil seleccionar– a un relojero serio, a un carpintero puntual y fino, a un zapatero meticuloso, a un albañil organizado y tenaz, a otro lector de tabaqueria, a otro administrador, a otro ministro, a otro político, a un carnicero cabal.
 
 ¿Cuándo se volvió un problema que un hombre o una mujer pensara diferente? ¿Cuándo la pobreza, la mentira, los cuartos hacinados, la hipocresía, el tener que escoger cuál medicamento comprar por falta de dinero, la desigual distribución de la riqueza, la injusticia, la necesidad de viviendas dignas, el llanto de impotencia y soledad de nuestros ancianos, el egoísmo, las escuelas de libros, pupitres y pizarras rotas y viejas, los hospitales sucios y despintados, los privilegios, los niños sin juguetes, la insensibilidad, las carreteras abiertas y quebradas, la pleitesía al poderoso siempre, el estar en desventaja por negro, por obrero, por campesino, por no ser hijo de, por maricón, por mujer, por oriental, por no ser ladrón, la indigencia, la corrupción administrativa, el desempleo, la indiferencia, el racismo, el individualismo, la corrupción política, el tener miedo a decir la verdad -la tuya, o la del otro-, el tráfico de influencias y de poder, de impunidad, dejaron de ser nuestros problemas reales para que ahora el pensar diferente, la honestidad de una mujer – o un hombre- común y corriente lo sea?
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/la-foto/
 
 También puede interesar
 

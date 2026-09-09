@@ -23,8 +23,6 @@ Esto acompaña la idea de lo que Marx pensaba del socialismo. En un momento de e
 
 _“…los economistas han venido demostrando, desde hace cincuenta años y aún más, que el socialismo no puede acabar con la miseria, determinada por la misma naturaleza, sino sólo generalizarla, repartirla por igual sobre toda la superficie de la sociedad.”(3 pág. 19)_
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/marxismo/marxismo-y-socialismo-utopico/
-
 Todo esto puede quedar como una mera especulación y, quién sabe, pudiera parecer que sólo está criticando las prácticas socialistas, y que en realidad tenía todo un proyecto socialista en mente para la clase obrera diferente al de sus contemporáneos. Me gustaría que eso fuera cierto. Así, nosotros, la izquierda, nos habríamos ahorrado tanta utopía en la mesa de los programas políticos.
 
 Desgraciadamente no fue así. Lo más parecido a un programa político dejado por Marx es su crítica al Programa de Gotha (Glosas Marginales al Programa del Partido Obrero Alemán). Aquí sólo vaticina que se comenzará el tránsito a la sociedad comunista con el inicio de un estado en el que domine la dictadura del proletariado. Sin embargo, no habla en ningún momento de cuáles serán las condiciones que gestarán ese proceso. Se puede revisar con detenimiento ese texto, pero es imposible que el hombre que quería marcar una línea (y lo hizo) entre sus ideas y los socialistas, alegando lo poco materialista que eran estas, de pronto hablara de un proyecto social basado en el socialismo.

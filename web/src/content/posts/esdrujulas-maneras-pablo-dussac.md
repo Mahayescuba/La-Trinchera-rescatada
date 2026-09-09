@@ -9,11 +9,6 @@ Esdrújulas maneras.
 
 **Por: Pablo: Dussac**
 
-Asúmete en la cúspide  
-De estos versos intrépidos  
-Que, por céntimos de amor,  
-Dejaron de ser incrédulos.
-
 Se arriesgan al ridículo,  
 Lo insípido, banal,  
 Tránsito de íntimas imágenes  

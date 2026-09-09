@@ -17,8 +17,6 @@ Así, es común encontrarse con personas que, de una frase leída, de una pasadi
 
 Semejante proyección pudiera ser una de las tantas formas de existencia de los superfluo que caracteriza la pretendida posmodernidad de la modernidad, y lo es. Incluso puede llegar a ser inocuo, siempre que no se infiltre en los espacios de generaciones de ideas de avance social, donde ya, por desgracia, está. De hecho, se ha convertido la academia en un mecanismo reproductor de este fenómeno que acá nos ocupa.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica/la-responsabilidad-de-los-intelectuales/
-
 Los tiempos académicos obligan a reducir clásicos, autores, escuelas, paradigmas, su riqueza, a un listado de puntos, de definiciones. No solo el estrechamiento del conocimiento actúa, sino que basta con que algún ejercicio de resumir falle, que algún eslabón con el atrevido honor de resumir a algún pensador falle, para que sea indetenible la tergiversación, por los años de los años (académicos).
 
 Esa misma práctica se arrastra en la necesidad de publicación. Citas rápidas, frases para avalar. No es una decisión del académico, es una necesidad. Si no genera los productos acabados en tiempo, puede quedar atrás. Las estructuras presionan no a la lectura profunda y concienzuda, sino a la conclusión apresurada. Resultado: miles de páginas escritas sobre ideas que no se han estudiado lo suficiente.

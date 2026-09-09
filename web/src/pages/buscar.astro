@@ -8,7 +8,7 @@ const idx = posts.map(p=>({t:p.data.title,s:p.slug,c:fixCat(p.data.category),a:p
 <Base title="Buscar" description="Buscar en el archivo de La Trinchera">
   <section class="wrap search">
     <h1>Buscar</h1>
-    <input id="q" type="search" placeholder="Escribe un título, tema o autor…" autofocus />
+    <input id="q" type="search" aria-label="Buscar en el archivo" placeholder="Escribe un título, tema o autor…" autofocus />
     <p id="count" class="count"></p>
     <ul id="res"></ul>
   </section>
@@ -18,7 +18,7 @@ const idx = posts.map(p=>({t:p.data.title,s:p.slug,c:fixCat(p.data.category),a:p
     const norm = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
     const q=document.getElementById('q'), res=document.getElementById('res'), count=document.getElementById('count');
     function render(list){
-      res.innerHTML = list.slice(0,80).map(p=>`<li><a href="/${p.s}/"><h3>${p.t}</h3><p>${p.a?p.a+' · ':''}${p.c}</p></a></li>`).join('');
+      res.innerHTML = list.slice(0,80).map(p=>`<li><a href="/${p.s}/"><h2>${p.t}</h2><p>${p.a?p.a+' · ':''}${p.c}</p></a></li>`).join('');
       count.textContent = list.length ? `${list.length} resultados` : '';
     }
     q.addEventListener('input',()=>{
@@ -34,7 +34,7 @@ const idx = posts.map(p=>({t:p.data.title,s:p.slug,c:fixCat(p.data.category),a:p
     .count{color:var(--muted);font-size:.85rem;margin:.8rem 0}
     #res{list-style:none;padding:0;margin:0}
     #res li{border-top:1px solid var(--line);padding:.8rem 0}
-    #res h3{font-size:1.15rem;margin:0 0 .15em}
+    #res h2{font-size:1.15rem;margin:0 0 .15em}
     #res p{color:var(--muted);font-size:.82rem;margin:0}
   </style>
 </Base>

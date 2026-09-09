@@ -13,17 +13,15 @@ El discurso oficial culpa al bloqueo (externo) de todos, o casi todos, los incon
 
 Sin dejar de lado otros factores de innegable importancia, como los relativos a la macroeconomía o a los intereses que mueven los hilos del país, quisiera hoy detenerme en el aspecto humano que compone nuestra administración: el funcionario.
 
-¿Cómo llegan ahí? ¿Son idóneos? O mejor: ¿qué implica ser idóneo en el contexto cubano? El primer debate público respecto a la idoneidad de los servidores públicos del que tengo conocimiento, se dio en Estados Unidos[\[1\]](applewebdata://B31C40CE-848E-4E7E-BF83-1C0134868E0C#_ftn1), cuyo desenlace final concluyera con la instauración en ese país de la carrera administrativa y la prohibición al político de turno de nombrar _ad libitum_ a todos los funcionarios del Estado durante su mandato.
+¿Cómo llegan ahí? ¿Son idóneos? O mejor: ¿qué implica ser idóneo en el contexto cubano? El primer debate público respecto a la idoneidad de los servidores públicos del que tengo conocimiento, se dio en Estados Unidos\[1\], cuyo desenlace final concluyera con la instauración en ese país de la carrera administrativa y la prohibición al político de turno de nombrar _ad libitum_ a todos los funcionarios del Estado durante su mandato.
 
-En el caso cubano, la necesidad de dar a la nación una administración pública eficiente, meritocrática y posicionada por encima de las rencillas políticas del momento, llevó a la promulgación de la Ley de Servicio Civil de 1 de julio de 1909. Al amparo de la misma se creó una Comisión homónima llamada a conocer sobre las cesantías de los empleados públicos. No obstante, su impacto fue prácticamente nulo: cada vez que un nuevo partido ascendía al poder, decretaba cesantías masivas en los puestos estatales[\[2\]](applewebdata://B31C40CE-848E-4E7E-BF83-1C0134868E0C#_ftn2), con la expresa intención de colocar gente fiel -“idóneas” le diríamos hoy. Fue justamente esta experiencia la que llevó a los constituyentes de 1940 a elevar a rango constitucional las bases para implementar una efectiva profesionalización de la administración pública y las garantías para hacer efectivas su inamovilidad.[\[3\]](applewebdata://B31C40CE-848E-4E7E-BF83-1C0134868E0C#_ftn3)
+En el caso cubano, la necesidad de dar a la nación una administración pública eficiente, meritocrática y posicionada por encima de las rencillas políticas del momento, llevó a la promulgación de la Ley de Servicio Civil de 1 de julio de 1909. Al amparo de la misma se creó una Comisión homónima llamada a conocer sobre las cesantías de los empleados públicos. No obstante, su impacto fue prácticamente nulo: cada vez que un nuevo partido ascendía al poder, decretaba cesantías masivas en los puestos estatales\[2\], con la expresa intención de colocar gente fiel -“idóneas” le diríamos hoy. Fue justamente esta experiencia la que llevó a los constituyentes de 1940 a elevar a rango constitucional las bases para implementar una efectiva profesionalización de la administración pública y las garantías para hacer efectivas su inamovilidad.\[3\]
 
 Por todos es conocido que la efectiva vigencia de la Carta del 40 fue endeble y breve (solo 12 años), el grueso de su articulado nunca fue implementado, y lo relativo a la carrera administrativa no fue una excepción, lamentablemente.
 
 Después de 1959, la idea de una administración meritocrática y profesional fue desechada o tildada de _burguesa,_ con todo lo que ello implicaba en la época. El clima rupturista vigente en la sociedad de aquel entonces llamó a crear una administración “popular”, que devino en el nombramiento de un ejército de burócratas alineados con el gobierno, que no hizo más que engrosar a medida que la Revolución era _institucionalizada._
 
 Ahí podría encontrarse un buen punto de partida para explicar las causas del ineficaz burocratismo del Estado cubano, no tanto en el hecho de que haya engrosado excesivamente, sino en que se nutrió (y sigue haciéndolo) de funcionarios que deben su posición más a su lealtad política que a su competencia y profesionalismo.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/nuevos-precios-y-salarios-en-cuba/
 
 Si miramos en el escenario internacional, encontramos países que se afilian a posturas más estrictamente liberales:
 
@@ -41,13 +39,13 @@ En el caso cubano, deben añadirse cuestiones “terrenales” a la que la casta
 
 Una digresión: recuerdo, hace años ya, haberme encontrado en plena calle a una amiga jueza que, al preguntarle por su situación laboral, comentaba que en el tribunal le habían señalado la incompatibilidad de su función de jueza con su rol de arrendataria privada. Aún la recuerdo decirme entre risas que había colgado la toga sin pensarlo y que ganaba en una semana, como arrendataria, lo que no cobraba en el tribunal en un año. Creo que esta anécdota es muy descriptiva de lo que estoy diciendo.
 
-Toda esta serie de apuntes que se han ido hilvanando en este artículo empezaron a venirme a la cabeza a raíz del [vergonzoso escándalo que presenciara el país frente al MINCULT el pasado 27 de enero](applewebdata://B31C40CE-848E-4E7E-BF83-1C0134868E0C/link).
+Toda esta serie de apuntes que se han ido hilvanando en este artículo empezaron a venirme a la cabeza a raíz del vergonzoso escándalo que presenciara el país frente al MINCULT el pasado 27 de enero.
 
 Me pareció extremadamente deplorable el [comportamiento del alto funcionario](https://www.20minutos.es/noticia/4560210/0/el-ministro-de-cultura-de-cuba-da-un-manotazo-a-un-periodista-durante-una-manifestacion/), y realmente irónico que el gesto de tosca hostilidad viniese del titular de la cartera de cultura. “La cuestión no está en que Alpidio renuncie, sino en que nunca debió haber sido ministro” comentaba un conocido en ocasión de enterarse de cierta iniciativa ciudadana que exigía el referido acto por parte del funcionario.
 
 Los tribunales de la República no escapan al cuadro que caracteriza el resto de la administración nacional (el ejemplo de más arriba muy bien lo da a entender), la carga laboral excesiva, sumada a una remuneración salarial poco atractiva, ha diezmado mucho el capital humano con que cuenta el subsistema estatal. 
 
-No obstante, la noticia sobre el nombramiento de tres recién graduados, no ya como simples jueces, sino como presidentes de sendos tribunales municipales en la capital, me causó auténtico estupor[\[4\]](applewebdata://B31C40CE-848E-4E7E-BF83-1C0134868E0C#_ftn4). Mi primera reacción fue cuestionar la legalidad del nombramiento, no obstante, después de examinar la correspondiente normativa[\[5\]](applewebdata://B31C40CE-848E-4E7E-BF83-1C0134868E0C#_ftn5), hallé ciertos artículos que, llamados a utilizarse de forma excepcional, brindan la adecuada cobertura legal.
+No obstante, la noticia sobre el nombramiento de tres recién graduados, no ya como simples jueces, sino como presidentes de sendos tribunales municipales en la capital, me causó auténtico estupor\[4\]. Mi primera reacción fue cuestionar la legalidad del nombramiento, no obstante, después de examinar la correspondiente normativa\[5\], hallé ciertos artículos que, llamados a utilizarse de forma excepcional, brindan la adecuada cobertura legal.
 
 La reacción de otros colegas del gremio ha sido similar a la mía, no voy referirme a las diversas teorías extraoficiales que vendrían a explicar el motivo de la designación, pero en ningún caso resultan tranquilizantes.
 
@@ -63,12 +61,12 @@ Ese divorcio entre ciudadano y Estado, con el consecuente perjuicio que para la 
 
 * * *
 
-[\[1\]](applewebdata://B31C40CE-848E-4E7E-BF83-1C0134868E0C#_ftnref1) Hasta 1883 era costumbre en USA que, ante el cambio de partido en el poder, el nuevo gobierno despidiera a todos los funcionarios de la administración anterior, incluyendo a los de bajo rango como los carteros. Esta práctica redundó en una manifiesta corrupción y clientelismo político, dado que el funcionario debía lealtad al político de turno que lo nombraba y del cual dependía para mantener el puesto. Por otra parte, los constantes cambios de personal, impedían que la administración contase con funcionarios de experiencia adecuada. Este sistema conocido como “The spoils system”, provocó un profundo rechazo en la opinión pública, lo cual redundó en la sanción de la Civil Service Reform Act, que introdujo la carrera administrativa en ese país.  
+\[1\] Hasta 1883 era costumbre en USA que, ante el cambio de partido en el poder, el nuevo gobierno despidiera a todos los funcionarios de la administración anterior, incluyendo a los de bajo rango como los carteros. Esta práctica redundó en una manifiesta corrupción y clientelismo político, dado que el funcionario debía lealtad al político de turno que lo nombraba y del cual dependía para mantener el puesto. Por otra parte, los constantes cambios de personal, impedían que la administración contase con funcionarios de experiencia adecuada. Este sistema conocido como “The spoils system”, provocó un profundo rechazo en la opinión pública, lo cual redundó en la sanción de la Civil Service Reform Act, que introdujo la carrera administrativa en ese país.  
 
-[\[2\]](applewebdata://B31C40CE-848E-4E7E-BF83-1C0134868E0C#_ftnref2) Lazcano y Mazón Andrés M,Las Constituciones de Cuba, Ediciones Cultura Hispánica, Madrid, España 1952. Pág 292.
+\[2\] Lazcano y Mazón Andrés M,Las Constituciones de Cuba, Ediciones Cultura Hispánica, Madrid, España 1952. Pág 292.
 
-[\[3\]](applewebdata://B31C40CE-848E-4E7E-BF83-1C0134868E0C#_ftnref3)Constitución de la República de Cuba de 1940. Título 7mo sección 2da Oficios Públicos. Constitución de la República de Cuba, Editorial Minerva, La Habana Cuba, 1956
+\[3\]Constitución de la República de Cuba de 1940. Título 7mo sección 2da Oficios Públicos. Constitución de la República de Cuba, Editorial Minerva, La Habana Cuba, 1956
 
-[\[4\]](applewebdata://B31C40CE-848E-4E7E-BF83-1C0134868E0C#_ftnref4) Me refiero al nombramiento de los ciudadanos Alberto García, Melissa Alayo y Xian Fong, egresados en la graduación de 2020, como presidentes de los tribunales municipales de Guanabacoa, Cerro y Regla respectivamente. Todos ubicados en la capital
+\[4\] Me refiero al nombramiento de los ciudadanos Alberto García, Melissa Alayo y Xian Fong, egresados en la graduación de 2020, como presidentes de los tribunales municipales de Guanabacoa, Cerro y Regla respectivamente. Todos ubicados en la capital
 
-[\[5\]](applewebdata://B31C40CE-848E-4E7E-BF83-1C0134868E0C#_ftnref5) Ley No. 82, “Ley de los Tribunales Populares”, de 11 de junio de 1998
+\[5\] Ley No. 82, “Ley de los Tribunales Populares”, de 11 de junio de 1998

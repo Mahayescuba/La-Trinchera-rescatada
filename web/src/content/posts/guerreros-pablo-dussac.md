@@ -11,11 +11,6 @@ guerreros. 
 
 **Por: Pablo Dussac**
 
-Somos guerreros,  
-Sangramos tinta,  
-Consagramos nuestros cuerpos  
-A la santísima Poesía.
-
 Yo soy el verso de aquellos poetas  
 Mártires que, inconformes con la injusticia,  
 Sufrieron su vorágine.

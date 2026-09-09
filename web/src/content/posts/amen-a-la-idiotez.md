@@ -9,8 +9,6 @@ Las sandeces tienen premio porque siempre tienen detrás a una simpática moral 
 
 Empezando, la moral es un convencimiento social de lo que es bien, y mayormente la crea la referencia espiritual o religiosa que tiene una sociedad en un determinado tiempo o época. **La moral establece en la mentalidad de todos unos valores** que se han de respetar por imperativo social, sean acertados o sean irracionales, pero la moral impone respeto u obliga a que obedezcan todos, sí o sí, a lo que se ha de hacer por el posible atino (o no) de unos cuantos. Por eso, la moral tiene mucho de subjetividad, de lo que es conveniencia social (no más) por unos estereotipos que se han establecido en los estadios de los gurús o de las religiones.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/el-dilema-etico-y-el-derecho-de-los-medios/
-
 Asimismo, cada persona, por salvar sus intereses, siempre intentará difundir una moral que ella misma se ha cocinado, o sea, **cada persona va buscando adaptar toda norma moral a sus propios intereses**, usando para ello mucha retórica o subjetividad que encante incluso a las serpientes. Sí, en la incuestionable charlatanería social eso es facilísimo; como lo que ocurre después de unas elecciones, que todos (con excelentes vendas en los ojos) ven a su moral (o a su política) como la vencedora, ¡es paradójico!
 
 Bueno, lo que cada cual constantemente (por salvar su pellejo) está inventándose como bien, es su privadísima moral o su moralina, desde luego, que un día y otro no parará de difundir, sin cansancio, porque se salga con la suya. En esto, las moralinas son muy simples, pero estratégicamente matonas o convincentes (aunque tengan la ausencia total de la razón, ¡qué más da!).

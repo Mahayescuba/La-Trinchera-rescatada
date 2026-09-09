@@ -38,5 +38,3 @@ _¨Los que lean sin prejuicios, porque no tengan a menos que sea poesía escrita
 _Hay aquí más valores artísticos netos que en otros libros que en nuestro medio he visto pasar por iluminados y novedosos…¨ Manzano (El canal, marzo de 2019)_
 
 Una vez leído, será imposible desprenderse del libro y, cuando al fin la lectura voraz despedace una y otra vez el cúmulo de poemas, cuando por las manos del lector se pueda controlar cada suceso de esta zona tunera, solo se deseará que siga pasando _el soneto por Omaja, como un ligero reptil entre los rieles._
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/culture/poeta-jorge-labanino-legra/

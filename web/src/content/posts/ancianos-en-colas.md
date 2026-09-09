@@ -5,8 +5,6 @@ author: ""
 category: "Política en Cuba"
 image: ""
 ---
-_Sé que hay de todo en esas colas; seguro que algunos ancianos hasta le aseguran el turno a personas con divisas._
-
 **Por: Julio Pernús**
 
 Esta es la historia de un sábado, acontecida hace menos de un mes; fue en el municipio donde resido, en [Guanabacoa](https://es.wikipedia.org/wiki/Guanabacoa), pero quizás el suceso pudo darse en cualquier lugar de nuestro país. Una cola en Cuba es una fila larga de personas que han “marcado” para poder comprar algún producto de alta demanda y que, por estos días, tienden a esfumarse con velocidad espantosa. Mi abuela me había pedido que fuera a la farmacia para ver si habían entrado alguno de los medicamentos de su tarjetón. Ya era casi de noche cuando me dispuse a ir y averiguar, pues últimamente en donde resido, casi nunca se consigue con facilidad ninguna medicina.

@@ -32,5 +32,3 @@ Tomás Estrada Palma, primer Presidente de la República, Delegado del Partido R
 Su cadáver no fue entregado a las autoridades cubanas allí presentes, y a pesar del intenso frío, fue enterrado con premura al amanecer.
 
 Sus restos llegaron a La Habana en febrero de 1899 y fueron enterrados en el Cementerio de Colón, luego trasladados a Holguín, donde descansan hasta hoy.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/hacer-la-rebeldia/

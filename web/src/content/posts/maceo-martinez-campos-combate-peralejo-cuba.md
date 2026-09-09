@@ -5,8 +5,6 @@ author: ""
 category: "Historia"
 image: ""
 ---
-Llegó a la Isla en abril, cuando estaba en su apogeo la Campaña de Oriente, liderada por Antonio Maceo.
-
 #### _Las Taironas, Peralejo y Mal Tiempo,_  
 _Céspedes, Agramonte y Martí,_  
 _Moncada, Quintín Banderas y Maceo,_  

@@ -34,5 +34,3 @@ Por supuesto, todo no es comida, ropa, medicamentos, muebles o electrodoméstico
 Y nada, que mis amigas se ponen a pensar en todo esto y deciden que no se lo pueden permitir, la maternidad es un lujo y está en absoluta contradicción con nuestras condiciones materiales de vida. Hay que esperar a ver si las cosas mejoran, pero el calendario nos va pasando la cuenta y ¡el maldito bloqueo que no se acaba! Tic tac, tic tac. 
 
 maternidad y condiciones materiales en Cuba, maternidad y condiciones materiales en Cuba, maternidad y condiciones materiales en Cuba.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/ana-lia-y-la-fabrica-de-traumas/

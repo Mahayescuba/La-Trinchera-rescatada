@@ -9,8 +9,6 @@ image: ""
 
 Feminismo y el periódico Granma. 
 
-El artículo “Revictimizada mil veces” de Javier Gómez Sánchez publicado en el periódico Granma ha generado numerosas opiniones en publicaciones online y redes sociales. Esta vez el anfitrión de El Solar, Miguel Alejandro Hayes, reflexiona sobre el discurso de Gómez Sánchez y el abordaje, por parte del autor, de las luchas feministas en Cuba.
-
 Música: fragmentos de Eme Alfonso, Haideé Milanés, Liuba María Hevia, La Reina y la Real, Rochy Ameneiro
 
 [Ivoox](http://www.ivoox.com/55733476)
@@ -21,4 +19,4 @@ Música: fragmentos de Eme Alfonso, Haideé Milanés, Liuba María Hevia, La Rei
 
 [Googlepodcast](https://podcasts.google.com?feed=aHR0cHM6Ly93d3cuaXZvb3guY29tL3NvbGFyX2ZnX2YxODYwNzI5X2ZpbHRyb18xLnhtbA%3D%3D&episode=aHR0cHM6Ly93d3cuaXZvb3guY29tLzU1NzMzNDc2)
 
-El artículo “Revictimizada mil veces” de Javier Gómez Sánchez publicado en el periódico Granma ha generado numerosas opiniones en publicaciones online y redes sociales. Esta vez el anfitrión de El Solar, Miguel Alejandro Hayes, reflexiona sobre el discurso de Gómez Sánchez y el abordaje, por parte del autor, de las luchas feministas en Cuba. Música: fragmentos de Eme Alfonso, Haideé Milanés, Liuba María Hevia, La Reina y la Real, Rochy Ameneiro feminismo y periódico GranmaEl artículo “Revictimizada mil veces” de Javier Gómez Sánchez publicado en el periódico Granma ha generado numerosas opiniones en publicaciones online y redes sociales. Esta vez el anfitrión de El Solar, Miguel Alejandro Hayes, reflexiona sobre el discurso de Gómez Sánchez y el abordaje, por parte del autor, de las luchas feministas en Cuba. Música: fragmentos de Eme Alfonso, Haideé Milanés, Liuba María Hevia, La Reina y la Real, Rochy Ameneiro feminismo y periódico Granma
+El artículo “Revictimizada mil veces” de Javier Gómez Sánchez publicado en el periódico Granma ha generado numerosas opiniones en publicaciones online y redes sociales. Esta vez el anfitrión de El Solar, Miguel Alejandro Hayes, reflexiona sobre el discurso de Gómez Sánchez y el abordaje, por parte del autor, de las luchas feministas en Cuba. Música: fragmentos de Eme Alfonso, Haideé Milanés, Liuba María Hevia, La Reina y la Real, Rochy Ameneiro feminismo y periódico Granma

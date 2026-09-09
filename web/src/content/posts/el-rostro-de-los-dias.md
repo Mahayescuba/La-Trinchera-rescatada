@@ -11,11 +11,7 @@ image: ""
 
 La telenovela cubana _[El rostro de los días](http://www.trabajadores.cu/20200715/una-novela-las-canciones-y-un-live-de-buena-fe-video/)_ es un producto comunicativo de gran relevancia educativa en medio de la pandemia que azota la humanidad y nuestra Isla. Después de finalizada la novela anterior: _Entrega_, el listón había quedado bien alto, pero la directora Nohemí Cartaya y su equipo de trabajo han logrado responder con acierto a las exigencias, incluso sociales, pues en medio del aislamiento, hay quienes ven hasta dos veces los capítulos para no perderse un detalle de la trama que puede ayudarnos a crecer en valores, si aprendemos las lecciones expuestas entre líneas.
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/opinion/entrega-novela-espiritual/
-
 El guion escrito a cuatro manos, logra tocar con acierto varias de las problemáticas actuales de nuestros barrios, lo que demuestra la rigurosidad investigativa de Ángel Luis Martínez Rodríguez que descifró argumentos de éxito, para mantenernos a los espectadores en vilo durante cada capítulo. En los primeros episodios parecía un poco exagerada la grandilocuencia del hogar materno, con unas condiciones casi de país desarrollado; pero a medida que la trama se ha ido develando, siento que sí se parece la narrativa mostrada a realidades diversas de nuestra sociedad y por supuesto, comprendo la diferencia entre un hogar materno de la Víbora (donde se filmó la novela) en relación con otras zonas del país. Pero, eso también es parte de esta nueva Cuba, con personas comprando en MLC y otras con acceso solamente a la moneda nacional.
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/tiendas-en-mlc-en-cuba/
 
 También puede interesar
 

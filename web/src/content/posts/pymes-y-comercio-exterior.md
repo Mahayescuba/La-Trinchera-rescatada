@@ -20,5 +20,3 @@ Las PYMEs deberían tener la posibilidad de acceder al comercio exterior por si 
 Una cosa es que las empresas estatales compitan con otras no estatales para la prestación de estos servicios y otra muy distinta es que actúen como monopolios. Ya sabemos cuál es el resultado de un mercado en el que impera el monopolio: la ley del embudo.
 
 Tomado del Facebook del autor
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/tiendas-en-mlc-en-cuba/

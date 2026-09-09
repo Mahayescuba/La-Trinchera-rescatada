@@ -38,6 +38,4 @@ Y es necesario generar riqueza, pero riqueza social, no de unos pocos.
 
 Nota: Esta es la versión actualizada del post publicado en diciembre de 2018 con el mismo título.    
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/economia-en-cuba/soltar-las-amarras/
-
 mercado mayorista en Cuba mercado mayorista en Cuba mercado mayorista en Cuba mercado mayorista en Cuba mercado mayorista en Cuba

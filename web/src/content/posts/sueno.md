@@ -110,5 +110,3 @@ La carretera es helada e inestable en el kilómetro 0 de mi colchón. Doy brinco
 Señorita 3 AM
 
 sueño sueño sueño sueño sueño sueño sueño
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/onirica/ahorcado/

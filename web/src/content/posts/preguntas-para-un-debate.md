@@ -22,7 +22,3 @@ Si la intención de ese artículo era crear debate y polémica sana entre los cu
 \-¿por qué sólo se usa como medio de debate el artículo (Seamos críticos y no resentidos) y no otros con enfoque diferente, como el de [Hiram H. Castro?](/politica-en-cuba/) 
 
 ¿Acaso para generar un debate, una polémica sana, no es importante permitir que se conozcan todas las noticias y se acceda a todas las páginas, que seamos nosotros mismos como cubanos quienes saquemos nuestras propias conclusiones?
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/los-caballeros-y-la-verguenza/
-
-pago de prórroga para cubanos en el exterior, pago de prórroga para cubanos en el exterior

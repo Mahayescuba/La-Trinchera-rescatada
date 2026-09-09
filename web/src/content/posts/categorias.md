@@ -9,10 +9,6 @@ Las opiniones expresadas en este portal y en cualquiera de las publicaciones acc
 
 ### Política en Cuba
 
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
-
 [](/los-enemigos-del-pueblo/)
 
 ### [Los enemigos del pueblo](/los-enemigos-del-pueblo/)
@@ -54,10 +50,6 @@ Las opiniones expresadas en este portal y en cualquiera de las publicaciones acc
 ### [Fondo o Superficie; ¿qué conforma la plataforma del Archipiélago?](/marcha-15n-fondo-o-superficie/)
 
 ### Economía en Cuba
-
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
 
 [](/los-enemigos-del-pueblo/)
 
@@ -101,10 +93,6 @@ Las opiniones expresadas en este portal y en cualquiera de las publicaciones acc
 
 ### Entrevistas
 
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
-
 [](/conversando-con-la-fuerza-del-pensamiento-con-janos-kornai/)
 
 ### [Conversando (con la fuerza del pensamiento) con János Kornai](/conversando-con-la-fuerza-del-pensamiento-con-janos-kornai/)
@@ -146,10 +134,6 @@ Las opiniones expresadas en este portal y en cualquiera de las publicaciones acc
 ### [Me da lo mismo probar un teorema, que escribir una canción](/entrevista-a-ciro-javier/)
 
 ### Marxismo
-
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
 
 [](/el-marxismo-y-la-burocracia-de-estado/)
 
@@ -193,10 +177,6 @@ Las opiniones expresadas en este portal y en cualquiera de las publicaciones acc
 
 ### Teoría
 
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
-
 [](/libertad-y-espacio/)
 
 ### [El retroceso de la libertad](/libertad-y-espacio/)
@@ -238,10 +218,6 @@ Las opiniones expresadas en este portal y en cualquiera de las publicaciones acc
 ### [Adicción al placer y aversión al dolor](/placer-y-dolor/)
 
 ### Cultura
-
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
 
 [](/la-feria-de-los-tontos/)
 
@@ -285,10 +261,6 @@ Las opiniones expresadas en este portal y en cualquiera de las publicaciones acc
 
 ### Economía
 
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
-
 [](/lenguaje-de-la-economia/)
 
 ### [Para quién miras](/lenguaje-de-la-economia/)
@@ -330,10 +302,6 @@ Las opiniones expresadas en este portal y en cualquiera de las publicaciones acc
 ### [Marxistas y no marxistas, ¿ricardianos?](/marxistas-no-marxistas-ricardianos/)
 
 ### Marxismo en Cuba
-
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
 
 [](/el-marxismo-en-cuba-hoy-2/)
 
@@ -377,10 +345,6 @@ Las opiniones expresadas en este portal y en cualquiera de las publicaciones acc
 
 ### Política
 
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
-
 [](/hablar-con-cifras/)
 
 ### [Hablar con cifras](/hablar-con-cifras/)
@@ -422,10 +386,6 @@ Las opiniones expresadas en este portal y en cualquiera de las publicaciones acc
 ### [¿Feminicidio?](/feminicidio/)
 
 ### Trinchera Abierta
-
-[](# "Siguiente")[](# "Anterior")
-
-[](# "Anterior")[](# "Siguiente")
 
 [](/socialismo-y-republica/)
 

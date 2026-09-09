@@ -13,7 +13,7 @@ Otro rasgo a destacar de la metafísica es que junto al problema de la existenci
 
 **Por: Miguel Alejandro Hayes**
 
-Es muy difícil escapar de la metafísica. Y es que los discursos hegemónicos de las ciencias, se engendraron, nacieron, crecen y se desarrollan, como tal paradigma. El individuo metafísico, a decir de [Frederick Copleston](https://es.m.wikipedia.org/wiki/Frederick_Copleston), _supone que tiene sentido buscar la razón o la causa de los fenómenos[**\[1\]**](#_ftn1)_. Este es un supuesto que tanto la dialéctica (Hegel), como parte de la corriente posestructuralista, como la filosofía analítica, cuestionaron; pero el tema trasciende estas líneas.
+Es muy difícil escapar de la metafísica. Y es que los discursos hegemónicos de las ciencias, se engendraron, nacieron, crecen y se desarrollan, como tal paradigma. El individuo metafísico, a decir de [Frederick Copleston](https://es.m.wikipedia.org/wiki/Frederick_Copleston), _supone que tiene sentido buscar la razón o la causa de los fenómenos**\[1\]**_. Este es un supuesto que tanto la dialéctica (Hegel), como parte de la corriente posestructuralista, como la filosofía analítica, cuestionaron; pero el tema trasciende estas líneas.
 
 Otro rasgo a destacar de la metafísica es que junto al problema de la existencia va su enfoque ontológico, el cual expresa, en clave moderna, a través de un vicio excesivo hacer taxonomías. Si hubiera que buscar una terminología en el discurso de las ciencias modernas para hacer referencia a la metafísica, diría que es la ciencia cuya cosmovisión tiene como fundamento la taxonomía.
 
@@ -29,6 +29,6 @@ _Con todos y para el bien de todos_ es un hermoso texto y hecho político que en
 
 No había que hacerle hermenéutica al texto de Martí. Bastaba con no ser tan metafísico. Eso es parte de aquello de _contextualizar_.
 
-[\[1\]](#_ftnref1) Debate Russell vs. Copleston. Ver https://www.tendencias21.net/Recuperada-la-discusion-Russell-Copleston-sobre-la-existencia-de-Dios\_a2925.html
+\[1\] Debate Russell vs. Copleston. Ver https://www.tendencias21.net/Recuperada-la-discusion-Russell-Copleston-sobre-la-existencia-de-Dios\_a2925.html
 
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/DjVWMIpEsks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

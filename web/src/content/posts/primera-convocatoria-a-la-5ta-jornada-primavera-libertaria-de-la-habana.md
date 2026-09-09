@@ -24,8 +24,4 @@ Para proponer temas de intervención, propuestas de espacios, actividades, crít
 [Telegram](http://👉t.me/AgoraABRA)  
 **Centro Social y Biblioteca Libertaria ABRA**
 
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/noticias/accion-poetica-manifiesto/
-
-  
-
 [También puede interesar](/noticias/)

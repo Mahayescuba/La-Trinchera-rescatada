@@ -13,6 +13,4 @@ En qué momento olvidaron que en politica sólo se puede unir – necesita unirs
 Pobres marionetas que creen tirar de los hilos, que creen ser útiles y están siendo manejados dentro de un juego de infinita sofisticación y eficacia.  
 Habrá que otra vez enfrentarlos decididamente en su cualidad dogmática, en su [sectarismo](https://es.wikipedia.org/wiki/Sectarismo) y reduccionismo de lo complejo de lo emancipatorio y los político, en sus posibilidades de incidir efectivamente en la realidad política inmediata y de usar mecanismos, medios y espacios públicos, en los alcances últimos de sus actos, sin olvidar que ese mismo plan enemigo pende sobre nosotros.
 
-Progresismo. Progresismo. 
-
-https://web.archive.org/web/20221204123508/https://www.trincheracuba.com/politica-en-cuba/constitucion-2019/
+Progresismo. Progresismo.

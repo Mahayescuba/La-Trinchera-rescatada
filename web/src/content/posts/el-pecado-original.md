@@ -5,8 +5,6 @@ author: ""
 category: "Opinión"
 image: ""
 ---
-Esta vez la polémica, entre tantas crudas realidades, viene del post, en mi opinión muy desacertado, compartido por la rapera Danay Suárez (de quien soy admirador).
-
 **Por: Sender Escobar**
 
 Parece que no solo el coronavirus (noticiavirus, como lo bauticé) es protagonista de la realidad cubana. Además del spin off de Tras la Huella en el noticiero, de los memes, unos más ingeniosos que otros, o de opiniones al margen sobre la limonada y secretos a voces sobre amistades con _power_ en Cuba.
