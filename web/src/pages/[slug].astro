@@ -29,9 +29,18 @@ export async function getStaticPaths(){
     add(byCat[fixCat(p.data.category)]);
     return out;
   };
-  return posts.map(p=> ({ params:{ slug:p.slug }, props:{ p, count: p.data.author ? counts[p.data.author] : 0, topCat: p.data.author ? topCatOf(p.data.author) : '', related: relatedFor(p) } }));
+  // navegación cronológica dentro de la misma categoría
+  const catNavFor=(p:any)=>{
+    const c=fixCat(p.data.category);
+    const arr = (c && c!=='Sin categoría') ? (byCat[c]||[]) : [];
+    const idx = arr.findIndex((x:any)=>x.slug===p.slug);
+    if(idx<0) return null;
+    const lite=(x:any)=> x ? { slug:x.slug, title:x.data.title } : null;
+    return { cat:c, older:lite(arr[idx+1]), newer:lite(arr[idx-1]) };
+  };
+  return posts.map(p=> ({ params:{ slug:p.slug }, props:{ p, count: p.data.author ? counts[p.data.author] : 0, topCat: p.data.author ? topCatOf(p.data.author) : '', related: relatedFor(p), catNav: catNavFor(p) } }));
 }
-const { p, count, topCat, related } = Astro.props;
+const { p, count, topCat, related, catNav } = Astro.props;
 const { Content } = await p.render();
 const desc = excerpt(p.body, 155);
 const prof:any = p.data.author ? ((authors as any)[slugify(p.data.author)] || {}) : null;
@@ -57,8 +66,12 @@ const jsonLd = {
 ---
 <Base title={p.data.title} description={desc} image={p.data.image || undefined} type="article">
   <article class="wrap post">
-    <a class="back" href="/">← La Trinchera</a>
-    {p.data.category && <a class="cat" href={`/categoria/${slugify(fixCat(p.data.category))}/`}>{fixCat(p.data.category)}</a>}
+    <nav class="crumbs" aria-label="Ruta de navegación">
+      <a href="/">Inicio</a>
+      {p.data.category && fixCat(p.data.category)!=='Sin categoría' && (
+        <><span class="sep">›</span><a href={`/categoria/${slugify(fixCat(p.data.category))}/`}>{fixCat(p.data.category)}</a></>
+      )}
+    </nav>
     <h1>{p.data.title}</h1>
     <p class="meta">
       {p.data.author
@@ -96,6 +109,16 @@ const jsonLd = {
         </div>
       </aside>
     )}
+    {catNav && (catNav.older || catNav.newer) && (
+      <nav class="catnav" aria-label={`Más en ${catNav.cat}`}>
+        {catNav.older
+          ? <a class="cn cn-prev" href={`/${catNav.older.slug}/`}><span class="cn-dir">← Anterior en {catNav.cat}</span><span class="cn-t">{catNav.older.title}</span></a>
+          : <span class="cn cn-empty" aria-hidden="true"></span>}
+        {catNav.newer
+          ? <a class="cn cn-next" href={`/${catNav.newer.slug}/`}><span class="cn-dir">Siguiente en {catNav.cat} →</span><span class="cn-t">{catNav.newer.title}</span></a>
+          : <span class="cn cn-empty" aria-hidden="true"></span>}
+      </nav>
+    )}
     {related && related.length>0 && (
       <section class="more">
         <h2>Sigue leyendo</h2>
@@ -119,7 +142,12 @@ const jsonLd = {
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)}></script>
   <style>
     .post{max-width:720px;padding:2rem 1.2rem 1rem;overflow-wrap:break-word}
-    .back{font-size:.82rem;color:var(--muted);display:inline-block;margin-bottom:1.3rem}
+    .crumbs{display:flex;flex-wrap:wrap;align-items:center;gap:.4rem;font-size:.78rem;margin-bottom:1.1rem;
+      text-transform:uppercase;letter-spacing:.08em}
+    .crumbs a{color:var(--muted)}
+    .crumbs a:hover{color:var(--accent)}
+    .crumbs a:last-child{color:var(--accent);font-weight:600}
+    .crumbs .sep{color:var(--muted);opacity:.6}
     .post h1{font-size:2.3rem;margin:.25em 0 .1em}
     .post .meta{color:var(--muted);font-size:.9rem;margin:.2rem 0 1.3rem}
     .post .meta a{color:var(--accent)}
@@ -151,6 +179,15 @@ const jsonLd = {
     .share a,.share .copybtn{font-size:.82rem;color:var(--accent);border:1px solid var(--line);background:var(--paper);
       border-radius:20px;padding:.32rem .8rem;text-decoration:none;cursor:pointer;font-family:inherit;line-height:1}
     .share a:hover,.share .copybtn:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+    .catnav{display:grid;grid-template-columns:1fr 1fr;gap:.8rem;margin:2.4rem 0 .5rem;padding-top:1.4rem;border-top:1px solid var(--line)}
+    .cn{display:flex;flex-direction:column;gap:.25rem;padding:.9rem 1rem;border:1px solid var(--line);border-radius:10px;
+      background:var(--paper);text-decoration:none;color:inherit;transition:.15s}
+    .cn:hover{border-color:var(--accent);transform:translateY(-2px);box-shadow:0 8px 22px rgba(40,25,20,.06)}
+    .cn-next{text-align:right;align-items:flex-end}
+    .cn-dir{font-size:.68rem;text-transform:uppercase;letter-spacing:.1em;color:var(--accent);font-weight:700}
+    .cn-t{font-family:var(--display);font-weight:700;font-size:1rem;line-height:1.25}
+    .cn-empty{border:0;background:none}
+    @media (max-width:560px){ .catnav{grid-template-columns:1fr} .cn-next{text-align:left;align-items:flex-start} }
     .more{margin:2.4rem 0 .5rem}
     .more h2{font-size:1.35rem;margin:0 0 .9rem;padding-top:1.2rem;border-top:1px solid var(--line)}
     .more-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:.9rem}
