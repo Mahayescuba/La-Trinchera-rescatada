@@ -3,3 +3,5 @@ dist/
 .astro/
 *.png
 shot.mjs
+mock*.html
+shotmocks.mjs
