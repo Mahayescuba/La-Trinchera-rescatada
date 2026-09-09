@@ -1,9 +1,8 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
-import { fixCat, slugify, fmtDate, excerpt, thumbData, initials, monoColor } from '../lib/util';
+import { fixCat, slugify, fmtDate, excerpt, thumbData } from '../lib/util';
 import { buildSeries } from '../lib/series';
-import authors from '../data/authors.json';
 const posts = (await getCollection('posts')).sort((a,b)=> (b.data.date||'').localeCompare(a.data.date||''));
 const withDate = posts.filter(p=>p.data.date);
 const featured = withDate.slice(0,1)[0];
@@ -24,6 +23,9 @@ const gradPairs = [['#8a2b2b','#3f1414'],['#6d4a5c','#2c1a22'],['#4f5d3a','#232a
 const seriesCards = allSeries.map((s,i)=>({ s, cover: s.cover ? thumbData(s.cover, 520) : null, grad: gradPairs[i % gradPairs.length], init: (s.base.trim()[0]||'·').toUpperCase() }));
 const numTemas = Object.keys(catCounts).length;
 const moreList = withDate.slice(10,25);
+// "Del archivo, al azar": selección barajada (en build y en cada visita) de
+// textos con imagen, de todo el archivo (no solo lo reciente).
+const shuffle = <T,>(a:T[]):T[] => { a=a.slice(); for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; };
 // Mosaico editorial: la primera entrada, grande; el resto, teselas
 const mosaic = withDate.slice(1,10).map((p,i)=>({
   p,
@@ -31,11 +33,9 @@ const mosaic = withDate.slice(1,10).map((p,i)=>({
   grad: gradPairs[i % gradPairs.length],
   feat: i===0,
 }));
+const azarPool = shuffle(posts.filter(p=>p.data.image)).slice(0,20)
+  .map((p,i)=>({ p, im: thumbData(p.data.image, 520), grad: gradPairs[i % gradPairs.length] }));
 // "Voces del archivo": autores más prolíficos
-const tier = (c:number)=> c>100?4 : c>50?3 : c>20?2 : 1;
-const firmasIdx = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,28)
-  .map(([name,count])=>({ name, count, t:tier(count) }));
-const numAutoresTotal = Object.keys(authorCounts).length;
 ---
 <Base title={null} description="Archivo rescatado de La Trinchera: una plataforma cubana para el debate y la reflexión.">
   <header class="wrap mast">
@@ -138,25 +138,35 @@ const numAutoresTotal = Object.keys(authorCounts).length;
     </section>
   )}
 
-  <section class="wrap firmas">
-    <div class="sec-head">
-      <h2>Firmas del archivo</h2>
-      <a class="sec-all" href="/autores/">Ver los {numAutoresTotal} autores →</a>
-    </div>
-    <p class="firmas-idx">
-      {firmasIdx.map((f,i)=> (
-        <>{i>0 && <span class="sep" aria-hidden="true">·</span>}<a class={`fi t${f.t}`} href={`/autor/${slugify(f.name)}/`}>{f.name}<span class="fc">{f.count}</span></a></>
-      ))}
-      <span class="sep" aria-hidden="true">·</span><a class="fi more" href="/autores/">y {numAutoresTotal-firmasIdx.length} más →</a>
-    </p>
-  </section>
+  {azarPool.length>0 && (
+    <section class="wrap series-home azar">
+      <div class="sec-head">
+        <h2>Del archivo, al azar</h2>
+        <a class="sec-all" href="/archivo/">Explorar todo →</a>
+      </div>
+      <div class="sh-rail" id="azarRail">
+        {azarPool.map(({p,im})=> (
+          <a class="sh-card" href={`/${p.slug}/`}>
+            <span class="sh-cover" style={`background-image:url(${im.src})`}>
+              <span class="sh-badge">{fixCat(p.data.category)}</span>
+            </span>
+            <span class="sh-title">{p.data.title}</span>
+            <span class="sh-au">{p.data.author && `${p.data.author} · `}{fmtDate(p.data.date)}</span>
+          </a>
+        ))}
+      </div>
+      <p class="sh-hint">Una selección que cambia en cada visita →</p>
+    </section>
+  )}
 
   <script is:inline>
-    /* mostrar las series en orden distinto en cada visita */
-    (function(){var r=document.getElementById('seriesRail');if(!r)return;
-      var k=[].slice.call(r.children);
-      for(var i=k.length-1;i>0;i--){var j=Math.random()*(i+1)|0;var t=k[i];k[i]=k[j];k[j]=t;}
-      k.forEach(function(el){r.appendChild(el);});
+    /* barajar en cada visita: series y selección al azar */
+    (function(){
+      function shuffleRail(id){var r=document.getElementById(id);if(!r)return;
+        var k=[].slice.call(r.children);
+        for(var i=k.length-1;i>0;i--){var j=Math.random()*(i+1)|0;var t=k[i];k[i]=k[j];k[j]=t;}
+        k.forEach(function(el){r.appendChild(el);});}
+      shuffleRail('seriesRail'); shuffleRail('azarRail');
     })();
   </script>
 
@@ -257,18 +267,6 @@ const numAutoresTotal = Object.keys(authorCounts).length;
     .sh-card:hover .sh-title{color:var(--accent)}
     .sh-au{color:var(--muted);font-size:.78rem}
     .sh-hint{font-size:.74rem;color:var(--muted);margin:.4rem 0 0;font-weight:600}
-    /* firmas: índice tipográfico (nombres por tamaño según nº de textos) */
-    .firmas{padding:1.8rem 1.2rem 2.8rem;border-top:1px solid var(--line);margin-top:2rem}
-    .firmas-idx{display:flex;flex-wrap:wrap;align-items:baseline;gap:.2rem .65rem;margin:0;line-height:1.65}
-    .fi{font-family:var(--display);color:var(--ink);font-weight:600;text-decoration:none;display:inline-flex;align-items:baseline;gap:.22rem;transition:color .12s}
-    .fi:hover{color:var(--accent)}
-    .fi .fc{font-family:-apple-system,"Segoe UI",Roboto,Arial,sans-serif;font-size:.58em;color:var(--muted);font-weight:600;font-variant-numeric:tabular-nums}
-    .fi.t4{font-size:2rem;font-weight:900;letter-spacing:-.01em}
-    .fi.t3{font-size:1.5rem;font-weight:700}
-    .fi.t2{font-size:1.2rem}
-    .fi.t1{font-size:1rem}
-    .firmas .sep{color:var(--muted);opacity:.4}
-    .fi.more{font-family:-apple-system,"Segoe UI",Roboto,Arial,sans-serif;font-size:.85rem;font-weight:700;color:var(--accent);align-self:center}
-    @media (max-width:560px){ .fi.t4{font-size:1.6rem} .fi.t3{font-size:1.3rem} }
+    .azar{padding-bottom:2.8rem;border-top:1px solid var(--line);margin-top:2rem}
   </style>
 </Base>
