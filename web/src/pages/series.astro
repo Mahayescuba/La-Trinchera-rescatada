@@ -16,7 +16,7 @@ const cards = all.map((s,i)=>({ s, cover: s.cover ? thumbData(s.cover, 560) : nu
     <h1>Series</h1>
     <p class="lede">{all.length} series reunidas a partir de la propia numeración de los autores: {totalParts} textos publicados por entregas. Debates que se extendieron en el tiempo y crónicas que volvían sobre lo mismo.</p>
   </section>
-  <section class="wrap grid">
+  <section class="wrap grid" id="seriesGrid">
     {cards.map(({s,cover,grad,init})=> (
       <article class="card">
         <a class="card-top" href={`/${s.parts[0].slug}/`}>
@@ -37,6 +37,14 @@ const cards = all.map((s,i)=>({ s, cover: s.cover ? thumbData(s.cover, 560) : nu
       </article>
     ))}
   </section>
+  <script is:inline>
+    /* orden aleatorio y siempre cambiante en cada visita */
+    (function(){var r=document.getElementById('seriesGrid');if(!r)return;
+      var k=[].slice.call(r.children);
+      for(var i=k.length-1;i>0;i--){var j=Math.random()*(i+1)|0;var t=k[i];k[i]=k[j];k[j]=t;}
+      k.forEach(function(el){r.appendChild(el);});
+    })();
+  </script>
   <style>
     .head{padding:2.4rem 1.2rem 1rem;max-width:760px}
     .head .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.16em;font-size:.72rem;margin:0;font-weight:700}

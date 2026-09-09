@@ -1,7 +1,8 @@
 ---
 import Base from '../../../layouts/Base.astro';
+import Mosaic from '../../../components/Mosaic.astro';
 import { getCollection } from 'astro:content';
-import { fixCat, slugify, fmtDate, excerpt, initials, monoColor } from '../../../lib/util';
+import { fixCat, slugify, initials, monoColor } from '../../../lib/util';
 import authors from '../../../data/authors.json';
 export async function getStaticPaths(){
   const PER = 24;
@@ -53,17 +54,7 @@ const hasNext = page < pages;
         </p>
       </div>
     </header>
-    <ul>
-      {items.map((p:any)=> (
-        <li>
-          <a href={`/${p.slug}/`}>
-            <h2>{p.data.title}</h2>
-            <p>{excerpt(p.body,140)}</p>
-            <span class="meta"><a class="c" href={`/categoria/${slugify(fixCat(p.data.category))}/`}>{fixCat(p.data.category)}</a> · {fmtDate(p.data.date)}</span>
-          </a>
-        </li>
-      ))}
-    </ul>
+    <Mosaic items={items} />
     {pages>1 && (
       <nav class="pager" aria-label="Paginación">
         {hasPrev ? <a class="pg" href={pageUrl(page-1)}>← Anterior</a> : <span class="pg dis">← Anterior</span>}
@@ -73,7 +64,7 @@ const hasNext = page < pages;
     )}
   </section>
   <style>
-    .list{max-width:760px;padding:2.2rem 1.2rem}
+    .list{max-width:1080px;padding:2.2rem 1.2rem}
     .back{font-size:.82rem;color:var(--muted);display:inline-block;margin-bottom:1.3rem}
     .back:hover{color:var(--accent)}
     .ah{display:flex;gap:1.2rem;align-items:flex-start;margin:0 0 1.6rem}

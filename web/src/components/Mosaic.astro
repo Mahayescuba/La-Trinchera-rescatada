@@ -1,0 +1,39 @@
+---
+// Mosaico editorial reutilizable: teselas con imagen (o degradado + título)
+// y overlay. La primera tesela va destacada (grande).
+import { fixCat, fmtDate, excerpt, thumbData } from '../lib/util';
+const { items } = Astro.props;
+const grads = [['#8a2b2b','#3f1414'],['#6d4a5c','#2c1a22'],['#4f5d3a','#232a17'],['#3f5666','#1b262e'],['#7a5230','#33210f'],['#6b4f2a','#2e2210']];
+const tiles = items.map((p:any,i:number)=>({ p, im: p.data.image ? thumbData(p.data.image,640) : null, grad: grads[i%grads.length], feat: i===0 }));
+---
+<div class="pm">
+  {tiles.map(({p,im,grad,feat}:any)=> (
+    <a class={`pm-tile${feat?' feat':''}`} href={`/${p.slug}/`}
+       style={im ? `background-image:url(${im.src})` : `background-image:linear-gradient(150deg,${grad[0]},${grad[1]})`}>
+      <span class="pm-scrim"></span>
+      <div class="pm-cap">
+        <span class="pm-cat">{fixCat(p.data.category)}</span>
+        <h3>{p.data.title}</h3>
+        {feat && <p class="pm-dek">{excerpt(p.body,140)}</p>}
+        <span class="pm-meta">{p.data.author && `${p.data.author} · `}{fmtDate(p.data.date)}</span>
+      </div>
+    </a>
+  ))}
+</div>
+<style>
+  .pm{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-rows:190px;gap:.8rem;grid-auto-flow:dense}
+  .pm-tile{position:relative;overflow:hidden;border-radius:8px;background-size:cover;background-position:center;
+    background-color:var(--accent);display:block;color:#fff;transition:transform .15s}
+  .pm-tile:hover{transform:translateY(-2px)}
+  .pm-tile.feat{grid-column:span 2;grid-row:span 2}
+  .pm-scrim{position:absolute;inset:0;background:linear-gradient(to top,rgba(16,7,7,.9),rgba(16,7,7,.12) 62%)}
+  .pm-tile:hover .pm-scrim{background:linear-gradient(to top,rgba(90,22,22,.92),rgba(16,7,7,.2) 62%)}
+  .pm-cap{position:absolute;left:0;right:0;bottom:0;padding:.85rem .95rem}
+  .pm-cat{display:block;font-size:.62rem;text-transform:uppercase;letter-spacing:.12em;font-weight:700;color:#f2d5c2;margin-bottom:.12rem}
+  .pm-cap h3{color:#fff;font-size:1.04rem;line-height:1.15;margin:0;font-family:var(--display)}
+  .pm-tile.feat .pm-cap h3{font-size:clamp(1.4rem,2.6vw,2rem)}
+  .pm-dek{color:#efe2d6;font-size:.92rem;margin:.3rem 0 0;max-width:46ch}
+  .pm-meta{display:block;color:#e8d5c6;font-size:.72rem;margin-top:.25rem}
+  @media (max-width:860px){ .pm{grid-template-columns:repeat(2,1fr)} .pm-tile.feat{grid-column:span 2} }
+  @media (max-width:560px){ .pm{grid-template-columns:1fr;grid-auto-rows:180px} .pm-tile.feat{grid-column:span 1;grid-row:span 2} }
+</style>
