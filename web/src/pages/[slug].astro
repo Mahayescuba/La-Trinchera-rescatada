@@ -2,9 +2,17 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { fixCat, slugify, fmtDate, excerpt, initials, monoColor } from '../lib/util';
+import { buildSeries } from '../lib/series';
 import authors from '../data/authors.json';
 export async function getStaticPaths(){
   const posts = await getCollection('posts');
+  const { bySlug: seriesBySlug } = buildSeries(posts);
+  const seriesInfoFor=(p:any)=>{
+    const s = seriesBySlug.get(p.slug);
+    if(!s) return null;
+    const index = s.parts.findIndex((x:any)=>x.slug===p.slug);
+    return { base:s.base, index, parts:s.parts.map((x:any)=>({slug:x.slug,title:x.title})) };
+  };
   const counts:Record<string,number> = {};
   const cats:Record<string,Record<string,number>> = {};
   for(const x of posts){ const a=x.data.author; if(!a) continue;
@@ -38,9 +46,9 @@ export async function getStaticPaths(){
     const lite=(x:any)=> x ? { slug:x.slug, title:x.data.title } : null;
     return { cat:c, older:lite(arr[idx+1]), newer:lite(arr[idx-1]) };
   };
-  return posts.map(p=> ({ params:{ slug:p.slug }, props:{ p, count: p.data.author ? counts[p.data.author] : 0, topCat: p.data.author ? topCatOf(p.data.author) : '', related: relatedFor(p), catNav: catNavFor(p) } }));
+  return posts.map(p=> ({ params:{ slug:p.slug }, props:{ p, count: p.data.author ? counts[p.data.author] : 0, topCat: p.data.author ? topCatOf(p.data.author) : '', related: relatedFor(p), catNav: catNavFor(p), series: seriesInfoFor(p) } }));
 }
-const { p, count, topCat, related, catNav } = Astro.props;
+const { p, count, topCat, related, catNav, series } = Astro.props;
 const { Content } = await p.render();
 const desc = excerpt(p.body, 155);
 const prof:any = p.data.author ? ((authors as any)[slugify(p.data.author)] || {}) : null;
@@ -82,6 +90,22 @@ const jsonLd = {
     </p>
     {p.data.image && <img class="lead" src={p.data.image} alt={p.data.title} loading="eager" decoding="async" />}
     <div class="body"><Content /></div>
+    {series && (
+      <section class="serie" aria-label={`Serie: ${series.base}`}>
+        <p class="serie-h">Serie · {series.parts.length} entregas</p>
+        <p class="serie-base">{series.base}</p>
+        <ol class="serie-list">
+          {series.parts.map((sp:any,i:number)=> (
+            <li class={i===series.index ? 'cur' : ''}>
+              <span class="serie-n">{i+1}</span>
+              {i===series.index
+                ? <span class="serie-t">{sp.title} <em>· estás aquí</em></span>
+                : <a class="serie-t" href={`/${sp.slug}/`}>{sp.title}</a>}
+            </li>
+          ))}
+        </ol>
+      </section>
+    )}
     <div class="share">
       <span class="share-l">Compartir</span>
       <a href={share.x} target="_blank" rel="noopener">X</a>
@@ -179,6 +203,21 @@ const jsonLd = {
     .share a,.share .copybtn{font-size:.82rem;color:var(--accent);border:1px solid var(--line);background:var(--paper);
       border-radius:20px;padding:.32rem .8rem;text-decoration:none;cursor:pointer;font-family:inherit;line-height:1}
     .share a:hover,.share .copybtn:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+    .serie{margin:2rem 0 .5rem;border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:10px;
+      background:var(--paper);padding:1.1rem 1.2rem}
+    .serie-h{font-size:.68rem;text-transform:uppercase;letter-spacing:.14em;color:var(--accent);font-weight:700;margin:0}
+    .serie-base{font-family:var(--display);font-weight:700;font-size:1.25rem;line-height:1.2;margin:.2rem 0 .7rem}
+    .serie-list{list-style:none;margin:0;padding:0;counter-reset:none}
+    .serie-list li{display:flex;gap:.7rem;align-items:baseline;padding:.35rem 0;border-top:1px solid var(--line)}
+    .serie-list li:first-child{border-top:0}
+    .serie-n{flex:0 0 auto;width:1.6rem;height:1.6rem;display:grid;place-items:center;border-radius:50%;
+      background:var(--bg);color:var(--muted);font-size:.72rem;font-weight:700;font-variant-numeric:tabular-nums}
+    .serie-list li.cur .serie-n{background:var(--accent);color:#fff}
+    .serie-t{font-size:.95rem;line-height:1.35}
+    a.serie-t{color:inherit}
+    a.serie-t:hover{color:var(--accent)}
+    .serie-list li.cur .serie-t{color:var(--ink);font-weight:600}
+    .serie-t em{font-style:normal;color:var(--muted);font-size:.78rem;font-weight:400}
     .catnav{display:grid;grid-template-columns:1fr 1fr;gap:.8rem;margin:2.4rem 0 .5rem;padding-top:1.4rem;border-top:1px solid var(--line)}
     .cn{display:flex;flex-direction:column;gap:.25rem;padding:.9rem 1rem;border:1px solid var(--line);border-radius:10px;
       background:var(--paper);text-decoration:none;color:inherit;transition:.15s}

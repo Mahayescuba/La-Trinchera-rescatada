@@ -1,21 +1,55 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
-const total = (await getCollection('posts')).length;
+import { fixCat } from '../lib/util';
+import { buildSeries } from '../lib/series';
+
+const posts = await getCollection('posts');
+const total = posts.length;
+const authorsSet = new Set<string>();
+const catsSet = new Set<string>();
+let dMin = '', dMax = '';
+for(const p of posts){
+  if(p.data.author) authorsSet.add(p.data.author);
+  const c = fixCat(p.data.category); if(c && c!=='Sin categoría') catsSet.add(c);
+  const d = p.data.date; if(d){ if(!dMin || d<dMin) dMin=d; if(!dMax || d>dMax) dMax=d; }
+}
+const { all: series } = buildSeries(posts);
+const yMin = dMin ? new Date(dMin).getFullYear() : 2018;
+const yMax = dMax ? new Date(dMax).getFullYear() : 2021;
 ---
-<Base title="Sobre La Trinchera" description="Qué fue La Trinchera: un espacio cubano de debate de ideas (2018–2021).">
+<Base title="Sobre La Trinchera" description="Qué fue La Trinchera: un espacio cubano de debate de ideas (2018–2021), y cómo se rescató su archivo.">
   <article class="wrap sobre">
     <p class="kicker">Sobre</p>
     <h1>La Trinchera</h1>
     <p class="lema">muchas maneras de estar</p>
 
-    <p><strong>La Trinchera</strong> fue un espacio cubano de debate de ideas que publicó entre <strong>2018 y 2021</strong>. Nació con una idea estrecha y creció hasta volverse lo contrario: un terreno común.</p>
+    <p><strong>La Trinchera</strong> fue un espacio cubano de debate de ideas que publicó entre <strong>{yMin} y {yMax}</strong>. Nació con una idea estrecha y creció hasta volverse lo contrario: un terreno común.</p>
 
     <p>Empezó como un lugar para publicar artículos de <strong>debate teórico marxista</strong>. En pocos meses se abrió a la <strong>discusión teórica y política desde la izquierda</strong>, y más tarde a algo más ambicioso: un <strong>proyecto plural</strong> para hablar de teoría, política y economía <strong>sin importar la filiación</strong>. Por sus páginas pasaron marxistas y libertarios, izquierda, derecha y centro. La apuesta no era el acuerdo, sino la calidad del desacuerdo.</p>
 
-    <p>Este sitio es su <strong>archivo recuperado</strong>: {total} textos rescatados y de nuevo en línea, tras el cierre del blog. Se reconstruyó a partir de copias dispersas —archivos web, correos, reproducciones en otros medios y respaldos personales— para que el debate que ocurrió aquí no se perdiera.</p>
+    <ul class="stats">
+      <li><b>{total}</b><span>textos</span></li>
+      <li><b>{authorsSet.size}</b><span>autores</span></li>
+      <li><b>{catsSet.size}</b><span>temas</span></li>
+      <li><b>{series.length}</b><span>series</span></li>
+    </ul>
+
+    <h2>Un archivo recuperado</h2>
+    <p>Este sitio es el <strong>archivo rescatado</strong> del blog, de nuevo en línea tras su cierre. Se reconstruyó a partir de <strong>copias dispersas</strong>: instantáneas de archivos web, reproducciones del material en otros medios, correos y respaldos personales. Cada texto se volvió a componer desde esas fuentes para que el debate que ocurrió aquí no se perdiera.</p>
+
+    <p>Donde fue posible, se <strong>recuperó la autoría</strong> de cada texto —muchas firmas estaban solo dentro del cuerpo del artículo o en la fuente original— y se <strong>unificaron las variantes</strong> de un mismo nombre. Los textos que salieron por entregas se reagruparon en <a href="/series/">series</a> siguiendo la numeración de sus propios autores. No se ha añadido contenido: todo lo que se lee aquí se publicó en su momento en La Trinchera.</p>
 
     <p class="note">Las opiniones de cada texto son responsabilidad de sus autores y no representan una línea editorial única. La Trinchera fue, precisamente, un lugar donde convivían posiciones distintas.</p>
+
+    <h2>Recorrer el archivo</h2>
+    <nav class="explore">
+      <a href="/archivo/">Archivo por año</a>
+      <a href="/autores/">Autores</a>
+      <a href="/categorias/">Temas</a>
+      <a href="/series/">Series</a>
+      <a href="/buscar/">Buscar</a>
+    </nav>
 
     <p><a class="cta" href="/">← Entrar al archivo</a></p>
   </article>
@@ -24,8 +58,18 @@ const total = (await getCollection('posts')).length;
     .sobre .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.16em;font-size:.72rem;margin:0}
     .sobre h1{font-size:2.6rem;margin:.1em 0 0}
     .sobre .lema{font-style:italic;color:var(--muted);margin:.2rem 0 1.6rem}
+    .sobre h2{font-size:1.4rem;margin:2rem 0 .6rem}
     .sobre p{margin:0 0 1.15em}
+    .stats{list-style:none;display:flex;flex-wrap:wrap;gap:.7rem;margin:1.6rem 0;padding:0}
+    .stats li{flex:1 1 auto;min-width:120px;text-align:center;border:1px solid var(--line);border-radius:11px;
+      background:var(--paper);padding:1rem .6rem}
+    .stats b{display:block;font-family:var(--display);font-size:1.9rem;line-height:1;color:var(--accent)}
+    .stats span{display:block;font-size:.78rem;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);margin-top:.35rem}
     .sobre .note{font-size:.95rem;color:var(--muted);border-left:3px solid var(--line);padding-left:1rem}
+    .explore{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.6rem}
+    .explore a{padding:.5rem .9rem;border:1px solid var(--line);border-radius:20px;background:var(--paper);
+      color:var(--accent);font-weight:600;font-size:.85rem;text-decoration:none}
+    .explore a:hover{background:var(--accent);color:#fff}
     .sobre .cta{color:var(--accent);font-weight:600}
   </style>
 </Base>
