@@ -2,14 +2,18 @@
 // Mosaico editorial reutilizable: teselas con imagen (o degradado + título)
 // y overlay. La primera tesela va destacada (grande).
 import { fixCat, fmtDate, excerpt, thumbData } from '../lib/util';
+import { pickCover } from '../lib/covers';
 const { items } = Astro.props;
 const grads = [['#8a2b2b','#3f1414'],['#6d4a5c','#2c1a22'],['#4f5d3a','#232a17'],['#3f5666','#1b262e'],['#7a5230','#33210f'],['#6b4f2a','#2e2210']];
-const tiles = items.map((p:any,i:number)=>({ p, im: p.data.image ? thumbData(p.data.image,640) : null, grad: grads[i%grads.length], feat: i===0 }));
+const tiles = items.map((p:any,i:number)=>{
+  const im = p.data.image ? thumbData(p.data.image,640) : null;
+  return { p, src: im ? im.src : pickCover(p).file, grad: grads[i%grads.length], feat: i===0 };
+});
 ---
 <div class="pm">
-  {tiles.map(({p,im,grad,feat}:any)=> (
+  {tiles.map(({p,src,feat}:any)=> (
     <a class={`pm-tile${feat?' feat':''}`} href={`/${p.slug}/`}
-       style={im ? `background-image:url(${im.src})` : `background-image:linear-gradient(150deg,${grad[0]},${grad[1]})`}>
+       style={`background-image:url(${src})`}>
       <span class="pm-scrim"></span>
       <div class="pm-cap">
         <span class="pm-cat">{fixCat(p.data.category)}</span>
