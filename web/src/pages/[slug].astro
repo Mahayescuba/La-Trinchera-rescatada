@@ -13,6 +13,16 @@ const { p, count } = Astro.props;
 const { Content } = await p.render();
 const desc = excerpt(p.body, 155);
 const prof:any = p.data.author ? ((authors as any)[slugify(p.data.author)] || {}) : null;
+const readMin = Math.max(1, Math.round(p.body.trim().split(/\s+/).length / 200));
+const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
+const year = p.data.date ? new Date(p.data.date).getFullYear() : '';
+const cite = `${p.data.author ? p.data.author+'. ' : ''}${year?`(${year}). `:''}«${p.data.title}». La Trinchera. ${pageUrl}`;
+const share = {
+  x: `https://twitter.com/intent/tweet?text=${encodeURIComponent(p.data.title)}&url=${encodeURIComponent(pageUrl)}`,
+  fb: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(pageUrl)}`,
+  wa: `https://wa.me/?text=${encodeURIComponent(p.data.title+' '+pageUrl)}`,
+  tg: `https://t.me/share/url?url=${encodeURIComponent(pageUrl)}&text=${encodeURIComponent(p.data.title)}`,
+};
 const jsonLd = {
   '@context':'https://schema.org','@type':'Article',
   headline: p.data.title,
@@ -33,9 +43,18 @@ const jsonLd = {
         ? <span>Por <a href={`/autor/${slugify(p.data.author)}/`}>{p.data.author}</a></span>
         : <span class="anon">Autoría no identificada</span>}
       {p.data.date && <span> · <time datetime={p.data.date}>{fmtDate(p.data.date)}</time></span>}
+      <span> · {readMin} min de lectura</span>
     </p>
     {p.data.image && <img class="lead" src={p.data.image} alt={p.data.title} loading="eager" decoding="async" />}
     <div class="body"><Content /></div>
+    <div class="share">
+      <span class="share-l">Compartir</span>
+      <a href={share.x} target="_blank" rel="noopener">X</a>
+      <a href={share.fb} target="_blank" rel="noopener">Facebook</a>
+      <a href={share.wa} target="_blank" rel="noopener">WhatsApp</a>
+      <a href={share.tg} target="_blank" rel="noopener">Telegram</a>
+      <button type="button" class="copybtn" data-copy={pageUrl}>Copiar enlace</button>
+    </div>
     {p.data.author && (
       <aside class="authorcard">
         {prof.hash
@@ -54,6 +73,11 @@ const jsonLd = {
         </div>
       </aside>
     )}
+    <details class="cite">
+      <summary>Cómo citar este texto</summary>
+      <p class="cite-text" id="cite-text">{cite}</p>
+      <button type="button" class="copybtn" data-copy={cite}>Copiar cita</button>
+    </details>
   </article>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)}></script>
   <style>
@@ -84,5 +108,30 @@ const jsonLd = {
     .ac-meta{margin:0;font-size:.82rem;display:flex;gap:.9rem;flex-wrap:wrap;align-items:center}
     .ac-meta a{color:var(--accent)}
     .ac-link{text-transform:uppercase;letter-spacing:.05em;font-size:.72rem;font-weight:600}
+    .share{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:2.2rem 0 .5rem;
+      padding-top:1.2rem;border-top:1px solid var(--line)}
+    .share-l{font-size:.72rem;text-transform:uppercase;letter-spacing:.12em;color:var(--muted);font-weight:700;margin-right:.2rem}
+    .share a,.share .copybtn{font-size:.82rem;color:var(--accent);border:1px solid var(--line);background:var(--paper);
+      border-radius:20px;padding:.32rem .8rem;text-decoration:none;cursor:pointer;font-family:inherit;line-height:1}
+    .share a:hover,.share .copybtn:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+    .cite{margin:1.4rem 0 .5rem;border:1px solid var(--line);border-radius:10px;background:var(--paper);padding:.4rem 1rem}
+    .cite summary{cursor:pointer;font-size:.85rem;color:var(--muted);font-weight:600;padding:.5rem 0;list-style:none}
+    .cite summary::-webkit-details-marker{display:none}
+    .cite summary::before{content:"❞ ";color:var(--accent)}
+    .cite[open] summary{border-bottom:1px solid var(--line);margin-bottom:.6rem}
+    .cite-text{font-size:.86rem;color:var(--ink);margin:.3rem 0 .6rem;line-height:1.5}
+    .cite .copybtn{font-size:.78rem;color:var(--accent);border:1px solid var(--accent);background:transparent;
+      border-radius:7px;padding:.35rem .8rem;cursor:pointer;font-family:inherit;margin-bottom:.5rem}
+    .cite .copybtn:hover{background:var(--accent);color:#fff}
   </style>
+  <script is:inline>
+    document.addEventListener('click',function(e){
+      var b=e.target.closest('.copybtn'); if(!b) return;
+      var txt=b.getAttribute('data-copy')||'';
+      navigator.clipboard.writeText(txt).then(function(){
+        var old=b.textContent; b.textContent='¡Copiado!';
+        setTimeout(function(){ b.textContent=old; },1600);
+      }).catch(function(){});
+    });
+  </script>
 </Base>

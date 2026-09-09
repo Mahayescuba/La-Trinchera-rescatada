@@ -1,7 +1,8 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
-import { fixCat, slugify, fmtDate, excerpt } from '../../lib/util';
+import { fixCat, slugify, fmtDate, excerpt, initials, monoColor } from '../../lib/util';
+import authors from '../../data/authors.json';
 export async function getStaticPaths(){
   const posts = await getCollection('posts');
   const groups = new Map();
@@ -11,12 +12,26 @@ export async function getStaticPaths(){
     items:g.items.sort((a,b)=>(b.data.date||'').localeCompare(a.data.date||''))} }));
 }
 const { name, items } = Astro.props;
+const isAnon = name === 'Sin autor';
+const prof:any = isAnon ? {} : ((authors as any)[slugify(name)] || {});
 ---
 <Base title={name} description={`Artículos de ${name}`}>
   <section class="wrap list">
-    <p class="kicker">Autor</p>
-    <h1>{name}</h1>
-    <p class="count">{items.length} textos</p>
+    <header class="ah">
+      {!isAnon && (prof.hash
+        ? <img class="ah-av" src={`https://www.gravatar.com/avatar/${prof.hash}?s=200`} alt={name} width="80" height="80" loading="eager" />
+        : <span class="ah-av ah-mono" style={`background:${monoColor(name)}`}>{initials(name)}</span>)}
+      <div class="ah-body">
+        <p class="kicker">Autor</p>
+        <h1>{name}</h1>
+        {prof.bio && <p class="ah-bio">{prof.bio}</p>}
+        <p class="count">{items.length} {items.length===1?'texto':'textos'}{prof.links && prof.links.length ? ' · ' : ''}
+          {prof.links && prof.links.map((l:string,i:number)=> (
+            <>{i>0 && ' · '}<a class="ah-link" href={l} target="_blank" rel="noopener">{l.startsWith('mailto:')?'correo':'sitio'}</a></>
+          ))}
+        </p>
+      </div>
+    </header>
     <ul>
       {items.map(p=> (
         <li>
@@ -31,9 +46,16 @@ const { name, items } = Astro.props;
   </section>
   <style>
     .list{max-width:760px;padding:2.2rem 1.2rem}
+    .ah{display:flex;gap:1.2rem;align-items:flex-start;margin:0 0 1.6rem}
+    .ah-av{width:80px;height:80px;border-radius:50%;flex:0 0 auto;object-fit:cover;display:grid;place-items:center;
+      font-family:Georgia,serif;font-weight:700;font-size:1.8rem;color:#fbf6ef;border:1px solid rgba(0,0,0,.06)}
+    .ah-body{min-width:0}
     .list .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.14em;font-size:.72rem;margin:0}
-    .list h1{font-size:2.4rem;margin:.15em 0}
-    .list .count{color:var(--muted);margin:0 0 1.4rem}
+    .list h1{font-size:2.4rem;margin:.1em 0}
+    .ah-bio{color:var(--muted);margin:.3rem 0 .4rem;font-size:.95rem;line-height:1.55}
+    .ah-link{color:var(--accent);text-transform:uppercase;letter-spacing:.05em;font-size:.72rem;font-weight:600}
+    .list .count{color:var(--muted);margin:.2rem 0 0}
+    .ah + ul, .list > ul{margin-top:1rem}
     .list ul{list-style:none;padding:0;margin:0}
     .list li{border-top:1px solid var(--line);padding:1.1rem 0}
     .list h2{font-size:1.3rem;margin:0 0 .2em}
