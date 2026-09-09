@@ -105,5 +105,35 @@ const m3=page(`
  <nav><a>Política</a><a>Economía</a><a>Marxismo</a><a>Cultura</a><a>Buscar</a></nav></div></header>`,
 `<section class="hero"><p>Debate de ideas desde Cuba (2018–2021). Teoría, política y economía sin filiación — izquierda, derecha, centro, marxistas, libertarios.</p></section>`);
 
+
+// ---- 4. RECOMENDADA: reseña intelectual + tira + franja-manifiesto ----
+const m4=page(`
+ body{background:#fbf9f5;color:#1a1714;font-family:-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+ .wrap{max-width:1080px;margin:0 auto;padding:0 1.2rem}
+ header{border-bottom:1px solid #e7e0d6;background:#fff;border-top:3px solid #7a1f1f}
+ .hdr{max-width:1080px;margin:0 auto;padding:1.15rem 1.2rem;display:flex;justify-content:space-between;align-items:center}
+ .brand{font-family:Georgia,serif;font-weight:700;font-size:1.9rem;letter-spacing:.01em}.brand small{display:block;font-size:.6rem;letter-spacing:.24em;text-transform:uppercase;color:#6b625a;margin-top:1px}
+ nav a{font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;color:#6b625a;margin-left:1.1rem}
+ .tira{background:#7a1f1f;color:#f7ede3;text-align:center;font-size:.68rem;letter-spacing:.22em;text-transform:uppercase;padding:.42rem}
+ .hero{text-align:center;padding:2.4rem 1.2rem 1.2rem;border-bottom:1px solid #e7e0d6;margin-bottom:1.8rem}
+ .hero .k{color:#7a1f1f;text-transform:uppercase;letter-spacing:.18em;font-size:.7rem}
+ .hero h1{font-family:Georgia,serif;font-size:2.7rem;margin:.2em auto .15em;max-width:820px;line-height:1.12}
+ .hero p{color:#6b625a;max-width:640px;margin:.3rem auto 0}
+ .cat{color:#7a1f1f;font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;font-weight:700}
+ h2,h3{font-family:Georgia,serif}
+ .feat{display:grid;grid-template-columns:1.1fr 1fr;gap:1.6rem;align-items:center;background:#fff;border:1px solid #e7e0d6;border-radius:10px;overflow:hidden;margin-bottom:2rem;text-decoration:none;color:inherit}
+ .fi{min-height:320px;background-size:cover;background-position:center}.ft{padding:1.6rem}.ft h2{font-size:1.9rem;margin:.3em 0}.ft p{color:#6b625a}
+ .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.4rem;padding-bottom:2rem}
+ .card{background:#fff;border:1px solid #e7e0d6;border-radius:9px;overflow:hidden;text-decoration:none;color:inherit;display:flex;flex-direction:column}
+ .ci{height:150px;background-size:cover;background-position:center}.cb{padding:.9rem 1rem 1.1rem;display:flex;flex-direction:column;gap:.35rem}
+ .cb h3{font-size:1.12rem;margin:.15em 0}.cb p{color:#6b625a;font-size:.9rem}.meta{color:#8c837a;font-size:.76rem;margin-top:auto;padding-top:.3rem}
+`,
+`<header><div class="hdr"><div class="brand">La Trinchera<small>muchas maneras de estar</small></div>
+ <nav><a>Política</a><a>Economía</a><a>Marxismo</a><a>Cultura</a><a>Buscar</a></nav></div></header>
+ <div class="tira">Izquierda · Derecha · Centro · Sin filiación</div>`,
+`<section class="hero"><p class="k">Archivo · 2018–2021</p><h1>Un lugar para pensar en desacuerdo</h1>
+ <p>La Trinchera: debate de ideas desde Cuba. Teoría, política y economía sin filiación.</p></section>`);
+fs.writeFileSync('mock4.html',m4);
+
 fs.writeFileSync('mock1.html',m1); fs.writeFileSync('mock2.html',m2); fs.writeFileSync('mock3.html',m3);
 console.log('mocks generados. posts con imagen:',dated.length);
