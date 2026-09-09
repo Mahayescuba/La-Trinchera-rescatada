@@ -3,7 +3,7 @@ const { title, description, image, type = 'website' } = Astro.props;
 const site = 'La Trinchera';
 const fullTitle = title ? `${title} — ${site}` : site;
 const canonical = new URL(Astro.url.pathname, Astro.site);
-const ogImage = image ? new URL(image, Astro.site).href : undefined;
+const ogImage = new URL(image || '/og-default.png', Astro.site).href;
 ---
 <!doctype html>
 <html lang="es">
