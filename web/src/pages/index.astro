@@ -22,21 +22,34 @@ const temas = Object.entries(catCounts).sort((a,b)=>b[1]-a[1]).slice(0,12).map((
 const allSeries = buildSeries(posts).all;
 const gradPairs = [['#8a2b2b','#3f1414'],['#6d4a5c','#2c1a22'],['#4f5d3a','#232a17'],['#3f5666','#1b262e'],['#7a5230','#33210f'],['#6b4f2a','#2e2210']];
 const seriesCards = allSeries.map((s,i)=>({ s, cover: s.cover ? thumbData(s.cover, 520) : null, grad: gradPairs[i % gradPairs.length], init: (s.base.trim()[0]||'·').toUpperCase() }));
+const numTemas = Object.keys(catCounts).length;
+const moreList = withDate.slice(10,25);
+// Mosaico editorial: la primera entrada, grande; el resto, teselas
+const mosaic = withDate.slice(1,10).map((p,i)=>({
+  p,
+  im: p.data.image ? thumbData(p.data.image, 640) : null,
+  grad: gradPairs[i % gradPairs.length],
+  feat: i===0,
+}));
 // "Voces del archivo": autores más prolíficos
 const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,10)
   .map(([name,count],i)=>{ const prof:any=(authors as any)[slugify(name)]||{}; return {name,count,hash:prof.hash||'',big:i<2}; });
 ---
 <Base title={null} description="Archivo rescatado de La Trinchera: una plataforma cubana para el debate y la reflexión.">
-  <section class="wrap hero">
-    <p class="kicker">Archivo · 2018–2021</p>
-    <h1>La Trinchera</h1>
-    <p class="sub">Debate de ideas desde Cuba. Teoría, política y economía sin filiación: izquierda, derecha, centro, marxistas, libertarios.</p>
-    <ul class="stats">
-      <li><b>{total}</b> textos</li>
-      <li><b>{numAutores}</b> autores</li>
-      <li><b>2018–2021</b> en línea</li>
-    </ul>
-  </section>
+  <header class="wrap mast">
+    <div class="mast-top">
+      <h1 class="logo">La <em>Trinchera</em></h1>
+      <div class="mast-right"><b>Archivo rescatado</b><br>muchas maneras de estar<br>Debate de ideas · Cuba</div>
+    </div>
+    <div class="dateline">
+      <span><b>{total}</b> textos</span>
+      <span><b>{numAutores}</b> firmas</span>
+      <span><b>{allSeries.length}</b> series</span>
+      <span><b>{numTemas}</b> temas</span>
+      <span>Publicó 2018 — 2022 · <b>hoy en archivo</b></span>
+    </div>
+    <p class="mast-lede">Debate de ideas desde Cuba. Teoría, política y economía sin filiación: izquierda, derecha, centro, marxistas, libertarios.</p>
+  </header>
 
   {temas.length > 0 && (
     <nav class="wrap temas" aria-label="Explorar por tema">
@@ -49,14 +62,15 @@ const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,10)
   )}
 
   {featured && (
-    <a class="wrap feat" href={`/${featured.slug}/`}>
-      {featImg && <img class="feat-img" src={featImg.src} alt={featured.data.title} width={featImg.w} height={featImg.h} loading="eager" fetchpriority="high" decoding="async" />}
-      <div class="feat-txt">
-        <span class="feat-flag">Lo último</span>
-        <span class="cat">{fixCat(featured.data.category)}</span>
+    <a class={`wrap lead-hero${featImg?'':' noimg'}`} href={`/${featured.slug}/`}
+       style={featImg ? `background-image:url(${featImg.src})` : ''}>
+      <span class="lh-scrim"></span>
+      <div class="lh-txt">
+        <span class="lh-flag">Lo último publicado</span>
+        <span class="lh-cat">{fixCat(featured.data.category)}</span>
         <h2>{featured.data.title}</h2>
-        <p>{excerpt(featured.body,240)}</p>
-        <span class="meta">{featured.data.author && `${featured.data.author} · `}{fmtDate(featured.data.date)}</span>
+        <p class="lh-dek">{excerpt(featured.body,190)}</p>
+        <span class="lh-meta">{featured.data.author && `${featured.data.author} · `}{fmtDate(featured.data.date)}</span>
       </div>
     </a>
   )}
@@ -66,19 +80,33 @@ const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,10)
       <h2>Lo más reciente</h2>
       <a class="sec-all" href="/archivo/">Ver todo el archivo →</a>
     </div>
-    <div class="grid">
-      {rest.map(p=> { const im = p.data.image ? thumbData(p.data.image,600) : null; return (
-        <a class="card" href={`/${p.slug}/`}>
-          {im && <img class="card-img" src={im.src} alt={p.data.title} width={im.w} height={im.h} loading="lazy" decoding="async" />}
-          <div class="card-body">
-            <span class="cat">{fixCat(p.data.category)}</span>
+    <div class="mosaic">
+      {mosaic.map(({p,im,grad,feat})=> (
+        <a class={`mtile${feat?' feat':''}${im?'':' noimg'}`} href={`/${p.slug}/`}
+           style={im ? `background-image:url(${im.src})` : `background-image:linear-gradient(150deg,${grad[0]},${grad[1]})`}>
+          <span class="mt-scrim"></span>
+          <div class="mt-cap">
+            <span class="mt-cat">{fixCat(p.data.category)}</span>
             <h3>{p.data.title}</h3>
-            <p>{excerpt(p.body,120)}</p>
-            <span class="meta">{p.data.author && `${p.data.author} · `}{fmtDate(p.data.date)}</span>
+            {feat && <p class="mt-dek">{excerpt(p.body,140)}</p>}
+            <span class="mt-meta">{p.data.author && `${p.data.author} · `}{fmtDate(p.data.date)}</span>
           </div>
         </a>
-      ); })}
+      ))}
     </div>
+    {moreList.length>0 && (
+      <ul class="morelist">
+        {moreList.map(p=> (
+          <li>
+            <a href={`/${p.slug}/`}>
+              <span class="ml-cat">{fixCat(p.data.category)}</span>
+              <span class="ml-t">{p.data.title}</span>
+              <span class="ml-m">{p.data.author && `${p.data.author} · `}{fmtDate(p.data.date)}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    )}
     <div class="more-cta">
       <a class="cta" href="/archivo/">Ver más artículos →</a>
     </div>
@@ -136,12 +164,20 @@ const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,10)
   </script>
 
   <style>
-    .hero{padding:2.8rem 1.2rem 1.4rem;text-align:center}
-    .hero .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.16em;font-size:.72rem;margin:0}
-    .hero h1{font-size:clamp(2.4rem,8vw,3.4rem);margin:.15em 0 .12em;letter-spacing:-.015em}
-    .hero .sub{color:var(--muted);max-width:640px;margin:.4rem auto 0;font-size:1.05rem}
-    .stats{list-style:none;display:flex;justify-content:center;flex-wrap:wrap;gap:.4rem 1.8rem;margin:1.3rem 0 0;padding:0;color:var(--muted);font-size:.9rem}
-    .stats li b{font-family:var(--display);color:var(--ink);font-size:1.05rem}
+    /* mancheta / masthead */
+    .mast{padding:clamp(1.6rem,4vw,2.6rem) 1.2rem 1.2rem}
+    .mast-top{display:flex;align-items:center;gap:1rem;justify-content:space-between;flex-wrap:wrap;
+      border-bottom:3px solid var(--ink);padding-bottom:.7rem}
+    .logo{font-family:var(--display);font-weight:900;font-size:clamp(2.2rem,7vw,4rem);letter-spacing:-.02em;line-height:.9;margin:0}
+    .logo em{font-style:italic;font-weight:500;color:var(--accent)}
+    .mast-right{text-align:right;font-size:.72rem;color:var(--muted);letter-spacing:.04em;line-height:1.5}
+    .mast-right b{color:var(--ink)}
+    .dateline{display:flex;flex-wrap:wrap;gap:.4rem 1.4rem;padding:.55rem 0;font-size:.72rem;font-weight:600;
+      letter-spacing:.1em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--line)}
+    .dateline b{color:var(--accent)}
+    .dateline b, .mast-right b{font-family:var(--display)}
+    .mast-lede{color:var(--muted);max-width:60ch;margin:.9rem 0 0;font-size:1.02rem}
+    @media (max-width:560px){ .mast-right{text-align:left} }
 
     .temas{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem;padding:.4rem 1.2rem 2rem}
     .temas-l{font-size:.72rem;text-transform:uppercase;letter-spacing:.14em;color:var(--muted);font-weight:700;margin-right:.3rem}
@@ -152,15 +188,46 @@ const voces = Object.entries(authorCounts).sort((a,b)=>b[1]-a[1]).slice(0,10)
     .chip:hover .chip-n{color:var(--accent)}
     .chip-all{color:var(--accent);font-weight:600}
 
-    .feat{display:grid;grid-template-columns:1.1fr 1fr;gap:1.6rem;align-items:stretch;background:var(--paper);border:1px solid var(--line);border-radius:10px;overflow:hidden;margin-bottom:2.4rem}
-    .feat-img{width:100%;height:100%;min-height:320px;object-fit:cover;display:block;background:#efe9e0}
-    .feat-txt{padding:1.7rem 1.9rem 1.9rem;display:flex;flex-direction:column}
-    .feat-flag{display:inline-block;align-self:flex-start;font-size:.66rem;text-transform:uppercase;letter-spacing:.14em;
-      font-weight:700;color:#fff;background:var(--accent);padding:.22rem .55rem;border-radius:4px;margin-bottom:.7rem}
-    .feat-txt .cat{margin-bottom:.2rem}
-    .feat-txt h2{font-size:2rem;margin:.15em 0 .3em;line-height:1.12}
-    .feat-txt p{color:var(--muted)}
-    .feat-txt .meta{margin-top:auto}
+    /* hero con imagen grande y título encima */
+    .lead-hero{position:relative;display:block;border-radius:10px;overflow:hidden;margin-bottom:2.4rem;
+      aspect-ratio:16/8;background-size:cover;background-position:center;background-color:var(--accent);color:#fff}
+    .lead-hero.noimg{background-image:linear-gradient(150deg,#8a2b2b,#3f1414)}
+    .lead-hero .lh-scrim{position:absolute;inset:0;background:linear-gradient(to top,rgba(16,7,7,.9),rgba(16,7,7,.32) 48%,rgba(16,7,7,.06))}
+    .lead-hero .lh-txt{position:absolute;left:0;right:0;bottom:0;padding:clamp(1.1rem,3.5vw,2.3rem);max-width:44rem}
+    .lh-flag{display:inline-block;font-size:.64rem;text-transform:uppercase;letter-spacing:.14em;font-weight:700;
+      color:#fff;background:var(--accent);padding:.24rem .55rem;border-radius:4px;margin-bottom:.6rem}
+    .lh-cat{display:block;font-size:.72rem;text-transform:uppercase;letter-spacing:.12em;font-weight:700;color:#f2d5c2}
+    .lead-hero h2{font-size:clamp(1.6rem,4.4vw,3rem);line-height:1.1;margin:.15em 0 .3em;color:#fff}
+    .lh-dek{color:#efe2d6;font-size:1.02rem;margin:0 0 .5rem;max-width:52ch}
+    .lh-meta{font-family:inherit;color:#e8d5c6;font-size:.82rem}
+    @media (max-width:560px){ .lead-hero{aspect-ratio:auto;min-height:70vw} }
+
+    /* mosaico editorial de teselas con imagen */
+    .mosaic{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-rows:200px;gap:.8rem;grid-auto-flow:dense;padding-bottom:1.4rem}
+    .mtile{position:relative;overflow:hidden;border-radius:8px;background-size:cover;background-position:center;
+      background-color:var(--accent);display:block;color:#fff;transition:transform .15s}
+    .mtile:hover{transform:translateY(-2px)}
+    .mtile.feat{grid-column:span 2;grid-row:span 2}
+    .mt-scrim{position:absolute;inset:0;background:linear-gradient(to top,rgba(16,7,7,.9),rgba(16,7,7,.12) 62%)}
+    .mtile:hover .mt-scrim{background:linear-gradient(to top,rgba(90,22,22,.92),rgba(16,7,7,.2) 62%)}
+    .mt-cap{position:absolute;left:0;right:0;bottom:0;padding:.85rem .95rem}
+    .mt-cat{display:block;font-size:.62rem;text-transform:uppercase;letter-spacing:.12em;font-weight:700;color:#f2d5c2;margin-bottom:.12rem}
+    .mt-cap h3{color:#fff;font-size:1.06rem;line-height:1.16;margin:0}
+    .mtile.feat .mt-cap h3{font-size:clamp(1.4rem,2.6vw,2rem)}
+    .mt-dek{color:#efe2d6;font-size:.92rem;margin:.3rem 0 0;max-width:46ch}
+    .mt-meta{display:block;color:#e8d5c6;font-size:.72rem;margin-top:.25rem}
+    @media (max-width:860px){ .mosaic{grid-template-columns:repeat(2,1fr)} .mtile.feat{grid-column:span 2} }
+    @media (max-width:560px){ .mosaic{grid-template-columns:1fr;grid-auto-rows:190px} .mtile.feat{grid-column:span 1;grid-row:span 2} }
+
+    /* continuación: más entradas recientes, en lista compacta */
+    .morelist{list-style:none;margin:1.4rem 0 0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:0 2rem}
+    .morelist li{border-top:1px solid var(--line)}
+    .morelist a{display:grid;grid-template-columns:1fr auto;align-items:baseline;gap:.3rem 1rem;padding:.7rem 0;color:inherit}
+    .ml-cat{grid-column:1;font-size:.62rem;text-transform:uppercase;letter-spacing:.1em;font-weight:700;color:var(--accent)}
+    .ml-t{grid-column:1;font-family:var(--display);font-weight:600;font-size:1.02rem;line-height:1.2}
+    .morelist a:hover .ml-t{color:var(--accent)}
+    .ml-m{grid-column:1;color:var(--muted);font-size:.76rem}
+    @media (max-width:640px){ .morelist{grid-template-columns:1fr;gap:0} }
 
     .sec-head{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin:0 0 1.1rem}
     .sec-head h2{font-size:1.5rem;margin:0}
