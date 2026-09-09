@@ -42,6 +42,15 @@ export function thumb(src?:string, target=600):string {
   return best ? path.posix.join(path.posix.dirname(src), best) : src;
 }
 
+// Como thumb(), pero además devuelve ancho/alto cuando el nombre del archivo
+// los codifica (name-800x600.jpg). Sirve para fijar width/height y evitar
+// saltos de maquetación (CLS) sin cambiar el aspecto.
+export function thumbData(src?:string, target=600):{src:string,w?:number,h?:number}{
+  const out = thumb(src, target);
+  const m = out.match(/-(\d+)x(\d+)\.[a-zA-Z0-9]+$/);
+  return m ? { src:out, w:+m[1], h:+m[2] } : { src:out };
+}
+
 export const excerpt = (body:string, n=200)=>{
   const txt=body
     .replace(/<[^>]+>/g,' ')                        // etiquetas HTML sueltas (iframe, etc.)

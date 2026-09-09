@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
-import { fixCat, slugify, fmtDate, excerpt, initials, monoColor } from '../lib/util';
+import { fixCat, slugify, fmtDate, excerpt, initials, monoColor, thumbData } from '../lib/util';
 import { buildSeries } from '../lib/series';
 import authors from '../data/authors.json';
 export async function getStaticPaths(){
@@ -51,6 +51,7 @@ export async function getStaticPaths(){
 const { p, count, topCat, related, catNav, series } = Astro.props;
 const { Content } = await p.render();
 const desc = excerpt(p.body, 155);
+const lead = p.data.image ? thumbData(p.data.image, 1200) : null;
 const prof:any = p.data.author ? ((authors as any)[slugify(p.data.author)] || {}) : null;
 const readMin = Math.max(1, Math.round(p.body.trim().split(/\s+/).length / 200));
 const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
@@ -70,6 +71,17 @@ const jsonLd = {
   ...(p.data.image ? { image:new URL(p.data.image, Astro.site).href } : {}),
   publisher:{ '@type':'Organization', name:'La Trinchera' },
   mainEntityOfPage: new URL(Astro.url.pathname, Astro.site).href,
+  ...(series ? { isPartOf:{ '@type':'CreativeWorkSeries', name:series.base } } : {}),
+};
+const catName = p.data.category ? fixCat(p.data.category) : '';
+const hasCat = !!catName && catName!=='Sin categoría';
+const crumbLd = {
+  '@context':'https://schema.org','@type':'BreadcrumbList',
+  itemListElement:[
+    { '@type':'ListItem', position:1, name:'Inicio', item:new URL('/', Astro.site).href },
+    ...(hasCat ? [{ '@type':'ListItem', position:2, name:catName, item:new URL(`/categoria/${slugify(catName)}/`, Astro.site).href }] : []),
+    { '@type':'ListItem', position: hasCat?3:2, name:p.data.title, item:pageUrl },
+  ],
 };
 ---
 <Base title={p.data.title} description={desc} image={p.data.image || undefined} type="article">
@@ -88,7 +100,7 @@ const jsonLd = {
       {p.data.date && <span> · <time datetime={p.data.date}>{fmtDate(p.data.date)}</time></span>}
       <span> · {readMin} min de lectura</span>
     </p>
-    {p.data.image && <img class="lead" src={p.data.image} alt={p.data.title} loading="eager" decoding="async" />}
+    {lead && <img class="lead" src={lead.src} alt={p.data.title} width={lead.w} height={lead.h} loading="eager" fetchpriority="high" decoding="async" />}
     <div class="body"><Content /></div>
     {series && (
       <section class="serie" aria-label={`Serie: ${series.base}`}>
@@ -164,6 +176,7 @@ const jsonLd = {
     </details>
   </article>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)}></script>
+  <script type="application/ld+json" set:html={JSON.stringify(crumbLd)}></script>
   <style>
     .post{max-width:720px;padding:2rem 1.2rem 1rem;overflow-wrap:break-word}
     .crumbs{display:flex;flex-wrap:wrap;align-items:center;gap:.4rem;font-size:.78rem;margin-bottom:1.1rem;
@@ -176,7 +189,7 @@ const jsonLd = {
     .post .meta{color:var(--muted);font-size:.9rem;margin:.2rem 0 1.3rem}
     .post .meta a{color:var(--accent)}
     .post .meta .anon{font-style:italic;opacity:.7}
-    img.lead{width:100%;border-radius:8px;margin:.5rem 0 1.5rem}
+    img.lead{width:100%;height:auto;border-radius:8px;margin:.5rem 0 1.5rem;background:#efe9e0}
     .body{font-family:Georgia,"Times New Roman",serif;font-size:1.14rem;line-height:1.8;overflow-wrap:break-word;word-break:break-word}
     .body :global(p){margin:0 0 1.15em}
     .body :global(img){max-width:100%;height:auto;border-radius:6px;margin:1rem 0}
