@@ -1,7 +1,7 @@
 ---
 title: "Error de cálculo"
 date: "2019-09-21T13:34:39+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---

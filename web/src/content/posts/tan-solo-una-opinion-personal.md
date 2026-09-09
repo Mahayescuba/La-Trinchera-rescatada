@@ -1,12 +1,10 @@
 ---
 title: "Tan solo una opinión personal"
 date: ""
-author: ""
+author: "Miguel Fergoz"
 category: ""
 image: ""
 ---
-Por : Miguel Fergoz
-
 No creo que haya existido revolución en el poder que haya mantenido su esencia revolucionaria intacta más allá del tiempo que le ha tomado establecer un nuevo statu quo. ¿Cuánto tiempo dura eso, 10, 15, 20 años? No lo sé, pero después de ese tiempo, que es también el tiempo de caducidad de ciertas ideas metodológicas, si se quiere mantener la senda revolucionaria, habrá que estar dispuesto a dar un paso hacia el costado y permitir que los nuevos revolucionarios, de una manera orgánica y por méritos propios, rompan nuevamente el statu quo y transfundan con sangre nueva el proceso, haciéndolo evolucionar. Cuando la vieja camada se niega a dar paso a las nuevas generaciones, entonces es evidente que se ha corrompido su espíritu revolucionario y se han convertido, sin darse cuenta tal vez, en guardianes del statu quo, o lo que es lo mismo, en conservadores aferrados al poder. La existencia humana (y en general cualquier proceso natural) está compuesta por ciclos. A cada ciclo le sucede otro y luego otro, y así sucesivamente. Los ciclos tienen un inicio y un fin, y pueden iniciar y/o terminar en armonía o pueden iniciar y/o terminar violentamente, algo que suele suceder si existen fuerzan empeñadas en mantener un viejo ciclo en evidente decadencia a costa del futuro y las ilusiones de la gente que nace, crece, se desarrolla y muere en medio de los procesos que se llevan a cabo dentro de ese ciclo.
 
 Sin dudas, las revoluciones disecadas como piezas de museo tienen sus admiradores. Estos la miran con cierta nostalgia, les gustaría mantenerlas en su memoria siempre así, tal cual se la imaginan. ¡Que nadie se atreva a emborronar su inmaculada historia! Pero las revoluciones no caben en una foto ni en un cuadro, ni existen para ser exhibidas en una galería. La revolución se hace para el pueblo, y el pueblo somos todos. Así que es imperdonable cuando se alejan del mismo.

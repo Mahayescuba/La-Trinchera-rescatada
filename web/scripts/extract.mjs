@@ -48,6 +48,17 @@ const SOURCE_AUTHOR = {
   'el-otro-pais':'René Fidel González García',       // cubaposible.com/author/rene-fidel-gonzalez-garcia
   'marx-salario-y-capital':'Miguel Alejandro Hayes',  // rebelion.org/autor/miguel-alejandro-hayes
   'los-hay-que':'Miguel Alejandro Hayes',             // rebelion.org/los-efectos-de-facundo
+  // columnas cuyo slug lleva el nombre del autor (colaboradores frecuentes)
+  'a-latir-de-pecho-pablo-dussac':'Pablo Dussac',
+  'como-esta-la-habana-pablo-dussac':'Pablo Dussac',
+  'coyuntura-pablo-dussac':'Pablo Dussac',
+  'jugando-a-decir-lo-mismo-pablo-dussac':'Pablo Dussac',
+  'lo-que-debo-hacer-pablo-dussac':'Pablo Dussac',
+  'leonardo-padura-sender-escobar':'Sender Escobar',
+  'fernando-rodriguez-sosa-sender-escobar':'Sender Escobar',
+  'vicente-feliu-sender-escobar':'Sender Escobar',
+  // firma al final del texto
+  'fallece-enrique-colina':'René Fidel González García',
 };
 
 // palabras que siguen a "por" como preposición (no son nombres)
@@ -62,9 +73,9 @@ function findByline(body){
   let acc=0;
   for(let i=0;i<lines.length;i++){
     if(i>=30 || acc>4000) break; acc+=lines[i].length+1;   // firma cerca del inicio (por línea o por caracteres)
-    const de=lines[i].replace(/[*_`]/g,'');   // sin énfasis (arregla negritas partidas)
-    // 1) línea que es SOLO "Por: Nombre" o "Autor: Nombre"
-    let m=de.match(/^\s*(?:[Pp]or:?|[Aa]utor:)\s*([A-ZÁÉÍÓÚÑ][^\n]{1,45}?)\s*$/);
+    const de=lines[i].replace(/[*_`]/g,'').replace(/^\s*#{1,6}\s*/,'');   // sin énfasis ni ## de encabezado
+    // 1) línea que es SOLO "Por: Nombre" o "Autor: Nombre" (admite "Por :" con espacio)
+    let m=de.match(/^\s*(?:[Pp]or\s*:?|[Aa]utor\s*:)\s*([A-ZÁÉÍÓÚÑ][^\n]{1,45}?)\s*$/);
     if(m){
       const name=clean(m[1]).replace(/[*_.,;:\\\s]+$/,'').trim();
       if(validName(name)) return {name, line:lines[i]};

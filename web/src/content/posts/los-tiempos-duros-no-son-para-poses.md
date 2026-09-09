@@ -5,8 +5,6 @@ author: "Hiram H. Castro"
 category: "Política en Cuba"
 image: ""
 ---
-**Por : Hiram H. Castro**
-
 Mucho se menciona al tal [Humberto](https://www.youtube.com/watch?v=t-vWnH0tR4k). Es la cara, por televisiva, más visible del linchamiento mediático contra periodistas e intelectuales vinculados a proyectos editoriales en la red. En lo personal, me indigna la disposición a englobarlo todo y a todos con las mismas etiquetas. No distinguir es no pensar, pero en este caso obedece menos a una incapacidad intelectual que a un acto deliberado de manipulación de la opinión pública.
 
 <iframe loading="lazy" class="youtube-player" width="960" height="540" src="https://www.youtube.com/embed/t-vWnH0tR4k?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=es-ES&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>

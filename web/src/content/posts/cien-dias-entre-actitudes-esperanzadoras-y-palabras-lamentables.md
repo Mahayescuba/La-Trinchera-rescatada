@@ -1,12 +1,10 @@
 ---
 title: "Cien días: entre actitudes esperanzadoras y palabras lamentables"
 date: "2018-07-24T12:00:21+00:00"
-author: ""
+author: "René Portuondo"
 category: "Política en Cuba"
 image: ""
 ---
-### Por: René Portuondo
-
 Se encuentra muy próximo la fecha en la que se cumplirán los cien primeros días de gobierno de la nueva administración cubana, que fue elegida y presentada en abril del presente año, y que hace solo unas pocas horas mostró la nueva conformación del ejecutivo nacional (Consejo de Ministro). La misma ha impuesto sobre el país una dinámica de trabajo desde hace mucho tiempo no vista, que recuerda un poco a Fidel y su gobierno cercano a la gente.
 
 Para muchos estos primeros cien días han estado marcados por actitudes esperanzadoras, pero para otros ha sido un reflejo de que muy poco cambiará realmente en la forma de hacer las cosas en Cuba en los próximos cinco años. Palabras lamentables han oscurecido lo que para muchos habían sido destellos de una Cuba que se encaminaba hacia un lugar mejor.

@@ -1,7 +1,7 @@
 ---
 title: "A latir de pecho"
 date: "2019-05-30T06:16:05+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Jugando a decir lo mismo"
 date: "2019-06-29T06:54:08+00:00"
-author: ""
+author: "Pablo Dussac"
 category: "Onírica"
 image: ""
 ---

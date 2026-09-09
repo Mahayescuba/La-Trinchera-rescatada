@@ -5,8 +5,6 @@ author: "Julio Pernús"
 category: "Política en Cuba"
 image: ""
 ---
-**Por : Julio Pernús**
-
 Notas sobre dos conversaciones (interrogatorios) con la Seguridad del Estado
 
 Al publicar esto lo hago con miedo, no me da pena admitirlo. Antes de entrar a la policía, he rezado bajito, en silencio y le he pedido a Dios por mí, para que me ayude a no perder la Paz y también por los oficiales que me interrogaron, para que ellos y sus familias también puedan ser parte de la reconciliación tan necesaria en el tejido social de la Nación.

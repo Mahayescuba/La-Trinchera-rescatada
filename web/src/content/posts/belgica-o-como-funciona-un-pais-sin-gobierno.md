@@ -7,8 +7,6 @@ image: ""
 ---
 Bélgica sin gobierno.
 
-**Por : Ana Barnes**
-
 Hace veinte meses que Bélgica no tiene gobierno. El 18 de diciembre de 2018 el primer ministro Charles Michel entregaba su renuncia. Mucho ha llovido desde entonces, incluyendo una pandemia global. ¿Cómo puede un país enfrentar una crisis sanitaria de tal envergadura en medio de una crisis política de fondo?
 
 Para empezar, ciertas precisiones se imponen. Bélgica es una monarquía constitucional parlamentaria, con un Estado federal cuyas competencias están repartidas entre la Autoridad federal, las Regiones y las Comunidades. Por lo tanto, existe un gobierno federal (a cargo de las relaciones exteriores, la defensa nacional, la justicia, las finanzas y la seguridad social), tres gobiernos regionales (responsables de todo lo concerniente a la ocupación del territorio, como el medioambiente, la economía, el comercio, el empleo, la vivienda, etc.) y dos gobiernos comunitarios (a cargo de la enseñanza, la cultura, la salud, las ayudas sociales), cada uno de ellos responsable de tomar las decisiones que le competen.

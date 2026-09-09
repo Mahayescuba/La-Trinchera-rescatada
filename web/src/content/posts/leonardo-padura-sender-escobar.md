@@ -1,7 +1,7 @@
 ---
 title: "Con lo todo es posible"
 date: ""
-author: ""
+author: "Sender Escobar"
 category: ""
 image: ""
 ---

@@ -9,8 +9,6 @@ muere joven cubano en Guanabacoa… La Trinchera comparte un texto a propósito.
 
 Que la muerte de un policía sea noticia y motivo de consternación o de alegría épica y la muerte a tiros por un policía de una persona “armada” con piedras sea objeto de silencio, justificación o proselitismo político, cuando menos me produce vergüenza y preocupación…
 
-**Por : Maikel Pons Giralt**
-
 ## Quiero indignarme sin perder la ternura
 
 No voy a esconder mi decepción, nunca lo hago, eso me da fuerzas para no perder la perspectiva y estar más atento que nunca al peligro de la sinrazón, el conservadurismo, la racialización de los discursos y la criminalización a la pobreza y la marginalidad que avanza como marea en el espacio cubano.
