@@ -15,10 +15,12 @@ const total = dated.length;
     <p class="kicker">La Trinchera · Archivo</p>
     <h1>Archivo completo</h1>
     <p class="lede">{total} textos con fecha, ordenados del más reciente al más antiguo.</p>
-    <nav class="years">
+  </section>
+  <div class="yearbar">
+    <nav class="wrap years" aria-label="Saltar a un año">
       {yearKeys.map(y=> <a href={`#${y}`}>{y} <span>({years[y].length})</span></a>)}
     </nav>
-  </section>
+  </div>
   <section class="wrap arch">
     {yearKeys.map(y=> (
       <div class="yr">
@@ -40,15 +42,17 @@ const total = dated.length;
     .head{padding:2.4rem 1.2rem 1rem;max-width:820px}
     .head .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.16em;font-size:.72rem;margin:0;font-weight:700}
     .head h1{font-size:clamp(2rem,6vw,2.8rem);margin:.15em 0 .1em}
-    .head .lede{color:var(--muted);margin:.2rem 0 1rem}
-    .years{display:flex;flex-wrap:wrap;gap:.4rem}
-    .years a{padding:.4rem .8rem;border:1px solid var(--line);border-radius:20px;background:var(--paper);
-      color:var(--accent);font-weight:700;font-size:.85rem;text-decoration:none}
+    .head .lede{color:var(--muted);margin:.2rem 0 .4rem}
+    .yearbar{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px solid var(--line)}
+    .years{display:flex;flex-wrap:nowrap;gap:.4rem;overflow-x:auto;max-width:820px;padding:.7rem 1.2rem;
+      -webkit-overflow-scrolling:touch;scrollbar-width:thin}
+    .years a{flex:0 0 auto;padding:.4rem .8rem;border:1px solid var(--line);border-radius:20px;background:var(--paper);
+      color:var(--accent);font-weight:700;font-size:.85rem;text-decoration:none;white-space:nowrap}
     .years a span{color:var(--muted);font-weight:400}
     .years a:hover{background:var(--accent);color:#fff}
     .arch{max-width:820px;padding:1.4rem 1.2rem 2.6rem}
     .yr{margin-bottom:2rem}
-    .yr h2{font-size:1.8rem;margin:0 0 .5rem;padding-bottom:.3rem;border-bottom:2px solid var(--accent);scroll-margin-top:1rem}
+    .yr h2{font-size:1.8rem;margin:0 0 .5rem;padding-bottom:.3rem;border-bottom:2px solid var(--accent);scroll-margin-top:4rem}
     .yr-n{font-family:-apple-system,system-ui,sans-serif;font-size:.8rem;color:var(--muted);font-weight:400;margin-left:.5rem}
     .yr ul{list-style:none;padding:0;margin:0}
     .yr li{border-bottom:1px solid var(--line)}
