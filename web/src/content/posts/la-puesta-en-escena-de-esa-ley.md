@@ -22,4 +22,4 @@ Da igual francés o inglés, lo importante es la legitimidad interna.
 Lo que hace Alcántara con la bandera tipifica como delito, según interpretación a la ley de símbolos. ¿Tiene tal delito legitimidad y existe el mecanismo institucional que de fe de ello? Entonces, podemos preguntarnos si queremos que esos empleos de la enseña sean delito y si queremos llevar a plebiscito popular una ley de símbolos.  
 Eso nos conduce a otra cuestión: la puesta en escena de esa ley.
 
-Alcántara no es el único que ha violado lo vigente. Arte, deporte, política han sido escenarios de uso incorrecto (¿ilegal?) también. ¿Por qué la discrecionalidad entonces? La aplicación selecta de la ley dice mucho de nosotros como sociedad, incluso, del discurso del socialismo cubano.
+Alcántara no es el único que ha violado lo vigente. Arte, deporte, política han sido escenarios de uso incorrecto (¿ilegal) también. ¿Por qué la discrecionalidad entonces? La aplicación selecta de la ley dice mucho de nosotros como sociedad, incluso, del discurso del socialismo cubano.

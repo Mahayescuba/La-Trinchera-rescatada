@@ -53,4 +53,4 @@ Esa defensa, no hay que subestimarla, aunque es posible sea en un principio un a
 
 Es cierto que creer que el enemigo del enemigo es un amigo no tiene que ver con un dilema sino con una contradicción ética esencial cuando se defienden valores e ideas diferentes a los del probable aliado de oportunidad, pero es también cierto que no se puede convivir con la injusticia y pretender ignorar sus causas, acaso porque cuando ello ocurre todo espectador es un cómplice.
 
-Tomado de [La Joven Cuba](https://jovencuba.com/2020/07/07/mercenario/?fbclid=IwAR0y2xCw8-VUn5JOqQfsQ2-6xOuPzbqkjzJKtk_9W6_pRnUV9B65J9-JS_g)
+Tomado de [La Joven Cuba](https://jovencuba.com/2020/07/07/mercenario/)

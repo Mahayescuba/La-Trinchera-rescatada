@@ -18,7 +18,7 @@ Todavía hoy muchos trabajadores en el mundo tienen reclamos por sus derechos, l
 
 Lo cierto es que más allá del acto verbal de gritar consignas y ofensas, hay otra racionalidad detrás: detener el proceso productivo. Si la esencia estuviera en intimidar, se pudiera hacer después de la jornada laboral. Sin embargo, las manifestaciones no son después del trabajo. Lo que más daña al capitalista no es el susto, sino las pérdidas que representan esos días sin trabajar, cada momento de la jornada laboral vacía, es menos ganancia. Si alguien tiene duda:
 
-\> imagínese a sí mismo dueño de un negocio y que los trabajadores no vayan a cumplir su papel.
+> imagínese a sí mismo dueño de un negocio y que los trabajadores no vayan a cumplir su papel.
 
 En Cuba, ¿qué función juega el primero de Mayo? Según he visto en la televisión, el de este es demostrar el compromiso y la unidad. Por consenso social no se vive en Cuba en explotación, por lo que no se desfila exigiendo derechos laborales, y se afirma de ser este día “la fiesta de la trabajadores”.
 
@@ -26,7 +26,7 @@ Si es la fiesta de los trabajadores, ¿por qué no se plantea cómo simple jorna
 
 Recuerdo que cada primero de mayo implica un esfuerzo movilizativo que necesita flujos a lo interno de la economía,-de la misma economía que no está muy saludable-. Para estos se utilizan reservas de petróleo, sobre todo transporte y otros recursos, de manera significativa.
 
-\> ¿Alguien sabe lo que cuesta un primero de mayo?
+> ¿Alguien sabe lo que cuesta un primero de mayo?
 
 ¿Qué es lo que hacemos realmente ese día? No digo que no sea divertido, porque habrá muchos como yo que desde el día antes disfrutamos la compañía y la algarabía de jóvenes reunidos, pero no todos tienen que hacerlo así.
 

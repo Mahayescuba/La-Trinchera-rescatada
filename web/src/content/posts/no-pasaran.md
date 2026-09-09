@@ -17,7 +17,7 @@ Los golpes, los insultos, los empujones, los palos, todo lo tengo grabado en mi 
 
 Fui asistido por otros desconocidos, quienes me guiaron mientras nos escondimos de los escuadrones de hombres armados que iban calle por calle buscando gente que abatir. Estas personas cuyos nombres no revelo para no comprometer, fueron tan grandes y humanos para olvidar cualquier diferencia; y en ese acto hubo amor. Amar es más importante que cualquier ideología, el amor salva, porque el amor es vida.
 
-Y eso es lo que se le ha [negado al pueblo](https://www.infolibre.es/noticias/mundo/2021/07/14/cronica_fiesta_velorio_habana_122708_1022.html?fbclid=IwAR3lyg2J5ECGTnkZcEBR36PYBIsCOlhTaSNkM3SCDvOdKVQpQNyF1wYdwJU) por demasiados años, la vida y el amor. 
+Y eso es lo que se le ha [negado al pueblo](https://www.infolibre.es/noticias/mundo/2021/07/14/cronica_fiesta_velorio_habana_122708_1022.html) por demasiados años, la vida y el amor. 
 
 Un presidente que llama a que hijos, padres y hermanos, se maten como esclavos en su circo político, no es un presidente. Diaz-Canel, es un abyecto sucesor designado.
 

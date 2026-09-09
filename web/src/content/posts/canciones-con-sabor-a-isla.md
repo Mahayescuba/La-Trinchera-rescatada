@@ -33,7 +33,7 @@ _Qué guapanga_ es dedicada al tocororo cubano (ave que nunca he visto). Mi com
 
 **_Trece con magia_** **es un disco donde la diversidad genérica es un viaje de exploración musical a través de lo africano, criollo, europeo y anglosajón ¿tenías una idea preconcebida o dejaste obrar a la magia que titula el disco?**
 
-Magia tuve que hacer para auto producir este disco, pues hace 10 años que ninguna disquera cubana me ha llamado a grabar (¿alguien puede imaginar cuán difícil es componer, grabar, pagar estudio, músicos, mezcla y masterización de un disco en Cuba sin ningún apoyo institucional?). Pues eso fue lo que hice. Ser un Cimarrón libre de favores y guataquerías al sistema siempre ha sido mi suerte, la gente olvida con facilidad, y cree que lo que sale en la televisión es lo único que existe.
+Magia tuve que hacer para auto producir este disco, pues hace 10 años que ninguna disquera cubana me ha llamado a grabar (¿alguien puede imaginar cuán difícil es componer, grabar, pagar estudio, músicos, mezcla y masterización de un disco en Cuba sin ningún apoyo institucional). Pues eso fue lo que hice. Ser un Cimarrón libre de favores y guataquerías al sistema siempre ha sido mi suerte, la gente olvida con facilidad, y cree que lo que sale en la televisión es lo único que existe.
 
 **Destaca también que retomas canciones de otros discos como: _Palo Haitiano_ y _Cuando Vuelvo_, este último con David Torrens. ¿Qué puedes contarnos sobre estas nuevas versiones? ¿Cuántos de los temas de _[Trece con Magia](https://www.youtube.com/watch?v=nlmiPeBhA3s&list=PL6SZoqJlgoWfPmdHF80IHh93G36-R8XfZ)_ poseen video clips?**
 

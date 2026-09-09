@@ -11,7 +11,7 @@ Violencia a mujeres y redes sociales
 
 Es cierto que pocas personas somos capaces de condenar la injusticia contra cualquier ser humano sin importar género, color de la piel, ideología, preferencias políticas ni religión. Yo sí creo ser uno de ellos, pues pienso que hay principios y valores que trascienden las ideologías.
 
-[![](https://www.granma.cu/file/img/2020/09/medium/f0178203.jpg)](http://www.granma.cu/mundo/2020-09-15/violencias-y-silencios-contra-cuba-en-las-redes-15-09-2020-21-09-55?fbclid=IwAR27hJamFJYwAfPjiXQ76TkwVnxFiY6MCDHVRFIc9avIEVwNZO_GxsruBJk)
+[![](https://www.granma.cu/file/img/2020/09/medium/f0178203.jpg)](http://www.granma.cu/mundo/2020-09-15/violencias-y-silencios-contra-cuba-en-las-redes-15-09-2020-21-09-55)
 
 Leer texto de Karina Oliva en Granma  
 Imagen: Granma

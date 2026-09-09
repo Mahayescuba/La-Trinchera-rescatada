@@ -156,7 +156,7 @@ function mdFromContainer($, cont){
   // eliminar iframes ocultos / de spam inyectados en el volcado (p.ej. dominios .ru, display:none)
   cont.find('iframe').each((_,el)=>{
     const src=$(el).attr('src')||'', st=($(el).attr('style')||'').replace(/\s/g,'');
-    if(/:\/\/[^/]*\.ru\//i.test(src) || /display:none/i.test(st)) $(el).remove();
+    if(!src || /:\/\/[^/]*\.ru\//i.test(src) || /display:none/i.test(st)) $(el).remove();  // sin src = embed roto (wpview-sandbox)
   });
   // reescribir imágenes: propias -> /wp-content/uploads/... ; externas -> URL directa
   cont.find('img').each((_,el)=>{
@@ -250,6 +250,9 @@ function extractOne(slug){
     .replace(/^\s*https?:\/\/web\.archive\.org\/web\/\d+\S*\s*$/gmi,'')                       // enlaces Wayback sueltos
     .replace(/^\s*https?:\/\/(?:www\.)?(?:trincheracuba|desdetutrinchera)\.com\/\S*\s*$/gmi,'') // enlaces internos sueltos
     .replace(/^\s*(.{8,80}?),\s*\1\s*$/gmi,'')                                                // línea de palabra clave repetida (Yoast)
+    .replace(/^(\s*)\\>/gm,'$1>')                                                             // cita que quedó escapada (\> -> blockquote)
+    .replace(/([?&])(?:utm_[a-z]+|fbclid|gclid|mc_[a-z]+)=[^&)\s]*/gi,'$1')                    // quitar parámetros de rastreo
+    .replace(/[?&]+(\))/g,'$1').replace(/\?&/g,'?').replace(/\?(\))/g,'$1')                    // limpiar '?'/'&' colgantes en enlaces
     .replace(/\n{3,}/g,'\n\n').trim();
   // iframe corrupto en el origen: su atributo quedó sin cerrar y arrastra HTML escapado
   // (otro iframe + la caja de autor con gravatar). Truncar la línea tras el primer iframe válido.

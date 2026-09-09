@@ -59,4 +59,4 @@ Julio Antonio, al momento de ser privado de su puesto de trabajo:
 
 Ahora, por igual acaba de escribir sobre los más recientes sucesos:
 
-Tomado de [La Cosa](https://jcguanche.wordpress.com/2020/12/06/sobre-la-historia-de-julio-antonio-fernandez-estrada-o-la-historia-de-nosotros-mismos/?fbclid=IwAR3HtLKk0P6fKy8sR3DTTAef2H9Z05zJRQaLEBS5JrX9Ubo1avGCczxMvqs)
+Tomado de [La Cosa](https://jcguanche.wordpress.com/2020/12/06/sobre-la-historia-de-julio-antonio-fernandez-estrada-o-la-historia-de-nosotros-mismos/)

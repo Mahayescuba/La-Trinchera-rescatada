@@ -29,7 +29,7 @@ Pero hay que ponerle algún nombre a que te nieguen la salida o te siga un sujet
 
 Si fuera un novio o una novia, se le llamaría _acosador_, pero como es política, puede ser llamado _represión blanda_ (contradictorio el nombre, pero son las paradojas del socialismo cubano, y de la _cubanidad_ misma). Aunque cabe hacer la distinción de que ante el acoso hay algún recurso legal, ante la _represión blanda_, no.
 
-A eso se le suma lo que se conoce como actos de repudio, los cuales han tenido un resurgir (en menor escala, supongo). Ambos (los actos de repudio y _la represión blanda_ ¿y paternalista?) son la respuesta oficial a los que colaboran con la injerencia extranjera (también esa respuesta puede aplicarse erróneamente a otros, pero es otro tema).
+A eso se le suma lo que se conoce como actos de repudio, los cuales han tenido un resurgir (en menor escala, supongo). Ambos (los actos de repudio y _la represión blanda_ ¿y paternalista) son la respuesta oficial a los que colaboran con la injerencia extranjera (también esa respuesta puede aplicarse erróneamente a otros, pero es otro tema).
 
 Dichos actos son algo no espontáneo, en los que un grupo de personas son convocadas y responden a la convocatoria, seguro no obligados, porque entusiastas y convencidos hay para todo.
 

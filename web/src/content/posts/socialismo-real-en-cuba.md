@@ -25,4 +25,4 @@ Los exorcistas de estos elementos falsamente atribuidos a la _realidad cubana_ s
 
 Tomado de [La Joven Cuba](https://jovencuba.com/2018/03/01/el-socialismo-real-y-la-realidad-cubana/)
 
-Para contactar al autor: [mariojuanvaldes@gmail.com](https://mail.google.com/mail/u/0/h/flip564yposr/?&cs=wh&v=b&to=mariojuanvaldes@gmail.com)
+Para contactar al autor: [mariojuanvaldes@gmail.com](https://mail.google.com/mail/u/0/h/flip564yposr/?cs=wh&v=b&to=mariojuanvaldes@gmail.com)

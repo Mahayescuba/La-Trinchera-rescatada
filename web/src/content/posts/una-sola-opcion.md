@@ -11,13 +11,13 @@ En muchas ocasiones me levanto diciéndome: “es posible ser feliz aquí”. Y 
 
 Para prevalecer en la cima del poder, la autoridad fácilmente recurre a limitar, condicionar y aun, resquebrajar la participación efectiva de otras instituciones, como la familia, la Iglesia u otras, en la formación de la persona; cualquier semejanza con nuestra realidad, no es pura coincidencia.
 
-\> Ser maestro no es poca cosa, aunque hoy se etiquete como la vocación que más sufre las carencias materiales de nuestra sociedad.
+> Ser maestro no es poca cosa, aunque hoy se etiquete como la vocación que más sufre las carencias materiales de nuestra sociedad.
 
 Mi tutor de maestría tuvo que vender las lámparas antiguas de su casa para poder comprar libros actualizados sobre las materias que imparte en la universidad. Él, como muchos de los buenos profesores cubanos, es un jubilado que no gana ni 300 pesos de retiro; por eso, dará clases hasta que la salud lo acompañe.
 
 En una época que ya parece lejana, ser docente significaba tener el reconocimiento de todos.
 
-\> Hoy, se asocia esa profesión con pobreza.
+> Hoy, se asocia esa profesión con pobreza.
 
 Recordemos que vivimos en una isla, donde el progreso económico suele acompañar, sobre todo, a guagüeros, bodegueros, dependientes, parqueadores, cuidadores de baño, etc.
 
@@ -29,4 +29,4 @@ No quiero terminar estas líneas sin expresar mi gratitud a esos valientes que s
 
 Mientras preparaba este texto, tuve la oportunidad de conversar en un P-15 con un médico y un trabajador de comunales; hablábamos de lo dura que va nuestra vida cotidiana. De pronto, alguien nos preguntó: “¿Y qué opinan de los maestros?”. A lo que respondió el médico:
 
-\> “que tienen, al igual que nosotros, una sola opción, sobrevivir.”
+> “que tienen, al igual que nosotros, una sola opción, sobrevivir.”
