@@ -59,7 +59,7 @@ const hasNext = page < pages;
         </p>
       </div>
     </header>
-    <Mosaic items={items} />
+    <Mosaic items={items} showAuthor={false} />
     {pages>1 && (
       <nav class="pager" aria-label="Paginación">
         {hasPrev ? <a class="pg" href={pageUrl(page-1)}>← Anterior</a> : <span class="pg dis">← Anterior</span>}
