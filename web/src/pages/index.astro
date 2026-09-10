@@ -4,11 +4,23 @@ import { getCollection } from 'astro:content';
 import { fixCat, slugify, fmtDate, excerpt, thumbData } from '../lib/util';
 import { buildSeries } from '../lib/series';
 import { pickCover } from '../lib/covers';
+import sharp from 'sharp';
 const posts = (await getCollection('posts')).sort((a,b)=> (b.data.date||'').localeCompare(a.data.date||''));
 const withDate = posts.filter(p=>p.data.date);
-const featured = withDate.slice(0,1)[0];
-const featImg = featured?.data.image ? thumbData(featured.data.image, 900) : null;
-const rest = withDate.slice(1,25);
+// Hero: preferimos un texto reciente con imagen APAISADA (encaja en el hero
+// ancho sin recortar). Si el más reciente es muy vertical, saltamos al
+// siguiente. No se cambia ninguna imagen: solo se elige qué texto va grande.
+async function aspectOf(img:string){ try{ const m=await sharp('public'+img).metadata(); return (m.width&&m.height)? m.width/m.height : 1; }catch{ return 1; } }
+const latest = withDate[0];
+let featured:any = null;
+for(const p of withDate.slice(0,12)){
+  if(!p.data.image) continue;
+  if(await aspectOf(p.data.image) >= 1.3){ featured = p; break; }
+}
+if(!featured) featured = latest;
+const heroIsLatest = featured === latest;
+const featImg = featured?.data.image ? thumbData(featured.data.image, 1000) : null;
+const rest = withDate.filter(p=>p!==featured);
 const total = posts.length;
 // autores con al menos un texto (para la línea de estadísticas)
 const authorCounts:Record<string,number> = {};
@@ -23,12 +35,12 @@ const allSeries = buildSeries(posts).all;
 const gradPairs = [['#8a2b2b','#3f1414'],['#6d4a5c','#2c1a22'],['#4f5d3a','#232a17'],['#3f5666','#1b262e'],['#7a5230','#33210f'],['#6b4f2a','#2e2210']];
 const seriesCards = allSeries.map((s,i)=>({ s, cover: s.cover ? thumbData(s.cover, 520) : null, grad: gradPairs[i % gradPairs.length], init: (s.base.trim()[0]||'·').toUpperCase() }));
 const numTemas = Object.keys(catCounts).length;
-const moreList = withDate.slice(10,25);
+const moreList = rest.slice(9,24);
 // "Del archivo, al azar": selección barajada (en build y en cada visita) de
 // textos con imagen, de todo el archivo (no solo lo reciente).
 const shuffle = <T,>(a:T[]):T[] => { a=a.slice(); for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; };
-// Mosaico editorial: la primera entrada, grande; el resto, teselas
-const mosaic = withDate.slice(1,10).map((p,i)=>({
+// Galería de recientes (sin el destacado del hero)
+const mosaic = rest.slice(0,9).map((p,i)=>({
   p,
   src: p.data.image ? thumbData(p.data.image, 640).src : pickCover(p).file,
   feat: i===0,
@@ -66,7 +78,7 @@ const azarPool = shuffle(posts.filter(p=>p.data.image)).slice(0,20)
   {featured && (
     <a class="wrap lead-hero" href={`/${featured.slug}/`}>
       <div class="lh-txt">
-        <span class="lh-flag">Lo último publicado</span>
+        <span class="lh-flag">{heroIsLatest ? 'Lo último publicado' : 'Destacado del archivo'}</span>
         <span class="lh-cat">{fixCat(featured.data.category)}</span>
         <h2>{featured.data.title}</h2>
         <p class="lh-dek">{excerpt(featured.body,190)}</p>
