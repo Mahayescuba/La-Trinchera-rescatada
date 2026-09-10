@@ -369,5 +369,21 @@
       "source": "Rialta",
       "url": "https://rialta.org/la-cubana-monica-baro-gana-premiogabo/"
     }
+  },
+  "mario-valdes-navia": {
+    "name": "Mario Valdés Navia",
+    "img": "/autores/mario-valdes-navia.jpg",
+    "imgcredit": {
+      "source": "National Humanities Center",
+      "url": "https://nationalhumanitiescenter.org/fellow/2023-24/mario-juan-valdes-navia/"
+    }
+  },
+  "frank-garcia-hernandez": {
+    "name": "Frank García Hernández",
+    "img": "/autores/frank-garcia-hernandez.jpg",
+    "imgcredit": {
+      "source": "marxismo.mx",
+      "url": "https://marxismo.mx/trotsky-caminara-en-cuba-entrevista-a-frank-garcia-hernadez/"
+    }
   }
 }
