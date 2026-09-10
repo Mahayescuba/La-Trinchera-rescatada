@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /buscar-index.json
 
 Sitemap: https://bloglatrinchera.com/sitemap-index.xml

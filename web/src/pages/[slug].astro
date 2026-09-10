@@ -71,7 +71,7 @@ const jsonLd = {
   ...(p.data.author ? { author:{ '@type':'Person', name:p.data.author } } : {}),
   ...(p.data.date ? { datePublished:p.data.date } : {}),
   ...(p.data.image ? { image:new URL(p.data.image, Astro.site).href } : {}),
-  publisher:{ '@type':'Organization', name:'La Trinchera' },
+  publisher:{ '@type':'Organization', name:'La Trinchera', logo:{ '@type':'ImageObject', url:new URL('/apple-touch-icon.png', Astro.site).href } },
   mainEntityOfPage: new URL(Astro.url.pathname, Astro.site).href,
   ...(series ? { isPartOf:{ '@type':'CreativeWorkSeries', name:series.base } } : {}),
 };

@@ -54,8 +54,31 @@ const mosaic = rest.slice(0,9).map((p)=>{
 const azarPool = shuffle(posts.filter(p=>p.data.image)).slice(0,20)
   .map((p,i)=>({ p, im: thumbData(p.data.image, 520), grad: gradPairs[i % gradPairs.length] }));
 // "Voces del archivo": autores más prolíficos
+const siteUrl = new URL('/', Astro.site).href;
+const orgLogo = new URL('/apple-touch-icon.png', Astro.site).href;
+const homeLd = [
+  {
+    '@context':'https://schema.org', '@type':'WebSite',
+    name:'La Trinchera', url:siteUrl, inLanguage:'es',
+    description:'Archivo rescatado de La Trinchera: debate de ideas desde Cuba (2018–2022).',
+    potentialAction:{
+      '@type':'SearchAction',
+      target:{ '@type':'EntryPoint', urlTemplate:new URL('/buscar/?q={search_term_string}', Astro.site).href },
+      'query-input':'required name=search_term_string',
+    },
+    publisher:{ '@type':'Organization', name:'La Trinchera', url:siteUrl, logo:{ '@type':'ImageObject', url:orgLogo } },
+  },
+  {
+    '@context':'https://schema.org', '@type':'Organization',
+    name:'La Trinchera', url:siteUrl,
+    logo:{ '@type':'ImageObject', url:orgLogo },
+    foundingDate:'2018',
+    founder:{ '@type':'Person', name:'Miguel Alejandro Hayes' },
+  },
+];
 ---
 <Base title={null} description="Archivo rescatado de La Trinchera: una plataforma cubana para el debate y la reflexión.">
+  <script type="application/ld+json" set:html={JSON.stringify(homeLd)} />
   <header class="wrap mast">
     <p class="mast-kicker">Archivo rescatado · 2018–2022</p>
     <h1 class="mast-head">Muchas maneras <em>de estar</em></h1>

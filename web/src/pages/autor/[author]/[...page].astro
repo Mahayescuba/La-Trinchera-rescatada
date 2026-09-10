@@ -32,8 +32,23 @@ const base = `/autor/${author}/`;
 const pageUrl = (n:number)=> n===1 ? base : `${base}${n}/`;
 const hasPrev = page > 1;
 const hasNext = page < pages;
+const personLd = isAnon ? null : {
+  '@context':'https://schema.org', '@type':'ProfilePage',
+  url:new URL(Astro.url.pathname, Astro.site).href, inLanguage:'es',
+  mainEntity:{ '@type':'Person', name,
+    ...(prof.img ? { image:new URL(prof.img, Astro.site).href } : {}),
+    ...(prof.bio ? { description:prof.bio } : {}),
+    ...(prof.links && prof.links.length ? { sameAs:prof.links } : {}),
+  },
+  breadcrumb:{ '@type':'BreadcrumbList', itemListElement:[
+    { '@type':'ListItem', position:1, name:'Inicio', item:new URL('/', Astro.site).href },
+    { '@type':'ListItem', position:2, name:'Autores', item:new URL('/autores/', Astro.site).href },
+    { '@type':'ListItem', position:3, name, item:new URL(base, Astro.site).href },
+  ]},
+};
 ---
 <Base title={pages>1 ? `${name} (página ${page})` : name} description={`Artículos de ${name}.`}>
+  {personLd && <script type="application/ld+json" set:html={JSON.stringify(personLd)} />}
   <section class="wrap list">
     <a class="back" href="/autores/">← Todos los autores</a>
     <header class="ah">

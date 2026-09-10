@@ -29,7 +29,10 @@ import Base from '../layouts/Base.astro';
       count.textContent = hits.length ? `${hits.length} ${hits.length===1?'resultado':'resultados'}${hits.length>80?' (mostrando 80)':''}` : 'Sin resultados';
     }
     q.addEventListener('input', ()=>{ if(!data){ load().then(run); } run(); });
-    load();  // precargar el índice al abrir la página
+    // permitir búsquedas por URL: /buscar/?q=palabra (usado por el SearchAction de Google y para compartir)
+    const initial = new URLSearchParams(location.search).get('q');
+    if(initial){ q.value = initial; }
+    load().then(run);  // precargar el índice y, si vino ?q=, ejecutar la búsqueda
   </script>
   <style>
     .search{max-width:720px;padding:2.2rem 1.2rem;min-height:60vh}

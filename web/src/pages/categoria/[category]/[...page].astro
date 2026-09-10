@@ -26,8 +26,19 @@ const base = `/categoria/${category}/`;
 const pageUrl = (n:number)=> n===1 ? base : `${base}${n}/`;
 const hasPrev = page > 1;
 const hasNext = page < pages;
+const catLd = {
+  '@context':'https://schema.org', '@type':'CollectionPage',
+  name, url:new URL(Astro.url.pathname, Astro.site).href, inLanguage:'es',
+  isPartOf:{ '@type':'WebSite', name:'La Trinchera', url:new URL('/', Astro.site).href },
+  breadcrumb:{ '@type':'BreadcrumbList', itemListElement:[
+    { '@type':'ListItem', position:1, name:'Inicio', item:new URL('/', Astro.site).href },
+    { '@type':'ListItem', position:2, name:'Temas', item:new URL('/categorias/', Astro.site).href },
+    { '@type':'ListItem', position:3, name, item:new URL(base, Astro.site).href },
+  ]},
+};
 ---
 <Base title={pages>1 ? `${name} (página ${page})` : name} description={`Artículos en la categoría ${name}.`}>
+  <script type="application/ld+json" set:html={JSON.stringify(catLd)} />
   <section class="wrap list">
     <a class="back" href="/categorias/">← Todos los temas</a>
     <p class="kicker">Categoría</p>
