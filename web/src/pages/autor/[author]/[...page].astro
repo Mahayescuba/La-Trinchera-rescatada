@@ -47,7 +47,7 @@ const hasNext = page < pages;
         <h1>{name}</h1>
         {prof.bio && <p class="ah-bio">{prof.bio}</p>}
         {prof.imgcredit && (
-          <p class="ah-credit">Foto: {prof.imgcredit.artist} · {prof.imgcredit.license} · <a class="ah-link" href={prof.imgcredit.url} target="_blank" rel="noopener">{prof.imgcredit.source}</a></p>
+          <p class="ah-credit">Foto: {[prof.imgcredit.artist, prof.imgcredit.license].filter(Boolean).join(' · ')}{(prof.imgcredit.artist||prof.imgcredit.license) && prof.imgcredit.source ? ' · ' : ''}{prof.imgcredit.source && (prof.imgcredit.url ? <a class="ah-link" href={prof.imgcredit.url} target="_blank" rel="noopener">{prof.imgcredit.source}</a> : prof.imgcredit.source)}</p>
         )}
         <p class="count">{total} {total===1?'texto':'textos'}
           {topCat && <> · <a class="ah-link" href={`/categoria/${slugify(topCat)}/`}>{topCat}</a></>}

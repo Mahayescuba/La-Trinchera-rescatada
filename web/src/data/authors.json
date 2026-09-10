@@ -7,7 +7,12 @@
       "mailto:hayesmartinez.mrgh@gmail.com",
       "https://hayesmartinez.trincheracuba.com",
       "https://hayesmartinez.desdetutrinchera.com"
-    ]
+    ],
+    "img": "/autores/miguel-alejandro-hayes.jpg",
+    "imgcredit": {
+      "source": "CiberCuba",
+      "url": "https://www.cibercuba.com/noticias/2026-06-10-u1-e135253-s27061-nid331826-economista-miguel-alejandro-hayes-desmantelar-gaesa"
+    }
   },
   "julio-pernus": {
     "name": "Julio Pernús",
@@ -347,6 +352,22 @@
       "license": "CC0",
       "url": "https://commons.wikimedia.org/wiki/File:Congres_over_Kapitalisme_in_70-er_jaren_in_Tilburgse_Hogeschool_nr._14_Herb,_Bestanddeelnr_923-8345.jpg",
       "source": "Wikimedia Commons"
+    }
+  },
+  "mauricio-de-miranda-parrondo": {
+    "name": "Mauricio de Miranda Parrondo",
+    "img": "/autores/mauricio-de-miranda-parrondo.jpg",
+    "imgcredit": {
+      "source": "Cuba Próxima",
+      "url": "https://cubaproxima.org/author/mauriciomiranda/"
+    }
+  },
+  "monica-baro-sanchez": {
+    "name": "Mónica Baró Sánchez",
+    "img": "/autores/monica-baro-sanchez.jpg",
+    "imgcredit": {
+      "source": "Rialta",
+      "url": "https://rialta.org/la-cubana-monica-baro-gana-premiogabo/"
     }
   }
 }
