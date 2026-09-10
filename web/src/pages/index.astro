@@ -51,10 +51,9 @@ const azarPool = shuffle(posts.filter(p=>p.data.image)).slice(0,20)
 ---
 <Base title={null} description="Archivo rescatado de La Trinchera: una plataforma cubana para el debate y la reflexión.">
   <header class="wrap mast">
-    <div class="mast-top">
-      <h1 class="logo">La <em>Trinchera</em></h1>
-      <div class="mast-right"><b>Archivo rescatado</b><br>muchas maneras de estar<br>Debate de ideas · Cuba</div>
-    </div>
+    <p class="mast-kicker">Archivo rescatado · 2018–2022</p>
+    <h1 class="mast-head">Muchas maneras <em>de estar</em></h1>
+    <p class="mast-lede">Debate de ideas desde Cuba. Teoría, política y economía sin filiación: izquierda, derecha, centro, marxistas, libertarios.</p>
     <div class="dateline">
       <span><b>{total}</b> textos</span>
       <span><b>{numAutores}</b> firmas</span>
@@ -62,7 +61,6 @@ const azarPool = shuffle(posts.filter(p=>p.data.image)).slice(0,20)
       <span><b>{numTemas}</b> temas</span>
       <span>Publicó 2018 — 2022 · <b>hoy en archivo</b></span>
     </div>
-    <p class="mast-lede">Debate de ideas desde Cuba. Teoría, política y economía sin filiación: izquierda, derecha, centro, marxistas, libertarios.</p>
   </header>
 
   {temas.length > 0 && (
@@ -183,18 +181,15 @@ const azarPool = shuffle(posts.filter(p=>p.data.image)).slice(0,20)
   <style>
     /* mancheta / masthead */
     .mast{padding:clamp(1.6rem,4vw,2.6rem) 1.2rem 1.2rem}
-    .mast-top{display:flex;align-items:center;gap:1rem;justify-content:space-between;flex-wrap:wrap;
-      border-bottom:3px solid var(--ink);padding-bottom:.7rem}
-    .logo{font-family:var(--display);font-weight:900;font-size:clamp(2.2rem,7vw,4rem);letter-spacing:-.02em;line-height:.9;margin:0}
-    .logo em{font-style:italic;font-weight:500;color:var(--accent)}
-    .mast-right{text-align:right;font-size:.72rem;color:var(--muted);letter-spacing:.04em;line-height:1.5}
-    .mast-right b{color:var(--ink)}
-    .dateline{display:flex;flex-wrap:wrap;gap:.4rem 1.4rem;padding:.55rem 0;font-size:.72rem;font-weight:600;
-      letter-spacing:.1em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--line)}
-    .dateline b{color:var(--accent)}
-    .dateline b, .mast-right b{font-family:var(--display)}
-    .mast-lede{color:var(--muted);max-width:60ch;margin:.9rem 0 0;font-size:1.02rem}
-    @media (max-width:560px){ .mast-right{text-align:left} }
+    .mast-kicker{font-family:var(--display);color:var(--accent);text-transform:uppercase;letter-spacing:.16em;
+      font-size:.74rem;font-weight:700;margin:0 0 .4rem}
+    .mast-head{font-family:var(--display);font-weight:900;font-size:clamp(2.4rem,8vw,4.6rem);letter-spacing:-.02em;
+      line-height:.92;margin:0;max-width:16ch}
+    .mast-head em{font-style:italic;font-weight:500;color:var(--accent)}
+    .mast-lede{color:var(--muted);max-width:60ch;margin:.9rem 0 1rem;font-size:1.05rem}
+    .dateline{display:flex;flex-wrap:wrap;gap:.4rem 1.4rem;padding:.7rem 0 0;font-size:.72rem;font-weight:600;
+      letter-spacing:.1em;text-transform:uppercase;color:var(--muted);border-top:1px solid var(--line)}
+    .dateline b{color:var(--accent);font-family:var(--display)}
 
     .temas{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem;padding:.4rem 1.2rem 2rem}
     .temas-l{font-size:.72rem;text-transform:uppercase;letter-spacing:.14em;color:var(--muted);font-weight:700;margin-right:.3rem}
