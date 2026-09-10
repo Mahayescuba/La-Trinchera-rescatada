@@ -338,5 +338,15 @@
       "url": "https://commons.wikimedia.org/wiki/File:Pascual_Serrano_2015_(cropped).jpg",
       "source": "Wikimedia Commons"
     }
+  },
+  "ernest-mandel": {
+    "name": "Ernest Mandel",
+    "img": "/autores/ernest-mandel.jpg",
+    "imgcredit": {
+      "artist": "Eric Koch for Anefo",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Congres_over_Kapitalisme_in_70-er_jaren_in_Tilburgse_Hogeschool_nr._14_Herb,_Bestanddeelnr_923-8345.jpg",
+      "source": "Wikimedia Commons"
+    }
   }
 }
