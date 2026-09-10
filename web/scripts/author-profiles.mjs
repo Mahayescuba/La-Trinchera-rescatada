@@ -44,6 +44,12 @@ for(const [key,p] of prof){
   if(hash && !(await realPhoto(hash))) hash='';   // descartar silueta genérica
   if(hash || p.bio || links.length) out[key]={name:p.name, ...(hash?{hash}:{}), ...(p.bio?{bio:p.bio}:{}), ...(links.length?{links}:{})};
 }
+// Preservar las fotos locales rescatadas (campo img) de una ejecución anterior:
+// viven en public/autores/ y no se derivan de los gravatares que este script lee.
+let prev={}; try{ prev=JSON.parse(fs.readFileSync('src/data/authors.json','utf8')); }catch{}
+for(const [k,v] of Object.entries(prev)){
+  if(v && v.img){ (out[k] ||= {name:v.name}).img = v.img; if(!out[k].name) out[k].name=v.name; if(v.imgcredit) out[k].imgcredit=v.imgcredit; }
+}
 fs.mkdirSync('src/data',{recursive:true});
 fs.writeFileSync('src/data/authors.json', JSON.stringify(out,null,2));
 console.log('perfiles escritos:',Object.keys(out).length,

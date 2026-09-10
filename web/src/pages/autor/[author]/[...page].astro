@@ -37,13 +37,18 @@ const hasNext = page < pages;
   <section class="wrap list">
     <a class="back" href="/autores/">← Todos los autores</a>
     <header class="ah">
-      {!isAnon && (prof.hash
+      {!isAnon && (prof.img
+        ? <img class="ah-av ah-photo" src={prof.img} alt={name} width="80" height="80" loading="eager" />
+        : prof.hash
         ? <img class="ah-av" src={`https://www.gravatar.com/avatar/${prof.hash}?s=200`} alt={name} width="80" height="80" loading="eager" />
         : <span class="ah-av ah-mono" style={`background:${monoColor(name)}`}>{initials(name)}</span>)}
       <div class="ah-body">
         <p class="kicker">Autor</p>
         <h1>{name}</h1>
         {prof.bio && <p class="ah-bio">{prof.bio}</p>}
+        {prof.imgcredit && (
+          <p class="ah-credit">Foto: {prof.imgcredit.artist} · {prof.imgcredit.license} · <a class="ah-link" href={prof.imgcredit.url} target="_blank" rel="noopener">{prof.imgcredit.source}</a></p>
+        )}
         <p class="count">{total} {total===1?'texto':'textos'}
           {topCat && <> · <a class="ah-link" href={`/categoria/${slugify(topCat)}/`}>{topCat}</a></>}
           {prof.links && prof.links.length ? ' · ' : ''}
@@ -74,6 +79,7 @@ const hasNext = page < pages;
     .list .kicker{color:var(--accent);text-transform:uppercase;letter-spacing:.14em;font-size:.72rem;margin:0}
     .list h1{font-size:2.4rem;margin:.1em 0}
     .ah-bio{color:var(--muted);margin:.3rem 0 .4rem;font-size:.95rem;line-height:1.55}
+    .ah-credit{color:var(--muted);opacity:.72;margin:.1rem 0 .3rem;font-size:.72rem}
     .ah-link{color:var(--accent);text-transform:uppercase;letter-spacing:.05em;font-size:.72rem;font-weight:600}
     .pgof{color:var(--muted)}
     .list .count{color:var(--muted);margin:.2rem 0 0}

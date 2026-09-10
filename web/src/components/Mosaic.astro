@@ -16,7 +16,7 @@ const tiles = items.map((p:any,i:number)=>{
       <div class="pm-cap">
         <span class="pm-cat">{fixCat(p.data.category)}</span>
         <h3>{p.data.title}</h3>
-        {feat && <p class="pm-dek">{excerpt(p.body,140)}</p>}
+        {feat && <p class="pm-dek">{excerpt(p.body,140,p.data.title)}</p>}
         <span class="pm-meta">{p.data.author && `${p.data.author} · `}{fmtDate(p.data.date)}</span>
       </div>
     </a>
