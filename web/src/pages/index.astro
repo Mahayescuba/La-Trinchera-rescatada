@@ -69,6 +69,14 @@ const azarPool = shuffle(posts.filter(p=>p.data.image)).slice(0,20)
     </div>
   </header>
 
+  <aside class="wrap ednote">
+    <div class="ednote-box">
+      <p class="ednote-k">Nota del editor</p>
+      <p><b>La Trinchera</b> se publicó desde Cuba entre 2018 y 2022. El sitio se perdió, pero pudo rescatarse <b>por completo</b>: aquí está el archivo íntegro, <b>en línea y abierto</b>, para quien quiera leerlo. Por ahora el proyecto <b>permanece cerrado</b> —no hay textos nuevos—; queda como memoria de aquel debate.</p>
+      <p class="ednote-sign">— Miguel Alejandro Hayes<span>, fundador y editor principal</span></p>
+    </div>
+  </aside>
+
   {temas.length > 0 && (
     <nav class="wrap temas" aria-label="Explorar por tema">
       <span class="temas-l">Explora por tema</span>
@@ -208,6 +216,16 @@ const azarPool = shuffle(posts.filter(p=>p.data.image)).slice(0,20)
       .mast-lede{max-width:40ch;margin-left:auto;margin-right:auto}
       .dateline{justify-content:center}
     }
+    /* nota del editor */
+    .ednote{padding-top:.9rem}
+    .ednote-box{max-width:760px;border:1px solid var(--line);border-left:3px solid var(--accent);
+      border-radius:8px;background:var(--paper);padding:.95rem 1.15rem}
+    .ednote-k{font-family:var(--display);color:var(--accent);text-transform:uppercase;letter-spacing:.14em;
+      font-size:.7rem;font-weight:700;margin:0 0 .45rem}
+    .ednote-box p{margin:.2rem 0;color:var(--muted);font-size:.96rem;line-height:1.6}
+    .ednote-box p b{color:var(--ink);font-weight:600}
+    .ednote-sign{margin-top:.7rem!important;font-family:var(--display);font-style:italic;color:var(--ink);font-size:1rem}
+    .ednote-sign span{color:var(--muted);font-style:normal;font-size:.85em}
 
     .temas{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem;padding:.4rem 1.2rem 2rem}
     .temas-l{font-size:.72rem;text-transform:uppercase;letter-spacing:.14em;color:var(--muted);font-weight:700;margin-right:.3rem}
