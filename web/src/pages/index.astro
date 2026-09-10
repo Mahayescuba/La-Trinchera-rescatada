@@ -81,7 +81,7 @@ const azarPool = shuffle(posts.filter(p=>p.data.image)).slice(0,20)
         <span class="lh-flag">{heroIsLatest ? 'Lo último publicado' : 'Destacado del archivo'}</span>
         <span class="lh-cat">{fixCat(featured.data.category)}</span>
         <h2>{featured.data.title}</h2>
-        <p class="lh-dek">{excerpt(featured.body,190)}</p>
+        <p class="lh-dek">{excerpt(featured.body,190,featured.data.title)}</p>
         <span class="lh-meta">{featured.data.author && `${featured.data.author} · `}{fmtDate(featured.data.date)}</span>
       </div>
       <div class="lh-media" style={featImg ? `background-image:url(${featImg.src})` : 'background-image:linear-gradient(150deg,#8a2b2b,#3f1414)'}></div>
@@ -100,7 +100,7 @@ const azarPool = shuffle(posts.filter(p=>p.data.image)).slice(0,20)
           <div class="mt-cap">
             <span class="mt-cat">{fixCat(p.data.category)}</span>
             <h3>{p.data.title}</h3>
-            {feat && <p class="mt-dek">{excerpt(p.body,140)}</p>}
+            {feat && <p class="mt-dek">{excerpt(p.body,140,p.data.title)}</p>}
             <span class="mt-meta">{p.data.author && `${p.data.author} · `}{fmtDate(p.data.date)}</span>
           </div>
         </a>

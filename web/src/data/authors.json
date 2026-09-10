@@ -11,7 +11,8 @@
   },
   "julio-pernus": {
     "name": "Julio Pernús",
-    "bio": "Comunicador de la iglesia católica."
+    "bio": "Comunicador de la iglesia católica.",
+    "img": "/autores/julio-pernus.jpg"
   },
   "daniloeuser": {
     "name": "daniloeuser",
@@ -44,7 +45,8 @@
   },
   "daniel-triana-rubio": {
     "name": "Daniel Triana Rubio",
-    "bio": "Actor y teatrista. Activista tal vez. Mariquita en proceso de performar el género. Budista."
+    "bio": "Actor y teatrista. Activista tal vez. Mariquita en proceso de performar el género. Budista.",
+    "img": "/autores/daniel-triana-rubio.jpg"
   },
   "anckla": {
     "name": "Anckla",
@@ -54,11 +56,13 @@
   },
   "jorge-fernandez-era": {
     "name": "Jorge Fernández Era",
-    "bio": "Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros"
+    "bio": "Periodista, escritor, editor y corrector. Perteneció al grupo humorístico Nos y Otros",
+    "img": "/autores/jorge-fernandez-era.jpg"
   },
   "raymar-a-aguado-hernandez": {
     "name": "Raymar A. Aguado Hernández",
-    "bio": "Futuro psicólogo"
+    "bio": "Futuro psicólogo",
+    "img": "/autores/raymar-a-aguado-hernandez.jpg"
   },
   "arian-rubio": {
     "name": "Arian Rubio",
@@ -66,7 +70,8 @@
   },
   "diego-a-marrero-leyva": {
     "name": "Diego A. Marrero Leyva",
-    "bio": "Estudiante de Economía"
+    "bio": "Estudiante de Economía",
+    "img": "/autores/diego-a-marrero-leyva.jpg"
   },
   "carlos-avila-villamar": {
     "name": "Carlos Ávila Villamar",
@@ -91,7 +96,8 @@
     "bio": "Coordinadora de La Joven Cuba. Profesora, ensayista e investigadora.",
     "links": [
       "https://jovencuba.com/amp/author/alinalopez/"
-    ]
+    ],
+    "img": "/autores/alina-barbara-lopez-hernandez.jpg"
   },
   "ariel-montenegro": {
     "name": "Ariel Montenegro",
@@ -111,7 +117,8 @@
     "bio": "Realizador de radio y televisión. Estudioso de la Comunicación Social",
     "links": [
       "https://jovencuba.com/author/giordan/"
-    ]
+    ],
+    "img": "/autores/giordan-rodriguez-milanes.jpg"
   },
   "alexander-hall": {
     "name": "Alexander Hall",
@@ -127,7 +134,8 @@
   },
   "jose-gabriel-barrenechea": {
     "name": "José Gabriel Barrenechea",
-    "bio": "Científico, escritor y activista"
+    "bio": "Científico, escritor y activista",
+    "img": "/autores/jose-gabriel-barrenechea.jpg"
   },
   "oscaracso28944": {
     "name": "oscaracso28944",
@@ -138,7 +146,8 @@
   },
   "elaine-roca": {
     "name": "Elaine Roca",
-    "bio": "Graduada de Filosofía y Ciencias de la Religión. Trabaja en Instituto de Filosofía de Cuba. En La Trinchera no escribe de teoría."
+    "bio": "Graduada de Filosofía y Ciencias de la Religión. Trabaja en Instituto de Filosofía de Cuba. En La Trinchera no escribe de teoría.",
+    "img": "/autores/elaine-roca.jpg"
   },
   "varela-leyva": {
     "name": "Varela Leyva",
@@ -156,7 +165,8 @@
   },
   "antonio-gramsci": {
     "name": "Antonio Gramsci",
-    "bio": "(1831-1937) Pensador y teórico italiano"
+    "bio": "(1831-1937) Pensador y teórico italiano",
+    "img": "/autores/antonio-gramsci.jpg"
   },
   "dainerys-machado": {
     "name": "Dainerys Machado",
@@ -171,7 +181,8 @@
   },
   "yoel-rodriguez": {
     "name": "Yoel Rodríguez",
-    "bio": "Cronista al rescate del periodismo literario."
+    "bio": "Cronista al rescate del periodismo literario.",
+    "img": "/autores/yoel-rodriguez.jpg"
   },
   "ernesto-wong-garcia": {
     "name": "Ernesto Wong García",
@@ -182,7 +193,8 @@
   },
   "hamed-toledo": {
     "name": "Hamed Toledo",
-    "bio": "Anarquista y escritor. Construyendo libertad dentro de una isla..."
+    "bio": "Anarquista y escritor. Construyendo libertad dentro de una isla...",
+    "img": "/autores/hamed-toledo.jpg"
   },
   "hiram-h-castro": {
     "name": "Hiram H. Castro",
@@ -223,5 +235,17 @@
   "victoria-cabrales": {
     "name": "Victoria Cabrales",
     "bio": "Victoria Violeta Cabrales Gómez, madre, viuda, Ingeniera en Informática, chilena. Temas de interés: DDHH, desigualdad, ecología, filosofía, cine, poesía, la música de Silvio Rodríguez."
+  },
+  "ernesto-gutierrez-leyva": {
+    "name": "Ernesto Gutiérrez Leyva",
+    "img": "/autores/ernesto-gutierrez-leyva.jpg"
+  },
+  "rene-fidel-gonzalez-garcia": {
+    "name": "René Fidel González García",
+    "img": "/autores/rene-fidel-gonzalez-garcia.jpg"
+  },
+  "arturo-mesa": {
+    "name": "Arturo Mesa",
+    "img": "/autores/arturo-mesa.jpg"
   }
 }

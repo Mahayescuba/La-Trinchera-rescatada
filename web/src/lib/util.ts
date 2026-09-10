@@ -51,14 +51,37 @@ export function thumbData(src?:string, target=600):{src:string,w?:number,h?:numb
   return m ? { src:out, w:+m[1], h:+m[2] } : { src:out };
 }
 
-export const excerpt = (body:string, n=200)=>{
-  const txt=body
-    .replace(/<[^>]+>/g,' ')                        // etiquetas HTML sueltas (iframe, etc.)
-    .replace(/!\[[^\]]*\]\([^)]*\)/g,'')            // imágenes
-    .replace(/\[([^\]]*)\]\([^)]*\)/g,'$1')          // enlaces -> texto
-    .replace(/\\([.\-*_#>\[\]()`~])/g,'$1')          // quitar escapes markdown (1\. -> 1.)
-    .replace(/[#>*_`~]/g,'')                          // énfasis / encabezados
-    .replace(/^\s*\d+\.\s+/,'')                       // marcador de lista inicial
-    .replace(/\s+/g,' ').trim();
-  return txt.length>n ? txt.slice(0,n).replace(/\s+\S*$/,'')+'…' : txt;
+// Limpia un fragmento de markdown a texto plano legible.
+const stripMd = (s:string)=> (s||'')
+  .replace(/<[^>]+>/g,' ')                        // etiquetas HTML sueltas (iframe, etc.)
+  .replace(/!\[[^\]]*\]\([^)]*\)/g,'')            // imágenes
+  .replace(/\[([^\]]*)\]\([^)]*\)/g,'$1')          // enlaces -> texto
+  .replace(/\\([.\-*_#>\[\]()`~])/g,'$1')          // quitar escapes markdown (1\. -> 1.)
+  .replace(/[#>*_`~]/g,'')                          // énfasis / encabezados
+  .replace(/^\s*[-*]\s+/,'')                        // viñeta inicial
+  .replace(/^\s*\d+\.\s+/,'')                       // marcador de lista inicial
+  .replace(/\s+/g,' ').trim();
+
+const nrm = (s:string)=> (s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,'');
+
+// Resumen para tarjetas: elige el primer párrafo con prosa de verdad
+// (saltando una línea inicial que repita el título o etiquetas muy cortas)
+// y corta en un final de oración cuando cae cerca del límite.
+export const excerpt = (body:string, n=200, title='')=>{
+  const paras = (body||'').split(/\n\s*\n/);
+  const tkey = nrm(title);
+  let chosen = '';
+  for(const raw of paras){
+    const p = stripMd(raw);
+    if(!p) continue;
+    if(tkey && nrm(p) === tkey) continue;                 // línea que repite el título
+    if(p.length < 45 && paras.length > 1) continue;       // subtítulo/etiqueta suelta
+    chosen = p; break;
+  }
+  if(!chosen) chosen = stripMd(body);
+  if(chosen.length <= n) return chosen;
+  const slice = chosen.slice(0, n + 1);
+  const sent = slice.match(/^[\s\S]*[.!?…](?=\s|$)/);       // hasta el último fin de oración
+  if(sent && sent[0].length >= n * 0.55) return sent[0].trim();
+  return slice.slice(0, n).replace(/\s+\S*$/,'').trim() + '…';
 };

@@ -139,7 +139,9 @@ const crumbLd = {
     </div>
     {p.data.author && (
       <aside class="authorcard">
-        {prof.hash
+        {prof.img
+          ? <img class="ac-av ac-photo" src={prof.img} alt={p.data.author} width="64" height="64" loading="lazy" />
+          : prof.hash
           ? <img class="ac-av" src={`https://www.gravatar.com/avatar/${prof.hash}?s=160`} alt={p.data.author} width="64" height="64" loading="lazy" />
           : <span class="ac-av ac-mono" style={`background:${monoColor(p.data.author)}`}>{initials(p.data.author)}</span>}
         <div class="ac-body">

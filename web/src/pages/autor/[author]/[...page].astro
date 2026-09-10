@@ -37,7 +37,9 @@ const hasNext = page < pages;
   <section class="wrap list">
     <a class="back" href="/autores/">← Todos los autores</a>
     <header class="ah">
-      {!isAnon && (prof.hash
+      {!isAnon && (prof.img
+        ? <img class="ah-av ah-photo" src={prof.img} alt={name} width="80" height="80" loading="eager" />
+        : prof.hash
         ? <img class="ah-av" src={`https://www.gravatar.com/avatar/${prof.hash}?s=200`} alt={name} width="80" height="80" loading="eager" />
         : <span class="ah-av ah-mono" style={`background:${monoColor(name)}`}>{initials(name)}</span>)}
       <div class="ah-body">
