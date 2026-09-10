@@ -48,7 +48,7 @@ for(const [key,p] of prof){
 // viven en public/autores/ y no se derivan de los gravatares que este script lee.
 let prev={}; try{ prev=JSON.parse(fs.readFileSync('src/data/authors.json','utf8')); }catch{}
 for(const [k,v] of Object.entries(prev)){
-  if(v && v.img){ (out[k] ||= {name:v.name}).img = v.img; if(!out[k].name) out[k].name=v.name; }
+  if(v && v.img){ (out[k] ||= {name:v.name}).img = v.img; if(!out[k].name) out[k].name=v.name; if(v.imgcredit) out[k].imgcredit=v.imgcredit; }
 }
 fs.mkdirSync('src/data',{recursive:true});
 fs.writeFileSync('src/data/authors.json', JSON.stringify(out,null,2));
