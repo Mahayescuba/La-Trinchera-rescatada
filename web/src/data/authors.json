@@ -318,5 +318,25 @@
   "ernesto-gutierrez": {
     "name": "Ernesto Gutiérrez",
     "img": "/autores/ernesto-gutierrez-leyva.jpg"
+  },
+  "atilio-boron": {
+    "name": "Atilio Borón",
+    "img": "/autores/atilio-boron.jpg",
+    "imgcredit": {
+      "artist": "Montserrat Boix",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Atilio_Bor%C3%B3n.JPG",
+      "source": "Wikimedia Commons"
+    }
+  },
+  "pascual-serrano": {
+    "name": "Pascual Serrano",
+    "img": "/autores/pascual-serrano.jpg",
+    "imgcredit": {
+      "artist": "Partido Comunista de España (youtube)",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Pascual_Serrano_2015_(cropped).jpg",
+      "source": "Wikimedia Commons"
+    }
   }
 }
