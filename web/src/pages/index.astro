@@ -64,9 +64,7 @@ const azarPool = shuffle(posts.filter(p=>p.data.image)).slice(0,20)
   )}
 
   {featured && (
-    <a class={`wrap lead-hero${featImg?'':' noimg'}`} href={`/${featured.slug}/`}
-       style={featImg ? `background-image:url(${featImg.src})` : ''}>
-      <span class="lh-scrim"></span>
+    <a class="wrap lead-hero" href={`/${featured.slug}/`}>
       <div class="lh-txt">
         <span class="lh-flag">Lo último publicado</span>
         <span class="lh-cat">{fixCat(featured.data.category)}</span>
@@ -74,6 +72,7 @@ const azarPool = shuffle(posts.filter(p=>p.data.image)).slice(0,20)
         <p class="lh-dek">{excerpt(featured.body,190)}</p>
         <span class="lh-meta">{featured.data.author && `${featured.data.author} · `}{fmtDate(featured.data.date)}</span>
       </div>
+      <div class="lh-media" style={featImg ? `background-image:url(${featImg.src})` : 'background-image:linear-gradient(150deg,#8a2b2b,#3f1414)'}></div>
     </a>
   )}
 
@@ -195,19 +194,18 @@ const azarPool = shuffle(posts.filter(p=>p.data.image)).slice(0,20)
     .chip:hover .chip-n{color:var(--accent)}
     .chip-all{color:var(--accent);font-weight:600}
 
-    /* hero con imagen grande y título encima */
-    .lead-hero{position:relative;display:block;border-radius:10px;overflow:hidden;margin-bottom:2.4rem;
-      aspect-ratio:16/9;background-size:cover;background-position:50% 22%;background-color:var(--accent);color:#fff}
-    .lead-hero.noimg{background-image:linear-gradient(150deg,#8a2b2b,#3f1414)}
-    .lead-hero .lh-scrim{position:absolute;inset:0;background:linear-gradient(to top,rgba(16,7,7,.9),rgba(16,7,7,.32) 48%,rgba(16,7,7,.06))}
-    .lead-hero .lh-txt{position:absolute;left:0;right:0;bottom:0;padding:clamp(1.1rem,3.5vw,2.3rem);max-width:44rem}
-    .lh-flag{display:inline-block;font-size:.64rem;text-transform:uppercase;letter-spacing:.14em;font-weight:700;
-      color:#fff;background:var(--accent);padding:.24rem .55rem;border-radius:4px;margin-bottom:.6rem}
-    .lh-cat{display:block;font-size:.72rem;text-transform:uppercase;letter-spacing:.12em;font-weight:700;color:#f2d5c2}
-    .lead-hero h2{font-size:clamp(1.6rem,4.4vw,3rem);line-height:1.1;margin:.15em 0 .3em;color:#fff}
-    .lh-dek{color:#efe2d6;font-size:1.02rem;margin:0 0 .5rem;max-width:52ch}
-    .lh-meta{font-family:inherit;color:#e8d5c6;font-size:.82rem}
-    @media (max-width:560px){ .lead-hero{aspect-ratio:auto;min-height:70vw} }
+    /* hero partido: texto | imagen (columna alta, muestra la obra completa) */
+    .lead-hero{display:grid;grid-template-columns:1fr 1fr;align-items:stretch;margin-bottom:2.4rem;
+      background:var(--paper);border:1px solid var(--line);border-radius:10px;overflow:hidden;min-height:clamp(320px,40vw,500px)}
+    .lead-hero .lh-txt{padding:clamp(1.4rem,3vw,2.4rem);display:flex;flex-direction:column;justify-content:center}
+    .lh-flag{display:inline-block;align-self:flex-start;font-size:.64rem;text-transform:uppercase;letter-spacing:.14em;font-weight:700;
+      color:#fff;background:var(--accent);padding:.24rem .55rem;border-radius:4px;margin-bottom:.7rem}
+    .lh-cat{display:block;font-size:.72rem;text-transform:uppercase;letter-spacing:.12em;font-weight:700;color:var(--accent)}
+    .lead-hero h2{font-size:clamp(1.6rem,3.6vw,2.7rem);line-height:1.1;margin:.15em 0 .35em;color:var(--ink)}
+    .lh-dek{color:var(--muted);font-size:1.02rem;margin:0 0 .6rem;max-width:44ch}
+    .lh-meta{color:var(--muted);font-size:.82rem}
+    .lh-media{background-size:cover;background-position:50% 28%;background-color:#1a1510;min-height:280px}
+    @media (max-width:640px){ .lead-hero{grid-template-columns:1fr} .lh-media{order:-1;min-height:64vw} }
 
     /* mosaico editorial de teselas con imagen */
     .mosaic{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-rows:200px;gap:.8rem;grid-auto-flow:dense;padding-bottom:1.4rem}
