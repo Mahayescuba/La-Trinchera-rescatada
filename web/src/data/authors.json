@@ -361,5 +361,13 @@
       "source": "Cuba Próxima",
       "url": "https://cubaproxima.org/author/mauriciomiranda/"
     }
+  },
+  "monica-baro-sanchez": {
+    "name": "Mónica Baró Sánchez",
+    "img": "/autores/monica-baro-sanchez.jpg",
+    "imgcredit": {
+      "source": "Rialta",
+      "url": "https://rialta.org/la-cubana-monica-baro-gana-premiogabo/"
+    }
   }
 }
