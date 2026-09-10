@@ -31,10 +31,12 @@ const numAutores = Object.keys(authorCounts).length;
 const catCounts:Record<string,number> = {};
 for(const p of posts){ const c=fixCat(p.data.category); if(c && c!=='Sin categoría') catCounts[c]=(catCounts[c]||0)+1; }
 const temas = Object.entries(catCounts).sort((a,b)=>b[1]-a[1]).slice(0,12).map(([name,count])=>({name,count}));
-// Todas las series (con portada real de sus entregas) para la tira de la portada
+// Todas las series para la tira de la portada. Portada: imagen real de una
+// entrega o, si ninguna la tiene, portada de archivo afín (como los artículos).
 const allSeries = buildSeries(posts).all;
 const gradPairs = [['#8a2b2b','#3f1414'],['#6d4a5c','#2c1a22'],['#4f5d3a','#232a17'],['#3f5666','#1b262e'],['#7a5230','#33210f'],['#6b4f2a','#2e2210']];
-const seriesCards = allSeries.map((s,i)=>({ s, cover: s.cover ? thumbData(s.cover, 520) : null, grad: gradPairs[i % gradPairs.length], init: (s.base.trim()[0]||'·').toUpperCase() }));
+const postBySlug = new Map(posts.map((p:any)=>[p.slug,p]));
+const seriesCards = allSeries.map((s)=>({ s, cover: s.cover ? thumbData(s.cover, 520).src : pickCover(postBySlug.get(s.parts[0].slug)).file }));
 const numTemas = Object.keys(catCounts).length;
 const moreList = rest.slice(9,24);
 // "Del archivo, al azar": selección barajada (en build y en cada visita) de
@@ -171,12 +173,9 @@ const homeLd = [
         <a class="sec-all" href="/series/">Ver todas las series →</a>
       </div>
       <div class="sh-rail" id="seriesRail">
-        {seriesCards.map(({s,cover,grad,init})=> (
+        {seriesCards.map(({s,cover})=> (
           <a class="sh-card" href={`/${s.parts[0].slug}/`} data-series>
-            <span class={`sh-cover${cover?'':' noimg'}`} style={cover
-              ? `background-image:url(${cover.src})`
-              : `background-image:linear-gradient(150deg,${grad[0]},${grad[1]})`}>
-              {!cover && <span class="sh-init" aria-hidden="true">{init}</span>}
+            <span class="sh-cover" style={`background-image:url(${cover})`}>
               <span class="sh-badge">{s.parts.length} entregas</span>
             </span>
             <span class="sh-title">{s.base}</span>

@@ -3,12 +3,18 @@ import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { slugify, thumbData } from '../lib/util';
 import { buildSeries } from '../lib/series';
+import { pickCover } from '../lib/covers';
 
 const posts = await getCollection('posts');
 const { all } = buildSeries(posts);
+const postBySlug = new Map(posts.map((p:any)=>[p.slug,p]));
 const totalParts = all.reduce((s,x)=>s+x.parts.length,0);
-const gradPairs = [['#8a2b2b','#3f1414'],['#6d4a5c','#2c1a22'],['#4f5d3a','#232a17'],['#3f5666','#1b262e'],['#7a5230','#33210f'],['#6b4f2a','#2e2210']];
-const cards = all.map((s,i)=>({ s, cover: s.cover ? thumbData(s.cover, 560) : null, grad: gradPairs[i % gradPairs.length], init: (s.base.trim()[0]||'·').toUpperCase() }));
+// portada: imagen real de una entrega o, si ninguna la tiene, portada de archivo
+// afín (misma lógica que los artículos sin imagen).
+const cards = all.map((s)=>({
+  s,
+  cover: s.cover ? thumbData(s.cover, 560).src : pickCover(postBySlug.get(s.parts[0].slug)).file,
+}));
 ---
 <Base title="Series" description={`Las ${all.length} series del archivo de La Trinchera: debates y crónicas publicados por entregas.`}>
   <section class="wrap head">
@@ -17,13 +23,10 @@ const cards = all.map((s,i)=>({ s, cover: s.cover ? thumbData(s.cover, 560) : nu
     <p class="lede">{all.length} series reunidas a partir de la propia numeración de los autores: {totalParts} textos publicados por entregas. Debates que se extendieron en el tiempo y crónicas que volvían sobre lo mismo.</p>
   </section>
   <section class="wrap grid" id="seriesGrid">
-    {cards.map(({s,cover,grad,init})=> (
+    {cards.map(({s,cover})=> (
       <article class="card">
         <a class="card-top" href={`/${s.parts[0].slug}/`}>
-          <span class={`cover${cover?'':' noimg'}`} style={cover
-            ? `background-image:url(${cover.src})`
-            : `background-image:linear-gradient(150deg,${grad[0]},${grad[1]})`}>
-            {!cover && <span class="cinit" aria-hidden="true">{init}</span>}
+          <span class="cover" style={`background-image:url(${cover})`}>
             <span class="n">{s.parts.length} entregas</span>
           </span>
           <h2>{s.base}</h2>
