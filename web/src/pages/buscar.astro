@@ -1,33 +1,35 @@
 ---
 import Base from '../layouts/Base.astro';
-import { getCollection } from 'astro:content';
-import { fixCat, excerpt } from '../lib/util';
-const posts = await getCollection('posts');
-const idx = posts.map(p=>({t:p.data.title,s:p.slug,c:fixCat(p.data.category),a:p.data.author||'',e:excerpt(p.body,90)}));
 ---
 <Base title="Buscar" description="Buscar en el archivo de La Trinchera">
   <section class="wrap search">
     <h1>Buscar</h1>
-    <input id="q" type="search" aria-label="Buscar en el archivo" placeholder="Escribe un título, tema o autor…" autofocus />
+    <input id="q" type="search" aria-label="Buscar en el archivo" placeholder="Título, autor, tema o palabras del texto…" autofocus />
     <p id="count" class="count"></p>
     <ul id="res"></ul>
   </section>
-  <script type="application/json" id="data" set:html={JSON.stringify(idx)}></script>
   <script>
-    const data = JSON.parse(document.getElementById('data').textContent);
     const norm = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
     const q=document.getElementById('q'), res=document.getElementById('res'), count=document.getElementById('count');
+    let data=null, loading=null;
     function esc(s){ return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
     function render(list){
-      res.innerHTML = list.slice(0,80).map(p=>`<li><a href="/${p.s}/"><h2>${esc(p.t)}</h2><p class="rm">${p.a?esc(p.a)+' · ':''}${esc(p.c)}</p>${p.e?`<p class="re">${esc(p.e)}…</p>`:''}</a></li>`).join('');
+      res.innerHTML = list.slice(0,80).map(p=>`<li><a href="/${p.s}/"><h2>${esc(p.t)}</h2><p class="rm">${p.a?esc(p.a)+' · ':''}${esc(p.c)}</p>${p.e?`<p class="re">${esc(p.e)}</p>`:''}</a></li>`).join('');
     }
-    q.addEventListener('input',()=>{
+    function load(){
+      if(!loading) loading = fetch('/buscar-index.json').then(r=>r.json()).then(d=>{ data=d; return d; });
+      return loading;
+    }
+    function run(){
       const v=norm(q.value.trim());
       if(v.length<2){ res.innerHTML=''; count.textContent=''; return; }
-      const hits = data.filter(p=> norm(p.t).includes(v) || norm(p.a).includes(v) || norm(p.c).includes(v) || norm(p.e).includes(v));
+      if(!data){ count.textContent='Cargando…'; return; }
+      const hits = data.filter(p=> norm(p.t).includes(v) || norm(p.a).includes(v) || norm(p.c).includes(v) || p.b.includes(v));
       render(hits);
       count.textContent = hits.length ? `${hits.length} ${hits.length===1?'resultado':'resultados'}${hits.length>80?' (mostrando 80)':''}` : 'Sin resultados';
-    });
+    }
+    q.addEventListener('input', ()=>{ if(!data){ load().then(run); } run(); });
+    load();  // precargar el índice al abrir la página
   </script>
   <style>
     .search{max-width:720px;padding:2.2rem 1.2rem;min-height:60vh}
