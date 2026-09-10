@@ -385,5 +385,15 @@
       "source": "marxismo.mx",
       "url": "https://marxismo.mx/trotsky-caminara-en-cuba-entrevista-a-frank-garcia-hernadez/"
     }
+  },
+  "rolando-astarita": {
+    "name": "Rolando Astarita",
+    "img": "/autores/rolando-astarita.jpg",
+    "imgcredit": {
+      "artist": "astadiego",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Rolando_Astarita.png"
+    }
   }
 }
