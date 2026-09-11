@@ -1,23 +1,38 @@
 // Genera los recursos de marca en /public en tiempo de build:
-//  - og-default.png: tarjeta social (1200x630) para los textos sin imagen.
+//  - og-default.jpg: tarjeta social (1200x630) para los textos sin imagen.
 //  - favicon.svg + favicon-32.png + favicon-16.png + apple-touch-icon.png.
-// Se generan aquí (y no se versionan) porque *.png está en .gitignore.
+// Se generan aquí (y no se versionan) porque se regeneran en cada build (y están en .gitignore).
 import sharp from 'sharp';
 import fs from 'node:fs';
 
 fs.mkdirSync('public', { recursive: true });
 
 // ---- Tarjeta social -------------------------------------------------------
-const og = `<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="630" fill="#fbf9f5"/>
-  <rect width="1200" height="14" fill="#8a2b2b"/>
-  <rect x="90" y="150" width="70" height="6" fill="#8a2b2b"/>
-  <text x="90" y="132" font-family="Georgia,'DejaVu Serif',serif" font-size="30" letter-spacing="8" fill="#8a2b2b" font-weight="bold">ARCHIVO RESCATADO</text>
-  <text x="86" y="360" font-family="Georgia,'DejaVu Serif',serif" font-size="150" fill="#1a1714" font-weight="bold">La Trinchera</text>
-  <text x="90" y="430" font-family="Georgia,'DejaVu Serif',serif" font-size="46" fill="#6b625a" font-style="italic">muchas maneras de estar</text>
-  <text x="90" y="558" font-family="Georgia,'DejaVu Serif',serif" font-size="30" fill="#6b625a">Debate de ideas desde Cuba · 2018–2021</text>
+// Obra del archivo (duotono) de fondo + velo oscuro para legibilidad + título.
+const OG_ART = 'public/archivo-covers/436095.jpg'; // Daumier, "El vagón de tercera"
+const art = await sharp(OG_ART).resize(1200, 630, { fit: 'cover', position: 'attention' }).toBuffer();
+const overlay = `<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#14100d" stop-opacity="0.95"/>
+      <stop offset="0.52" stop-color="#14100d" stop-opacity="0.68"/>
+      <stop offset="1" stop-color="#14100d" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="gb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.45" stop-color="#14100d" stop-opacity="0"/>
+      <stop offset="1" stop-color="#14100d" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect width="1200" height="630" fill="url(#gb)"/>
+  <rect width="1200" height="12" fill="#8a2b2b"/>
+  <text x="90" y="150" font-family="Georgia,'DejaVu Serif',serif" font-size="28" letter-spacing="7" fill="#d0685f" font-weight="bold">ARCHIVO RESCATADO · 2018–2022</text>
+  <text x="86" y="360" font-family="Georgia,'DejaVu Serif',serif" font-size="150" fill="#f6efe6" font-weight="bold">La Trinchera</text>
+  <text x="90" y="428" font-family="Georgia,'DejaVu Serif',serif" font-size="46" fill="#cbbfb2" font-style="italic">muchas maneras de estar</text>
+  <text x="90" y="560" font-family="Georgia,'DejaVu Serif',serif" font-size="28" fill="#b3a99e">Debate de ideas desde Cuba</text>
+  <text x="1110" y="560" text-anchor="end" font-family="Georgia,'DejaVu Serif',serif" font-size="26" fill="#8f857b">bloglatrinchera.com</text>
 </svg>`;
-await sharp(Buffer.from(og)).png().toFile('public/og-default.png');
+await sharp(art).composite([{ input: Buffer.from(overlay) }]).jpeg({ quality: 84, mozjpeg: true }).toFile('public/og-default.jpg');
 
 // ---- Favicon / icono de la marca -----------------------------------------
 // Cuadrado vino con una "T" serif color crema: legible incluso a 16px.
@@ -33,4 +48,4 @@ await sharp(Buffer.from(icon)).resize(16, 16).png().toFile('public/favicon-16.pn
 await sharp(Buffer.from(icon)).resize(180, 180).png().toFile('public/apple-touch-icon.png');
 
 const kb = (f) => (fs.statSync('public/' + f).size / 1024).toFixed(0) + ' KB';
-console.log(`Marca generada: og-default.png (${kb('og-default.png')}), favicon.svg, favicon-32/16.png, apple-touch-icon.png`);
+console.log(`Marca generada: og-default.jpg (${kb('og-default.jpg')}), favicon.svg, favicon-32/16.png, apple-touch-icon.png`);
