@@ -47,7 +47,7 @@ const personLd = isAnon ? null : {
   ]},
 };
 ---
-<Base title={pages>1 ? `${name} (página ${page})` : name} description={`Artículos de ${name}.`}>
+<Base title={pages>1 ? `${name} (página ${page})` : name} description={`Artículos de ${name}.`} image={!isAnon && prof.img ? `/autor-og/${slugify(name)}.jpg` : undefined}>
   {personLd && <script type="application/ld+json" set:html={JSON.stringify(personLd)} />}
   <section class="wrap list">
     <a class="back" href="/autores/">← Todos los autores</a>

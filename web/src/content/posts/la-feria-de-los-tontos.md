@@ -1,7 +1,7 @@
 ---
 title: "Himno para una tercera opción"
 date: "2021-12-24T10:30:00+00:00"
-author: "Raymar Aguado Hernández"
+author: "Raymar A. Aguado Hernández"
 category: "Cultura"
 image: "/wp-content/uploads/2021/12/01.jpg"
 ---

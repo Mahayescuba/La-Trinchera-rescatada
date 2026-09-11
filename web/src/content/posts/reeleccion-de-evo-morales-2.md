@@ -1,7 +1,7 @@
 ---
 title: "Crónica de un chalecazo anunciado"
 date: "2018-12-24T05:27:52+00:00"
-author: "Ernesto Gutiérrez"
+author: "Ernesto Gutiérrez Leyva"
 category: "Política"
 image: ""
 ---

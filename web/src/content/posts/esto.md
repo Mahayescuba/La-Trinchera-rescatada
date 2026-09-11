@@ -1,7 +1,7 @@
 ---
 title: "Esto"
 date: "2021-07-24T09:30:00+00:00"
-author: "Javier Bobadilla"
+author: "Javier Alejandro Bobadilla Díaz"
 category: "Política en Cuba"
 image: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: "La autopsia de Facundo"
 date: "2020-01-09T18:03:56+00:00"
-author: "Jorge Fernánez Era"
+author: "Jorge Fernández Era"
 category: "Política en Cuba"
 image: ""
 ---

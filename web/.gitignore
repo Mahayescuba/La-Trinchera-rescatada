@@ -11,3 +11,6 @@ final-*.png
 public/favicon.svg
 .cache-orig/
 public/og-default.jpg
+
+# tarjetas sociales de autor (regeneradas en build)
+public/autor-og/

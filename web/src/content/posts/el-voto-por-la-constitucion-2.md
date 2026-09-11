@@ -1,7 +1,7 @@
 ---
 title: "Quizás, quizás, quizás…"
 date: "2019-01-10T06:27:31+00:00"
-author: "Ernesto Gutiérrez"
+author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2019/01/IMG_20190110_012552.jpg"
 ---

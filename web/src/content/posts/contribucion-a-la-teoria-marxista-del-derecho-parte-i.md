@@ -1,7 +1,7 @@
 ---
 title: "Contribución a la teoría marxista del derecho (PARTE I)"
 date: "2018-09-12T16:04:04+00:00"
-author: "Fernando Almeyda"
+author: "Fernando Almeyda Rodríguez"
 category: "Teoría"
 image: ""
 ---

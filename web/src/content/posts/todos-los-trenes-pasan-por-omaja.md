@@ -1,7 +1,7 @@
 ---
 title: "Todos los trenes pasan por Omaja"
 date: "2021-02-05T10:30:00+00:00"
-author: "César Fraga"
+author: "César Álvarez Fraga"
 category: "Cultura"
 image: ""
 ---

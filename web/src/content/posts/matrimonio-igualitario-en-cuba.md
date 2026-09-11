@@ -1,7 +1,7 @@
 ---
 title: "La salida del matrimonio igualitario"
 date: "2018-12-28T06:44:07+00:00"
-author: "Alexei Padilla"
+author: "Alexei Padilla Herrera"
 category: "Política en Cuba"
 image: ""
 ---

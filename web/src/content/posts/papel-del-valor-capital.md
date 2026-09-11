@@ -1,7 +1,7 @@
 ---
 title: "El papel del valor en “El Capital”"
 date: "2018-02-19T16:15:10+00:00"
-author: "Miguel Alejnadro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Economía Política"
 image: "/wp-content/uploads/2018/02/el-valor-en-el-capital.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Roberto"
 date: "2020-09-06T09:30:45+00:00"
-author: "Elaine Roca Aguiar"
+author: "Elaine Roca"
 category: "Onírica"
 image: ""
 ---

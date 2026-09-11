@@ -1,7 +1,7 @@
 ---
 title: "Para comprender a un Martí sin citas"
 date: "2021-04-06T09:30:00+00:00"
-author: "Raymar A. H"
+author: "Raymar A. Aguado Hernández"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2021/04/Saatchi-Art.jpg"
 ---

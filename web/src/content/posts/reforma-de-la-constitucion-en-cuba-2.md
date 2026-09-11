@@ -1,7 +1,7 @@
 ---
 title: "Cuba hoy, en la encrucijada constitucional (II)"
 date: ""
-author: "Ernesto Gutiérrez"
+author: "Ernesto Gutiérrez Leyva"
 category: ""
 image: ""
 ---

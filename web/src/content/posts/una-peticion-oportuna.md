@@ -1,7 +1,7 @@
 ---
 title: "Una petición oportuna"
 date: "2019-01-15T05:23:40+00:00"
-author: "Iramís Rosique Cárdenas"
+author: "Iramís Rosique"
 category: "Política en Cuba"
 image: ""
 ---
