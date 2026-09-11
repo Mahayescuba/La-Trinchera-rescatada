@@ -1,7 +1,7 @@
 ---
 title: "Sobre la cuestión del valor del arte"
 date: "2019-03-26T05:34:41+00:00"
-author: "Iramís Rosique Cárdenas"
+author: "Iramís Rosique"
 category: "Marxismo"
 image: ""
 ---

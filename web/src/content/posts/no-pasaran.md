@@ -1,7 +1,7 @@
 ---
 title: "¡No pasarán!"
 date: "2021-07-14T16:00:55+00:00"
-author: "Fernando Almeyda"
+author: "Fernando Almeyda Rodríguez"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2021/07/Matteo-Pugliese.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Una breve respuesta: Yankee go home"
 date: "2018-02-02T20:14:13+00:00"
-author: "Miguel Alejnadro Hayes Martínez"
+author: "Miguel Alejandro Hayes"
 category: "Política en Cuba"
 image: ""
 ---

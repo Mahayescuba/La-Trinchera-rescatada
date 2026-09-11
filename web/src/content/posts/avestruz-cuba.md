@@ -1,7 +1,7 @@
 ---
 title: "El avestruz"
 date: "2019-04-28T19:32:12+00:00"
-author: "Hiram Hernández Castro"
+author: "Hiram H. Castro"
 category: "Opinión"
 image: ""
 ---

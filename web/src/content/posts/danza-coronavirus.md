@@ -1,7 +1,7 @@
 ---
 title: "Soy biobomba resistiendo a la ocupación de mi cuerpo por el enemigo*"
 date: "2020-04-13T18:49:42+00:00"
-author: "Lázaro Benítez"
+author: "Lázaro Benítez Díaz"
 category: "Cultura"
 image: ""
 ---

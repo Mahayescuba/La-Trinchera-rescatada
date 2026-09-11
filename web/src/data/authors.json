@@ -19,8 +19,8 @@
     "bio": "Comunicador de la iglesia católica.",
     "img": "/autores/julio-pernus.jpg"
   },
-  "daniloeuser": {
-    "name": "daniloeuser",
+  "danilo-euser": {
+    "name": "Danilo Euser",
     "links": [
       "mailto:daniloeuser7@gmail.com"
     ]
@@ -92,8 +92,8 @@
       "mailto:albertops70@gmail.com"
     ]
   },
-  "sergio-acosta": {
-    "name": "Sergio Acosta",
+  "sergio-acosta-pena": {
+    "name": "Sergio Acosta Peña",
     "bio": "Soy un periodista cubano de nacimiento y aprendiz de la vida"
   },
   "alina-barbara-lopez-hernandez": {
@@ -125,8 +125,8 @@
     ],
     "img": "/autores/giordan-rodriguez-milanes.jpg"
   },
-  "alexander-hall": {
-    "name": "Alexander Hall",
+  "alexander-hall-lujardo": {
+    "name": "Alexander Hall Lujardo",
     "bio": "Estudiante de Historia y activista afrodescendiente de ideas socialistas."
   },
   "arturo-lopez-levy": {
@@ -165,7 +165,7 @@
     ]
   },
   "maria-del-pilar-diaz-castanon": {
-    "name": "María del Pilar Díaz Castañon",
+    "name": "María del Pilar Díaz Castañón",
     "bio": "Profesora y investigadora"
   },
   "antonio-gramsci": {
@@ -240,8 +240,8 @@
     "name": "José Carlos",
     "bio": "Profesor de Historia"
   },
-  "jose-a-garcia-veloso": {
-    "name": "José A. García Veloso",
+  "jose-angel-garcia-veloso": {
+    "name": "José Angel García Veloso",
     "bio": "Abogado"
   },
   "victoria-cabrales": {
@@ -319,10 +319,6 @@
       "url": "https://commons.wikimedia.org/wiki/File:Ra%C3%BAl_Zibechi.jpg",
       "source": "Wikimedia Commons"
     }
-  },
-  "ernesto-gutierrez": {
-    "name": "Ernesto Gutiérrez",
-    "img": "/autores/ernesto-gutierrez-leyva.jpg"
   },
   "atilio-boron": {
     "name": "Atilio Borón",

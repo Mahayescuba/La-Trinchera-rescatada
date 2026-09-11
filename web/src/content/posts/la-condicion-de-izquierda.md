@@ -1,7 +1,7 @@
 ---
 title: "La Condición Izquierdista"
 date: "2019-01-08T06:21:18+00:00"
-author: "Fernando A. Rodríguez"
+author: "Fernando Almeyda Rodríguez"
 category: "Política"
 image: ""
 ---

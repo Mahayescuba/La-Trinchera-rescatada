@@ -1,7 +1,7 @@
 ---
 title: "José Martí, luz y numen"
 date: "2021-04-26T09:30:00+00:00"
-author: "Raymar A. H"
+author: "Raymar A. Aguado Hernández"
 category: "Política en Cuba"
 image: "/wp-content/uploads/2021/04/Etsy.jpg"
 ---

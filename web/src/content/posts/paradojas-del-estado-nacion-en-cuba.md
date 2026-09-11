@@ -1,7 +1,7 @@
 ---
 title: "Paradojas del Estado-Nación en Cuba"
 date: "2020-02-29T15:04:01+00:00"
-author: "María Pilar Díaz Castañón"
+author: "María del Pilar Díaz Castañón"
 category: "Política en Cuba"
 image: ""
 ---

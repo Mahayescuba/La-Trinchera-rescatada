@@ -1,7 +1,7 @@
 ---
 title: "Revisitando el Steampunk"
 date: "2020-03-13T04:50:12+00:00"
-author: "Fernando Almeyda"
+author: "Fernando Almeyda Rodríguez"
 category: "Teoría"
 image: ""
 ---

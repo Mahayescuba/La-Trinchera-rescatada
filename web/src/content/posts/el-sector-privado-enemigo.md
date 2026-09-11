@@ -1,7 +1,7 @@
 ---
 title: "El sector privado, ¿enemigo?"
 date: "2018-06-22T11:08:37+00:00"
-author: "Oniel Díaz"
+author: "Oniel Díaz Castellanos"
 category: "Política en Cuba"
 image: ""
 ---

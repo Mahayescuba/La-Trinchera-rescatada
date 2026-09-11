@@ -1,7 +1,7 @@
 ---
 title: "Juguetes de mármol"
 date: "2019-05-03T05:51:53+00:00"
-author: "César Fraga"
+author: "César Álvarez Fraga"
 category: "Onírica"
 image: ""
 ---

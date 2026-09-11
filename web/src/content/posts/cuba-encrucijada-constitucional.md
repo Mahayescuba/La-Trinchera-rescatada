@@ -1,7 +1,7 @@
 ---
 title: "Cuba hoy, en la encrucijada constitucional (III)"
 date: "2018-12-11T08:12:48+00:00"
-author: "Ernesto Gutiérrez"
+author: "Ernesto Gutiérrez Leyva"
 category: "Política en Cuba"
 image: ""
 ---
